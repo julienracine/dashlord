@@ -1,49 +1,18 @@
 {
   "trackers": [],
-  "cookies": [
-    {
-      "name": "__Secure-next-auth.callback-url",
-      "value": "https%3A%2F%2Fplusfraichemaville.fr%2Fespace-projet%2Fcreation-projet",
-      "domain": "plusfraichemaville.fr",
-      "path": "/",
-      "expires": -1,
-      "size": 100,
-      "httpOnly": true,
-      "secure": true,
-      "session": true,
-      "sameSite": "Lax",
-      "sameParty": false,
-      "sourceScheme": "Secure",
-      "sourcePort": 443
-    },
-    {
-      "name": "__Host-next-auth.csrf-token",
-      "value": "157770173e1d8ee7d83ad43684d96477b8a91ecdd723b17f8d347f487fe3f775%7Cc41b7e254daeddf1d8a8a80a386cbfd6da38c1e0249de9720013453d3d2c378c",
-      "domain": "plusfraichemaville.fr",
-      "path": "/",
-      "expires": -1,
-      "size": 158,
-      "httpOnly": true,
-      "secure": true,
-      "session": true,
-      "sameSite": "Lax",
-      "sameParty": false,
-      "sourceScheme": "Secure",
-      "sourcePort": 443
-    }
-  ],
+  "cookies": [],
   "headers": {
     "cache-control": "private, no-cache, no-store, max-age=0, must-revalidate",
     "content-encoding": "gzip",
-    "content-security-policy": "default-src 'self'; script-src 'self' https://stats.beta.gouv.fr 'nonce-M2ZkNTQ1ODItYWIyNC00MjQ3LTgzZGYtOThiMTQyOWIxZGEx' 'strict-dynamic' ; style-src 'self' 'unsafe-inline'; img-src 'self' blob: data: https://plusfraichemaville.s3.fr-par.scw.cloud/ ; font-src 'self'; object-src 'none'; base-uri 'self'; form-action 'self'; frame-src https://c33e446d.sibforms.com https://stats.plusfraichemaville.fr; frame-ancestors 'none'; upgrade-insecure-requests; connect-src 'self' https://sentry.incubateur.net/ https://stats.beta.gouv.fr/matomo.php https://api-adresse.data.gouv.fr/search/ ;",
+    "content-security-policy": "default-src 'self'; script-src 'self' https://stats.beta.gouv.fr 'nonce-ZDRkODY0NTQtMjgxNS00MDM2LWJiNjctZTI3NzIwOGY5OGYy' 'strict-dynamic' ; style-src 'self' 'unsafe-inline'; img-src 'self' blob: data: https://plusfraichemaville.s3.fr-par.scw.cloud/ ; font-src 'self'; object-src 'none'; base-uri 'self'; form-action 'self'; frame-src https://c33e446d.sibforms.com https://stats.plusfraichemaville.fr; frame-ancestors 'none'; upgrade-insecure-requests; connect-src 'self' https://sentry.incubateur.net/ https://stats.beta.gouv.fr/matomo.php https://api-adresse.data.gouv.fr/search/ ;",
     "content-type": "text/html; charset=utf-8",
-    "date": "Sun, 09 Jun 2024 05:12:40 GMT",
+    "date": "Sun, 16 Jun 2024 05:00:16 GMT",
     "strict-transport-security": "max-age=31536000",
     "vary": "RSC, Next-Router-State-Tree, Next-Router-Prefetch, Next-Url, Accept-Encoding",
     "x-content-type-options": "nosniff",
     "x-frame-options": "DENY",
     "x-powered-by": "Next.js",
-    "x-request-id": "c0172a57-8e34-460e-9c9f-ae9aa92fb5fd"
+    "x-request-id": "a443e6d8-4033-413a-9738-63f79276ecd1"
   },
   "endpoints": [
     {
