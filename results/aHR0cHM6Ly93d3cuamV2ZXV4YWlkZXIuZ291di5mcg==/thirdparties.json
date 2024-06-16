@@ -2,7 +2,11 @@
   "trackers": [
     {
       "type": "unknown",
-      "url": "https://jeveuxaider.fra1.digitaloceanspaces.com/public/production/35545/responsive/N1eQNdmYjhYWFJt69XxtuHek9CoV2f___card_600_286.webp"
+      "url": "https://jeveuxaider.fra1.digitaloceanspaces.com/public/production/57702/responsive/Zvv3RQEC0J2Ps31iFSLFj9FsYzIN6W___card_600_286.webp"
+    },
+    {
+      "type": "unknown",
+      "url": "https://jeveuxaider.fra1.digitaloceanspaces.com/public/production/12174/responsive/memoire-et-citoyennete-1___card_600_286.webp"
     },
     {
       "type": "unknown",
@@ -11,6 +15,10 @@
     {
       "type": "unknown",
       "url": "https://jeveuxaider.fra1.digitaloceanspaces.com/public/production/8498/responsive/kL3U82CKaXASTcL___card_600_286.webp"
+    },
+    {
+      "type": "unknown",
+      "url": "https://jeveuxaider.fra1.digitaloceanspaces.com/public/production/35545/responsive/N1eQNdmYjhYWFJt69XxtuHek9CoV2f___card_600_286.webp"
     },
     {
       "type": "unknown",
@@ -26,7 +34,11 @@
     },
     {
       "type": "unknown",
-      "url": "https://jeveuxaider.fra1.digitaloceanspaces.com/public/production/8475/responsive/a26fP7ibvc7fB1r___card_600_286.webp"
+      "url": "https://jeveuxaider.fra1.digitaloceanspaces.com/public/production/12146/responsive/art-et-culture-pour-tous-6___card_600_286.webp"
+    },
+    {
+      "type": "unknown",
+      "url": "https://jeveuxaider.fra1.digitaloceanspaces.com/public/production/12177/responsive/education-pour-tous-1___card_600_286.webp"
     },
     {
       "type": "google tag manager",
@@ -62,6 +74,18 @@
     },
     {
       "type": "unknown",
+      "url": "https://gqlg3qh7po-dsn.algolia.net/1/indexes/prod_scalingo_covid_missions/query?x-algolia-agent=Algolia%20for%20JavaScript%20(4.20.0)%3B%20Browser"
+    },
+    {
+      "type": "unknown",
+      "url": "https://gqlg3qh7po-dsn.algolia.net/1/indexes/prod_scalingo_covid_missions/query?x-algolia-agent=Algolia%20for%20JavaScript%20(4.20.0)%3B%20Browser"
+    },
+    {
+      "type": "unknown",
+      "url": "https://jeveuxaider.fra1.digitaloceanspaces.com/public/production/8475/responsive/a26fP7ibvc7fB1r___card_600_286.webp"
+    },
+    {
+      "type": "unknown",
       "url": "https://jeveuxaider.fra1.digitaloceanspaces.com/public/production/12184/responsive/education-pour-tous-8___card_600_286.webp"
     },
     {
@@ -85,17 +109,17 @@
   "headers": {
     "cache-control": "max-age=300\npublic, no-transform",
     "cf-cache-status": "DYNAMIC",
-    "cf-ray": "890f165328d567fe-SJC",
+    "cf-ray": "8948b50aad841140-ORD",
     "content-encoding": "br",
-    "content-length": "47818",
+    "content-length": "49081",
     "content-type": "text/html;charset=utf-8",
-    "date": "Sun, 09 Jun 2024 06:32:56 GMT",
-    "expires": "Sun, 09 Jun 2024 06:37:56 GMT",
+    "date": "Sun, 16 Jun 2024 06:22:45 GMT",
+    "expires": "Sun, 16 Jun 2024 06:27:45 GMT",
     "server": "cloudflare",
     "strict-transport-security": "max-age=31536000",
     "vary": "Accept-Encoding",
     "x-powered-by": "Nuxt",
-    "x-request-id": "744e1cf6-d3b9-4102-bd18-ffedc66f7d16\n744e1cf6-d3b9-4102-bd18-ffedc66f7d16"
+    "x-request-id": "c69a64e7-5b32-40e9-8b26-889a66e642ef\nc69a64e7-5b32-40e9-8b26-889a66e642ef"
   },
   "endpoints": [
     {
@@ -207,7 +231,7 @@
     },
     {
       "hostname": "www.googletagmanager.com",
-      "ip": "142.250.191.72",
+      "ip": "142.250.190.8",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -317,18 +341,19 @@
     },
     {
       "hostname": "plausible.io",
-      "ip": "169.150.221.147",
+      "ip": "169.150.236.100",
       "geoip": {
         "city": {
-          "geoname_id": 5392171,
+          "geoname_id": 4887398,
           "names": {
-            "de": "San José",
-            "en": "San Jose",
-            "es": "San José",
-            "fr": "San José",
-            "ja": "サンノゼ",
-            "pt-BR": "San José",
-            "ru": "Сан-Хосе"
+            "de": "Chicago",
+            "en": "Chicago",
+            "es": "Chicago",
+            "fr": "Chicago",
+            "ja": "シカゴ",
+            "pt-BR": "Chicago",
+            "ru": "Чикаго",
+            "zh-CN": "芝加哥"
           }
         },
         "continent": {
@@ -361,13 +386,13 @@
         },
         "location": {
           "accuracy_radius": 20,
-          "latitude": 37.1835,
-          "longitude": -121.7714,
-          "metro_code": 807,
-          "time_zone": "America/Los_Angeles"
+          "latitude": 41.8874,
+          "longitude": -87.6318,
+          "metro_code": 602,
+          "time_zone": "America/Chicago"
         },
         "postal": {
-          "code": "95141"
+          "code": "60602"
         },
         "registered_country": {
           "geoname_id": 2635167,
@@ -385,17 +410,17 @@
         },
         "subdivisions": [
           {
-            "geoname_id": 5332921,
-            "iso_code": "CA",
+            "geoname_id": 4896861,
+            "iso_code": "IL",
             "names": {
-              "de": "Kalifornien",
-              "en": "California",
-              "es": "California",
-              "fr": "Californie",
-              "ja": "カリフォルニア州",
-              "pt-BR": "Califórnia",
-              "ru": "Калифорния",
-              "zh-CN": "加州"
+              "de": "Illinois",
+              "en": "Illinois",
+              "es": "Illinois",
+              "fr": "Illinois",
+              "ja": "イリノイ州",
+              "pt-BR": "Ilinóis",
+              "ru": "Иллинойс",
+              "zh-CN": "伊利诺伊州"
             }
           }
         ]
@@ -403,7 +428,7 @@
     },
     {
       "hostname": "static.axept.io",
-      "ip": "13.227.74.63",
+      "ip": "18.160.225.30",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -457,7 +482,7 @@
     },
     {
       "hostname": "client.axept.io",
-      "ip": "13.35.122.92",
+      "ip": "18.64.183.52",
       "geoip": {
         "continent": {
           "code": "NA",
