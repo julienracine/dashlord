@@ -82,7 +82,7 @@
     },
     {
       "type": "vimeo",
-      "url": "https://f.vimeocdn.com/p/4.33.14/js/player.module.js",
+      "url": "https://f.vimeocdn.com/p/4.33.20/js/player.module.js",
       "details": {
         "id": "vimeo",
         "message": "use peertube"
@@ -90,7 +90,7 @@
     },
     {
       "type": "vimeo",
-      "url": "https://f.vimeocdn.com/p/4.33.14/js/vendor.module.js",
+      "url": "https://f.vimeocdn.com/p/4.33.20/js/vendor.module.js",
       "details": {
         "id": "vimeo",
         "message": "use peertube"
@@ -98,127 +98,7 @@
     },
     {
       "type": "vimeo",
-      "url": "https://f.vimeocdn.com/p/4.33.14/css/player.css",
-      "details": {
-        "id": "vimeo",
-        "message": "use peertube"
-      }
-    },
-    {
-      "type": "vimeo",
-      "url": "https://f.vimeocdn.com/p/4.33.14/js/player.module.js",
-      "details": {
-        "id": "vimeo",
-        "message": "use peertube"
-      }
-    },
-    {
-      "type": "vimeo",
-      "url": "https://f.vimeocdn.com/p/4.33.14/js/vendor.module.js",
-      "details": {
-        "id": "vimeo",
-        "message": "use peertube"
-      }
-    },
-    {
-      "type": "vimeo",
-      "url": "https://f.vimeocdn.com/p/4.33.14/css/player.css",
-      "details": {
-        "id": "vimeo",
-        "message": "use peertube"
-      }
-    },
-    {
-      "type": "vimeo",
-      "url": "https://f.vimeocdn.com/p/4.33.14/js/player.module.js",
-      "details": {
-        "id": "vimeo",
-        "message": "use peertube"
-      }
-    },
-    {
-      "type": "vimeo",
-      "url": "https://f.vimeocdn.com/p/4.33.14/js/vendor.module.js",
-      "details": {
-        "id": "vimeo",
-        "message": "use peertube"
-      }
-    },
-    {
-      "type": "vimeo",
-      "url": "https://f.vimeocdn.com/p/4.33.14/js/player.module.js",
-      "details": {
-        "id": "vimeo",
-        "message": "use peertube"
-      }
-    },
-    {
-      "type": "vimeo",
-      "url": "https://f.vimeocdn.com/p/4.33.14/css/player.css",
-      "details": {
-        "id": "vimeo",
-        "message": "use peertube"
-      }
-    },
-    {
-      "type": "vimeo",
-      "url": "https://f.vimeocdn.com/p/4.33.14/js/vendor.module.js",
-      "details": {
-        "id": "vimeo",
-        "message": "use peertube"
-      }
-    },
-    {
-      "type": "vimeo",
-      "url": "https://f.vimeocdn.com/p/4.33.14/css/player.css",
-      "details": {
-        "id": "vimeo",
-        "message": "use peertube"
-      }
-    },
-    {
-      "type": "vimeo",
-      "url": "https://f.vimeocdn.com/p/4.33.14/js/player.module.js",
-      "details": {
-        "id": "vimeo",
-        "message": "use peertube"
-      }
-    },
-    {
-      "type": "vimeo",
-      "url": "https://f.vimeocdn.com/p/4.33.14/js/vendor.module.js",
-      "details": {
-        "id": "vimeo",
-        "message": "use peertube"
-      }
-    },
-    {
-      "type": "vimeo",
-      "url": "https://i.vimeocdn.com/video/1737343335-e617f3ad7ffd84a65c49f8e86782915337fbfda10f639bfa0d3d9945d69dfbd1-d?mw=80&q=85",
-      "details": {
-        "id": "vimeo",
-        "message": "use peertube"
-      }
-    },
-    {
-      "type": "vimeo",
-      "url": "https://f.vimeocdn.com/p/4.33.14/css/player.css",
-      "details": {
-        "id": "vimeo",
-        "message": "use peertube"
-      }
-    },
-    {
-      "type": "vimeo",
-      "url": "https://f.vimeocdn.com/p/4.33.14/js/player.module.js",
-      "details": {
-        "id": "vimeo",
-        "message": "use peertube"
-      }
-    },
-    {
-      "type": "vimeo",
-      "url": "https://f.vimeocdn.com/p/4.33.14/js/vendor.module.js",
+      "url": "https://f.vimeocdn.com/p/4.33.20/css/player.css",
       "details": {
         "id": "vimeo",
         "message": "use peertube"
@@ -233,8 +113,104 @@
       }
     },
     {
+      "type": "crisp",
+      "url": "https://client.crisp.chat/static/javascripts/client.js?3654117",
+      "details": {
+        "id": "crisp",
+        "message": "Ensure your TOS notify the CRISP usage"
+      }
+    },
+    {
+      "type": "crisp",
+      "url": "https://client.crisp.chat/static/stylesheets/client_legacy.css?3654117",
+      "details": {
+        "id": "crisp",
+        "message": "Ensure your TOS notify the CRISP usage"
+      }
+    },
+    {
       "type": "vimeo",
-      "url": "https://f.vimeocdn.com/p/4.33.14/css/player.css",
+      "url": "https://f.vimeocdn.com/p/4.33.20/js/player.module.js",
+      "details": {
+        "id": "vimeo",
+        "message": "use peertube"
+      }
+    },
+    {
+      "type": "vimeo",
+      "url": "https://f.vimeocdn.com/p/4.33.20/js/vendor.module.js",
+      "details": {
+        "id": "vimeo",
+        "message": "use peertube"
+      }
+    },
+    {
+      "type": "vimeo",
+      "url": "https://f.vimeocdn.com/p/4.33.20/css/player.css",
+      "details": {
+        "id": "vimeo",
+        "message": "use peertube"
+      }
+    },
+    {
+      "type": "vimeo",
+      "url": "https://i.vimeocdn.com/video/1737350279-6e01140a7393ab77b818eef15ac9dec17c304542a8158665786ad970469b0ef0-d?mw=80&q=85",
+      "details": {
+        "id": "vimeo",
+        "message": "use peertube"
+      }
+    },
+    {
+      "type": "vimeo",
+      "url": "https://f.vimeocdn.com/p/4.33.20/js/player.module.js",
+      "details": {
+        "id": "vimeo",
+        "message": "use peertube"
+      }
+    },
+    {
+      "type": "vimeo",
+      "url": "https://f.vimeocdn.com/p/4.33.20/js/vendor.module.js",
+      "details": {
+        "id": "vimeo",
+        "message": "use peertube"
+      }
+    },
+    {
+      "type": "vimeo",
+      "url": "https://f.vimeocdn.com/p/4.33.20/js/player.module.js",
+      "details": {
+        "id": "vimeo",
+        "message": "use peertube"
+      }
+    },
+    {
+      "type": "vimeo",
+      "url": "https://f.vimeocdn.com/p/4.33.20/js/vendor.module.js",
+      "details": {
+        "id": "vimeo",
+        "message": "use peertube"
+      }
+    },
+    {
+      "type": "vimeo",
+      "url": "https://i.vimeocdn.com/video/1737349163-45b1f020d410d716ae420f19fa7855bf93e0cecef8ac56b609b908ad7e822a23-d?mw=80&q=85",
+      "details": {
+        "id": "vimeo",
+        "message": "use peertube"
+      }
+    },
+    {
+      "type": "vimeo",
+      "url": "https://f.vimeocdn.com/p/4.33.20/js/player.module.js",
+      "details": {
+        "id": "vimeo",
+        "message": "use peertube"
+      }
+    },
+    {
+      "type": "vimeo",
+      "url": "https://f.vimeocdn.com/p/4.33.20/js/vendor.module.js",
       "details": {
         "id": "vimeo",
         "message": "use peertube"
@@ -258,7 +234,7 @@
     },
     {
       "type": "vimeo",
-      "url": "https://i.vimeocdn.com/video/1737349163-45b1f020d410d716ae420f19fa7855bf93e0cecef8ac56b609b908ad7e822a23-d?mw=80&q=85",
+      "url": "https://f.vimeocdn.com/p/4.33.20/js/player.module.js",
       "details": {
         "id": "vimeo",
         "message": "use peertube"
@@ -266,79 +242,7 @@
     },
     {
       "type": "vimeo",
-      "url": "https://i.vimeocdn.com/video/1737350279-6e01140a7393ab77b818eef15ac9dec17c304542a8158665786ad970469b0ef0-d?mw=80&q=85",
-      "details": {
-        "id": "vimeo",
-        "message": "use peertube"
-      }
-    },
-    {
-      "type": "crisp",
-      "url": "https://client.crisp.chat/static/javascripts/client.js?4f65820",
-      "details": {
-        "id": "crisp",
-        "message": "Ensure your TOS notify the CRISP usage"
-      }
-    },
-    {
-      "type": "crisp",
-      "url": "https://client.crisp.chat/static/stylesheets/client_legacy.css?4f65820",
-      "details": {
-        "id": "crisp",
-        "message": "Ensure your TOS notify the CRISP usage"
-      }
-    },
-    {
-      "type": "vimeo",
-      "url": "https://f.vimeocdn.com/p/4.33.14/js/player.module.js",
-      "details": {
-        "id": "vimeo",
-        "message": "use peertube"
-      }
-    },
-    {
-      "type": "vimeo",
-      "url": "https://f.vimeocdn.com/p/4.33.14/js/vendor.module.js",
-      "details": {
-        "id": "vimeo",
-        "message": "use peertube"
-      }
-    },
-    {
-      "type": "vimeo",
-      "url": "https://f.vimeocdn.com/p/4.33.14/css/player.css",
-      "details": {
-        "id": "vimeo",
-        "message": "use peertube"
-      }
-    },
-    {
-      "type": "vimeo",
-      "url": "https://i.vimeocdn.com/video/1737349912-16d3ffad0ff4cd5e46c6be5ad1c98e19196450202c75f3f448f5e51038238ba8-d?mw=80&q=85",
-      "details": {
-        "id": "vimeo",
-        "message": "use peertube"
-      }
-    },
-    {
-      "type": "vimeo",
-      "url": "https://f.vimeocdn.com/js_opt/modules/utils/vuid.min.js",
-      "details": {
-        "id": "vimeo",
-        "message": "use peertube"
-      }
-    },
-    {
-      "type": "vimeo",
-      "url": "https://i.vimeocdn.com/video/1737343335-e617f3ad7ffd84a65c49f8e86782915337fbfda10f639bfa0d3d9945d69dfbd1-d?mw=320&mh=320",
-      "details": {
-        "id": "vimeo",
-        "message": "use peertube"
-      }
-    },
-    {
-      "type": "vimeo",
-      "url": "https://fresnel.vimeocdn.com/add/player-stats?beacon=1&session-id=101d96ce58bfc366398b64ceeb213574220bb7661717905984",
+      "url": "https://f.vimeocdn.com/p/4.33.20/js/vendor.module.js",
       "details": {
         "id": "vimeo",
         "message": "use peertube"
@@ -362,79 +266,23 @@
     },
     {
       "type": "vimeo",
-      "url": "https://fresnel.vimeocdn.com/add/player-stats?beacon=1&session-id=93facaef2e2e9b02a63fed5ec107962e18f2ccf11717905984",
+      "url": "https://fresnel.vimeocdn.com/add/player-stats?beacon=1&session-id=108beb6391cf08b95877c3c423f0ea8a5b5bfb9a1718510669",
       "details": {
         "id": "vimeo",
         "message": "use peertube"
       }
     },
     {
-      "type": "vimeo",
-      "url": "https://f.vimeocdn.com/js_opt/modules/utils/vuid.min.js",
+      "type": "crisp",
+      "url": "https://client.crisp.chat/settings/website/e433738e-c2a9-4490-b31b-cb03aa080be9/prelude/?callback=window.%24__CRISP_INSTANCE.__spool.website_handler&2024-5-16-4-4",
       "details": {
-        "id": "vimeo",
-        "message": "use peertube"
+        "id": "crisp",
+        "message": "Ensure your TOS notify the CRISP usage"
       }
     },
     {
       "type": "vimeo",
-      "url": "https://i.vimeocdn.com/video/1737349532-0af48b58dcb35a6450481d73bbb7e921cc6fcc43286697e25c89e5edbe9176a1-d?mw=400&mh=393",
-      "details": {
-        "id": "vimeo",
-        "message": "use peertube"
-      }
-    },
-    {
-      "type": "vimeo",
-      "url": "https://fresnel.vimeocdn.com/add/player-stats?beacon=1&session-id=24abdc546583eb1ac59448a4bbed289ca29cd3cc1717905984",
-      "details": {
-        "id": "vimeo",
-        "message": "use peertube"
-      }
-    },
-    {
-      "type": "vimeo",
-      "url": "https://f.vimeocdn.com/js_opt/modules/utils/vuid.min.js",
-      "details": {
-        "id": "vimeo",
-        "message": "use peertube"
-      }
-    },
-    {
-      "type": "vimeo",
-      "url": "https://i.vimeocdn.com/video/1737351156-805f8c946e43d69f73f3ad782f68fa953d125268f3cb006162bef1d5dd879517-d?mw=400&mh=393",
-      "details": {
-        "id": "vimeo",
-        "message": "use peertube"
-      }
-    },
-    {
-      "type": "vimeo",
-      "url": "https://fresnel.vimeocdn.com/add/player-stats?beacon=1&session-id=7ca686e949d76d32924dcb306783fae467b129441717905984",
-      "details": {
-        "id": "vimeo",
-        "message": "use peertube"
-      }
-    },
-    {
-      "type": "vimeo",
-      "url": "https://f.vimeocdn.com/js_opt/modules/utils/vuid.min.js",
-      "details": {
-        "id": "vimeo",
-        "message": "use peertube"
-      }
-    },
-    {
-      "type": "vimeo",
-      "url": "https://i.vimeocdn.com/video/1737349163-45b1f020d410d716ae420f19fa7855bf93e0cecef8ac56b609b908ad7e822a23-d?mw=400&mh=393",
-      "details": {
-        "id": "vimeo",
-        "message": "use peertube"
-      }
-    },
-    {
-      "type": "vimeo",
-      "url": "https://fresnel.vimeocdn.com/add/player-stats?beacon=1&session-id=fbac7d8c5dc48004e9ab6e28534928fd4a80df311717905984",
+      "url": "https://i.vimeocdn.com/video/1737343335-e617f3ad7ffd84a65c49f8e86782915337fbfda10f639bfa0d3d9945d69dfbd1-d?mw=80&q=85",
       "details": {
         "id": "vimeo",
         "message": "use peertube"
@@ -458,7 +306,31 @@
     },
     {
       "type": "vimeo",
-      "url": "https://fresnel.vimeocdn.com/add/player-stats?beacon=1&session-id=dfe7773fcdc686a3187411040279bbf6547be9e11717905984",
+      "url": "https://fresnel.vimeocdn.com/add/player-stats?beacon=1&session-id=c937b954efe653e095a7c5cb370495ec4c0af2141718510669",
+      "details": {
+        "id": "vimeo",
+        "message": "use peertube"
+      }
+    },
+    {
+      "type": "vimeo",
+      "url": "https://f.vimeocdn.com/p/4.33.20/js/player.module.js",
+      "details": {
+        "id": "vimeo",
+        "message": "use peertube"
+      }
+    },
+    {
+      "type": "vimeo",
+      "url": "https://f.vimeocdn.com/p/4.33.20/js/vendor.module.js",
+      "details": {
+        "id": "vimeo",
+        "message": "use peertube"
+      }
+    },
+    {
+      "type": "vimeo",
+      "url": "https://i.vimeocdn.com/video/1737349912-16d3ffad0ff4cd5e46c6be5ad1c98e19196450202c75f3f448f5e51038238ba8-d?mw=80&q=85",
       "details": {
         "id": "vimeo",
         "message": "use peertube"
@@ -474,6 +346,98 @@
     },
     {
       "type": "vimeo",
+      "url": "https://i.vimeocdn.com/video/1737349163-45b1f020d410d716ae420f19fa7855bf93e0cecef8ac56b609b908ad7e822a23-d?mw=400&mh=393",
+      "details": {
+        "id": "vimeo",
+        "message": "use peertube"
+      }
+    },
+    {
+      "type": "vimeo",
+      "url": "https://fresnel.vimeocdn.com/add/player-stats?beacon=1&session-id=0e9acf180ad54f7ac84fa06725c8b370803c8f691718510669",
+      "details": {
+        "id": "vimeo",
+        "message": "use peertube"
+      }
+    },
+    {
+      "type": "unknown",
+      "url": "https://vimeo.com/ablincoln/vuid?pid=108beb6391cf08b95877c3c423f0ea8a5b5bfb9a1718510669"
+    },
+    {
+      "type": "vimeo",
+      "url": "https://f.vimeocdn.com/js_opt/modules/utils/vuid.min.js",
+      "details": {
+        "id": "vimeo",
+        "message": "use peertube"
+      }
+    },
+    {
+      "type": "vimeo",
+      "url": "https://i.vimeocdn.com/video/1737349532-0af48b58dcb35a6450481d73bbb7e921cc6fcc43286697e25c89e5edbe9176a1-d?mw=400&mh=393",
+      "details": {
+        "id": "vimeo",
+        "message": "use peertube"
+      }
+    },
+    {
+      "type": "vimeo",
+      "url": "https://fresnel.vimeocdn.com/add/player-stats?beacon=1&session-id=d5ae44b4864935749dee395322dd812e1838d8cb1718510669",
+      "details": {
+        "id": "vimeo",
+        "message": "use peertube"
+      }
+    },
+    {
+      "type": "vimeo",
+      "url": "https://f.vimeocdn.com/js_opt/modules/utils/vuid.min.js",
+      "details": {
+        "id": "vimeo",
+        "message": "use peertube"
+      }
+    },
+    {
+      "type": "vimeo",
+      "url": "https://i.vimeocdn.com/video/1737343335-e617f3ad7ffd84a65c49f8e86782915337fbfda10f639bfa0d3d9945d69dfbd1-d?mw=320&mh=320",
+      "details": {
+        "id": "vimeo",
+        "message": "use peertube"
+      }
+    },
+    {
+      "type": "vimeo",
+      "url": "https://fresnel.vimeocdn.com/add/player-stats?beacon=1&session-id=579df4bbc180b45d294d36223d729b49b2fd02571718510669",
+      "details": {
+        "id": "vimeo",
+        "message": "use peertube"
+      }
+    },
+    {
+      "type": "vimeo",
+      "url": "https://f.vimeocdn.com/js_opt/modules/utils/vuid.min.js",
+      "details": {
+        "id": "vimeo",
+        "message": "use peertube"
+      }
+    },
+    {
+      "type": "vimeo",
+      "url": "https://i.vimeocdn.com/video/1737351156-805f8c946e43d69f73f3ad782f68fa953d125268f3cb006162bef1d5dd879517-d?mw=400&mh=393",
+      "details": {
+        "id": "vimeo",
+        "message": "use peertube"
+      }
+    },
+    {
+      "type": "vimeo",
+      "url": "https://fresnel.vimeocdn.com/add/player-stats?beacon=1&session-id=0be827454840d55786938145e7eaeee1b58721e91718510669",
+      "details": {
+        "id": "vimeo",
+        "message": "use peertube"
+      }
+    },
+    {
+      "type": "vimeo",
       "url": "https://i.vimeocdn.com/video/1737349912-16d3ffad0ff4cd5e46c6be5ad1c98e19196450202c75f3f448f5e51038238ba8-d?mw=400&mh=393",
       "details": {
         "id": "vimeo",
@@ -482,23 +446,11 @@
     },
     {
       "type": "vimeo",
-      "url": "https://fresnel.vimeocdn.com/add/player-stats?beacon=1&session-id=6c6875347ced08e63db4a4bc91d65237af04c0e51717905984",
+      "url": "https://fresnel.vimeocdn.com/add/player-stats?beacon=1&session-id=54a6fa6aba25a7cdae660c484eb278751592ea201718510669",
       "details": {
         "id": "vimeo",
         "message": "use peertube"
       }
-    },
-    {
-      "type": "crisp",
-      "url": "https://client.crisp.chat/settings/website/e433738e-c2a9-4490-b31b-cb03aa080be9/prelude/?callback=window.%24__CRISP_INSTANCE.__spool.website_handler&2024-5-9-4-6",
-      "details": {
-        "id": "crisp",
-        "message": "Ensure your TOS notify the CRISP usage"
-      }
-    },
-    {
-      "type": "unknown",
-      "url": "https://vimeo.com/ablincoln/vuid?pid=101d96ce58bfc366398b64ceeb213574220bb7661717905984"
     },
     {
       "type": "crisp",
@@ -510,7 +462,7 @@
     },
     {
       "type": "crisp",
-      "url": "https://client.crisp.chat/static/javascripts/locales/fr.js?4f65820",
+      "url": "https://client.crisp.chat/static/javascripts/locales/fr.js?3654117",
       "details": {
         "id": "crisp",
         "message": "Ensure your TOS notify the CRISP usage"
@@ -519,12 +471,42 @@
   ],
   "cookies": [
     {
+      "name": "_pk_ses.75.5533",
+      "value": "1",
+      "domain": "mobilic.beta.gouv.fr",
+      "path": "/",
+      "expires": 1718512469,
+      "size": 16,
+      "httpOnly": false,
+      "secure": false,
+      "session": false,
+      "sameSite": "Lax",
+      "sameParty": false,
+      "sourceScheme": "Secure",
+      "sourcePort": 443
+    },
+    {
+      "name": "_pk_id.75.5533",
+      "value": "5e8c6fd9f1d01465.1718510670.",
+      "domain": "mobilic.beta.gouv.fr",
+      "path": "/",
+      "expires": 1752465870,
+      "size": 42,
+      "httpOnly": false,
+      "secure": false,
+      "session": false,
+      "sameSite": "Lax",
+      "sameParty": false,
+      "sourceScheme": "Secure",
+      "sourcePort": 443
+    },
+    {
       "name": "bln_challengejs",
-      "value": "J2tR9j4HJZuAqzWfNdD-66hHb-tIikjJpMUHXd7H_fVPga8YLMqPVSxNX5v45OX1aErPknTiJQ-TacG11p8hPUBmrVlt3AyPJAfT38RrcpP2GRSvskKsbEscZaHtC4SNL5n7rjl9vsjRd32NWzREdaVZW9SXx1BcgxloCJBmbHkVUWVpTtFoA-CtZxOcQSIMvz9wwtE_HyCY_t5CUh3MUhF0jHr7MaFZ5FlXiw52dw2erQwP2GhxFpgwqC6pbYZBIkqlmgDCj2SzHPUi4srGDw",
+      "value": "8X-ZEyC27UxRwgek1s-dx1h7qecPKIHPvHqLMN7I_9zeRIF4vyUP3Yyle3eHGmT8qwJowkjsHa1Pfew98gCHtHGOeikBI8Doa84Lu5fNWkaGHXvGbeiVT7evngAS94VE3isY3LTJKyKYAoagNnakNOiEy5lmv9I1icsEQBoVAerjdAfsGgGnj_SBDypH5I77yJFRvgN6Rt0v-_-2XZ00Qq_PCViMZynZ9lurOpXTvvdKCnmB3qvNYnIzvASi3zmr",
       "domain": ".beta.gouv.fr",
       "path": "/",
-      "expires": 1717906883.203023,
-      "size": 293,
+      "expires": 1718511567.624426,
+      "size": 271,
       "httpOnly": false,
       "secure": false,
       "session": false,
@@ -540,7 +522,7 @@
     "content-encoding": "gzip",
     "content-security-policy": "object-src 'self'; connect-src 'self' https://client.crisp.chat https://api-adresse.data.gouv.fr https://sentry.incubateur.net wss://client.relay.crisp.chat https://stats.beta.gouv.fr https://client.axept.io/ https://api.axept.io https://google.com; base-uri 'self'; default-src 'self'; script-src 'self' https://client.crisp.chat https://stats.beta.gouv.fr https://static.axept.io/ https://www.googletagmanager.com/ https://www.googleadservices.com/ https://googleads.g.doubleclick.net https://www.google.com 'unsafe-eval' 'unsafe-inline'; img-src 'self' data: https://client.crisp.chat https://image.crisp.chat https://stats.beta.gouv.fr https://res.cloudinary.com https://images.unsplash.com https://axeptio.imgix.net https://favicons.axept.io https://t1.gstatic.com https://www.google.com/ https://www.google.fr/ https://googleads.g.doubleclick.net https://www.googleadservices.com; style-src 'self' 'unsafe-inline' https://client.crisp.chat https://cdn.jsdelivr.net; font-src 'self' https://client.crisp.chat https://cdn.jsdelivr.net; frame-src https://metabase.mobilic.beta.gouv.fr https://www.slideshare.net https://fr.slideshare.net https://cgu.mobilic.beta.gouv.fr https://form.typeform.com https://player.vimeo.com https://bid.g.doubleclick.net/;",
     "content-type": "text/html; charset=utf-8",
-    "date": "Sun, 09 Jun 2024 04:06:23 GMT",
+    "date": "Sun, 16 Jun 2024 04:04:27 GMT",
     "etag": "W/\"664e43dd-c6f\"",
     "last-modified": "Wed, 22 May 2024 19:13:33 GMT",
     "referrer-policy": "origin-when-cross-origin",
@@ -549,8 +531,8 @@
     "via": "1.1 varnish (Varnish/6.0)",
     "x-content-type-options": "nosniff",
     "x-frame-options": "deny",
-    "x-request-id": "19b89e41eef60ec25a5709e33e7e2a38",
-    "x-varnish": "85929637",
+    "x-request-id": "68961ebb7f558d885770b40ace742ce0",
+    "x-varnish": "146580812",
     "x-xss-protection": "1; mode=block"
   },
   "endpoints": [
@@ -612,7 +594,7 @@
     },
     {
       "hostname": "fonts.googleapis.com",
-      "ip": "142.250.190.74",
+      "ip": "142.250.189.10",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -666,7 +648,7 @@
     },
     {
       "hostname": "cdn.jsdelivr.net",
-      "ip": "104.18.187.31",
+      "ip": "104.18.186.31",
       "geoip": {
         "registered_country": {
           "geoname_id": 6252001,
@@ -726,19 +708,19 @@
     },
     {
       "hostname": "f.vimeocdn.com",
-      "ip": "146.75.78.109",
+      "ip": "146.75.94.109",
       "geoip": {
         "city": {
-          "geoname_id": 4887398,
+          "geoname_id": 5368361,
           "names": {
-            "de": "Chicago",
-            "en": "Chicago",
-            "es": "Chicago",
-            "fr": "Chicago",
-            "ja": "シカゴ",
-            "pt-BR": "Chicago",
-            "ru": "Чикаго",
-            "zh-CN": "芝加哥"
+            "de": "Los Angeles",
+            "en": "Los Angeles",
+            "es": "Los Ángeles",
+            "fr": "Los Angeles",
+            "ja": "ロサンゼルス",
+            "pt-BR": "Los Angeles",
+            "ru": "Лос-Анджелес",
+            "zh-CN": "洛杉矶"
           }
         },
         "continent": {
@@ -771,13 +753,13 @@
         },
         "location": {
           "accuracy_radius": 20,
-          "latitude": 41.8719,
-          "longitude": -87.6589,
-          "metro_code": 602,
-          "time_zone": "America/Chicago"
+          "latitude": 34.0544,
+          "longitude": -118.244,
+          "metro_code": 803,
+          "time_zone": "America/Los_Angeles"
         },
         "postal": {
-          "code": "60607"
+          "code": "90012"
         },
         "registered_country": {
           "geoname_id": 6252001,
@@ -795,17 +777,17 @@
         },
         "subdivisions": [
           {
-            "geoname_id": 4896861,
-            "iso_code": "IL",
+            "geoname_id": 5332921,
+            "iso_code": "CA",
             "names": {
-              "de": "Illinois",
-              "en": "Illinois",
-              "es": "Illinois",
-              "fr": "Illinois",
-              "ja": "イリノイ州",
-              "pt-BR": "Ilinóis",
-              "ru": "Иллинойс",
-              "zh-CN": "伊利诺伊州"
+              "de": "Kalifornien",
+              "en": "California",
+              "es": "California",
+              "fr": "Californie",
+              "ja": "カリフォルニア州",
+              "pt-BR": "Califórnia",
+              "ru": "Калифорния",
+              "zh-CN": "加州"
             }
           }
         ]
@@ -813,19 +795,19 @@
     },
     {
       "hostname": "i.vimeocdn.com",
-      "ip": "146.75.76.217",
+      "ip": "146.75.92.217",
       "geoip": {
         "city": {
-          "geoname_id": 4887398,
+          "geoname_id": 5368361,
           "names": {
-            "de": "Chicago",
-            "en": "Chicago",
-            "es": "Chicago",
-            "fr": "Chicago",
-            "ja": "シカゴ",
-            "pt-BR": "Chicago",
-            "ru": "Чикаго",
-            "zh-CN": "芝加哥"
+            "de": "Los Angeles",
+            "en": "Los Angeles",
+            "es": "Los Ángeles",
+            "fr": "Los Angeles",
+            "ja": "ロサンゼルス",
+            "pt-BR": "Los Angeles",
+            "ru": "Лос-Анджелес",
+            "zh-CN": "洛杉矶"
           }
         },
         "continent": {
@@ -858,13 +840,13 @@
         },
         "location": {
           "accuracy_radius": 20,
-          "latitude": 41.8719,
-          "longitude": -87.6589,
-          "metro_code": 602,
-          "time_zone": "America/Chicago"
+          "latitude": 34.0544,
+          "longitude": -118.244,
+          "metro_code": 803,
+          "time_zone": "America/Los_Angeles"
         },
         "postal": {
-          "code": "60607"
+          "code": "90012"
         },
         "registered_country": {
           "geoname_id": 6252001,
@@ -882,17 +864,17 @@
         },
         "subdivisions": [
           {
-            "geoname_id": 4896861,
-            "iso_code": "IL",
+            "geoname_id": 5332921,
+            "iso_code": "CA",
             "names": {
-              "de": "Illinois",
-              "en": "Illinois",
-              "es": "Illinois",
-              "fr": "Illinois",
-              "ja": "イリノイ州",
-              "pt-BR": "Ilinóis",
-              "ru": "Иллинойс",
-              "zh-CN": "伊利诺伊州"
+              "de": "Kalifornien",
+              "en": "California",
+              "es": "California",
+              "fr": "Californie",
+              "ja": "カリフォルニア州",
+              "pt-BR": "Califórnia",
+              "ru": "Калифорния",
+              "zh-CN": "加州"
             }
           }
         ]
