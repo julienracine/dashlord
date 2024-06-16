@@ -6,7 +6,7 @@
     },
     {
       "type": "unknown",
-      "url": "https://candidat.francetravail.fr/simulation-ressources-formation/runtime.7de621c4a1698a02.js"
+      "url": "https://candidat.francetravail.fr/simulation-ressources-formation/runtime.713912858f670c90.js"
     },
     {
       "type": "unknown",
@@ -14,7 +14,7 @@
     },
     {
       "type": "unknown",
-      "url": "https://candidat.francetravail.fr/simulation-ressources-formation/main.5a7c99957b016e0c.js"
+      "url": "https://candidat.francetravail.fr/simulation-ressources-formation/main.d27ef92f945767b2.js"
     },
     {
       "type": "unknown",
@@ -30,7 +30,7 @@
     },
     {
       "type": "unknown",
-      "url": "https://candidat.francetravail.fr/simulation-ressources-formation/351.44baa9dbf1ee19c8.js"
+      "url": "https://candidat.francetravail.fr/simulation-ressources-formation/351.04ae1ef05fedaf60.js"
     },
     {
       "type": "unknown",
@@ -38,7 +38,7 @@
     },
     {
       "type": "unknown",
-      "url": "https://candidat.francetravail.fr/simulation-ressources-formation/872.0f81b6f3cf585314.js"
+      "url": "https://candidat.francetravail.fr/simulation-ressources-formation/872.b3c0018b5de90981.js"
     },
     {
       "type": "unknown",
@@ -79,10 +79,6 @@
         "id": "at-internet",
         "message": "Ensure your TOS notify the AT internet usage"
       }
-    },
-    {
-      "type": "unknown",
-      "url": "https://candidat.francetravail.fr/simulation-ressources-formation/icons.f3043cbf3edac6f2.woff?wekjvp"
     },
     {
       "type": "unknown",
@@ -186,7 +182,7 @@
     },
     {
       "type": "unknown",
-      "url": "https://hd.pe.fr/event?s=475540&idclient=lx7b7zgd6dou8jkl"
+      "url": "https://hd.pe.fr/event?s=475540&idclient=lxhb9g7lyhslx3vu"
     },
     {
       "type": "unknown",
@@ -208,7 +204,7 @@
   "cookies": [
     {
       "name": "TS01e01b1a",
-      "value": "0150c672c35410bc166fcfa0d4e2da1e18f11daeb6ef71745b16ec28b33d28a909f4c76e0c5c042c63ac137dc898ef9f022bae03ed",
+      "value": "0150c672c39066bc4ddfedb6fe33ee9180635d33ce1a42318a3d739163ae37f6635008d2221ae39d03db3d685907fc5d9197a8860e",
       "domain": "candidat.francetravail.fr",
       "path": "/",
       "expires": -1,
@@ -222,7 +218,7 @@
     },
     {
       "name": "BIGipServerPOOL_TAS_SDDC_HTTP",
-      "value": "1771244298.20480.0000",
+      "value": "1704135434.20480.0000",
       "domain": "candidat.francetravail.fr",
       "path": "/",
       "expires": -1,
@@ -238,14 +234,14 @@
   "headers": {
     "content-encoding": "gzip",
     "content-type": "text/html; charset=utf-8",
-    "date": "Sun, 09 Jun 2024 08:56:10 GMT",
-    "last-modified": "Mon, 03 Jun 2024 08:25:35 GMT",
-    "set-cookie": "BIGipServerPOOL_TAS_SDDC_HTTP=1771244298.20480.0000; path=/; Httponly; Secure\nTS01e01b1a=0150c672c35410bc166fcfa0d4e2da1e18f11daeb6ef71745b16ec28b33d28a909f4c76e0c5c042c63ac137dc898ef9f022bae03ed; Path=/",
+    "date": "Sun, 16 Jun 2024 08:55:00 GMT",
+    "last-modified": "Tue, 11 Jun 2024 13:42:36 GMT",
+    "set-cookie": "BIGipServerPOOL_TAS_SDDC_HTTP=1704135434.20480.0000; path=/; Httponly; Secure\nTS01e01b1a=0150c672c39066bc4ddfedb6fe33ee9180635d33ce1a42318a3d739163ae37f6635008d2221ae39d03db3d685907fc5d9197a8860e; Path=/",
     "transfer-encoding": "chunked",
     "vary": "Accept-Encoding",
     "x-content-type-options": "nosniff'",
     "x-robots-tag": "noindex, nofollow, nosnippet, noarchive",
-    "x-vcap-request-id": "6e20c0c8-b17e-4039-4136-379690304143"
+    "x-vcap-request-id": "00e71a32-1b10-4c7b-76f4-13ea9b25f002"
   },
   "endpoints": [
     {
@@ -516,7 +512,7 @@
     },
     {
       "hostname": "tag.aticdn.net",
-      "ip": "13.35.122.26",
+      "ip": "13.35.122.112",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -668,7 +664,7 @@
     },
     {
       "hostname": "hd.pe.fr",
-      "ip": "18.173.121.122",
+      "ip": "18.173.121.33",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -722,7 +718,7 @@
     },
     {
       "hostname": "privacy.trustcommander.net",
-      "ip": "13.39.188.157",
+      "ip": "13.36.117.50",
       "geoip": {
         "city": {
           "geoname_id": 2988507,
