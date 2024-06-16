@@ -374,7 +374,7 @@
               "ip"           : "api.exposition.inserjeunes.beta.gouv.fr/141.94.2.159",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "43 >= 30 days"
+              "finding"      : "36 >= 30 days"
           }
 ,         {
               "id"           : "cert_notBefore",
@@ -528,14 +528,14 @@
               "ip"           : "api.exposition.inserjeunes.beta.gouv.fr/141.94.2.159",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "0 seconds from localtime"
+              "finding"      : "-1 seconds from localtime"
           }
 ,         {
               "id"           : "HTTP_headerTime",
               "ip"           : "api.exposition.inserjeunes.beta.gouv.fr/141.94.2.159",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1717934939"
+              "finding"      : "1718539791"
           }
 ,         {
               "id"           : "HSTS_time",
@@ -605,7 +605,7 @@
               "ip"           : "api.exposition.inserjeunes.beta.gouv.fr/141.94.2.159",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "default-src 'self' https://plausible.io/ https://*.inserjeunes.beta.gouv.fr/ 'unsafe-inline' data:;"
+              "finding"      : "default-src 'self' https://www.notion.so/ https://plausible.io/ https://*.inserjeunes.beta.gouv.fr/ 'unsafe-inline' data:;"
           }
 ,         {
               "id"           : "Access-Control-Allow-Origin",
@@ -1126,6 +1126,6 @@
               "ip"           : "api.exposition.inserjeunes.beta.gouv.fr/141.94.2.159",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "51"
+              "finding"      : "90"
           }
 ]
