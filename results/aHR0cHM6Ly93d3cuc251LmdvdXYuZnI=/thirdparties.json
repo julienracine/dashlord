@@ -10,7 +10,7 @@
     },
     {
       "type": "cloudflare",
-      "url": "https://static.cloudflareinsights.com/beacon.min.js/vef91dfe02fce4ee0ad053f6de4f175db1715022073587",
+      "url": "https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015",
       "details": {
         "id": "cloudflare",
         "message": "Host files locally"
@@ -30,21 +30,21 @@
     },
     {
       "type": "unknown",
-      "url": "https://tarteaucitron.io/log/?account=116fc2aaf9a8e635ee3bd10f2d6999d8b768651a&domain=www.snu.gouv.fr&status=!adformsnu%3Dfalse!facebookpixel%3Dfalse!snapchat%3Dfalse!googletagmanager%3Dfalse&_time=1717914112797"
+      "url": "https://tarteaucitron.io/log/?account=116fc2aaf9a8e635ee3bd10f2d6999d8b768651a&domain=www.snu.gouv.fr&status=!adformsnu%3Dfalse!facebookpixel%3Dfalse!snapchat%3Dfalse!googletagmanager%3Dfalse&_time=1718517862499"
     }
   ],
   "cookies": [],
   "headers": {
     "cache-control": "max-age=0",
     "cf-cache-status": "DYNAMIC",
-    "cf-ray": "890f06173917e133-ORD",
+    "cf-ray": "89489a10ecd005d6-IAD",
     "content-encoding": "br",
     "content-type": "text/html; charset=UTF-8",
-    "date": "Sun, 09 Jun 2024 06:21:50 GMT",
-    "expires": "Sun, 09 Jun 2024 06:21:50 GMT",
-    "last-modified": "Sun, 09 Jun 2024 05:41:36 GMT",
+    "date": "Sun, 16 Jun 2024 06:04:20 GMT",
+    "expires": "Sun, 16 Jun 2024 06:04:20 GMT",
+    "last-modified": "Sun, 16 Jun 2024 03:41:56 GMT",
     "server": "cloudflare",
-    "sozu-id": "01HZXTFZ3T9MWDVWBKGH7FDV65",
+    "sozu-id": "01J0FT8XYAA11E8KHFPDN5E6TR",
     "vary": "Accept-Encoding"
   },
   "endpoints": [
@@ -159,19 +159,18 @@
     },
     {
       "hostname": "plausible.io",
-      "ip": "185.93.1.244",
+      "ip": "138.199.40.58",
       "geoip": {
         "city": {
-          "geoname_id": 4887398,
+          "geoname_id": 5128581,
           "names": {
-            "de": "Chicago",
-            "en": "Chicago",
-            "es": "Chicago",
-            "fr": "Chicago",
-            "ja": "シカゴ",
-            "pt-BR": "Chicago",
-            "ru": "Чикаго",
-            "zh-CN": "芝加哥"
+            "de": "New York City",
+            "en": "New York",
+            "es": "Nueva York",
+            "fr": "New York",
+            "ja": "ニューヨーク",
+            "pt-BR": "Nova Iorque",
+            "ru": "Нью-Йорк"
           }
         },
         "continent": {
@@ -204,42 +203,41 @@
         },
         "location": {
           "accuracy_radius": 20,
-          "latitude": 41.8874,
-          "longitude": -87.6318,
-          "metro_code": 602,
-          "time_zone": "America/Chicago"
+          "latitude": 40.7123,
+          "longitude": -74.0068,
+          "metro_code": 501,
+          "time_zone": "America/New_York"
         },
         "postal": {
-          "code": "60602"
+          "code": "10118"
         },
         "registered_country": {
-          "geoname_id": 3077311,
-          "is_in_european_union": true,
-          "iso_code": "CZ",
+          "geoname_id": 2635167,
+          "iso_code": "GB",
           "names": {
-            "de": "Tschechien",
-            "en": "Czechia",
-            "es": "Chequia",
-            "fr": "Tchéquie",
-            "ja": "チェコ共和国",
-            "pt-BR": "Chéquia",
-            "ru": "Чехия",
-            "zh-CN": "捷克"
+            "de": "UK",
+            "en": "United Kingdom",
+            "es": "Reino Unido",
+            "fr": "Royaume-Uni",
+            "ja": "英国",
+            "pt-BR": "Reino Unido",
+            "ru": "Британия",
+            "zh-CN": "英国"
           }
         },
         "subdivisions": [
           {
-            "geoname_id": 4896861,
-            "iso_code": "IL",
+            "geoname_id": 5128638,
+            "iso_code": "NY",
             "names": {
-              "de": "Illinois",
-              "en": "Illinois",
-              "es": "Illinois",
-              "fr": "Illinois",
-              "ja": "イリノイ州",
-              "pt-BR": "Ilinóis",
-              "ru": "Иллинойс",
-              "zh-CN": "伊利诺伊州"
+              "de": "New York",
+              "en": "New York",
+              "es": "Nueva York",
+              "fr": "New York",
+              "ja": "ニューヨーク州",
+              "pt-BR": "Nova Iorque",
+              "ru": "Нью-Йорк",
+              "zh-CN": "纽约州"
             }
           }
         ]
