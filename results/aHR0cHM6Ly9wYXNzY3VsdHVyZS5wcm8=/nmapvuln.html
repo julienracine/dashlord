@@ -54,7 +54,7 @@
 <h1>Scan Report<br><small>Nmap 7.92</small>
 </h1>
 <pre style="white-space:pre-wrap; word-wrap:break-word;">nmap -sV --script vulners --script-args mincvss=5.0 -oA /data/nmapvuln passculture.pro</pre>
-<p class="lead">Sun Jun  9 04:51:24 2024 – Sun Jun  9 04:52:52 2024<br>1 hosts scanned.
+<p class="lead">Sun Jun 16 04:46:12 2024 – Sun Jun 16 04:47:23 2024<br>1 hosts scanned.
               1 hosts up.
               0 hosts down.
             </p>
@@ -78,7 +78,7 @@
 <td><span class="label label-success">up</span></td>
 <td>34.107.224.170</td>
 <td>passculture.pro</td>
-<td>10</td>
+<td>2</td>
 <td>0</td>
 </tr></tbody>
 </table></div>
@@ -122,38 +122,32 @@
 <tr><td colspan="7">
 <a href="https://nvd.nist.gov/vuln/search/results?form_type=Advanced&amp;cves=on&amp;cpe_version="></a><h5>fingerprint-strings</h5>
 <pre style="white-space:pre-wrap; word-wrap:break-word;">
-  DNSStatusRequestTCP: 
+  DNSStatusRequestTCP, DNSVersionBindReqTCP: 
     HTTP/1.0 400 Bad Request
     Content-Length: 54
     Content-Type: text/html; charset=UTF-8
-    Date: Sun, 09 Jun 2024 04:52:07 GMT
-    &lt;html&gt;&lt;title&gt;Error 400 (Bad Request)!!1&lt;/title&gt;&lt;/html&gt;
-  DNSVersionBindReqTCP: 
-    HTTP/1.0 400 Bad Request
-    Content-Length: 54
-    Content-Type: text/html; charset=UTF-8
-    Date: Sun, 09 Jun 2024 04:52:06 GMT
+    Date: Sun, 16 Jun 2024 04:46:37 GMT
     &lt;html&gt;&lt;title&gt;Error 400 (Bad Request)!!1&lt;/title&gt;&lt;/html&gt;
   FourOhFourRequest: 
     HTTP/1.0 301 Moved Permanently
     Cache-Control: private
     Location: https://34.107.224.170:443/nice%20ports%2C/Trinity.txt.bak
     Content-Length: 0
-    Date: Sun, 09 Jun 2024 04:51:56 GMT
+    Date: Sun, 16 Jun 2024 04:46:27 GMT
     Content-Type: text/html; charset=UTF-8
   GetRequest, HTTPOptions: 
     HTTP/1.0 301 Moved Permanently
     Cache-Control: private
     Location: https://34.107.224.170:443/
     Content-Length: 0
-    Date: Sun, 09 Jun 2024 04:51:51 GMT
+    Date: Sun, 16 Jun 2024 04:46:22 GMT
     Content-Type: text/html; charset=UTF-8
   Help: 
     HTTP/1.0 400 Bad Request
     Content-Type: text/html; charset=UTF-8
     Referrer-Policy: no-referrer
     Content-Length: 273
-    Date: Sun, 09 Jun 2024 04:52:07 GMT
+    Date: Sun, 16 Jun 2024 04:46:37 GMT
     &lt;html&gt;&lt;head&gt;
     &lt;meta http-equiv="content-type" content="text/html;charset=utf-8"&gt;
     &lt;title&gt;400 Bad Request&lt;/title&gt;
@@ -168,7 +162,7 @@
     Content-Type: text/html; charset=UTF-8
     Referrer-Policy: no-referrer
     Content-Length: 273
-    Date: Sun, 09 Jun 2024 04:51:51 GMT
+    Date: Sun, 16 Jun 2024 04:46:22 GMT
     &lt;html&gt;&lt;head&gt;
     &lt;meta http-equiv="content-type" content="text/html;charset=utf-8"&gt;
     &lt;title&gt;400 Bad Request&lt;/title&gt;
@@ -193,7 +187,7 @@
 <pre style="white-space:pre-wrap; word-wrap:break-word;">
   FourOhFourRequest: 
     HTTP/1.0 404 Not Found
-    Date: Sun, 09 Jun 2024 04:51:58 GMT
+    Date: Sun, 16 Jun 2024 04:46:29 GMT
     Content-Type: text/html
     Content-Length: 146
     Via: 1.1 google
@@ -207,7 +201,7 @@
     &lt;/html&gt;
   GetRequest, HTTPOptions: 
     HTTP/1.0 404 Not Found
-    Date: Sun, 09 Jun 2024 04:51:57 GMT
+    Date: Sun, 16 Jun 2024 04:46:28 GMT
     Content-Type: text/html
     Content-Length: 146
     Via: 1.1 google
@@ -224,7 +218,7 @@
     Content-Type: text/html; charset=UTF-8
     Referrer-Policy: no-referrer
     Content-Length: 273
-    Date: Sun, 09 Jun 2024 04:52:03 GMT
+    Date: Sun, 16 Jun 2024 04:46:34 GMT
     &lt;html&gt;&lt;head&gt;
     &lt;meta http-equiv="content-type" content="text/html;charset=utf-8"&gt;
     &lt;title&gt;400 Bad Request&lt;/title&gt;
@@ -238,89 +232,9 @@
     HTTP/1.0 400 Bad Request
     Content-Length: 54
     Content-Type: text/html; charset=UTF-8
-    Date: Sun, 09 Jun 2024 04:51:58 GMT
+    Date: Sun, 16 Jun 2024 04:46:29 GMT
     &lt;html&gt;&lt;title&gt;Error 400 (Bad Request)!!1&lt;/title&gt;&lt;/html&gt;</pre>
 </td></tr>
-<tr class="success">
-<td title="Port">808</td>
-<td title="Protocol">tcp</td>
-<td title="State / Reason">open<br>syn-ack</td>
-<td title="Service">tcpwrapped</td>
-<td title="Product"></td>
-<td title="Version"></td>
-<td title="Extra Info"></td>
-</tr>
-<tr><td colspan="7"><a href="https://nvd.nist.gov/vuln/search/results?form_type=Advanced&amp;cves=on&amp;cpe_version="></a></td></tr>
-<tr class="success">
-<td title="Port">1034</td>
-<td title="Protocol">tcp</td>
-<td title="State / Reason">open<br>syn-ack</td>
-<td title="Service">tcpwrapped</td>
-<td title="Product"></td>
-<td title="Version"></td>
-<td title="Extra Info"></td>
-</tr>
-<tr><td colspan="7"><a href="https://nvd.nist.gov/vuln/search/results?form_type=Advanced&amp;cves=on&amp;cpe_version="></a></td></tr>
-<tr class="success">
-<td title="Port">1641</td>
-<td title="Protocol">tcp</td>
-<td title="State / Reason">open<br>syn-ack</td>
-<td title="Service">tcpwrapped</td>
-<td title="Product"></td>
-<td title="Version"></td>
-<td title="Extra Info"></td>
-</tr>
-<tr><td colspan="7"><a href="https://nvd.nist.gov/vuln/search/results?form_type=Advanced&amp;cves=on&amp;cpe_version="></a></td></tr>
-<tr class="success">
-<td title="Port">1972</td>
-<td title="Protocol">tcp</td>
-<td title="State / Reason">open<br>syn-ack</td>
-<td title="Service">tcpwrapped</td>
-<td title="Product"></td>
-<td title="Version"></td>
-<td title="Extra Info"></td>
-</tr>
-<tr><td colspan="7"><a href="https://nvd.nist.gov/vuln/search/results?form_type=Advanced&amp;cves=on&amp;cpe_version="></a></td></tr>
-<tr class="success">
-<td title="Port">3071</td>
-<td title="Protocol">tcp</td>
-<td title="State / Reason">open<br>syn-ack</td>
-<td title="Service">tcpwrapped</td>
-<td title="Product"></td>
-<td title="Version"></td>
-<td title="Extra Info"></td>
-</tr>
-<tr><td colspan="7"><a href="https://nvd.nist.gov/vuln/search/results?form_type=Advanced&amp;cves=on&amp;cpe_version="></a></td></tr>
-<tr class="success">
-<td title="Port">5925</td>
-<td title="Protocol">tcp</td>
-<td title="State / Reason">open<br>syn-ack</td>
-<td title="Service">tcpwrapped</td>
-<td title="Product"></td>
-<td title="Version"></td>
-<td title="Extra Info"></td>
-</tr>
-<tr><td colspan="7"><a href="https://nvd.nist.gov/vuln/search/results?form_type=Advanced&amp;cves=on&amp;cpe_version="></a></td></tr>
-<tr class="success">
-<td title="Port">8022</td>
-<td title="Protocol">tcp</td>
-<td title="State / Reason">open<br>syn-ack</td>
-<td title="Service">tcpwrapped</td>
-<td title="Product"></td>
-<td title="Version"></td>
-<td title="Extra Info"></td>
-</tr>
-<tr><td colspan="7"><a href="https://nvd.nist.gov/vuln/search/results?form_type=Advanced&amp;cves=on&amp;cpe_version="></a></td></tr>
-<tr class="success">
-<td title="Port">16113</td>
-<td title="Protocol">tcp</td>
-<td title="State / Reason">open<br>syn-ack</td>
-<td title="Service">tcpwrapped</td>
-<td title="Product"></td>
-<td title="Version"></td>
-<td title="Extra Info"></td>
-</tr>
-<tr><td colspan="7"><a href="https://nvd.nist.gov/vuln/search/results?form_type=Advanced&amp;cves=on&amp;cpe_version="></a></td></tr>
 </tbody>
 </table></div>
 </div>
@@ -353,86 +267,6 @@
 <td>443</td>
 <td>tcp</td>
 <td>https</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>34.107.224.170 - passculture.pro</td>
-<td>808</td>
-<td>tcp</td>
-<td>tcpwrapped</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>34.107.224.170 - passculture.pro</td>
-<td>1034</td>
-<td>tcp</td>
-<td>tcpwrapped</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>34.107.224.170 - passculture.pro</td>
-<td>1641</td>
-<td>tcp</td>
-<td>tcpwrapped</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>34.107.224.170 - passculture.pro</td>
-<td>1972</td>
-<td>tcp</td>
-<td>tcpwrapped</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>34.107.224.170 - passculture.pro</td>
-<td>3071</td>
-<td>tcp</td>
-<td>tcpwrapped</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>34.107.224.170 - passculture.pro</td>
-<td>5925</td>
-<td>tcp</td>
-<td>tcpwrapped</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>34.107.224.170 - passculture.pro</td>
-<td>8022</td>
-<td>tcp</td>
-<td>tcpwrapped</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>34.107.224.170 - passculture.pro</td>
-<td>16113</td>
-<td>tcp</td>
-<td>tcpwrapped</td>
 <td></td>
 <td></td>
 <td></td>
