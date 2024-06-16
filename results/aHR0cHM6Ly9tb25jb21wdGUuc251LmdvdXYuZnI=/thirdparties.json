@@ -36,10 +36,10 @@
   "cookies": [
     {
       "name": "bln_challengejs",
-      "value": "cXyaw6QzHGfQ9XikXY6O-bcPB-dzJgN_IqcchBvAwM3fA_LkPSTslj6bcD7yvCEyxQwXR5xKzis1ekOcbIYqVf7iKeOSefpzSY3zr_15qT0180tqFpnjN0_ZcIdxG8nKbXBniRf_amU6g_-ZTFnchBojyDpBrfzGyONq6A6-bZ9PecBsVb_1G9yVUN-KxKdCbYaEqOSqtMxTLDvc9BIxB3mGNY3yPJLx6rAcdxm-fzdM6-8GOHyIO_ohfDC0a8k93Sjy42_2tDfZ1UmRpbcrfQ",
+      "value": "IEkhQYSoPEgPFLLbiPcNDvVzA_s2Q2iJtOSjCHi_ADQNT-fhBOBnO5grtdsI0BHnELAEYTvPhWAPpiXUTE8rL-wtZ2TkHylCHxG-FIxUMQo0qQbq_Hdib5wQHy3L_nGrYxu-1DUpNH2gPT9qvSYqJtZfZv-SitTBf_XBWTmonkhqDpP3sNf8VkbdTrwmII_R1kKVw66MQzgIBbVW6w6qWqNYxgh8i6q7CahLgjIjWYPGAfGQn8avwRsU98ZnePAg4Waf8wSAURmxhvP6DZU3dw",
       "domain": ".snu.gouv.fr",
       "path": "/",
-      "expires": 1717915057.056206,
+      "expires": 1718519376.533543,
       "size": 293,
       "httpOnly": false,
       "secure": false,
@@ -52,21 +52,21 @@
   "headers": {
     "content-encoding": "gzip",
     "content-type": "text/html",
-    "date": "Sun, 09 Jun 2024 06:22:37 GMT",
-    "etag": "W/\"6662c881-1313\"",
-    "last-modified": "Fri, 07 Jun 2024 08:44:49 GMT",
+    "date": "Sun, 16 Jun 2024 06:14:36 GMT",
+    "etag": "W/\"666c4931-1313\"",
+    "last-modified": "Fri, 14 Jun 2024 13:44:17 GMT",
     "referrer-policy": ": no-referrer",
     "strict-transport-security": ": max-age=31536000; includeSubDomains; preload",
     "x-content-type-options": ": nosniff",
     "x-download-options": ": noopen",
-    "x-envoy-upstream-service-time": "19",
+    "x-envoy-upstream-service-time": "11",
     "x-frame-options": ": DENY",
     "x-xss-protection": "1; mode=block"
   },
   "endpoints": [
     {
       "hostname": "moncompte.snu.gouv.fr",
-      "ip": "185.231.167.148",
+      "ip": "185.179.149.148",
       "geoip": {
         "continent": {
           "code": "EU",
@@ -122,8 +122,14 @@
     },
     {
       "hostname": "fonts.googleapis.com",
-      "ip": "142.250.190.42",
+      "ip": "142.251.46.170",
       "geoip": {
+        "city": {
+          "geoname_id": 5133273,
+          "names": {
+            "en": "Queens"
+          }
+        },
         "continent": {
           "code": "NA",
           "geoname_id": 6255149,
@@ -153,10 +159,14 @@
           }
         },
         "location": {
-          "accuracy_radius": 1000,
-          "latitude": 37.751,
-          "longitude": -97.822,
-          "time_zone": "America/Chicago"
+          "accuracy_radius": 50,
+          "latitude": 40.66,
+          "longitude": -73.839,
+          "metro_code": 501,
+          "time_zone": "America/New_York"
+        },
+        "postal": {
+          "code": "11414"
         },
         "registered_country": {
           "geoname_id": 6252001,
@@ -171,24 +181,39 @@
             "ru": "США",
             "zh-CN": "美国"
           }
-        }
+        },
+        "subdivisions": [
+          {
+            "geoname_id": 5128638,
+            "iso_code": "NY",
+            "names": {
+              "de": "New York",
+              "en": "New York",
+              "es": "Nueva York",
+              "fr": "New York",
+              "ja": "ニューヨーク州",
+              "pt-BR": "Nova Iorque",
+              "ru": "Нью-Йорк",
+              "zh-CN": "纽约州"
+            }
+          }
+        ]
       }
     },
     {
       "hostname": "plausible.io",
-      "ip": "169.150.236.100",
+      "ip": "169.150.221.147",
       "geoip": {
         "city": {
-          "geoname_id": 4887398,
+          "geoname_id": 5392171,
           "names": {
-            "de": "Chicago",
-            "en": "Chicago",
-            "es": "Chicago",
-            "fr": "Chicago",
-            "ja": "シカゴ",
-            "pt-BR": "Chicago",
-            "ru": "Чикаго",
-            "zh-CN": "芝加哥"
+            "de": "San José",
+            "en": "San Jose",
+            "es": "San José",
+            "fr": "San José",
+            "ja": "サンノゼ",
+            "pt-BR": "San José",
+            "ru": "Сан-Хосе"
           }
         },
         "continent": {
@@ -221,13 +246,13 @@
         },
         "location": {
           "accuracy_radius": 20,
-          "latitude": 41.8874,
-          "longitude": -87.6318,
-          "metro_code": 602,
-          "time_zone": "America/Chicago"
+          "latitude": 37.1835,
+          "longitude": -121.7714,
+          "metro_code": 807,
+          "time_zone": "America/Los_Angeles"
         },
         "postal": {
-          "code": "60602"
+          "code": "95141"
         },
         "registered_country": {
           "geoname_id": 2635167,
@@ -245,17 +270,17 @@
         },
         "subdivisions": [
           {
-            "geoname_id": 4896861,
-            "iso_code": "IL",
+            "geoname_id": 5332921,
+            "iso_code": "CA",
             "names": {
-              "de": "Illinois",
-              "en": "Illinois",
-              "es": "Illinois",
-              "fr": "Illinois",
-              "ja": "イリノイ州",
-              "pt-BR": "Ilinóis",
-              "ru": "Иллинойс",
-              "zh-CN": "伊利诺伊州"
+              "de": "Kalifornien",
+              "en": "California",
+              "es": "California",
+              "fr": "Californie",
+              "ja": "カリフォルニア州",
+              "pt-BR": "Califórnia",
+              "ru": "Калифорния",
+              "zh-CN": "加州"
             }
           }
         ]
