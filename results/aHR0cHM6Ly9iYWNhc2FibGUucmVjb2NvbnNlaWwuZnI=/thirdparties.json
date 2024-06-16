@@ -16,10 +16,10 @@
   "cookies": [
     {
       "name": "csrftoken",
-      "value": "R4scJt4ZtopMrAF2YvR7XIJtipTZzfBm",
+      "value": "XPmPn92HpPSlr7cnBnF57qgns6FFtQAn",
       "domain": "bacasable.recoconseil.fr",
       "path": "/",
-      "expires": 1749381686.109156,
+      "expires": 1749986557.515376,
       "size": 41,
       "httpOnly": false,
       "secure": true,
@@ -34,9 +34,9 @@
     "content-length": "22495",
     "content-type": "text/html; charset=utf-8",
     "cross-origin-opener-policy": "same-origin",
-    "date": "Sun, 09 Jun 2024 11:21:26 GMT",
+    "date": "Sun, 16 Jun 2024 11:22:37 GMT",
     "referrer-policy": "same-origin",
-    "set-cookie": "csrftoken=R4scJt4ZtopMrAF2YvR7XIJtipTZzfBm; expires=Sun, 08 Jun 2025 11:21:26 GMT; Max-Age=31449600; Path=/; SameSite=None; Secure",
+    "set-cookie": "csrftoken=XPmPn92HpPSlr7cnBnF57qgns6FFtQAn; expires=Sun, 15 Jun 2025 11:22:37 GMT; Max-Age=31449600; Path=/; SameSite=None; Secure",
     "strict-transport-security": "max-age=31536000; includeSubDomains",
     "vary": "Cookie",
     "via": "2.0 alproxy",
@@ -189,55 +189,8 @@
     },
     {
       "hostname": "cdn.jsdelivr.net",
-      "ip": "146.75.37.229",
+      "ip": "104.18.186.31",
       "geoip": {
-        "city": {
-          "geoname_id": 4781530,
-          "names": {
-            "de": "Reston",
-            "en": "Reston",
-            "ja": "レストン",
-            "ru": "Рестон"
-          }
-        },
-        "continent": {
-          "code": "NA",
-          "geoname_id": 6255149,
-          "names": {
-            "de": "Nordamerika",
-            "en": "North America",
-            "es": "Norteamérica",
-            "fr": "Amérique du Nord",
-            "ja": "北アメリカ",
-            "pt-BR": "América do Norte",
-            "ru": "Северная Америка",
-            "zh-CN": "北美洲"
-          }
-        },
-        "country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
-          "names": {
-            "de": "USA",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
-          }
-        },
-        "location": {
-          "accuracy_radius": 20,
-          "latitude": 38.9609,
-          "longitude": -77.3429,
-          "metro_code": 511,
-          "time_zone": "America/New_York"
-        },
-        "postal": {
-          "code": "20190"
-        },
         "registered_country": {
           "geoname_id": 6252001,
           "iso_code": "US",
@@ -251,23 +204,7 @@
             "ru": "США",
             "zh-CN": "美国"
           }
-        },
-        "subdivisions": [
-          {
-            "geoname_id": 6254928,
-            "iso_code": "VA",
-            "names": {
-              "de": "Virginia",
-              "en": "Virginia",
-              "es": "Virginia",
-              "fr": "Virginie",
-              "ja": "バージニア州",
-              "pt-BR": "Virgínia",
-              "ru": "Вирджиния",
-              "zh-CN": "弗吉尼亚州"
-            }
-          }
-        ]
+        }
       }
     }
   ]
