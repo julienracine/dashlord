@@ -3,10 +3,10 @@
   "cookies": [
     {
       "name": "csrftoken",
-      "value": "txQfykzyTWdBHur85DFcauF3GwnpXUuj",
+      "value": "uEmaThLN8UiKBIZsbX5x9e8EHcvlMHC1",
       "domain": "moana.beta.gouv.fr",
       "path": "/",
-      "expires": 1749371517.0435,
+      "expires": 1749976020.145128,
       "size": 41,
       "httpOnly": false,
       "secure": true,
@@ -19,23 +19,23 @@
   ],
   "headers": {
     "content-encoding": "gzip",
-    "content-security-policy": "object-src 'self'; form-action 'self'; base-uri 'self'; default-src 'self'; font-src 'self' data:; img-src 'self' data:; connect-src 'self'; script-src 'self'; style-src 'self' 'sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=' 'sha256-BW8NYdPk+rv9lpNlgLUX1TA/NiHG2tpA6q6KRC//k5c=' 'sha256-dsGP181IqXG75B+r9iF1SiIhPNVTsVx0BJXDFaoQLq4=' 'sha256-Qkou26UJ4mma/LNSpT1/69nlpyu27XJKOUO7n13g5Yk='",
+    "content-security-policy": "form-action 'self'; style-src 'self' 'sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=' 'sha256-BW8NYdPk+rv9lpNlgLUX1TA/NiHG2tpA6q6KRC//k5c=' 'sha256-dsGP181IqXG75B+r9iF1SiIhPNVTsVx0BJXDFaoQLq4=' 'sha256-Qkou26UJ4mma/LNSpT1/69nlpyu27XJKOUO7n13g5Yk='; object-src 'self'; script-src 'self'; img-src 'self' data:; default-src 'self'; connect-src 'self'; font-src 'self' data:; base-uri 'self'",
     "content-type": "text/html; charset=utf-8",
     "cross-origin-opener-policy": "same-origin",
-    "date": "Sun, 09 Jun 2024 08:31:57 GMT",
+    "date": "Sun, 16 Jun 2024 08:27:00 GMT",
     "permissions-policy": "accelerometer=(), autoplay=(), camera=(), display-capture=(), document-domain=(), encrypted-media=(), fullscreen=(), geolocation=(), gyroscope=(), magnetometer=(), microphone=(), midi=(), payment=(), usb=()",
     "referrer-policy": "same-origin",
-    "set-cookie": "csrftoken=txQfykzyTWdBHur85DFcauF3GwnpXUuj; expires=Sun, 08 Jun 2025 08:31:57 GMT; Max-Age=31449600; Path=/; SameSite=Lax; Secure",
+    "set-cookie": "csrftoken=uEmaThLN8UiKBIZsbX5x9e8EHcvlMHC1; expires=Sun, 15 Jun 2025 08:27:00 GMT; Max-Age=31449600; Path=/; SameSite=Lax; Secure",
     "strict-transport-security": "max-age=31536000",
     "vary": "Cookie, origin",
     "x-content-type-options": "nosniff",
     "x-frame-options": "DENY",
-    "x-request-id": "fecd57cf-cf05-4475-8382-c7799f2cd9d5"
+    "x-request-id": "8be18aa4-abc7-410a-9feb-55600ac3ce51"
   },
   "endpoints": [
     {
       "hostname": "moana.beta.gouv.fr",
-      "ip": "80.247.13.145",
+      "ip": "80.247.12.255",
       "geoip": {
         "continent": {
           "code": "EU",
