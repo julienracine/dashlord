@@ -10,7 +10,7 @@
     },
     {
       "type": "crisp",
-      "url": "https://client.crisp.chat/static/javascripts/client.js?4f65820",
+      "url": "https://client.crisp.chat/static/javascripts/client.js?3654117",
       "details": {
         "id": "crisp",
         "message": "Ensure your TOS notify the CRISP usage"
@@ -18,7 +18,7 @@
     },
     {
       "type": "crisp",
-      "url": "https://client.crisp.chat/static/stylesheets/client_legacy.css?4f65820",
+      "url": "https://client.crisp.chat/static/stylesheets/client_legacy.css?3654117",
       "details": {
         "id": "crisp",
         "message": "Ensure your TOS notify the CRISP usage"
@@ -26,7 +26,7 @@
     },
     {
       "type": "crisp",
-      "url": "https://client.crisp.chat/settings/website/600aff6d-b1eb-414c-a186-233177221bbf/prelude/?callback=window.%24__CRISP_INSTANCE.__spool.website_handler&2024-5-9-1-21",
+      "url": "https://client.crisp.chat/settings/website/600aff6d-b1eb-414c-a186-233177221bbf/prelude/?callback=window.%24__CRISP_INSTANCE.__spool.website_handler&2024-5-16-1-21",
       "details": {
         "id": "crisp",
         "message": "Ensure your TOS notify the CRISP usage"
@@ -42,7 +42,7 @@
     },
     {
       "type": "crisp",
-      "url": "https://client.crisp.chat/static/javascripts/locales/en.js?4f65820",
+      "url": "https://client.crisp.chat/static/javascripts/locales/en.js?3654117",
       "details": {
         "id": "crisp",
         "message": "Ensure your TOS notify the CRISP usage"
@@ -51,11 +51,41 @@
   ],
   "cookies": [
     {
-      "name": "csrftoken",
-      "value": "7nZsV6Dbl661nhWaQ8nVK5g5FHjEGYEU",
+      "name": "_pk_ses.3.c7e8",
+      "value": "1",
       "domain": "acceslibre.beta.gouv.fr",
       "path": "/",
-      "expires": 1749345670.240501,
+      "expires": 1718502682,
+      "size": 15,
+      "httpOnly": false,
+      "secure": false,
+      "session": false,
+      "sameSite": "Lax",
+      "sameParty": false,
+      "sourceScheme": "Secure",
+      "sourcePort": 443
+    },
+    {
+      "name": "_pk_id.3.c7e8",
+      "value": "14507f4f59eb9185.1718500882.",
+      "domain": "acceslibre.beta.gouv.fr",
+      "path": "/",
+      "expires": 1752456082,
+      "size": 41,
+      "httpOnly": false,
+      "secure": false,
+      "session": false,
+      "sameSite": "Lax",
+      "sameParty": false,
+      "sourceScheme": "Secure",
+      "sourcePort": 443
+    },
+    {
+      "name": "csrftoken",
+      "value": "sF67SVCTtRiOMze2q6oK2AIGAPVR6qYV",
+      "domain": "acceslibre.beta.gouv.fr",
+      "path": "/",
+      "expires": 1749950480.722706,
       "size": 41,
       "httpOnly": false,
       "secure": true,
@@ -69,21 +99,22 @@
   "headers": {
     "content-encoding": "gzip",
     "content-language": "en",
+    "content-security-policy": "default-src 'self' data: *.mapbox.com *.gouv.fr *.incubateur.net acceslibre.matomo.cloud *.tile.openstreetmap.org client.crisp.chat image.crisp.chat storage.crisp.chat game.crisp.chat wss://client.relay.crisp.chat wss://stream.relay.crisp.chat 'nonce-IHJlvi8nl3x2ylU8JFCPDg=='",
     "content-type": "text/html; charset=utf-8",
     "cross-origin-opener-policy": "same-origin",
-    "date": "Sun, 09 Jun 2024 01:21:10 GMT",
+    "date": "Sun, 16 Jun 2024 01:21:20 GMT",
     "referrer-policy": "same-origin",
-    "set-cookie": "csrftoken=7nZsV6Dbl661nhWaQ8nVK5g5FHjEGYEU; expires=Sun, 08 Jun 2025 01:21:10 GMT; Max-Age=31449600; Path=/; SameSite=Lax; Secure",
+    "set-cookie": "csrftoken=sF67SVCTtRiOMze2q6oK2AIGAPVR6qYV; expires=Sun, 15 Jun 2025 01:21:20 GMT; Max-Age=31449600; Path=/; SameSite=Lax; Secure",
     "strict-transport-security": "max-age=31536000",
     "vary": "Cookie, origin, Accept-Language",
     "x-content-type-options": "nosniff",
     "x-frame-options": "DENY",
-    "x-request-id": "ebc26bed-aa6e-4b0b-9315-a0478e8b8ea3"
+    "x-request-id": "359ff9c8-2d0b-4884-81da-0f875f77aa73"
   },
   "endpoints": [
     {
       "hostname": "acceslibre.beta.gouv.fr",
-      "ip": "109.232.233.130",
+      "ip": "109.232.236.90",
       "geoip": {
         "continent": {
           "code": "EU",
