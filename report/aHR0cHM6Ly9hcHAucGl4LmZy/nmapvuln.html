@@ -54,7 +54,7 @@
 <h1>Scan Report<br><small>Nmap 7.92</small>
 </h1>
 <pre style="white-space:pre-wrap; word-wrap:break-word;">nmap -sV --script vulners --script-args mincvss=5.0 -oA /data/nmapvuln app.pix.fr</pre>
-<p class="lead">Sun Jun  9 01:44:32 2024 – Sun Jun  9 01:45:07 2024<br>1 hosts scanned.
+<p class="lead">Sun Jun 16 01:39:00 2024 – Sun Jun 16 01:39:35 2024<br>1 hosts scanned.
               1 hosts up.
               0 hosts down.
             </p>
@@ -121,7 +121,7 @@
 <pre style="white-space:pre-wrap; word-wrap:break-word;">
   FourOhFourRequest: 
     HTTP/1.1 301 Moved Permanently
-    Date: Sun, 09 Jun 2024 01:44:46 GMT
+    Date: Sun, 16 Jun 2024 01:39:14 GMT
     Content-Type: text/html
     Content-Length: 166
     Connection: close
@@ -135,7 +135,7 @@
     &lt;/html&gt;
   GetRequest, HTTPOptions: 
     HTTP/1.1 301 Moved Permanently
-    Date: Sun, 09 Jun 2024 01:44:46 GMT
+    Date: Sun, 16 Jun 2024 01:39:13 GMT
     Content-Type: text/html
     Content-Length: 166
     Connection: close
@@ -147,9 +147,22 @@
     &lt;hr&gt;&lt;center&gt;openresty&lt;/center&gt;
     &lt;/body&gt;
     &lt;/html&gt;
-  RTSPRequest, X11Probe: 
+  RTSPRequest: 
     HTTP/1.1 400 Bad Request
-    Date: Sun, 09 Jun 2024 01:44:46 GMT
+    Date: Sun, 16 Jun 2024 01:39:13 GMT
+    Content-Type: text/html
+    Content-Length: 154
+    Connection: close
+    &lt;html&gt;
+    &lt;head&gt;&lt;title&gt;400 Bad Request&lt;/title&gt;&lt;/head&gt;
+    &lt;body&gt;
+    &lt;center&gt;&lt;h1&gt;400 Bad Request&lt;/h1&gt;&lt;/center&gt;
+    &lt;hr&gt;&lt;center&gt;openresty&lt;/center&gt;
+    &lt;/body&gt;
+    &lt;/html&gt;
+  X11Probe: 
+    HTTP/1.1 400 Bad Request
+    Date: Sun, 16 Jun 2024 01:39:14 GMT
     Content-Type: text/html
     Content-Length: 154
     Connection: close
@@ -175,7 +188,7 @@
 <pre style="white-space:pre-wrap; word-wrap:break-word;">
   GetRequest: 
     HTTP/1.1 200 OK
-    Date: Sun, 09 Jun 2024 01:44:52 GMT
+    Date: Sun, 16 Jun 2024 01:39:19 GMT
     Content-Type: text/html
     Content-Length: 3881
     Connection: close
@@ -185,10 +198,10 @@
     X-Frame-Options: DENY
     X-Content-Type-Options: nosniff
     X-XSS-Protection: 1; mode=block
-    &lt;!doctypehtml&gt;&lt;meta name="viewport"content="width=device-width"&gt;&lt;meta charset="utf-8"&gt;&lt;script&gt;&lt;/script&gt;&lt;script&gt;var __blnChallengeStore={"domain":".pix.fr","checkChallengeParams":{"tracking_id":"","rule_id":"","bot_category":"unknown","request_fate":"challengejs"},"cookie":{"name":"visit_baleen_ACM-655d43","maxAge":900,"path":"/","value":"CJ6NlQVTcLb-4_DeUuXAGc6MQ4n9iCRak2_BGhX-yIQNkK0dUQAhaDLm-z2a2mIijsvexfKtp1Q7RzyAMRrBDnlUTNsZ5KGzdrcofP0R6wU"},"unregisterServiceWorker":false};(()=&gt;{"use strict";const e=function*({domain:e,maxAge:n,name:o,path:a,secure:t,value:i}){yield`${o}=${i}`
+    &lt;!doctypehtml&gt;&lt;meta name="viewport"content="width=device-width"&gt;&lt;meta charset="utf-8"&gt;&lt;script&gt;&lt;/script&gt;&lt;script&gt;var __blnChallengeStore={"checkChallengeParams":{"request_fate":"challengejs","tracking_id":"","bot_category":"unknown","rule_id":""},"domain":".pix.fr","unregisterServiceWorker":false,"cookie":{"name":"visit_baleen_ACM-655d43","maxAge":900,"path":"/","value":"CJ6NlQVTcLb-4_DeUuXAGe-F5mZK0-J7Rt7SUkjrttF2zKoc-cLcOHQOIVjNBldn_BdmjR58CDq_sE-JWYgdCMPsTD2pK-OwUatSnd-p6Ls"}};(()=&gt;{"use strict";const e=function*({domain:e,maxAge:n,name:o,path:a,secure:t,value:i}){yield`${o}=${i}`
   HTTPOptions: 
     HTTP/1.1 200 OK
-    Date: Sun, 09 Jun 2024 01:44:52 GMT
+    Date: Sun, 16 Jun 2024 01:39:20 GMT
     Content-Type: text/html
     Content-Length: 3881
     Connection: close
@@ -198,7 +211,7 @@
     X-Frame-Options: DENY
     X-Content-Type-Options: nosniff
     X-XSS-Protection: 1; mode=block
-    &lt;!doctypehtml&gt;&lt;meta name="viewport"content="width=device-width"&gt;&lt;meta charset="utf-8"&gt;&lt;script&gt;&lt;/script&gt;&lt;script&gt;var __blnChallengeStore={"unregisterServiceWorker":false,"checkChallengeParams":{"request_fate":"challengejs","tracking_id":"","bot_category":"unknown","rule_id":""},"cookie":{"maxAge":900,"path":"/","value":"LK5yY9r3nf_ulqGyRq8EXiXxvK3ttX5438cYA_ssDq31tQLPp1vEt7ySnM7rmEB3h2BgvhDSVFgit559GbLnS_lSr2m1pAi3Iwjy__8-WiI","name":"visit_baleen_ACM-655d43"},"domain":".pix.fr"};(()=&gt;{"use strict";const e=function*({domain:e,maxAge:n,name:o,path:a,secure:t,value:i}){yield`${o}=${i}`</pre>
+    &lt;!doctypehtml&gt;&lt;meta name="viewport"content="width=device-width"&gt;&lt;meta charset="utf-8"&gt;&lt;script&gt;&lt;/script&gt;&lt;script&gt;var __blnChallengeStore={"checkChallengeParams":{"tracking_id":"","rule_id":"","bot_category":"unknown","request_fate":"challengejs"},"domain":".pix.fr","cookie":{"value":"AcZdnx1hA94-uTHMAgLReZYGUjI0CU7baZlDvbnieQLIY3LTTxrvizT2pk4CFc7ku2ZTE_sUY11ufzZeZzErWaMpcwvKw05ySELJs2yz1o4","path":"/","name":"visit_baleen_ACM-655d43","maxAge":900},"unregisterServiceWorker":false};(()=&gt;{"use strict";const e=function*({domain:e,maxAge:n,name:o,path:a,secure:t,value:i}){yield`${o}=${i}`</pre>
 </td></tr>
 </tbody>
 </table></div>

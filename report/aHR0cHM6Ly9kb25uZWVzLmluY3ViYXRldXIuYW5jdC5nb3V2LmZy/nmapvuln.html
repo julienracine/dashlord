@@ -54,7 +54,7 @@
 <h1>Scan Report<br><small>Nmap 7.92</small>
 </h1>
 <pre style="white-space:pre-wrap; word-wrap:break-word;">nmap -sV --script vulners --script-args mincvss=5.0 -oA /data/nmapvuln donnees.incubateur.anct.gouv.fr</pre>
-<p class="lead">Sun Jun  9 09:31:21 2024 – Sun Jun  9 09:31:41 2024<br>1 hosts scanned.
+<p class="lead">Sun Jun 16 09:35:28 2024 – Sun Jun 16 09:35:49 2024<br>1 hosts scanned.
               1 hosts up.
               0 hosts down.
             </p>
@@ -180,17 +180,7 @@
 <td title="Extra Info"></td>
 </tr>
 <tr><td colspan="7">
-<a href="https://nvd.nist.gov/vuln/search/results?form_type=Advanced&amp;cves=on&amp;cpe_version=cpe:/a:postgresql:postgresql">cpe:/a:postgresql:postgresql</a><h5>fingerprint-strings</h5>
-<pre style="white-space:pre-wrap; word-wrap:break-word;">
-  SMBProgNeg: 
-    SFATAL
-    VFATAL
-    C0A000
-    Munsupported frontend protocol 65363.19778: server supports 2.0 to 3.0
-    Fpostmaster.c
-    L2120
-    RProcessStartupPacket</pre>
-<h5>vulners</h5>
+<a href="https://nvd.nist.gov/vuln/search/results?form_type=Advanced&amp;cves=on&amp;cpe_version=cpe:/a:postgresql:postgresql">cpe:/a:postgresql:postgresql</a><h5>vulners</h5>
 <pre style="white-space:pre-wrap; word-wrap:break-word;">
   PostgreSQL DB 9.6.0 or later: 
     	CVE-2018-1115	9.1	https://vulners.com/cve/CVE-2018-1115
@@ -210,6 +200,16 @@
     	CVE-2021-32028	6.5	https://vulners.com/cve/CVE-2021-32028
     	CVE-2020-1720	6.5	https://vulners.com/cve/CVE-2020-1720
     	CVE-2023-2455	5.4	https://vulners.com/cve/CVE-2023-2455</pre>
+<h5>fingerprint-strings</h5>
+<pre style="white-space:pre-wrap; word-wrap:break-word;">
+  SMBProgNeg: 
+    SFATAL
+    VFATAL
+    C0A000
+    Munsupported frontend protocol 65363.19778: server supports 2.0 to 3.0
+    Fpostmaster.c
+    L2120
+    RProcessStartupPacket</pre>
 </td></tr>
 <tr class="success">
 <td title="Port">8000</td>
