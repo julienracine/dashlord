@@ -3,8 +3,8 @@
               "id"           : "service",
               "ip"           : "world.openfoodfacts.org/213.36.253.214",
               "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "HTTP"
+              "severity"     : "DEBUG",
+              "finding"      : "Couldn't determine service, skipping all HTTP checks"
           }
 ,         {
               "id"           : "pre_128cipher",
@@ -52,8 +52,8 @@
               "id"           : "TLS1_3",
               "ip"           : "world.openfoodfacts.org/213.36.253.214",
               "port"         : "443",
-              "severity"     : "OK",
-              "finding"      : "offered with final"
+              "severity"     : "CRITICAL",
+              "finding"      : "connection failed rather than downgrading to TLSv1.2"
           }
 ,         {
               "id"           : "ALPN_HTTP2",
@@ -206,7 +206,7 @@
               "ip"           : "world.openfoodfacts.org/213.36.253.214",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "'renegotiation info/#65281' 'server name/#0' 'EC point formats/#11' 'status request/#5' 'next protocol/#13172' 'supported versions/#43' 'key share/#51' 'supported_groups/#10' 'max fragment length/#1' 'application layer protocol negotiation/#16' 'encrypt-then-mac/#22' 'extended master secret/#23'"
+              "finding"      : "'renegotiation info/#65281' 'server name/#0' 'EC point formats/#11' 'status request/#5' 'next protocol/#13172' 'max fragment length/#1' 'application layer protocol negotiation/#16' 'encrypt-then-mac/#22' 'extended master secret/#23'"
           }
 ,         {
               "id"           : "TLS_session_ticket",
@@ -244,11 +244,11 @@
               "finding"      : "random"
           }
 ,         {
-              "id"           : "certificate_compression",
+              "id"           : "cert_compression",
               "ip"           : "world.openfoodfacts.org/213.36.253.214",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "none"
+              "finding"      : "N/A"
           }
 ,         {
               "id"           : "clientAuth",
@@ -381,7 +381,7 @@
               "ip"           : "world.openfoodfacts.org/213.36.253.214",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "49 >= 30 days"
+              "finding"      : "42 >= 30 days"
           }
 ,         {
               "id"           : "cert_notBefore",
@@ -531,84 +531,6 @@
               "finding"      : "intermediate certificate(s) is/are ok"
           }
 ,         {
-              "id"           : "HTTP_status_code",
-              "ip"           : "world.openfoodfacts.org/213.36.253.214",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "200 OK ('/')"
-          }
-,         {
-              "id"           : "HTTP_clock_skew",
-              "ip"           : "world.openfoodfacts.org/213.36.253.214",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "0 seconds from localtime"
-          }
-,         {
-              "id"           : "HTTP_headerTime",
-              "ip"           : "world.openfoodfacts.org/213.36.253.214",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "1717930759"
-          }
-,         {
-              "id"           : "HSTS",
-              "ip"           : "world.openfoodfacts.org/213.36.253.214",
-              "port"         : "443",
-              "severity"     : "LOW",
-              "finding"      : "not offered"
-          }
-,         {
-              "id"           : "HPKP",
-              "ip"           : "world.openfoodfacts.org/213.36.253.214",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "No support for HTTP Public Key Pinning"
-          }
-,         {
-              "id"           : "banner_server",
-              "ip"           : "world.openfoodfacts.org/213.36.253.214",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "nginx/1.18.0"
-          }
-,         {
-              "id"           : "banner_application",
-              "ip"           : "world.openfoodfacts.org/213.36.253.214",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "No application banner found"
-          }
-,         {
-              "id"           : "cookie_count",
-              "ip"           : "world.openfoodfacts.org/213.36.253.214",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "0 at '/'"
-          }
-,         {
-              "id"           : "X-Content-Type-Options",
-              "ip"           : "world.openfoodfacts.org/213.36.253.214",
-              "port"         : "443",
-              "severity"     : "OK",
-              "finding"      : "nosniff"
-          }
-,         {
-              "id"           : "X-XSS-Protection",
-              "ip"           : "world.openfoodfacts.org/213.36.253.214",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "1; mode=block"
-          }
-,         {
-              "id"           : "banner_reverseproxy",
-              "ip"           : "world.openfoodfacts.org/213.36.253.214",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "cwe"          : "CWE-200",
-              "finding"      : "--"
-          }
-,         {
               "id"           : "heartbleed",
               "ip"           : "world.openfoodfacts.org/213.36.253.214",
               "port"         : "443",
@@ -630,10 +552,10 @@
               "id"           : "ticketbleed",
               "ip"           : "world.openfoodfacts.org/213.36.253.214",
               "port"         : "443",
-              "severity"     : "OK",
+              "severity"     : "INFO",
               "cve"          : "CVE-2016-9244",
               "cwe"          : "CWE-200",
-              "finding"      : "no session ticket extension"
+              "finding"      : "not applicable, not HTTP"
           }
 ,         {
               "id"           : "ROBOT",
@@ -668,16 +590,7 @@
               "severity"     : "OK",
               "cve"          : "CVE-2012-4929",
               "cwe"          : "CWE-310",
-              "finding"      : "not vulnerable"
-          }
-,         {
-              "id"           : "BREACH",
-              "ip"           : "world.openfoodfacts.org/213.36.253.214",
-              "port"         : "443",
-              "severity"     : "MEDIUM",
-              "cve"          : "CVE-2013-3587",
-              "cwe"          : "CWE-310",
-              "finding"      : "potentially VULNERABLE, gzip HTTP compression detected  - only supplied '/' tested"
+              "finding"      : "not vulnerable (not using HTTP anyway)"
           }
 ,         {
               "id"           : "POODLE_SSL",
@@ -749,392 +662,3 @@
               "cwe"          : "CWE-310",
               "finding"      : "no DH key with <= TLS 1.2"
           }
-,         {
-              "id"           : "BEAST_CBC_TLS1",
-              "ip"           : "world.openfoodfacts.org/213.36.253.214",
-              "port"         : "443",
-              "severity"     : "MEDIUM",
-              "cve"          : "CVE-2011-3389",
-              "cwe"          : "CWE-20",
-              "finding"      : "ECDHE-RSA-AES256-SHA"
-          }
-,         {
-              "id"           : "BEAST",
-              "ip"           : "world.openfoodfacts.org/213.36.253.214",
-              "port"         : "443",
-              "severity"     : "LOW",
-              "cve"          : "CVE-2011-3389",
-              "cwe"          : "CWE-20",
-              "finding"      : "VULNERABLE -- but also supports higher protocols  TLSv1.1 TLSv1.2 (likely mitigated)"
-          }
-,         {
-              "id"           : "LUCKY13",
-              "ip"           : "world.openfoodfacts.org/213.36.253.214",
-              "port"         : "443",
-              "severity"     : "LOW",
-              "cve"          : "CVE-2013-0169",
-              "cwe"          : "CWE-310",
-              "finding"      : "potentially vulnerable, uses TLS CBC ciphers"
-          }
-,         {
-              "id"           : "winshock",
-              "ip"           : "world.openfoodfacts.org/213.36.253.214",
-              "port"         : "443",
-              "severity"     : "OK",
-              "cve"          : "CVE-2014-6321",
-              "cwe"          : "CWE-94",
-              "finding"      : "not vulnerable"
-          }
-,         {
-              "id"           : "RC4",
-              "ip"           : "world.openfoodfacts.org/213.36.253.214",
-              "port"         : "443",
-              "severity"     : "OK",
-              "cve"          : "CVE-2013-2566 CVE-2015-2808",
-              "cwe"          : "CWE-310",
-              "finding"      : "not vulnerable"
-          }
-,         {
-              "id"           : "clientsimulation-android_60",
-              "ip"           : "world.openfoodfacts.org/213.36.253.214",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "TLSv1.2 ECDHE-RSA-AES128-GCM-SHA256"
-          }
-,         {
-              "id"           : "clientsimulation-android_70",
-              "ip"           : "world.openfoodfacts.org/213.36.253.214",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "TLSv1.2 ECDHE-RSA-AES256-GCM-SHA384"
-          }
-,         {
-              "id"           : "clientsimulation-android_81",
-              "ip"           : "world.openfoodfacts.org/213.36.253.214",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "TLSv1.2 ECDHE-RSA-AES256-GCM-SHA384"
-          }
-,         {
-              "id"           : "clientsimulation-android_90",
-              "ip"           : "world.openfoodfacts.org/213.36.253.214",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "TLSv1.3 TLS_AES_256_GCM_SHA384"
-          }
-,         {
-              "id"           : "clientsimulation-android_X",
-              "ip"           : "world.openfoodfacts.org/213.36.253.214",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "TLSv1.3 TLS_AES_256_GCM_SHA384"
-          }
-,         {
-              "id"           : "clientsimulation-android_11",
-              "ip"           : "world.openfoodfacts.org/213.36.253.214",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "TLSv1.3 TLS_AES_256_GCM_SHA384"
-          }
-,         {
-              "id"           : "clientsimulation-android_12",
-              "ip"           : "world.openfoodfacts.org/213.36.253.214",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "TLSv1.3 TLS_AES_256_GCM_SHA384"
-          }
-,         {
-              "id"           : "clientsimulation-chrome_79_win10",
-              "ip"           : "world.openfoodfacts.org/213.36.253.214",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "TLSv1.3 TLS_AES_256_GCM_SHA384"
-          }
-,         {
-              "id"           : "clientsimulation-chrome_101_win10",
-              "ip"           : "world.openfoodfacts.org/213.36.253.214",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "TLSv1.3 TLS_AES_256_GCM_SHA384"
-          }
-,         {
-              "id"           : "clientsimulation-firefox_66_win81",
-              "ip"           : "world.openfoodfacts.org/213.36.253.214",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "TLSv1.3 TLS_AES_256_GCM_SHA384"
-          }
-,         {
-              "id"           : "clientsimulation-firefox_100_win10",
-              "ip"           : "world.openfoodfacts.org/213.36.253.214",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "TLSv1.3 TLS_AES_256_GCM_SHA384"
-          }
-,         {
-              "id"           : "clientsimulation-ie_6_xp",
-              "ip"           : "world.openfoodfacts.org/213.36.253.214",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "No connection"
-          }
-,         {
-              "id"           : "clientsimulation-ie_8_win7",
-              "ip"           : "world.openfoodfacts.org/213.36.253.214",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "TLSv1.0 ECDHE-RSA-AES256-SHA"
-          }
-,         {
-              "id"           : "clientsimulation-ie_8_xp",
-              "ip"           : "world.openfoodfacts.org/213.36.253.214",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "No connection"
-          }
-,         {
-              "id"           : "clientsimulation-ie_11_win7",
-              "ip"           : "world.openfoodfacts.org/213.36.253.214",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "TLSv1.2 ECDHE-RSA-AES256-SHA384"
-          }
-,         {
-              "id"           : "clientsimulation-ie_11_win81",
-              "ip"           : "world.openfoodfacts.org/213.36.253.214",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "TLSv1.2 ECDHE-RSA-AES256-SHA384"
-          }
-,         {
-              "id"           : "clientsimulation-ie_11_winphone81",
-              "ip"           : "world.openfoodfacts.org/213.36.253.214",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "TLSv1.2 ECDHE-RSA-AES256-SHA"
-          }
-,         {
-              "id"           : "clientsimulation-ie_11_win10",
-              "ip"           : "world.openfoodfacts.org/213.36.253.214",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "TLSv1.2 ECDHE-RSA-AES256-GCM-SHA384"
-          }
-,         {
-              "id"           : "clientsimulation-edge_15_win10",
-              "ip"           : "world.openfoodfacts.org/213.36.253.214",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "TLSv1.2 ECDHE-RSA-AES256-GCM-SHA384"
-          }
-,         {
-              "id"           : "clientsimulation-edge_101_win10_21h2",
-              "ip"           : "world.openfoodfacts.org/213.36.253.214",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "TLSv1.3 TLS_AES_256_GCM_SHA384"
-          }
-,         {
-              "id"           : "clientsimulation-safari_121_ios_122",
-              "ip"           : "world.openfoodfacts.org/213.36.253.214",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "TLSv1.3 TLS_AES_256_GCM_SHA384"
-          }
-,         {
-              "id"           : "clientsimulation-safari_130_osx_10146",
-              "ip"           : "world.openfoodfacts.org/213.36.253.214",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "TLSv1.3 TLS_AES_256_GCM_SHA384"
-          }
-,         {
-              "id"           : "clientsimulation-safari_154_osx_1231",
-              "ip"           : "world.openfoodfacts.org/213.36.253.214",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "TLSv1.3 TLS_AES_256_GCM_SHA384"
-          }
-,         {
-              "id"           : "clientsimulation-java_7u25",
-              "ip"           : "world.openfoodfacts.org/213.36.253.214",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "No connection"
-          }
-,         {
-              "id"           : "clientsimulation-java_8u161",
-              "ip"           : "world.openfoodfacts.org/213.36.253.214",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "TLSv1.2 ECDHE-RSA-AES256-GCM-SHA384"
-          }
-,         {
-              "id"           : "clientsimulation-java1102",
-              "ip"           : "world.openfoodfacts.org/213.36.253.214",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "TLSv1.3 TLS_AES_256_GCM_SHA384"
-          }
-,         {
-              "id"           : "clientsimulation-java1703",
-              "ip"           : "world.openfoodfacts.org/213.36.253.214",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "TLSv1.3 TLS_AES_256_GCM_SHA384"
-          }
-,         {
-              "id"           : "clientsimulation-go_1178",
-              "ip"           : "world.openfoodfacts.org/213.36.253.214",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "TLSv1.3 TLS_AES_256_GCM_SHA384"
-          }
-,         {
-              "id"           : "clientsimulation-libressl_283",
-              "ip"           : "world.openfoodfacts.org/213.36.253.214",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "TLSv1.2 ECDHE-RSA-AES256-GCM-SHA384"
-          }
-,         {
-              "id"           : "clientsimulation-openssl_102e",
-              "ip"           : "world.openfoodfacts.org/213.36.253.214",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "TLSv1.2 ECDHE-RSA-AES256-GCM-SHA384"
-          }
-,         {
-              "id"           : "clientsimulation-openssl_110l",
-              "ip"           : "world.openfoodfacts.org/213.36.253.214",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "TLSv1.2 ECDHE-RSA-AES256-GCM-SHA384"
-          }
-,         {
-              "id"           : "clientsimulation-openssl_111d",
-              "ip"           : "world.openfoodfacts.org/213.36.253.214",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "TLSv1.3 TLS_AES_256_GCM_SHA384"
-          }
-,         {
-              "id"           : "clientsimulation-openssl_303",
-              "ip"           : "world.openfoodfacts.org/213.36.253.214",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "TLSv1.3 TLS_AES_256_GCM_SHA384"
-          }
-,         {
-              "id"           : "clientsimulation-apple_mail_16_0",
-              "ip"           : "world.openfoodfacts.org/213.36.253.214",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "TLSv1.2 ECDHE-RSA-AES256-GCM-SHA384"
-          }
-,         {
-              "id"           : "clientsimulation-thunderbird_91_9",
-              "ip"           : "world.openfoodfacts.org/213.36.253.214",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "TLSv1.3 TLS_AES_256_GCM_SHA384"
-          }
-,         {
-              "id"           : "rating_spec",
-              "ip"           : "world.openfoodfacts.org/213.36.253.214",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "SSL Labs's 'SSL Server Rating Guide' (version 2009q from 2020-01-30)"
-          }
-,         {
-              "id"           : "rating_doc",
-              "ip"           : "world.openfoodfacts.org/213.36.253.214",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "https://github.com/ssllabs/research/wiki/SSL-Server-Rating-Guide"
-          }
-,         {
-              "id"           : "protocol_support_score",
-              "ip"           : "world.openfoodfacts.org/213.36.253.214",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "95"
-          }
-,         {
-              "id"           : "protocol_support_score_weighted",
-              "ip"           : "world.openfoodfacts.org/213.36.253.214",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "28"
-          }
-,         {
-              "id"           : "key_exchange_score",
-              "ip"           : "world.openfoodfacts.org/213.36.253.214",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "90"
-          }
-,         {
-              "id"           : "key_exchange_score_weighted",
-              "ip"           : "world.openfoodfacts.org/213.36.253.214",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "27"
-          }
-,         {
-              "id"           : "cipher_strength_score",
-              "ip"           : "world.openfoodfacts.org/213.36.253.214",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "60"
-          }
-,         {
-              "id"           : "cipher_strength_score_weighted",
-              "ip"           : "world.openfoodfacts.org/213.36.253.214",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "24"
-          }
-,         {
-              "id"           : "final_score",
-              "ip"           : "world.openfoodfacts.org/213.36.253.214",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "79"
-          }
-,         {
-              "id"           : "overall_grade",
-              "ip"           : "world.openfoodfacts.org/213.36.253.214",
-              "port"         : "443",
-              "severity"     : "MEDIUM",
-              "finding"      : "B"
-          }
-,         {
-              "id"           : "grade_cap_reason_1",
-              "ip"           : "world.openfoodfacts.org/213.36.253.214",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "Grade capped to B. TLS 1.1 offered"
-          }
-,         {
-              "id"           : "grade_cap_reason_2",
-              "ip"           : "world.openfoodfacts.org/213.36.253.214",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "Grade capped to B. TLS 1.0 offered"
-          }
-,         {
-              "id"           : "grade_cap_reason_3",
-              "ip"           : "world.openfoodfacts.org/213.36.253.214",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "Grade capped to A. HSTS is not offered"
-          }
-,         {
-              "id"           : "scanTime",
-              "ip"           : "world.openfoodfacts.org/213.36.253.214",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "65"
-          }
-]
