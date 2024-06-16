@@ -1,12 +1,37 @@
 {
-  "trackers": [],
+  "trackers": [
+    {
+      "type": "unknown",
+      "url": "https://annuaire-des-collectivites-production-storage.s3.fr-par.scw.cloud/technical_error_8594bf81a7.svg"
+    },
+    {
+      "type": "unknown",
+      "url": "https://annuaire-des-collectivites-production-storage.s3.fr-par.scw.cloud/document_add_a703beb833.svg"
+    },
+    {
+      "type": "unknown",
+      "url": "https://annuaire-des-collectivites-production-storage.s3.fr-par.scw.cloud/coding_5021407b46.svg"
+    },
+    {
+      "type": "unknown",
+      "url": "https://annuaire-des-collectivites-production-storage.s3.fr-par.scw.cloud/add_line_f899d2f269.svg"
+    },
+    {
+      "type": "unknown",
+      "url": "https://annuaire-des-collectivites-production-storage.s3.fr-par.scw.cloud/file_text_line_4631092e65.svg"
+    },
+    {
+      "type": "unknown",
+      "url": "https://annuaire-des-collectivites-production-storage.s3.fr-par.scw.cloud/verified_badge_line_98e614e870.svg"
+    }
+  ],
   "cookies": [
     {
       "name": "_pk_ses.6.88ba",
       "value": "1",
       "domain": "collectivite.fr",
       "path": "/",
-      "expires": 1717928371,
+      "expires": 1718532933,
       "size": 15,
       "httpOnly": false,
       "secure": false,
@@ -18,10 +43,10 @@
     },
     {
       "name": "_pk_id.6.88ba",
-      "value": "072e03737370dcdc.1717926571.",
+      "value": "8a7062ef6483b57c.1718531134.",
       "domain": "collectivite.fr",
       "path": "/",
-      "expires": 1751881771,
+      "expires": 1752486334,
       "size": 41,
       "httpOnly": false,
       "secure": false,
@@ -34,7 +59,7 @@
   ],
   "headers": {
     "content-type": "text/html",
-    "date": "Sun, 09 Jun 2024 09:49:30 GMT",
+    "date": "Sun, 16 Jun 2024 09:45:32 GMT",
     "referrer-policy": "no-referrer",
     "strict-transport-security": "max-age=31536000",
     "x-frame-options": "SAMEORIGIN"
@@ -43,6 +68,104 @@
     {
       "hostname": "collectivite.fr",
       "ip": "51.159.10.161",
+      "geoip": {
+        "city": {
+          "geoname_id": 2988507,
+          "names": {
+            "de": "Paris",
+            "en": "Paris",
+            "es": "París",
+            "fr": "Paris",
+            "ja": "パリ",
+            "pt-BR": "Paris",
+            "ru": "Париж",
+            "zh-CN": "巴黎"
+          }
+        },
+        "continent": {
+          "code": "EU",
+          "geoname_id": 6255148,
+          "names": {
+            "de": "Europa",
+            "en": "Europe",
+            "es": "Europa",
+            "fr": "Europe",
+            "ja": "ヨーロッパ",
+            "pt-BR": "Europa",
+            "ru": "Европа",
+            "zh-CN": "欧洲"
+          }
+        },
+        "country": {
+          "geoname_id": 3017382,
+          "is_in_european_union": true,
+          "iso_code": "FR",
+          "names": {
+            "de": "Frankreich",
+            "en": "France",
+            "es": "Francia",
+            "fr": "France",
+            "ja": "フランス共和国",
+            "pt-BR": "França",
+            "ru": "Франция",
+            "zh-CN": "法国"
+          }
+        },
+        "location": {
+          "accuracy_radius": 1000,
+          "latitude": 48.8323,
+          "longitude": 2.4075,
+          "time_zone": "Europe/Paris"
+        },
+        "postal": {
+          "code": "75001"
+        },
+        "registered_country": {
+          "geoname_id": 3017382,
+          "is_in_european_union": true,
+          "iso_code": "FR",
+          "names": {
+            "de": "Frankreich",
+            "en": "France",
+            "es": "Francia",
+            "fr": "France",
+            "ja": "フランス共和国",
+            "pt-BR": "França",
+            "ru": "Франция",
+            "zh-CN": "法国"
+          }
+        },
+        "subdivisions": [
+          {
+            "geoname_id": 3012874,
+            "iso_code": "IDF",
+            "names": {
+              "de": "Île-de-France",
+              "en": "Île-de-France",
+              "es": "Isla de Francia",
+              "fr": "Île-de-France",
+              "ja": "イル・ド・フランス",
+              "pt-BR": "Ilha de França",
+              "ru": "Иль-де-Франс",
+              "zh-CN": "法兰西岛"
+            }
+          },
+          {
+            "geoname_id": 2968815,
+            "iso_code": "75",
+            "names": {
+              "de": "Paris",
+              "en": "Paris",
+              "es": "Paris",
+              "fr": "Paris"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "hostname": "annuaire-des-collectivites-production-storage.s3.fr-par.scw.cloud",
+      "ip": "51.159.62.7",
       "geoip": {
         "city": {
           "geoname_id": 2988507,
