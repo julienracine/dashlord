@@ -54,7 +54,7 @@
 <h1>Scan Report<br><small>Nmap 7.92</small>
 </h1>
 <pre style="white-space:pre-wrap; word-wrap:break-word;">nmap -sV --script vulners --script-args mincvss=5.0 -oA /data/nmapvuln refugies.info</pre>
-<p class="lead">Sun Jun  9 11:49:37 2024 – Sun Jun  9 11:50:49 2024<br>1 hosts scanned.
+<p class="lead">Sun Jun 16 11:56:11 2024 – Sun Jun 16 11:57:22 2024<br>1 hosts scanned.
               1 hosts up.
               0 hosts down.
             </p>
@@ -122,32 +122,38 @@
 <tr><td colspan="7">
 <a href="https://nvd.nist.gov/vuln/search/results?form_type=Advanced&amp;cves=on&amp;cpe_version="></a><h5>fingerprint-strings</h5>
 <pre style="white-space:pre-wrap; word-wrap:break-word;">
-  DNSStatusRequestTCP, DNSVersionBindReqTCP: 
+  DNSStatusRequestTCP: 
     HTTP/1.0 400 Bad Request
     Content-Length: 54
     Content-Type: text/html; charset=UTF-8
-    Date: Sun, 09 Jun 2024 11:50:04 GMT
+    Date: Sun, 16 Jun 2024 11:56:38 GMT
+    &lt;html&gt;&lt;title&gt;Error 400 (Bad Request)!!1&lt;/title&gt;&lt;/html&gt;
+  DNSVersionBindReqTCP: 
+    HTTP/1.0 400 Bad Request
+    Content-Length: 54
+    Content-Type: text/html; charset=UTF-8
+    Date: Sun, 16 Jun 2024 11:56:37 GMT
     &lt;html&gt;&lt;title&gt;Error 400 (Bad Request)!!1&lt;/title&gt;&lt;/html&gt;
   FourOhFourRequest: 
     HTTP/1.0 301 Moved Permanently
     Cache-Control: private
     Location: https://34.120.26.1:443/nice%20ports%2C/Trinity.txt.bak
     Content-Length: 0
-    Date: Sun, 09 Jun 2024 11:49:54 GMT
+    Date: Sun, 16 Jun 2024 11:56:27 GMT
     Content-Type: text/html; charset=UTF-8
   GetRequest, HTTPOptions: 
     HTTP/1.0 301 Moved Permanently
     Cache-Control: private
     Location: https://34.120.26.1:443/
     Content-Length: 0
-    Date: Sun, 09 Jun 2024 11:49:49 GMT
+    Date: Sun, 16 Jun 2024 11:56:22 GMT
     Content-Type: text/html; charset=UTF-8
   Help: 
     HTTP/1.0 400 Bad Request
     Content-Type: text/html; charset=UTF-8
     Referrer-Policy: no-referrer
     Content-Length: 273
-    Date: Sun, 09 Jun 2024 11:50:04 GMT
+    Date: Sun, 16 Jun 2024 11:56:38 GMT
     &lt;html&gt;&lt;head&gt;
     &lt;meta http-equiv="content-type" content="text/html;charset=utf-8"&gt;
     &lt;title&gt;400 Bad Request&lt;/title&gt;
@@ -162,7 +168,7 @@
     Content-Type: text/html; charset=UTF-8
     Referrer-Policy: no-referrer
     Content-Length: 273
-    Date: Sun, 09 Jun 2024 11:49:49 GMT
+    Date: Sun, 16 Jun 2024 11:56:22 GMT
     &lt;html&gt;&lt;head&gt;
     &lt;meta http-equiv="content-type" content="text/html;charset=utf-8"&gt;
     &lt;title&gt;400 Bad Request&lt;/title&gt;
@@ -195,19 +201,19 @@
     etag: "d50jeli9xk1e0f"
     content-type: text/html; charset=utf-8
     vary: Accept-Encoding
-    X-Cloud-Trace-Context: adf67184e73c443b7e3218f6afa35c08
-    Date: Sun, 09 Jun 2024 11:49:55 GMT
+    X-Cloud-Trace-Context: 1b8a0301e231c37d49e2c42b34e9c9e9
+    Date: Sun, 16 Jun 2024 11:56:29 GMT
     Server: Google Frontend
     Content-Length: 66117
     Via: 1.1 google
     Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
     &lt;!DOCTYPE html&gt;&lt;html data-fr-scheme="light" data-fr-theme="light" lang="default"&gt;&lt;head&gt;&lt;meta charSet="utf-8"/&gt;&lt;link rel="apple-touch-icon" href="/_next/static/media/apple-touch-icon.1db30588.png"/&gt;&lt;link rel="icon" href="/_next/static/media/favicon.f453a8cf.svg" type="image/svg+xml"/&gt;&lt;link rel="shortcut icon" href="/_next/static/media/favicon.8c087985.ico" type="image/x-icon"/&gt;&lt;style id="dsfr-root-color-scheme"&gt;:root { color-scheme: light; }&lt;/style&gt;&lt;me
   GetRequest: 
-    HTTP/1.0 308 Resume Incomplete
+    HTTP/1.0 308 Permanent Redirect
     location: /fr
     refresh: 0;url=/fr
-    X-Cloud-Trace-Context: b5930010f13b8ad8684c2101693c0dd1
-    Date: Sun, 09 Jun 2024 11:49:55 GMT
+    X-Cloud-Trace-Context: 435afe463917147a1e7d1abba9536097
+    Date: Sun, 16 Jun 2024 11:56:28 GMT
     Content-Type: text/html
     Server: Google Frontend
     Content-Length: 3
@@ -217,8 +223,8 @@
     HTTP/1.0 308 Permanent Redirect
     location: /fr
     refresh: 0;url=/fr
-    X-Cloud-Trace-Context: a4aae2eee097fb57e3f837547a52160f
-    Date: Sun, 09 Jun 2024 11:49:55 GMT
+    X-Cloud-Trace-Context: 4a9df4d080399cb63932c5639e2d9d3d
+    Date: Sun, 16 Jun 2024 11:56:29 GMT
     Content-Type: text/html
     Server: Google Frontend
     Content-Length: 3
@@ -228,7 +234,7 @@
     HTTP/1.0 400 Bad Request
     Content-Length: 54
     Content-Type: text/html; charset=UTF-8
-    Date: Sun, 09 Jun 2024 11:49:56 GMT
+    Date: Sun, 16 Jun 2024 11:56:29 GMT
     &lt;html&gt;&lt;title&gt;Error 400 (Bad Request)!!1&lt;/title&gt;&lt;/html&gt;</pre>
 </td></tr>
 </tbody>
