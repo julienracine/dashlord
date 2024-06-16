@@ -1,0 +1,501 @@
+{
+  "trackers": [
+    {
+      "type": "unknown",
+      "url": "https://eba3cd73b26da308c33fac00f2897fc9.cdn.bubble.io/f1618227041113x740068462949819800/clipboard.min.js"
+    },
+    {
+      "type": "cloudflare",
+      "url": "https://cdnjs.cloudflare.com/ajax/libs/apexcharts/3.37.3/apexcharts.min.js",
+      "details": {
+        "id": "cloudflare",
+        "message": "Host files locally"
+      }
+    },
+    {
+      "type": "cloudfront",
+      "url": "https://d2tf8y1b8kxrzw.cloudfront.net/serve_files/airalert/jquery.toast.min.css",
+      "details": {
+        "id": "cloudfront",
+        "message": "Host files locally"
+      }
+    },
+    {
+      "type": "cloudfront",
+      "url": "https://d2tf8y1b8kxrzw.cloudfront.net/serve_files/airalert/jquery-xss.toast.min.js",
+      "details": {
+        "id": "cloudfront",
+        "message": "Host files locally"
+      }
+    },
+    {
+      "type": "unknown",
+      "url": "https://eba3cd73b26da308c33fac00f2897fc9.cdn.bubble.io/f1539208662229x803640740225091600/download.js"
+    },
+    {
+      "type": "unpkg",
+      "url": "https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js",
+      "details": {
+        "id": "unpkg",
+        "message": "Host files locally"
+      }
+    },
+    {
+      "type": "unpkg",
+      "url": "https://unpkg.com/@dotlottie/player-component@1.0.0/dist/dotlottie-player.js",
+      "details": {
+        "id": "unpkg",
+        "message": "Host files locally"
+      }
+    },
+    {
+      "type": "unpkg",
+      "url": "https://unpkg.com/@lottiefiles/lottie-interactivity@latest/dist/lottie-interactivity.min.js",
+      "details": {
+        "id": "unpkg",
+        "message": "Host files locally"
+      }
+    },
+    {
+      "type": "unknown",
+      "url": "https://s3.amazonaws.com/appforest_uf/f1678207023328x554327879471268500/font-marianne-bold.css"
+    },
+    {
+      "type": "unknown",
+      "url": "https://s3.amazonaws.com/appforest_uf/f1678206894280x278115442214581500/font-marianne-med.css"
+    },
+    {
+      "type": "unknown",
+      "url": "https://s3.amazonaws.com/appforest_uf/f1678206971846x188133202385374360/font-marianne-reg.css"
+    },
+    {
+      "type": "unpkg",
+      "url": "https://unpkg.com/@lottiefiles/lottie-interactivity@1.6.2/dist/lottie-interactivity.min.js",
+      "details": {
+        "id": "unpkg",
+        "message": "Host files locally"
+      }
+    },
+    {
+      "type": "unpkg",
+      "url": "https://unpkg.com/@lottiefiles/lottie-player@2.0.4/dist/lottie-player.js",
+      "details": {
+        "id": "unpkg",
+        "message": "Host files locally"
+      }
+    },
+    {
+      "type": "unknown",
+      "url": "https://s3.amazonaws.com/appforest_uf/f1678206650950x598128875872265300/Marianne-Bold.otf"
+    },
+    {
+      "type": "unknown",
+      "url": "https://s3.amazonaws.com/appforest_uf/f1678206794930x218136516585784700/Marianne-Medium.otf"
+    },
+    {
+      "type": "unknown",
+      "url": "https://s3.amazonaws.com/appforest_uf/f1678206600203x993608576952853400/Marianne-Regular.otf"
+    },
+    {
+      "type": "unknown",
+      "url": "https://plst237.s3.amazonaws.com/plst.js"
+    },
+    {
+      "type": "unknown",
+      "url": "https://s3.amazonaws.com/appforest_uf/f1678206650950x598128875872265300/Marianne-Bold.otf"
+    },
+    {
+      "type": "unknown",
+      "url": "https://s3.amazonaws.com/appforest_uf/f1678206794930x218136516585784700/Marianne-Medium.otf"
+    },
+    {
+      "type": "unknown",
+      "url": "https://s3.amazonaws.com/appforest_uf/f1678206600203x993608576952853400/Marianne-Regular.otf"
+    },
+    {
+      "type": "unknown",
+      "url": "https://eba3cd73b26da308c33fac00f2897fc9.cdn.bubble.io/f1689752999514x770475554639616500/Bloc%20marque.svg"
+    },
+    {
+      "type": "unknown",
+      "url": "https://eba3cd73b26da308c33fac00f2897fc9.cdn.bubble.io/f1689753010294x976748322062495200/Badge%20-%20Personnalise%CC%81.svg"
+    },
+    {
+      "type": "unknown",
+      "url": "https://eba3cd73b26da308c33fac00f2897fc9.cdn.bubble.io/f1679646346305x338382775079305150/external-link.svg"
+    }
+  ],
+  "cookies": [
+    {
+      "name": "jafer-beta-gouv_u1main",
+      "value": "1718540971131x462844866936590100",
+      "domain": ".jafer.beta.gouv.fr",
+      "path": "/",
+      "expires": -1,
+      "size": 54,
+      "httpOnly": false,
+      "secure": true,
+      "session": true,
+      "sameParty": false,
+      "sourceScheme": "Secure",
+      "sourcePort": 443
+    },
+    {
+      "name": "jafer-beta-gouv_live_u2main.sig",
+      "value": "xTUxnjSRDfnMeJplGDlIvp37lqU",
+      "domain": ".jafer.beta.gouv.fr",
+      "path": "/",
+      "expires": 1718800171.201789,
+      "size": 58,
+      "httpOnly": true,
+      "secure": true,
+      "session": false,
+      "sameParty": false,
+      "sourceScheme": "Secure",
+      "sourcePort": 443
+    },
+    {
+      "name": "jafer-beta-gouv_live_u2main",
+      "value": "bus|1718540971131x462844866936590100|1718540971143x591940843293656800",
+      "domain": ".jafer.beta.gouv.fr",
+      "path": "/",
+      "expires": 1718800171.201667,
+      "size": 96,
+      "httpOnly": true,
+      "secure": true,
+      "session": false,
+      "sameParty": false,
+      "sourceScheme": "Secure",
+      "sourcePort": 443
+    }
+  ],
+  "headers": {
+    "alt-svc": "h3=\":443\"; ma=86400",
+    "cache-control": "no-store",
+    "cf-cache-status": "DYNAMIC",
+    "cf-ray": "894ace4e0d86cfe5-SJC",
+    "content-encoding": "br",
+    "content-security-policy": "frame-ancestors 'none';",
+    "content-type": "text/html",
+    "date": "Sun, 16 Jun 2024 12:29:31 GMT",
+    "referrer-policy": "origin",
+    "server": "cloudflare",
+    "set-cookie": "jafer-beta-gouv_u1main=1718540971131x462844866936590100; path=/; domain=jafer.beta.gouv.fr; secure",
+    "vary": "Accept-Encoding",
+    "x-bubble-capacity-limit": "0 ms slower",
+    "x-bubble-capacity-used": "0.147 unit-seconds used",
+    "x-bubble-perf": "{\"total\":92.4,\"percents\":{\"top\":{\"bubble_cpu\":32.7,\"block\":66.7,\"capacity_rl\":0,\"other_pause\":0,\"pre_fiber\":0.6},\"sub\":{\"pp_userdb\":2.2,\"pp_wait_userdb\":0,\"http_request\":0,\"serverjson\":41.7,\"appserver_cache_misses_time\":0,\"redis\":76.4,\"fiber_queue\":3,\"capacity_wait\":8.4}},\"counts\":{\"pp_userdb\":1,\"http_request\":0,\"derived_build\":0,\"derived_cache_attempts\":9,\"derived_cache_memory_misses\":9,\"serverjson\":33,\"appserver_cache_attempts\":1,\"appserver_mem_cache_hits\":0,\"appserver_cache_hits\":1,\"appserver_cache_misses\":0,\"redis\":71,\"fiber_queue\":61,\"blocks\":60},\"misc\":{\"userdb_results\":0,\"userdb_data\":0,\"spent_time\":9527856}}",
+    "x-frame-options": "DENY",
+    "x-powered-by": "Express"
+  },
+  "endpoints": [
+    {
+      "hostname": "jafer.beta.gouv.fr",
+      "ip": "104.19.240.93",
+      "geoip": {
+        "registered_country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "USA",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        }
+      }
+    },
+    {
+      "hostname": "eba3cd73b26da308c33fac00f2897fc9.cdn.bubble.io",
+      "ip": "104.17.124.183",
+      "geoip": {
+        "registered_country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "USA",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        }
+      }
+    },
+    {
+      "hostname": "cdnjs.cloudflare.com",
+      "ip": "104.17.25.14",
+      "geoip": {
+        "registered_country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "USA",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        }
+      }
+    },
+    {
+      "hostname": "d2tf8y1b8kxrzw.cloudfront.net",
+      "ip": "18.155.204.72",
+      "geoip": {
+        "continent": {
+          "code": "NA",
+          "geoname_id": 6255149,
+          "names": {
+            "de": "Nordamerika",
+            "en": "North America",
+            "es": "Norteamérica",
+            "fr": "Amérique du Nord",
+            "ja": "北アメリカ",
+            "pt-BR": "América do Norte",
+            "ru": "Северная Америка",
+            "zh-CN": "北美洲"
+          }
+        },
+        "country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "USA",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        },
+        "location": {
+          "accuracy_radius": 1000,
+          "latitude": 37.751,
+          "longitude": -97.822,
+          "time_zone": "America/Chicago"
+        },
+        "registered_country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "USA",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        }
+      }
+    },
+    {
+      "hostname": "unpkg.com",
+      "ip": "104.17.249.203",
+      "geoip": {
+        "registered_country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "USA",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        }
+      }
+    },
+    {
+      "hostname": "s3.amazonaws.com",
+      "ip": "52.217.104.78",
+      "geoip": {
+        "city": {
+          "geoname_id": 4744870,
+          "names": {
+            "de": "Ashburn",
+            "en": "Ashburn",
+            "es": "Ashburn",
+            "fr": "Ashburn",
+            "ja": "アッシュバーン",
+            "pt-BR": "Ashburn",
+            "ru": "Ашберн",
+            "zh-CN": "阿什本"
+          }
+        },
+        "continent": {
+          "code": "NA",
+          "geoname_id": 6255149,
+          "names": {
+            "de": "Nordamerika",
+            "en": "North America",
+            "es": "Norteamérica",
+            "fr": "Amérique du Nord",
+            "ja": "北アメリカ",
+            "pt-BR": "América do Norte",
+            "ru": "Северная Америка",
+            "zh-CN": "北美洲"
+          }
+        },
+        "country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "USA",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        },
+        "location": {
+          "accuracy_radius": 1000,
+          "latitude": 39.0469,
+          "longitude": -77.4903,
+          "metro_code": 511,
+          "time_zone": "America/New_York"
+        },
+        "postal": {
+          "code": "20149"
+        },
+        "registered_country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "USA",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        },
+        "subdivisions": [
+          {
+            "geoname_id": 6254928,
+            "iso_code": "VA",
+            "names": {
+              "de": "Virginia",
+              "en": "Virginia",
+              "es": "Virginia",
+              "fr": "Virginie",
+              "ja": "バージニア州",
+              "pt-BR": "Virgínia",
+              "ru": "Вирджиния",
+              "zh-CN": "弗吉尼亚州"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "hostname": "plst237.s3.amazonaws.com",
+      "ip": "54.231.223.17",
+      "geoip": {
+        "city": {
+          "geoname_id": 4744870,
+          "names": {
+            "de": "Ashburn",
+            "en": "Ashburn",
+            "es": "Ashburn",
+            "fr": "Ashburn",
+            "ja": "アッシュバーン",
+            "pt-BR": "Ashburn",
+            "ru": "Ашберн",
+            "zh-CN": "阿什本"
+          }
+        },
+        "continent": {
+          "code": "NA",
+          "geoname_id": 6255149,
+          "names": {
+            "de": "Nordamerika",
+            "en": "North America",
+            "es": "Norteamérica",
+            "fr": "Amérique du Nord",
+            "ja": "北アメリカ",
+            "pt-BR": "América do Norte",
+            "ru": "Северная Америка",
+            "zh-CN": "北美洲"
+          }
+        },
+        "country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "USA",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        },
+        "location": {
+          "accuracy_radius": 1000,
+          "latitude": 39.0469,
+          "longitude": -77.4903,
+          "metro_code": 511,
+          "time_zone": "America/New_York"
+        },
+        "postal": {
+          "code": "20149"
+        },
+        "registered_country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "USA",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        },
+        "subdivisions": [
+          {
+            "geoname_id": 6254928,
+            "iso_code": "VA",
+            "names": {
+              "de": "Virginia",
+              "en": "Virginia",
+              "es": "Virginia",
+              "fr": "Virginie",
+              "ja": "バージニア州",
+              "pt-BR": "Virgínia",
+              "ru": "Вирджиния",
+              "zh-CN": "弗吉尼亚州"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
