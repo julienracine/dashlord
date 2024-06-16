@@ -1,17 +1,78 @@
 {
   "trackers": [],
-  "cookies": [],
+  "cookies": [
+    {
+      "name": "_pk_id.274.f943",
+      "value": "5e1a8472098e5a6c.1718508095.",
+      "domain": "portail-rse.beta.gouv.fr",
+      "path": "/",
+      "expires": 1752463295,
+      "size": 43,
+      "httpOnly": false,
+      "secure": false,
+      "session": false,
+      "sameSite": "Lax",
+      "sameParty": false,
+      "sourceScheme": "Secure",
+      "sourcePort": 443
+    },
+    {
+      "name": "_pk_ses.16.f943",
+      "value": "1",
+      "domain": "portail-rse.beta.gouv.fr",
+      "path": "/",
+      "expires": 1718509895,
+      "size": 16,
+      "httpOnly": false,
+      "secure": false,
+      "session": false,
+      "sameSite": "Lax",
+      "sameParty": false,
+      "sourceScheme": "Secure",
+      "sourcePort": 443
+    },
+    {
+      "name": "_pk_ses.274.f943",
+      "value": "1",
+      "domain": "portail-rse.beta.gouv.fr",
+      "path": "/",
+      "expires": 1718509895,
+      "size": 17,
+      "httpOnly": false,
+      "secure": false,
+      "session": false,
+      "sameSite": "Lax",
+      "sameParty": false,
+      "sourceScheme": "Secure",
+      "sourcePort": 443
+    },
+    {
+      "name": "_pk_id.16.f943",
+      "value": "fee959eb0301267d.1718508095.",
+      "domain": "portail-rse.beta.gouv.fr",
+      "path": "/",
+      "expires": 1752463295,
+      "size": 42,
+      "httpOnly": false,
+      "secure": false,
+      "session": false,
+      "sameSite": "Lax",
+      "sameParty": false,
+      "sourceScheme": "Secure",
+      "sourcePort": 443
+    }
+  ],
   "headers": {
     "content-encoding": "gzip",
     "content-type": "text/html; charset=utf-8",
     "cross-origin-opener-policy": "same-origin",
-    "date": "Sun, 09 Jun 2024 03:22:25 GMT",
+    "date": "Sun, 16 Jun 2024 03:21:34 GMT",
     "referrer-policy": "same-origin",
     "strict-transport-security": "max-age=31536000",
     "vary": "Cookie",
     "x-content-type-options": "nosniff",
     "x-frame-options": "DENY",
-    "x-request-id": "9978e06b-225d-43de-9543-1b510e35a10c"
+    "x-request-id": "756bd250-0b00-426c-aba7-81db044be0ad"
   },
   "endpoints": [
     {
