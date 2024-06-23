@@ -3,10 +3,10 @@
   "cookies": [
     {
       "name": "connect.sid",
-      "value": "s%3AGfUk_SKpPXtsMD5izKpgguOghcZiBbDA.Ar5jLyTm3NDTQsWqpqE0zL9xbPQURWROQC1agjJeiBw",
+      "value": "s%3A_v2iDtLayZWoquhoDy36DAm3pt4du_q1.sLD35GdbEka5WT6J2HG8KW56OLYTxxus6TuuqgtJDYM",
       "domain": "pad.incubateur.net",
       "path": "/",
-      "expires": 1719721658.362428,
+      "expires": 1720326953.290231,
       "size": 91,
       "httpOnly": true,
       "secure": true,
@@ -19,23 +19,29 @@
   ],
   "headers": {
     "content-encoding": "gzip",
-    "content-security-policy": "default-src 'self';script-src 'self' vimeo.com https://gist.github.com www.slideshare.net 'unsafe-eval' https://disqus.com https://*.disqus.com https://*.disquscdn.com https://www.google-analytics.com 'nonce-8e730a3b-81dd-4013-810b-88b6b9e77f62' 'sha256-81acLZNZISnyGYZrSuoYhpzwDTTxi7vC1YM4uNxqWaM=';img-src *;style-src 'self' 'unsafe-inline' https://github.githubassets.com https://*.disquscdn.com;font-src 'self' data: https://public.slidesharecdn.com https://*.disquscdn.com;object-src *;media-src *;child-src *;connect-src *",
+    "content-security-policy": "default-src 'self';script-src 'self' vimeo.com https://gist.github.com www.slideshare.net 'unsafe-eval' https://disqus.com https://*.disqus.com https://*.disquscdn.com https://www.google-analytics.com 'nonce-2ab21d6a-4c86-4034-af65-ca2a98ad6140' 'sha256-81acLZNZISnyGYZrSuoYhpzwDTTxi7vC1YM4uNxqWaM=';img-src *;style-src 'self' 'unsafe-inline' https://github.githubassets.com https://*.disquscdn.com;font-src 'self' data: https://public.slidesharecdn.com https://*.disquscdn.com;object-src *;media-src *;child-src *;connect-src *",
     "content-type": "text/html; charset=utf-8",
-    "date": "Sun, 16 Jun 2024 04:27:37 GMT",
+    "date": "Sun, 23 Jun 2024 04:35:52 GMT",
     "etag": "W/\"38c5-cO2pHfqjC9Mqrc3iDYMvVnqOPTU\"",
     "hedgedoc-version": "1.8.2",
     "referrer-policy": "same-origin",
-    "set-cookie": "connect.sid=s%3AGfUk_SKpPXtsMD5izKpgguOghcZiBbDA.Ar5jLyTm3NDTQsWqpqE0zL9xbPQURWROQC1agjJeiBw; Path=/; Expires=Sun, 30 Jun 2024 04:27:37 GMT; HttpOnly; Secure; SameSite=Lax",
+    "set-cookie": "connect.sid=s%3A_v2iDtLayZWoquhoDy36DAm3pt4du_q1.sLD35GdbEka5WT6J2HG8KW56OLYTxxus6TuuqgtJDYM; Path=/; Expires=Sun, 07 Jul 2024 04:35:52 GMT; HttpOnly; Secure; SameSite=Lax",
     "strict-transport-security": "max-age=31536000\nmax-age=31536000; includeSubDomains; preload",
     "vary": "Accept-Encoding",
     "x-powered-by": "Express",
-    "x-request-id": "8fd52da0-ea22-4905-af6c-7dc4947dc23d"
+    "x-request-id": "32c2e007-608c-4495-9021-54c3a2df34f4"
   },
   "endpoints": [
     {
       "hostname": "pad.incubateur.net",
-      "ip": "109.232.236.90",
+      "ip": "5.104.101.30",
       "geoip": {
+        "city": {
+          "geoname_id": 3006412,
+          "names": {
+            "en": "Lasgraisses"
+          }
+        },
         "continent": {
           "code": "EU",
           "geoname_id": 6255148,
@@ -66,10 +72,13 @@
           }
         },
         "location": {
-          "accuracy_radius": 500,
-          "latitude": 48.8582,
-          "longitude": 2.3387,
+          "accuracy_radius": 200,
+          "latitude": 43.8239,
+          "longitude": 2.0396,
           "time_zone": "Europe/Paris"
+        },
+        "postal": {
+          "code": "81300"
         },
         "registered_country": {
           "geoname_id": 3017382,
@@ -85,7 +94,27 @@
             "ru": "Франция",
             "zh-CN": "法国"
           }
-        }
+        },
+        "subdivisions": [
+          {
+            "geoname_id": 11071623,
+            "iso_code": "OCC",
+            "names": {
+              "en": "Occitanie",
+              "fr": "Occitanie"
+            }
+          },
+          {
+            "geoname_id": 2973362,
+            "iso_code": "81",
+            "names": {
+              "de": "Tarn",
+              "en": "Tarn",
+              "es": "Tarn",
+              "fr": "Tarn"
+            }
+          }
+        ]
       }
     }
   ]
