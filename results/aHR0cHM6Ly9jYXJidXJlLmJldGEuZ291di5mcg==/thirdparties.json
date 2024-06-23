@@ -4,19 +4,19 @@
   "headers": {
     "cache-control": "max-age=60, public",
     "content-encoding": "gzip",
-    "content-length": "532",
+    "content-length": "534",
     "content-security-policy": "default-src 'self' stats.beta.gouv.fr metabase.carbure.beta.gouv.fr https://*.tile.openstreetmap.org/",
     "content-type": "text/html; charset=\"utf-8\"",
     "cross-origin-opener-policy": "same-origin",
-    "date": "Sun, 16 Jun 2024 02:00:26 GMT",
-    "etag": "\"66683ae4-440\"",
-    "last-modified": "Tue, 11 Jun 2024 13:54:12 GMT",
+    "date": "Sun, 23 Jun 2024 02:01:33 GMT",
+    "etag": "\"66702a1b-440\"",
+    "last-modified": "Mon, 17 Jun 2024 14:20:43 GMT",
     "referrer-policy": "same-origin",
     "strict-transport-security": "max-age=31536000",
     "vary": "Accept-Encoding",
     "x-content-type-options": "nosniff",
     "x-frame-options": "DENY",
-    "x-request-id": "86614e8a-b4c6-47a9-97cd-e491b221e1ca"
+    "x-request-id": "d005335a-12dc-4062-95ba-c6b15c21eeff"
   },
   "endpoints": [
     {
