@@ -20,10 +20,10 @@
   "cookies": [
     {
       "name": "bln_challengejs",
-      "value": "xFlD3qOtJCbKh2DJsu8cJxfLeQpAqDN-vVtv5l6pR1WCQhF6nqd6lGgQTiwLfLrVkx218kmkxn2ucs-Oq_zjR-puny9pyIJe_jWdqPipjvwsCNWLMbkIoJoJjXulnHARn0dklQ-Wc3aYTdrMEvYBajAM3ldRCNcsCtaSHbZaxXzqKRocm35jCERyHFKdAltyQUP4QYPgfbQJB5C_f6jkF6eFtlHn75DiSjbiILqYC0NSF_YFT2TtclcPTdb5NRu4MzBl4GLd7-Dtz3No5M-CYQ",
+      "value": "nv2O5F1DoeqNpHTEdG8kUwrQdWNS4EVeIh0noOsk3m1Ncndgskwv-lalTooIIPAYuw7R5Xquuol3ZAno4Ctql4BKDjD-WOc9A46UDXHfwVd6-SeCDLKfK7y_SLK4fZTvBbkWA4TGF-l-ZFGqBllzi3ZudoHdgAjOhIaPOt9vVnvuSKqvaWNh-WKFz18K9kzf30o08EMhojChuM9bNUH1VEFv1R1IUjRhEbAalPlzZQPHLnf2rd6K3Gp4pB86pSBtvkkTK6tsuZ9UgcSEeHnbVg",
       "domain": ".snu.gouv.fr",
       "path": "/",
-      "expires": 1718519515.232763,
+      "expires": 1719124936.122631,
       "size": 293,
       "httpOnly": false,
       "secure": false,
@@ -36,21 +36,21 @@
   "headers": {
     "content-encoding": "gzip",
     "content-type": "text/html",
-    "date": "Sun, 16 Jun 2024 06:16:55 GMT",
-    "etag": "W/\"666adfb8-625\"",
-    "last-modified": "Thu, 13 Jun 2024 12:02:00 GMT",
+    "date": "Sun, 23 Jun 2024 06:27:16 GMT",
+    "etag": "W/\"6675587d-625\"",
+    "last-modified": "Fri, 21 Jun 2024 10:39:57 GMT",
     "referrer-policy": ": no-referrer",
     "strict-transport-security": ": max-age=31536000; includeSubDomains; preload",
     "x-content-type-options": ": nosniff",
     "x-download-options": ": noopen",
-    "x-envoy-upstream-service-time": "11",
+    "x-envoy-upstream-service-time": "66",
     "x-frame-options": ": DENY",
     "x-xss-protection": "1; mode=block"
   },
   "endpoints": [
     {
       "hostname": "admin.snu.gouv.fr",
-      "ip": "185.179.148.149",
+      "ip": "185.231.167.165",
       "geoip": {
         "continent": {
           "code": "EU",
@@ -106,7 +106,7 @@
     },
     {
       "hostname": "fonts.googleapis.com",
-      "ip": "142.250.189.202",
+      "ip": "64.233.180.95",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -160,18 +160,19 @@
     },
     {
       "hostname": "plausible.io",
-      "ip": "169.150.221.147",
+      "ip": "37.19.207.34",
       "geoip": {
         "city": {
-          "geoname_id": 5392171,
+          "geoname_id": 4744870,
           "names": {
-            "de": "San José",
-            "en": "San Jose",
-            "es": "San José",
-            "fr": "San José",
-            "ja": "サンノゼ",
-            "pt-BR": "San José",
-            "ru": "Сан-Хосе"
+            "de": "Ashburn",
+            "en": "Ashburn",
+            "es": "Ashburn",
+            "fr": "Ashburn",
+            "ja": "アッシュバーン",
+            "pt-BR": "Ashburn",
+            "ru": "Ашберн",
+            "zh-CN": "阿什本"
           }
         },
         "continent": {
@@ -204,13 +205,13 @@
         },
         "location": {
           "accuracy_radius": 20,
-          "latitude": 37.1835,
-          "longitude": -121.7714,
-          "metro_code": 807,
-          "time_zone": "America/Los_Angeles"
+          "latitude": 39.0469,
+          "longitude": -77.4903,
+          "metro_code": 511,
+          "time_zone": "America/New_York"
         },
         "postal": {
-          "code": "95141"
+          "code": "20149"
         },
         "registered_country": {
           "geoname_id": 2635167,
@@ -228,17 +229,17 @@
         },
         "subdivisions": [
           {
-            "geoname_id": 5332921,
-            "iso_code": "CA",
+            "geoname_id": 6254928,
+            "iso_code": "VA",
             "names": {
-              "de": "Kalifornien",
-              "en": "California",
-              "es": "California",
-              "fr": "Californie",
-              "ja": "カリフォルニア州",
-              "pt-BR": "Califórnia",
-              "ru": "Калифорния",
-              "zh-CN": "加州"
+              "de": "Virginia",
+              "en": "Virginia",
+              "es": "Virginia",
+              "fr": "Virginie",
+              "ja": "バージニア州",
+              "pt-BR": "Virgínia",
+              "ru": "Вирджиния",
+              "zh-CN": "弗吉尼亚州"
             }
           }
         ]
