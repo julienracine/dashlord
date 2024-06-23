@@ -54,7 +54,7 @@
 <h1>Scan Report<br><small>Nmap 7.92</small>
 </h1>
 <pre style="white-space:pre-wrap; word-wrap:break-word;">nmap -sV --script vulners --script-args mincvss=5.0 -oA /data/nmapvuln declare-douane.beta.gouv.fr</pre>
-<p class="lead">Sun Jun 16 11:26:28 2024 – Sun Jun 16 11:29:20 2024<br>1 hosts scanned.
+<p class="lead">Sun Jun 23 11:47:50 2024 – Sun Jun 23 11:50:42 2024<br>1 hosts scanned.
               1 hosts up.
               0 hosts down.
             </p>
@@ -76,7 +76,7 @@
 </tr></thead>
 <tbody><tr>
 <td><span class="label label-success">up</span></td>
-<td>185.42.117.109</td>
+<td>46.252.181.103</td>
 <td>declare-douane.beta.gouv.fr</td>
 <td>10</td>
 <td>0</td>
@@ -91,8 +91,8 @@
             });
           </script><h2 id="onlinehosts" class="target">Online Hosts</h2>
 <div class="panel panel-default">
-<div class="panel-heading clickable" data-toggle="collapse" data-target="#185-42-117-109"><h3 class="panel-title">185.42.117.109 - declare-douane.beta.gouv.fr</h3></div>
-<div class="panel-body collapse in" id="185-42-117-109">
+<div class="panel-heading clickable" data-toggle="collapse" data-target="#46-252-181-103"><h3 class="panel-title">46.252.181.103 - declare-douane.beta.gouv.fr</h3></div>
+<div class="panel-body collapse in" id="46-252-181-103">
 <h4>Hostnames</h4>
 <ul><li>declare-douane.beta.gouv.fr (user)</li></ul>
 <h4>Ports</h4>
@@ -124,12 +124,12 @@
     Cache-Control: no-cache
     Connection: close
     Content-Length: 479
-    Sozu-Id: 01J0GCS86W9PWMQ5B2SN9XNB9V
+    Sozu-Id: 01J12ESDC95HP4YT89ZF41QW4Z
     &lt;style&gt;pre{background:#EEE;padding:10px;border:1px solid #AAA;border-radius: 5px;}&lt;/style&gt;
     &lt;h1&gt;400 Bad Request&lt;/h1&gt;
     &lt;pre&gt;
     "route": "GET",
-    "request_id": "01J0GCS86W9PWMQ5B2SN9XNB9V",
+    "request_id": "01J12ESDC95HP4YT89ZF41QW4Z",
     &lt;/pre&gt;
     &lt;p&gt;Request could not be parsed. Parser stopped at phase: Body.&lt;/p&gt;
     &lt;p&gt;Diagnostic: Could not extract the route after connection started, this should not happen.&lt;/p&gt;
@@ -141,12 +141,12 @@
     Cache-Control: no-cache
     Connection: close
     Content-Length: 483
-    Sozu-Id: 01J0GCSE7QB4KJFZ9N8EVT5RSB
+    Sozu-Id: 01J12ESKD768KSMHV28SANX20Z
     &lt;style&gt;pre{background:#EEE;padding:10px;border:1px solid #AAA;border-radius: 5px;}&lt;/style&gt;
     &lt;h1&gt;400 Bad Request&lt;/h1&gt;
     &lt;pre&gt;
     "route": "OPTIONS",
-    "request_id": "01J0GCSE7QB4KJFZ9N8EVT5RSB",
+    "request_id": "01J12ESKD768KSMHV28SANX20Z",
     &lt;/pre&gt;
     &lt;p&gt;Request could not be parsed. Parser stopped at phase: Body.&lt;/p&gt;
     &lt;p&gt;Diagnostic: Could not extract the route after connection started, this should not happen.&lt;/p&gt;
@@ -158,12 +158,12 @@
     Cache-Control: no-cache
     Connection: close
     Content-Length: 885
-    Sozu-Id: 01J0GCSED02GGNQBH2JSZA5EPQ
+    Sozu-Id: 01J12ESKJNMAWHV077XMBWA9YN
     &lt;style&gt;pre{background:#EEE;padding:10px;border:1px solid #AAA;border-radius: 5px;}&lt;/style&gt;
     &lt;h1&gt;400 Bad Request&lt;/h1&gt;
     &lt;pre&gt;
     "route": "",
-    "request_id": "01J0GCSED02GGNQBH2JSZA5EPQ",
+    "request_id": "01J12ESKJNMAWHV077XMBWA9YN",
     &lt;/pre&gt;
     &lt;p&gt;Request could not be parsed. Parser stopped at phase: StatusLine.&lt;/p&gt;
     &lt;p&gt;Diagnostic: The request line is invalid. Make sure it is well formated and all characters are LATIN-1 (no UTF-8 allowed).&lt;/p&gt;
@@ -225,17 +225,15 @@
 <a href="https://nvd.nist.gov/vuln/search/results?form_type=Advanced&amp;cves=on&amp;cpe_version="></a><h5>fingerprint-strings</h5>
 <pre style="white-space:pre-wrap; word-wrap:break-word;">
   Kerberos: 
-    ,md.;d
-    b"tKr
-  SMBProgNeg: 
-    \x8d
+    :KLp
+    &amp;q-E
+    npQT
   TLSSessionReq: 
-    \xc7_
-    ,Gug
-    sB8w
-    RMq=
-    \xcbAR:
-    \xbd.</pre>
+    {y~w
+    R-,!
+    /wIT
+    uQ*A
+    'Lr"</pre>
 </td></tr>
 <tr class="success">
 <td title="Port">5002</td>
@@ -273,7 +271,7 @@
 <td title="State / Reason">open<br>syn-ack</td>
 <td title="Service">amqp</td>
 <td title="Product">RabbitMQ</td>
-<td title="Version">3.12.13</td>
+<td title="Version">3.12.14</td>
 <td title="Extra Info">0-9</td>
 </tr>
 <tr><td colspan="7">
@@ -289,12 +287,12 @@
     authentication_failure_close: YES
     per_consumer_qos: YES
     direct_reply_to: YES
-  cluster_name: rabbit@dc1bda0b7a21
+  cluster_name: rabbit@691ca395062c
   copyright: Copyright (c) 2007-2024 Broadcom Inc and/or its subsidiaries
   information: Licensed under the MPL 2.0. Website: https://rabbitmq.com
-  platform: Erlang/OTP 25.3.2.11
+  platform: Erlang/OTP 25.3.2.12
   product: RabbitMQ
-  version: 3.12.13
+  version: 3.12.14
   mechanisms: AMQPLAIN PLAIN
   locales: en_US
 </pre>
@@ -337,7 +335,7 @@
 </tr></thead>
 <tbody>
 <tr>
-<td>185.42.117.109 - declare-douane.beta.gouv.fr</td>
+<td>46.252.181.103 - declare-douane.beta.gouv.fr</td>
 <td>80</td>
 <td>tcp</td>
 <td>http</td>
@@ -347,7 +345,7 @@
 <td></td>
 </tr>
 <tr>
-<td>185.42.117.109 - declare-douane.beta.gouv.fr</td>
+<td>46.252.181.103 - declare-douane.beta.gouv.fr</td>
 <td>443</td>
 <td>tcp</td>
 <td>https</td>
@@ -357,7 +355,7 @@
 <td></td>
 </tr>
 <tr>
-<td>185.42.117.109 - declare-douane.beta.gouv.fr</td>
+<td>46.252.181.103 - declare-douane.beta.gouv.fr</td>
 <td>1080</td>
 <td>tcp</td>
 <td>socks</td>
@@ -367,7 +365,7 @@
 <td></td>
 </tr>
 <tr>
-<td>185.42.117.109 - declare-douane.beta.gouv.fr</td>
+<td>46.252.181.103 - declare-douane.beta.gouv.fr</td>
 <td>1081</td>
 <td>tcp</td>
 <td>pvuniwien</td>
@@ -377,7 +375,7 @@
 <td></td>
 </tr>
 <tr>
-<td>185.42.117.109 - declare-douane.beta.gouv.fr</td>
+<td>46.252.181.103 - declare-douane.beta.gouv.fr</td>
 <td>3000</td>
 <td>tcp</td>
 <td>ppp</td>
@@ -387,7 +385,7 @@
 <td></td>
 </tr>
 <tr>
-<td>185.42.117.109 - declare-douane.beta.gouv.fr</td>
+<td>46.252.181.103 - declare-douane.beta.gouv.fr</td>
 <td>5002</td>
 <td>tcp</td>
 <td>ssh</td>
@@ -397,7 +395,7 @@
 <td>protocol 2.0</td>
 </tr>
 <tr>
-<td>185.42.117.109 - declare-douane.beta.gouv.fr</td>
+<td>46.252.181.103 - declare-douane.beta.gouv.fr</td>
 <td>5357</td>
 <td>tcp</td>
 <td>ssh</td>
@@ -407,17 +405,17 @@
 <td>protocol 2.0</td>
 </tr>
 <tr>
-<td>185.42.117.109 - declare-douane.beta.gouv.fr</td>
+<td>46.252.181.103 - declare-douane.beta.gouv.fr</td>
 <td>5800</td>
 <td>tcp</td>
 <td>amqp</td>
 <td>RabbitMQ</td>
-<td>3.12.13</td>
+<td>3.12.14</td>
 <td></td>
 <td>0-9</td>
 </tr>
 <tr>
-<td>185.42.117.109 - declare-douane.beta.gouv.fr</td>
+<td>46.252.181.103 - declare-douane.beta.gouv.fr</td>
 <td>5962</td>
 <td>tcp</td>
 <td>unknown</td>
@@ -427,7 +425,7 @@
 <td></td>
 </tr>
 <tr>
-<td>185.42.117.109 - declare-douane.beta.gouv.fr</td>
+<td>46.252.181.103 - declare-douane.beta.gouv.fr</td>
 <td>9999</td>
 <td>tcp</td>
 <td>tcpwrapped</td>
