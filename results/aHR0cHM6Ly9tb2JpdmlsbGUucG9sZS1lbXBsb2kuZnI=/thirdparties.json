@@ -114,19 +114,27 @@
     },
     {
       "type": "unknown",
-      "url": "https://hd.pe.fr/event?s=475540&idclient=lxhbf7u9ezprwv78"
-    },
-    {
-      "type": "unknown",
       "url": "https://cdn.francetravail.fr/studio/design-system/css/styles.css"
     },
     {
       "type": "unknown",
-      "url": "https://candidat.francetravail.fr/mobiville/static/media/home-bg.4e918c4b2800bcb748fa.avif"
+      "url": "https://hd.pe.fr/event?s=475540&idclient=lxrc2mx2hwqhqz4f"
     },
     {
       "type": "unknown",
       "url": "https://candidat.francetravail.fr/mobiville/static/media/roboto-v30-latin-500.f25d774ecfe0996f8eb5.woff2"
+    },
+    {
+      "type": "unknown",
+      "url": "https://candidat.francetravail.fr/mobiville/static/media/roboto-v30-latin-500.f25d774ecfe0996f8eb5.woff2"
+    },
+    {
+      "type": "unknown",
+      "url": "https://candidat.francetravail.fr/mobiville/static/media/guide-banner-mobile.b55883ebdb202a57031f.png"
+    },
+    {
+      "type": "unknown",
+      "url": "https://candidat.francetravail.fr/mobiville/static/media/home-bg.4e918c4b2800bcb748fa.avif"
     },
     {
       "type": "unknown",
@@ -135,6 +143,14 @@
     {
       "type": "unknown",
       "url": "https://candidat.francetravail.fr/mobiville/static/media/roboto-v30-latin-italic.e10742dbb1d4a0864ba8.woff2"
+    },
+    {
+      "type": "unknown",
+      "url": "https://candidat.francetravail.fr/mobiville/static/media/roboto-v30-latin-700italic.d92a5d1451f249359639.woff2"
+    },
+    {
+      "type": "unknown",
+      "url": "https://candidat.francetravail.fr/mobiville/static/media/roboto-v30-latin-500italic.3a43b67e5bbdfb3ab0a6.woff2"
     },
     {
       "type": "unknown",
@@ -146,10 +162,6 @@
     },
     {
       "type": "unknown",
-      "url": "https://candidat.francetravail.fr/mobiville/static/media/roboto-v30-latin-500.f25d774ecfe0996f8eb5.woff2"
-    },
-    {
-      "type": "unknown",
       "url": "https://candidat.francetravail.fr/mobiville/static/media/roboto-v30-latin-700.227c93190fe7f82de3f8.woff2"
     },
     {
@@ -163,22 +175,6 @@
     {
       "type": "unknown",
       "url": "https://candidat.francetravail.fr/mobiville/static/media/roboto-v30-latin-500italic.3a43b67e5bbdfb3ab0a6.woff2"
-    },
-    {
-      "type": "unknown",
-      "url": "https://candidat.francetravail.fr/mobiville/static/media/guide-banner-mobile.b55883ebdb202a57031f.png"
-    },
-    {
-      "type": "unknown",
-      "url": "https://candidat.francetravail.fr/mobiville/static/media/roboto-v30-latin-700italic.d92a5d1451f249359639.woff2"
-    },
-    {
-      "type": "unknown",
-      "url": "https://candidat.francetravail.fr/mobiville/static/media/roboto-v30-latin-500italic.3a43b67e5bbdfb3ab0a6.woff2"
-    },
-    {
-      "type": "unknown",
-      "url": "https://candidat.francetravail.fr/mobiville/help-logos/120px/action-logement.png"
     },
     {
       "type": "unknown",
@@ -206,13 +202,17 @@
     },
     {
       "type": "unknown",
+      "url": "https://candidat.francetravail.fr/mobiville/help-logos/120px/action-logement.png"
+    },
+    {
+      "type": "unknown",
       "url": "https://candidat.francetravail.fr/mobiville/api/cities/autocomplete"
     }
   ],
   "cookies": [
     {
       "name": "TS016fc3b0",
-      "value": "0150c672c3a108eb1924e42a037663c846dab8fb7f39d8e0cd7b2f2f988982fe7933ba1bc61afdcd6fbc5a1d1192ea8bd63be856ad",
+      "value": "0150c672c3db807160b7ba9b55cf7dc07b99b38f8343116361659f865d5ea3a1c2a64ce95708060c3c68e0cacd7c3e3ada5b746a2d",
       "domain": ".candidat.francetravail.fr",
       "path": "/",
       "expires": -1,
@@ -257,10 +257,10 @@
     "cache-control": "no-store, no-cache, must-revalidate, proxy-revalidate, max-age=0",
     "content-encoding": "gzip",
     "content-type": "text/html",
-    "date": "Sun, 16 Jun 2024 08:59:33 GMT",
+    "date": "Sun, 23 Jun 2024 09:15:27 GMT",
     "last-modified": "Tue, 28 May 2024 09:21:34 GMT",
     "referrer-policy": "no-referrer-when-downgrade",
-    "set-cookie": "Path=/; HttpOnly; Secure\nBIGipServerPOOL_Z2_PROD_MOP_HTTP=2023492362.20480.0000; path=/; Httponly; Secure\nTS016fc3b0=0150c672c3a108eb1924e42a037663c846dab8fb7f39d8e0cd7b2f2f988982fe7933ba1bc61afdcd6fbc5a1d1192ea8bd63be856ad; Path=/; Domain=.candidat.francetravail.fr",
+    "set-cookie": "Path=/; HttpOnly; Secure\nBIGipServerPOOL_Z2_PROD_MOP_HTTP=2023492362.20480.0000; path=/; Httponly; Secure\nTS016fc3b0=0150c672c3db807160b7ba9b55cf7dc07b99b38f8343116361659f865d5ea3a1c2a64ce95708060c3c68e0cacd7c3e3ada5b746a2d; Path=/; Domain=.candidat.francetravail.fr",
     "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
     "transfer-encoding": "chunked",
     "vary": "Accept-Encoding",
@@ -424,7 +424,7 @@
     },
     {
       "hostname": "fonts.googleapis.com",
-      "ip": "142.250.190.138",
+      "ip": "142.250.31.95",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -548,7 +548,7 @@
     },
     {
       "hostname": "tag.aticdn.net",
-      "ip": "18.244.202.24",
+      "ip": "18.160.18.10",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -602,7 +602,7 @@
     },
     {
       "hostname": "privacy.trustcommander.net",
-      "ip": "35.181.25.48",
+      "ip": "13.36.117.50",
       "geoip": {
         "city": {
           "geoname_id": 2988507,
@@ -797,7 +797,7 @@
     },
     {
       "hostname": "hd.pe.fr",
-      "ip": "18.160.213.125",
+      "ip": "18.160.18.49",
       "geoip": {
         "continent": {
           "code": "NA",
