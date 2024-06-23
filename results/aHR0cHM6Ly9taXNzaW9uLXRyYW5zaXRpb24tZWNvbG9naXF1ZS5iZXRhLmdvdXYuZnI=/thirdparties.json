@@ -1,24 +1,55 @@
 {
   "trackers": [],
-  "cookies": [],
+  "cookies": [
+    {
+      "name": "_pk_ses.23.0a23",
+      "value": "1",
+      "domain": "mission-transition-ecologique.beta.gouv.fr",
+      "path": "/",
+      "expires": 1719121228,
+      "size": 16,
+      "httpOnly": false,
+      "secure": false,
+      "session": false,
+      "sameSite": "Lax",
+      "sameParty": false,
+      "sourceScheme": "Secure",
+      "sourcePort": 443
+    },
+    {
+      "name": "_pk_id.23.0a23",
+      "value": "989a3c5cc7982de4.1719119429.",
+      "domain": "mission-transition-ecologique.beta.gouv.fr",
+      "path": "/",
+      "expires": 1752815429,
+      "size": 42,
+      "httpOnly": false,
+      "secure": false,
+      "session": false,
+      "sameSite": "Lax",
+      "sameParty": false,
+      "sourceScheme": "Secure",
+      "sourcePort": 443
+    }
+  ],
   "headers": {
     "access-control-allow-origin": "*",
     "cache-control": "no-cache",
     "content-encoding": "gzip",
     "content-security-policy": "script-src 'self'; default-src 'none';base-uri 'self';form-action 'self';script-src-elem 'self' 'unsafe-inline' https://stats.beta.gouv.fr  https://embed.typeform.com;style-src 'self' 'unsafe-inline' https://embed.typeform.com;font-src 'self';img-src 'self' data:;object-src 'self';connect-src 'self' https://conseillers-entreprises.service-public.fr https://stats.beta.gouv.fr https://sentry.incubateur.net https://embed.typeform.com https://api.typeform.com;worker-src 'self' blob:;frame-src 'self' https://conseillers-entreprises.service-public.fr https://form.typeform.com;frame-ancestors 'self' https://conseillers-entreprises.service-public.fr;",
     "content-type": "text/html",
-    "date": "Sun, 09 Jun 2024 05:15:54 GMT",
-    "etag": "W/\"90f-0DdKC1jztZgaRm2APWs6TWlFLvg\"",
+    "date": "Sun, 23 Jun 2024 05:10:27 GMT",
+    "etag": "W/\"90f-5vPEkaOJ82GDHboiPS3cXWeNlCQ\"",
     "expect-ct": "default-src 'self' https://sentry.incubateur.net;report-uri https://sentry.incubateur.net/api/137/security/?sentry_key=caf416235f164b448d0ca6369f2053e5;",
     "strict-transport-security": "max-age=31536000",
     "x-content-type-options": "nosniff",
     "x-frame-options": "ALLOW-FROM https://conseillers-entreprises.service-public.fr",
-    "x-request-id": "68272ec5-9be6-4c29-a183-2ff05fc34e95"
+    "x-request-id": "d8bb8cdc-87e2-41f9-bcdd-5c52febe3430"
   },
   "endpoints": [
     {
       "hostname": "mission-transition-ecologique.beta.gouv.fr",
-      "ip": "109.232.233.130",
+      "ip": "109.232.236.90",
       "geoip": {
         "continent": {
           "code": "EU",
