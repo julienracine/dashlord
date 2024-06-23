@@ -18,7 +18,7 @@
     },
     {
       "name": "__Host-next-auth.csrf-token",
-      "value": "f9b0af5ae769568514813eeceebd716ec9b0f6baa049c41817d2e013f86253d4%7C9337aa95060ff47843aad7bf2bc18ff8ec011236281b27bf29c4f5128685e139",
+      "value": "cdac494d89ab9d4d5e09a5988075a74e007dc5082913e8bbc4b9ca1aa668c98c%7C16bcdb53f2f555545e378ca9e27784096547fd05f2207c9414bb95ea1469c7b9",
       "domain": "france-chaleur-urbaine.beta.gouv.fr",
       "path": "/",
       "expires": -1,
@@ -34,22 +34,22 @@
   ],
   "headers": {
     "content-encoding": "gzip",
-    "content-security-policy": "default-src 'self';base-uri 'self';font-src 'self' https: data: https://*.hotjar.com;form-action 'self';frame-ancestors 'self';img-src 'self' https: data:;object-src 'none';script-src 'self' 'sha256-TXnVHDn1j7ztxp+9fAgGYQt5MDdGcfG3DMT2sJR4v/I=' 'sha256-uoDYfYhkG1Rred64INgKWU540cb8GBpVb+EoZcz/Zyo=' 'sha256-eGdlwoVjdfoAxTtVJ5JOqj8MsevToXdxA0rkY5IXIxk=' 'sha256-5nUSiKlxGJiE3JicLfPYxYZShtQfFZM0jtHZyyPijTE=' 'sha256-PAh6kZHWrs47demJXB9x6PfCgghwAf4BZ4ncKf/BhiU=' 'sha256-vHLisyhJqlXs8efpQOmla3M8/VBRwdzde5ZgWIhJQEA=' 'sha256-3I33qFPfa/PLrN/3rrrC4vJBjmKYiuXWQ+ZfnHiEWmo=' 'sha256-ksltjYbI6Uoozfn80t6ROvA1rBbTP9X8qGPGwHmWBpA=' 'sha256-6SC04Y6nNQLzwzyqa3SfGlAJoGLEAasou2bnNnkusvM=' 'sha256-344ePyJp7yxx64WKWpbs/ZvEDHA6mve7lS3i90cEPT4=' 'sha256-d7dsOzUkIPxujyMIFvd9lnMMqh0LRXgYPmFvbRYsL7Q=' https://stats.data.gouv.fr https://stats.beta.gouv.fr https://static.axept.io https://connect.facebook.net https://www.gstatic.com/ https://www.googletagmanager.com https://www.googleadservices.com https://googleads.g.doubleclick.net https://connect.facebook.net https://snap.licdn.com https://api.mapbox.com/ https://*.hotjar.com;script-src-attr 'none';style-src 'self' https: 'unsafe-inline' https://*.hotjar.com;upgrade-insecure-requests ;connect-src 'self' https://openmaptiles.geo.data.gouv.fr https://openmaptiles.data.gouv.fr https://openmaptiles.github.io https://france-chaleur-urbaine.beta.gouv.fr/ https://france-chaleur-urbaine-dev.osc-fr1.scalingo.io/ https://api-adresse.data.gouv.fr/ https://stats.data.gouv.fr https://stats.beta.gouv.fr https://cdn.linkedin.oribi.io https://google.com/ https://px.ads.linkedin.com https://wxs.ign.fr https://api.mapbox.com/ https://sentry.incubateur.net https://*.hotjar.com https://*.hotjar.io wss://*.hotjar.com;frame-src https://td.doubleclick.net https://www.facebook.com/ https://www.youtube.com/;worker-src 'self' blob:",
+    "content-security-policy": "default-src 'self';base-uri 'self';font-src 'self' https: data: https://*.hotjar.com;form-action 'self';frame-ancestors 'self';img-src 'self' https: data:;object-src 'none';script-src 'self' 'sha256-TXnVHDn1j7ztxp+9fAgGYQt5MDdGcfG3DMT2sJR4v/I=' 'sha256-uoDYfYhkG1Rred64INgKWU540cb8GBpVb+EoZcz/Zyo=' 'sha256-eGdlwoVjdfoAxTtVJ5JOqj8MsevToXdxA0rkY5IXIxk=' 'sha256-5nUSiKlxGJiE3JicLfPYxYZShtQfFZM0jtHZyyPijTE=' 'sha256-PAh6kZHWrs47demJXB9x6PfCgghwAf4BZ4ncKf/BhiU=' 'sha256-vHLisyhJqlXs8efpQOmla3M8/VBRwdzde5ZgWIhJQEA=' 'sha256-3I33qFPfa/PLrN/3rrrC4vJBjmKYiuXWQ+ZfnHiEWmo=' 'sha256-ksltjYbI6Uoozfn80t6ROvA1rBbTP9X8qGPGwHmWBpA=' 'sha256-6SC04Y6nNQLzwzyqa3SfGlAJoGLEAasou2bnNnkusvM=' 'sha256-344ePyJp7yxx64WKWpbs/ZvEDHA6mve7lS3i90cEPT4=' 'sha256-d7dsOzUkIPxujyMIFvd9lnMMqh0LRXgYPmFvbRYsL7Q=' 'sha256-c41wBsW028WuPX24+ZM3pzwOVhyxNRf2Gjs3yDf9nuo=' https://stats.data.gouv.fr https://stats.beta.gouv.fr https://static.axept.io https://connect.facebook.net https://www.gstatic.com/ https://www.googletagmanager.com https://*.googletagmanager.com https://www.googleadservices.com https://googleads.g.doubleclick.net https://connect.facebook.net https://snap.licdn.com https://api.mapbox.com/ https://*.hotjar.com;script-src-attr 'none';style-src 'self' https: 'unsafe-inline' https://*.hotjar.com;upgrade-insecure-requests ;connect-src 'self' https://openmaptiles.geo.data.gouv.fr https://openmaptiles.data.gouv.fr https://openmaptiles.github.io https://france-chaleur-urbaine.beta.gouv.fr/ https://france-chaleur-urbaine-dev.osc-fr1.scalingo.io/ https://api-adresse.data.gouv.fr/ https://stats.data.gouv.fr https://stats.beta.gouv.fr https://cdn.linkedin.oribi.io https://google.com/ https://px.ads.linkedin.com https://wxs.ign.fr https://api.mapbox.com/ https://sentry.incubateur.net https://*.hotjar.com https://*.hotjar.io wss://*.hotjar.com https://*.google-analytics.com https://*.analytics.google.com https://*.googletagmanager.com;frame-src https://td.doubleclick.net https://www.facebook.com/ https://www.youtube.com/;worker-src 'self' blob:",
     "content-type": "text/html; charset=utf-8",
-    "date": "Sun, 16 Jun 2024 02:17:23 GMT",
-    "etag": "\"7s3lvfc2ef1mij\"",
+    "date": "Sun, 23 Jun 2024 02:18:15 GMT",
+    "etag": "\"k33zezl63v1mes\"",
     "strict-transport-security": "max-age=31536000",
     "vary": "Accept-Encoding",
     "x-content-type-options": "nosniff",
     "x-frame-options": "SAMEORIGIN",
     "x-powered-by": "Next.js",
-    "x-request-id": "f3bd39c4-fb2b-4695-981d-4e49b233d078",
+    "x-request-id": "9b073a7b-f109-4ba9-bdb3-db319df1b1b4",
     "x-xss-protection": "1; mode=block"
   },
   "endpoints": [
     {
       "hostname": "chauffage-urbain.beta.gouv.fr",
-      "ip": "148.253.75.120",
+      "ip": "109.232.233.130",
       "geoip": {
         "continent": {
           "code": "EU",
