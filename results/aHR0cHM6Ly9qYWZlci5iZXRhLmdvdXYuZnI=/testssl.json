@@ -206,7 +206,7 @@
               "ip"           : "jafer.beta.gouv.fr/104.19.240.93",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "not supported"
+              "finding"      : "supported"
           }
 ,         {
               "id"           : "TLS_timestamp",
@@ -346,7 +346,7 @@
               "ip"           : "jafer.beta.gouv.fr/104.19.240.93",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "198 >= 60 days"
+              "finding"      : "191 >= 60 days"
           }
 ,         {
               "id"           : "cert_notBefore <hostCert#1>",
@@ -605,7 +605,7 @@
               "ip"           : "jafer.beta.gouv.fr/104.19.240.93",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "198 >= 60 days"
+              "finding"      : "191 >= 60 days"
           }
 ,         {
               "id"           : "cert_notBefore <hostCert#2>",
@@ -773,7 +773,7 @@
               "ip"           : "jafer.beta.gouv.fr/104.19.240.93",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1718541013"
+              "finding"      : "1719147814"
           }
 ,         {
               "id"           : "HSTS",
@@ -1685,7 +1685,7 @@
               "ip"           : "jafer.beta.gouv.fr/104.19.241.93",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "198 >= 60 days"
+              "finding"      : "191 >= 60 days"
           }
 ,         {
               "id"           : "cert_notBefore <hostCert#1>",
@@ -1944,7 +1944,7 @@
               "ip"           : "jafer.beta.gouv.fr/104.19.241.93",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "198 >= 60 days"
+              "finding"      : "191 >= 60 days"
           }
 ,         {
               "id"           : "cert_notBefore <hostCert#2>",
@@ -2112,7 +2112,7 @@
               "ip"           : "jafer.beta.gouv.fr/104.19.241.93",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1718541067"
+              "finding"      : "1719147867"
           }
 ,         {
               "id"           : "HSTS",
