@@ -346,7 +346,7 @@
               "ip"           : "panoramax.fr/35.185.44.232",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "56 >= 30 days"
+              "finding"      : "49 >= 30 days"
           }
 ,         {
               "id"           : "cert_notBefore",
@@ -507,7 +507,7 @@
               "ip"           : "panoramax.fr/35.185.44.232",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1718535523"
+              "finding"      : "1719141963"
           }
 ,         {
               "id"           : "HSTS",
@@ -1070,6 +1070,6 @@
               "ip"           : "panoramax.fr/35.185.44.232",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "42"
+              "finding"      : "49"
           }
 ]
