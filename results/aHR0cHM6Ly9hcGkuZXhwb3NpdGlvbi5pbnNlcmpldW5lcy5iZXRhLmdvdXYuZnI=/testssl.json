@@ -373,8 +373,8 @@
               "id"           : "cert_expirationStatus",
               "ip"           : "api.exposition.inserjeunes.beta.gouv.fr/141.94.2.159",
               "port"         : "443",
-              "severity"     : "OK",
-              "finding"      : "36 >= 30 days"
+              "severity"     : "MEDIUM",
+              "finding"      : "expires < 30 days (28)"
           }
 ,         {
               "id"           : "cert_notBefore",
@@ -387,7 +387,7 @@
               "id"           : "cert_notAfter",
               "ip"           : "api.exposition.inserjeunes.beta.gouv.fr/141.94.2.159",
               "port"         : "443",
-              "severity"     : "OK",
+              "severity"     : "MEDIUM",
               "finding"      : "2024-07-22 12:15"
           }
 ,         {
@@ -528,14 +528,14 @@
               "ip"           : "api.exposition.inserjeunes.beta.gouv.fr/141.94.2.159",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "-1 seconds from localtime"
+              "finding"      : "0 seconds from localtime"
           }
 ,         {
               "id"           : "HTTP_headerTime",
               "ip"           : "api.exposition.inserjeunes.beta.gouv.fr/141.94.2.159",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1718539791"
+              "finding"      : "1719146382"
           }
 ,         {
               "id"           : "HSTS_time",
@@ -1126,6 +1126,6 @@
               "ip"           : "api.exposition.inserjeunes.beta.gouv.fr/141.94.2.159",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "90"
+              "finding"      : "51"
           }
 ]
