@@ -3,10 +3,10 @@
   "cookies": [
     {
       "name": "csrftoken",
-      "value": "uEmaThLN8UiKBIZsbX5x9e8EHcvlMHC1",
+      "value": "hnpwu2DNShobON2YmWdScNRU6FhTWt48",
       "domain": "moana.beta.gouv.fr",
       "path": "/",
-      "expires": 1749976020.145128,
+      "expires": 1750581716.308632,
       "size": 41,
       "httpOnly": false,
       "secure": true,
@@ -22,20 +22,20 @@
     "content-security-policy": "form-action 'self'; style-src 'self' 'sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=' 'sha256-BW8NYdPk+rv9lpNlgLUX1TA/NiHG2tpA6q6KRC//k5c=' 'sha256-dsGP181IqXG75B+r9iF1SiIhPNVTsVx0BJXDFaoQLq4=' 'sha256-Qkou26UJ4mma/LNSpT1/69nlpyu27XJKOUO7n13g5Yk='; object-src 'self'; script-src 'self'; img-src 'self' data:; default-src 'self'; connect-src 'self'; font-src 'self' data:; base-uri 'self'",
     "content-type": "text/html; charset=utf-8",
     "cross-origin-opener-policy": "same-origin",
-    "date": "Sun, 16 Jun 2024 08:27:00 GMT",
+    "date": "Sun, 23 Jun 2024 08:41:56 GMT",
     "permissions-policy": "accelerometer=(), autoplay=(), camera=(), display-capture=(), document-domain=(), encrypted-media=(), fullscreen=(), geolocation=(), gyroscope=(), magnetometer=(), microphone=(), midi=(), payment=(), usb=()",
     "referrer-policy": "same-origin",
-    "set-cookie": "csrftoken=uEmaThLN8UiKBIZsbX5x9e8EHcvlMHC1; expires=Sun, 15 Jun 2025 08:27:00 GMT; Max-Age=31449600; Path=/; SameSite=Lax; Secure",
+    "set-cookie": "csrftoken=hnpwu2DNShobON2YmWdScNRU6FhTWt48; expires=Sun, 22 Jun 2025 08:41:56 GMT; Max-Age=31449600; Path=/; SameSite=Lax; Secure",
     "strict-transport-security": "max-age=31536000",
     "vary": "Cookie, origin",
     "x-content-type-options": "nosniff",
     "x-frame-options": "DENY",
-    "x-request-id": "8be18aa4-abc7-410a-9feb-55600ac3ce51"
+    "x-request-id": "69a754e1-5f96-4835-8e67-f48ac7bf1e40"
   },
   "endpoints": [
     {
       "hostname": "moana.beta.gouv.fr",
-      "ip": "80.247.12.255",
+      "ip": "148.253.96.193",
       "geoip": {
         "continent": {
           "code": "EU",
