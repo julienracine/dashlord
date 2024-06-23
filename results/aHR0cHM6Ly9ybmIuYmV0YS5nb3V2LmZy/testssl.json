@@ -346,7 +346,7 @@
               "ip"           : "rnb.beta.gouv.fr/76.76.21.21",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "83 >= 30 days"
+              "finding"      : "75 >= 30 days"
           }
 ,         {
               "id"           : "cert_notBefore",
@@ -514,7 +514,7 @@
               "ip"           : "rnb.beta.gouv.fr/76.76.21.21",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1718538946"
+              "finding"      : "1719145329"
           }
 ,         {
               "id"           : "HTTP_headerAge",
@@ -1084,6 +1084,6 @@
               "ip"           : "rnb.beta.gouv.fr/76.76.21.21",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "40"
+              "finding"      : "42"
           }
 ]
