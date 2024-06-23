@@ -14,7 +14,7 @@
     },
     {
       "type": "crisp",
-      "url": "https://client.crisp.chat/static/javascripts/client.js?3654117",
+      "url": "https://client.crisp.chat/static/javascripts/client.js?222531f",
       "details": {
         "id": "crisp",
         "message": "Ensure your TOS notify the CRISP usage"
@@ -22,7 +22,7 @@
     },
     {
       "type": "crisp",
-      "url": "https://client.crisp.chat/static/stylesheets/client_legacy.css?3654117",
+      "url": "https://client.crisp.chat/static/stylesheets/client_legacy.css?222531f",
       "details": {
         "id": "crisp",
         "message": "Ensure your TOS notify the CRISP usage"
@@ -30,7 +30,7 @@
     },
     {
       "type": "crisp",
-      "url": "https://client.crisp.chat/settings/website/582ff50a-5ac4-4f38-a8bc-62f51beeef89/prelude/?callback=window.%24__CRISP_INSTANCE.__spool.website_handler&2024-5-16-8-47",
+      "url": "https://client.crisp.chat/settings/website/582ff50a-5ac4-4f38-a8bc-62f51beeef89/prelude/?callback=window.%24__CRISP_INSTANCE.__spool.website_prelude_handler&2024-5-23-9-2",
       "details": {
         "id": "crisp",
         "message": "Ensure your TOS notify the CRISP usage"
@@ -66,7 +66,7 @@
     },
     {
       "type": "crisp",
-      "url": "https://client.crisp.chat/settings/website/582ff50a-5ac4-4f38-a8bc-62f51beeef89/?callback=window.%24__CRISP_INSTANCE.__spool.website_handler&1717531455284",
+      "url": "https://client.crisp.chat/settings/website/582ff50a-5ac4-4f38-a8bc-62f51beeef89/?callback=window.%24__CRISP_INSTANCE.__spool.website_settings_handler&1718754996452",
       "details": {
         "id": "crisp",
         "message": "Ensure your TOS notify the CRISP usage"
@@ -74,7 +74,7 @@
     },
     {
       "type": "crisp",
-      "url": "https://client.crisp.chat/static/javascripts/locales/fr.js?3654117",
+      "url": "https://client.crisp.chat/static/javascripts/locales/fr.js?222531f",
       "details": {
         "id": "crisp",
         "message": "Ensure your TOS notify the CRISP usage"
@@ -86,58 +86,24 @@
     "alt-svc": "h3=\":443\"; ma=86400",
     "cache-control": "public, max-age=0",
     "cf-cache-status": "DYNAMIC",
-    "cf-ray": "8949897e0fb22c17-ORD",
+    "cf-ray": "89834c88fea51664-SJC",
     "content-encoding": "br",
     "content-type": "text/html; charset=UTF-8",
-    "date": "Sun, 16 Jun 2024 08:47:47 GMT",
-    "etag": "W/\"a93-1900b9f80e8\"",
-    "last-modified": "Wed, 12 Jun 2024 08:45:21 GMT",
+    "date": "Sun, 23 Jun 2024 09:02:24 GMT",
+    "etag": "W/\"a93-19026a53a68\"",
+    "last-modified": "Mon, 17 Jun 2024 14:41:21 GMT",
     "server": "cloudflare",
-    "x-b3-traceid": "d12c286a2371afa5",
-    "x-envoy-upstream-service-time": "80",
+    "x-b3-traceid": "b9fba616f92721a4",
+    "x-envoy-upstream-service-time": "141",
     "x-koyeb-backend": "par1",
-    "x-koyeb-glb": "was1",
+    "x-koyeb-glb": "sfo1",
     "x-powered-by": "Express"
   },
   "endpoints": [
     {
       "hostname": "app.territoiresentransitions.fr",
-      "ip": "172.67.24.44",
+      "ip": "104.22.79.190",
       "geoip": {
-        "continent": {
-          "code": "NA",
-          "geoname_id": 6255149,
-          "names": {
-            "de": "Nordamerika",
-            "en": "North America",
-            "es": "Norteamérica",
-            "fr": "Amérique du Nord",
-            "ja": "北アメリカ",
-            "pt-BR": "América do Norte",
-            "ru": "Северная Америка",
-            "zh-CN": "北美洲"
-          }
-        },
-        "country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
-          "names": {
-            "de": "USA",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
-          }
-        },
-        "location": {
-          "accuracy_radius": 1000,
-          "latitude": 37.751,
-          "longitude": -97.822,
-          "time_zone": "America/Chicago"
-        },
         "registered_country": {
           "geoname_id": 6252001,
           "iso_code": "US",
@@ -230,7 +196,7 @@
     },
     {
       "hostname": "fonts.googleapis.com",
-      "ip": "142.250.190.42",
+      "ip": "142.250.189.234",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -284,7 +250,7 @@
     },
     {
       "hostname": "userguiding.com",
-      "ip": "104.26.4.5",
+      "ip": "104.26.5.5",
       "geoip": {
         "registered_country": {
           "geoname_id": 6252001,
@@ -304,7 +270,7 @@
     },
     {
       "hostname": "uploads-ssl.webflow.com",
-      "ip": "52.84.125.13",
+      "ip": "18.238.192.14",
       "geoip": {
         "continent": {
           "code": "NA",
