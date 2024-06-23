@@ -10,19 +10,19 @@
     "content-encoding": "gzip",
     "content-security-policy": "default-src 'self' https://user-images.githubusercontent.com https://tally.so https://px.ads.linkedin.com https://snap.licdn.com https://metabase.immersion-facile.beta.gouv.fr https://matomo.inclusion.beta.gouv.fr https://sentry.gip-inclusion.cloud-ed.fr wss://client.relay.crisp.chat/w/9d/  https://client.crisp.chat data: blob: https://immersion.cellar-c2.services.clever-cloud.com https://immersion-dev.cellar-c2.services.clever-cloud.com https://immersion-staging.cellar-c2.services.clever-cloud.com 'unsafe-inline' 'unsafe-eval'",
     "content-type": "text/html; charset=utf-8",
-    "date": "Sun, 16 Jun 2024 03:20:13 GMT",
-    "etag": "W/\"66605574-911\"",
-    "last-modified": "Wed, 05 Jun 2024 12:09:24 GMT",
+    "date": "Sun, 23 Jun 2024 03:17:37 GMT",
+    "etag": "W/\"6672d107-911\"",
+    "last-modified": "Wed, 19 Jun 2024 12:37:27 GMT",
     "strict-transport-security": "max-age=31536000",
     "vary": "Accept-Encoding",
     "x-content-type-options": "nosniff",
-    "x-request-id": "a105edb5-7346-4a83-bdde-dd5912493d4c",
+    "x-request-id": "6148a42b-2fe4-4240-af34-7d696496fb04",
     "x-xss-protection": "1; mode=block"
   },
   "endpoints": [
     {
       "hostname": "immersion-facile.beta.gouv.fr",
-      "ip": "80.247.12.255",
+      "ip": "80.247.13.145",
       "geoip": {
         "continent": {
           "code": "EU",
