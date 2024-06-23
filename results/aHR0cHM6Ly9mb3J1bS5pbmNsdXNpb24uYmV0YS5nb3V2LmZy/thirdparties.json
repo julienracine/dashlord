@@ -32,10 +32,10 @@
   "cookies": [
     {
       "name": "sessionid",
-      "value": "j1qdik3w3tw1cd1ist4kqz1p5w0cucgf",
+      "value": "eoshyiuvj3y2gdu94cqzel076b1n7dhl",
       "domain": "communaute.inclusion.beta.gouv.fr",
       "path": "/",
-      "expires": 1719717070.517661,
+      "expires": 1720321741.335367,
       "size": 41,
       "httpOnly": true,
       "secure": true,
@@ -46,41 +46,11 @@
       "sourcePort": 443
     },
     {
-      "name": "_pk_ses.206.a786",
-      "value": "1",
-      "domain": "communaute.inclusion.beta.gouv.fr",
-      "path": "/",
-      "expires": 1718509271,
-      "size": 17,
-      "httpOnly": false,
-      "secure": false,
-      "session": false,
-      "sameSite": "Lax",
-      "sameParty": false,
-      "sourceScheme": "Secure",
-      "sourcePort": 443
-    },
-    {
-      "name": "_pk_id.206.a786",
-      "value": "e888a9352945c968.1718507472.",
-      "domain": "communaute.inclusion.beta.gouv.fr",
-      "path": "/",
-      "expires": 1752462672,
-      "size": 43,
-      "httpOnly": false,
-      "secure": false,
-      "session": false,
-      "sameSite": "Lax",
-      "sameParty": false,
-      "sourceScheme": "Secure",
-      "sourcePort": 443
-    },
-    {
       "name": "csrftoken",
-      "value": "3DPZGlA4X2NfR9tyWaTqjTg3NG0IaKV7",
+      "value": "Fqt6ZOXwyHLWfVp2Qjz6ALJXqvy0PsAJ",
       "domain": "communaute.inclusion.beta.gouv.fr",
       "path": "/",
-      "expires": 1749957070.517547,
+      "expires": 1750561741.335227,
       "size": 41,
       "httpOnly": false,
       "secure": true,
@@ -94,15 +64,15 @@
   "headers": {
     "connection": "keep-alive",
     "content-encoding": "gzip",
-    "content-length": "7477",
-    "content-security-policy": "img-src 'self' data: cellar-c2.services.clever-cloud.com https://matomo.inclusion.beta.gouv.fr/; font-src 'self' https://fonts.gstatic.com/ data:; script-src-elem 'self' https://cdn.jsdelivr.net/npm/chart.js@4.0.1 https://cdn.jsdelivr.net/npm/jquery@3.6.1/dist/jquery.min.js https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.min.js https://browser.sentry-cdn.com https://js.sentry-cdn.com https://tally.so https://www.youtube.com/iframe_api https://www.youtube.com/s/player/ https://matomo.inclusion.beta.gouv.fr/ 'nonce-8u9vupbY1AFTpFBEcXSAEQ=='; connect-src 'self' *.sentry.io https://api-adresse.data.gouv.fr https://matomo.inclusion.beta.gouv.fr/; frame-src 'self' https://tally.so https://www.youtube.com/embed/; default-src 'self'; style-src 'self' https://fonts.googleapis.com 'unsafe-inline'; script-src 'self' https://cdn.jsdelivr.net/npm/chart.js@4.0.1 https://cdn.jsdelivr.net/npm/jquery@3.6.1/dist/jquery.min.js https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.min.js https://browser.sentry-cdn.com https://js.sentry-cdn.com https://tally.so https://www.youtube.com/iframe_api https://www.youtube.com/s/player/ https://matomo.inclusion.beta.gouv.fr/ 'nonce-8u9vupbY1AFTpFBEcXSAEQ=='; style-src-elem 'self' https://fonts.googleapis.com 'unsafe-inline'",
+    "content-length": "7224",
+    "content-security-policy": "style-src 'self' https://fonts.googleapis.com 'unsafe-inline'; font-src 'self' https://fonts.gstatic.com/ data:; connect-src 'self' *.sentry.io https://api-adresse.data.gouv.fr https://matomo.inclusion.beta.gouv.fr/; script-src 'self' https://cdn.jsdelivr.net/npm/chart.js@4.0.1 https://cdn.jsdelivr.net/npm/jquery@3.6.1/dist/jquery.min.js https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.min.js https://browser.sentry-cdn.com https://js.sentry-cdn.com https://tally.so https://www.youtube.com/iframe_api https://www.youtube.com/s/player/ https://matomo.inclusion.beta.gouv.fr/ 'nonce-9ENL3rnRM5yqT9T4WfP0JQ=='; img-src 'self' data: cellar-c2.services.clever-cloud.com https://matomo.inclusion.beta.gouv.fr/; style-src-elem 'self' https://fonts.googleapis.com 'unsafe-inline'; default-src 'self'; script-src-elem 'self' https://cdn.jsdelivr.net/npm/chart.js@4.0.1 https://cdn.jsdelivr.net/npm/jquery@3.6.1/dist/jquery.min.js https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.min.js https://browser.sentry-cdn.com https://js.sentry-cdn.com https://tally.so https://www.youtube.com/iframe_api https://www.youtube.com/s/player/ https://matomo.inclusion.beta.gouv.fr/ 'nonce-9ENL3rnRM5yqT9T4WfP0JQ=='; frame-src 'self' https://tally.so https://www.youtube.com/embed/",
     "content-type": "text/html; charset=utf-8",
     "cross-origin-opener-policy": "same-origin",
-    "date": "Sun, 16 Jun 2024 03:11:10 GMT",
+    "date": "Sun, 23 Jun 2024 03:09:01 GMT",
     "permissions-policy": "accelerometer=(), autoplay=(), camera=(), encrypted-media=(), fullscreen=(), geolocation=(), gyroscope=(), magnetometer=(), microphone=(), midi=(), payment=(), picture-in-picture=(), sync-xhr=(), usb=()",
     "referrer-policy": "same-origin",
-    "set-cookie": "csrftoken=3DPZGlA4X2NfR9tyWaTqjTg3NG0IaKV7; expires=Sun, 15 Jun 2025 03:11:10 GMT; Max-Age=31449600; Path=/; SameSite=Lax; Secure\nsessionid=j1qdik3w3tw1cd1ist4kqz1p5w0cucgf; expires=Sun, 30 Jun 2024 03:11:10 GMT; HttpOnly; Max-Age=1209600; Path=/; SameSite=Lax; Secure",
-    "sozu-id": "01J0FGDZDXESP72N58DBFSXCR6",
+    "set-cookie": "csrftoken=Fqt6ZOXwyHLWfVp2Qjz6ALJXqvy0PsAJ; expires=Sun, 22 Jun 2025 03:09:01 GMT; Max-Age=31449600; Path=/; SameSite=Lax; Secure\nsessionid=eoshyiuvj3y2gdu94cqzel076b1n7dhl; expires=Sun, 07 Jul 2024 03:09:01 GMT; HttpOnly; Max-Age=1209600; Path=/; SameSite=Lax; Secure",
+    "sozu-id": "01J11H3264Y3E0JE436D1GX3XH",
     "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
     "vary": "Cookie, Accept-Encoding",
     "x-content-type-options": "nosniff",
@@ -167,7 +137,7 @@
     },
     {
       "hostname": "js.sentry-cdn.com",
-      "ip": "151.101.130.217",
+      "ip": "151.101.2.217",
       "geoip": {
         "city": {
           "geoname_id": 5391959,
@@ -254,7 +224,7 @@
     },
     {
       "hostname": "cdn.jsdelivr.net",
-      "ip": "104.18.186.31",
+      "ip": "104.18.187.31",
       "geoip": {
         "registered_country": {
           "geoname_id": 6252001,
