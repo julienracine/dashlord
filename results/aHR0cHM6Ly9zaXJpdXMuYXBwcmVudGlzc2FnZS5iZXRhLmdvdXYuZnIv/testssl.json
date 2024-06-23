@@ -577,7 +577,7 @@
               "ip"           : "sirius.apprentissage.beta.gouv.fr/141.95.167.141",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "39 >= 30 days"
+              "finding"      : "32 >= 30 days"
           }
 ,         {
               "id"           : "cert_notBefore",
@@ -738,7 +738,7 @@
               "ip"           : "sirius.apprentissage.beta.gouv.fr/141.95.167.141",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1718539661"
+              "finding"      : "1719146139"
           }
 ,         {
               "id"           : "HSTS_time",
@@ -808,7 +808,7 @@
               "ip"           : "sirius.apprentissage.beta.gouv.fr/141.95.167.141",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "frame-ancestors 'self' *.onisep.fr"
+              "finding"      : "frame-ancestors 'self' *.onisep.fr *.beta.gouv.fr"
           }
 ,         {
               "id"           : "X-XSS-Protection",
@@ -1352,6 +1352,6 @@
               "ip"           : "sirius.apprentissage.beta.gouv.fr/141.95.167.141",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "81"
+              "finding"      : "80"
           }
 ]
