@@ -3,11 +3,11 @@
   "cookies": [
     {
       "name": "_collectif_objets_session",
-      "value": "OKeUgp6iHUuIDYJbOLPYi9HzRDZe7V91GHf13MU13H4yGtck%2BvqkuYyqe7fD%2BvdGLf%2FraKoxZqqV2yQKDXrZbZ9pZtYb2AnrwxwT5e4Uhrz0k3kfgeGgaLysqmN%2BGyDReS9kC2bNCLkLP2sF2wZm2BDeaF9zT2kdLh0zTDQCSHvLXZ5DGW8W0WxErMDBpNGj%2B3kx4ybMNpqD0jEgGaV1o0%2FaY85tfToe2MeU8JlEQHO3Hjtsz64oN4YIT3anJmVcYqTef0TFZj81ovLvi05NnIgulhyyJEQcG%2BQ10Y6ifJ6G--dz7S1A7Q%2BZkeVm9n--AZZkxfO9nama1YLNKJMhBw%3D%3D",
+      "value": "s67lQACgpCTlGC%2BQamwV%2BZOumO62E3eTMVdRpB1lM577FsxetCoqe40qJSA17V8rSzYvjUmLp8YrQrVei2YEEeTP%2FRET1dwsE8lHNDmdFLQ%2F27v5v8ljs6sPexMeS9EzviRRc%2FOgAh4YSrJzkq9kYuerW1rzE5B%2FRtAMghapGscWFJlAOiT1uNbWeDwtqSaCzUPQKnjZzVaXtHLdWt6n5XWW%2F9ciTFe5vJM7vw1n3NYXiHZGXgKQORg3KBo40F9F0X2n7C1ltfoKR9wYySVYQ1AYomHT%2FnrI4ITbC4USF%2Fcw--Go7qOYdoEeaJA0O7--tNsS0ngxyh09fnpRrTSR9A%3D%3D",
       "domain": "collectif-objets.beta.gouv.fr",
       "path": "/",
       "expires": -1,
-      "size": 389,
+      "size": 391,
       "httpOnly": true,
       "secure": true,
       "session": true,
@@ -20,25 +20,25 @@
   "headers": {
     "cache-control": "max-age=0, private, must-revalidate",
     "content-encoding": "gzip",
-    "content-security-policy": "report-uri https://sentry.incubateur.net/api/40/security/?sentry_key=5f6f9cf638ac413b82d1d9c8a9ba2025; default-src 'self' https:; script-src 'self' https: 'nonce-oW0irdo17EvUoevCeWcVug=='; img-src 'self' data: blob: https://s3.fr-par.scw.cloud/collectif-objets-development2/ https://s3.fr-par.scw.cloud/collectif-objets-staging2/ https://s3.fr-par.scw.cloud/collectif-objets-production/ https://s3.fr-par.scw.cloud/collectif-objets-public/ https://collectif-objets-development2.s3.fr-par.scw.cloud/ https://collectif-objets-staging2.s3.fr-par.scw.cloud/ https://collectif-objets-production.s3.fr-par.scw.cloud/ https://collectif-objets-public.s3.fr-par.scw.cloud/ https://s3.eu-west-3.amazonaws.com/pop-phototeque/ https://collectif-objets.beta.gouv.fr/ https://stats.beta.gouv.fr; connect-src 'self' https://stats.beta.gouv.fr https://openmaptiles.geo.data.gouv.fr https://collectif-objets-development2.s3.fr-par.scw.cloud/ https://collectif-objets-staging2.s3.fr-par.scw.cloud/ https://collectif-objets-production.s3.fr-par.scw.cloud/ https://collectif-objets-public.s3.fr-par.scw.cloud/; object-src 'self'; font-src 'self' https: data:; child-src blob:; worker-src blob:; style-src 'self' https: 'nonce-oW0irdo17EvUoevCeWcVug=='; frame-src 'self' https://collectif-objets-metabase.osc-secnum-fr1.scalingo.io/ https://tube.numerique.gouv.fr/ https://www.loom.com/",
+    "content-security-policy": "report-uri https://sentry.incubateur.net/api/40/security/?sentry_key=5f6f9cf638ac413b82d1d9c8a9ba2025; default-src 'self' https:; script-src 'self' https: 'nonce-r+e53OEn17RFfZLhSRYE4w=='; img-src 'self' data: blob: https://s3.fr-par.scw.cloud/collectif-objets-development2/ https://s3.fr-par.scw.cloud/collectif-objets-staging2/ https://s3.fr-par.scw.cloud/collectif-objets-production/ https://s3.fr-par.scw.cloud/collectif-objets-public/ https://collectif-objets-development2.s3.fr-par.scw.cloud/ https://collectif-objets-staging2.s3.fr-par.scw.cloud/ https://collectif-objets-production.s3.fr-par.scw.cloud/ https://collectif-objets-public.s3.fr-par.scw.cloud/ https://s3.eu-west-3.amazonaws.com/pop-phototeque/ https://collectif-objets.beta.gouv.fr/ https://stats.beta.gouv.fr; connect-src 'self' https://stats.beta.gouv.fr https://openmaptiles.geo.data.gouv.fr https://collectif-objets-development2.s3.fr-par.scw.cloud/ https://collectif-objets-staging2.s3.fr-par.scw.cloud/ https://collectif-objets-production.s3.fr-par.scw.cloud/ https://collectif-objets-public.s3.fr-par.scw.cloud/; object-src 'self'; font-src 'self' https: data:; child-src blob:; worker-src blob:; style-src 'self' https: 'nonce-r+e53OEn17RFfZLhSRYE4w=='; frame-src 'self' https://collectif-objets-metabase.osc-secnum-fr1.scalingo.io/ https://tube.numerique.gouv.fr/ https://www.loom.com/",
     "content-type": "text/html; charset=utf-8",
-    "date": "Sun, 16 Jun 2024 08:34:03 GMT",
-    "etag": "W/\"45741f6f78caf7615edb497c84056b2e\"",
+    "date": "Sun, 23 Jun 2024 08:49:56 GMT",
+    "etag": "W/\"fbbe3c9d561ddaa7b5901c9829c35cf7\"",
     "link": "</vite/assets/application-1c2abbf9.js>; rel=modulepreload; as=script; crossorigin=anonymous; nopush,</vite/assets/lightbox_component_controller-fd1f7fd7.css>; rel=preload; as=style; nopush,</vite/assets/miniatures_component_controller-2b5a3d7b.css>; rel=preload; as=style; nopush,</vite/assets/photo_upload_component_controller-2f4d8fd8.css>; rel=preload; as=style; nopush,</vite/assets/all-b65b70df.css>; rel=preload; as=style; nopush,</vite/assets/matomo_tracking-bab56819.js>; rel=modulepreload; as=script; crossorigin=anonymous; nopush",
     "referrer-policy": "strict-origin-when-cross-origin",
-    "set-cookie": "_collectif_objets_session=OKeUgp6iHUuIDYJbOLPYi9HzRDZe7V91GHf13MU13H4yGtck%2BvqkuYyqe7fD%2BvdGLf%2FraKoxZqqV2yQKDXrZbZ9pZtYb2AnrwxwT5e4Uhrz0k3kfgeGgaLysqmN%2BGyDReS9kC2bNCLkLP2sF2wZm2BDeaF9zT2kdLh0zTDQCSHvLXZ5DGW8W0WxErMDBpNGj%2B3kx4ybMNpqD0jEgGaV1o0%2FaY85tfToe2MeU8JlEQHO3Hjtsz64oN4YIT3anJmVcYqTef0TFZj81ovLvi05NnIgulhyyJEQcG%2BQ10Y6ifJ6G--dz7S1A7Q%2BZkeVm9n--AZZkxfO9nama1YLNKJMhBw%3D%3D; path=/; secure; httponly; SameSite=Lax",
+    "set-cookie": "_collectif_objets_session=s67lQACgpCTlGC%2BQamwV%2BZOumO62E3eTMVdRpB1lM577FsxetCoqe40qJSA17V8rSzYvjUmLp8YrQrVei2YEEeTP%2FRET1dwsE8lHNDmdFLQ%2F27v5v8ljs6sPexMeS9EzviRRc%2FOgAh4YSrJzkq9kYuerW1rzE5B%2FRtAMghapGscWFJlAOiT1uNbWeDwtqSaCzUPQKnjZzVaXtHLdWt6n5XWW%2F9ciTFe5vJM7vw1n3NYXiHZGXgKQORg3KBo40F9F0X2n7C1ltfoKR9wYySVYQ1AYomHT%2FnrI4ITbC4USF%2Fcw--Go7qOYdoEeaJA0O7--tNsS0ngxyh09fnpRrTSR9A%3D%3D; path=/; secure; httponly; SameSite=Lax",
     "strict-transport-security": "max-age=63072000; includeSubDomains; preload",
     "x-content-type-options": "nosniff",
     "x-frame-options": "SAMEORIGIN",
     "x-permitted-cross-domain-policies": "none",
-    "x-request-id": "63e408c4-3406-474f-86ea-789a59724ca1\n63e408c4-3406-474f-86ea-789a59724ca1",
-    "x-runtime": "0.009735",
+    "x-request-id": "c368f49e-7443-4f1c-a04a-8601a9171bd7\nc368f49e-7443-4f1c-a04a-8601a9171bd7",
+    "x-runtime": "0.011632",
     "x-xss-protection": "0"
   },
   "endpoints": [
     {
       "hostname": "collectif-objets.beta.gouv.fr",
-      "ip": "185.21.194.105",
+      "ip": "80.247.12.255",
       "geoip": {
         "continent": {
           "code": "EU",
