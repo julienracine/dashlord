@@ -1,4 +1,4 @@
-# Nmap 7.92 scan initiated Sun Jun 16 11:30:40 2024 as: nmap -sV --script vulners --script-args mincvss=5.0 -oA /data/nmapvuln api.trackdechets.beta.gouv.fr
-Host: 185.179.148.96 ()	Status: Up
-Host: 185.179.148.96 ()	Ports: 80/open/tcp//http///, 443/open/tcp//ssl|https///	Ignored State: filtered (998)
-# Nmap done at Sun Jun 16 11:31:27 2024 -- 1 IP address (1 host up) scanned in 47.83 seconds
+# Nmap 7.92 scan initiated Sun Jun 23 11:50:52 2024 as: nmap -sV --script vulners --script-args mincvss=5.0 -oA /data/nmapvuln api.trackdechets.beta.gouv.fr
+Host: 185.179.149.96 ()	Status: Up
+Host: 185.179.149.96 ()	Ports: 80/open/tcp//http///, 443/open/tcp//ssl|https///	Ignored State: filtered (998)
+# Nmap done at Sun Jun 23 11:51:31 2024 -- 1 IP address (1 host up) scanned in 38.30 seconds
