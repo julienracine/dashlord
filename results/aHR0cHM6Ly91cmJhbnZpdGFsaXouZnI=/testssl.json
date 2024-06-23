@@ -199,7 +199,7 @@
               "ip"           : "urbanvitaliz.fr/185.31.40.13",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "not supported"
+              "finding"      : "supported"
           }
 ,         {
               "id"           : "sessionresumption_ID",
@@ -269,7 +269,7 @@
               "ip"           : "urbanvitaliz.fr/185.31.40.13",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "0352CC09177151E60EE0F6D77FB9B8BE2440"
+              "finding"      : "03C5575EFFA0D1DF344816D7F76800674C8F"
           }
 ,         {
               "id"           : "cert_serialNumberLen",
@@ -283,21 +283,21 @@
               "ip"           : "urbanvitaliz.fr/185.31.40.13",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "37F6A223BF1DB816DDDA359184BC8B3FAE43644E"
+              "finding"      : "C94948644A2D6F98D051548373A2B6B085F776B6"
           }
 ,         {
               "id"           : "cert_fingerprintSHA256",
               "ip"           : "urbanvitaliz.fr/185.31.40.13",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "B7CF875F2A0A36C9352BA804D921007702715CF72EF6731A1FD77429AE91DCB6"
+              "finding"      : "B280B98E14E1909CCD2FA3D24949553EAFA7A176E45EF5FE8D82A7E337F874C0"
           }
 ,         {
               "id"           : "cert",
               "ip"           : "urbanvitaliz.fr/185.31.40.13",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "-----BEGIN CERTIFICATE-----\nMIIE6zCCA9OgAwIBAgISA1LMCRdxUeYO4PbXf7m4viRAMA0GCSqGSIb3DQEBCwUAMDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQDEwJSMzAeFw0yNDA0MTkwNjU0MTFaFw0yNDA3MTgwNjU0MTBaMBoxGDAWBgNVBAMTD3VyYmFudml0YWxpei5mcjCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAPdWHQt+wlcYuceXbOHWfHH+Tfz8u6LdsmRg5JE/FCqRXev5G+7zT8mjTi18YV08WfVwjnXik5QWV0OsV4LOzlcx39mmIYcXF1RfkI8OZtj/qLHLABpoDS4uIkO8SyldvkIDcqN0UKX2zG/7/zWFNjaG5nLgvrT4ujZcg+KWbhf5kZ9+ZZVp0HCYKQRoUwSOKQ5PGC1NiPFP4kJ22hTlyR0IiFaBJ3klAOf8sPRXo1yGDNKrGOVaVU14lQSV33vzNoOj1vqL7tQzKSvIx0nVeYsAB9zmZOxUEFe4Tp0em6zZjobaVyw1manXVs3yjBxKAStjGTRGYx4Gg8JhOan1reECAwEAAaOCAhEwggINMA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQU+j4GWdwLFJNIFWaDl8wIAfm908QwHwYDVR0jBBgwFoAUFC6zF7dYVsuuUAlA5h+vnYsUwsYwVQYIKwYBBQUHAQEESTBHMCEGCCsGAQUFBzABhhVodHRwOi8vcjMuby5sZW5jci5vcmcwIgYIKwYBBQUHMAKGFmh0dHA6Ly9yMy5pLmxlbmNyLm9yZy8wGgYDVR0RBBMwEYIPdXJiYW52aXRhbGl6LmZyMBMGA1UdIAQMMAowCAYGZ4EMAQIBMIIBBAYKKwYBBAHWeQIEAgSB9QSB8gDwAHUASLDja9qmRzQP5WoC+p0w6xxSActW3SyB2bu/qznYhHMAAAGO9VlCkwAABAMARjBEAiBMkIT/E8lW76FUhKXowvf5VWeQXIh3kXdCmplugXLDPQIgHS4HQohE/2PG9BnD9tpzSAXGgfOeT5VrL2vBk8ia9kgAdwA/F0tP1yJHWJQdZRyEvg0S7ZA3fx+FauvBvyiF7PhkbgAAAY71WUKWAAAEAwBIMEYCIQDAqHDY91wtPCcmF5GYrIxwQHUGF/I1YlpxttaCbG5VeAIhAOu6lWk0a2KtpZINe06EiBm9LoVLeobsnYiaMW8fJykAMA0GCSqGSIb3DQEBCwUAA4IBAQC5S6u5+w0Az276cxRM1SCTpvyToHaq598fhdIfRS0RhpNHJ+NgGOMgZ7L083jXRE07RwYyjWf3N9bjjC6KKGeFGcyzmceWAiZw3JzPF0Os1jBRR29SpAF5QIROVvfptRrRLcE9DFkH5KDZFCb7fdy37HsSOUyyjQO+PZLmXZcb2NIl2wkG8ykare9mjameIEFn9zqLAGnl2u3IagVfbNPIKNHdGnreTl9WO3A38XKiZlRlZEpxm+tA/ppOu+u2gb/3BzOLa3GHdjIvmzjlP02D4kEnxqjZiVXjJXbNVTDQEoKEornoMt8X5/bofcU9iukaHsuB4kj74mhrKsZuPvLu\n-----END CERTIFICATE-----"
+              "finding"      : "-----BEGIN CERTIFICATE-----\nMIIE7zCCA9egAwIBAgISA8VXXv+g0d80SBbX92gAZ0yPMA0GCSqGSIb3DQEBCwUAMDMxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQwwCgYDVQQDEwNSMTEwHhcNMjQwNjE4MDY1ODM4WhcNMjQwOTE2MDY1ODM3WjAaMRgwFgYDVQQDEw91cmJhbnZpdGFsaXouZnIwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQD3Vh0LfsJXGLnHl2zh1nxx/k38/Lui3bJkYOSRPxQqkV3r+Rvu80/Jo04tfGFdPFn1cI514pOUFldDrFeCzs5XMd/ZpiGHFxdUX5CPDmbY/6ixywAaaA0uLiJDvEspXb5CA3KjdFCl9sxv+/81hTY2huZy4L60+Lo2XIPilm4X+ZGffmWVadBwmCkEaFMEjikOTxgtTYjxT+JCdtoU5ckdCIhWgSd5JQDn/LD0V6NchgzSqxjlWlVNeJUEld978zaDo9b6i+7UMykryMdJ1XmLAAfc5mTsVBBXuE6dHpus2Y6G2lcsNZmp11bN8owcSgErYxk0RmMeBoPCYTmp9a3hAgMBAAGjggIUMIICEDAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFPo+BlncCxSTSBVmg5fMCAH5vdPEMB8GA1UdIwQYMBaAFMXPRqTq9MPAemyVxC2wXpIvJuO5MFcGCCsGAQUFBwEBBEswSTAiBggrBgEFBQcwAYYWaHR0cDovL3IxMS5vLmxlbmNyLm9yZzAjBggrBgEFBQcwAoYXaHR0cDovL3IxMS5pLmxlbmNyLm9yZy8wGgYDVR0RBBMwEYIPdXJiYW52aXRhbGl6LmZyMBMGA1UdIAQMMAowCAYGZ4EMAQIBMIIBBQYKKwYBBAHWeQIEAgSB9gSB8wDxAHcAPxdLT9ciR1iUHWUchL4NEu2QN38fhWrrwb8ohez4ZG4AAAGQKlrkGAAABAMASDBGAiEAnjm985C7cSKMCwOxhLfdt5BfMuXv1aO2t8kpn0YW6xMCIQDz2VcUnGgrRgdJbT4gOcR9qvS3oMw4Ln5jO/+MCtAkdwB2AO7N0GTV2xrOxVy3nbTNE6Iyh0Z8vOzew1FIWUZxH7WbAAABkCpa5CUAAAQDAEcwRQIgHpedCZPP2uUb2AHMfgUz+qo5am7wQtiCWgOaqbmNQI8CIQDVw6JovHOcJPTfu6lJqwe4BGdtJnPNqKLiI3Ex6+QLNTANBgkqhkiG9w0BAQsFAAOCAQEAbXGc/1dknO7Xn71DTYTG7Qw73O5D/TDbqH3tZQWH5Lfjq9JK781zN24U0KOGHFu+EmQ9ZpGcTvJRYLTtHEcxsGNHXHJi3YqgqqM1OSowS4u33zVC8SE8CqhCEByYP7Pp825N9Ik5zevRQsJ6UzaySUcRvDh6c4N49LwQ30sfGUTUvrnkN29MK8iJ/8hKWqSWmCXSYiULFIRURCRxjT3cnZZK8KpTM12WbMqdmTp1wTD1K6ESXDMyKVQSLB9dxCG6ljDxftXQfGGcW+iMk1/29wqWp2tJA0AcNkAr+Y5p2LsuWiSQxXa2Ubhp+wSUEA5oLuOmEbVxYcaH4WgNCkhORA==\n-----END CERTIFICATE-----"
           }
 ,         {
               "id"           : "cert_commonName",
@@ -346,21 +346,21 @@
               "ip"           : "urbanvitaliz.fr/185.31.40.13",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "31 >= 30 days"
+              "finding"      : "84 >= 30 days"
           }
 ,         {
               "id"           : "cert_notBefore",
               "ip"           : "urbanvitaliz.fr/185.31.40.13",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "2024-04-19 06:54"
+              "finding"      : "2024-06-18 06:58"
           }
 ,         {
               "id"           : "cert_notAfter",
               "ip"           : "urbanvitaliz.fr/185.31.40.13",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "2024-07-18 06:54"
+              "finding"      : "2024-09-16 06:58"
           }
 ,         {
               "id"           : "cert_extlifeSpan",
@@ -388,7 +388,7 @@
               "ip"           : "urbanvitaliz.fr/185.31.40.13",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "http://r3.o.lencr.org"
+              "finding"      : "http://r11.o.lencr.org"
           }
 ,         {
               "id"           : "OCSP_stapling",
@@ -437,35 +437,35 @@
               "ip"           : "urbanvitaliz.fr/185.31.40.13",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "R3 (Let's Encrypt from US)"
+              "finding"      : "R11 (Let's Encrypt from US)"
           }
 ,         {
               "id"           : "intermediate_cert <#1>",
               "ip"           : "urbanvitaliz.fr/185.31.40.13",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "-----BEGIN CERTIFICATE-----\nMIIFFjCCAv6gAwIBAgIRAJErCErPDBinU/bWLiWnX1owDQYJKoZIhvcNAQELBQAwTzELMAkGA1UEBhMCVVMxKTAnBgNVBAoTIEludGVybmV0IFNlY3VyaXR5IFJlc2VhcmNoIEdyb3VwMRUwEwYDVQQDEwxJU1JHIFJvb3QgWDEwHhcNMjAwOTA0MDAwMDAwWhcNMjUwOTE1MTYwMDAwWjAyMQswCQYDVQQGEwJVUzEWMBQGA1UEChMNTGV0J3MgRW5jcnlwdDELMAkGA1UEAxMCUjMwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQC7AhUozPaglNMPEuyNVZLD+ILxmaZ6QoinXSaqtSu5xUyxr45r+XXIo9cPR5QUVTVXjJ6oojkZ9YI8QqlObvU7wy7bjcCwXPNZOOftz2nwWgsbvsCUJCWH+jdxsxPnHKzhm+/b5DtFUkWWqcFTzjTIUu61ru2P3mBw4qVUq7ZtDpelQDRrK9O8ZutmNHz6a4uPVymZ+DAXXbpyb/uBxa3Shlg9F8fnCbvxK/eG3MHacV3URuPMrSXBiLxgZ3Vms/EY96Jc5lP/Ooi2R6X/ExjqmAl3P51T+c8B5fWmcBcUr2Ok/5mzk53cU6cG/kiFHaFpriV1uxPMUgP17VGhi9sVAgMBAAGjggEIMIIBBDAOBgNVHQ8BAf8EBAMCAYYwHQYDVR0lBBYwFAYIKwYBBQUHAwIGCCsGAQUFBwMBMBIGA1UdEwEB/wQIMAYBAf8CAQAwHQYDVR0OBBYEFBQusxe3WFbLrlAJQOYfr52LFMLGMB8GA1UdIwQYMBaAFHm0WeZ7tuXkAXOACIjIGlj26ZtuMDIGCCsGAQUFBwEBBCYwJDAiBggrBgEFBQcwAoYWaHR0cDovL3gxLmkubGVuY3Iub3JnLzAnBgNVHR8EIDAeMBygGqAYhhZodHRwOi8veDEuYy5sZW5jci5vcmcvMCIGA1UdIAQbMBkwCAYGZ4EMAQIBMA0GCysGAQQBgt8TAQEBMA0GCSqGSIb3DQEBCwUAA4ICAQCFyk5HPqP3hUSFvNVneLKYY611TR6WPTNlclQtgaDqw+34IL9fzLdwALduO/ZelN7kIJ+m74uyA+eitRY8kc607TkC53wlikfmZW4/RvTZ8M6UK+5UzhK8jCdLuMGYL6KvzXGRSgi3yLgjewQtCPkIVz6D2QQzCkcheAmCJ8MqyJu5zlzyZMjAvnnAT45tRAxekrsu94sQ4egdRCnbWSDtY7kh+BImlJNXoB1lBMEKIq4QDUOXoRgffuDghje1WrG9ML+Hbisq/yFOGwXD9RiX8F6sw6W4avAuvDszue5L3sz85K+EC4Y/wFVDNvZo4TYXao6Z0f+lQKc0t8DQYzk1OXVu8rp2yJMC6alLbBfODALZvYH7n7do1AZls4I9d1P4jnkDrQoxB3UqQ9hVl3LEKQ73xF1OyK5GhDDX8oVfGKF5u+decIsH4YaTw7mP3GFxJSqv3+0lUFJoi5Lc5da149p90IdshCExroL1+7mryIkXPeFM5TgO9r0rvZaBFOvV2z0gp35Z0+L4WPlbuEjN/lxPFin+HlUjr8gRsI3qfJOQFy/9rKIJR0Y/8Omwt/8oTWgy1mdeHmmjk7j1nYsvC9JSQ6ZvMldlTTKB3zhThV1+XWYp6rjd5JW1zbVWEkLNxE7GJThEUG3szgBVGP7pSWTUTsqXnLRbwHOoq7hHwg==\n-----END CERTIFICATE-----"
+              "finding"      : "-----BEGIN CERTIFICATE-----\nMIIFBjCCAu6gAwIBAgIRAIp9PhPWLzDvI4a9KQdrNPgwDQYJKoZIhvcNAQELBQAwTzELMAkGA1UEBhMCVVMxKTAnBgNVBAoTIEludGVybmV0IFNlY3VyaXR5IFJlc2VhcmNoIEdyb3VwMRUwEwYDVQQDEwxJU1JHIFJvb3QgWDEwHhcNMjQwMzEzMDAwMDAwWhcNMjcwMzEyMjM1OTU5WjAzMQswCQYDVQQGEwJVUzEWMBQGA1UEChMNTGV0J3MgRW5jcnlwdDEMMAoGA1UEAxMDUjExMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAuoe8XBsAOcvKCs3UZxD5ATylTqVhyybKUvsVAbe5KPUoHu0nsyQYOWcJDAjs4DqwO3cOvfPlOVRBDE6uQdaZdN5R2+97/1i9qLcT9t4x1fJyyXJqC4N0lZxGAGQUmfOx2SLZzaiSqhwmej/+71gFewiVgdtxD4774zEJuwm+UE1fj5F2PVqdnoPy6cRms+EGZkNIGIBloDcYmpuEMpexsr3E+BUAnSeI++JjF5ZsmydnS8TbKF5pwnnwSVzgJFDhxLyhBax7QG0AtMJBP6dYuC/FXJuluwme8f7rsIU5/agK70XEeOtlKsLPXzze41xNG/cLJyuqC0J3U095ah2H2QIDAQABo4H4MIH1MA4GA1UdDwEB/wQEAwIBhjAdBgNVHSUEFjAUBggrBgEFBQcDAgYIKwYBBQUHAwEwEgYDVR0TAQH/BAgwBgEB/wIBADAdBgNVHQ4EFgQUxc9GpOr0w8B6bJXELbBeki8m47kwHwYDVR0jBBgwFoAUebRZ5nu25eQBc4AIiMgaWPbpm24wMgYIKwYBBQUHAQEEJjAkMCIGCCsGAQUFBzAChhZodHRwOi8veDEuaS5sZW5jci5vcmcvMBMGA1UdIAQMMAowCAYGZ4EMAQIBMCcGA1UdHwQgMB4wHKAaoBiGFmh0dHA6Ly94MS5jLmxlbmNyLm9yZy8wDQYJKoZIhvcNAQELBQADggIBAE7iiV0KAxyQOND1H/lxXPjDj7I3iHpvsCUf7b632IYGjukJhM1yv4Hz/MrPU0jtvfZpQtSlET41yBOykh0FX+ou1Nj4ScOt9ZmWnO8m2OG0JAtIIE3801S0qcYhyOE2G/93ZCkXufBL713qzXnQv5C/viOykNpKqUgxdKlEC+Hi9i2DcaR1e9KUwQUZRhy5j/PEdEglKg3l9dtD4tuTm7kZtB8v32oOjzHTYw+7KdzdZiw/sBtnUfhBPORNuay4pJxmY/WrhSMdzFO2q3Gu3MUBcdo27goYKjL9CTF8j/Zz55yctUoVaneCWs/ajUX+HypkBTA+c8LGDLnWO2NKq0YD/pnARkAnYGPfUDoHR9gVSp/qRx+ZWghiDLZsMwhN1zjtSC0uBWiugF3vTNzYIEFfaPG7Ws3jDrAMMYebQ95JQ+HIBD/RPBuHRTBpqKlyDnkSHDHYPiNX3adPoPAcgdF3H2/W0rmoswMWgTlLn1Wu0mrks7/qpdWfS6PJ1jty80r2VKsM/Dj3YIDfbjXKdaFU5C+8bhfJGqU3taKauuz0wHVGT3eo6FlWkWYtbt4pgdamlwVeZEW+LM7qZEJEsMNPrfC03APKmZsJgpWCDWOKZvkZcvjVuYkQ4omYCTX5ohy+knMjdOmdH9c7SpqEWBDC86fiNex+O0XOMEZSa8DA\n-----END CERTIFICATE-----"
           }
 ,         {
               "id"           : "intermediate_cert_fingerprintSHA256 <#1>",
               "ip"           : "urbanvitaliz.fr/185.31.40.13",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "67ADD1166B020AE61B8F5FC96813C04C2AA589960796865572A3C7E737613DFD"
+              "finding"      : "591E9CE6C863D3A079E9FABE1478C7339A26B21269DDE795211361024AE31A44"
           }
 ,         {
               "id"           : "intermediate_cert_notBefore <#1>",
               "ip"           : "urbanvitaliz.fr/185.31.40.13",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "2020-09-04 00:00"
+              "finding"      : "2024-03-13 00:00"
           }
 ,         {
               "id"           : "intermediate_cert_notAfter <#1>",
               "ip"           : "urbanvitaliz.fr/185.31.40.13",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "2025-09-15 16:00"
+              "finding"      : "2027-03-12 23:59"
           }
 ,         {
               "id"           : "intermediate_cert_expiration <#1>",
@@ -479,7 +479,7 @@
               "ip"           : "urbanvitaliz.fr/185.31.40.13",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "R3 <-- ISRG Root X1"
+              "finding"      : "R11 <-- ISRG Root X1"
           }
 ,         {
               "id"           : "intermediate_cert_badOCSP",
@@ -507,7 +507,7 @@
               "ip"           : "urbanvitaliz.fr/185.31.40.13",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1718536401"
+              "finding"      : "1719142694"
           }
 ,         {
               "id"           : "HSTS_time",
@@ -722,7 +722,7 @@
               "severity"     : "INFO",
               "cve"          : "CVE-2016-0800 CVE-2016-0703",
               "cwe"          : "CWE-310",
-              "finding"      : "Make sure you don't use this certificate elsewhere with SSLv2 enabled services, see https://search.censys.io/search?resource=hosts&virtual_hosts=INCLUDE&q=B7CF875F2A0A36C9352BA804D921007702715CF72EF6731A1FD77429AE91DCB6"
+              "finding"      : "Make sure you don't use this certificate elsewhere with SSLv2 enabled services, see https://search.censys.io/search?resource=hosts&virtual_hosts=INCLUDE&q=B280B98E14E1909CCD2FA3D24949553EAFA7A176E45EF5FE8D82A7E337F874C0"
           }
 ,         {
               "id"           : "LOGJAM",
@@ -1098,6 +1098,6 @@
               "ip"           : "urbanvitaliz.fr/185.31.40.13",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "52"
+              "finding"      : "99"
           }
 ]
