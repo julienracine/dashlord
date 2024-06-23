@@ -6,7 +6,7 @@
       "value": "SDPJo389XThv5AWNKhaTDNvpLnZ/tL9wISC1OkCk8/tkV+JXQtBwFAsDqFHSWKMB0gsMreMynMzyA+vrKgHrrw==",
       "domain": "audioconf.numerique.gouv.fr",
       "path": "/",
-      "expires": 1718588788.2505,
+      "expires": 1719193577.883071,
       "size": 105,
       "httpOnly": true,
       "secure": true,
@@ -18,10 +18,10 @@
     },
     {
       "name": "connect.sid",
-      "value": "s%3AILRyaYqQCTKEVFOikNLVjq4Nslwhh2G3.93zg78sku6a6i741QgtRTg7EpONmWinbq1pdSubKDrU",
+      "value": "s%3AHk8TCvlyaHCMxg4Suru3Rqje044wFvDz.3dV9QAZQrbBxI7itbKrwKRkKJVNadmSOA1qaAOhPPCo",
       "domain": "audioconf.numerique.gouv.fr",
       "path": "/",
-      "expires": 1718502687.263367,
+      "expires": 1719107477.012116,
       "size": 91,
       "httpOnly": true,
       "secure": false,
@@ -35,12 +35,12 @@
   "headers": {
     "content-encoding": "gzip",
     "content-type": "text/html; charset=utf-8",
-    "date": "Sun, 16 Jun 2024 01:46:27 GMT",
-    "etag": "W/\"7d98-R6Mw+uVdN8vsXuKLuAtzCytBSEQ\"",
-    "set-cookie": "connect.sid=s%3AILRyaYqQCTKEVFOikNLVjq4Nslwhh2G3.93zg78sku6a6i741QgtRTg7EpONmWinbq1pdSubKDrU; Path=/; Expires=Sun, 16 Jun 2024 01:51:27 GMT; HttpOnly; SameSite=Lax\nsc-sticky-session=SDPJo389XThv5AWNKhaTDNvpLnZ/tL9wISC1OkCk8/tkV+JXQtBwFAsDqFHSWKMB0gsMreMynMzyA+vrKgHrrw==; Expires=Mon, 17-Jun-24 01:46:27 GMT; Max-Age=86400; Path=/; Secure; HttpOnly; SameSite=None",
+    "date": "Sun, 23 Jun 2024 01:46:16 GMT",
+    "etag": "W/\"7dbb-Q5sPsSuL9fLLiUZ9/Nr3MzgQdFo\"",
+    "set-cookie": "connect.sid=s%3AHk8TCvlyaHCMxg4Suru3Rqje044wFvDz.3dV9QAZQrbBxI7itbKrwKRkKJVNadmSOA1qaAOhPPCo; Path=/; Expires=Sun, 23 Jun 2024 01:51:16 GMT; HttpOnly; SameSite=Lax\nsc-sticky-session=SDPJo389XThv5AWNKhaTDNvpLnZ/tL9wISC1OkCk8/tkV+JXQtBwFAsDqFHSWKMB0gsMreMynMzyA+vrKgHrrw==; Expires=Mon, 24-Jun-24 01:46:16 GMT; Max-Age=86400; Path=/; Secure; HttpOnly; SameSite=None",
     "strict-transport-security": "max-age=31536000",
     "x-powered-by": "Express",
-    "x-request-id": "15b09a83-5716-4712-a76f-6cd62bc7a220"
+    "x-request-id": "b1ebb752-6878-4f5e-9276-9bd537819872"
   },
   "endpoints": [
     {
