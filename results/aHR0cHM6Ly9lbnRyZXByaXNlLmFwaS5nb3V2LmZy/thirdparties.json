@@ -87,7 +87,7 @@
       "value": "1",
       "domain": "entreprise.api.gouv.fr",
       "path": "/",
-      "expires": 1718508858,
+      "expires": 1719113394,
       "size": 16,
       "httpOnly": false,
       "secure": false,
@@ -99,10 +99,10 @@
     },
     {
       "name": "_pk_id.45.28f1",
-      "value": "99a56464d73d2004.1718507059.",
+      "value": "f90bf4fdc56947f6.1719111595.",
       "domain": "entreprise.api.gouv.fr",
       "path": "/",
-      "expires": 1752462259,
+      "expires": 1753066795,
       "size": 42,
       "httpOnly": false,
       "secure": false,
@@ -114,11 +114,11 @@
     },
     {
       "name": "_admin_apientreprise_session",
-      "value": "KVmUQSPl5WY8VnV2xUmiB5EpJWcmWGO9fjrluYiErNJRlAp5AN76%2FyPjfUOFZ49IuVxOjojCME1Ktlu4cGQKV0D%2BZO1DMVKKRCZBTL7pVATiHqJqwjf5Ua5bWhUATwWCZ0gXdoQgncINhV8Jh2%2B4JhHxlm1%2FIO6OZM3HVULtRnl%2BUFyPqZn6fXlE6s%2FrLWt3ovL2jj5tnTQbz0y9UBPxmHGH6tZBumT0MOVQlR8fBM8OGI8tI%2FXwyHShXWJ6MLCJS8cXdkBjyhdMGwmRe7FS0O3zG%2FnbPzW7%2BbpeAnbwdTXqVltf--0H94d1B4T49EImh3--%2BQhK4i%2Bep8ujY7Fm3g%2FVtQ%3D%3D",
+      "value": "K2CUGocg777v%2FSkYKP1v7gFY7gKbmxIuGblAYVGOm98x%2BMXREeEsFaiOuJ4wPFMfjuFhcwZLNZgUsWU5LguMUzMSNwiGCY6tlJDKqlXSzkw%2FrFUjHT9QE4FKHF3AFpY%2FD6aCOtc3V9wxkDQWhgw0YSzNAcJ%2FEQWyhkatz43bl8t6vgaHDPgtCCFxnpenlwWop3pUJ7rWlge23wJZ2wu4phURee6GgEUG1QkAUTOGHiZhd%2BChW8VmL0B%2BRTMEVobvvz%2BIZwfmUUwenSTOMpwL7qjBIbKEvTglqwz253SvLvHKVUBO--eVPh2hNd3aqCeUNS--Lw7Z%2BkLmAiXFYtNYZooONQ%3D%3D",
       "domain": "entreprise.api.gouv.fr",
       "path": "/",
       "expires": -1,
-      "size": 404,
+      "size": 398,
       "httpOnly": true,
       "secure": true,
       "session": true,
@@ -130,22 +130,22 @@
   ],
   "headers": {
     "connection": "keep-alive",
-    "content-length": "48200",
+    "content-length": "48350",
     "content-type": "text/html; charset=utf-8",
-    "date": "Sun, 16 Jun 2024 03:04:17 GMT",
+    "date": "Sun, 23 Jun 2024 02:59:53 GMT",
     "server": "nginx",
     "strict-transport-security": "max-age=63072000",
     "cache-control": "max-age=0, private, must-revalidate",
-    "etag": "W/\"a40087c4a8b3eee8a6a69137faa8a9b7\"",
+    "etag": "W/\"21254313f48ccf977f8398c4c692ea85\"",
     "link": "</assets/api_entreprise-72bfb4c5539d636bef9dafeedcf2ba00801f94d948ce29b54666f3d1d0762ecf.css>; rel=preload; as=style; nopush,</assets/api_entreprise-f1c38127d41d397825b021039e616a7c5331491084c8184c198f432417f600b8.js>; rel=preload; as=script; nopush,</assets/turbo-6f8f1796078d2d3f7cb9b6badcd2d5e76287a3c58d97baffaa59dd12bd4135f5.js>; rel=modulepreload; as=script; nopush",
     "referrer-policy": "strict-origin-when-cross-origin",
-    "set-cookie": "_admin_apientreprise_session=KVmUQSPl5WY8VnV2xUmiB5EpJWcmWGO9fjrluYiErNJRlAp5AN76%2FyPjfUOFZ49IuVxOjojCME1Ktlu4cGQKV0D%2BZO1DMVKKRCZBTL7pVATiHqJqwjf5Ua5bWhUATwWCZ0gXdoQgncINhV8Jh2%2B4JhHxlm1%2FIO6OZM3HVULtRnl%2BUFyPqZn6fXlE6s%2FrLWt3ovL2jj5tnTQbz0y9UBPxmHGH6tZBumT0MOVQlR8fBM8OGI8tI%2FXwyHShXWJ6MLCJS8cXdkBjyhdMGwmRe7FS0O3zG%2FnbPzW7%2BbpeAnbwdTXqVltf--0H94d1B4T49EImh3--%2BQhK4i%2Bep8ujY7Fm3g%2FVtQ%3D%3D; path=/; secure; httponly; SameSite=Lax",
+    "set-cookie": "_admin_apientreprise_session=K2CUGocg777v%2FSkYKP1v7gFY7gKbmxIuGblAYVGOm98x%2BMXREeEsFaiOuJ4wPFMfjuFhcwZLNZgUsWU5LguMUzMSNwiGCY6tlJDKqlXSzkw%2FrFUjHT9QE4FKHF3AFpY%2FD6aCOtc3V9wxkDQWhgw0YSzNAcJ%2FEQWyhkatz43bl8t6vgaHDPgtCCFxnpenlwWop3pUJ7rWlge23wJZ2wu4phURee6GgEUG1QkAUTOGHiZhd%2BChW8VmL0B%2BRTMEVobvvz%2BIZwfmUUwenSTOMpwL7qjBIbKEvTglqwz253SvLvHKVUBO--eVPh2hNd3aqCeUNS--Lw7Z%2BkLmAiXFYtNYZooONQ%3D%3D; path=/; secure; httponly; samesite=lax",
     "vary": "Origin",
     "x-content-type-options": "nosniff",
     "x-frame-options": "SAMEORIGIN",
     "x-permitted-cross-domain-policies": "none",
-    "x-request-id": "ce26e23c-ce71-4bb4-bbb4-a73f22fd8a76",
-    "x-runtime": "0.145988",
+    "x-request-id": "93294138-62d6-427a-868c-c4f26e180944",
+    "x-runtime": "0.138226",
     "x-xss-protection": "0"
   },
   "endpoints": [
@@ -227,7 +227,7 @@
     },
     {
       "hostname": "unpkg.com",
-      "ip": "104.17.248.203",
+      "ip": "104.17.245.203",
       "geoip": {
         "registered_country": {
           "geoname_id": 6252001,
@@ -334,7 +334,7 @@
     },
     {
       "hostname": "fonts.googleapis.com",
-      "ip": "172.217.4.74",
+      "ip": "142.250.190.138",
       "geoip": {
         "continent": {
           "code": "NA",
