@@ -6,7 +6,7 @@
       "value": "1",
       "domain": "anssi-mac-prod.osc-secnum-fr1.scalingo.io",
       "path": "/",
-      "expires": 1718535599,
+      "expires": 1719141619,
       "size": 17,
       "httpOnly": false,
       "secure": false,
@@ -18,10 +18,10 @@
     },
     {
       "name": "_pk_id.116.e5db",
-      "value": "72e120a698371ccf.1718533799.",
+      "value": "f4f20094e510406b.1719139819.",
       "domain": "anssi-mac-prod.osc-secnum-fr1.scalingo.io",
       "path": "/",
-      "expires": 1752488999,
+      "expires": 1753095019,
       "size": 43,
       "httpOnly": false,
       "secure": false,
@@ -37,20 +37,20 @@
     "content-encoding": "gzip",
     "content-security-policy": "default-src 'self'; script-src 'report-sample' 'self' https://stats.beta.gouv.fr/matomo.js https://stats.beta.gouv.fr/js/container_5FRF0Y8m.js https://stats.beta.gouv.fr/plugins/HeatmapSessionRecording/; style-src 'report-sample' 'self'; object-src 'none'; base-uri 'self'; connect-src 'self' https://stats.beta.gouv.fr; font-src 'self'; frame-src 'self'; img-src 'self' data: https; manifest-src 'self'; media-src 'self'; frame-ancestors 'none'; form-action 'self';",
     "content-type": "text/html; charset=UTF-8",
-    "date": "Sun, 16 Jun 2024 10:29:58 GMT",
-    "etag": "W/\"422-1901749f428\"",
-    "last-modified": "Fri, 14 Jun 2024 15:07:21 GMT",
+    "date": "Sun, 23 Jun 2024 10:50:17 GMT",
+    "etag": "W/\"422-190395e6d00\"",
+    "last-modified": "Fri, 21 Jun 2024 05:56:48 GMT",
     "ratelimit-limit": "100",
-    "ratelimit-remaining": "76",
-    "ratelimit-reset": "10",
+    "ratelimit-remaining": "88",
+    "ratelimit-reset": "255",
     "strict-transport-security": "max-age=31536000\nmax-age=63072000; includeSubDomains; preload",
     "x-content-type-options": "nosniff",
-    "x-request-id": "851239d5-f806-4fb8-b409-0d08ecd001e0"
+    "x-request-id": "bfe9ba3e-6664-4764-aa6d-93c9a57c6ad3"
   },
   "endpoints": [
     {
       "hostname": "anssi-mac-prod.osc-secnum-fr1.scalingo.io",
-      "ip": "80.247.13.145",
+      "ip": "185.21.194.105",
       "geoip": {
         "continent": {
           "code": "EU",
