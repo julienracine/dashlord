@@ -38,7 +38,7 @@
     },
     {
       "type": "unknown",
-      "url": "https://cdn.livestorm.co/dist/css/chunk-style.72b18b48.css"
+      "url": "https://cdn.livestorm.co/dist/css/chunk-style.21f02550.css"
     },
     {
       "type": "unknown",
@@ -50,15 +50,15 @@
     },
     {
       "type": "unknown",
-      "url": "https://cdn.livestorm.co/dist/js/chunk-style.28da0754.js"
+      "url": "https://cdn.livestorm.co/dist/js/chunk-style.b0d74768.js"
     },
     {
       "type": "unknown",
-      "url": "https://cdn.livestorm.co/dist/js/chunk-vendors.e730846a.js"
+      "url": "https://cdn.livestorm.co/dist/js/chunk-vendors.1e1e6111.js"
     },
     {
       "type": "unknown",
-      "url": "https://cdn.livestorm.co/dist/js/chunk-vendors-group-registration.e4933fbe.js"
+      "url": "https://cdn.livestorm.co/dist/js/chunk-vendors-group-registration.dbee1377.js"
     },
     {
       "type": "unknown",
@@ -66,15 +66,15 @@
     },
     {
       "type": "unknown",
-      "url": "https://cdn.livestorm.co/dist/js/chunk-common.087d9846.js"
+      "url": "https://cdn.livestorm.co/dist/js/chunk-common.c8c806b6.js"
     },
     {
       "type": "unknown",
-      "url": "https://cdn.livestorm.co/dist/js/runtime-company.f1028306.js"
+      "url": "https://cdn.livestorm.co/dist/js/runtime-company.e8351007.js"
     },
     {
       "type": "unknown",
-      "url": "https://cdn.livestorm.co/dist/js/company.21ccfb40.js"
+      "url": "https://cdn.livestorm.co/dist/js/company.15feb243.js"
     },
     {
       "type": "google fonts",
@@ -86,31 +86,15 @@
     },
     {
       "type": "unknown",
-      "url": "https://cdn.livestorm.co/dist/js/sentry.88d50f80.js"
-    },
-    {
-      "type": "unknown",
-      "url": "https://cdn.livestorm.co/dist/js/chunk-locale-en.1faa1198.js"
-    },
-    {
-      "type": "unknown",
-      "url": "https://cdn.livestorm.co/uploads/identity/avatar/34a02126-2646-42a7-999a-824b9a0405f7/size_120x120_72844b34-97cf-4a94-afa4-75457064f277.jpeg?v=1712224491"
-    },
-    {
-      "type": "unknown",
-      "url": "https://cdn.livestorm.co/uploads/identity/avatar/189862aa-2da1-49d3-b9f9-1c9e5d890533/size_120x120_a1f4d4b7-4969-4150-a8d0-8979db408cc3.png?v=1714040970"
-    },
-    {
-      "type": "unknown",
-      "url": "https://cdn.livestorm.co/uploads/identity/avatar/c23e238e-54b7-48a5-96aa-f81ff8c06003/size_120x120_78e3b2aa-1e17-43b6-a275-492baa1630ea.PNG?v=1714041105"
-    },
-    {
-      "type": "unknown",
       "url": "https://cdn.livestorm.co/uploads/identity/avatar/5d508a4f-9811-4ad5-9a17-361f7c0fd765/size_120x120_3997fa62-6dd7-448b-818e-4d83eee7d70e.jpg?v=1645608228"
     },
     {
       "type": "unknown",
       "url": "https://cdn.livestorm.co/uploads/identity/avatar/dee08c8c-640f-47e6-8bd3-f97bf8cb16bb/size_120x120_c082d650-c84a-44a3-be09-235de589a40c.jpg?v=1709284339"
+    },
+    {
+      "type": "unknown",
+      "url": "https://cdn.livestorm.co/dist/img/chevron-down-dark.8668fd32.svg"
     },
     {
       "type": "google fonts",
@@ -119,6 +103,14 @@
         "id": "google fonts",
         "message": "Host the font locally with https://github.com/neverpanic/google-font-download or https://google-webfonts-helper.herokuapp.com/"
       }
+    },
+    {
+      "type": "unknown",
+      "url": "https://cdn.livestorm.co/dist/js/sentry.88d50f80.js"
+    },
+    {
+      "type": "unknown",
+      "url": "https://cdn.livestorm.co/dist/js/chunk-locale-en.49d83702.js"
     },
     {
       "type": "google fonts",
@@ -160,10 +152,10 @@
   "cookies": [
     {
       "name": "csrftoken",
-      "value": "p6urwDQuIhEd0wHUm2tXY531Zn32kQgc",
+      "value": "crMifroJIPMaJMbzEJiBnymuRnzLXYqx",
       "domain": "pilotage.inclusion.beta.gouv.fr",
       "path": "/",
-      "expires": 1750568137.528511,
+      "expires": 1751173160.9073,
       "size": 41,
       "httpOnly": false,
       "secure": true,
@@ -179,10 +171,10 @@
     "content-length": "51448",
     "content-type": "text/html; charset=utf-8",
     "cross-origin-opener-policy": "same-origin",
-    "date": "Sun, 23 Jun 2024 04:55:37 GMT",
+    "date": "Sun, 30 Jun 2024 04:59:20 GMT",
     "referrer-policy": "same-origin",
-    "set-cookie": "csrftoken=p6urwDQuIhEd0wHUm2tXY531Zn32kQgc; expires=Sun, 22 Jun 2025 04:55:37 GMT; Max-Age=31449600; Path=/; SameSite=Lax; Secure",
-    "sozu-id": "01J11Q68DF617NXGAP4VMXMS6N",
+    "set-cookie": "csrftoken=crMifroJIPMaJMbzEJiBnymuRnzLXYqx; expires=Sun, 29 Jun 2025 04:59:20 GMT; Max-Age=31449600; Path=/; SameSite=Lax; Secure",
+    "sozu-id": "01J1KR63QVA7AJF4GNMMJWSQKZ",
     "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
     "vary": "Cookie",
     "x-content-type-options": "nosniff",
@@ -191,7 +183,7 @@
   "endpoints": [
     {
       "hostname": "pilotage.inclusion.beta.gouv.fr",
-      "ip": "91.208.207.216",
+      "ip": "91.208.207.215",
       "geoip": {
         "continent": {
           "code": "EU",
@@ -330,21 +322,28 @@
     },
     {
       "hostname": "cdn.jsdelivr.net",
-      "ip": "151.101.201.229",
+      "ip": "104.18.187.31",
       "geoip": {
-        "city": {
-          "geoname_id": 5391959,
+        "registered_country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
           "names": {
-            "de": "San Francisco",
-            "en": "San Francisco",
-            "es": "San Francisco",
-            "fr": "San Francisco",
-            "ja": "サンフランシスコ",
-            "pt-BR": "São Francisco",
-            "ru": "Сан-Франциско",
-            "zh-CN": "旧金山"
+            "de": "USA",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
           }
-        },
+        }
+      }
+    },
+    {
+      "hostname": "fonts.googleapis.com",
+      "ip": "142.250.189.10",
+      "geoip": {
         "continent": {
           "code": "NA",
           "geoname_id": 6255149,
@@ -375,13 +374,9 @@
         },
         "location": {
           "accuracy_radius": 1000,
-          "latitude": 37.7642,
-          "longitude": -122.3993,
-          "metro_code": 807,
-          "time_zone": "America/Los_Angeles"
-        },
-        "postal": {
-          "code": "94107"
+          "latitude": 37.751,
+          "longitude": -97.822,
+          "time_zone": "America/Chicago"
         },
         "registered_country": {
           "geoname_id": 6252001,
@@ -396,108 +391,12 @@
             "ru": "США",
             "zh-CN": "美国"
           }
-        },
-        "subdivisions": [
-          {
-            "geoname_id": 5332921,
-            "iso_code": "CA",
-            "names": {
-              "de": "Kalifornien",
-              "en": "California",
-              "es": "California",
-              "fr": "Californie",
-              "ja": "カリフォルニア州",
-              "pt-BR": "Califórnia",
-              "ru": "Калифорния",
-              "zh-CN": "加州"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "hostname": "fonts.googleapis.com",
-      "ip": "142.251.46.202",
-      "geoip": {
-        "city": {
-          "geoname_id": 5133273,
-          "names": {
-            "en": "Queens"
-          }
-        },
-        "continent": {
-          "code": "NA",
-          "geoname_id": 6255149,
-          "names": {
-            "de": "Nordamerika",
-            "en": "North America",
-            "es": "Norteamérica",
-            "fr": "Amérique du Nord",
-            "ja": "北アメリカ",
-            "pt-BR": "América do Norte",
-            "ru": "Северная Америка",
-            "zh-CN": "北美洲"
-          }
-        },
-        "country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
-          "names": {
-            "de": "USA",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
-          }
-        },
-        "location": {
-          "accuracy_radius": 50,
-          "latitude": 40.66,
-          "longitude": -73.839,
-          "metro_code": 501,
-          "time_zone": "America/New_York"
-        },
-        "postal": {
-          "code": "11414"
-        },
-        "registered_country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
-          "names": {
-            "de": "USA",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
-          }
-        },
-        "subdivisions": [
-          {
-            "geoname_id": 5128638,
-            "iso_code": "NY",
-            "names": {
-              "de": "New York",
-              "en": "New York",
-              "es": "Nueva York",
-              "fr": "New York",
-              "ja": "ニューヨーク州",
-              "pt-BR": "Nova Iorque",
-              "ru": "Нью-Йорк",
-              "zh-CN": "纽约州"
-            }
-          }
-        ]
+        }
       }
     },
     {
       "hostname": "cdn.livestorm.co",
-      "ip": "18.155.192.27",
+      "ip": "13.33.21.115",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -551,12 +450,12 @@
     },
     {
       "hostname": "fonts.gstatic.com",
-      "ip": "142.251.214.131",
+      "ip": "142.250.68.67",
       "geoip": {
         "city": {
-          "geoname_id": 5116931,
+          "geoname_id": 5131638,
           "names": {
-            "en": "Farmingdale"
+            "en": "Plainview"
           }
         },
         "continent": {
@@ -588,14 +487,14 @@
           }
         },
         "location": {
-          "accuracy_radius": 500,
-          "latitude": 40.7306,
-          "longitude": -73.4313,
+          "accuracy_radius": 100,
+          "latitude": 40.7746,
+          "longitude": -73.4761,
           "metro_code": 501,
           "time_zone": "America/New_York"
         },
         "postal": {
-          "code": "11735"
+          "code": "11803"
         },
         "registered_country": {
           "geoname_id": 6252001,
