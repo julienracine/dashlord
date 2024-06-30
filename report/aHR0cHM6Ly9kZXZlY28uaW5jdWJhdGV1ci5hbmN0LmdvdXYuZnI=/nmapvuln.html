@@ -54,7 +54,7 @@
 <h1>Scan Report<br><small>Nmap 7.92</small>
 </h1>
 <pre style="white-space:pre-wrap; word-wrap:break-word;">nmap -sV --script vulners --script-args mincvss=5.0 -oA /data/nmapvuln deveco.incubateur.anct.gouv.fr</pre>
-<p class="lead">Sun Jun 23 02:51:03 2024 – Sun Jun 23 02:51:34 2024<br>1 hosts scanned.
+<p class="lead">Sun Jun 30 03:02:34 2024 – Sun Jun 30 03:03:15 2024<br>1 hosts scanned.
               1 hosts up.
               0 hosts down.
             </p>
@@ -131,9 +131,16 @@
     &lt;html&gt;&lt;body&gt;&lt;h1&gt;400 Bad request&lt;/h1&gt;
     Your browser sent an invalid request.
     &lt;/body&gt;&lt;/html&gt;
-  FourOhFourRequest, GetRequest, HTTPOptions: 
+  FourOhFourRequest: 
     HTTP/1.1 404 Not Found
-    date: Sun, 23 Jun 2024 02:51:10 GMT
+    date: Sun, 30 Jun 2024 03:02:43 GMT
+    content-type: text/plain; charset=utf-8
+    content-length: 9
+    connection: close
+    Found
+  GetRequest, HTTPOptions: 
+    HTTP/1.1 404 Not Found
+    date: Sun, 30 Jun 2024 03:02:42 GMT
     content-type: text/plain; charset=utf-8
     content-length: 9
     connection: close
@@ -169,16 +176,23 @@
     &lt;html&gt;&lt;body&gt;&lt;h1&gt;400 Bad request&lt;/h1&gt;
     Your browser sent an invalid request.
     &lt;/body&gt;&lt;/html&gt;
-  FourOhFourRequest, HTTPOptions: 
+  FourOhFourRequest: 
     HTTP/1.1 404 Not Found
-    date: Sun, 23 Jun 2024 02:51:17 GMT
+    date: Sun, 30 Jun 2024 03:02:50 GMT
     content-type: text/plain; charset=utf-8
     content-length: 9
     connection: close
     Found
   GetRequest: 
     HTTP/1.1 404 Not Found
-    date: Sun, 23 Jun 2024 02:51:16 GMT
+    date: Sun, 30 Jun 2024 03:02:48 GMT
+    content-type: text/plain; charset=utf-8
+    content-length: 9
+    connection: close
+    Found
+  HTTPOptions: 
+    HTTP/1.1 404 Not Found
+    date: Sun, 30 Jun 2024 03:02:49 GMT
     content-type: text/plain; charset=utf-8
     content-length: 9
     connection: close
