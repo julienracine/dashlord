@@ -6,7 +6,7 @@
       "value": "1",
       "domain": "longuevieauxobjets.ademe.fr",
       "path": "/",
-      "expires": 1719118579,
+      "expires": 1719723986,
       "size": 17,
       "httpOnly": false,
       "secure": false,
@@ -18,10 +18,10 @@
     },
     {
       "name": "_pk_id.120.3f48",
-      "value": "a88d5e9f6bdbbfec.1719116780.",
+      "value": "6a61155a82979e99.1719722186.",
       "domain": "longuevieauxobjets.ademe.fr",
       "path": "/",
-      "expires": 1753071980,
+      "expires": 1753677386,
       "size": 43,
       "httpOnly": false,
       "secure": false,
@@ -37,24 +37,18 @@
     "content-language": "fr",
     "content-type": "text/html; charset=utf-8",
     "cross-origin-opener-policy": "same-origin",
-    "date": "Sun, 23 Jun 2024 04:26:18 GMT",
+    "date": "Sun, 30 Jun 2024 04:36:25 GMT",
     "referrer-policy": "same-origin",
     "vary": "Accept-Language, Cookie",
     "x-content-type-options": "nosniff",
     "x-frame-options": "DENY",
-    "x-request-id": "89f3cd2a-86c1-457b-9e02-f19abb18dd95"
+    "x-request-id": "7b97f924-704d-486a-9735-d51bbe4d1af9"
   },
   "endpoints": [
     {
       "hostname": "longuevieauxobjets.ademe.fr",
-      "ip": "5.104.101.30",
+      "ip": "109.232.233.130",
       "geoip": {
-        "city": {
-          "geoname_id": 3006412,
-          "names": {
-            "en": "Lasgraisses"
-          }
-        },
         "continent": {
           "code": "EU",
           "geoname_id": 6255148,
@@ -85,13 +79,10 @@
           }
         },
         "location": {
-          "accuracy_radius": 200,
-          "latitude": 43.8239,
-          "longitude": 2.0396,
+          "accuracy_radius": 500,
+          "latitude": 48.8582,
+          "longitude": 2.3387,
           "time_zone": "Europe/Paris"
-        },
-        "postal": {
-          "code": "81300"
         },
         "registered_country": {
           "geoname_id": 3017382,
@@ -107,27 +98,7 @@
             "ru": "Франция",
             "zh-CN": "法国"
           }
-        },
-        "subdivisions": [
-          {
-            "geoname_id": 11071623,
-            "iso_code": "OCC",
-            "names": {
-              "en": "Occitanie",
-              "fr": "Occitanie"
-            }
-          },
-          {
-            "geoname_id": 2973362,
-            "iso_code": "81",
-            "names": {
-              "de": "Tarn",
-              "en": "Tarn",
-              "es": "Tarn",
-              "fr": "Tarn"
-            }
-          }
-        ]
+        }
       }
     }
   ]
