@@ -6,7 +6,7 @@
       "value": "1",
       "domain": "www.data.gouv.fr",
       "path": "/",
-      "expires": 1719124558,
+      "expires": 1719729470,
       "size": 17,
       "httpOnly": false,
       "secure": false,
@@ -18,10 +18,10 @@
     },
     {
       "name": "_pk_id.109.7631",
-      "value": "c4208f7c8b4a40c6.1719122759.",
+      "value": "1471580b584cdbd4.1719727671.",
       "domain": "www.data.gouv.fr",
       "path": "/",
-      "expires": 1753077959,
+      "expires": 1753682871,
       "size": 43,
       "httpOnly": false,
       "secure": false,
@@ -33,7 +33,7 @@
     },
     {
       "name": "session",
-      "value": "d2~eyJjc3JmX3Rva2VuIjoiMGIzMzA4YjA1MDE4ZTkyZjA4YTM3MmQzNWJjZTk1OTEwMmVlOTZkMyJ9.Zne7RA.xUkX7K5LPWpgJkBPzrdNNyCxs_c",
+      "value": "d3~eyJjc3JmX3Rva2VuIjoiODg5YWY1OThiYzYyNGY5YTNhZmY1YjAwNDI5ODJiYzQyNjM0MGY4YiJ9.ZoD2NQ.YbV1T8oOrHlx6xuJSjxXYe-W-BI",
       "domain": ".www.data.gouv.fr",
       "path": "/",
       "expires": -1,
@@ -52,10 +52,10 @@
     "cache-control": "public",
     "content-encoding": "gzip",
     "content-type": "text/html; charset=utf-8",
-    "date": "Sun, 23 Jun 2024 06:05:56 GMT",
+    "date": "Sun, 30 Jun 2024 06:07:49 GMT",
     "pragma": "public",
     "server": "nginx",
-    "set-cookie": "session=d2~eyJjc3JmX3Rva2VuIjoiMGIzMzA4YjA1MDE4ZTkyZjA4YTM3MmQzNWJjZTk1OTEwMmVlOTZkMyJ9.Zne7RA.xUkX7K5LPWpgJkBPzrdNNyCxs_c; Domain=.www.data.gouv.fr; Secure; HttpOnly; Path=/; SameSite=Lax",
+    "set-cookie": "session=d3~eyJjc3JmX3Rva2VuIjoiODg5YWY1OThiYzYyNGY5YTNhZmY1YjAwNDI5ODJiYzQyNjM0MGY4YiJ9.ZoD2NQ.YbV1T8oOrHlx6xuJSjxXYe-W-BI; Domain=.www.data.gouv.fr; Secure; HttpOnly; Path=/; SameSite=Lax",
     "transfer-encoding": "chunked",
     "vary": "Accept-Encoding\nCookie",
     "x-content-type-options": "nosniff",
@@ -65,7 +65,7 @@
   "endpoints": [
     {
       "hostname": "www.data.gouv.fr",
-      "ip": "37.59.183.73",
+      "ip": "37.59.183.91",
       "geoip": {
         "city": {
           "geoname_id": 2988507,
