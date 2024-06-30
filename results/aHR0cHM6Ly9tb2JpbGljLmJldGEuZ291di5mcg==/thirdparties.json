@@ -81,232 +81,48 @@
       }
     },
     {
-      "type": "vimeo",
-      "url": "https://f.vimeocdn.com/p/4.33.24/js/player.module.js",
+      "type": "cloudflare",
+      "url": "https://challenges.cloudflare.com/turnstile/v0/api.js?onload=turnstileLoad",
       "details": {
-        "id": "vimeo",
-        "message": "use peertube"
+        "id": "cloudflare",
+        "message": "Host files locally"
       }
     },
     {
-      "type": "vimeo",
-      "url": "https://f.vimeocdn.com/p/4.33.24/js/vendor.module.js",
+      "type": "cloudflare",
+      "url": "https://challenges.cloudflare.com/turnstile/v0/api.js?onload=turnstileLoad",
       "details": {
-        "id": "vimeo",
-        "message": "use peertube"
+        "id": "cloudflare",
+        "message": "Host files locally"
       }
     },
     {
-      "type": "vimeo",
-      "url": "https://f.vimeocdn.com/p/4.33.24/js/player.module.js",
+      "type": "cloudflare",
+      "url": "https://challenges.cloudflare.com/turnstile/v0/api.js?onload=turnstileLoad",
       "details": {
-        "id": "vimeo",
-        "message": "use peertube"
+        "id": "cloudflare",
+        "message": "Host files locally"
       }
     },
     {
-      "type": "vimeo",
-      "url": "https://f.vimeocdn.com/p/4.33.24/js/vendor.module.js",
+      "type": "cloudflare",
+      "url": "https://challenges.cloudflare.com/turnstile/v0/api.js?onload=turnstileLoad",
       "details": {
-        "id": "vimeo",
-        "message": "use peertube"
+        "id": "cloudflare",
+        "message": "Host files locally"
       }
     },
     {
-      "type": "vimeo",
-      "url": "https://f.vimeocdn.com/p/4.33.24/css/player.css",
+      "type": "cloudflare",
+      "url": "https://challenges.cloudflare.com/turnstile/v0/api.js?onload=turnstileLoad",
       "details": {
-        "id": "vimeo",
-        "message": "use peertube"
-      }
-    },
-    {
-      "type": "vimeo",
-      "url": "https://f.vimeocdn.com/p/4.33.24/css/player.css",
-      "details": {
-        "id": "vimeo",
-        "message": "use peertube"
-      }
-    },
-    {
-      "type": "vimeo",
-      "url": "https://f.vimeocdn.com/p/4.33.24/js/player.module.js",
-      "details": {
-        "id": "vimeo",
-        "message": "use peertube"
-      }
-    },
-    {
-      "type": "vimeo",
-      "url": "https://f.vimeocdn.com/p/4.33.24/js/vendor.module.js",
-      "details": {
-        "id": "vimeo",
-        "message": "use peertube"
-      }
-    },
-    {
-      "type": "vimeo",
-      "url": "https://f.vimeocdn.com/p/4.33.24/css/player.css",
-      "details": {
-        "id": "vimeo",
-        "message": "use peertube"
-      }
-    },
-    {
-      "type": "vimeo",
-      "url": "https://i.vimeocdn.com/video/1737343335-e617f3ad7ffd84a65c49f8e86782915337fbfda10f639bfa0d3d9945d69dfbd1-d?mw=80&q=85",
-      "details": {
-        "id": "vimeo",
-        "message": "use peertube"
-      }
-    },
-    {
-      "type": "vimeo",
-      "url": "https://i.vimeocdn.com/video/1737344409-d9884ce96a49c834efe232713321f98c9e7ea9add4a0b0f0c1614712faf77161-d?mw=80&q=85",
-      "details": {
-        "id": "vimeo",
-        "message": "use peertube"
-      }
-    },
-    {
-      "type": "vimeo",
-      "url": "https://f.vimeocdn.com/p/4.33.24/js/player.module.js",
-      "details": {
-        "id": "vimeo",
-        "message": "use peertube"
-      }
-    },
-    {
-      "type": "vimeo",
-      "url": "https://f.vimeocdn.com/p/4.33.24/js/vendor.module.js",
-      "details": {
-        "id": "vimeo",
-        "message": "use peertube"
-      }
-    },
-    {
-      "type": "vimeo",
-      "url": "https://f.vimeocdn.com/p/4.33.24/css/player.css",
-      "details": {
-        "id": "vimeo",
-        "message": "use peertube"
-      }
-    },
-    {
-      "type": "vimeo",
-      "url": "https://f.vimeocdn.com/p/4.33.24/js/player.module.js",
-      "details": {
-        "id": "vimeo",
-        "message": "use peertube"
-      }
-    },
-    {
-      "type": "vimeo",
-      "url": "https://f.vimeocdn.com/p/4.33.24/js/vendor.module.js",
-      "details": {
-        "id": "vimeo",
-        "message": "use peertube"
-      }
-    },
-    {
-      "type": "vimeo",
-      "url": "https://f.vimeocdn.com/p/4.33.24/js/player.module.js",
-      "details": {
-        "id": "vimeo",
-        "message": "use peertube"
-      }
-    },
-    {
-      "type": "vimeo",
-      "url": "https://f.vimeocdn.com/p/4.33.24/js/vendor.module.js",
-      "details": {
-        "id": "vimeo",
-        "message": "use peertube"
-      }
-    },
-    {
-      "type": "vimeo",
-      "url": "https://f.vimeocdn.com/p/4.33.24/css/player.css",
-      "details": {
-        "id": "vimeo",
-        "message": "use peertube"
-      }
-    },
-    {
-      "type": "vimeo",
-      "url": "https://f.vimeocdn.com/p/4.33.24/js/player.module.js",
-      "details": {
-        "id": "vimeo",
-        "message": "use peertube"
-      }
-    },
-    {
-      "type": "vimeo",
-      "url": "https://f.vimeocdn.com/p/4.33.24/js/vendor.module.js",
-      "details": {
-        "id": "vimeo",
-        "message": "use peertube"
-      }
-    },
-    {
-      "type": "vimeo",
-      "url": "https://f.vimeocdn.com/p/4.33.24/css/player.css",
-      "details": {
-        "id": "vimeo",
-        "message": "use peertube"
-      }
-    },
-    {
-      "type": "vimeo",
-      "url": "https://f.vimeocdn.com/p/4.33.24/css/player.css",
-      "details": {
-        "id": "vimeo",
-        "message": "use peertube"
-      }
-    },
-    {
-      "type": "vimeo",
-      "url": "https://i.vimeocdn.com/video/1737349912-16d3ffad0ff4cd5e46c6be5ad1c98e19196450202c75f3f448f5e51038238ba8-d?mw=80&q=85",
-      "details": {
-        "id": "vimeo",
-        "message": "use peertube"
-      }
-    },
-    {
-      "type": "vimeo",
-      "url": "https://i.vimeocdn.com/video/1737351156-805f8c946e43d69f73f3ad782f68fa953d125268f3cb006162bef1d5dd879517-d?mw=80&q=85",
-      "details": {
-        "id": "vimeo",
-        "message": "use peertube"
-      }
-    },
-    {
-      "type": "vimeo",
-      "url": "https://i.vimeocdn.com/video/1737349532-0af48b58dcb35a6450481d73bbb7e921cc6fcc43286697e25c89e5edbe9176a1-d?mw=80&q=85",
-      "details": {
-        "id": "vimeo",
-        "message": "use peertube"
-      }
-    },
-    {
-      "type": "vimeo",
-      "url": "https://i.vimeocdn.com/video/1737349163-45b1f020d410d716ae420f19fa7855bf93e0cecef8ac56b609b908ad7e822a23-d?mw=80&q=85",
-      "details": {
-        "id": "vimeo",
-        "message": "use peertube"
-      }
-    },
-    {
-      "type": "vimeo",
-      "url": "https://i.vimeocdn.com/video/1737350279-6e01140a7393ab77b818eef15ac9dec17c304542a8158665786ad970469b0ef0-d?mw=80&q=85",
-      "details": {
-        "id": "vimeo",
-        "message": "use peertube"
+        "id": "cloudflare",
+        "message": "Host files locally"
       }
     },
     {
       "type": "crisp",
-      "url": "https://client.crisp.chat/static/javascripts/client.js?222531f",
+      "url": "https://client.crisp.chat/static/javascripts/client.js?4a73d8a",
       "details": {
         "id": "crisp",
         "message": "Ensure your TOS notify the CRISP usage"
@@ -314,191 +130,187 @@
     },
     {
       "type": "crisp",
-      "url": "https://client.crisp.chat/static/stylesheets/client_legacy.css?222531f",
+      "url": "https://client.crisp.chat/static/stylesheets/client_legacy.css?4a73d8a",
       "details": {
         "id": "crisp",
         "message": "Ensure your TOS notify the CRISP usage"
       }
     },
     {
-      "type": "vimeo",
-      "url": "https://f.vimeocdn.com/js_opt/modules/utils/vuid.min.js",
+      "type": "cloudflare",
+      "url": "https://challenges.cloudflare.com/turnstile/v0/g/d2a97f6b6ec9/api.js",
       "details": {
-        "id": "vimeo",
-        "message": "use peertube"
+        "id": "cloudflare",
+        "message": "Host files locally"
       }
     },
     {
-      "type": "vimeo",
-      "url": "https://i.vimeocdn.com/video/1737343335-e617f3ad7ffd84a65c49f8e86782915337fbfda10f639bfa0d3d9945d69dfbd1-d?mw=320&mh=320",
+      "type": "cloudflare",
+      "url": "https://challenges.cloudflare.com/turnstile/v0/g/d2a97f6b6ec9/api.js",
       "details": {
-        "id": "vimeo",
-        "message": "use peertube"
+        "id": "cloudflare",
+        "message": "Host files locally"
       }
     },
     {
-      "type": "vimeo",
-      "url": "https://fresnel.vimeocdn.com/add/player-stats?beacon=1&session-id=55ebe26454253e5fa2cd3317cb169d1466f43b691719115431",
+      "type": "cloudflare",
+      "url": "https://challenges.cloudflare.com/turnstile/v0/g/d2a97f6b6ec9/api.js",
       "details": {
-        "id": "vimeo",
-        "message": "use peertube"
+        "id": "cloudflare",
+        "message": "Host files locally"
       }
     },
     {
-      "type": "vimeo",
-      "url": "https://f.vimeocdn.com/js_opt/modules/utils/vuid.min.js",
+      "type": "cloudflare",
+      "url": "https://challenges.cloudflare.com/turnstile/v0/g/d2a97f6b6ec9/api.js",
       "details": {
-        "id": "vimeo",
-        "message": "use peertube"
+        "id": "cloudflare",
+        "message": "Host files locally"
       }
     },
     {
-      "type": "vimeo",
-      "url": "https://i.vimeocdn.com/video/1737344409-d9884ce96a49c834efe232713321f98c9e7ea9add4a0b0f0c1614712faf77161-d?mw=320&mh=320",
+      "type": "cloudflare",
+      "url": "https://challenges.cloudflare.com/turnstile/v0/g/d2a97f6b6ec9/api.js",
       "details": {
-        "id": "vimeo",
-        "message": "use peertube"
+        "id": "cloudflare",
+        "message": "Host files locally"
       }
     },
     {
-      "type": "vimeo",
-      "url": "https://fresnel.vimeocdn.com/add/player-stats?beacon=1&session-id=6783a5decd8c6925fefec83b89d975632796ef711719115431",
+      "type": "cloudflare",
+      "url": "https://challenges.cloudflare.com/turnstile/v0/api.js?onload=turnstileLoad",
       "details": {
-        "id": "vimeo",
-        "message": "use peertube"
+        "id": "cloudflare",
+        "message": "Host files locally"
       }
     },
     {
-      "type": "vimeo",
-      "url": "https://f.vimeocdn.com/js_opt/modules/utils/vuid.min.js",
+      "type": "cloudflare",
+      "url": "https://challenges.cloudflare.com/turnstile/v0/g/d2a97f6b6ec9/api.js",
       "details": {
-        "id": "vimeo",
-        "message": "use peertube"
+        "id": "cloudflare",
+        "message": "Host files locally"
       }
     },
     {
-      "type": "vimeo",
-      "url": "https://i.vimeocdn.com/video/1737349912-16d3ffad0ff4cd5e46c6be5ad1c98e19196450202c75f3f448f5e51038238ba8-d?mw=400&mh=393",
+      "type": "cloudflare",
+      "url": "https://challenges.cloudflare.com/turnstile/v0/api.js?onload=turnstileLoad",
       "details": {
-        "id": "vimeo",
-        "message": "use peertube"
+        "id": "cloudflare",
+        "message": "Host files locally"
       }
     },
     {
-      "type": "vimeo",
-      "url": "https://fresnel.vimeocdn.com/add/player-stats?beacon=1&session-id=1bb07ea0feba1e5d2b79d7ec38f16b4dd005d8171719115431",
+      "type": "cloudflare",
+      "url": "https://challenges.cloudflare.com/turnstile/v0/g/d2a97f6b6ec9/api.js",
       "details": {
-        "id": "vimeo",
-        "message": "use peertube"
+        "id": "cloudflare",
+        "message": "Host files locally"
       }
     },
     {
-      "type": "vimeo",
-      "url": "https://f.vimeocdn.com/js_opt/modules/utils/vuid.min.js",
+      "type": "cloudflare",
+      "url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/if/ov2/av0/rcv0/0/d1fz6/0x4AAAAAAAbaszMygKLnGbeo/auto/normal",
       "details": {
-        "id": "vimeo",
-        "message": "use peertube"
+        "id": "cloudflare",
+        "message": "Host files locally"
       }
     },
     {
-      "type": "vimeo",
-      "url": "https://i.vimeocdn.com/video/1737351156-805f8c946e43d69f73f3ad782f68fa953d125268f3cb006162bef1d5dd879517-d?mw=400&mh=393",
+      "type": "cloudflare",
+      "url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/if/ov2/av0/rcv0/0/2w6ci/0x4AAAAAAAbaszMygKLnGbeo/auto/normal",
       "details": {
-        "id": "vimeo",
-        "message": "use peertube"
+        "id": "cloudflare",
+        "message": "Host files locally"
       }
     },
     {
-      "type": "vimeo",
-      "url": "https://fresnel.vimeocdn.com/add/player-stats?beacon=1&session-id=36a45d9e028c6aa725b117e8701dc9ecb5c6ac4e1719115431",
+      "type": "cloudflare",
+      "url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/if/ov2/av0/rcv0/0/guf5e/0x4AAAAAAAbaszMygKLnGbeo/auto/normal",
       "details": {
-        "id": "vimeo",
-        "message": "use peertube"
+        "id": "cloudflare",
+        "message": "Host files locally"
       }
     },
     {
-      "type": "vimeo",
-      "url": "https://f.vimeocdn.com/js_opt/modules/utils/vuid.min.js",
+      "type": "cloudflare",
+      "url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/if/ov2/av0/rcv0/0/b12y5/0x4AAAAAAAbaszMygKLnGbeo/auto/normal",
       "details": {
-        "id": "vimeo",
-        "message": "use peertube"
+        "id": "cloudflare",
+        "message": "Host files locally"
       }
     },
     {
-      "type": "vimeo",
-      "url": "https://i.vimeocdn.com/video/1737349532-0af48b58dcb35a6450481d73bbb7e921cc6fcc43286697e25c89e5edbe9176a1-d?mw=400&mh=393",
+      "type": "cloudflare",
+      "url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/if/ov2/av0/rcv0/0/up9gl/0x4AAAAAAAbaszMygKLnGbeo/auto/normal",
       "details": {
-        "id": "vimeo",
-        "message": "use peertube"
+        "id": "cloudflare",
+        "message": "Host files locally"
       }
     },
     {
-      "type": "vimeo",
-      "url": "https://fresnel.vimeocdn.com/add/player-stats?beacon=1&session-id=d580e68e206a762d41a7dcc7039426d727f51ea31719115431",
+      "type": "cloudflare",
+      "url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/if/ov2/av0/rcv0/0/o7jp9/0x4AAAAAAAbaszMygKLnGbeo/auto/normal",
       "details": {
-        "id": "vimeo",
-        "message": "use peertube"
+        "id": "cloudflare",
+        "message": "Host files locally"
       }
     },
     {
-      "type": "vimeo",
-      "url": "https://f.vimeocdn.com/js_opt/modules/utils/vuid.min.js",
+      "type": "cloudflare",
+      "url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/if/ov2/av0/rcv0/0/so76k/0x4AAAAAAAbaszMygKLnGbeo/auto/normal",
       "details": {
-        "id": "vimeo",
-        "message": "use peertube"
+        "id": "cloudflare",
+        "message": "Host files locally"
       }
     },
     {
-      "type": "vimeo",
-      "url": "https://i.vimeocdn.com/video/1737349163-45b1f020d410d716ae420f19fa7855bf93e0cecef8ac56b609b908ad7e822a23-d?mw=400&mh=393",
+      "type": "cloudflare",
+      "url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/if/ov2/av0/rcv0/0/s2fwr/0x4AAAAAAAbaszMygKLnGbeo/auto/normal",
       "details": {
-        "id": "vimeo",
-        "message": "use peertube"
+        "id": "cloudflare",
+        "message": "Host files locally"
       }
     },
     {
-      "type": "vimeo",
-      "url": "https://fresnel.vimeocdn.com/add/player-stats?beacon=1&session-id=fd7e62cbc5454a0ce2f6d37c840f142603829d3b1719115431",
+      "type": "cloudflare",
+      "url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/if/ov2/av0/rcv0/0/0ixty/0x4AAAAAAAbaszMygKLnGbeo/auto/normal",
       "details": {
-        "id": "vimeo",
-        "message": "use peertube"
+        "id": "cloudflare",
+        "message": "Host files locally"
       }
     },
     {
-      "type": "vimeo",
-      "url": "https://f.vimeocdn.com/js_opt/modules/utils/vuid.min.js",
+      "type": "cloudflare",
+      "url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/if/ov2/av0/rcv0/0/8ak2u/0x4AAAAAAAbaszMygKLnGbeo/auto/normal",
       "details": {
-        "id": "vimeo",
-        "message": "use peertube"
+        "id": "cloudflare",
+        "message": "Host files locally"
       }
     },
     {
-      "type": "vimeo",
-      "url": "https://i.vimeocdn.com/video/1737350279-6e01140a7393ab77b818eef15ac9dec17c304542a8158665786ad970469b0ef0-d?mw=400&mh=393",
+      "type": "cloudflare",
+      "url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/if/ov2/av0/rcv0/0/757nj/0x4AAAAAAAbaszMygKLnGbeo/auto/normal",
       "details": {
-        "id": "vimeo",
-        "message": "use peertube"
-      }
-    },
-    {
-      "type": "vimeo",
-      "url": "https://fresnel.vimeocdn.com/add/player-stats?beacon=1&session-id=e5b2e256da71974c7094f7ce158b286ac339648d1719115431",
-      "details": {
-        "id": "vimeo",
-        "message": "use peertube"
+        "id": "cloudflare",
+        "message": "Host files locally"
       }
     },
     {
       "type": "crisp",
-      "url": "https://client.crisp.chat/settings/website/e433738e-c2a9-4490-b31b-cb03aa080be9/prelude/?callback=window.%24__CRISP_INSTANCE.__spool.website_prelude_handler&2024-5-23-4-3",
+      "url": "https://client.crisp.chat/settings/website/e433738e-c2a9-4490-b31b-cb03aa080be9/prelude/?callback=window.%24__CRISP_INSTANCE.__spool.website_prelude_handler&2024-5-30-4-13",
       "details": {
         "id": "crisp",
         "message": "Ensure your TOS notify the CRISP usage"
       }
     },
     {
-      "type": "unknown",
-      "url": "https://vimeo.com/ablincoln/vuid?pid=55ebe26454253e5fa2cd3317cb169d1466f43b691719115431"
+      "type": "cloudflare",
+      "url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/if/ov2/av0/rcv0/0/n9jnw/0x4AAAAAAAbaszMygKLnGbeo/auto/normal",
+      "details": {
+        "id": "cloudflare",
+        "message": "Host files locally"
+      }
     },
     {
       "type": "crisp",
@@ -510,7 +322,7 @@
     },
     {
       "type": "crisp",
-      "url": "https://client.crisp.chat/static/javascripts/locales/fr.js?222531f",
+      "url": "https://client.crisp.chat/static/javascripts/locales/fr.js?4a73d8a",
       "details": {
         "id": "crisp",
         "message": "Ensure your TOS notify the CRISP usage"
@@ -523,7 +335,7 @@
       "value": "1",
       "domain": "mobilic.beta.gouv.fr",
       "path": "/",
-      "expires": 1719117232,
+      "expires": 1719722601,
       "size": 16,
       "httpOnly": false,
       "secure": false,
@@ -535,10 +347,10 @@
     },
     {
       "name": "_pk_id.75.5533",
-      "value": "ef8e700e931fe5ff.1719115432.",
+      "value": "7fb8324bec78ce5c.1719720802.",
       "domain": "mobilic.beta.gouv.fr",
       "path": "/",
-      "expires": 1753070632,
+      "expires": 1753676002,
       "size": 42,
       "httpOnly": false,
       "secure": false,
@@ -550,10 +362,10 @@
     },
     {
       "name": "bln_challengejs",
-      "value": "LPz5PpULV8YGt2ZpzFErRZjyo3zmhK2lxhx6feh1iPcza1ZgRbjtiXWrrBeWHqASLOwa5il3wSyXkJQaEPGvzNJg9-LA-Km0WvjzkWhrQ0mx9xC-3Z6HvVHdxhxrTKgkRPs6MyAiTXlccLqTZKNEkMaMW6mFf8ACy5OKuzWWJjPErPP1qATqRwU7Wl_FBuG7sorfCj_KUB037rxJEYe7GlroCiJjCzvaKFO9XEWbkD62F6X9FkGsWnWI8CMp7z1IgCnPXD2U_aZaSpsxJO25Jw",
+      "value": "0S3mmLxfBS_su2m0LOKf1SyF5jT32LwmWcnXCgRs6XdrFNdtm68Mf2c8CAgYWodyzHhFBKN1lz-eIriS8uYO9d7JizyOIRHhqYbBZk0FmQ68pCmMR6JXthGP9C5Wpawk6dGe6lisJu7DSblE_sA5vVnfIRQ_A2fOP-r9L3-oAU40GDOEHd5UJ6MF81jtYmZ8oz6kPAJGDgeCMuYWC4Qj0EK-bufDkytdM962RvYd6iuLThOY0ysUpWgiAqLs6TS1KBga22Mov34Ws6kfnmp2hg",
       "domain": ".beta.gouv.fr",
       "path": "/",
-      "expires": 1719116329.961593,
+      "expires": 1719721699.780327,
       "size": 293,
       "httpOnly": false,
       "secure": false,
@@ -570,7 +382,7 @@
     "content-encoding": "gzip",
     "content-security-policy": "object-src 'self'; connect-src 'self' https://client.crisp.chat https://api-adresse.data.gouv.fr https://sentry.incubateur.net wss://client.relay.crisp.chat https://stats.beta.gouv.fr https://client.axept.io/ https://api.axept.io https://google.com; base-uri 'self'; default-src 'self'; script-src 'self' https://client.crisp.chat https://stats.beta.gouv.fr https://static.axept.io/ https://www.googletagmanager.com/ https://www.googleadservices.com/ https://googleads.g.doubleclick.net https://www.google.com 'unsafe-eval' 'unsafe-inline'; img-src 'self' data: https://client.crisp.chat https://image.crisp.chat https://stats.beta.gouv.fr https://res.cloudinary.com https://images.unsplash.com https://axeptio.imgix.net https://favicons.axept.io https://t1.gstatic.com https://www.google.com/ https://www.google.fr/ https://googleads.g.doubleclick.net https://www.googleadservices.com; style-src 'self' 'unsafe-inline' https://client.crisp.chat https://cdn.jsdelivr.net; font-src 'self' https://client.crisp.chat https://cdn.jsdelivr.net; frame-src https://metabase.mobilic.beta.gouv.fr https://www.slideshare.net https://fr.slideshare.net https://cgu.mobilic.beta.gouv.fr https://form.typeform.com https://player.vimeo.com https://bid.g.doubleclick.net/;",
     "content-type": "text/html; charset=utf-8",
-    "date": "Sun, 23 Jun 2024 04:03:50 GMT",
+    "date": "Sun, 30 Jun 2024 04:13:19 GMT",
     "etag": "W/\"664e43dd-c6f\"",
     "last-modified": "Wed, 22 May 2024 19:13:33 GMT",
     "referrer-policy": "origin-when-cross-origin",
@@ -579,8 +391,8 @@
     "via": "1.1 varnish (Varnish/6.0)",
     "x-content-type-options": "nosniff",
     "x-frame-options": "deny",
-    "x-request-id": "96acc5eb154b163e6fed5ad6a6d63335",
-    "x-varnish": "93999410",
+    "x-request-id": "1769bfcfec82ce1e9ff39f2e8bbafed4",
+    "x-varnish": "96004860",
     "x-xss-protection": "1; mode=block"
   },
   "endpoints": [
@@ -642,7 +454,7 @@
     },
     {
       "hostname": "fonts.googleapis.com",
-      "ip": "142.250.191.234",
+      "ip": "142.250.190.106",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -716,7 +528,7 @@
     },
     {
       "hostname": "client.crisp.chat",
-      "ip": "104.18.28.104",
+      "ip": "104.18.29.104",
       "geoip": {
         "registered_country": {
           "geoname_id": 6252001,
@@ -755,268 +567,8 @@
       }
     },
     {
-      "hostname": "f.vimeocdn.com",
-      "ip": "146.75.78.109",
-      "geoip": {
-        "city": {
-          "geoname_id": 4887398,
-          "names": {
-            "de": "Chicago",
-            "en": "Chicago",
-            "es": "Chicago",
-            "fr": "Chicago",
-            "ja": "シカゴ",
-            "pt-BR": "Chicago",
-            "ru": "Чикаго",
-            "zh-CN": "芝加哥"
-          }
-        },
-        "continent": {
-          "code": "NA",
-          "geoname_id": 6255149,
-          "names": {
-            "de": "Nordamerika",
-            "en": "North America",
-            "es": "Norteamérica",
-            "fr": "Amérique du Nord",
-            "ja": "北アメリカ",
-            "pt-BR": "América do Norte",
-            "ru": "Северная Америка",
-            "zh-CN": "北美洲"
-          }
-        },
-        "country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
-          "names": {
-            "de": "USA",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
-          }
-        },
-        "location": {
-          "accuracy_radius": 20,
-          "latitude": 41.8719,
-          "longitude": -87.6589,
-          "metro_code": 602,
-          "time_zone": "America/Chicago"
-        },
-        "postal": {
-          "code": "60607"
-        },
-        "registered_country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
-          "names": {
-            "de": "USA",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
-          }
-        },
-        "subdivisions": [
-          {
-            "geoname_id": 4896861,
-            "iso_code": "IL",
-            "names": {
-              "de": "Illinois",
-              "en": "Illinois",
-              "es": "Illinois",
-              "fr": "Illinois",
-              "ja": "イリノイ州",
-              "pt-BR": "Ilinóis",
-              "ru": "Иллинойс",
-              "zh-CN": "伊利诺伊州"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "hostname": "i.vimeocdn.com",
-      "ip": "146.75.76.217",
-      "geoip": {
-        "city": {
-          "geoname_id": 4887398,
-          "names": {
-            "de": "Chicago",
-            "en": "Chicago",
-            "es": "Chicago",
-            "fr": "Chicago",
-            "ja": "シカゴ",
-            "pt-BR": "Chicago",
-            "ru": "Чикаго",
-            "zh-CN": "芝加哥"
-          }
-        },
-        "continent": {
-          "code": "NA",
-          "geoname_id": 6255149,
-          "names": {
-            "de": "Nordamerika",
-            "en": "North America",
-            "es": "Norteamérica",
-            "fr": "Amérique du Nord",
-            "ja": "北アメリカ",
-            "pt-BR": "América do Norte",
-            "ru": "Северная Америка",
-            "zh-CN": "北美洲"
-          }
-        },
-        "country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
-          "names": {
-            "de": "USA",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
-          }
-        },
-        "location": {
-          "accuracy_radius": 20,
-          "latitude": 41.8719,
-          "longitude": -87.6589,
-          "metro_code": 602,
-          "time_zone": "America/Chicago"
-        },
-        "postal": {
-          "code": "60607"
-        },
-        "registered_country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
-          "names": {
-            "de": "USA",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
-          }
-        },
-        "subdivisions": [
-          {
-            "geoname_id": 4896861,
-            "iso_code": "IL",
-            "names": {
-              "de": "Illinois",
-              "en": "Illinois",
-              "es": "Illinois",
-              "fr": "Illinois",
-              "ja": "イリノイ州",
-              "pt-BR": "Ilinóis",
-              "ru": "Иллинойс",
-              "zh-CN": "伊利诺伊州"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "hostname": "fresnel.vimeocdn.com",
-      "ip": "34.120.202.204",
-      "geoip": {
-        "city": {
-          "geoname_id": 4393217,
-          "names": {
-            "de": "Kansas City",
-            "en": "Kansas City",
-            "es": "Kansas City",
-            "fr": "Kansas City",
-            "ja": "カンザスシティ",
-            "pt-BR": "Kansas City",
-            "ru": "Канзас-Сити"
-          }
-        },
-        "continent": {
-          "code": "NA",
-          "geoname_id": 6255149,
-          "names": {
-            "de": "Nordamerika",
-            "en": "North America",
-            "es": "Norteamérica",
-            "fr": "Amérique du Nord",
-            "ja": "北アメリカ",
-            "pt-BR": "América do Norte",
-            "ru": "Северная Америка",
-            "zh-CN": "北美洲"
-          }
-        },
-        "country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
-          "names": {
-            "de": "USA",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
-          }
-        },
-        "location": {
-          "accuracy_radius": 1000,
-          "latitude": 39.1027,
-          "longitude": -94.5778,
-          "metro_code": 616,
-          "time_zone": "America/Chicago"
-        },
-        "postal": {
-          "code": "64184"
-        },
-        "registered_country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
-          "names": {
-            "de": "USA",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
-          }
-        },
-        "subdivisions": [
-          {
-            "geoname_id": 4398678,
-            "iso_code": "MO",
-            "names": {
-              "de": "Missouri",
-              "en": "Missouri",
-              "es": "Missouri",
-              "fr": "Missouri",
-              "ja": "ミズーリ州",
-              "pt-BR": "Missúri",
-              "ru": "Миссури",
-              "zh-CN": "密苏里州"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "hostname": "vimeo.com",
-      "ip": "162.159.138.60",
+      "hostname": "challenges.cloudflare.com",
+      "ip": "104.17.3.184",
       "geoip": {
         "registered_country": {
           "geoname_id": 6252001,
