@@ -121,8 +121,8 @@
               "id"           : "cipherlist_STRONG_NOFS",
               "ip"           : "conseil-refondation.fr/172.67.130.24",
               "port"         : "443",
-              "severity"     : "OK",
-              "finding"      : "offered"
+              "severity"     : "INFO",
+              "finding"      : "not offered"
           }
 ,         {
               "id"           : "cipherlist_STRONG_FS",
@@ -143,7 +143,7 @@
               "ip"           : "conseil-refondation.fr/172.67.130.24",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "ECDHE-RSA-AES128-SHA"
+              "finding"      : "ECDHE-ECDSA-AES128-SHA"
           }
 ,         {
               "id"           : "cipher_order-tls1_1",
@@ -157,7 +157,7 @@
               "ip"           : "conseil-refondation.fr/172.67.130.24",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "ECDHE-RSA-AES128-SHA"
+              "finding"      : "ECDHE-ECDSA-AES128-SHA"
           }
 ,         {
               "id"           : "cipher_order-tls1_2",
@@ -171,7 +171,7 @@
               "ip"           : "conseil-refondation.fr/172.67.130.24",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "ECDHE-RSA-AES128-GCM-SHA256"
+              "finding"      : "ECDHE-ECDSA-AES128-GCM-SHA256"
           }
 ,         {
               "id"           : "cipher_order",
@@ -192,14 +192,14 @@
               "ip"           : "conseil-refondation.fr/172.67.130.24",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "ECDHE-RSA-AES128-GCM-SHA256 ECDHE-RSA-AES128-SHA256 ECDHE-RSA-AES128-SHA ECDHE-RSA-AES256-GCM-SHA384 ECDHE-RSA-AES256-SHA384 ECDHE-RSA-AES256-SHA ECDHE-RSA-CHACHA20-POLY1305-OLD"
+              "finding"      : "ECDHE-ECDSA-AES128-GCM-SHA256 ECDHE-ECDSA-AES128-SHA256 ECDHE-ECDSA-AES128-SHA ECDHE-ECDSA-AES256-GCM-SHA384 ECDHE-ECDSA-AES256-SHA384 ECDHE-ECDSA-AES256-SHA ECDHE-ECDSA-CHACHA20-POLY1305-OLD"
           }
 ,         {
               "id"           : "FS_ECDHE_curves",
               "ip"           : "conseil-refondation.fr/172.67.130.24",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "prime256v1 secp384r1 secp521r1"
+              "finding"      : "prime256v1"
           }
 ,         {
               "id"           : "TLS_extensions",
@@ -269,21 +269,21 @@
               "ip"           : "conseil-refondation.fr/172.67.130.24",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "SHA256 with RSA"
+              "finding"      : "ECDSA with SHA256"
           }
 ,         {
               "id"           : "cert_keySize",
               "ip"           : "conseil-refondation.fr/172.67.130.24",
               "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "RSA 2048 bits (exponent is 65537)"
+              "severity"     : "OK",
+              "finding"      : "EC 256 bits (curve P-256)"
           }
 ,         {
               "id"           : "cert_keyUsage",
               "ip"           : "conseil-refondation.fr/172.67.130.24",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "Digital Signature, Key Encipherment"
+              "finding"      : "Digital Signature"
           }
 ,         {
               "id"           : "cert_extKeyUsage",
@@ -297,7 +297,7 @@
               "ip"           : "conseil-refondation.fr/172.67.130.24",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "B8C2147A3640A7100E1CA4A708B1C78F"
+              "finding"      : "0F59EABDBD6A2717113E6EAFD81A1B02"
           }
 ,         {
               "id"           : "cert_serialNumberLen",
@@ -311,21 +311,21 @@
               "ip"           : "conseil-refondation.fr/172.67.130.24",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "F8C58010496CA716279DC1E94E67ADF0D66310B4"
+              "finding"      : "581B67255631894950BA327AC3EF0A8B79620DD6"
           }
 ,         {
               "id"           : "cert_fingerprintSHA256",
               "ip"           : "conseil-refondation.fr/172.67.130.24",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "21823F202F7B6F3D508F8A9358386AF4DC4004CC201676C0DCC329E9CCD57D0D"
+              "finding"      : "EF56B55CFBF8B6AAC567A92D69A3C96F85F7028DC9DE3FE1E9152FEA71AC4D49"
           }
 ,         {
               "id"           : "cert",
               "ip"           : "conseil-refondation.fr/172.67.130.24",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "-----BEGIN CERTIFICATE-----\nMIIFizCCBHOgAwIBAgIRALjCFHo2QKcQDhykpwixx48wDQYJKoZIhvcNAQELBQAwRjELMAkGA1UEBhMCVVMxIjAgBgNVBAoTGUdvb2dsZSBUcnVzdCBTZXJ2aWNlcyBMTEMxEzARBgNVBAMTCkdUUyBDQSAxUDUwHhcNMjQwNDIyMDMwNTA4WhcNMjQwNzIxMDMwNTA3WjAhMR8wHQYDVQQDExZjb25zZWlsLXJlZm9uZGF0aW9uLmZyMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAxKfrOEguESAVp7rOSTIiHRbAFCl8Qp6F9VEal/BM5cFEDMSbZf7t4eLeYrQhRB9vP58qRKo3GOgEWY4A9KJKlmi6TyqAatv0MvdxNqLRBFUUTkQylOwCD5Web7nO9ein4pVf7fwPUtv0/UgUI7EKrAjTAN5CCst71sNrAEKjVblHBpPCrvmLfWcs44uLgP/jSLXpSKvqqJxMIiG4bwRQ5Mu+J4c4BLhSor+/41aG00YRFD8kz42HlSb09ly28wNlX3dfmrgUUkrhFGUz8yQOTG/MDwKIis7sC16AFYUoEXYhXqKNU7dl3l5YZwySNPypcNkIX1RwZEh/2xTy8JdnGQIDAQABo4IClzCCApMwDgYDVR0PAQH/BAQDAgWgMBMGA1UdJQQMMAoGCCsGAQUFBwMBMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFD/N5x0Z+/dGED1GYNsWACLqmedZMB8GA1UdIwQYMBaAFNX8ng3fHsrdCJeXbivFX8Ur9ey4MHgGCCsGAQUFBwEBBGwwajA1BggrBgEFBQcwAYYpaHR0cDovL29jc3AucGtpLmdvb2cvcy9ndHMxcDUvVVFvTWtzQk1vNkUwMQYIKwYBBQUHMAKGJWh0dHA6Ly9wa2kuZ29vZy9yZXBvL2NlcnRzL2d0czFwNS5kZXIwOwYDVR0RBDQwMoIWY29uc2VpbC1yZWZvbmRhdGlvbi5mcoIYKi5jb25zZWlsLXJlZm9uZGF0aW9uLmZyMCEGA1UdIAQaMBgwCAYGZ4EMAQIBMAwGCisGAQQB1nkCBQMwPAYDVR0fBDUwMzAxoC+gLYYraHR0cDovL2NybHMucGtpLmdvb2cvZ3RzMXA1L2pEUmRjY3hmRGtBLmNybDCCAQQGCisGAQQB1nkCBAIEgfUEgfIA8AB2AO7N0GTV2xrOxVy3nbTNE6Iyh0Z8vOzew1FIWUZxH7WbAAABjwP6pJwAAAQDAEcwRQIhAMtFYtw6YyXaF/OLlNO3jTwG8n1S9IrlG3ibggNJHtXcAiAVRda0TeqokC115IhxlQUBqp7DjaiapyjuG9X6XBvvxQB2AN/hVuuqBa+1nA+GcY2owDJOrlbZbqf1pWoB0cE7vlJcAAABjwP6pXoAAAQDAEcwRQIhAJmnyc24uNxbKvNEfSnu6pfa8+CAzI5gdgoPjj7uKWOTAiBrAjuQhIjRA2dNDMT9C6WfF0nc/U0+u+3zh89YEMnxOzANBgkqhkiG9w0BAQsFAAOCAQEAe1pycwe2w3u4xGr4EcQ3D13VeP/ehS+0g+wPIqA4V5qMfyyB1JWvCnQmofHQ56oTZoHR9bPCC9rNyN1S68PnDDI1nik34K9T4YvuQ7t9IPiHHD1z34zgfmhAT9RNrqzqBBNUZ8KYxTerxr75NQsaKZx+eCcqeA7cSGzEuk3NWNGSqE60/yJUySt+8aBvkmGh31n/RmBAt7+64Q2g0udSL1w6YmfZgt0cEhtV4Ol1ajXJxsTuybghNIDCvguoUSx1sdI83vap4M4RgYeCQH2Avb4It4CT7qHrKj9sjvbM6ofbXVpAOpD+Qq7ptOvat+RtnGyThoobuHgKstFL/zA8fQ==\n-----END CERTIFICATE-----"
+              "finding"      : "-----BEGIN CERTIFICATE-----\nMIIDwzCCA2qgAwIBAgIQD1nqvb1qJxcRPm6v2BobAjAKBggqhkjOPQQDAjA7MQswCQYDVQQGEwJVUzEeMBwGA1UEChMVR29vZ2xlIFRydXN0IFNlcnZpY2VzMQwwCgYDVQQDEwNXRTEwHhcNMjQwNjIwMDI1NzQ1WhcNMjQwOTE4MDI1NzQ0WjAhMR8wHQYDVQQDExZjb25zZWlsLXJlZm9uZGF0aW9uLmZyMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEwTiiyqBWSA+vv0eEJFDWcO4/V2xibgW/Gy6RtN0lzFe2peJOhVhx4iAGfiEKsi0jKDZFONflIRtLFEWUwQeI96OCAmgwggJkMA4GA1UdDwEB/wQEAwIHgDATBgNVHSUEDDAKBggrBgEFBQcDATAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBRAs0CY4seFvWtVQ2kAupTSz3CTiDAfBgNVHSMEGDAWgBSQd5I1Z8T/qMyp5nvZgHl7zJP5ODBeBggrBgEFBQcBAQRSMFAwJwYIKwYBBQUHMAGGG2h0dHA6Ly9vLnBraS5nb29nL3Mvd2UxL0QxazAlBggrBgEFBQcwAoYZaHR0cDovL2kucGtpLmdvb2cvd2UxLmNydDA7BgNVHREENDAyghZjb25zZWlsLXJlZm9uZGF0aW9uLmZyghgqLmNvbnNlaWwtcmVmb25kYXRpb24uZnIwEwYDVR0gBAwwCjAIBgZngQwBAgEwNgYDVR0fBC8wLTAroCmgJ4YlaHR0cDovL2MucGtpLmdvb2cvd2UxL1pqY0h2OFppMkdBLmNybDCCAQMGCisGAQQB1nkCBAIEgfQEgfEA7wB2ABmYEHEJ8NZSLjCA0p4/ZLuDbijM+Q9Sju7fzko/FrTKAAABkDPLFVoAAAQDAEcwRQIhAOyFobJzuzsqbwZS+oQZcLnC57yMGKzQW4Aj43cZ+DwsAiBvMYQJcDk2Sijs9DTlXL6KLHFT+V5nyRDT2shF7RcxdQB1AHb/iD8KtvuVUcJhzPWHujS0pM27KdxoQgqf5mdMWjp0AAABkDPLFWMAAAQDAEYwRAIgfTFxm8ka8NQy70qTdabbMU0iv9tngJxTovvJwxUUcyECIHFb5dShAjuta82yWaTfc3rBUfuYTxXyxLnoO/o1/W0eMAoGCCqGSM49BAMCA0cAMEQCIB87WQsIWpwpT2j3vG41dIcAcbZWFxe235qz9cjLlX+bAiB8OYlpzdbYdogSuJB6/PyWebQQoWtnfOjY3ffd3r+9qA==\n-----END CERTIFICATE-----"
           }
 ,         {
               "id"           : "cert_commonName",
@@ -339,7 +339,7 @@
               "ip"           : "conseil-refondation.fr/172.67.130.24",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "request w/o SNI didn't succeed"
+              "finding"      : "request w/o SNI didn't succeed, usual for EC certificates"
           }
 ,         {
               "id"           : "cert_subjectAltName",
@@ -373,22 +373,22 @@
               "id"           : "cert_expirationStatus",
               "ip"           : "conseil-refondation.fr/172.67.130.24",
               "port"         : "443",
-              "severity"     : "MEDIUM",
-              "finding"      : "expires < 60 days (34)"
+              "severity"     : "OK",
+              "finding"      : "79 >= 60 days"
           }
 ,         {
               "id"           : "cert_notBefore",
               "ip"           : "conseil-refondation.fr/172.67.130.24",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "2024-04-22 03:05"
+              "finding"      : "2024-06-20 02:57"
           }
 ,         {
               "id"           : "cert_notAfter",
               "ip"           : "conseil-refondation.fr/172.67.130.24",
               "port"         : "443",
-              "severity"     : "MEDIUM",
-              "finding"      : "2024-07-21 03:05"
+              "severity"     : "OK",
+              "finding"      : "2024-09-18 02:57"
           }
 ,         {
               "id"           : "cert_extlifeSpan",
@@ -409,14 +409,14 @@
               "ip"           : "conseil-refondation.fr/172.67.130.24",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "http://crls.pki.goog/gts1p5/jDRdccxfDkA.crl"
+              "finding"      : "http://c.pki.goog/we1/ZjcHv8Zi2GA.crl"
           }
 ,         {
               "id"           : "cert_ocspURL",
               "ip"           : "conseil-refondation.fr/172.67.130.24",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "http://ocsp.pki.goog/s/gts1p5/UQoMksBMo6E"
+              "finding"      : "http://o.pki.goog/s/we1/D1k"
           }
 ,         {
               "id"           : "OCSP_stapling",
@@ -472,35 +472,35 @@
               "ip"           : "conseil-refondation.fr/172.67.130.24",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "GTS CA 1P5 (Google Trust Services LLC from US)"
+              "finding"      : "WE1 (Google Trust Services from US)"
           }
 ,         {
               "id"           : "intermediate_cert <#1>",
               "ip"           : "conseil-refondation.fr/172.67.130.24",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "-----BEGIN CERTIFICATE-----\nMIIFjDCCA3SgAwIBAgINAgO8UKMnU/CRgCLt8TANBgkqhkiG9w0BAQsFADBHMQswCQYDVQQGEwJVUzEiMCAGA1UEChMZR29vZ2xlIFRydXN0IFNlcnZpY2VzIExMQzEUMBIGA1UEAxMLR1RTIFJvb3QgUjEwHhcNMjAwODEzMDAwMDQyWhcNMjcwOTMwMDAwMDQyWjBGMQswCQYDVQQGEwJVUzEiMCAGA1UEChMZR29vZ2xlIFRydXN0IFNlcnZpY2VzIExMQzETMBEGA1UEAxMKR1RTIENBIDFQNTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBALOC8CSMvy2Hr7LZp676yrpE1ls+/rL3smUW3N4Q6E8tEFhaKIaHoe5qs6DZdU9/oVIBi1WoSlsGSMg2EiWrifnyI1+dYGX5XNq+OuhcbX2c0IQYhTDNTpvsPNiz4ZbU88ULZduPsHTL9h7zePGslcXdc8MxiIGvdKpv/QzjBZXwxRBPZWP6oK/GGD3Fod+XedcFibMwsHSuPZIQa4wVd90LBFf7gQPd6iI01eVWsvDEjUGxwwLbYuyA0P921IbkBBq2tgwrYnF92a/Z8V76wB7KoBlcVfCA0SoMB4aQnzXjKCtb7yPIox2kozru/oPcgkwlsE3FUa2em9NbhMIaWukCAwEAAaOCAXYwggFyMA4GA1UdDwEB/wQEAwIBhjAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwEgYDVR0TAQH/BAgwBgEB/wIBADAdBgNVHQ4EFgQU1fyeDd8eyt0Il5duK8VfxSv17LgwHwYDVR0jBBgwFoAU5K8rJnEaK0gnhS9SZizv8IkTcT4waAYIKwYBBQUHAQEEXDBaMCYGCCsGAQUFBzABhhpodHRwOi8vb2NzcC5wa2kuZ29vZy9ndHNyMTAwBggrBgEFBQcwAoYkaHR0cDovL3BraS5nb29nL3JlcG8vY2VydHMvZ3RzcjEuZGVyMDQGA1UdHwQtMCswKaAnoCWGI2h0dHA6Ly9jcmwucGtpLmdvb2cvZ3RzcjEvZ3RzcjEuY3JsME0GA1UdIARGMEQwOAYKKwYBBAHWeQIFAzAqMCgGCCsGAQUFBwIBFhxodHRwczovL3BraS5nb29nL3JlcG9zaXRvcnkvMAgGBmeBDAECATANBgkqhkiG9w0BAQsFAAOCAgEAbGMn7iPf5VJoTYFmkYXffWXlWzcxCCayB12avrHKAbmtv5139lEd15jFC0mhe6HX02jlRA+LujbdQoJ30o3d9T/768gHmJPuWtC1Pd5LHC2MTex+jHv+TkD98LSzWQIQUVzjwCv9twZIUX4JXj8P3Kf+l+d5xQ5EiXjFaVkpoJo6SDYpppSTVS24R7XplrWfB82mqz4yisCGg8XBQcifLzWODcAHeuGsyWW1y4qn3XHYYWU5hKwyPvd6NvFWn1epQW1akKfbOup1gAxjC2l0bwdMFfM3KKUZpG719iDNY7J+xCsJdYna0Twuck82GqGeRNDNm6YjCD+XoaeeWqX3CZStXXZdKFbRGmZRUQd73j2wyO8weiQtvrizhvZL9/C1T//Oxvn2PyonCA8JPiNax+NCLXo25D2YlmA5mOrR22Mq63gJsU4hs463zj6S8ZVcpDnQwCvIUxX10i+CzQZ0Z5mQdzcKly3FHB700FvpFePqAgnIE9cTcGW/+4ibWiW+dwnhp2pOEXW5Hk3xABtqZnmOw27YbaIiom0F+yzy8VDloNHYnzV9/HCrWSoC8b6w0/H4zRK5aiWQW+OFIOb12stAHBk0IANhd7p/SA9JCynr52Fkx2PRR+sc4e6URu85c8zuTyuN3PtYp7NlIJmVuftVb9eWbpQ99HqSjmMd320=\n-----END CERTIFICATE-----"
+              "finding"      : "-----BEGIN CERTIFICATE-----\nMIICnzCCAiWgAwIBAgIQf/MZd5csIkp2FV0TttaF4zAKBggqhkjOPQQDAzBHMQswCQYDVQQGEwJVUzEiMCAGA1UEChMZR29vZ2xlIFRydXN0IFNlcnZpY2VzIExMQzEUMBIGA1UEAxMLR1RTIFJvb3QgUjQwHhcNMjMxMjEzMDkwMDAwWhcNMjkwMjIwMTQwMDAwWjA7MQswCQYDVQQGEwJVUzEeMBwGA1UEChMVR29vZ2xlIFRydXN0IFNlcnZpY2VzMQwwCgYDVQQDEwNXRTEwWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAARvzTr+Z1dHTCEDhUDCR127WEcPQMFcF4XGGTfn1XzthkubgdnXGhOlCgP4mMTG6J7/EFmPLCaY9eYmJbsPAvpWo4H+MIH7MA4GA1UdDwEB/wQEAwIBhjAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwEgYDVR0TAQH/BAgwBgEB/wIBADAdBgNVHQ4EFgQUkHeSNWfE/6jMqeZ72YB5e8yT+TgwHwYDVR0jBBgwFoAUgEzW63T/STaj1dj8tT7FavCUHYwwNAYIKwYBBQUHAQEEKDAmMCQGCCsGAQUFBzAChhhodHRwOi8vaS5wa2kuZ29vZy9yNC5jcnQwKwYDVR0fBCQwIjAgoB6gHIYaaHR0cDovL2MucGtpLmdvb2cvci9yNC5jcmwwEwYDVR0gBAwwCjAIBgZngQwBAgEwCgYIKoZIzj0EAwMDaAAwZQIxAOcCq1HW90OVznX+0RGU1cxAQXomvtgM8zItPZCuFQ8jSBJSjz5keROv9aYsAm5VsQIwJonMaAFi54mrfhfoFNZEfuNMSQ6/bIBiNLiyoX46FohQvKeIoJ99cx7sUkFN7uJW\n-----END CERTIFICATE-----"
           }
 ,         {
               "id"           : "intermediate_cert_fingerprintSHA256 <#1>",
               "ip"           : "conseil-refondation.fr/172.67.130.24",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "97D42003E132552946097F20EF955F5B1CD570AA4372D780033A65EFBE69758D"
+              "finding"      : "1DFC1605FBAD358D8BC844F76D15203FAC9CA5C1A79FD4857FFAF2864FBEBF96"
           }
 ,         {
               "id"           : "intermediate_cert_notBefore <#1>",
               "ip"           : "conseil-refondation.fr/172.67.130.24",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "2020-08-13 00:00"
+              "finding"      : "2023-12-13 09:00"
           }
 ,         {
               "id"           : "intermediate_cert_notAfter <#1>",
               "ip"           : "conseil-refondation.fr/172.67.130.24",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "2027-09-30 00:00"
+              "finding"      : "2029-02-20 14:00"
           }
 ,         {
               "id"           : "intermediate_cert_expiration <#1>",
@@ -514,28 +514,28 @@
               "ip"           : "conseil-refondation.fr/172.67.130.24",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "GTS CA 1P5 <-- GTS Root R1"
+              "finding"      : "WE1 <-- GTS Root R4"
           }
 ,         {
               "id"           : "intermediate_cert <#2>",
               "ip"           : "conseil-refondation.fr/172.67.130.24",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "-----BEGIN CERTIFICATE-----\nMIIFYjCCBEqgAwIBAgIQd70NbNs2+RrqIQ/E8FjTDTANBgkqhkiG9w0BAQsFADBXMQswCQYDVQQGEwJCRTEZMBcGA1UEChMQR2xvYmFsU2lnbiBudi1zYTEQMA4GA1UECxMHUm9vdCBDQTEbMBkGA1UEAxMSR2xvYmFsU2lnbiBSb290IENBMB4XDTIwMDYxOTAwMDA0MloXDTI4MDEyODAwMDA0MlowRzELMAkGA1UEBhMCVVMxIjAgBgNVBAoTGUdvb2dsZSBUcnVzdCBTZXJ2aWNlcyBMTEMxFDASBgNVBAMTC0dUUyBSb290IFIxMIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEAthECix7joXebO9y/lD63ladAPKH9gvl9MgaCcfb2jH/76Nu8ai6Xl6OMS/kr9rH5zoQdsfnFl97vufKj6bwSiV6nqlKr+CMny6SxnGPb15l+8Ape62im9MZaRw1NEDPjTrETo8gYbEvs/AmQ351kKSUjB6G00j0uYODP0gmHu81I8E3CwnqIiru6z1kZ1q+PsAewnjHxgsHA3y6mbWwZDrXYfiYaRQM9sHmklCitD38m5agI/pboPGiUU+6DOogrFZYJsuB6jC511pzrp1Zkj5ZPaK49l8KEj8C8QMALXL32h7M1bKwYUH+E4EzNktMg6TO8UpmvMrUpsyUqtEj5cuHKZPfmghCN6J3Cioj6OGaK/GP5Afl4/Xtcd/p2h/rs37EOeZVXtL0m79YB0esWCruOC7XFxYpVq9Os6pFLKcwZpDIlTirxZUTQAs6qzkm06p98g7BAe+dDq6dso499iYH6TKX/1Y7DzkvgtdizjkXPdsDtQCv9Uw+wp9U7DbGKogPeMa3Md+pvez7W35EiEua++tgy/BBjFFFy3l3WFpO9KWgz7zpm7AeKJt8T11dleCfeXkkUAKIAf5qoIbapsZWwpbkNFhHax2xIPEDgfg1azVY80ZcFuctL7TlLnMQ/0lUTbiSw1nH69MG6zO0b9f6BQdgAmD06yK56mDcYBZUCAwEAAaOCATgwggE0MA4GA1UdDwEB/wQEAwIBhjAPBgNVHRMBAf8EBTADAQH/MB0GA1UdDgQWBBTkrysmcRorSCeFL1JmLO/wiRNxPjAfBgNVHSMEGDAWgBRge2YaRQ2XyolQL30EzTSo//z9SzBgBggrBgEFBQcBAQRUMFIwJQYIKwYBBQUHMAGGGWh0dHA6Ly9vY3NwLnBraS5nb29nL2dzcjEwKQYIKwYBBQUHMAKGHWh0dHA6Ly9wa2kuZ29vZy9nc3IxL2dzcjEuY3J0MDIGA1UdHwQrMCkwJ6AloCOGIWh0dHA6Ly9jcmwucGtpLmdvb2cvZ3NyMS9nc3IxLmNybDA7BgNVHSAENDAyMAgGBmeBDAECATAIBgZngQwBAgIwDQYLKwYBBAHWeQIFAwIwDQYLKwYBBAHWeQIFAwMwDQYJKoZIhvcNAQELBQADggEBADSkHrEoo9C0dhemMXoh6dFSPsjbdBZBiLg9NR3t5P+T4Vxfq7vqfM/b5A3Ri1fyJm9bvhdGaJQ3b2t6yMAYN/olUazsaL+yyEn9WprKASOshIArAoyZl+tJaox118fessmXn1hIVw41oeQa1v1vg4Fv74zPl6/AhSrw9U5pCZEt4Wi4wStz6dTZ/CLANx8LZh1J7QJVj2fhMtfTJr9w4z30Z209fOU0iOMy+qduBmpvvYuR7hZL6Dupszfnw0Skfths18dG9ZKb59UhvmaSGZRVbNQpsg3BZlvid0lIKO2d1xozclOzgjXPYovJJIultzkMu34qQb9Sz/yilrbCgj8=\n-----END CERTIFICATE-----"
+              "finding"      : "-----BEGIN CERTIFICATE-----\nMIIDejCCAmKgAwIBAgIQf+UwvzMTQ77dghYQST2KGzANBgkqhkiG9w0BAQsFADBXMQswCQYDVQQGEwJCRTEZMBcGA1UEChMQR2xvYmFsU2lnbiBudi1zYTEQMA4GA1UECxMHUm9vdCBDQTEbMBkGA1UEAxMSR2xvYmFsU2lnbiBSb290IENBMB4XDTIzMTExNTAzNDMyMVoXDTI4MDEyODAwMDA0MlowRzELMAkGA1UEBhMCVVMxIjAgBgNVBAoTGUdvb2dsZSBUcnVzdCBTZXJ2aWNlcyBMTEMxFDASBgNVBAMTC0dUUyBSb290IFI0MHYwEAYHKoZIzj0CAQYFK4EEACIDYgAE83Rzp2iLYK5DuDXFgTB7S0md+8FhzubeRr1r1WEYNa5A3XP3iZEwWus87oV8okB2O6nGuEfYKueSkWpz6bFyOZ8pn6KY019eWIZlD6GEZQbR3IvJx3PIjGov5cSr0R2Ko4H/MIH8MA4GA1UdDwEB/wQEAwIBhjAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwDwYDVR0TAQH/BAUwAwEB/zAdBgNVHQ4EFgQUgEzW63T/STaj1dj8tT7FavCUHYwwHwYDVR0jBBgwFoAUYHtmGkUNl8qJUC99BM00qP/8/UswNgYIKwYBBQUHAQEEKjAoMCYGCCsGAQUFBzAChhpodHRwOi8vaS5wa2kuZ29vZy9nc3IxLmNydDAtBgNVHR8EJjAkMCKgIKAehhxodHRwOi8vYy5wa2kuZ29vZy9yL2dzcjEuY3JsMBMGA1UdIAQMMAowCAYGZ4EMAQIBMA0GCSqGSIb3DQEBCwUAA4IBAQAYQrsPBtYDh5bjP2OBDwmkoWhIDDkic574y04tfzHpn+cJodI2D4SseesQ6bDrarZ7C30ddLibZatoKiws3UL9xnELz4ct92vID24FfVbiI1hY+SW6FoVHkNeWIP0GCbaM4C6uVdF5dTUsMVs/ZbzNnIdCp5Gxmx5ejvEau8otR/CskGN+hr/W5GvT1tMBjgWKZ1i4//emhA1JG1BbPzoLJQvyEotc03lXjTaCzv8mEbep8RqZ7a2CPsgRbuvTPBwcOMBBmuFeU88+FSBX6+7iP0il8b4Z0QFqIwwMHfs/L6K1vepuoxtGzi4CZ68zJpiq1UvSqTbFJjtbD4seiMHl\n-----END CERTIFICATE-----"
           }
 ,         {
               "id"           : "intermediate_cert_fingerprintSHA256 <#2>",
               "ip"           : "conseil-refondation.fr/172.67.130.24",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "3EE0278DF71FA3C125C4CD487F01D774694E6FC57E0CD94C24EFD769133918E5"
+              "finding"      : "76B27B80A58027DC3CF1DA68DAC17010ED93997D0B603E2FADBE85012493B5A7"
           }
 ,         {
               "id"           : "intermediate_cert_notBefore <#2>",
               "ip"           : "conseil-refondation.fr/172.67.130.24",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "2020-06-19 00:00"
+              "finding"      : "2023-11-15 03:43"
           }
 ,         {
               "id"           : "intermediate_cert_notAfter <#2>",
@@ -556,7 +556,7 @@
               "ip"           : "conseil-refondation.fr/172.67.130.24",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "GTS Root R1 <-- GlobalSign Root CA"
+              "finding"      : "GTS Root R4 <-- GlobalSign Root CA"
           }
 ,         {
               "id"           : "intermediate_cert_badOCSP",
@@ -584,7 +584,7 @@
               "ip"           : "conseil-refondation.fr/172.67.130.24",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1718530057"
+              "finding"      : "1719739977"
           }
 ,         {
               "id"           : "HSTS",
@@ -640,7 +640,7 @@
               "ip"           : "conseil-refondation.fr/172.67.130.24",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "connect-src connect.facebook.net *.facebook.com 'self' stats.conseil-refondation.fr client.axept.io api.axept.io googletagmanager.com googleadservices.com googleads.g.doubleclick.net/ form.typeform.com; script-src 'self' 'sha256-bniFC3kd4JwCYRuTuxW9AjUYecKEuyTLJ+5NH6TJBWE=' stats.conseil-refondation.fr 'sha256-1neh+DsrMKevQd7CmK4xkhFjYHtrpaiR8ncbjLw/w5E=' connect.facebook.net static.axept.io www.googletagmanager.com www.googleadservices.com googleads.g.doubleclick.net embed.typeform.com; img-src 'self' data: localhost:8000 *.google.com *.gstatic.com *.facebook.com *.google.fr cellar-c2.services.clever-cloud.com; style-src 'self' 'unsafe-hashes' 'sha256-d//Lck7pNf/OY9MPfGYaIOTmqjEzvwlSukK3UObI08A=' 'sha256-Eyt3MCqJJqqqUJzUlVq9BLYX+kVGQZVLpJ4toZz4mb8=' 'sha256-Xhd5+zYamb/dMdyIkYwXmzaXokrsMrINTdCsO/s+Hcc=' 'sha256-dDZkVrIJy1Xyahb04E1npPS7ONJw3g8949x7gAc/kEY=' 'sha256-/68szNaQXdlDug09n2c6rD/J5VWzEfkXCRsVxk+Bc7s=' 'sha256-AthIs6YNuVjwfheHgESE8WAfJ61fXMZXX7s/UwRV5Dg=' embed.typeform.com; default-src 'self' data: localhost:8000; frame-src *.youtube.com *.facebook.com *.vimeo.com datawrapper.dwcdn.net form.typeform.com"
+              "finding"      : "frame-src *.youtube.com *.facebook.com *.vimeo.com datawrapper.dwcdn.net form.typeform.com; script-src 'self' 'sha256-bniFC3kd4JwCYRuTuxW9AjUYecKEuyTLJ+5NH6TJBWE=' stats.conseil-refondation.fr 'sha256-1neh+DsrMKevQd7CmK4xkhFjYHtrpaiR8ncbjLw/w5E=' connect.facebook.net static.axept.io www.googletagmanager.com www.googleadservices.com googleads.g.doubleclick.net embed.typeform.com; style-src 'self' 'unsafe-hashes' 'sha256-d//Lck7pNf/OY9MPfGYaIOTmqjEzvwlSukK3UObI08A=' 'sha256-Eyt3MCqJJqqqUJzUlVq9BLYX+kVGQZVLpJ4toZz4mb8=' 'sha256-Xhd5+zYamb/dMdyIkYwXmzaXokrsMrINTdCsO/s+Hcc=' 'sha256-dDZkVrIJy1Xyahb04E1npPS7ONJw3g8949x7gAc/kEY=' 'sha256-/68szNaQXdlDug09n2c6rD/J5VWzEfkXCRsVxk+Bc7s=' 'sha256-AthIs6YNuVjwfheHgESE8WAfJ61fXMZXX7s/UwRV5Dg=' embed.typeform.com; img-src 'self' data: localhost:8000 *.google.com *.gstatic.com *.facebook.com *.google.fr cellar-c2.services.clever-cloud.com; connect-src connect.facebook.net *.facebook.com 'self' stats.conseil-refondation.fr client.axept.io api.axept.io googletagmanager.com googleadservices.com googleads.g.doubleclick.net/ form.typeform.com; default-src 'self' data: localhost:8000"
           }
 ,         {
               "id"           : "Referrer-Policy",
@@ -691,7 +691,7 @@
               "severity"     : "OK",
               "cve"          : "CVE-2017-17382 CVE-2017-17427 CVE-2017-17428 CVE-2017-13098 CVE-2017-1000385 CVE-2017-13099 CVE-2016-6883 CVE-2012-5081 CVE-2017-6168",
               "cwe"          : "CWE-203",
-              "finding"      : "not vulnerable"
+              "finding"      : "not vulnerable, no RSA key transport cipher"
           }
 ,         {
               "id"           : "secure_renego",
@@ -748,10 +748,10 @@
               "id"           : "SWEET32",
               "ip"           : "conseil-refondation.fr/172.67.130.24",
               "port"         : "443",
-              "severity"     : "LOW",
+              "severity"     : "OK",
               "cve"          : "CVE-2016-2183 CVE-2016-6329",
               "cwe"          : "CWE-327",
-              "finding"      : "uses 64 bit block ciphers"
+              "finding"      : "not vulnerable"
           }
 ,         {
               "id"           : "FREAK",
@@ -778,7 +778,7 @@
               "severity"     : "INFO",
               "cve"          : "CVE-2016-0800 CVE-2016-0703",
               "cwe"          : "CWE-310",
-              "finding"      : "Make sure you don't use this certificate elsewhere with SSLv2 enabled services, see https://search.censys.io/search?resource=hosts&virtual_hosts=INCLUDE&q=21823F202F7B6F3D508F8A9358386AF4DC4004CC201676C0DCC329E9CCD57D0D"
+              "finding"      : "no RSA certificate, can't be used with SSLv2 elsewhere"
           }
 ,         {
               "id"           : "LOGJAM",
@@ -805,7 +805,7 @@
               "severity"     : "MEDIUM",
               "cve"          : "CVE-2011-3389",
               "cwe"          : "CWE-20",
-              "finding"      : "ECDHE-RSA-AES128-SHA AES128-SHA ECDHE-RSA-AES256-SHA AES256-SHA DES-CBC3-SHA"
+              "finding"      : "ECDHE-ECDSA-AES128-SHA ECDHE-ECDSA-AES256-SHA"
           }
 ,         {
               "id"           : "BEAST",
@@ -848,21 +848,21 @@
               "ip"           : "conseil-refondation.fr/172.67.130.24",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "TLSv1.2 ECDHE-RSA-CHACHA20-POLY1305-OLD"
+              "finding"      : "TLSv1.2 ECDHE-ECDSA-CHACHA20-POLY1305-OLD"
           }
 ,         {
               "id"           : "clientsimulation-android_70",
               "ip"           : "conseil-refondation.fr/172.67.130.24",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "TLSv1.2 ECDHE-RSA-AES128-GCM-SHA256"
+              "finding"      : "TLSv1.2 ECDHE-ECDSA-AES128-GCM-SHA256"
           }
 ,         {
               "id"           : "clientsimulation-android_81",
               "ip"           : "conseil-refondation.fr/172.67.130.24",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "TLSv1.2 ECDHE-RSA-AES128-GCM-SHA256"
+              "finding"      : "TLSv1.2 ECDHE-ECDSA-AES128-GCM-SHA256"
           }
 ,         {
               "id"           : "clientsimulation-android_90",
@@ -932,7 +932,7 @@
               "ip"           : "conseil-refondation.fr/172.67.130.24",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "TLSv1.0 ECDHE-RSA-AES128-SHA"
+              "finding"      : "TLSv1.0 ECDHE-ECDSA-AES128-SHA"
           }
 ,         {
               "id"           : "clientsimulation-ie_8_xp",
@@ -946,35 +946,35 @@
               "ip"           : "conseil-refondation.fr/172.67.130.24",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "TLSv1.2 ECDHE-RSA-AES128-SHA"
+              "finding"      : "TLSv1.2 ECDHE-ECDSA-AES128-GCM-SHA256"
           }
 ,         {
               "id"           : "clientsimulation-ie_11_win81",
               "ip"           : "conseil-refondation.fr/172.67.130.24",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "TLSv1.2 ECDHE-RSA-AES128-SHA"
+              "finding"      : "TLSv1.2 ECDHE-ECDSA-AES128-GCM-SHA256"
           }
 ,         {
               "id"           : "clientsimulation-ie_11_winphone81",
               "ip"           : "conseil-refondation.fr/172.67.130.24",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "TLSv1.2 ECDHE-RSA-AES128-SHA"
+              "finding"      : "TLSv1.2 ECDHE-ECDSA-AES128-GCM-SHA256"
           }
 ,         {
               "id"           : "clientsimulation-ie_11_win10",
               "ip"           : "conseil-refondation.fr/172.67.130.24",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "TLSv1.2 ECDHE-RSA-AES128-GCM-SHA256"
+              "finding"      : "TLSv1.2 ECDHE-ECDSA-AES128-GCM-SHA256"
           }
 ,         {
               "id"           : "clientsimulation-edge_15_win10",
               "ip"           : "conseil-refondation.fr/172.67.130.24",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "TLSv1.2 ECDHE-RSA-AES128-GCM-SHA256"
+              "finding"      : "TLSv1.2 ECDHE-ECDSA-AES128-GCM-SHA256"
           }
 ,         {
               "id"           : "clientsimulation-edge_101_win10_21h2",
@@ -1009,14 +1009,14 @@
               "ip"           : "conseil-refondation.fr/172.67.130.24",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "TLSv1.0 ECDHE-RSA-AES128-SHA"
+              "finding"      : "TLSv1.0 ECDHE-ECDSA-AES128-SHA"
           }
 ,         {
               "id"           : "clientsimulation-java_8u161",
               "ip"           : "conseil-refondation.fr/172.67.130.24",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "TLSv1.2 ECDHE-RSA-AES128-GCM-SHA256"
+              "finding"      : "TLSv1.2 ECDHE-ECDSA-AES128-GCM-SHA256"
           }
 ,         {
               "id"           : "clientsimulation-java1102",
@@ -1044,21 +1044,21 @@
               "ip"           : "conseil-refondation.fr/172.67.130.24",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "TLSv1.2 ECDHE-RSA-CHACHA20-POLY1305"
+              "finding"      : "TLSv1.2 ECDHE-ECDSA-CHACHA20-POLY1305"
           }
 ,         {
               "id"           : "clientsimulation-openssl_102e",
               "ip"           : "conseil-refondation.fr/172.67.130.24",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "TLSv1.2 ECDHE-RSA-AES128-GCM-SHA256"
+              "finding"      : "TLSv1.2 ECDHE-ECDSA-AES128-GCM-SHA256"
           }
 ,         {
               "id"           : "clientsimulation-openssl_110l",
               "ip"           : "conseil-refondation.fr/172.67.130.24",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "TLSv1.2 ECDHE-RSA-CHACHA20-POLY1305"
+              "finding"      : "TLSv1.2 ECDHE-ECDSA-CHACHA20-POLY1305"
           }
 ,         {
               "id"           : "clientsimulation-openssl_111d",
@@ -1079,7 +1079,7 @@
               "ip"           : "conseil-refondation.fr/172.67.130.24",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "TLSv1.2 ECDHE-RSA-AES128-GCM-SHA256"
+              "finding"      : "TLSv1.2 ECDHE-ECDSA-AES128-GCM-SHA256"
           }
 ,         {
               "id"           : "clientsimulation-thunderbird_91_9",
@@ -1121,14 +1121,14 @@
               "ip"           : "conseil-refondation.fr/172.67.130.24",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "90"
+              "finding"      : "100"
           }
 ,         {
               "id"           : "key_exchange_score_weighted",
               "ip"           : "conseil-refondation.fr/172.67.130.24",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "27"
+              "finding"      : "30"
           }
 ,         {
               "id"           : "cipher_strength_score",
@@ -1149,7 +1149,7 @@
               "ip"           : "conseil-refondation.fr/172.67.130.24",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "79"
+              "finding"      : "82"
           }
 ,         {
               "id"           : "overall_grade",
@@ -1301,8 +1301,8 @@
               "id"           : "cipherlist_STRONG_NOFS",
               "ip"           : "conseil-refondation.fr/104.21.7.98",
               "port"         : "443",
-              "severity"     : "OK",
-              "finding"      : "offered"
+              "severity"     : "INFO",
+              "finding"      : "not offered"
           }
 ,         {
               "id"           : "cipherlist_STRONG_FS",
@@ -1323,7 +1323,7 @@
               "ip"           : "conseil-refondation.fr/104.21.7.98",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "ECDHE-RSA-AES128-SHA"
+              "finding"      : "ECDHE-ECDSA-AES128-SHA"
           }
 ,         {
               "id"           : "cipher_order-tls1_1",
@@ -1337,7 +1337,7 @@
               "ip"           : "conseil-refondation.fr/104.21.7.98",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "ECDHE-RSA-AES128-SHA"
+              "finding"      : "ECDHE-ECDSA-AES128-SHA"
           }
 ,         {
               "id"           : "cipher_order-tls1_2",
@@ -1351,7 +1351,7 @@
               "ip"           : "conseil-refondation.fr/104.21.7.98",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "ECDHE-RSA-AES128-GCM-SHA256"
+              "finding"      : "ECDHE-ECDSA-AES128-GCM-SHA256"
           }
 ,         {
               "id"           : "cipher_order",
@@ -1372,14 +1372,14 @@
               "ip"           : "conseil-refondation.fr/104.21.7.98",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "ECDHE-RSA-AES128-GCM-SHA256 ECDHE-RSA-AES128-SHA256 ECDHE-RSA-AES128-SHA ECDHE-RSA-AES256-GCM-SHA384 ECDHE-RSA-AES256-SHA384 ECDHE-RSA-AES256-SHA ECDHE-RSA-CHACHA20-POLY1305-OLD"
+              "finding"      : "ECDHE-ECDSA-AES128-GCM-SHA256 ECDHE-ECDSA-AES128-SHA256 ECDHE-ECDSA-AES128-SHA ECDHE-ECDSA-AES256-GCM-SHA384 ECDHE-ECDSA-AES256-SHA384 ECDHE-ECDSA-AES256-SHA ECDHE-ECDSA-CHACHA20-POLY1305-OLD"
           }
 ,         {
               "id"           : "FS_ECDHE_curves",
               "ip"           : "conseil-refondation.fr/104.21.7.98",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "prime256v1 secp384r1 secp521r1"
+              "finding"      : "prime256v1"
           }
 ,         {
               "id"           : "TLS_extensions",
@@ -1421,7 +1421,7 @@
               "ip"           : "conseil-refondation.fr/104.21.7.98",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "off by -1 seconds from your localtime"
+              "finding"      : "off by 0 seconds from your localtime"
           }
 ,         {
               "id"           : "certificate_compression",
@@ -1449,21 +1449,21 @@
               "ip"           : "conseil-refondation.fr/104.21.7.98",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "SHA256 with RSA"
+              "finding"      : "ECDSA with SHA256"
           }
 ,         {
               "id"           : "cert_keySize",
               "ip"           : "conseil-refondation.fr/104.21.7.98",
               "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "RSA 2048 bits (exponent is 65537)"
+              "severity"     : "OK",
+              "finding"      : "EC 256 bits (curve P-256)"
           }
 ,         {
               "id"           : "cert_keyUsage",
               "ip"           : "conseil-refondation.fr/104.21.7.98",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "Digital Signature, Key Encipherment"
+              "finding"      : "Digital Signature"
           }
 ,         {
               "id"           : "cert_extKeyUsage",
@@ -1477,7 +1477,7 @@
               "ip"           : "conseil-refondation.fr/104.21.7.98",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "B8C2147A3640A7100E1CA4A708B1C78F"
+              "finding"      : "0F59EABDBD6A2717113E6EAFD81A1B02"
           }
 ,         {
               "id"           : "cert_serialNumberLen",
@@ -1491,21 +1491,21 @@
               "ip"           : "conseil-refondation.fr/104.21.7.98",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "F8C58010496CA716279DC1E94E67ADF0D66310B4"
+              "finding"      : "581B67255631894950BA327AC3EF0A8B79620DD6"
           }
 ,         {
               "id"           : "cert_fingerprintSHA256",
               "ip"           : "conseil-refondation.fr/104.21.7.98",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "21823F202F7B6F3D508F8A9358386AF4DC4004CC201676C0DCC329E9CCD57D0D"
+              "finding"      : "EF56B55CFBF8B6AAC567A92D69A3C96F85F7028DC9DE3FE1E9152FEA71AC4D49"
           }
 ,         {
               "id"           : "cert",
               "ip"           : "conseil-refondation.fr/104.21.7.98",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "-----BEGIN CERTIFICATE-----\nMIIFizCCBHOgAwIBAgIRALjCFHo2QKcQDhykpwixx48wDQYJKoZIhvcNAQELBQAwRjELMAkGA1UEBhMCVVMxIjAgBgNVBAoTGUdvb2dsZSBUcnVzdCBTZXJ2aWNlcyBMTEMxEzARBgNVBAMTCkdUUyBDQSAxUDUwHhcNMjQwNDIyMDMwNTA4WhcNMjQwNzIxMDMwNTA3WjAhMR8wHQYDVQQDExZjb25zZWlsLXJlZm9uZGF0aW9uLmZyMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAxKfrOEguESAVp7rOSTIiHRbAFCl8Qp6F9VEal/BM5cFEDMSbZf7t4eLeYrQhRB9vP58qRKo3GOgEWY4A9KJKlmi6TyqAatv0MvdxNqLRBFUUTkQylOwCD5Web7nO9ein4pVf7fwPUtv0/UgUI7EKrAjTAN5CCst71sNrAEKjVblHBpPCrvmLfWcs44uLgP/jSLXpSKvqqJxMIiG4bwRQ5Mu+J4c4BLhSor+/41aG00YRFD8kz42HlSb09ly28wNlX3dfmrgUUkrhFGUz8yQOTG/MDwKIis7sC16AFYUoEXYhXqKNU7dl3l5YZwySNPypcNkIX1RwZEh/2xTy8JdnGQIDAQABo4IClzCCApMwDgYDVR0PAQH/BAQDAgWgMBMGA1UdJQQMMAoGCCsGAQUFBwMBMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFD/N5x0Z+/dGED1GYNsWACLqmedZMB8GA1UdIwQYMBaAFNX8ng3fHsrdCJeXbivFX8Ur9ey4MHgGCCsGAQUFBwEBBGwwajA1BggrBgEFBQcwAYYpaHR0cDovL29jc3AucGtpLmdvb2cvcy9ndHMxcDUvVVFvTWtzQk1vNkUwMQYIKwYBBQUHMAKGJWh0dHA6Ly9wa2kuZ29vZy9yZXBvL2NlcnRzL2d0czFwNS5kZXIwOwYDVR0RBDQwMoIWY29uc2VpbC1yZWZvbmRhdGlvbi5mcoIYKi5jb25zZWlsLXJlZm9uZGF0aW9uLmZyMCEGA1UdIAQaMBgwCAYGZ4EMAQIBMAwGCisGAQQB1nkCBQMwPAYDVR0fBDUwMzAxoC+gLYYraHR0cDovL2NybHMucGtpLmdvb2cvZ3RzMXA1L2pEUmRjY3hmRGtBLmNybDCCAQQGCisGAQQB1nkCBAIEgfUEgfIA8AB2AO7N0GTV2xrOxVy3nbTNE6Iyh0Z8vOzew1FIWUZxH7WbAAABjwP6pJwAAAQDAEcwRQIhAMtFYtw6YyXaF/OLlNO3jTwG8n1S9IrlG3ibggNJHtXcAiAVRda0TeqokC115IhxlQUBqp7DjaiapyjuG9X6XBvvxQB2AN/hVuuqBa+1nA+GcY2owDJOrlbZbqf1pWoB0cE7vlJcAAABjwP6pXoAAAQDAEcwRQIhAJmnyc24uNxbKvNEfSnu6pfa8+CAzI5gdgoPjj7uKWOTAiBrAjuQhIjRA2dNDMT9C6WfF0nc/U0+u+3zh89YEMnxOzANBgkqhkiG9w0BAQsFAAOCAQEAe1pycwe2w3u4xGr4EcQ3D13VeP/ehS+0g+wPIqA4V5qMfyyB1JWvCnQmofHQ56oTZoHR9bPCC9rNyN1S68PnDDI1nik34K9T4YvuQ7t9IPiHHD1z34zgfmhAT9RNrqzqBBNUZ8KYxTerxr75NQsaKZx+eCcqeA7cSGzEuk3NWNGSqE60/yJUySt+8aBvkmGh31n/RmBAt7+64Q2g0udSL1w6YmfZgt0cEhtV4Ol1ajXJxsTuybghNIDCvguoUSx1sdI83vap4M4RgYeCQH2Avb4It4CT7qHrKj9sjvbM6ofbXVpAOpD+Qq7ptOvat+RtnGyThoobuHgKstFL/zA8fQ==\n-----END CERTIFICATE-----"
+              "finding"      : "-----BEGIN CERTIFICATE-----\nMIIDwzCCA2qgAwIBAgIQD1nqvb1qJxcRPm6v2BobAjAKBggqhkjOPQQDAjA7MQswCQYDVQQGEwJVUzEeMBwGA1UEChMVR29vZ2xlIFRydXN0IFNlcnZpY2VzMQwwCgYDVQQDEwNXRTEwHhcNMjQwNjIwMDI1NzQ1WhcNMjQwOTE4MDI1NzQ0WjAhMR8wHQYDVQQDExZjb25zZWlsLXJlZm9uZGF0aW9uLmZyMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEwTiiyqBWSA+vv0eEJFDWcO4/V2xibgW/Gy6RtN0lzFe2peJOhVhx4iAGfiEKsi0jKDZFONflIRtLFEWUwQeI96OCAmgwggJkMA4GA1UdDwEB/wQEAwIHgDATBgNVHSUEDDAKBggrBgEFBQcDATAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBRAs0CY4seFvWtVQ2kAupTSz3CTiDAfBgNVHSMEGDAWgBSQd5I1Z8T/qMyp5nvZgHl7zJP5ODBeBggrBgEFBQcBAQRSMFAwJwYIKwYBBQUHMAGGG2h0dHA6Ly9vLnBraS5nb29nL3Mvd2UxL0QxazAlBggrBgEFBQcwAoYZaHR0cDovL2kucGtpLmdvb2cvd2UxLmNydDA7BgNVHREENDAyghZjb25zZWlsLXJlZm9uZGF0aW9uLmZyghgqLmNvbnNlaWwtcmVmb25kYXRpb24uZnIwEwYDVR0gBAwwCjAIBgZngQwBAgEwNgYDVR0fBC8wLTAroCmgJ4YlaHR0cDovL2MucGtpLmdvb2cvd2UxL1pqY0h2OFppMkdBLmNybDCCAQMGCisGAQQB1nkCBAIEgfQEgfEA7wB2ABmYEHEJ8NZSLjCA0p4/ZLuDbijM+Q9Sju7fzko/FrTKAAABkDPLFVoAAAQDAEcwRQIhAOyFobJzuzsqbwZS+oQZcLnC57yMGKzQW4Aj43cZ+DwsAiBvMYQJcDk2Sijs9DTlXL6KLHFT+V5nyRDT2shF7RcxdQB1AHb/iD8KtvuVUcJhzPWHujS0pM27KdxoQgqf5mdMWjp0AAABkDPLFWMAAAQDAEYwRAIgfTFxm8ka8NQy70qTdabbMU0iv9tngJxTovvJwxUUcyECIHFb5dShAjuta82yWaTfc3rBUfuYTxXyxLnoO/o1/W0eMAoGCCqGSM49BAMCA0cAMEQCIB87WQsIWpwpT2j3vG41dIcAcbZWFxe235qz9cjLlX+bAiB8OYlpzdbYdogSuJB6/PyWebQQoWtnfOjY3ffd3r+9qA==\n-----END CERTIFICATE-----"
           }
 ,         {
               "id"           : "cert_commonName",
@@ -1519,7 +1519,7 @@
               "ip"           : "conseil-refondation.fr/104.21.7.98",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "request w/o SNI didn't succeed"
+              "finding"      : "request w/o SNI didn't succeed, usual for EC certificates"
           }
 ,         {
               "id"           : "cert_subjectAltName",
@@ -1553,22 +1553,22 @@
               "id"           : "cert_expirationStatus",
               "ip"           : "conseil-refondation.fr/104.21.7.98",
               "port"         : "443",
-              "severity"     : "MEDIUM",
-              "finding"      : "expires < 60 days (34)"
+              "severity"     : "OK",
+              "finding"      : "79 >= 60 days"
           }
 ,         {
               "id"           : "cert_notBefore",
               "ip"           : "conseil-refondation.fr/104.21.7.98",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "2024-04-22 03:05"
+              "finding"      : "2024-06-20 02:57"
           }
 ,         {
               "id"           : "cert_notAfter",
               "ip"           : "conseil-refondation.fr/104.21.7.98",
               "port"         : "443",
-              "severity"     : "MEDIUM",
-              "finding"      : "2024-07-21 03:05"
+              "severity"     : "OK",
+              "finding"      : "2024-09-18 02:57"
           }
 ,         {
               "id"           : "cert_extlifeSpan",
@@ -1589,14 +1589,14 @@
               "ip"           : "conseil-refondation.fr/104.21.7.98",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "http://crls.pki.goog/gts1p5/jDRdccxfDkA.crl"
+              "finding"      : "http://c.pki.goog/we1/ZjcHv8Zi2GA.crl"
           }
 ,         {
               "id"           : "cert_ocspURL",
               "ip"           : "conseil-refondation.fr/104.21.7.98",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "http://ocsp.pki.goog/s/gts1p5/UQoMksBMo6E"
+              "finding"      : "http://o.pki.goog/s/we1/D1k"
           }
 ,         {
               "id"           : "OCSP_stapling",
@@ -1652,35 +1652,35 @@
               "ip"           : "conseil-refondation.fr/104.21.7.98",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "GTS CA 1P5 (Google Trust Services LLC from US)"
+              "finding"      : "WE1 (Google Trust Services from US)"
           }
 ,         {
               "id"           : "intermediate_cert <#1>",
               "ip"           : "conseil-refondation.fr/104.21.7.98",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "-----BEGIN CERTIFICATE-----\nMIIFjDCCA3SgAwIBAgINAgO8UKMnU/CRgCLt8TANBgkqhkiG9w0BAQsFADBHMQswCQYDVQQGEwJVUzEiMCAGA1UEChMZR29vZ2xlIFRydXN0IFNlcnZpY2VzIExMQzEUMBIGA1UEAxMLR1RTIFJvb3QgUjEwHhcNMjAwODEzMDAwMDQyWhcNMjcwOTMwMDAwMDQyWjBGMQswCQYDVQQGEwJVUzEiMCAGA1UEChMZR29vZ2xlIFRydXN0IFNlcnZpY2VzIExMQzETMBEGA1UEAxMKR1RTIENBIDFQNTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBALOC8CSMvy2Hr7LZp676yrpE1ls+/rL3smUW3N4Q6E8tEFhaKIaHoe5qs6DZdU9/oVIBi1WoSlsGSMg2EiWrifnyI1+dYGX5XNq+OuhcbX2c0IQYhTDNTpvsPNiz4ZbU88ULZduPsHTL9h7zePGslcXdc8MxiIGvdKpv/QzjBZXwxRBPZWP6oK/GGD3Fod+XedcFibMwsHSuPZIQa4wVd90LBFf7gQPd6iI01eVWsvDEjUGxwwLbYuyA0P921IbkBBq2tgwrYnF92a/Z8V76wB7KoBlcVfCA0SoMB4aQnzXjKCtb7yPIox2kozru/oPcgkwlsE3FUa2em9NbhMIaWukCAwEAAaOCAXYwggFyMA4GA1UdDwEB/wQEAwIBhjAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwEgYDVR0TAQH/BAgwBgEB/wIBADAdBgNVHQ4EFgQU1fyeDd8eyt0Il5duK8VfxSv17LgwHwYDVR0jBBgwFoAU5K8rJnEaK0gnhS9SZizv8IkTcT4waAYIKwYBBQUHAQEEXDBaMCYGCCsGAQUFBzABhhpodHRwOi8vb2NzcC5wa2kuZ29vZy9ndHNyMTAwBggrBgEFBQcwAoYkaHR0cDovL3BraS5nb29nL3JlcG8vY2VydHMvZ3RzcjEuZGVyMDQGA1UdHwQtMCswKaAnoCWGI2h0dHA6Ly9jcmwucGtpLmdvb2cvZ3RzcjEvZ3RzcjEuY3JsME0GA1UdIARGMEQwOAYKKwYBBAHWeQIFAzAqMCgGCCsGAQUFBwIBFhxodHRwczovL3BraS5nb29nL3JlcG9zaXRvcnkvMAgGBmeBDAECATANBgkqhkiG9w0BAQsFAAOCAgEAbGMn7iPf5VJoTYFmkYXffWXlWzcxCCayB12avrHKAbmtv5139lEd15jFC0mhe6HX02jlRA+LujbdQoJ30o3d9T/768gHmJPuWtC1Pd5LHC2MTex+jHv+TkD98LSzWQIQUVzjwCv9twZIUX4JXj8P3Kf+l+d5xQ5EiXjFaVkpoJo6SDYpppSTVS24R7XplrWfB82mqz4yisCGg8XBQcifLzWODcAHeuGsyWW1y4qn3XHYYWU5hKwyPvd6NvFWn1epQW1akKfbOup1gAxjC2l0bwdMFfM3KKUZpG719iDNY7J+xCsJdYna0Twuck82GqGeRNDNm6YjCD+XoaeeWqX3CZStXXZdKFbRGmZRUQd73j2wyO8weiQtvrizhvZL9/C1T//Oxvn2PyonCA8JPiNax+NCLXo25D2YlmA5mOrR22Mq63gJsU4hs463zj6S8ZVcpDnQwCvIUxX10i+CzQZ0Z5mQdzcKly3FHB700FvpFePqAgnIE9cTcGW/+4ibWiW+dwnhp2pOEXW5Hk3xABtqZnmOw27YbaIiom0F+yzy8VDloNHYnzV9/HCrWSoC8b6w0/H4zRK5aiWQW+OFIOb12stAHBk0IANhd7p/SA9JCynr52Fkx2PRR+sc4e6URu85c8zuTyuN3PtYp7NlIJmVuftVb9eWbpQ99HqSjmMd320=\n-----END CERTIFICATE-----"
+              "finding"      : "-----BEGIN CERTIFICATE-----\nMIICnzCCAiWgAwIBAgIQf/MZd5csIkp2FV0TttaF4zAKBggqhkjOPQQDAzBHMQswCQYDVQQGEwJVUzEiMCAGA1UEChMZR29vZ2xlIFRydXN0IFNlcnZpY2VzIExMQzEUMBIGA1UEAxMLR1RTIFJvb3QgUjQwHhcNMjMxMjEzMDkwMDAwWhcNMjkwMjIwMTQwMDAwWjA7MQswCQYDVQQGEwJVUzEeMBwGA1UEChMVR29vZ2xlIFRydXN0IFNlcnZpY2VzMQwwCgYDVQQDEwNXRTEwWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAARvzTr+Z1dHTCEDhUDCR127WEcPQMFcF4XGGTfn1XzthkubgdnXGhOlCgP4mMTG6J7/EFmPLCaY9eYmJbsPAvpWo4H+MIH7MA4GA1UdDwEB/wQEAwIBhjAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwEgYDVR0TAQH/BAgwBgEB/wIBADAdBgNVHQ4EFgQUkHeSNWfE/6jMqeZ72YB5e8yT+TgwHwYDVR0jBBgwFoAUgEzW63T/STaj1dj8tT7FavCUHYwwNAYIKwYBBQUHAQEEKDAmMCQGCCsGAQUFBzAChhhodHRwOi8vaS5wa2kuZ29vZy9yNC5jcnQwKwYDVR0fBCQwIjAgoB6gHIYaaHR0cDovL2MucGtpLmdvb2cvci9yNC5jcmwwEwYDVR0gBAwwCjAIBgZngQwBAgEwCgYIKoZIzj0EAwMDaAAwZQIxAOcCq1HW90OVznX+0RGU1cxAQXomvtgM8zItPZCuFQ8jSBJSjz5keROv9aYsAm5VsQIwJonMaAFi54mrfhfoFNZEfuNMSQ6/bIBiNLiyoX46FohQvKeIoJ99cx7sUkFN7uJW\n-----END CERTIFICATE-----"
           }
 ,         {
               "id"           : "intermediate_cert_fingerprintSHA256 <#1>",
               "ip"           : "conseil-refondation.fr/104.21.7.98",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "97D42003E132552946097F20EF955F5B1CD570AA4372D780033A65EFBE69758D"
+              "finding"      : "1DFC1605FBAD358D8BC844F76D15203FAC9CA5C1A79FD4857FFAF2864FBEBF96"
           }
 ,         {
               "id"           : "intermediate_cert_notBefore <#1>",
               "ip"           : "conseil-refondation.fr/104.21.7.98",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "2020-08-13 00:00"
+              "finding"      : "2023-12-13 09:00"
           }
 ,         {
               "id"           : "intermediate_cert_notAfter <#1>",
               "ip"           : "conseil-refondation.fr/104.21.7.98",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "2027-09-30 00:00"
+              "finding"      : "2029-02-20 14:00"
           }
 ,         {
               "id"           : "intermediate_cert_expiration <#1>",
@@ -1694,28 +1694,28 @@
               "ip"           : "conseil-refondation.fr/104.21.7.98",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "GTS CA 1P5 <-- GTS Root R1"
+              "finding"      : "WE1 <-- GTS Root R4"
           }
 ,         {
               "id"           : "intermediate_cert <#2>",
               "ip"           : "conseil-refondation.fr/104.21.7.98",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "-----BEGIN CERTIFICATE-----\nMIIFYjCCBEqgAwIBAgIQd70NbNs2+RrqIQ/E8FjTDTANBgkqhkiG9w0BAQsFADBXMQswCQYDVQQGEwJCRTEZMBcGA1UEChMQR2xvYmFsU2lnbiBudi1zYTEQMA4GA1UECxMHUm9vdCBDQTEbMBkGA1UEAxMSR2xvYmFsU2lnbiBSb290IENBMB4XDTIwMDYxOTAwMDA0MloXDTI4MDEyODAwMDA0MlowRzELMAkGA1UEBhMCVVMxIjAgBgNVBAoTGUdvb2dsZSBUcnVzdCBTZXJ2aWNlcyBMTEMxFDASBgNVBAMTC0dUUyBSb290IFIxMIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEAthECix7joXebO9y/lD63ladAPKH9gvl9MgaCcfb2jH/76Nu8ai6Xl6OMS/kr9rH5zoQdsfnFl97vufKj6bwSiV6nqlKr+CMny6SxnGPb15l+8Ape62im9MZaRw1NEDPjTrETo8gYbEvs/AmQ351kKSUjB6G00j0uYODP0gmHu81I8E3CwnqIiru6z1kZ1q+PsAewnjHxgsHA3y6mbWwZDrXYfiYaRQM9sHmklCitD38m5agI/pboPGiUU+6DOogrFZYJsuB6jC511pzrp1Zkj5ZPaK49l8KEj8C8QMALXL32h7M1bKwYUH+E4EzNktMg6TO8UpmvMrUpsyUqtEj5cuHKZPfmghCN6J3Cioj6OGaK/GP5Afl4/Xtcd/p2h/rs37EOeZVXtL0m79YB0esWCruOC7XFxYpVq9Os6pFLKcwZpDIlTirxZUTQAs6qzkm06p98g7BAe+dDq6dso499iYH6TKX/1Y7DzkvgtdizjkXPdsDtQCv9Uw+wp9U7DbGKogPeMa3Md+pvez7W35EiEua++tgy/BBjFFFy3l3WFpO9KWgz7zpm7AeKJt8T11dleCfeXkkUAKIAf5qoIbapsZWwpbkNFhHax2xIPEDgfg1azVY80ZcFuctL7TlLnMQ/0lUTbiSw1nH69MG6zO0b9f6BQdgAmD06yK56mDcYBZUCAwEAAaOCATgwggE0MA4GA1UdDwEB/wQEAwIBhjAPBgNVHRMBAf8EBTADAQH/MB0GA1UdDgQWBBTkrysmcRorSCeFL1JmLO/wiRNxPjAfBgNVHSMEGDAWgBRge2YaRQ2XyolQL30EzTSo//z9SzBgBggrBgEFBQcBAQRUMFIwJQYIKwYBBQUHMAGGGWh0dHA6Ly9vY3NwLnBraS5nb29nL2dzcjEwKQYIKwYBBQUHMAKGHWh0dHA6Ly9wa2kuZ29vZy9nc3IxL2dzcjEuY3J0MDIGA1UdHwQrMCkwJ6AloCOGIWh0dHA6Ly9jcmwucGtpLmdvb2cvZ3NyMS9nc3IxLmNybDA7BgNVHSAENDAyMAgGBmeBDAECATAIBgZngQwBAgIwDQYLKwYBBAHWeQIFAwIwDQYLKwYBBAHWeQIFAwMwDQYJKoZIhvcNAQELBQADggEBADSkHrEoo9C0dhemMXoh6dFSPsjbdBZBiLg9NR3t5P+T4Vxfq7vqfM/b5A3Ri1fyJm9bvhdGaJQ3b2t6yMAYN/olUazsaL+yyEn9WprKASOshIArAoyZl+tJaox118fessmXn1hIVw41oeQa1v1vg4Fv74zPl6/AhSrw9U5pCZEt4Wi4wStz6dTZ/CLANx8LZh1J7QJVj2fhMtfTJr9w4z30Z209fOU0iOMy+qduBmpvvYuR7hZL6Dupszfnw0Skfths18dG9ZKb59UhvmaSGZRVbNQpsg3BZlvid0lIKO2d1xozclOzgjXPYovJJIultzkMu34qQb9Sz/yilrbCgj8=\n-----END CERTIFICATE-----"
+              "finding"      : "-----BEGIN CERTIFICATE-----\nMIIDejCCAmKgAwIBAgIQf+UwvzMTQ77dghYQST2KGzANBgkqhkiG9w0BAQsFADBXMQswCQYDVQQGEwJCRTEZMBcGA1UEChMQR2xvYmFsU2lnbiBudi1zYTEQMA4GA1UECxMHUm9vdCBDQTEbMBkGA1UEAxMSR2xvYmFsU2lnbiBSb290IENBMB4XDTIzMTExNTAzNDMyMVoXDTI4MDEyODAwMDA0MlowRzELMAkGA1UEBhMCVVMxIjAgBgNVBAoTGUdvb2dsZSBUcnVzdCBTZXJ2aWNlcyBMTEMxFDASBgNVBAMTC0dUUyBSb290IFI0MHYwEAYHKoZIzj0CAQYFK4EEACIDYgAE83Rzp2iLYK5DuDXFgTB7S0md+8FhzubeRr1r1WEYNa5A3XP3iZEwWus87oV8okB2O6nGuEfYKueSkWpz6bFyOZ8pn6KY019eWIZlD6GEZQbR3IvJx3PIjGov5cSr0R2Ko4H/MIH8MA4GA1UdDwEB/wQEAwIBhjAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwDwYDVR0TAQH/BAUwAwEB/zAdBgNVHQ4EFgQUgEzW63T/STaj1dj8tT7FavCUHYwwHwYDVR0jBBgwFoAUYHtmGkUNl8qJUC99BM00qP/8/UswNgYIKwYBBQUHAQEEKjAoMCYGCCsGAQUFBzAChhpodHRwOi8vaS5wa2kuZ29vZy9nc3IxLmNydDAtBgNVHR8EJjAkMCKgIKAehhxodHRwOi8vYy5wa2kuZ29vZy9yL2dzcjEuY3JsMBMGA1UdIAQMMAowCAYGZ4EMAQIBMA0GCSqGSIb3DQEBCwUAA4IBAQAYQrsPBtYDh5bjP2OBDwmkoWhIDDkic574y04tfzHpn+cJodI2D4SseesQ6bDrarZ7C30ddLibZatoKiws3UL9xnELz4ct92vID24FfVbiI1hY+SW6FoVHkNeWIP0GCbaM4C6uVdF5dTUsMVs/ZbzNnIdCp5Gxmx5ejvEau8otR/CskGN+hr/W5GvT1tMBjgWKZ1i4//emhA1JG1BbPzoLJQvyEotc03lXjTaCzv8mEbep8RqZ7a2CPsgRbuvTPBwcOMBBmuFeU88+FSBX6+7iP0il8b4Z0QFqIwwMHfs/L6K1vepuoxtGzi4CZ68zJpiq1UvSqTbFJjtbD4seiMHl\n-----END CERTIFICATE-----"
           }
 ,         {
               "id"           : "intermediate_cert_fingerprintSHA256 <#2>",
               "ip"           : "conseil-refondation.fr/104.21.7.98",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "3EE0278DF71FA3C125C4CD487F01D774694E6FC57E0CD94C24EFD769133918E5"
+              "finding"      : "76B27B80A58027DC3CF1DA68DAC17010ED93997D0B603E2FADBE85012493B5A7"
           }
 ,         {
               "id"           : "intermediate_cert_notBefore <#2>",
               "ip"           : "conseil-refondation.fr/104.21.7.98",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "2020-06-19 00:00"
+              "finding"      : "2023-11-15 03:43"
           }
 ,         {
               "id"           : "intermediate_cert_notAfter <#2>",
@@ -1736,7 +1736,7 @@
               "ip"           : "conseil-refondation.fr/104.21.7.98",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "GTS Root R1 <-- GlobalSign Root CA"
+              "finding"      : "GTS Root R4 <-- GlobalSign Root CA"
           }
 ,         {
               "id"           : "intermediate_cert_badOCSP",
@@ -1764,7 +1764,7 @@
               "ip"           : "conseil-refondation.fr/104.21.7.98",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1718530115"
+              "finding"      : "1719740016"
           }
 ,         {
               "id"           : "HSTS",
@@ -1871,7 +1871,7 @@
               "severity"     : "OK",
               "cve"          : "CVE-2017-17382 CVE-2017-17427 CVE-2017-17428 CVE-2017-13098 CVE-2017-1000385 CVE-2017-13099 CVE-2016-6883 CVE-2012-5081 CVE-2017-6168",
               "cwe"          : "CWE-203",
-              "finding"      : "not vulnerable"
+              "finding"      : "not vulnerable, no RSA key transport cipher"
           }
 ,         {
               "id"           : "secure_renego",
@@ -1928,10 +1928,10 @@
               "id"           : "SWEET32",
               "ip"           : "conseil-refondation.fr/104.21.7.98",
               "port"         : "443",
-              "severity"     : "LOW",
+              "severity"     : "OK",
               "cve"          : "CVE-2016-2183 CVE-2016-6329",
               "cwe"          : "CWE-327",
-              "finding"      : "uses 64 bit block ciphers"
+              "finding"      : "not vulnerable"
           }
 ,         {
               "id"           : "FREAK",
@@ -1958,7 +1958,7 @@
               "severity"     : "INFO",
               "cve"          : "CVE-2016-0800 CVE-2016-0703",
               "cwe"          : "CWE-310",
-              "finding"      : "Make sure you don't use this certificate elsewhere with SSLv2 enabled services, see https://search.censys.io/search?resource=hosts&virtual_hosts=INCLUDE&q=21823F202F7B6F3D508F8A9358386AF4DC4004CC201676C0DCC329E9CCD57D0D"
+              "finding"      : "no RSA certificate, can't be used with SSLv2 elsewhere"
           }
 ,         {
               "id"           : "LOGJAM",
@@ -1985,7 +1985,7 @@
               "severity"     : "MEDIUM",
               "cve"          : "CVE-2011-3389",
               "cwe"          : "CWE-20",
-              "finding"      : "ECDHE-RSA-AES128-SHA AES128-SHA ECDHE-RSA-AES256-SHA AES256-SHA DES-CBC3-SHA"
+              "finding"      : "ECDHE-ECDSA-AES128-SHA ECDHE-ECDSA-AES256-SHA"
           }
 ,         {
               "id"           : "BEAST",
@@ -2028,21 +2028,21 @@
               "ip"           : "conseil-refondation.fr/104.21.7.98",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "TLSv1.2 ECDHE-RSA-CHACHA20-POLY1305-OLD"
+              "finding"      : "TLSv1.2 ECDHE-ECDSA-CHACHA20-POLY1305-OLD"
           }
 ,         {
               "id"           : "clientsimulation-android_70",
               "ip"           : "conseil-refondation.fr/104.21.7.98",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "TLSv1.2 ECDHE-RSA-AES128-GCM-SHA256"
+              "finding"      : "TLSv1.2 ECDHE-ECDSA-AES128-GCM-SHA256"
           }
 ,         {
               "id"           : "clientsimulation-android_81",
               "ip"           : "conseil-refondation.fr/104.21.7.98",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "TLSv1.2 ECDHE-RSA-AES128-GCM-SHA256"
+              "finding"      : "TLSv1.2 ECDHE-ECDSA-AES128-GCM-SHA256"
           }
 ,         {
               "id"           : "clientsimulation-android_90",
@@ -2112,7 +2112,7 @@
               "ip"           : "conseil-refondation.fr/104.21.7.98",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "TLSv1.0 ECDHE-RSA-AES128-SHA"
+              "finding"      : "TLSv1.0 ECDHE-ECDSA-AES128-SHA"
           }
 ,         {
               "id"           : "clientsimulation-ie_8_xp",
@@ -2126,35 +2126,35 @@
               "ip"           : "conseil-refondation.fr/104.21.7.98",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "TLSv1.2 ECDHE-RSA-AES128-SHA"
+              "finding"      : "TLSv1.2 ECDHE-ECDSA-AES128-GCM-SHA256"
           }
 ,         {
               "id"           : "clientsimulation-ie_11_win81",
               "ip"           : "conseil-refondation.fr/104.21.7.98",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "TLSv1.2 ECDHE-RSA-AES128-SHA"
+              "finding"      : "TLSv1.2 ECDHE-ECDSA-AES128-GCM-SHA256"
           }
 ,         {
               "id"           : "clientsimulation-ie_11_winphone81",
               "ip"           : "conseil-refondation.fr/104.21.7.98",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "TLSv1.2 ECDHE-RSA-AES128-SHA"
+              "finding"      : "TLSv1.2 ECDHE-ECDSA-AES128-GCM-SHA256"
           }
 ,         {
               "id"           : "clientsimulation-ie_11_win10",
               "ip"           : "conseil-refondation.fr/104.21.7.98",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "TLSv1.2 ECDHE-RSA-AES128-GCM-SHA256"
+              "finding"      : "TLSv1.2 ECDHE-ECDSA-AES128-GCM-SHA256"
           }
 ,         {
               "id"           : "clientsimulation-edge_15_win10",
               "ip"           : "conseil-refondation.fr/104.21.7.98",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "TLSv1.2 ECDHE-RSA-AES128-GCM-SHA256"
+              "finding"      : "TLSv1.2 ECDHE-ECDSA-AES128-GCM-SHA256"
           }
 ,         {
               "id"           : "clientsimulation-edge_101_win10_21h2",
@@ -2189,14 +2189,14 @@
               "ip"           : "conseil-refondation.fr/104.21.7.98",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "TLSv1.0 ECDHE-RSA-AES128-SHA"
+              "finding"      : "TLSv1.0 ECDHE-ECDSA-AES128-SHA"
           }
 ,         {
               "id"           : "clientsimulation-java_8u161",
               "ip"           : "conseil-refondation.fr/104.21.7.98",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "TLSv1.2 ECDHE-RSA-AES128-GCM-SHA256"
+              "finding"      : "TLSv1.2 ECDHE-ECDSA-AES128-GCM-SHA256"
           }
 ,         {
               "id"           : "clientsimulation-java1102",
@@ -2224,21 +2224,21 @@
               "ip"           : "conseil-refondation.fr/104.21.7.98",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "TLSv1.2 ECDHE-RSA-CHACHA20-POLY1305"
+              "finding"      : "TLSv1.2 ECDHE-ECDSA-CHACHA20-POLY1305"
           }
 ,         {
               "id"           : "clientsimulation-openssl_102e",
               "ip"           : "conseil-refondation.fr/104.21.7.98",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "TLSv1.2 ECDHE-RSA-AES128-GCM-SHA256"
+              "finding"      : "TLSv1.2 ECDHE-ECDSA-AES128-GCM-SHA256"
           }
 ,         {
               "id"           : "clientsimulation-openssl_110l",
               "ip"           : "conseil-refondation.fr/104.21.7.98",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "TLSv1.2 ECDHE-RSA-CHACHA20-POLY1305"
+              "finding"      : "TLSv1.2 ECDHE-ECDSA-CHACHA20-POLY1305"
           }
 ,         {
               "id"           : "clientsimulation-openssl_111d",
@@ -2259,7 +2259,7 @@
               "ip"           : "conseil-refondation.fr/104.21.7.98",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "TLSv1.2 ECDHE-RSA-AES128-GCM-SHA256"
+              "finding"      : "TLSv1.2 ECDHE-ECDSA-AES128-GCM-SHA256"
           }
 ,         {
               "id"           : "clientsimulation-thunderbird_91_9",
@@ -2301,14 +2301,14 @@
               "ip"           : "conseil-refondation.fr/104.21.7.98",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "90"
+              "finding"      : "100"
           }
 ,         {
               "id"           : "key_exchange_score_weighted",
               "ip"           : "conseil-refondation.fr/104.21.7.98",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "27"
+              "finding"      : "30"
           }
 ,         {
               "id"           : "cipher_strength_score",
@@ -2329,7 +2329,7 @@
               "ip"           : "conseil-refondation.fr/104.21.7.98",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "79"
+              "finding"      : "82"
           }
 ,         {
               "id"           : "overall_grade",
@@ -2364,6 +2364,6 @@
               "ip"           : "conseil-refondation.fr/104.21.7.98",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "119"
+              "finding"      : "81"
           }
 ]
