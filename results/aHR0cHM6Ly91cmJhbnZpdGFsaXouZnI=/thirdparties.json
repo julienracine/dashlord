@@ -18,7 +18,7 @@
     },
     {
       "type": "unknown",
-      "url": "https://stats.recoconseil.fr/matomo.php?action_name=R%C3%A9habiliter%20une%20friche%20-%20UrbanVitaliz&idsite=2&rec=1&r=958546&h=11&m=36&s=22&url=https%3A%2F%2Furbanvitaliz.fr%2F&_id=e910cf552305006b&_idn=1&send_image=0&_refts=0&pv_id=nvxrCb&pf_net=321&pf_srv=182&pf_tfr=152&pf_dm1=1269&uadata=%7B%22fullVersionList%22%3A%5B%5D%2C%22mobile%22%3Afalse%2C%22model%22%3A%22%22%2C%22platform%22%3A%22%22%2C%22platformVersion%22%3A%22%22%7D&cookie=1&res=800x600"
+      "url": "https://stats.recoconseil.fr/matomo.php?action_name=R%C3%A9habiliter%20une%20friche%20-%20UrbanVitaliz&idsite=2&rec=1&r=445581&h=11&m=27&s=13&url=https%3A%2F%2Furbanvitaliz.fr%2F&_id=01aa1d3469b4b639&_idn=1&send_image=0&_refts=0&pv_id=RnTTcv&pf_net=185&pf_srv=115&pf_tfr=84&pf_dm1=736&uadata=%7B%22fullVersionList%22%3A%5B%5D%2C%22mobile%22%3Afalse%2C%22model%22%3A%22%22%2C%22platform%22%3A%22%22%2C%22platformVersion%22%3A%22%22%7D&cookie=1&res=800x600"
     }
   ],
   "cookies": [
@@ -27,7 +27,7 @@
       "value": "1",
       "domain": "urbanvitaliz.fr",
       "path": "/",
-      "expires": 1719144382,
+      "expires": 1719748633,
       "size": 15,
       "httpOnly": false,
       "secure": false,
@@ -39,10 +39,10 @@
     },
     {
       "name": "_pk_id.2.30f1",
-      "value": "e910cf552305006b.1719142582.",
+      "value": "01aa1d3469b4b639.1719746834.",
       "domain": "urbanvitaliz.fr",
       "path": "/",
-      "expires": 1753097782,
+      "expires": 1753702034,
       "size": 41,
       "httpOnly": false,
       "secure": false,
@@ -54,10 +54,10 @@
     },
     {
       "name": "csrftoken",
-      "value": "kbKn950pA8MoHlzGu8d7wJO6dFb2oPhC",
+      "value": "33FilgdxuarajbxLAzW0c5ypM3GNSRbR",
       "domain": "urbanvitaliz.fr",
       "path": "/",
-      "expires": 1750592180.256049,
+      "expires": 1751196432.97631,
       "size": 41,
       "httpOnly": false,
       "secure": true,
@@ -69,12 +69,12 @@
     }
   ],
   "headers": {
-    "content-length": "38043",
+    "content-length": "38030",
     "content-type": "text/html; charset=utf-8",
     "cross-origin-opener-policy": "same-origin",
-    "date": "Sun, 23 Jun 2024 11:36:20 GMT",
+    "date": "Sun, 30 Jun 2024 11:27:12 GMT",
     "referrer-policy": "same-origin",
-    "set-cookie": "csrftoken=kbKn950pA8MoHlzGu8d7wJO6dFb2oPhC; expires=Sun, 22 Jun 2025 11:36:20 GMT; Max-Age=31449600; Path=/; SameSite=None; Secure",
+    "set-cookie": "csrftoken=33FilgdxuarajbxLAzW0c5ypM3GNSRbR; expires=Sun, 29 Jun 2025 11:27:12 GMT; Max-Age=31449600; Path=/; SameSite=None; Secure",
     "strict-transport-security": "max-age=31536000; includeSubDomains",
     "vary": "Cookie",
     "via": "2.0 alproxy",
@@ -140,7 +140,7 @@
     },
     {
       "hostname": "browser.sentry-cdn.com",
-      "ip": "151.101.2.217",
+      "ip": "151.101.194.217",
       "geoip": {
         "city": {
           "geoname_id": 5391959,
@@ -227,8 +227,55 @@
     },
     {
       "hostname": "cdn.jsdelivr.net",
-      "ip": "104.18.187.31",
+      "ip": "146.75.37.229",
       "geoip": {
+        "city": {
+          "geoname_id": 4781530,
+          "names": {
+            "de": "Reston",
+            "en": "Reston",
+            "ja": "レストン",
+            "ru": "Рестон"
+          }
+        },
+        "continent": {
+          "code": "NA",
+          "geoname_id": 6255149,
+          "names": {
+            "de": "Nordamerika",
+            "en": "North America",
+            "es": "Norteamérica",
+            "fr": "Amérique du Nord",
+            "ja": "北アメリカ",
+            "pt-BR": "América do Norte",
+            "ru": "Северная Америка",
+            "zh-CN": "北美洲"
+          }
+        },
+        "country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "USA",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        },
+        "location": {
+          "accuracy_radius": 20,
+          "latitude": 38.9609,
+          "longitude": -77.3429,
+          "metro_code": 511,
+          "time_zone": "America/New_York"
+        },
+        "postal": {
+          "code": "20190"
+        },
         "registered_country": {
           "geoname_id": 6252001,
           "iso_code": "US",
@@ -242,7 +289,23 @@
             "ru": "США",
             "zh-CN": "美国"
           }
-        }
+        },
+        "subdivisions": [
+          {
+            "geoname_id": 6254928,
+            "iso_code": "VA",
+            "names": {
+              "de": "Virginia",
+              "en": "Virginia",
+              "es": "Virginia",
+              "fr": "Virginie",
+              "ja": "バージニア州",
+              "pt-BR": "Virgínia",
+              "ru": "Вирджиния",
+              "zh-CN": "弗吉尼亚州"
+            }
+          }
+        ]
       }
     },
     {
