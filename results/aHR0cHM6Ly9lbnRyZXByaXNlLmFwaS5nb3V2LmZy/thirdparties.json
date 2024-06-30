@@ -87,7 +87,7 @@
       "value": "1",
       "domain": "entreprise.api.gouv.fr",
       "path": "/",
-      "expires": 1719113394,
+      "expires": 1719718906,
       "size": 16,
       "httpOnly": false,
       "secure": false,
@@ -99,10 +99,10 @@
     },
     {
       "name": "_pk_id.45.28f1",
-      "value": "f90bf4fdc56947f6.1719111595.",
+      "value": "d096a58c85c6bbb3.1719717106.",
       "domain": "entreprise.api.gouv.fr",
       "path": "/",
-      "expires": 1753066795,
+      "expires": 1753672306,
       "size": 42,
       "httpOnly": false,
       "secure": false,
@@ -114,7 +114,7 @@
     },
     {
       "name": "_admin_apientreprise_session",
-      "value": "K2CUGocg777v%2FSkYKP1v7gFY7gKbmxIuGblAYVGOm98x%2BMXREeEsFaiOuJ4wPFMfjuFhcwZLNZgUsWU5LguMUzMSNwiGCY6tlJDKqlXSzkw%2FrFUjHT9QE4FKHF3AFpY%2FD6aCOtc3V9wxkDQWhgw0YSzNAcJ%2FEQWyhkatz43bl8t6vgaHDPgtCCFxnpenlwWop3pUJ7rWlge23wJZ2wu4phURee6GgEUG1QkAUTOGHiZhd%2BChW8VmL0B%2BRTMEVobvvz%2BIZwfmUUwenSTOMpwL7qjBIbKEvTglqwz253SvLvHKVUBO--eVPh2hNd3aqCeUNS--Lw7Z%2BkLmAiXFYtNYZooONQ%3D%3D",
+      "value": "VGPhJMOHLghK5X1t3pQymnXs%2FjkeDe9gP6HUUyegAWlRZKAdGfCZnFJJOIO3iLufgYb5DRDPCaz7rOATwEpW%2FsoT8AeeJxudGLVpLgN%2BiKRe9%2BiozzTBiN%2BnOMWKV%2FCKuov%2Fq1nh47jEikrYKlXs1V5u%2BHbxbVrGNqxdgSrvIOzlmO9XK6thv9CZJ5rXHKpNEAKhfJikXahN4mR2qJx67Aeft8nYectWj2iY40anPRfr4gc1RH94PA1XmyIjae5M7MmmINcoDHlEHmeRJAol6yCUFuaP%2Fo7HJdvUn0QlYilRUUX6--GKQKEbWzFXyjW49v--0YmYkMTElZVkcQsfFfbrCw%3D%3D",
       "domain": "entreprise.api.gouv.fr",
       "path": "/",
       "expires": -1,
@@ -130,22 +130,22 @@
   ],
   "headers": {
     "connection": "keep-alive",
-    "content-length": "48350",
+    "content-length": "48370",
     "content-type": "text/html; charset=utf-8",
-    "date": "Sun, 23 Jun 2024 02:59:53 GMT",
+    "date": "Sun, 30 Jun 2024 03:11:43 GMT",
     "server": "nginx",
     "strict-transport-security": "max-age=63072000",
     "cache-control": "max-age=0, private, must-revalidate",
-    "etag": "W/\"21254313f48ccf977f8398c4c692ea85\"",
+    "etag": "W/\"42a452001287e3471e43a8902425866e\"",
     "link": "</assets/api_entreprise-72bfb4c5539d636bef9dafeedcf2ba00801f94d948ce29b54666f3d1d0762ecf.css>; rel=preload; as=style; nopush,</assets/api_entreprise-f1c38127d41d397825b021039e616a7c5331491084c8184c198f432417f600b8.js>; rel=preload; as=script; nopush,</assets/turbo-6f8f1796078d2d3f7cb9b6badcd2d5e76287a3c58d97baffaa59dd12bd4135f5.js>; rel=modulepreload; as=script; nopush",
     "referrer-policy": "strict-origin-when-cross-origin",
-    "set-cookie": "_admin_apientreprise_session=K2CUGocg777v%2FSkYKP1v7gFY7gKbmxIuGblAYVGOm98x%2BMXREeEsFaiOuJ4wPFMfjuFhcwZLNZgUsWU5LguMUzMSNwiGCY6tlJDKqlXSzkw%2FrFUjHT9QE4FKHF3AFpY%2FD6aCOtc3V9wxkDQWhgw0YSzNAcJ%2FEQWyhkatz43bl8t6vgaHDPgtCCFxnpenlwWop3pUJ7rWlge23wJZ2wu4phURee6GgEUG1QkAUTOGHiZhd%2BChW8VmL0B%2BRTMEVobvvz%2BIZwfmUUwenSTOMpwL7qjBIbKEvTglqwz253SvLvHKVUBO--eVPh2hNd3aqCeUNS--Lw7Z%2BkLmAiXFYtNYZooONQ%3D%3D; path=/; secure; httponly; samesite=lax",
+    "set-cookie": "_admin_apientreprise_session=VGPhJMOHLghK5X1t3pQymnXs%2FjkeDe9gP6HUUyegAWlRZKAdGfCZnFJJOIO3iLufgYb5DRDPCaz7rOATwEpW%2FsoT8AeeJxudGLVpLgN%2BiKRe9%2BiozzTBiN%2BnOMWKV%2FCKuov%2Fq1nh47jEikrYKlXs1V5u%2BHbxbVrGNqxdgSrvIOzlmO9XK6thv9CZJ5rXHKpNEAKhfJikXahN4mR2qJx67Aeft8nYectWj2iY40anPRfr4gc1RH94PA1XmyIjae5M7MmmINcoDHlEHmeRJAol6yCUFuaP%2Fo7HJdvUn0QlYilRUUX6--GKQKEbWzFXyjW49v--0YmYkMTElZVkcQsfFfbrCw%3D%3D; path=/; secure; httponly; samesite=lax",
     "vary": "Origin",
     "x-content-type-options": "nosniff",
     "x-frame-options": "SAMEORIGIN",
     "x-permitted-cross-domain-policies": "none",
-    "x-request-id": "93294138-62d6-427a-868c-c4f26e180944",
-    "x-runtime": "0.138226",
+    "x-request-id": "7a63880d-3d5a-4a1e-9324-3c5ad16ff56e",
+    "x-runtime": "0.107876",
     "x-xss-protection": "0"
   },
   "endpoints": [
@@ -207,8 +207,59 @@
     },
     {
       "hostname": "cdn.jsdelivr.net",
-      "ip": "104.18.187.31",
+      "ip": "151.101.201.229",
       "geoip": {
+        "city": {
+          "geoname_id": 5391959,
+          "names": {
+            "de": "San Francisco",
+            "en": "San Francisco",
+            "es": "San Francisco",
+            "fr": "San Francisco",
+            "ja": "サンフランシスコ",
+            "pt-BR": "São Francisco",
+            "ru": "Сан-Франциско",
+            "zh-CN": "旧金山"
+          }
+        },
+        "continent": {
+          "code": "NA",
+          "geoname_id": 6255149,
+          "names": {
+            "de": "Nordamerika",
+            "en": "North America",
+            "es": "Norteamérica",
+            "fr": "Amérique du Nord",
+            "ja": "北アメリカ",
+            "pt-BR": "América do Norte",
+            "ru": "Северная Америка",
+            "zh-CN": "北美洲"
+          }
+        },
+        "country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "USA",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        },
+        "location": {
+          "accuracy_radius": 1000,
+          "latitude": 37.7642,
+          "longitude": -122.3993,
+          "metro_code": 807,
+          "time_zone": "America/Los_Angeles"
+        },
+        "postal": {
+          "code": "94107"
+        },
         "registered_country": {
           "geoname_id": 6252001,
           "iso_code": "US",
@@ -222,12 +273,28 @@
             "ru": "США",
             "zh-CN": "美国"
           }
-        }
+        },
+        "subdivisions": [
+          {
+            "geoname_id": 5332921,
+            "iso_code": "CA",
+            "names": {
+              "de": "Kalifornien",
+              "en": "California",
+              "es": "California",
+              "fr": "Californie",
+              "ja": "カリフォルニア州",
+              "pt-BR": "Califórnia",
+              "ru": "Калифорния",
+              "zh-CN": "加州"
+            }
+          }
+        ]
       }
     },
     {
       "hostname": "unpkg.com",
-      "ip": "104.17.245.203",
+      "ip": "104.17.247.203",
       "geoip": {
         "registered_country": {
           "geoname_id": 6252001,
@@ -334,7 +401,7 @@
     },
     {
       "hostname": "fonts.googleapis.com",
-      "ip": "142.250.190.138",
+      "ip": "142.250.189.170",
       "geoip": {
         "continent": {
           "code": "NA",
