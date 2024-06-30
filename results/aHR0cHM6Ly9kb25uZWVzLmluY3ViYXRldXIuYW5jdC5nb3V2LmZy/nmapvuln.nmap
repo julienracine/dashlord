@@ -1,22 +1,30 @@
-# Nmap 7.92 scan initiated Sun Jun 23 09:42:45 2024 as: nmap -sV --script vulners --script-args mincvss=5.0 -oA /data/nmapvuln donnees.incubateur.anct.gouv.fr
+# Nmap 7.92 scan initiated Sun Jun 30 09:45:16 2024 as: nmap -sV --script vulners --script-args mincvss=5.0 -oA /data/nmapvuln donnees.incubateur.anct.gouv.fr
 Nmap scan report for donnees.incubateur.anct.gouv.fr (51.159.153.132)
-Host is up (0.086s latency).
+Host is up (0.14s latency).
 rDNS record for 51.159.153.132: 132-153-159-51.instances.scw.cloud
 Not shown: 994 closed tcp ports (reset)
 PORT     STATE SERVICE    VERSION
 22/tcp   open  ssh        OpenSSH 8.2p1 Ubuntu 4ubuntu0.11 (Ubuntu Linux; protocol 2.0)
 | vulners: 
 |   cpe:/a:openbsd:openssh:8.2p1: 
+|     	CVE-2023-38408	9.8	https://vulners.com/cve/CVE-2023-38408
+|     	B8190CDB-3EB9-5631-9828-8064A1575B23	9.8	https://vulners.com/githubexploit/B8190CDB-3EB9-5631-9828-8064A1575B23	*EXPLOIT*
+|     	8FC9C5AB-3968-5F3C-825E-E8DB5379A623	9.8	https://vulners.com/githubexploit/8FC9C5AB-3968-5F3C-825E-E8DB5379A623	*EXPLOIT*
 |     	CVE-2020-15778	7.8	https://vulners.com/cve/CVE-2020-15778
+|     	SSV:92579	7.5	https://vulners.com/seebug/SSV:92579	*EXPLOIT*
+|     	PACKETSTORM:173661	7.5	https://vulners.com/packetstorm/PACKETSTORM:173661	*EXPLOIT*
+|     	F0979183-AE88-53B4-86CF-3AF0523F3807	7.5	https://vulners.com/githubexploit/F0979183-AE88-53B4-86CF-3AF0523F3807	*EXPLOIT*
 |     	CVE-2020-12062	7.5	https://vulners.com/cve/CVE-2020-12062
+|     	1337DAY-ID-26576	7.5	https://vulners.com/zdt/1337DAY-ID-26576	*EXPLOIT*
 |     	CVE-2021-28041	7.1	https://vulners.com/cve/CVE-2021-28041
 |     	CVE-2021-41617	7.0	https://vulners.com/cve/CVE-2021-41617
-|     	PRION:CVE-2020-15778	6.8	https://vulners.com/prion/PRION:CVE-2020-15778
 |     	C94132FD-1FA5-5342-B6EE-0DAF45EEFFE3	6.8	https://vulners.com/githubexploit/C94132FD-1FA5-5342-B6EE-0DAF45EEFFE3	*EXPLOIT*
 |     	10213DBE-F683-58BB-B6D3-353173626207	6.8	https://vulners.com/githubexploit/10213DBE-F683-58BB-B6D3-353173626207	*EXPLOIT*
+|     	CVE-2023-51385	6.5	https://vulners.com/cve/CVE-2023-51385
+|     	CVE-2023-48795	5.9	https://vulners.com/cve/CVE-2023-48795
 |     	CVE-2020-14145	5.9	https://vulners.com/cve/CVE-2020-14145
 |     	CVE-2016-20012	5.3	https://vulners.com/cve/CVE-2016-20012
-|_    	PRION:CVE-2020-12062	5.0	https://vulners.com/prion/PRION:CVE-2020-12062
+|_    	PACKETSTORM:140261	0.0	https://vulners.com/packetstorm/PACKETSTORM:140261	*EXPLOIT*
 80/tcp   open  http       nginx 1.18.0 (Ubuntu)
 |_http-server-header: nginx/1.18.0 (Ubuntu)
 443/tcp  open  ssl/http   nginx 1.18.0 (Ubuntu)
@@ -25,23 +33,7 @@ PORT     STATE SERVICE    VERSION
 5432/tcp open  postgresql PostgreSQL DB 9.6.0 or later
 | vulners: 
 |   PostgreSQL DB 9.6.0 or later: 
-|     	CVE-2018-1115	9.1	https://vulners.com/cve/CVE-2018-1115
-|     	CVE-2022-1552	8.8	https://vulners.com/cve/CVE-2022-1552
-|     	CVE-2021-32027	8.8	https://vulners.com/cve/CVE-2021-32027
-|     	CVE-2020-25695	8.8	https://vulners.com/cve/CVE-2020-25695
-|     	CVE-2019-10164	8.8	https://vulners.com/cve/CVE-2019-10164
-|     	CVE-2020-25694	8.1	https://vulners.com/cve/CVE-2020-25694
-|     	CVE-2022-2625	8.0	https://vulners.com/cve/CVE-2022-2625
-|     	CVE-2020-25696	7.5	https://vulners.com/cve/CVE-2020-25696
-|     	CVE-2020-14350	7.3	https://vulners.com/cve/CVE-2020-14350
-|     	CVE-2020-10733	7.3	https://vulners.com/cve/CVE-2020-10733
-|     	CVE-2023-2454	7.2	https://vulners.com/cve/CVE-2023-2454
-|     	CVE-2020-14349	7.1	https://vulners.com/cve/CVE-2020-14349
-|     	CVE-2021-3677	6.5	https://vulners.com/cve/CVE-2021-3677
-|     	CVE-2021-32029	6.5	https://vulners.com/cve/CVE-2021-32029
-|     	CVE-2021-32028	6.5	https://vulners.com/cve/CVE-2021-32028
-|     	CVE-2020-1720	6.5	https://vulners.com/cve/CVE-2020-1720
-|_    	CVE-2023-2455	5.4	https://vulners.com/cve/CVE-2023-2455
+|_    	CVE-2019-3466	7.8	https://vulners.com/cve/CVE-2019-3466
 | fingerprint-strings: 
 |   SMBProgNeg: 
 |     SFATAL
@@ -53,11 +45,11 @@ PORT     STATE SERVICE    VERSION
 |_    RProcessStartupPacket
 8000/tcp open  http       nginx
 1 service unrecognized despite returning data. If you know the service/version, please submit the following fingerprint at https://nmap.org/cgi-bin/submit.cgi?new-service :
-SF-Port5432-TCP:V=7.92%I=7%D=6/23%Time=6677EE1E%P=x86_64-alpine-linux-musl
+SF-Port5432-TCP:V=7.92%I=7%D=6/30%Time=66812936%P=x86_64-alpine-linux-musl
 SF:%r(SMBProgNeg,8C,"E\0\0\0\x8bSFATAL\0VFATAL\0C0A000\0Munsupported\x20fr
 SF:ontend\x20protocol\x2065363\.19778:\x20server\x20supports\x202\.0\x20to
 SF:\x203\.0\0Fpostmaster\.c\0L2120\0RProcessStartupPacket\0\0");
 Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
 
 Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
-# Nmap done at Sun Jun 23 09:43:03 2024 -- 1 IP address (1 host up) scanned in 17.89 seconds
+# Nmap done at Sun Jun 30 09:45:35 2024 -- 1 IP address (1 host up) scanned in 19.23 seconds
