@@ -19,27 +19,15 @@
         "id": "google fonts",
         "message": "Host the font locally with https://github.com/neverpanic/google-font-download or https://google-webfonts-helper.herokuapp.com/"
       }
-    },
-    {
-      "type": "unknown",
-      "url": "https://sentry.selego.co/api/143/envelope/?sentry_key=9f62b6f87edc757e44b10d7728db5913&sentry_version=7&sentry_client=sentry.javascript.react%2F7.77.0"
-    },
-    {
-      "type": "unknown",
-      "url": "https://sentry.selego.co/api/143/envelope/?sentry_key=9f62b6f87edc757e44b10d7728db5913&sentry_version=7&sentry_client=sentry.javascript.react%2F7.77.0"
-    },
-    {
-      "type": "unknown",
-      "url": "https://sentry.selego.co/api/143/envelope/?sentry_key=9f62b6f87edc757e44b10d7728db5913&sentry_version=7&sentry_client=sentry.javascript.react%2F7.77.0"
     }
   ],
   "cookies": [
     {
       "name": "bln_challengejs",
-      "value": "IEkhQYSoPEgPFLLbiPcNDvVzA_s2Q2iJtOSjCHi_ADQNT-fhBOBnO5grtdsI0BHnELAEYTvPhWAPpiXUTE8rL-wtZ2TkHylCHxG-FIxUMQo0qQbq_Hdib5wQHy3L_nGrYxu-1DUpNH2gPT9qvSYqJtZfZv-SitTBf_XBWTmonkhqDpP3sNf8VkbdTrwmII_R1kKVw66MQzgIBbVW6w6qWhFg6TP5RGH3Z1GGbKSlXURe2QyLCh8aS5klEXqjNs2Sr1QF60OvwvWa-8xgO9Dz5Q",
+      "value": "gw8SJw7SX5dfcolG2fQix7_gYLMSgo-9mSH8bWAfESagM1J4HsPs-d1bbfrz-qcEqeVSvx4r-aRBHISBqy6Z6Ti_UAJRqk5wBkNMZu9t4zjlTvkjnuJXoq-8rw7-5zb64i9uHOsCDZFu6d5tG1dLa4KlJsySbGlHsIJvtr4UT4EF_6XR2hAOhtYBFadw1Y8awS2UvxVnF70dA_It9cTuPzTXoF0hzo0Uz2SwWBpGZx1eHiNWGDDZInH7D-yRzmkszKh00aNaPDrf3_fUjR-aqA",
       "domain": ".snu.gouv.fr",
       "path": "/",
-      "expires": 1719124793.453265,
+      "expires": 1719729943.90279,
       "size": 293,
       "httpOnly": false,
       "secure": false,
@@ -52,21 +40,21 @@
   "headers": {
     "content-encoding": "gzip",
     "content-type": "text/html",
-    "date": "Sun, 23 Jun 2024 06:24:53 GMT",
-    "etag": "W/\"66755893-1313\"",
-    "last-modified": "Fri, 21 Jun 2024 10:40:19 GMT",
+    "date": "Sun, 30 Jun 2024 06:30:43 GMT",
+    "etag": "W/\"667d7fa5-1313\"",
+    "last-modified": "Thu, 27 Jun 2024 15:05:09 GMT",
     "referrer-policy": ": no-referrer",
     "strict-transport-security": ": max-age=31536000; includeSubDomains; preload",
     "x-content-type-options": ": nosniff",
     "x-download-options": ": noopen",
-    "x-envoy-upstream-service-time": "12",
+    "x-envoy-upstream-service-time": "8",
     "x-frame-options": ": DENY",
     "x-xss-protection": "1; mode=block"
   },
   "endpoints": [
     {
       "hostname": "moncompte.snu.gouv.fr",
-      "ip": "185.231.167.148",
+      "ip": "185.179.148.148",
       "geoip": {
         "continent": {
           "code": "EU",
@@ -122,8 +110,14 @@
     },
     {
       "hostname": "fonts.googleapis.com",
-      "ip": "172.217.5.10",
+      "ip": "142.251.16.95",
       "geoip": {
+        "city": {
+          "geoname_id": 5116931,
+          "names": {
+            "en": "Farmingdale"
+          }
+        },
         "continent": {
           "code": "NA",
           "geoname_id": 6255149,
@@ -153,10 +147,14 @@
           }
         },
         "location": {
-          "accuracy_radius": 1000,
-          "latitude": 37.751,
-          "longitude": -97.822,
-          "time_zone": "America/Chicago"
+          "accuracy_radius": 500,
+          "latitude": 40.7306,
+          "longitude": -73.4313,
+          "metro_code": 501,
+          "time_zone": "America/New_York"
+        },
+        "postal": {
+          "code": "11735"
         },
         "registered_country": {
           "geoname_id": 6252001,
@@ -171,23 +169,39 @@
             "ru": "США",
             "zh-CN": "美国"
           }
-        }
+        },
+        "subdivisions": [
+          {
+            "geoname_id": 5128638,
+            "iso_code": "NY",
+            "names": {
+              "de": "New York",
+              "en": "New York",
+              "es": "Nueva York",
+              "fr": "New York",
+              "ja": "ニューヨーク州",
+              "pt-BR": "Nova Iorque",
+              "ru": "Нью-Йорк",
+              "zh-CN": "纽约州"
+            }
+          }
+        ]
       }
     },
     {
       "hostname": "plausible.io",
-      "ip": "212.102.40.114",
+      "ip": "138.199.40.58",
       "geoip": {
         "city": {
-          "geoname_id": 4684888,
+          "geoname_id": 5128581,
           "names": {
-            "de": "Dallas",
-            "en": "Dallas",
-            "es": "Dallas",
-            "fr": "Dallas",
-            "ja": "ダラス",
-            "pt-BR": "Dallas",
-            "ru": "Даллас"
+            "de": "New York City",
+            "en": "New York",
+            "es": "Nueva York",
+            "fr": "New York",
+            "ja": "ニューヨーク",
+            "pt-BR": "Nova Iorque",
+            "ru": "Нью-Йорк"
           }
         },
         "continent": {
@@ -220,13 +234,13 @@
         },
         "location": {
           "accuracy_radius": 20,
-          "latitude": 32.7797,
-          "longitude": -96.8022,
-          "metro_code": 623,
-          "time_zone": "America/Chicago"
+          "latitude": 40.7123,
+          "longitude": -74.0068,
+          "metro_code": 501,
+          "time_zone": "America/New_York"
         },
         "postal": {
-          "code": "75270"
+          "code": "10118"
         },
         "registered_country": {
           "geoname_id": 2635167,
@@ -244,76 +258,20 @@
         },
         "subdivisions": [
           {
-            "geoname_id": 4736286,
-            "iso_code": "TX",
+            "geoname_id": 5128638,
+            "iso_code": "NY",
             "names": {
-              "de": "Texas",
-              "en": "Texas",
-              "es": "Texas",
-              "fr": "Texas",
-              "ja": "テキサス州",
-              "pt-BR": "Texas",
-              "ru": "Техас",
-              "zh-CN": "得克萨斯州"
+              "de": "New York",
+              "en": "New York",
+              "es": "Nueva York",
+              "fr": "New York",
+              "ja": "ニューヨーク州",
+              "pt-BR": "Nova Iorque",
+              "ru": "Нью-Йорк",
+              "zh-CN": "纽约州"
             }
           }
         ]
-      }
-    },
-    {
-      "hostname": "sentry.selego.co",
-      "ip": "57.128.17.69",
-      "geoip": {
-        "continent": {
-          "code": "EU",
-          "geoname_id": 6255148,
-          "names": {
-            "de": "Europa",
-            "en": "Europe",
-            "es": "Europa",
-            "fr": "Europe",
-            "ja": "ヨーロッパ",
-            "pt-BR": "Europa",
-            "ru": "Европа",
-            "zh-CN": "欧洲"
-          }
-        },
-        "country": {
-          "geoname_id": 3017382,
-          "is_in_european_union": true,
-          "iso_code": "FR",
-          "names": {
-            "de": "Frankreich",
-            "en": "France",
-            "es": "Francia",
-            "fr": "France",
-            "ja": "フランス共和国",
-            "pt-BR": "França",
-            "ru": "Франция",
-            "zh-CN": "法国"
-          }
-        },
-        "location": {
-          "accuracy_radius": 1000,
-          "latitude": 48.8582,
-          "longitude": 2.3387,
-          "time_zone": "Europe/Paris"
-        },
-        "registered_country": {
-          "geoname_id": 3017382,
-          "is_in_european_union": true,
-          "iso_code": "FR",
-          "names": {
-            "de": "Frankreich",
-            "en": "France",
-            "es": "Francia",
-            "fr": "France",
-            "ja": "フランス共和国",
-            "pt-BR": "França",
-            "ru": "Франция",
-            "zh-CN": "法国"
-          }
-        }
       }
     }
   ]
