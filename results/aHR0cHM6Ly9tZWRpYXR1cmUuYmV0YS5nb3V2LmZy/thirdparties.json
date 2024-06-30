@@ -1,37 +1,6 @@
 {
   "trackers": [],
-  "cookies": [
-    {
-      "name": "__Secure-next-auth.callback-url",
-      "value": "https%3A%2F%2Fwww.mediateur-public.fr",
-      "domain": "www.mediateur-public.fr",
-      "path": "/",
-      "expires": -1,
-      "size": 68,
-      "httpOnly": true,
-      "secure": true,
-      "session": true,
-      "sameSite": "Lax",
-      "sameParty": false,
-      "sourceScheme": "Secure",
-      "sourcePort": 443
-    },
-    {
-      "name": "__Host-next-auth.csrf-token",
-      "value": "c2da71a63168b16c83f2b7578abfb6dbd947bb299fbc0fad3f04eb79c330aefb%7Ca97a9a6c7ed5d7184357bb754d2caeb2ef498fe22fd646745da08c71b9170237",
-      "domain": "www.mediateur-public.fr",
-      "path": "/",
-      "expires": -1,
-      "size": 158,
-      "httpOnly": true,
-      "secure": true,
-      "session": true,
-      "sameSite": "Lax",
-      "sameParty": false,
-      "sourceScheme": "Secure",
-      "sourcePort": 443
-    }
-  ],
+  "cookies": [],
   "headers": {
     "cache-control": "s-maxage=31536000, stale-while-revalidate",
     "content-encoding": "gzip",
@@ -40,7 +9,7 @@
     "cross-origin-embedder-policy": "require-corp",
     "cross-origin-opener-policy": "same-origin",
     "cross-origin-resource-policy": "same-origin",
-    "date": "Sun, 23 Jun 2024 03:38:22 GMT",
+    "date": "Sun, 30 Jun 2024 03:49:49 GMT",
     "etag": "\"mchbhl081wdnf\"",
     "origin-agent-cluster": "?1",
     "referrer-policy": "no-referrer",
@@ -52,7 +21,7 @@
     "x-frame-options": "SAMEORIGIN",
     "x-nextjs-cache": "HIT",
     "x-permitted-cross-domain-policies": "none",
-    "x-request-id": "a88c30d7-e72d-4752-9ee2-c475b9295de3",
+    "x-request-id": "268922aa-f233-41c6-97f2-a4093973c99b",
     "x-xss-protection": "0"
   },
   "endpoints": [
