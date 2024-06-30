@@ -380,8 +380,8 @@
               "id"           : "cert_expirationStatus",
               "ip"           : "world.openfoodfacts.org/213.36.253.214",
               "port"         : "443",
-              "severity"     : "OK",
-              "finding"      : "35 >= 30 days"
+              "severity"     : "MEDIUM",
+              "finding"      : "expires < 30 days (28)"
           }
 ,         {
               "id"           : "cert_notBefore",
@@ -394,7 +394,7 @@
               "id"           : "cert_notAfter",
               "ip"           : "world.openfoodfacts.org/213.36.253.214",
               "port"         : "443",
-              "severity"     : "OK",
+              "severity"     : "MEDIUM",
               "finding"      : "2024-07-29 04:56"
           }
 ,         {
@@ -549,7 +549,7 @@
               "ip"           : "world.openfoodfacts.org/213.36.253.214",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1719141766"
+              "finding"      : "1719746185"
           }
 ,         {
               "id"           : "HSTS",
@@ -1135,6 +1135,6 @@
               "ip"           : "world.openfoodfacts.org/213.36.253.214",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "114"
+              "finding"      : "67"
           }
 ]
