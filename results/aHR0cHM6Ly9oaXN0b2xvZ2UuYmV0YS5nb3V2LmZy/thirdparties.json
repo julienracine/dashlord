@@ -11,46 +11,12 @@
     {
       "type": "unknown",
       "url": "https://cdn.matomo.cloud/histologe.matomo.cloud/matomo.js"
-    },
-    {
-      "type": "unknown",
-      "url": "https://histologe.matomo.cloud/matomo.php?action_name=Lutter%20contre%20le%20mal%20logement%20-%20Histologe&idsite=7&rec=1&r=724660&h=3&m=11&s=26&url=https%3A%2F%2Fhistologe.beta.gouv.fr%2F&_id=53fae3fed8f4b926&_idn=1&send_image=0&_refts=0&pv_id=RTPG2E&fa_pv=1&fa_fp[0][fa_vid]=wugjPU&fa_fp[0][fa_id]=front_postalcodesearch&fa_fp[0][fa_name]=postal_code_search&fa_fp[0][fa_fv]=1&fa_fp[1][fa_vid]=Dao4D5&fa_fp[1][fa_id]=form-demande-lien-signalement&fa_fp[1][fa_name]=demande_lien_signalement&fa_fp[1][fa_fv]=1&pf_net=181&pf_srv=342&pf_tfr=2&pf_dm1=435&uadata=%7B%22fullVersionList%22%3A%5B%5D%2C%22mobile%22%3Afalse%2C%22model%22%3A%22%22%2C%22platform%22%3A%22%22%2C%22platformVersion%22%3A%22%22%7D&cookie=1&res=800x600"
     }
   ],
   "cookies": [
     {
-      "name": "_pk_ses.7.fa00",
-      "value": "1",
-      "domain": "histologe.beta.gouv.fr",
-      "path": "/",
-      "expires": 1719114086,
-      "size": 15,
-      "httpOnly": false,
-      "secure": true,
-      "session": false,
-      "sameSite": "Lax",
-      "sameParty": false,
-      "sourceScheme": "Secure",
-      "sourcePort": 443
-    },
-    {
-      "name": "_pk_id.7.fa00",
-      "value": "53fae3fed8f4b926.1719112287.",
-      "domain": "histologe.beta.gouv.fr",
-      "path": "/",
-      "expires": 1753067487,
-      "size": 41,
-      "httpOnly": false,
-      "secure": true,
-      "session": false,
-      "sameSite": "Lax",
-      "sameParty": false,
-      "sourceScheme": "Secure",
-      "sourcePort": 443
-    },
-    {
       "name": "PHPSESSID",
-      "value": "bdfce33fe52ec44ca87bb92e23aabfd3",
+      "value": "bd56ee28414afc6507d62efcb9961cd6",
       "domain": "histologe.beta.gouv.fr",
       "path": "/",
       "expires": -1,
@@ -67,22 +33,30 @@
   "headers": {
     "cache-control": "max-age=0, must-revalidate, private",
     "content-encoding": "gzip",
-    "content-security-policy": "default-src 'none'; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://cdn.matomo.cloud/histologe.matomo.cloud/matomo.js https://cdn.jsdelivr.net/npm/leaflet@1.7.1/dist/ https://cdn.jsdelivr.net/npm/leaflet.markercluster@1.5.3/dist/ https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/ https://cdn.jsdelivr.net/npm/tippy.js@6/dist/ https://cdn.jsdelivr.net/npm/quill@2.0.2/dist/ https://cdn.jsdelivr.net/npm/tinymce@7.1.2/ 'nonce-3aa11cb15c070971d77d4ebabd0b234d'; style-src 'self' 'unsafe-inline' https://cdn.jsdelivr.net/npm/leaflet@1.7.1/dist/ https://cdn.jsdelivr.net/npm/leaflet.markercluster@1.5.3/dist/ https://cdn.jsdelivr.net/npm/leaflet.markercluster@1.5.3/dist/ https://cdn.jsdelivr.net/npm/tippy.js@6/dist/ https://cdn.jsdelivr.net/npm/quill@2.0.2/dist/ https://cdn.jsdelivr.net/npm/tinymce@7.1.2/; style-src-attr 'self' 'unsafe-inline'; img-src 'self' data: blob: https://voxusagers.numerique.gouv.fr https://*.tile.openstreetmap.org https://cdn.jsdelivr.net https://jedonnemonavis.numerique.gouv.fr; connect-src 'self' https://api-adresse.data.gouv.fr https://cdn.matomo.cloud https://histologe.matomo.cloud https://koumoul.com https://sentry.incubateur.net; font-src 'self'; frame-src 'none'; object-src 'none'; base-uri 'self'; form-action 'self'; frame-ancestors 'none'; media-src 'self'",
+    "content-security-policy": "default-src 'none'; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://cdn.matomo.cloud/histologe.matomo.cloud/matomo.js https://cdn.jsdelivr.net/npm/leaflet@1.7.1/dist/ https://cdn.jsdelivr.net/npm/leaflet.markercluster@1.5.3/dist/ https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/ https://cdn.jsdelivr.net/npm/tippy.js@6/dist/ https://cdn.jsdelivr.net/npm/quill@2.0.2/dist/ https://cdn.jsdelivr.net/npm/tinymce@7.1.2/ 'nonce-6eae7baf73ba0d382afc3acfa328c3c2'; style-src 'self' 'unsafe-inline' https://cdn.jsdelivr.net/npm/leaflet@1.7.1/dist/ https://cdn.jsdelivr.net/npm/leaflet.markercluster@1.5.3/dist/ https://cdn.jsdelivr.net/npm/leaflet.markercluster@1.5.3/dist/ https://cdn.jsdelivr.net/npm/tippy.js@6/dist/ https://cdn.jsdelivr.net/npm/quill@2.0.2/dist/ https://cdn.jsdelivr.net/npm/tinymce@7.1.2/; style-src-attr 'self' 'unsafe-inline'; img-src 'self' data: blob: https://voxusagers.numerique.gouv.fr https://*.tile.openstreetmap.org https://cdn.jsdelivr.net https://jedonnemonavis.numerique.gouv.fr; connect-src 'self' https://api-adresse.data.gouv.fr https://cdn.matomo.cloud https://histologe.matomo.cloud https://koumoul.com https://sentry.incubateur.net; font-src 'self'; frame-src 'none'; object-src 'none'; base-uri 'self'; form-action 'self'; frame-ancestors 'none'; media-src 'self'",
     "content-type": "text/html; charset=UTF-8",
-    "date": "Sun, 23 Jun 2024 03:11:26 GMT",
-    "expires": "Sun, 23 Jun 2024 03:11:26 GMT",
-    "set-cookie": "PHPSESSID=bdfce33fe52ec44ca87bb92e23aabfd3; path=/; secure; httponly; samesite=lax",
+    "cross-origin-embedder-policy": "require-corp",
+    "cross-origin-opener-policy": "same-origin",
+    "cross-origin-resource-policy": "cross-origin",
+    "date": "Sun, 30 Jun 2024 03:23:06 GMT",
+    "expires": "Sun, 30 Jun 2024 03:23:06 GMT",
+    "permissions-policy": "geolocation=(), camera=(), microphone=(), payment=(), accelerometer=(), ambient-light-sensor=(), gyroscope=(), magnetometer=(), usb=(), vibrate=()",
+    "referrer-policy": "no-referrer",
+    "set-cookie": "PHPSESSID=bd56ee28414afc6507d62efcb9961cd6; path=/; secure; httponly; samesite=lax",
     "strict-transport-security": "max-age=31536000",
+    "upgrade-insecure-requests": "1",
     "vary": "Accept-Encoding",
     "x-content-type-options": "nosniff",
     "x-frame-options": "deny",
-    "x-request-id": "e2623fdb-c077-4d84-8c76-bbab23d869cc",
+    "x-permitted-cross-domain-policies": "none",
+    "x-powered-by": "none",
+    "x-request-id": "d1398cf9-a8b9-4133-86a2-c65767a1a76d",
     "x-xss-protection": "1; mode=block"
   },
   "endpoints": [
     {
       "hostname": "histologe.beta.gouv.fr",
-      "ip": "109.232.233.130",
+      "ip": "109.232.236.90",
       "geoip": {
         "continent": {
           "code": "EU",
@@ -158,7 +132,7 @@
     },
     {
       "hostname": "cdn.matomo.cloud",
-      "ip": "108.138.106.67",
+      "ip": "3.162.125.95",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -208,93 +182,6 @@
             "zh-CN": "美国"
           }
         }
-      }
-    },
-    {
-      "hostname": "histologe.matomo.cloud",
-      "ip": "3.126.133.169",
-      "geoip": {
-        "city": {
-          "geoname_id": 2925533,
-          "names": {
-            "de": "Frankfurt am Main",
-            "en": "Frankfurt am Main",
-            "es": "Francfort",
-            "fr": "Francfort-sur-le-Main",
-            "ja": "フランクフルト・アム・マイン",
-            "pt-BR": "Frankfurt am Main",
-            "ru": "Франкфурт",
-            "zh-CN": "法兰克福"
-          }
-        },
-        "continent": {
-          "code": "EU",
-          "geoname_id": 6255148,
-          "names": {
-            "de": "Europa",
-            "en": "Europe",
-            "es": "Europa",
-            "fr": "Europe",
-            "ja": "ヨーロッパ",
-            "pt-BR": "Europa",
-            "ru": "Европа",
-            "zh-CN": "欧洲"
-          }
-        },
-        "country": {
-          "geoname_id": 2921044,
-          "is_in_european_union": true,
-          "iso_code": "DE",
-          "names": {
-            "de": "Deutschland",
-            "en": "Germany",
-            "es": "Alemania",
-            "fr": "Allemagne",
-            "ja": "ドイツ連邦共和国",
-            "pt-BR": "Alemanha",
-            "ru": "ФРГ",
-            "zh-CN": "德国"
-          }
-        },
-        "location": {
-          "accuracy_radius": 1000,
-          "latitude": 50.1187,
-          "longitude": 8.6842,
-          "time_zone": "Europe/Berlin"
-        },
-        "postal": {
-          "code": "60313"
-        },
-        "registered_country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
-          "names": {
-            "de": "USA",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
-          }
-        },
-        "subdivisions": [
-          {
-            "geoname_id": 2905330,
-            "iso_code": "HE",
-            "names": {
-              "de": "Hessen",
-              "en": "Hesse",
-              "es": "Hessen",
-              "fr": "Hesse",
-              "ja": "ヘッセン州",
-              "pt-BR": "Hesse",
-              "ru": "Гессен",
-              "zh-CN": "黑森州"
-            }
-          }
-        ]
       }
     }
   ]
