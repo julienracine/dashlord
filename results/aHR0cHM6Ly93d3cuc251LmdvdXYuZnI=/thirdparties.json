@@ -30,21 +30,21 @@
     },
     {
       "type": "unknown",
-      "url": "https://tarteaucitron.io/log/?account=116fc2aaf9a8e635ee3bd10f2d6999d8b768651a&domain=www.snu.gouv.fr&status=!adformsnu%3Dfalse!facebookpixel%3Dfalse!snapchat%3Dfalse!googletagmanager%3Dfalse&_time=1719123699569"
+      "url": "https://tarteaucitron.io/log/?account=116fc2aaf9a8e635ee3bd10f2d6999d8b768651a&domain=www.snu.gouv.fr&status=!adformsnu%3Dfalse!facebookpixel%3Dfalse!snapchat%3Dfalse!googletagmanager%3Dfalse&_time=1719728604271"
     }
   ],
   "cookies": [],
   "headers": {
     "cache-control": "max-age=0",
     "cf-cache-status": "DYNAMIC",
-    "cf-ray": "898260feef3167e9-SJC",
+    "cf-ray": "89bc112e6a3667fa-SJC",
     "content-encoding": "br",
     "content-type": "text/html; charset=UTF-8",
-    "date": "Sun, 23 Jun 2024 06:21:36 GMT",
-    "expires": "Sun, 23 Jun 2024 06:21:36 GMT",
-    "last-modified": "Sat, 22 Jun 2024 21:40:05 GMT",
+    "date": "Sun, 30 Jun 2024 06:23:21 GMT",
+    "expires": "Sun, 30 Jun 2024 06:23:21 GMT",
+    "last-modified": "Sat, 29 Jun 2024 20:40:06 GMT",
     "server": "cloudflare",
-    "sozu-id": "01J11W2A7788H0B5ZXEBM758GT",
+    "sozu-id": "01J1KWZ8NPTCCQWGQHXYGT336W",
     "vary": "Accept-Encoding"
   },
   "endpoints": [
@@ -211,7 +211,7 @@
     },
     {
       "hostname": "static.cloudflareinsights.com",
-      "ip": "104.16.79.73",
+      "ip": "104.16.80.73",
       "geoip": {
         "registered_country": {
           "geoname_id": 6252001,
