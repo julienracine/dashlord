@@ -290,7 +290,7 @@
               "ip"           : "monprojetsup.fr/162.19.61.97",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "03C27213A032139D4E9C3DD9988D2FF86538"
+              "finding"      : "044BC32639F3B8A09B30943C2CEB397A8F3C"
           }
 ,         {
               "id"           : "cert_serialNumberLen",
@@ -304,21 +304,21 @@
               "ip"           : "monprojetsup.fr/162.19.61.97",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "DB6B390A8FD102EAF4FEC985BFF5E05CEC8C151C"
+              "finding"      : "B0391DC249192239C8E978C041D81FE898FFB465"
           }
 ,         {
               "id"           : "cert_fingerprintSHA256",
               "ip"           : "monprojetsup.fr/162.19.61.97",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "B3A526668CDF2B5EC43F57779C5F18DD7B98AEDA9551EABD1DFCE9B840367F8E"
+              "finding"      : "63B85F880BABAFD2913EBBD5120D0E44EBA29FA20FED64EF09567C000724D749"
           }
 ,         {
               "id"           : "cert",
               "ip"           : "monprojetsup.fr/162.19.61.97",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "-----BEGIN CERTIFICATE-----\nMIIFATCCA+mgAwIBAgISA8JyE6AyE51OnD3ZmI0v+GU4MA0GCSqGSIb3DQEBCwUAMDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQDEwJSMzAeFw0yNDA1MDYyMTQ4NTFaFw0yNDA4MDQyMTQ4NTBaMBoxGDAWBgNVBAMTD21vbnByb2pldHN1cC5mcjCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBALsMiljg/pJcBdGmRKmvt3k1THg1jDnMKwVL5METw4cObE9FIiF/wtw+DFi/08SXdCMvwhMqBSIHz4IzCOEVnCa+vSeaseOOK5FEdCojp39U2ZTsnSeHpjXjltHxaGo43KeMQi3nRkKuAgCxMCwIGs8NqUf/X/axCT2lf3XgiRgijxLmvY2P8b8xIR6iZ1eqmcGlgvV7b9DqIvum/KO2Q5LWRilPWmKPogR+fB2PLZEP3FLX0SOadd6vNk4Dw6fbrqUfVRhWI4KlEvp/RhBmcBwUr/shtZZ4WRCv2Sg7incDMzPna+I3vWUNV4l13sbWEsKn/c4CMi2PmiG9OG9+h7ECAwEAAaOCAicwggIjMA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQUBbn23j+Jnn6j6m7iHdT15Y4K8bAwHwYDVR0jBBgwFoAUFC6zF7dYVsuuUAlA5h+vnYsUwsYwVQYIKwYBBQUHAQEESTBHMCEGCCsGAQUFBzABhhVodHRwOi8vcjMuby5sZW5jci5vcmcwIgYIKwYBBQUHMAKGFmh0dHA6Ly9yMy5pLmxlbmNyLm9yZy8wLwYDVR0RBCgwJoIPbW9ucHJvamV0c3VwLmZyghN3d3cubW9ucHJvamV0c3VwLmZyMBMGA1UdIAQMMAowCAYGZ4EMAQIBMIIBBQYKKwYBBAHWeQIEAgSB9gSB8wDxAHYAPxdLT9ciR1iUHWUchL4NEu2QN38fhWrrwb8ohez4ZG4AAAGPUBh1kgAABAMARzBFAiAh4s4NGYIuLhCbvP/rjiYWiNeCY/llB9NtLoCevt1Y3wIhANUT9Ds83wESDKhS1GLR78llPNiF3yF+Rh9VoATRn3cxAHcA7s3QZNXbGs7FXLedtM0TojKHRny87N7DUUhZRnEftZsAAAGPUBh1jAAABAMASDBGAiEAqb0gqi1MNgm1rsEZdbuIqhlf9haBaqm1DqAZqEYwOYkCIQCE6L133EF7H8+yhQFM9cOJZSA6NPzw0aqDsSnS05lr4DANBgkqhkiG9w0BAQsFAAOCAQEAfiOyZPp3WgY+s4u7sVgBKmqrqGsbGCEIHNY6Top0moHrgd/W8QInYO8k/lYqybOgyJgIMb9kqTg+vyBBQHRzumxH4P2QZDfEEMuZe0LhOoDWNLPFoo2RMrxXDyPCyK4fKIDYyLmqkHwzFGz33x5JuR2J2vndpsa3W22qnMSNB1shMBt9PyZqfXdhUstuOlJUkFyLgUpB1rEssTcefVwDCKKg5Yvy0T2CKajsRTjw/OdhOhWHwbRpn5XnKA2wIg3UhhVL0wD+0uE5l/vhcUwkWhuV508xo5z/ztNrQdXDUJIbaOw+zXcXEQnVpU0xcr9lCQuns7j+DOzcgqQK5ASbxw==\n-----END CERTIFICATE-----"
+              "finding"      : "-----BEGIN CERTIFICATE-----\nMIIFAjCCA+qgAwIBAgISBEvDJjnzuKCbMJQ8LOs5eo88MA0GCSqGSIb3DQEBCwUAMDMxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQwwCgYDVQQDEwNSMTEwHhcNMjQwNzA2MDU0OTIxWhcNMjQxMDA0MDU0OTIwWjAaMRgwFgYDVQQDEw9tb25wcm9qZXRzdXAuZnIwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCtqSc8SveR1Kz1qYEd3dBIflwSEQnJMDl+Vhm0Ort0Cq1MsKbimuPeMtSLQRlgu6YMFG5NSBnYLGzHRQcXvrsmOjJkgrabj8VS14BE1UNpv8UreNQT4E220//qYKkT8fRSdDnyDD+vbqK/tIjY5j/CpSiy+peOmLQwUcYpiZhHueLkQz4fQqVZwAxZ2irBdSqoP++WSUFEZiN0RB32E1bWk4vjs5eIVAOaYaVs+rp4DMywfZztEFK1NWGwEnBhO7HTBpD7VYy9mjyiY5jLJ896hiqngqMxJAgMFjD+lDQUl6CX4t4tqaUjcnm4LqWHJJ1UUoU2pfPAcU8Hah2vGUg3AgMBAAGjggInMIICIzAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFNFEujq3gdVQTFPdda1yAr7Mv2FsMB8GA1UdIwQYMBaAFMXPRqTq9MPAemyVxC2wXpIvJuO5MFcGCCsGAQUFBwEBBEswSTAiBggrBgEFBQcwAYYWaHR0cDovL3IxMS5vLmxlbmNyLm9yZzAjBggrBgEFBQcwAoYXaHR0cDovL3IxMS5pLmxlbmNyLm9yZy8wLwYDVR0RBCgwJoIPbW9ucHJvamV0c3VwLmZyghN3d3cubW9ucHJvamV0c3VwLmZyMBMGA1UdIAQMMAowCAYGZ4EMAQIBMIIBAwYKKwYBBAHWeQIEAgSB9ASB8QDvAHUAPxdLT9ciR1iUHWUchL4NEu2QN38fhWrrwb8ohez4ZG4AAAGQhs3uiwAABAMARjBEAiBgH4E1fYrpxIOH29HWmQUF01hHyrlZpouVSBAZF4e/pgIgPiP8RmIAD7bwh392KSlAUgYk+ANU/Ip72c0Rz5/t0jEAdgDf4VbrqgWvtZwPhnGNqMAyTq5W2W6n9aVqAdHBO75SXAAAAZCGze9VAAAEAwBHMEUCIQDrpZ1L2mtD2vTmDse4pvooHrQ2Y9THtT60j5DX12kNbgIgMG6wK4Jeo1afPZhmFvskuOCWjrYi9okfaHH+GIM016IwDQYJKoZIhvcNAQELBQADggEBAKGh5fP1/46iWuGR7A2VaZ+q3k0d4QWtieyvPJYsgF9zrwyoiH/8uSrzM9gQZSYtS7SfiOOxpqYPkdXjV0NmWdSZUAJ742qiN5ZGCI45GopK+ZcxRyUGlKrXXAg2+jAQdHw1/AZP9rNJFkVh6hIqtBT4lYAWifh+6BrXIG4pycTgNYOV8MBmEJlT2RoVX5idH2GNmV/DwPtcpuDqKNtkD9YE4r/jxx5M8LwI0WPM0hCxVozP8LCXgH/JC+cCTrJOrJqopRJwM7cbZ9/bnD49ZumqWkjJWQvrm9LSOl9EnlixlE8yN7rWABKfwhk3KoekSuv+EkI25hBB7TDCLrL2j0Y=\n-----END CERTIFICATE-----"
           }
 ,         {
               "id"           : "cert_commonName",
@@ -367,21 +367,21 @@
               "ip"           : "monprojetsup.fr/162.19.61.97",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "35 >= 30 days"
+              "finding"      : "88 >= 30 days"
           }
 ,         {
               "id"           : "cert_notBefore",
               "ip"           : "monprojetsup.fr/162.19.61.97",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "2024-05-06 21:48"
+              "finding"      : "2024-07-06 05:49"
           }
 ,         {
               "id"           : "cert_notAfter",
               "ip"           : "monprojetsup.fr/162.19.61.97",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "2024-08-04 21:48"
+              "finding"      : "2024-10-04 05:49"
           }
 ,         {
               "id"           : "cert_extlifeSpan",
@@ -409,7 +409,7 @@
               "ip"           : "monprojetsup.fr/162.19.61.97",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "http://r3.o.lencr.org"
+              "finding"      : "http://r11.o.lencr.org"
           }
 ,         {
               "id"           : "OCSP_stapling",
@@ -458,35 +458,35 @@
               "ip"           : "monprojetsup.fr/162.19.61.97",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "R3 (Let's Encrypt from US)"
+              "finding"      : "R11 (Let's Encrypt from US)"
           }
 ,         {
               "id"           : "intermediate_cert <#1>",
               "ip"           : "monprojetsup.fr/162.19.61.97",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "-----BEGIN CERTIFICATE-----\nMIIFFjCCAv6gAwIBAgIRAJErCErPDBinU/bWLiWnX1owDQYJKoZIhvcNAQELBQAwTzELMAkGA1UEBhMCVVMxKTAnBgNVBAoTIEludGVybmV0IFNlY3VyaXR5IFJlc2VhcmNoIEdyb3VwMRUwEwYDVQQDEwxJU1JHIFJvb3QgWDEwHhcNMjAwOTA0MDAwMDAwWhcNMjUwOTE1MTYwMDAwWjAyMQswCQYDVQQGEwJVUzEWMBQGA1UEChMNTGV0J3MgRW5jcnlwdDELMAkGA1UEAxMCUjMwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQC7AhUozPaglNMPEuyNVZLD+ILxmaZ6QoinXSaqtSu5xUyxr45r+XXIo9cPR5QUVTVXjJ6oojkZ9YI8QqlObvU7wy7bjcCwXPNZOOftz2nwWgsbvsCUJCWH+jdxsxPnHKzhm+/b5DtFUkWWqcFTzjTIUu61ru2P3mBw4qVUq7ZtDpelQDRrK9O8ZutmNHz6a4uPVymZ+DAXXbpyb/uBxa3Shlg9F8fnCbvxK/eG3MHacV3URuPMrSXBiLxgZ3Vms/EY96Jc5lP/Ooi2R6X/ExjqmAl3P51T+c8B5fWmcBcUr2Ok/5mzk53cU6cG/kiFHaFpriV1uxPMUgP17VGhi9sVAgMBAAGjggEIMIIBBDAOBgNVHQ8BAf8EBAMCAYYwHQYDVR0lBBYwFAYIKwYBBQUHAwIGCCsGAQUFBwMBMBIGA1UdEwEB/wQIMAYBAf8CAQAwHQYDVR0OBBYEFBQusxe3WFbLrlAJQOYfr52LFMLGMB8GA1UdIwQYMBaAFHm0WeZ7tuXkAXOACIjIGlj26ZtuMDIGCCsGAQUFBwEBBCYwJDAiBggrBgEFBQcwAoYWaHR0cDovL3gxLmkubGVuY3Iub3JnLzAnBgNVHR8EIDAeMBygGqAYhhZodHRwOi8veDEuYy5sZW5jci5vcmcvMCIGA1UdIAQbMBkwCAYGZ4EMAQIBMA0GCysGAQQBgt8TAQEBMA0GCSqGSIb3DQEBCwUAA4ICAQCFyk5HPqP3hUSFvNVneLKYY611TR6WPTNlclQtgaDqw+34IL9fzLdwALduO/ZelN7kIJ+m74uyA+eitRY8kc607TkC53wlikfmZW4/RvTZ8M6UK+5UzhK8jCdLuMGYL6KvzXGRSgi3yLgjewQtCPkIVz6D2QQzCkcheAmCJ8MqyJu5zlzyZMjAvnnAT45tRAxekrsu94sQ4egdRCnbWSDtY7kh+BImlJNXoB1lBMEKIq4QDUOXoRgffuDghje1WrG9ML+Hbisq/yFOGwXD9RiX8F6sw6W4avAuvDszue5L3sz85K+EC4Y/wFVDNvZo4TYXao6Z0f+lQKc0t8DQYzk1OXVu8rp2yJMC6alLbBfODALZvYH7n7do1AZls4I9d1P4jnkDrQoxB3UqQ9hVl3LEKQ73xF1OyK5GhDDX8oVfGKF5u+decIsH4YaTw7mP3GFxJSqv3+0lUFJoi5Lc5da149p90IdshCExroL1+7mryIkXPeFM5TgO9r0rvZaBFOvV2z0gp35Z0+L4WPlbuEjN/lxPFin+HlUjr8gRsI3qfJOQFy/9rKIJR0Y/8Omwt/8oTWgy1mdeHmmjk7j1nYsvC9JSQ6ZvMldlTTKB3zhThV1+XWYp6rjd5JW1zbVWEkLNxE7GJThEUG3szgBVGP7pSWTUTsqXnLRbwHOoq7hHwg==\n-----END CERTIFICATE-----"
+              "finding"      : "-----BEGIN CERTIFICATE-----\nMIIFBjCCAu6gAwIBAgIRAIp9PhPWLzDvI4a9KQdrNPgwDQYJKoZIhvcNAQELBQAwTzELMAkGA1UEBhMCVVMxKTAnBgNVBAoTIEludGVybmV0IFNlY3VyaXR5IFJlc2VhcmNoIEdyb3VwMRUwEwYDVQQDEwxJU1JHIFJvb3QgWDEwHhcNMjQwMzEzMDAwMDAwWhcNMjcwMzEyMjM1OTU5WjAzMQswCQYDVQQGEwJVUzEWMBQGA1UEChMNTGV0J3MgRW5jcnlwdDEMMAoGA1UEAxMDUjExMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAuoe8XBsAOcvKCs3UZxD5ATylTqVhyybKUvsVAbe5KPUoHu0nsyQYOWcJDAjs4DqwO3cOvfPlOVRBDE6uQdaZdN5R2+97/1i9qLcT9t4x1fJyyXJqC4N0lZxGAGQUmfOx2SLZzaiSqhwmej/+71gFewiVgdtxD4774zEJuwm+UE1fj5F2PVqdnoPy6cRms+EGZkNIGIBloDcYmpuEMpexsr3E+BUAnSeI++JjF5ZsmydnS8TbKF5pwnnwSVzgJFDhxLyhBax7QG0AtMJBP6dYuC/FXJuluwme8f7rsIU5/agK70XEeOtlKsLPXzze41xNG/cLJyuqC0J3U095ah2H2QIDAQABo4H4MIH1MA4GA1UdDwEB/wQEAwIBhjAdBgNVHSUEFjAUBggrBgEFBQcDAgYIKwYBBQUHAwEwEgYDVR0TAQH/BAgwBgEB/wIBADAdBgNVHQ4EFgQUxc9GpOr0w8B6bJXELbBeki8m47kwHwYDVR0jBBgwFoAUebRZ5nu25eQBc4AIiMgaWPbpm24wMgYIKwYBBQUHAQEEJjAkMCIGCCsGAQUFBzAChhZodHRwOi8veDEuaS5sZW5jci5vcmcvMBMGA1UdIAQMMAowCAYGZ4EMAQIBMCcGA1UdHwQgMB4wHKAaoBiGFmh0dHA6Ly94MS5jLmxlbmNyLm9yZy8wDQYJKoZIhvcNAQELBQADggIBAE7iiV0KAxyQOND1H/lxXPjDj7I3iHpvsCUf7b632IYGjukJhM1yv4Hz/MrPU0jtvfZpQtSlET41yBOykh0FX+ou1Nj4ScOt9ZmWnO8m2OG0JAtIIE3801S0qcYhyOE2G/93ZCkXufBL713qzXnQv5C/viOykNpKqUgxdKlEC+Hi9i2DcaR1e9KUwQUZRhy5j/PEdEglKg3l9dtD4tuTm7kZtB8v32oOjzHTYw+7KdzdZiw/sBtnUfhBPORNuay4pJxmY/WrhSMdzFO2q3Gu3MUBcdo27goYKjL9CTF8j/Zz55yctUoVaneCWs/ajUX+HypkBTA+c8LGDLnWO2NKq0YD/pnARkAnYGPfUDoHR9gVSp/qRx+ZWghiDLZsMwhN1zjtSC0uBWiugF3vTNzYIEFfaPG7Ws3jDrAMMYebQ95JQ+HIBD/RPBuHRTBpqKlyDnkSHDHYPiNX3adPoPAcgdF3H2/W0rmoswMWgTlLn1Wu0mrks7/qpdWfS6PJ1jty80r2VKsM/Dj3YIDfbjXKdaFU5C+8bhfJGqU3taKauuz0wHVGT3eo6FlWkWYtbt4pgdamlwVeZEW+LM7qZEJEsMNPrfC03APKmZsJgpWCDWOKZvkZcvjVuYkQ4omYCTX5ohy+knMjdOmdH9c7SpqEWBDC86fiNex+O0XOMEZSa8DA\n-----END CERTIFICATE-----"
           }
 ,         {
               "id"           : "intermediate_cert_fingerprintSHA256 <#1>",
               "ip"           : "monprojetsup.fr/162.19.61.97",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "67ADD1166B020AE61B8F5FC96813C04C2AA589960796865572A3C7E737613DFD"
+              "finding"      : "591E9CE6C863D3A079E9FABE1478C7339A26B21269DDE795211361024AE31A44"
           }
 ,         {
               "id"           : "intermediate_cert_notBefore <#1>",
               "ip"           : "monprojetsup.fr/162.19.61.97",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "2020-09-04 00:00"
+              "finding"      : "2024-03-13 00:00"
           }
 ,         {
               "id"           : "intermediate_cert_notAfter <#1>",
               "ip"           : "monprojetsup.fr/162.19.61.97",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "2025-09-15 16:00"
+              "finding"      : "2027-03-12 23:59"
           }
 ,         {
               "id"           : "intermediate_cert_expiration <#1>",
@@ -500,7 +500,7 @@
               "ip"           : "monprojetsup.fr/162.19.61.97",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "R3 <-- ISRG Root X1"
+              "finding"      : "R11 <-- ISRG Root X1"
           }
 ,         {
               "id"           : "intermediate_cert_badOCSP",
@@ -528,7 +528,7 @@
               "ip"           : "monprojetsup.fr/162.19.61.97",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1719750713"
+              "finding"      : "1720361041"
           }
 ,         {
               "id"           : "HSTS",
@@ -701,7 +701,7 @@
               "severity"     : "INFO",
               "cve"          : "CVE-2016-0800 CVE-2016-0703",
               "cwe"          : "CWE-310",
-              "finding"      : "Make sure you don't use this certificate elsewhere with SSLv2 enabled services, see https://search.censys.io/search?resource=hosts&virtual_hosts=INCLUDE&q=B3A526668CDF2B5EC43F57779C5F18DD7B98AEDA9551EABD1DFCE9B840367F8E"
+              "finding"      : "Make sure you don't use this certificate elsewhere with SSLv2 enabled services, see https://search.censys.io/search?resource=hosts&virtual_hosts=INCLUDE&q=63B85F880BABAFD2913EBBD5120D0E44EBA29FA20FED64EF09567C000724D749"
           }
 ,         {
               "id"           : "LOGJAM-common_primes",
@@ -1084,6 +1084,6 @@
               "ip"           : "monprojetsup.fr/162.19.61.97",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "63"
+              "finding"      : "58"
           }
 ]
