@@ -9,12 +9,8 @@
       "url": "https://sibautomation.com/sa.js?key=bplip3bpikf8s8hgqk0h5u8z"
     },
     {
-      "type": "unknown",
-      "url": "https://aides-territoires-prod.s3.fr-par.scw.cloud/aides-territoires-prod/imagine/blog_thumb_desktop/blog/capture-d-ecran-2024-06-26-a-11-00-26-1719394770.png.webp"
-    },
-    {
       "type": "brevo",
-      "url": "https://in-automate.brevo.com/p?key=bplip3bpikf8s8hgqk0h5u8z&cuid=ae4692b9-c77d-4f0b-a4bc-8e380c05cf9b&ma_url=https%3A%2F%2Faides-territoires.beta.gouv.fr%2F&sib_type=page&ma_title=Aides%20Territoires&sib_name=Aides%20Territoires&ma_referrer=&ma_path=%2F",
+      "url": "https://in-automate.brevo.com/p?key=bplip3bpikf8s8hgqk0h5u8z&cuid=cd2343fb-9032-4304-be6f-63e020a3c4f3&ma_url=https%3A%2F%2Faides-territoires.beta.gouv.fr%2F&sib_type=page&ma_title=Aides%20Territoires&sib_name=Aides%20Territoires&ma_referrer=&ma_path=%2F",
       "details": {
         "id": "brevo",
         "message": "Ensure your TOS notify the Brevo usage"
@@ -22,11 +18,15 @@
     },
     {
       "type": "unknown",
+      "url": "https://aides-territoires-prod.s3.fr-par.scw.cloud/aides-territoires-prod/imagine/backer_thumb/backers/region-nouvelle-aquitaine_logo.jpg.webp"
+    },
+    {
+      "type": "unknown",
       "url": "https://aides-territoires-prod.s3.fr-par.scw.cloud/aides-territoires-prod/imagine/backer_thumb/backers/office-francais-pour-la-biodiversite-ofb_logo.png.webp"
     },
     {
       "type": "unknown",
-      "url": "https://aides-territoires-prod.s3.fr-par.scw.cloud/aides-territoires-prod/imagine/program_thumb_mini/programs/investeu_logo.jpg.webp"
+      "url": "https://aides-territoires-prod.s3.fr-par.scw.cloud/aides-territoires-prod/imagine/backer_thumb/backers/agence-de-leau-seine-normandie_logo.png.webp"
     },
     {
       "type": "unknown",
@@ -34,15 +34,7 @@
     },
     {
       "type": "unknown",
-      "url": "https://aides-territoires-prod.s3.fr-par.scw.cloud/aides-territoires-prod/imagine/backer_thumb/backers/agence-de-leau-rhin-meuse_logo.jpeg.webp"
-    },
-    {
-      "type": "unknown",
-      "url": "https://aides-territoires-prod.s3.fr-par.scw.cloud/aides-territoires-prod/imagine/program_thumb_mini/programs/eit-manufacturing_logo.png.webp"
-    },
-    {
-      "type": "unknown",
-      "url": "https://aides-territoires-prod.s3.fr-par.scw.cloud/aides-territoires-prod/imagine/backer_thumb/backers/agence-nationale-du-sport_logo.png.webp"
+      "url": "https://aides-territoires-prod.s3.fr-par.scw.cloud/aides-territoires-prod/imagine/blog_thumb_desktop/blog/capture-d-ecran-2024-06-26-a-11-00-26-1719394770.png.webp"
     },
     {
       "type": "unknown",
@@ -54,7 +46,15 @@
     },
     {
       "type": "unknown",
-      "url": "https://aides-territoires-prod.s3.fr-par.scw.cloud/aides-territoires-prod/imagine/backer_thumb/backers/bpi-france_logo.png.webp"
+      "url": "https://aides-territoires-prod.s3.fr-par.scw.cloud/aides-territoires-prod/imagine/program_thumb_mini/programs/investeu_logo.jpg.webp"
+    },
+    {
+      "type": "unknown",
+      "url": "https://aides-territoires-prod.s3.fr-par.scw.cloud/aides-territoires-prod/imagine/backer_thumb/backers/agence-nationale-du-sport_logo.png.webp"
+    },
+    {
+      "type": "unknown",
+      "url": "https://aides-territoires-prod.s3.fr-par.scw.cloud/aides-territoires-prod/imagine/program_thumb_mini/programs/eit-manufacturing_logo.png.webp"
     }
   ],
   "cookies": [
@@ -63,7 +63,7 @@
       "value": "1",
       "domain": "aides-territoires.beta.gouv.fr",
       "path": "/",
-      "expires": 1719712949,
+      "expires": 1720318095,
       "size": 16,
       "httpOnly": false,
       "secure": false,
@@ -75,10 +75,10 @@
     },
     {
       "name": "_pk_id.67.6088",
-      "value": "dd7dabe9510e9e2f.1719711150.",
+      "value": "d9bea1a799ba9148.1720316295.",
       "domain": "aides-territoires.beta.gouv.fr",
       "path": "/",
-      "expires": 1753666350,
+      "expires": 1754271495,
       "size": 42,
       "httpOnly": false,
       "secure": false,
@@ -90,10 +90,10 @@
     },
     {
       "name": "sib_cuid",
-      "value": "ae4692b9-c77d-4f0b-a4bc-8e380c05cf9b",
+      "value": "cd2343fb-9032-4304-be6f-63e020a3c4f3",
       "domain": ".aides-territoires.beta.gouv.fr",
       "path": "/",
-      "expires": 1735432349,
+      "expires": 1736037494,
       "size": 44,
       "httpOnly": false,
       "secure": false,
@@ -104,7 +104,7 @@
     },
     {
       "name": "PHPSESSID",
-      "value": "2ed773f8c232da63c6346974f9cea952",
+      "value": "14df0b52bddb5dc2b136c652cbcc3dc9",
       "domain": "aides-territoires.beta.gouv.fr",
       "path": "/",
       "expires": -1,
@@ -121,26 +121,26 @@
   "headers": {
     "cache-control": "max-age=0, must-revalidate, private",
     "content-encoding": "gzip",
-    "content-security-policy": "default-src 'self' https://in-automate.brevo.com https://stats.beta.gouv.fr; base-uri 'self'; block-all-mixed-content; font-src 'self' https://fonts.gstatic.com/; frame-ancestors 'self' https://aides-territoires-stage.s3.fr-par.scw.cloud https://aides-territoires-prod.s3.fr-par.scw.cloud; frame-src https://stats.data.gouv.fr; img-src 'self' data: https://aides-territoires-prod.s3.fr-par.scw.cloud https://aides-territoires-stage.s3.fr-par.scw.cloud https://a.forte.tiles.quaidorsay.fr https://b.forte.tiles.quaidorsay.fr https://c.forte.tiles.quaidorsay.fr; media-src 'self' https://aides-territoires-prod.s3.fr-par.scw.cloud https://aides-territoires-stage.s3.fr-par.scw.cloud; object-src 'none'; script-src 'self' https://sibautomation.com https://stats.beta.gouv.fr/ 'sha256-82nOP9uc0sUfKTZpMl3/aKeQrAsnU18HwwyR+xHYGSQ=' 'sha256-uXW8SGy+rhLGmLbK2Za4E/P/SCdeGB6J8k84B9Oo7EE=' 'sha256-/RsgQuclj+X9A1HDHvGw+A/d9NiXvTw9a1/kzhUs2rY=' 'sha256-rF9k3sIgT4iZN/SpI6brd311zcmJLPuIpTMV06Dd4Y4='; style-src 'self' https://fonts.googleapis.com 'unsafe-inline' https://stats.beta.gouv.fr",
+    "content-security-policy": "default-src 'self' https://in-automate.brevo.com https://stats.beta.gouv.fr; base-uri 'self'; block-all-mixed-content; font-src 'self' https://fonts.gstatic.com/; frame-ancestors 'self' https://aides-territoires-stage.s3.fr-par.scw.cloud https://aides-territoires-prod.s3.fr-par.scw.cloud; frame-src https://stats.data.gouv.fr; img-src 'self' data: https://aides-territoires-prod.s3.fr-par.scw.cloud https://aides-territoires-stage.s3.fr-par.scw.cloud https://a.forte.tiles.quaidorsay.fr https://b.forte.tiles.quaidorsay.fr https://c.forte.tiles.quaidorsay.fr; media-src 'self' https://aides-territoires-prod.s3.fr-par.scw.cloud https://aides-territoires-stage.s3.fr-par.scw.cloud; object-src 'none'; script-src 'self' https://sibautomation.com https://stats.beta.gouv.fr/ 'sha256-82nOP9uc0sUfKTZpMl3/aKeQrAsnU18HwwyR+xHYGSQ=' 'sha256-uXW8SGy+rhLGmLbK2Za4E/P/SCdeGB6J8k84B9Oo7EE=' 'sha256-/RsgQuclj+X9A1HDHvGw+A/d9NiXvTw9a1/kzhUs2rY=' 'sha256-QmOKEjRylBL/UDcR1+bgVEMqaTRakS5oqtssxU3HORc='; style-src 'self' https://fonts.googleapis.com 'unsafe-inline' https://stats.beta.gouv.fr",
     "content-type": "text/html; charset=UTF-8",
-    "date": "Sun, 30 Jun 2024 01:32:28 GMT",
-    "expires": "Sun, 30 Jun 2024 01:32:28 GMT",
+    "date": "Sun, 07 Jul 2024 01:38:13 GMT",
+    "expires": "Sun, 07 Jul 2024 01:38:13 GMT",
     "link": "</build/runtime.cf5960cc.js>; rel=\"preload\"; as=\"script\",</build/381.075284da.js>; rel=\"preload\"; as=\"script\",</build/9989.4871426b.js>; rel=\"preload\"; as=\"script\",</build/141.ae7b2c48.js>; rel=\"preload\"; as=\"script\",</build/1214.fa6cc197.js>; rel=\"preload\"; as=\"script\",</build/1857.1a54c68f.js>; rel=\"preload\"; as=\"script\",</build/4695.4b83b24e.js>; rel=\"preload\"; as=\"script\",</build/5150.a77b4cc9.js>; rel=\"preload\"; as=\"script\",</build/app.309d9dad.js>; rel=\"preload\"; as=\"script\",</build/5037.74d014b5.js>; rel=\"preload\"; as=\"script\",</build/front/home.1e89728c.js>; rel=\"preload\"; as=\"script\",</build/7792.18d22cd0.css>; rel=\"preload\"; as=\"style\",</build/5150.3de6fd8b.css>; rel=\"preload\"; as=\"style\",</build/app.df8067bd.css>; rel=\"preload\"; as=\"style\",</build/4604.b4df37c5.css>; rel=\"preload\"; as=\"style\",</build/import-scss/home.dbe860dd.css>; rel=\"preload\"; as=\"style\"",
-    "permissions-policy": "base-uri 'self'; geolocation 'self'; microphone 'self'; sync-xhr 'self'; fullscreen 'self'",
+    "permissions-policy": "geolocation=(self), microphone=(self), sync-xhr=(self), fullscreen=(self)",
     "referrer-policy": "no-referrer, strict-origin-when-cross-origin",
-    "set-cookie": "PHPSESSID=2ed773f8c232da63c6346974f9cea952; path=/; secure; httponly; samesite=lax",
+    "set-cookie": "PHPSESSID=14df0b52bddb5dc2b136c652cbcc3dc9; path=/; secure; httponly; samesite=lax",
     "strict-transport-security": "max-age=31536000",
     "vary": "Accept-Encoding",
-    "x-content-security-policy": "default-src 'self' https://in-automate.brevo.com https://stats.beta.gouv.fr; base-uri 'self'; block-all-mixed-content; font-src 'self' https://fonts.gstatic.com/; frame-ancestors 'self' https://aides-territoires-stage.s3.fr-par.scw.cloud https://aides-territoires-prod.s3.fr-par.scw.cloud; frame-src https://stats.data.gouv.fr; img-src 'self' data: https://aides-territoires-prod.s3.fr-par.scw.cloud https://aides-territoires-stage.s3.fr-par.scw.cloud https://a.forte.tiles.quaidorsay.fr https://b.forte.tiles.quaidorsay.fr https://c.forte.tiles.quaidorsay.fr; media-src 'self' https://aides-territoires-prod.s3.fr-par.scw.cloud https://aides-territoires-stage.s3.fr-par.scw.cloud; object-src 'none'; script-src 'self' https://sibautomation.com https://stats.beta.gouv.fr/ 'sha256-82nOP9uc0sUfKTZpMl3/aKeQrAsnU18HwwyR+xHYGSQ=' 'sha256-uXW8SGy+rhLGmLbK2Za4E/P/SCdeGB6J8k84B9Oo7EE=' 'sha256-/RsgQuclj+X9A1HDHvGw+A/d9NiXvTw9a1/kzhUs2rY=' 'sha256-rF9k3sIgT4iZN/SpI6brd311zcmJLPuIpTMV06Dd4Y4='; style-src 'self' https://fonts.googleapis.com 'unsafe-inline' https://stats.beta.gouv.fr",
+    "x-content-security-policy": "default-src 'self' https://in-automate.brevo.com https://stats.beta.gouv.fr; base-uri 'self'; block-all-mixed-content; font-src 'self' https://fonts.gstatic.com/; frame-ancestors 'self' https://aides-territoires-stage.s3.fr-par.scw.cloud https://aides-territoires-prod.s3.fr-par.scw.cloud; frame-src https://stats.data.gouv.fr; img-src 'self' data: https://aides-territoires-prod.s3.fr-par.scw.cloud https://aides-territoires-stage.s3.fr-par.scw.cloud https://a.forte.tiles.quaidorsay.fr https://b.forte.tiles.quaidorsay.fr https://c.forte.tiles.quaidorsay.fr; media-src 'self' https://aides-territoires-prod.s3.fr-par.scw.cloud https://aides-territoires-stage.s3.fr-par.scw.cloud; object-src 'none'; script-src 'self' https://sibautomation.com https://stats.beta.gouv.fr/ 'sha256-82nOP9uc0sUfKTZpMl3/aKeQrAsnU18HwwyR+xHYGSQ=' 'sha256-uXW8SGy+rhLGmLbK2Za4E/P/SCdeGB6J8k84B9Oo7EE=' 'sha256-/RsgQuclj+X9A1HDHvGw+A/d9NiXvTw9a1/kzhUs2rY=' 'sha256-QmOKEjRylBL/UDcR1+bgVEMqaTRakS5oqtssxU3HORc='; style-src 'self' https://fonts.googleapis.com 'unsafe-inline' https://stats.beta.gouv.fr",
     "x-content-type-options": "nosniff",
     "x-frame-options": "DENY\ndeny",
-    "x-request-id": "70bf7982-f053-4a4a-9915-b2a56e5d8167",
+    "x-request-id": "55c15986-5129-4725-85bc-bc445ddc8937",
     "x-xss-protection": "1; mode=block"
   },
   "endpoints": [
     {
       "hostname": "aides-territoires.beta.gouv.fr",
-      "ip": "109.232.233.130",
+      "ip": "5.104.101.30",
       "geoip": {
         "continent": {
           "code": "EU",
@@ -294,7 +294,7 @@
     },
     {
       "hostname": "sibautomation.com",
-      "ip": "104.18.37.70",
+      "ip": "172.64.150.186",
       "geoip": {
         "registered_country": {
           "geoname_id": 6252001,
@@ -316,57 +316,6 @@
       "hostname": "in-automate.brevo.com",
       "ip": "172.64.149.40",
       "geoip": {
-        "city": {
-          "geoname_id": 5391959,
-          "names": {
-            "de": "San Francisco",
-            "en": "San Francisco",
-            "es": "San Francisco",
-            "fr": "San Francisco",
-            "ja": "サンフランシスコ",
-            "pt-BR": "São Francisco",
-            "ru": "Сан-Франциско",
-            "zh-CN": "旧金山"
-          }
-        },
-        "continent": {
-          "code": "NA",
-          "geoname_id": 6255149,
-          "names": {
-            "de": "Nordamerika",
-            "en": "North America",
-            "es": "Norteamérica",
-            "fr": "Amérique du Nord",
-            "ja": "北アメリカ",
-            "pt-BR": "América do Norte",
-            "ru": "Северная Америка",
-            "zh-CN": "北美洲"
-          }
-        },
-        "country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
-          "names": {
-            "de": "USA",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
-          }
-        },
-        "location": {
-          "accuracy_radius": 20,
-          "latitude": 37.7642,
-          "longitude": -122.3993,
-          "metro_code": 807,
-          "time_zone": "America/Los_Angeles"
-        },
-        "postal": {
-          "code": "94107"
-        },
         "registered_country": {
           "geoname_id": 6252001,
           "iso_code": "US",
@@ -380,23 +329,7 @@
             "ru": "США",
             "zh-CN": "美国"
           }
-        },
-        "subdivisions": [
-          {
-            "geoname_id": 5332921,
-            "iso_code": "CA",
-            "names": {
-              "de": "Kalifornien",
-              "en": "California",
-              "es": "California",
-              "fr": "Californie",
-              "ja": "カリフォルニア州",
-              "pt-BR": "Califórnia",
-              "ru": "Калифорния",
-              "zh-CN": "加州"
-            }
-          }
-        ]
+        }
       }
     }
   ]
