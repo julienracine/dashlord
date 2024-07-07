@@ -1,7 +1,7 @@
-# Nmap 7.92 scan initiated Sun Jun 30 05:10:16 2024 as: nmap -sV --script vulners --script-args mincvss=5.0 -oA /data/nmapvuln pilotage.inclusion.beta.gouv.fr
-Nmap scan report for pilotage.inclusion.beta.gouv.fr (91.208.207.214)
-Host is up (0.13s latency).
-Other addresses for pilotage.inclusion.beta.gouv.fr (not scanned): 185.42.117.108 91.208.207.216 185.42.117.109 91.208.207.218 91.208.207.215 46.252.181.104 46.252.181.103 91.208.207.217
+# Nmap 7.92 scan initiated Sun Jul  7 05:44:07 2024 as: nmap -sV --script vulners --script-args mincvss=5.0 -oA /data/nmapvuln pilotage.inclusion.beta.gouv.fr
+Nmap scan report for pilotage.inclusion.beta.gouv.fr (91.208.207.220)
+Host is up (0.086s latency).
+Other addresses for pilotage.inclusion.beta.gouv.fr (not scanned): 91.208.207.218 91.208.207.217 91.208.207.222 91.208.207.223 91.208.207.221 91.208.207.215 91.208.207.216 91.208.207.214
 Not shown: 989 closed tcp ports (reset)
 PORT     STATE    SERVICE    VERSION
 80/tcp   open     http
@@ -11,12 +11,12 @@ PORT     STATE    SERVICE    VERSION
 |     Cache-Control: no-cache
 |     Connection: close
 |     Content-Length: 479
-|     Sozu-Id: 01J1KRT7GJEE42NCM5JE1E1YD2
+|     Sozu-Id: 01J25VH835WR0ZB8V5JKH4ZY7E
 |     <style>pre{background:#EEE;padding:10px;border:1px solid #AAA;border-radius: 5px;}</style>
 |     <h1>400 Bad Request</h1>
 |     <pre>
 |     "route": "GET",
-|     "request_id": "01J1KRT7GJEE42NCM5JE1E1YD2",
+|     "request_id": "01J25VH835WR0ZB8V5JKH4ZY7E",
 |     </pre>
 |     <p>Request could not be parsed. Parser stopped at phase: Body.</p>
 |     <p>Diagnostic: Could not extract the route after connection started, this should not happen.</p>
@@ -28,12 +28,12 @@ PORT     STATE    SERVICE    VERSION
 |     Cache-Control: no-cache
 |     Connection: close
 |     Content-Length: 483
-|     Sozu-Id: 01J1KRTDMGM3S0WGF03ZNF4AH1
+|     Sozu-Id: 01J25VHE44DXY9T5FT51MABXN4
 |     <style>pre{background:#EEE;padding:10px;border:1px solid #AAA;border-radius: 5px;}</style>
 |     <h1>400 Bad Request</h1>
 |     <pre>
 |     "route": "OPTIONS",
-|     "request_id": "01J1KRTDMGM3S0WGF03ZNF4AH1",
+|     "request_id": "01J25VHE44DXY9T5FT51MABXN4",
 |     </pre>
 |     <p>Request could not be parsed. Parser stopped at phase: Body.</p>
 |     <p>Diagnostic: Could not extract the route after connection started, this should not happen.</p>
@@ -45,12 +45,12 @@ PORT     STATE    SERVICE    VERSION
 |     Cache-Control: no-cache
 |     Connection: close
 |     Content-Length: 885
-|     Sozu-Id: 01J1KRTDWTN367QRRKS2A48ZF3
+|     Sozu-Id: 01J25VHE9KBKPTPN8XWC6N2H99
 |     <style>pre{background:#EEE;padding:10px;border:1px solid #AAA;border-radius: 5px;}</style>
 |     <h1>400 Bad Request</h1>
 |     <pre>
 |     "route": "",
-|     "request_id": "01J1KRTDWTN367QRRKS2A48ZF3",
+|     "request_id": "01J25VHE9KBKPTPN8XWC6N2H99",
 |     </pre>
 |     <p>Request could not be parsed. Parser stopped at phase: StatusLine.</p>
 |     <p>Diagnostic: The request line is invalid. Make sure it is well formated and all characters are LATIN-1 (no UTF-8 allowed).</p>
@@ -66,17 +66,20 @@ PORT     STATE    SERVICE    VERSION
 3000/tcp open     ppp?
 | fingerprint-strings: 
 |   Kerberos: 
-|     f6]R
-|     mmA6q
-|     %&5w
-|     {r#J
-|     YUaFne
+|     M4o.
+|     ,t9C&
+|     }Whs
+|     mC/=
+|     )Eqg; 
+|     @dg2[A
 |   TLSSessionReq: 
-|     Uh[n
-|     GNCr
-|     \xb0
-|     \x81T
-|_    0n3qR
+|     \xdf
+|     dwml
+|     tu&D
+|     \xf7
+|     (^~2
+|     cr"V<
+|_    P\xf3oh
 5002/tcp open     ssh        (protocol 2.0)
 | fingerprint-strings: 
 |   NULL: 
@@ -97,7 +100,7 @@ PORT     STATE    SERVICE    VERSION
 |     authentication_failure_close: YES
 |     per_consumer_qos: YES
 |     direct_reply_to: YES
-|   cluster_name: rabbit@691ca395062c
+|   cluster_name: rabbit@0385e38da5cc
 |   copyright: Copyright (c) 2007-2024 Broadcom Inc and/or its subsidiaries
 |   information: Licensed under the MPL 2.0. Website: https://rabbitmq.com
 |   platform: Erlang/OTP 25.3.2.12
@@ -109,101 +112,102 @@ PORT     STATE    SERVICE    VERSION
 9999/tcp open     tcpwrapped
 4 services unrecognized despite returning data. If you know the service/version, please submit the following fingerprints at https://nmap.org/cgi-bin/submit.cgi?new-service :
 ==============NEXT SERVICE FINGERPRINT (SUBMIT INDIVIDUALLY)==============
-SF-Port80-TCP:V=7.92%I=7%D=6/30%Time=6680E8C1%P=x86_64-alpine-linux-musl%r
-SF:(GetRequest,261,"HTTP/1\.1\x20400\x20Bad\x20Request\r\nCache-Control:\x
-SF:20no-cache\r\nConnection:\x20close\r\nContent-Length:\x20479\r\nSozu-Id
-SF::\x2001J1KRT7GJEE42NCM5JE1E1YD2\r\n\r\n<style>pre{background:#EEE;paddi
-SF:ng:10px;border:1px\x20solid\x20#AAA;border-radius:\x205px;}</style>\r\n
-SF:<h1>400\x20Bad\x20Request</h1>\r\n<pre>\r\n{\r\n\x20\x20\x20\x20\"route
-SF:\":\x20\"GET\",\r\n\x20\x20\x20\x20\"request_id\":\x20\"01J1KRT7GJEE42N
-SF:CM5JE1E1YD2\",\r\n}\r\n</pre>\r\n<p>Request\x20could\x20not\x20be\x20pa
-SF:rsed\.\x20Parser\x20stopped\x20at\x20phase:\x20Body\.</p>\r\n<p>Diagnos
-SF:tic:\x20Could\x20not\x20extract\x20the\x20route\x20after\x20connection\
-SF:x20started,\x20this\x20should\x20not\x20happen\.</p>\r\n<p>Further\x20d
-SF:etails:</p>\r\n<pre>No\x20host\x20given</pre>\r\n<footer>This\x20is\x20
-SF:an\x20automatic\x20answer\x20by\x20Sozu\.</footer>")%r(HTTPOptions,265,
-SF:"HTTP/1\.1\x20400\x20Bad\x20Request\r\nCache-Control:\x20no-cache\r\nCo
-SF:nnection:\x20close\r\nContent-Length:\x20483\r\nSozu-Id:\x2001J1KRTDMGM
-SF:3S0WGF03ZNF4AH1\r\n\r\n<style>pre{background:#EEE;padding:10px;border:1
-SF:px\x20solid\x20#AAA;border-radius:\x205px;}</style>\r\n<h1>400\x20Bad\x
-SF:20Request</h1>\r\n<pre>\r\n{\r\n\x20\x20\x20\x20\"route\":\x20\"OPTIONS
-SF:\",\r\n\x20\x20\x20\x20\"request_id\":\x20\"01J1KRTDMGM3S0WGF03ZNF4AH1\
-SF:",\r\n}\r\n</pre>\r\n<p>Request\x20could\x20not\x20be\x20parsed\.\x20Pa
-SF:rser\x20stopped\x20at\x20phase:\x20Body\.</p>\r\n<p>Diagnostic:\x20Coul
-SF:d\x20not\x20extract\x20the\x20route\x20after\x20connection\x20started,\
-SF:x20this\x20should\x20not\x20happen\.</p>\r\n<p>Further\x20details:</p>\
-SF:r\n<pre>No\x20host\x20given</pre>\r\n<footer>This\x20is\x20an\x20automa
-SF:tic\x20answer\x20by\x20Sozu\.</footer>")%r(RTSPRequest,3F7,"HTTP/1\.1\x
-SF:20400\x20Bad\x20Request\r\nCache-Control:\x20no-cache\r\nConnection:\x2
-SF:0close\r\nContent-Length:\x20885\r\nSozu-Id:\x2001J1KRTDWTN367QRRKS2A48
-SF:ZF3\r\n\r\n<style>pre{background:#EEE;padding:10px;border:1px\x20solid\
-SF:x20#AAA;border-radius:\x205px;}</style>\r\n<h1>400\x20Bad\x20Request</h
-SF:1>\r\n<pre>\r\n{\r\n\x20\x20\x20\x20\"route\":\x20\"\",\r\n\x20\x20\x20
-SF:\x20\"request_id\":\x20\"01J1KRTDWTN367QRRKS2A48ZF3\",\r\n}\r\n</pre>\r
-SF:\n<p>Request\x20could\x20not\x20be\x20parsed\.\x20Parser\x20stopped\x20
-SF:at\x20phase:\x20StatusLine\.</p>\r\n<p>Diagnostic:\x20The\x20request\x2
-SF:0line\x20is\x20invalid\.\x20Make\x20sure\x20it\x20is\x20well\x20formate
-SF:d\x20and\x20all\x20characters\x20are\x20LATIN-1\x20\(no\x20UTF-8\x20all
-SF:owed\)\.</p>\r\n<p>Further\x20details:</p>\r\n<pre>Parsed\x20successful
-SF:ly:\n\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x
-SF:20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\
-SF:x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20
-SF:\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x2
+SF-Port80-TCP:V=7.92%I=7%D=7/7%Time=668A2B31%P=x86_64-alpine-linux-musl%r(
+SF:GetRequest,261,"HTTP/1\.1\x20400\x20Bad\x20Request\r\nCache-Control:\x2
+SF:0no-cache\r\nConnection:\x20close\r\nContent-Length:\x20479\r\nSozu-Id:
+SF:\x2001J25VH835WR0ZB8V5JKH4ZY7E\r\n\r\n<style>pre{background:#EEE;paddin
+SF:g:10px;border:1px\x20solid\x20#AAA;border-radius:\x205px;}</style>\r\n<
+SF:h1>400\x20Bad\x20Request</h1>\r\n<pre>\r\n{\r\n\x20\x20\x20\x20\"route\
+SF:":\x20\"GET\",\r\n\x20\x20\x20\x20\"request_id\":\x20\"01J25VH835WR0ZB8
+SF:V5JKH4ZY7E\",\r\n}\r\n</pre>\r\n<p>Request\x20could\x20not\x20be\x20par
+SF:sed\.\x20Parser\x20stopped\x20at\x20phase:\x20Body\.</p>\r\n<p>Diagnost
+SF:ic:\x20Could\x20not\x20extract\x20the\x20route\x20after\x20connection\x
+SF:20started,\x20this\x20should\x20not\x20happen\.</p>\r\n<p>Further\x20de
+SF:tails:</p>\r\n<pre>No\x20host\x20given</pre>\r\n<footer>This\x20is\x20a
+SF:n\x20automatic\x20answer\x20by\x20Sozu\.</footer>")%r(HTTPOptions,265,"
+SF:HTTP/1\.1\x20400\x20Bad\x20Request\r\nCache-Control:\x20no-cache\r\nCon
+SF:nection:\x20close\r\nContent-Length:\x20483\r\nSozu-Id:\x2001J25VHE44DX
+SF:Y9T5FT51MABXN4\r\n\r\n<style>pre{background:#EEE;padding:10px;border:1p
+SF:x\x20solid\x20#AAA;border-radius:\x205px;}</style>\r\n<h1>400\x20Bad\x2
+SF:0Request</h1>\r\n<pre>\r\n{\r\n\x20\x20\x20\x20\"route\":\x20\"OPTIONS\
+SF:",\r\n\x20\x20\x20\x20\"request_id\":\x20\"01J25VHE44DXY9T5FT51MABXN4\"
+SF:,\r\n}\r\n</pre>\r\n<p>Request\x20could\x20not\x20be\x20parsed\.\x20Par
+SF:ser\x20stopped\x20at\x20phase:\x20Body\.</p>\r\n<p>Diagnostic:\x20Could
+SF:\x20not\x20extract\x20the\x20route\x20after\x20connection\x20started,\x
+SF:20this\x20should\x20not\x20happen\.</p>\r\n<p>Further\x20details:</p>\r
+SF:\n<pre>No\x20host\x20given</pre>\r\n<footer>This\x20is\x20an\x20automat
+SF:ic\x20answer\x20by\x20Sozu\.</footer>")%r(RTSPRequest,3F7,"HTTP/1\.1\x2
+SF:0400\x20Bad\x20Request\r\nCache-Control:\x20no-cache\r\nConnection:\x20
+SF:close\r\nContent-Length:\x20885\r\nSozu-Id:\x2001J25VHE9KBKPTPN8XWC6N2H
+SF:99\r\n\r\n<style>pre{background:#EEE;padding:10px;border:1px\x20solid\x
+SF:20#AAA;border-radius:\x205px;}</style>\r\n<h1>400\x20Bad\x20Request</h1
+SF:>\r\n<pre>\r\n{\r\n\x20\x20\x20\x20\"route\":\x20\"\",\r\n\x20\x20\x20\
+SF:x20\"request_id\":\x20\"01J25VHE9KBKPTPN8XWC6N2H99\",\r\n}\r\n</pre>\r\
+SF:n<p>Request\x20could\x20not\x20be\x20parsed\.\x20Parser\x20stopped\x20a
+SF:t\x20phase:\x20StatusLine\.</p>\r\n<p>Diagnostic:\x20The\x20request\x20
+SF:line\x20is\x20invalid\.\x20Make\x20sure\x20it\x20is\x20well\x20formated
+SF:\x20and\x20all\x20characters\x20are\x20LATIN-1\x20\(no\x20UTF-8\x20allo
+SF:wed\)\.</p>\r\n<p>Further\x20details:</p>\r\n<pre>Parsed\x20successfull
+SF:y:\n\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x2
 SF:0\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x
-SF:20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\nPartially\x20parsed
-SF:\x20\(valid\):\n\x204f\x2050\x2054\x2049\x204f\x204e\x2053\x2020\x202f\
-SF:x2020\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x
 SF:20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\
 SF:x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20
 SF:\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x2
-SF:0OPTIONS\x20/\x20\nInvalid:\n\x2052\x2054\x2053\x2050\x202f\x2031\x202e
-SF:\x2030\x200d\x200a\x200d\x200a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\
-SF:x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20");
+SF:0\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\nPartially\x20parsed\
+SF:x20\(valid\):\n\x204f\x2050\x2054\x2049\x204f\x204e\x2053\x2020\x202f\x
+SF:2020\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x2
+SF:0\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x
+SF:20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\
+SF:x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20
+SF:OPTIONS\x20/\x20\nInvalid:\n\x2052\x2054\x2053\x2050\x202f\x2031\x202e\
+SF:x2030\x200d\x200a\x200d\x200a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x
+SF:20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20");
 ==============NEXT SERVICE FINGERPRINT (SUBMIT INDIVIDUALLY)==============
-SF-Port3000-TCP:V=7.92%I=7%D=6/30%Time=6680E901%P=x86_64-alpine-linux-musl
-SF:%r(TLSSessionReq,128,"\xcfUh\[n\xfcf%\xc3\xce\xcc\x03\x06\xb5\xeb\xd2R\
-SF:x86\xce\xc4k\xecf\x0f\xcc#\xc5\$\x8c\xf6V\xfa\xed\x17\x04\x0f\xbf\x8f'P
-SF:\x1a\xef\?\xba\xcf\xf2d\xe1\xf3x#\xbaa\xedd\x9b\xf5\x91\xfb\xfb\xd0\xeb
-SF:\x8f\xbd\xe7\xda\xa3\x8e\xa9\xc7'o\xf8\xa7@\xba\x81\xf4Z\x01n\x11GNCr\x
-SF:81\x8bjC\x03he\]\xa0\xd8\xd9\x12\xc5\xce3\xdbd\xae\x20:\xf7@\xde\xb2\xe
-SF:7\xb5W\xd5i\xf6\xac\xad\\\xb0\xd3\x0b\xffSn\xc9\x20\xfa<t\xad\xc0\xc5d\
-SF:n\$k\x1a\xe2\xa4\xe8\xa1\x8fL4\xb5T\x1eu&\x96uq\xa6\xb0\xcf\xbd{\xfd\x9
-SF:0\xb8\x81\xa8\x9f\xb2\x0fA\x9f\x89\xdb\x89\xcb-\xfd\xda\x80\xf7\xc6\x8a
-SF:\x83\xf0\xea\x1ea'm\x85\xd6\xda\^\x1c\x07\xb1\]\xab\r!\xab1<\xf9\xedd\x
-SF:fe\xa5\x08\xc1\x84\x839\xfd!C\xac\\\?D\x1e&`,\xd5\xab\xea\xbb0%\x96\?\x
-SF:af=\x90\xe9\x9d\xa5\x8d`i\xfa\\\x81T\xbf<A\xe60n3qR\xeab\xdc\xce\xea\xf
-SF:3#\x17\x08\x07\x11\x9d\xdf\xc0v\xc6\xc4\xa3\xd41\x12\x99\xe1\xb8\xc6\xd
-SF:6U\x15\x0e\xf6\xa0\xa0XN\xdf\xd9\x8e1\xbb\xb3;\xb2\xbe\x1dl")%r(Kerbero
-SF:s,244,">\^\xf4\xea\x80`qJ\x862\0L\xb5ml\xa7\xed\xea\x1f\xee\xeeL\xaa\x1
-SF:f\x8f\"\xc6\xa4\xf5\xa3\xcc/\xdb\0\x95'\x82B\x12\x82\x8a\xba\xe5\x17D\x
-SF:1b7\xca\xdbn\x1e\xc6\"B\xe1%B\x82\x0b\x85\xb5\x9d\x99e\.\xe6\xa0\xe6MZ\
-SF:x03uB\t\xfe\x04\x12\xe4f6\]R\0o`\x92r\xd9&\x1cmmA6q\xab=\x96\xda\xd0'2\
-SF:xafW\xbf\xec\x1a\x15\x19\\syz\xd9\x8dO\xdek\xdbi\xf9y\xdd\x84\x84\xf9\x
-SF:8cl\x11\xfc0\x1a\x14\x86\xef\xf7\x05\xd22\x90t\xe9u\xd1\xfb\x93\xa6\xa7
-SF:9\x15\x1e\xa7\xea\xe0l\x95\xe2\0\x9e\x84\n\xb68\xdbyQ\x8d\xc2l\x9f\xba\
-SF:xf5\x13\x01E7\x80\)\x11w\xc40\xd07\x15\xdc\[0\x92r\xc0\xde\x9e\x80\xceF
-SF:3\xdf\xff\x10P\x15\nD\x97\xda\x1e\x12\xadx1\xfc\x02\x16k0\xc7\x9fFJ\xb2
-SF:\]O7\xe8Ax\0z\x02\xa1\|\xdf\*O\xa9\xb2\]X\xc7\x89\xc3\x95\xd1\xa6\xc7M\
-SF:xdb\x96\xad\x0e\xb3\xe56\xe9\xb1\xd3\xc4\x05\*\x13\x89\x89\x184:\x1c\|\
-SF:xdeG\x95\xc41V\xf2Wc\xe6\x81\xf4\xaf\xc6\xcb\]\xd5B\x9f\x03K\x1dc\xa57\
-SF:xa1\xd6K\xae\x8dT\x8ce\xd4\xd3\xcaW\xe6V\xa6\t=\x05\xaa\xfb`\xc9\x89z\x
-SF:82\"b6\x97P\xd1\[v\xf7\t\xb0\r\xf9\x14\x0e_\x07s\|p\xef\xf9\xa5\xb20!\x
-SF:a0=\x9cu\x1e\x7f6\xff\x9b\*K\x07\x93\x88\xaa\xb2<U\xc1hN\x92\xa9\xdb\x8
-SF:a\xf6\x1f\xed8@\x99\(1\x86jV\xe2\xec\xdf%&5w\xf2\x14\x11\xa7\x20w\r\x88
-SF:qi\xd4\xbfN6x\xd6\xa5>\xf0\x82a~\xcc\xa3S\x81L\xa4\xe4\xfd\ts\x80\xbbT`
-SF:\xdes\x9e\x95\xc8y\xbc;\x96\xf4\x06\xd4\xd4\x8f\x9c{r#J\xfe\xae\xd68\xb
-SF:f\x83\*&\xdd\xfc\xe5\[Y\xe3O\x07\x89\xe9\xd1I\xe4\xe6\xcd\xaf\xdd\x82,\
-SF:x7fr\xe9Z\xe1\x1e'H\nN\xdd\xb0\xc6\*T8\xb1a\xa4\xaa\x0e@\xfd\)v\x99\xdf
-SF:\x8f\xad\x15l:\xf0\x05\xe9\xae\xb1\xb8\xd2\]\xc6\x07\xf3\xd8YUaFne\xf6\
-SF:x90Y#d\xe1\xca\xc3\x16\x0f\x97\xfe\xdc\xa3\xfcV\x12\[\x17\x1c\xc4\[<\xd
-SF:13\xd0t\0\x83\xc3\xfcD\*\xa3\xe0\xea\xff\xdb\x14p\x18\xab\x8d\x90-@2\x1
-SF:7\xa3\xfd\x04\xe4\x84\x14\xfb\xe1\xaf\xe7\x8b\xc0'");
+SF-Port3000-TCP:V=7.92%I=7%D=7/7%Time=668A2B70%P=x86_64-alpine-linux-musl%
+SF:r(TLSSessionReq,17E,"0\x01d\xc9\x80\xbd\xc5\xaez_\xe6>\x18\x1bb\xc3M\x1
+SF:f\x16yR\x94\xad\xe7\xcaF}\x90z\xbe\x19\x1b\xe4W\x9d\*\xa0\xb2\xf7rZ3\xe
+SF:0a\xe2a\xd7\x16z\xb7r\+\xe3\xc1\?\x9c\xe5o2\xa9\xcct\xa0\x01\xd35\xcd\x
+SF:a9\xdd\xe5\xa0'\xd3d}\xdc\xe55\x96\.\x93z\xa1\xa2\x8b%\x112\xc6I\x04\xc
+SF:d\xd6\x17\xa1\^\x8ek\x83QM\x86_\xb9a\x12\x20\xce\x12\x86\xb1HD2\x1f:\x1
+SF:3\xd1\xfb\xf4\$\x0cy\x89\xfchw\xef\x19\xc8\x8e\xed0Z\x8b\xab\x01@!\+\x2
+SF:0\x10\x13\xe0\x95\xf6_w\xec\x9e\xe7kT\x07\xb5\xc0\xbaa\xa1z@\xfd\xef\xe
+SF:2\xd5\\\xdf\r\x84\x03\x97\xe3C8\x13=\xcb\xe4\x08g`;\xb0\xe8\xb3\xbddwml
+SF:\xe9K\xb9_\x9f\x9fP~\x8c`:\xc29\xc7A\xb8\xcftu&D\xd0~\x10\x86G\xd6\xab\
+SF:*\x8di\xd8J\xa2\xd7\x1b\xc2p\xe9\x02\xf8\xf2\x98R\xe3w`\xe4\xf7fX4\xe5\
+SF:x1d\xda\xaa\[_\xfc\xa2\xb5\\\xf7\x13\x1d\x0f\\y\x97\x93\xf0\x8e\x8av~\x
+SF:20#e\x93\xff\x7f\(\^~2\xc2\\b\x15\xe0J\x8c\xec5\xfb\xbe\x90\xa4\xda\xe3
+SF:\xe3\xf8\x0c\xbbM72\xf5\x1a\x06E\x19\x0ft\$F\x95\xdb\xa9\xdb\x06Cq\x01\
+SF:x04\xe3\x05i\x82\x137>\xa0\xab\x04\x11l3\xf1\xd4o1\x06v\xb2\.\xbb\x1b\x
+SF:a2\x80\xb0\xe4\x19\x9c\x85\xa3R:\xd1\x10\xee\xaa\xa1\x8f,\xdbcr\"V<\x8a
+SF:\x9a\xad\xa5z\xb7\x0e\x86\xb8<\x9d\|\xb7P\\\xf3oh\xbdJX")%r(Kerberos,21
+SF:1,"\x8f\x12\x1c\xbcM4o\.\xae\xb9\*\x18y\x81\x98\xa9\x08\xc93\xa3\xca\xb
+SF:0\x059V\x93V\xc9\xd5\xf7I\xad\x8f\xc4,t9C&\xe5\xb2t\x9a\xaem\x96\xd5\xe
+SF:a2t\xf2%\x8c6\+\xee\xcc\x8e\x0e!\x83\xfa\xbe\xf4fd7\x85\xb9\xa0>>:\x9d\
+SF:xe2\xc45\xe3\xadf\xf8\xe4\xd9J\0\|2\x1f%5\xd4\xa8\xe0\?\x17\xb5\xcf\x05
+SF:\xea\]\xd48G\xaf2\x20\xa5\xd8\r\x08\xe5\x8eH\xc9\xb3\xa4\xe6\?\x11\xae`
+SF:_\xf3H\xfd\x0eg\x92\x0e#p\xac\xf3l\xc7\.g\0\0h\x8f\t\xa1\xfc\xb2\xa9=\x
+SF:9d{\xa5\x80KC\t-\x83\x9a\x06DA\x18\(\.\xab\xde\xd1XW\x86\xdf\x1c\x15\+l
+SF:\xc0\x7f}Whs\xf08\x04\xe9#\xdbg;\x15T6\r\xfa\"\xc7\xda\.\xa2\x1f\x9d>~@
+SF:\x19\^\x96\x9d\xdf'\xfb\0OOC\xe6\$\xc8%\x19\xe0\xbdH\^\xcaOts\xbc\xebb\
+SF:x20Sia\x11@\x1d\x9e\xb9\xedp\xae\x8e\xf4\xa4\xe36\xdc\xdeo\xea\xa6\xb6\
+SF:xe5\x9d\x93\x1a\x91K\x85;\xd5\x8a\x9a2}\xf7\xf8::\xde\x85\xb8~HK\x9c\x0
+SF:4W\x20\x9e\x84\x92J\x951Q\$\x8dg\xb7\x12S\x9b>%\xe7\+HZ\x1emC/=\xce\xb1
+SF:\x888j\xa5\+\xa0K\x80\x1f\x0f\\\\\xb582\x9b\x98\|\xde\x8ec\x8b\xdc\xfc\
+SF:xd6\xfb\xe4u\xe6\xaf\x0c\tO\xcb\xeau\x9f\xccT\x08X\x990\x1cUA:\xbb\xae\
+SF:x1f\x86l\xbe\xdd,K\rT\x03\xbe\(5\xb8\xc2\xacT\x98V#\x06\xf3\xd9\xb4\xc5
+SF:\x89\xb1\xcb\xec\?\x88\xd8\xf3\x86\xfd\xf5c\xe0\x91\x12\xca\xc7;\x11/\x
+SF:f5\xc4\x96\xf7\xf8\xd9#\xf0\x20\xc7\x97\x11o\xe8\x8f\xf4\x950\xed\x94\x
+SF:85\x1b\xbf\xef\x96\xe1\x14\xb7\xb6\xc4\)Eqg;\x20\xd2\x80\xe8=\xda~\x04\
+SF:xb1\)\xbb\xd6\xcfn\[\xa5\x82\x8eZ\x0b2\x17\xc3\xa3\xf6\x9b\xd2\x19o~\xa
+SF:6\xf5f\x955\xb9\"\x1f\xd8\xef9\xb1O\xc7\xeaL\xe9\xe8\+c\xe7\x06\x94\x94
+SF:@dg2\[A\xf54:\xe4\xb7@\xe2\x06\x05\x94c\?\xc3\x83\xb8\xae\xb4JFI\x1e\xa
+SF:c\xd3\r\x0c\xd2i\xae\xae\xe5\xdf<\x85");
 ==============NEXT SERVICE FINGERPRINT (SUBMIT INDIVIDUALLY)==============
-SF-Port5002-TCP:V=7.92%I=7%D=6/30%Time=6680E8C1%P=x86_64-alpine-linux-musl
-SF:%r(NULL,1A,"SSH-2\.0-SFTPGo_2\.4\.4-dev\r\n");
+SF-Port5002-TCP:V=7.92%I=7%D=7/7%Time=668A2B31%P=x86_64-alpine-linux-musl%
+SF:r(NULL,1A,"SSH-2\.0-SFTPGo_2\.4\.4-dev\r\n");
 ==============NEXT SERVICE FINGERPRINT (SUBMIT INDIVIDUALLY)==============
-SF-Port5357-TCP:V=7.92%I=7%D=6/30%Time=6680E8C1%P=x86_64-alpine-linux-musl
-SF:%r(NULL,1A,"SSH-2\.0-SFTPGo_2\.4\.4-dev\r\n");
+SF-Port5357-TCP:V=7.92%I=7%D=7/7%Time=668A2B31%P=x86_64-alpine-linux-musl%
+SF:r(NULL,1A,"SSH-2\.0-SFTPGo_2\.4\.4-dev\r\n");
 
 Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
-# Nmap done at Sun Jun 30 05:13:02 2024 -- 1 IP address (1 host up) scanned in 165.72 seconds
+# Nmap done at Sun Jul  7 05:46:51 2024 -- 1 IP address (1 host up) scanned in 164.29 seconds
