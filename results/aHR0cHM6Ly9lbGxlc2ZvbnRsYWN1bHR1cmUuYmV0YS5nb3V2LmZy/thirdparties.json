@@ -2,10 +2,6 @@
   "trackers": [
     {
       "type": "unknown",
-      "url": "https://res.cloudinary.com/ellesfontlaculture/image/upload/v1/production/ojpt7j89y5is4kpw1072333lxhw3"
-    },
-    {
-      "type": "unknown",
       "url": "https://res.cloudinary.com/ellesfontlaculture/image/upload/v1/production/peb6eym92t6soma3zsn7at192f55"
     },
     {
@@ -43,6 +39,10 @@
     {
       "type": "unknown",
       "url": "https://res.cloudinary.com/ellesfontlaculture/image/upload/v1/production/u6kofmpf863hupb27x8tjofzkjkf"
+    },
+    {
+      "type": "unknown",
+      "url": "https://res.cloudinary.com/ellesfontlaculture/image/upload/v1/production/o6p1j1edecn8e6pjycc54jhyp8n7"
     }
   ],
   "cookies": [
@@ -51,7 +51,7 @@
       "value": "1",
       "domain": "ellesfontla.culture.gouv.fr",
       "path": "/",
-      "expires": 1719738336,
+      "expires": 1720346673,
       "size": 17,
       "httpOnly": false,
       "secure": false,
@@ -63,10 +63,10 @@
     },
     {
       "name": "_pk_id.187.1dd6",
-      "value": "150fd1a4ad70e18e.1719736537.",
+      "value": "a0e22203d619740d.1720344873.",
       "domain": "ellesfontla.culture.gouv.fr",
       "path": "/",
-      "expires": 1753691737,
+      "expires": 1754300073,
       "size": 43,
       "httpOnly": false,
       "secure": false,
@@ -78,11 +78,11 @@
     },
     {
       "name": "_ellesfontlaphoto_session",
-      "value": "pGVRmJr8vh%2BSxammxv1i7D9GR2FlwOmiQoR6vibLN8isr8SxaFwMYriJAF4x%2B%2BnK6FHnRzE%2F3skT9DSIMZwkYNq2YHQGW7jBhpx1Q5HN0qNBP0Pdu7ZeZiju5vLmpNW46Kigjpyv080ypnHfFeT1e60xkPxhmhvfRpo28h3wpBfI22JFzOMVYD5eKfYUvqYFztZOjgwMy3Y22dPOR4tD%2B9Tizq%2BPbQujbPlmdOMZrwK1%2B697deE1Cwm5fakVuKOW2Nlx955JE5TJ9FlaxfvPunk%2Fb%2Bl1yLdVKbHqyc5qZEppWBN3hPQLkC4Ixj48qLHcMzDlWKrWmChh1ZiHxyR5AqQhtKwy%2BYhWSi%2BJzwuD96YDpkKbnlmbhmPuacgY65rOTXaZr8ypb452YQC%2BcjJ%2BuiuCDsamVgdzoa7VIQpLWu4Kuyff8TdJjj%2BSP7C%2BtcUI8X4qpvytBczDE0X1So7kQm6WKQfpPxe4RYDI%2FDXJJ0yDj9Hu58D8iFKc3Hqv--V8Z1RiNpBkNHi%2FQv--5XEJGSndoYONBaNgDewdDw%3D%3D",
+      "value": "548I2D0cGomsy9a0c1XYnQvhcDnXNCXGj4Q7RyMVNLOhaTolCso9TdDAMxk1dokDr8jp5%2BwOcVxsrAi3FqQ6%2FxNuMW5AvH6YA7UIXrCYMagdLr2zjOMLpquTd6zCMS9EGyNzX7Df%2Bkf42lExZEmnFziQlKDmsQKId4p0YdmonEosYLhl2jYHhDxI191nujNkJH0Frl%2F2vjSxEM4vwmBVR9iRfWr%2Bf16HUpHFNv3hqaKbS4IMTmuqv01fcapls%2F1CoeoA84j%2Fk70ZL4MYPlIOELC%2BpFClPmkRuDl0ajMYtMtukBtcrw5TNCq8Gii2QY%2BXZ4ytVikH5W5rlU9L8M5SrPN%2BYf80WR4QfiLzA%2BHPGEhSh5pHK%2F2HNXhfzbENhnVYnm8NHnbPKe%2BeCDF1YxHh6w92LV0xV1rkqCxCYlzs7VVBPuns5oYnQ32Xrk5XyIpIj3jZJrIzcE8GG9Vd%2FcmY%2FP6tWl%2BfYp6gd%2Bd%2FFPzoylBjSHF3N04c6D2MKWXy--d4CloTKZBGcFGssA--bxS6t7WPCMaBD317YxZF5Q%3D%3D",
       "domain": "ellesfontla.culture.gouv.fr",
       "path": "/",
       "expires": -1,
-      "size": 615,
+      "size": 617,
       "httpOnly": true,
       "secure": true,
       "session": true,
@@ -96,13 +96,13 @@
     "accept-ranges": "bytes",
     "cache-control": "max-age=0, private, must-revalidate",
     "content-type": "text/html; charset=utf-8",
-    "date": "Sun, 30 Jun 2024 08:35:35 GMT",
-    "etag": "W/\"1f7f8ce8cef50b8a28f51cf8c5048f6f\"",
+    "date": "Sun, 07 Jul 2024 09:34:32 GMT",
+    "etag": "W/\"2d5ac603278bb53efc0f48b87d992f2b\"",
     "link": "</assets/application-9815be20b67528ecb748d9825798c5f0837b8eacebb73167b8d38f8c863584da.css>; rel=preload; as=style; nopush",
     "referrer-policy": "strict-origin-when-cross-origin",
-    "set-cookie": "_ellesfontlaphoto_session=pGVRmJr8vh%2BSxammxv1i7D9GR2FlwOmiQoR6vibLN8isr8SxaFwMYriJAF4x%2B%2BnK6FHnRzE%2F3skT9DSIMZwkYNq2YHQGW7jBhpx1Q5HN0qNBP0Pdu7ZeZiju5vLmpNW46Kigjpyv080ypnHfFeT1e60xkPxhmhvfRpo28h3wpBfI22JFzOMVYD5eKfYUvqYFztZOjgwMy3Y22dPOR4tD%2B9Tizq%2BPbQujbPlmdOMZrwK1%2B697deE1Cwm5fakVuKOW2Nlx955JE5TJ9FlaxfvPunk%2Fb%2Bl1yLdVKbHqyc5qZEppWBN3hPQLkC4Ixj48qLHcMzDlWKrWmChh1ZiHxyR5AqQhtKwy%2BYhWSi%2BJzwuD96YDpkKbnlmbhmPuacgY65rOTXaZr8ypb452YQC%2BcjJ%2BuiuCDsamVgdzoa7VIQpLWu4Kuyff8TdJjj%2BSP7C%2BtcUI8X4qpvytBczDE0X1So7kQm6WKQfpPxe4RYDI%2FDXJJ0yDj9Hu58D8iFKc3Hqv--V8Z1RiNpBkNHi%2FQv--5XEJGSndoYONBaNgDewdDw%3D%3D; path=/; secure; HttpOnly; SameSite=Lax",
+    "set-cookie": "_ellesfontlaphoto_session=548I2D0cGomsy9a0c1XYnQvhcDnXNCXGj4Q7RyMVNLOhaTolCso9TdDAMxk1dokDr8jp5%2BwOcVxsrAi3FqQ6%2FxNuMW5AvH6YA7UIXrCYMagdLr2zjOMLpquTd6zCMS9EGyNzX7Df%2Bkf42lExZEmnFziQlKDmsQKId4p0YdmonEosYLhl2jYHhDxI191nujNkJH0Frl%2F2vjSxEM4vwmBVR9iRfWr%2Bf16HUpHFNv3hqaKbS4IMTmuqv01fcapls%2F1CoeoA84j%2Fk70ZL4MYPlIOELC%2BpFClPmkRuDl0ajMYtMtukBtcrw5TNCq8Gii2QY%2BXZ4ytVikH5W5rlU9L8M5SrPN%2BYf80WR4QfiLzA%2BHPGEhSh5pHK%2F2HNXhfzbENhnVYnm8NHnbPKe%2BeCDF1YxHh6w92LV0xV1rkqCxCYlzs7VVBPuns5oYnQ32Xrk5XyIpIj3jZJrIzcE8GG9Vd%2FcmY%2FP6tWl%2BfYp6gd%2Bd%2FFPzoylBjSHF3N04c6D2MKWXy--d4CloTKZBGcFGssA--bxS6t7WPCMaBD317YxZF5Q%3D%3D; path=/; secure; HttpOnly; SameSite=Lax",
     "strict-transport-security": "max-age=31557600",
-    "traceresponse": "00-17ddbb44827743e32e339da5c00f20bd-d967832d134e47db-01",
+    "traceresponse": "00-17dfe48bf347435a5cab7d866a2739c1-63cb3ebb9073e382-01",
     "via": "1.1 varnish, 1.1 varnish",
     "x-cache": "MISS, MISS",
     "x-cache-hits": "0, 0",
@@ -115,9 +115,9 @@
     "x-platform-cluster": "tl34jw4qs4bu2-master-7rqtwti",
     "x-platform-processor": "gwzrtyfmq5bg3qickflrztm5jm",
     "x-platform-router": "nthylk4d6puxch5isukqy3sywa",
-    "x-request-id": "8eb0f702-ef88-4651-bf16-ffe056a5a9d8",
-    "x-runtime": "0.168643",
-    "x-served-by": "cache-par-lfpg1960044-PAR, cache-pao-kpao1770072-PAO",
+    "x-request-id": "7c09f6d3-c7ca-4446-bd3c-00ce78e02e97",
+    "x-runtime": "0.220436",
+    "x-served-by": "cache-par-lfpg1960026-PAR, cache-chi-kigq8000096-CHI",
     "x-xss-protection": "1; mode=block"
   },
   "endpoints": [
@@ -179,19 +179,19 @@
     },
     {
       "hostname": "res.cloudinary.com",
-      "ip": "104.107.104.50",
+      "ip": "23.198.32.46",
       "geoip": {
         "city": {
-          "geoname_id": 5393015,
+          "geoname_id": 4887398,
           "names": {
-            "de": "Santa Clara",
-            "en": "Santa Clara",
-            "es": "Santa Clara",
-            "fr": "Santa Clara",
-            "ja": "サンタクララ",
-            "pt-BR": "Santa Clara",
-            "ru": "Санта-Клара",
-            "zh-CN": "圣克拉拉"
+            "de": "Chicago",
+            "en": "Chicago",
+            "es": "Chicago",
+            "fr": "Chicago",
+            "ja": "シカゴ",
+            "pt-BR": "Chicago",
+            "ru": "Чикаго",
+            "zh-CN": "芝加哥"
           }
         },
         "continent": {
@@ -224,13 +224,13 @@
         },
         "location": {
           "accuracy_radius": 20,
-          "latitude": 37.353,
-          "longitude": -121.9543,
-          "metro_code": 807,
-          "time_zone": "America/Los_Angeles"
+          "latitude": 41.8874,
+          "longitude": -87.6318,
+          "metro_code": 602,
+          "time_zone": "America/Chicago"
         },
         "postal": {
-          "code": "95052"
+          "code": "60602"
         },
         "registered_country": {
           "geoname_id": 6252001,
@@ -248,17 +248,17 @@
         },
         "subdivisions": [
           {
-            "geoname_id": 5332921,
-            "iso_code": "CA",
+            "geoname_id": 4896861,
+            "iso_code": "IL",
             "names": {
-              "de": "Kalifornien",
-              "en": "California",
-              "es": "California",
-              "fr": "Californie",
-              "ja": "カリフォルニア州",
-              "pt-BR": "Califórnia",
-              "ru": "Калифорния",
-              "zh-CN": "加州"
+              "de": "Illinois",
+              "en": "Illinois",
+              "es": "Illinois",
+              "fr": "Illinois",
+              "ja": "イリノイ州",
+              "pt-BR": "Ilinóis",
+              "ru": "Иллинойс",
+              "zh-CN": "伊利诺伊州"
             }
           }
         ]
