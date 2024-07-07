@@ -5,9 +5,9 @@
     "cache-control": "no-store",
     "content-encoding": "br",
     "content-type": "text/html",
-    "date": "Sun, 30 Jun 2024 06:19:34 GMT",
-    "etag": "W/\"66705616-2169\"",
-    "last-modified": "Mon, 17 Jun 2024 15:28:22 GMT",
+    "date": "Sun, 07 Jul 2024 06:59:34 GMT",
+    "etag": "W/\"66840da3-2169\"",
+    "last-modified": "Tue, 02 Jul 2024 14:24:35 GMT",
     "referrer-policy": "strict-origin-when-cross-origin",
     "server": "nginx/1.21.6",
     "strict-transport-security": "max-age=315360000; includeSubDomains",
@@ -52,7 +52,7 @@
           }
         },
         "location": {
-          "accuracy_radius": 1000,
+          "accuracy_radius": 500,
           "latitude": 48.8582,
           "longitude": 2.3387,
           "time_zone": "Europe/Paris"
