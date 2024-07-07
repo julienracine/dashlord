@@ -21,11 +21,11 @@
 ###########################################################</span>
 
  Using &quot;OpenSSL 1.0.2-bad (1.0.2k-dev)&quot; [~183 ciphers]
- on fv-az520-196:/home/testssl/bin/openssl.Linux.x86_64
+ on fv-az891-224:/home/testssl/bin/openssl.Linux.x86_64
  (built: &quot;Sep  1 14:03:44 2022&quot;, platform: &quot;linux-x86_64&quot;)
 
 
-<span style="color:white;background-color:black;"> Start 2024-06-30 01:36:38                --&gt;&gt; 54.38.65.110:443 (api.apprentissage.beta.gouv.fr) &lt;&lt;--</span>
+<span style="color:white;background-color:black;"> Start 2024-07-07 01:41:14                --&gt;&gt; 54.38.65.110:443 (api.apprentissage.beta.gouv.fr) &lt;&lt;--</span>
 
  rDNS (54.38.65.110):    vps-13a387f1.vps.ovh.net.
  Service detected:       HTTP
@@ -95,29 +95,29 @@ Hexcode  Cipher Suite Name (OpenSSL)       KeyExch.   Encryption  Bits     Ciphe
 <span style="font-weight:bold;"> TLS clock skew</span>               Random values, no fingerprinting possible 
 <span style="font-weight:bold;"> Certificate Compression      </span>none
 <span style="font-weight:bold;"> Client Authentication        </span>none
-<span style="font-weight:bold;"> Signature Algorithm          </span><span style="color:#008817;">SHA256 with RSA</span>
+<span style="font-weight:bold;"> Signature Algorithm          </span><span style="color:#008817;">ECDSA with SHA384</span>
 <span style="font-weight:bold;"> Server key size              </span>EC <span style="color:#008817;">256</span> bits (curve P-256)
 <span style="font-weight:bold;"> Server key usage             </span>Digital Signature
 <span style="font-weight:bold;"> Server extended key usage    </span>TLS Web Server Authentication, TLS Web Client Authentication
-<span style="font-weight:bold;"> Serial                       </span>03668E83074B327F6C0396E68D83C8B2079A (OK: length 18)
-<span style="font-weight:bold;"> Fingerprints                 </span>SHA1 3B7A539588BE104115403BBC850CE8F23DA6D34F
-                              SHA256 17453015BA4AF962DFA340FEE0A41F59A10C9B67A42F96CC9A8E6FDC0C9DC947
+<span style="font-weight:bold;"> Serial                       </span>034E16F9FA47545495F2CE71D1D012AFBEB8 (OK: length 18)
+<span style="font-weight:bold;"> Fingerprints                 </span>SHA1 E794A16A05194473297264950D63EFA754789C7B
+                              SHA256 5F8B4F949F2E50FC183E283E862BB28230466CA84AAAEA8CC31C1F4FBD79C517
 <span style="font-weight:bold;"> Common Name (CN)             </span><i>api.apprentissage.beta.gouv.fr </i>
 <span style="font-weight:bold;"> subjectAltName (SAN)         </span><i>api.apprentissage.beta.gouv.fr </i>
 <span style="font-weight:bold;"> Trust (hostname)             </span><span style="color:#008817;">Ok via SAN and CN</span> (same w/o SNI)
 <span style="font-weight:bold;"> Chain of trust</span>               <span style="color:#008817;">Ok   </span><span style="color:#cd00cd;"></span>
 <span style="font-weight:bold;"> EV cert</span> (experimental)       no 
-<span style="font-weight:bold;"> Certificate Validity (UTC)   </span><span style="color:#c05600;">expires &lt; 30 days (27)</span> (2024-04-28 23:00 --&gt; 2024-07-27 23:00)
+<span style="font-weight:bold;"> Certificate Validity (UTC)   </span><span style="color:#008817;">84 &gt;= 30 days</span> (2024-07-01 09:03 --&gt; 2024-09-29 09:03)
 <span style="font-weight:bold;"> ETS/&quot;eTLS&quot;</span>, visibility info  not present
 <span style="font-weight:bold;"> Certificate Revocation List  </span>--
-<span style="font-weight:bold;"> OCSP URI                     </span>http://r3.o.lencr.org
+<span style="font-weight:bold;"> OCSP URI                     </span>http://e6.o.lencr.org
 <span style="font-weight:bold;"> OCSP stapling                </span><span style="color:#a86437;">not offered</span>
 <span style="font-weight:bold;"> OCSP must staple extension   </span>--
 <span style="font-weight:bold;"> DNS CAA RR</span> (experimental)    <span style="color:#a86437;">not offered</span>
 <span style="font-weight:bold;"> Certificate Transparency     </span><span style="color:#008817;">yes</span> (certificate extension)
 <span style="font-weight:bold;"> Certificates provided</span>        2
-<span style="font-weight:bold;"> Issuer                       </span><i>R3</i> (<i>Let&apos;s Encrypt</i> from <i>US</i>)
-<span style="font-weight:bold;"> Intermediate cert validity   </span>#1: <span style="color:#008817;">ok &gt; 40 days</span> (2025-09-15 16:00). <i>R3</i> &lt;-- <i>ISRG Root X1</i>
+<span style="font-weight:bold;"> Issuer                       </span><i>E6</i> (<i>Let&apos;s Encrypt</i> from <i>US</i>)
+<span style="font-weight:bold;"> Intermediate cert validity   </span>#1: <span style="color:#008817;">ok &gt; 40 days</span> (2027-03-12 23:59). <i>E6</i> &lt;-- <i>ISRG Root X1</i>
 <span style="font-weight:bold;"> Intermediate Bad OCSP</span> (exp.) <span style="color:#008817;">Ok</span>
 
 
@@ -145,7 +145,7 @@ Hexcode  Cipher Suite Name (OpenSSL)       KeyExch.   Encryption  Bits     Ciphe
                                 https://geo.api.gouv.fr/ https://plausible.io
                                 https://sentry.apprentissage.beta.gouv.fr ;
                                 upgrade-insecure-requests; worker-src &apos;self&apos;
-                                &apos;nonce-YzQ0Yjg4MDYtNjNlMS00MWU3LThmZDYtYmY5MTc0Nzc3Y2I3&apos; 
+                                &apos;nonce-MDkxN2I1MWEtNmQzYi00MTkyLTg4NDktNzE0MDE2YmIzNGI4&apos; 
                                 strict-dynamic&apos;;
                               Referrer-Policy: no-referrer-when-downgrade
                               Cache-Control: private, no-cache, no-store,
@@ -228,7 +228,7 @@ Hexcode  Cipher Suite Name (OpenSSL)       KeyExch.   Encryption  Bits     Ciphe
 <span style="font-weight:bold;"> Final Score                  </span>96
 <span style="font-weight:bold;"> Overall Grade                </span><span style="color:#008817;font-weight:bold;">A+</span>
 
-<span style="color:white;background-color:black;"> Done 2024-06-30 01:37:39 [  63s] --&gt;&gt; 54.38.65.110:443 (api.apprentissage.beta.gouv.fr) &lt;&lt;--</span>
+<span style="color:white;background-color:black;"> Done 2024-07-07 01:42:06 [  54s] --&gt;&gt; 54.38.65.110:443 (api.apprentissage.beta.gouv.fr) &lt;&lt;--</span>
 
 
 </pre>
