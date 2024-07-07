@@ -11,7 +11,7 @@
       "value": "1",
       "domain": ".www.demarches-simplifiees.fr",
       "path": "/",
-      "expires": 1719730273,
+      "expires": 1720337836,
       "size": 16,
       "httpOnly": false,
       "secure": false,
@@ -23,10 +23,10 @@
     },
     {
       "name": "_pk_id.73.dc9f",
-      "value": "75c6a94e7f1352f9.1719728474.",
+      "value": "260444db9f0a049f.1720336036.",
       "domain": ".www.demarches-simplifiees.fr",
       "path": "/",
-      "expires": 1753683674,
+      "expires": 1754291236,
       "size": 42,
       "httpOnly": false,
       "secure": false,
@@ -38,11 +38,11 @@
     },
     {
       "name": "_DS_session",
-      "value": "5BGt0zoEuWSZW8QLC4LtfZQHkwcK%2FaMRLKVP45wIQxWxE0DLx4SCjod7L5CdmD%2BW1%2BEEUphIxGCxmkXuI%2FRUt5BfOu%2FzDvden%2Bt2nQ2YXnd9ObwJ4iTEWnFJTneOU4qcNtPYvrgeqsPUqRFcZXitEZi9pmZ9Mb4DQ4PRRzHXhrGY1WrdJ1imHEJcAvCNiY%2B2PL2CNMzqf%2FfxD88MfcoY7C1PpZ7imUNuqMYEaD6jnouEQxLYmuWzqD7QA9kbKIlzB5vo3S0SOc85Cwe6EE5E2%2BNBZA%3D%3D--8VaPVTSGtL0e5%2Fdb--O8rVqbEYFEEB0VxCVzFzTQ%3D%3D",
+      "value": "GX0lHuN4WZMvkeodWYJM1vNHxd4P%2B4BVNNaXH9mk08lTBqM%2BTZbEkLQaPkYorUTWBuZIw%2BliEbBs3QERBEH0AO8PaXOw7rKEipElHfMmE%2FfHsujIKzVUBZ3YGK6cfOKcEigyQmGZCRPE1xbPhXqVlDvbsn4EbiNNq%2FbHAJ4qihdTuK0yKsH4oAMucTu5mTDNl98KxG6hZU8Om3QzQJOXThtglHpE87LDkqOPvNlKxyj897icPZdDT4cK8sflC9Lfg2ct7wdZvJ5rr5YUcRnBeIjbLw%3D%3D--hozGKdY2bEjtvhC1--noIWlj%2BDvLOd%2BuRcALLvXw%3D%3D",
       "domain": "www.demarches-simplifiees.fr",
       "path": "/",
       "expires": -1,
-      "size": 367,
+      "size": 361,
       "httpOnly": true,
       "secure": false,
       "session": true,
@@ -53,10 +53,10 @@
     },
     {
       "name": "_csrf_token",
-      "value": "eyJfcmFpbHMiOnsibWVzc2FnZSI6IklqY3liVkJpWm5kRVlqSjBlbU5uTkhad2JXcFdlRFZNUVROaFJYRm5WRlZEYldGWVRqSndSVE5HYWpBaSIsImV4cCI6IjIwMjUtMDYtMzBUMDY6MjE6MTIuNjY3WiIsInB1ciI6ImNvb2tpZS5fY3NyZl90b2tlbiJ9fQ%3D%3D--cc1d17a6a718ca95bf0d5f5411507d39b30027a5",
+      "value": "eyJfcmFpbHMiOnsibWVzc2FnZSI6IklqQmhWbXRKYkc5VWVWbDNOMFoyUTNkVVlsaE1NMFpGUTNOWGIzUmpaa3REUkU5MGIyRmthRXh5Vm1zaSIsImV4cCI6IjIwMjUtMDctMDdUMDc6MDc6MTQuMTU3WiIsInB1ciI6ImNvb2tpZS5fY3NyZl90b2tlbiJ9fQ%3D%3D--7a8017c8be0062b4a6d666136f5bab8c7d489d68",
       "domain": "www.demarches-simplifiees.fr",
       "path": "/",
-      "expires": 1751264472.727095,
+      "expires": 1751872034.234512,
       "size": 253,
       "httpOnly": true,
       "secure": false,
@@ -72,19 +72,19 @@
     "content-encoding": "gzip",
     "content-security-policy": "img-src 'self' data: blob: *.openstreetmap.org *.cloud.ovh.net * static.demarches-simplifiees.fr stats.data.gouv.fr; script-src 'self' 'unsafe-eval' 'unsafe-inline' blob: *.crisp.chat crisp.chat cdn.jsdelivr.net maxcdn.bootstrapcdn.com code.jquery.com unpkg.com stats.data.gouv.fr; style-src 'self' 'unsafe-inline' *.crisp.chat crisp.chat cdn.jsdelivr.net maxcdn.bootstrapcdn.com unpkg.com; connect-src 'self' wss://*.crisp.chat *.crisp.chat app.franceconnect.gouv.fr openmaptiles.geo.data.gouv.fr openmaptiles.github.io tiles.geo.api.gouv.fr data.geopf.fr www.demarches-simplifiees.fr www.demarches-simplifiees.fr sentry.io static.demarches-simplifiees.fr api-adresse.data.gouv.fr data.education.gouv.fr geo.api.gouv.fr stats.data.gouv.fr; frame-src 'self' stats.data.gouv.fr static.demarches-simplifiees.fr; default-src 'self' data: blob: 'report-sample' fonts.gstatic.com in-automate.sendinblue.com player.vimeo.com app.franceconnect.gouv.fr *.crisp.chat crisp.chat *.crisp.help *.sibautomation.com sibautomation.com data sentry.io static.demarches-simplifiees.fr",
     "content-type": "text/html; charset=utf-8",
-    "date": "Sun, 30 Jun 2024 06:21:12 GMT",
-    "etag": "W/\"919bfb87fb9f0eb850c2b304afd58a89\"",
-    "link": "</vite/assets/application-D8OOu1ZR.js>; rel=modulepreload; as=script; crossorigin=anonymous; nopush,<https://www.demarches-simplifiees.fr/assets/Marianne-Regular-8e657d64ad967481d7fd3290e2ea23162340fae54ca839ad88b949f9d8602f32.woff2>; rel=preload; as=font; type=font/woff2; crossorigin=anonymous,<https://www.demarches-simplifiees.fr/assets/Spectral-Regular-958694e3dd507d80daad1c521d500d4cf4173d0e59353cbe61afd6ba1c187228.ttf>; rel=preload; as=font; type=font/ttf; crossorigin=anonymous,</vite/assets/main-0wdumqTj.css>; rel=preload; as=style; nopush,</assets/application-52270479a0ca234f8d99b59f8b87ff773afc374098ca198e95b239a999892980.css>; rel=preload; as=style; nopush",
+    "date": "Sun, 07 Jul 2024 07:07:14 GMT",
+    "etag": "W/\"ef4350bee4fb4874abcfbf607ea50c50\"",
+    "link": "</vite/assets/application-iqgOV0m7.js>; rel=modulepreload; as=script; crossorigin=anonymous; nopush,<https://www.demarches-simplifiees.fr/assets/Marianne-Regular-8e657d64ad967481d7fd3290e2ea23162340fae54ca839ad88b949f9d8602f32.woff2>; rel=preload; as=font; type=font/woff2; crossorigin=anonymous,<https://www.demarches-simplifiees.fr/assets/Spectral-Regular-958694e3dd507d80daad1c521d500d4cf4173d0e59353cbe61afd6ba1c187228.ttf>; rel=preload; as=font; type=font/ttf; crossorigin=anonymous,</vite/assets/main-0wdumqTj.css>; rel=preload; as=style; nopush,</assets/application-994cf14e076bf14fec0cb51b3120d98a853a9bd164b6786642657e8aa1fbe44a.css>; rel=preload; as=style; nopush",
     "referrer-policy": "strict-origin-when-cross-origin",
     "server": "nginx",
-    "set-cookie": "_csrf_token=eyJfcmFpbHMiOnsibWVzc2FnZSI6IklqY3liVkJpWm5kRVlqSjBlbU5uTkhad2JXcFdlRFZNUVROaFJYRm5WRlZEYldGWVRqSndSVE5HYWpBaSIsImV4cCI6IjIwMjUtMDYtMzBUMDY6MjE6MTIuNjY3WiIsInB1ciI6ImNvb2tpZS5fY3NyZl90b2tlbiJ9fQ%3D%3D--cc1d17a6a718ca95bf0d5f5411507d39b30027a5; path=/; expires=Mon, 30 Jun 2025 06:21:12 GMT; HttpOnly; SameSite=Lax\n_DS_session=5BGt0zoEuWSZW8QLC4LtfZQHkwcK%2FaMRLKVP45wIQxWxE0DLx4SCjod7L5CdmD%2BW1%2BEEUphIxGCxmkXuI%2FRUt5BfOu%2FzDvden%2Bt2nQ2YXnd9ObwJ4iTEWnFJTneOU4qcNtPYvrgeqsPUqRFcZXitEZi9pmZ9Mb4DQ4PRRzHXhrGY1WrdJ1imHEJcAvCNiY%2B2PL2CNMzqf%2FfxD88MfcoY7C1PpZ7imUNuqMYEaD6jnouEQxLYmuWzqD7QA9kbKIlzB5vo3S0SOc85Cwe6EE5E2%2BNBZA%3D%3D--8VaPVTSGtL0e5%2Fdb--O8rVqbEYFEEB0VxCVzFzTQ%3D%3D; path=/; HttpOnly; SameSite=Lax",
+    "set-cookie": "_csrf_token=eyJfcmFpbHMiOnsibWVzc2FnZSI6IklqQmhWbXRKYkc5VWVWbDNOMFoyUTNkVVlsaE1NMFpGUTNOWGIzUmpaa3REUkU5MGIyRmthRXh5Vm1zaSIsImV4cCI6IjIwMjUtMDctMDdUMDc6MDc6MTQuMTU3WiIsInB1ciI6ImNvb2tpZS5fY3NyZl90b2tlbiJ9fQ%3D%3D--7a8017c8be0062b4a6d666136f5bab8c7d489d68; path=/; expires=Mon, 07 Jul 2025 07:07:14 GMT; HttpOnly; SameSite=Lax\n_DS_session=GX0lHuN4WZMvkeodWYJM1vNHxd4P%2B4BVNNaXH9mk08lTBqM%2BTZbEkLQaPkYorUTWBuZIw%2BliEbBs3QERBEH0AO8PaXOw7rKEipElHfMmE%2FfHsujIKzVUBZ3YGK6cfOKcEigyQmGZCRPE1xbPhXqVlDvbsn4EbiNNq%2FbHAJ4qihdTuK0yKsH4oAMucTu5mTDNl98KxG6hZU8Om3QzQJOXThtglHpE87LDkqOPvNlKxyj897icPZdDT4cK8sflC9Lfg2ct7wdZvJ5rr5YUcRnBeIjbLw%3D%3D--hozGKdY2bEjtvhC1--noIWlj%2BDvLOd%2BuRcALLvXw%3D%3D; path=/; HttpOnly; SameSite=Lax",
     "strict-transport-security": "max-age=63072000",
     "x-content-type-options": "nosniff",
     "x-download-options": "noopen",
     "x-frame-options": "SAMEORIGIN",
     "x-permitted-cross-domain-policies": "none",
-    "x-request-id": "8116ab94-a5d7-4baf-8bf1-d33821f433bc",
-    "x-runtime": "0.027294",
+    "x-request-id": "3601cbae-a22d-43b2-80d3-43eea263d6e9",
+    "x-runtime": "0.025678",
     "x-xss-protection": "0"
   },
   "endpoints": [
@@ -92,19 +92,6 @@
       "hostname": "www.demarches-simplifiees.fr",
       "ip": "176.31.79.200",
       "geoip": {
-        "city": {
-          "geoname_id": 2988507,
-          "names": {
-            "de": "Paris",
-            "en": "Paris",
-            "es": "París",
-            "fr": "Paris",
-            "ja": "パリ",
-            "pt-BR": "Paris",
-            "ru": "Париж",
-            "zh-CN": "巴黎"
-          }
-        },
         "continent": {
           "code": "EU",
           "geoname_id": 6255148,
@@ -135,13 +122,10 @@
           }
         },
         "location": {
-          "accuracy_radius": 20,
-          "latitude": 48.8323,
-          "longitude": 2.4075,
+          "accuracy_radius": 500,
+          "latitude": 48.8582,
+          "longitude": 2.3387,
           "time_zone": "Europe/Paris"
-        },
-        "postal": {
-          "code": "75008"
         },
         "registered_country": {
           "geoname_id": 3017382,
@@ -157,51 +141,13 @@
             "ru": "Франция",
             "zh-CN": "法国"
           }
-        },
-        "subdivisions": [
-          {
-            "geoname_id": 3012874,
-            "iso_code": "IDF",
-            "names": {
-              "de": "Île-de-France",
-              "en": "Île-de-France",
-              "es": "Isla de Francia",
-              "fr": "Île-de-France",
-              "ja": "イル・ド・フランス",
-              "pt-BR": "Ilha de França",
-              "ru": "Иль-де-Франс",
-              "zh-CN": "法兰西岛"
-            }
-          },
-          {
-            "geoname_id": 2968815,
-            "iso_code": "75",
-            "names": {
-              "de": "Paris",
-              "en": "Paris",
-              "es": "Paris",
-              "fr": "Paris"
-            }
-          }
-        ]
+        }
       }
     },
     {
       "hostname": "sentry.io",
       "ip": "35.186.247.156",
       "geoip": {
-        "city": {
-          "geoname_id": 4393217,
-          "names": {
-            "de": "Kansas City",
-            "en": "Kansas City",
-            "es": "Kansas City",
-            "fr": "Kansas City",
-            "ja": "カンザスシティ",
-            "pt-BR": "Kansas City",
-            "ru": "Канзас-Сити"
-          }
-        },
         "continent": {
           "code": "NA",
           "geoname_id": 6255149,
@@ -231,14 +177,10 @@
           }
         },
         "location": {
-          "accuracy_radius": 20,
-          "latitude": 39.1027,
-          "longitude": -94.5778,
-          "metro_code": 616,
+          "accuracy_radius": 1000,
+          "latitude": 37.751,
+          "longitude": -97.822,
           "time_zone": "America/Chicago"
-        },
-        "postal": {
-          "code": "64184"
         },
         "registered_country": {
           "geoname_id": 6252001,
@@ -253,23 +195,7 @@
             "ru": "США",
             "zh-CN": "美国"
           }
-        },
-        "subdivisions": [
-          {
-            "geoname_id": 4398678,
-            "iso_code": "MO",
-            "names": {
-              "de": "Missouri",
-              "en": "Missouri",
-              "es": "Missouri",
-              "fr": "Missouri",
-              "ja": "ミズーリ州",
-              "pt-BR": "Missúri",
-              "ru": "Миссури",
-              "zh-CN": "密苏里州"
-            }
-          }
-        ]
+        }
       }
     }
   ]
