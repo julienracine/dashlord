@@ -54,7 +54,7 @@
 <h1>Scan Report<br><small>Nmap 7.92</small>
 </h1>
 <pre style="white-space:pre-wrap; word-wrap:break-word;">nmap -sV --script vulners --script-args mincvss=5.0 -oA /data/nmapvuln refugies.info</pre>
-<p class="lead">Sun Jun 30 12:08:31 2024 – Sun Jun 30 12:09:42 2024<br>1 hosts scanned.
+<p class="lead">Sun Jul  7 13:39:33 2024 – Sun Jul  7 13:40:44 2024<br>1 hosts scanned.
               1 hosts up.
               0 hosts down.
             </p>
@@ -122,32 +122,38 @@
 <tr><td colspan="7">
 <a href="https://nvd.nist.gov/vuln/search/results?form_type=Advanced&amp;cves=on&amp;cpe_version="></a><h5>fingerprint-strings</h5>
 <pre style="white-space:pre-wrap; word-wrap:break-word;">
-  DNSStatusRequestTCP, DNSVersionBindReqTCP: 
+  DNSStatusRequestTCP: 
     HTTP/1.0 400 Bad Request
     Content-Length: 54
     Content-Type: text/html; charset=UTF-8
-    Date: Sun, 30 Jun 2024 12:08:57 GMT
+    Date: Sun, 07 Jul 2024 13:40:00 GMT
+    &lt;html&gt;&lt;title&gt;Error 400 (Bad Request)!!1&lt;/title&gt;&lt;/html&gt;
+  DNSVersionBindReqTCP: 
+    HTTP/1.0 400 Bad Request
+    Content-Length: 54
+    Content-Type: text/html; charset=UTF-8
+    Date: Sun, 07 Jul 2024 13:39:59 GMT
     &lt;html&gt;&lt;title&gt;Error 400 (Bad Request)!!1&lt;/title&gt;&lt;/html&gt;
   FourOhFourRequest: 
     HTTP/1.0 301 Moved Permanently
     Cache-Control: private
     Location: https://34.120.26.1:443/nice%20ports%2C/Trinity.txt.bak
     Content-Length: 0
-    Date: Sun, 30 Jun 2024 12:08:47 GMT
+    Date: Sun, 07 Jul 2024 13:39:49 GMT
     Content-Type: text/html; charset=UTF-8
   GetRequest, HTTPOptions: 
     HTTP/1.0 301 Moved Permanently
     Cache-Control: private
     Location: https://34.120.26.1:443/
     Content-Length: 0
-    Date: Sun, 30 Jun 2024 12:08:42 GMT
+    Date: Sun, 07 Jul 2024 13:39:44 GMT
     Content-Type: text/html; charset=UTF-8
   Help: 
     HTTP/1.0 400 Bad Request
     Content-Type: text/html; charset=UTF-8
     Referrer-Policy: no-referrer
     Content-Length: 273
-    Date: Sun, 30 Jun 2024 12:08:57 GMT
+    Date: Sun, 07 Jul 2024 13:40:00 GMT
     &lt;html&gt;&lt;head&gt;
     &lt;meta http-equiv="content-type" content="text/html;charset=utf-8"&gt;
     &lt;title&gt;400 Bad Request&lt;/title&gt;
@@ -162,7 +168,7 @@
     Content-Type: text/html; charset=UTF-8
     Referrer-Policy: no-referrer
     Content-Length: 273
-    Date: Sun, 30 Jun 2024 12:08:42 GMT
+    Date: Sun, 07 Jul 2024 13:39:44 GMT
     &lt;html&gt;&lt;head&gt;
     &lt;meta http-equiv="content-type" content="text/html;charset=utf-8"&gt;
     &lt;title&gt;400 Bad Request&lt;/title&gt;
@@ -195,8 +201,8 @@
     etag: "vhyp8av0lg1e0f"
     content-type: text/html; charset=utf-8
     vary: Accept-Encoding
-    X-Cloud-Trace-Context: f0335bccb6b4db2d02e8fd5b49a2f280
-    Date: Sun, 30 Jun 2024 12:08:48 GMT
+    X-Cloud-Trace-Context: 560851e49e15f6a792056f2a2d6a5171
+    Date: Sun, 07 Jul 2024 13:39:51 GMT
     Server: Google Frontend
     Content-Length: 66117
     Via: 1.1 google
@@ -206,8 +212,8 @@
     HTTP/1.0 308 Permanent Redirect
     location: /fr
     refresh: 0;url=/fr
-    X-Cloud-Trace-Context: fd4eead65fa731e86314411c655d5a32
-    Date: Sun, 30 Jun 2024 12:08:48 GMT
+    X-Cloud-Trace-Context: fa71e37a2d0f22a7a9fc44162bed65fa
+    Date: Sun, 07 Jul 2024 13:39:50 GMT
     Content-Type: text/html
     Server: Google Frontend
     Content-Length: 3
@@ -217,8 +223,8 @@
     HTTP/1.0 308 Permanent Redirect
     location: /fr
     refresh: 0;url=/fr
-    X-Cloud-Trace-Context: 0eb8e501faffa45121120d41410944f5
-    Date: Sun, 30 Jun 2024 12:08:48 GMT
+    X-Cloud-Trace-Context: 9736c466d72c255a9103dc6fbd2a9108
+    Date: Sun, 07 Jul 2024 13:39:50 GMT
     Content-Type: text/html
     Server: Google Frontend
     Content-Length: 3
@@ -228,7 +234,7 @@
     HTTP/1.0 400 Bad Request
     Content-Length: 54
     Content-Type: text/html; charset=UTF-8
-    Date: Sun, 30 Jun 2024 12:08:49 GMT
+    Date: Sun, 07 Jul 2024 13:39:51 GMT
     &lt;html&gt;&lt;title&gt;Error 400 (Bad Request)!!1&lt;/title&gt;&lt;/html&gt;</pre>
 </td></tr>
 </tbody>
