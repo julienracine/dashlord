@@ -4,9 +4,9 @@
   "headers": {
     "cache-control": "private, no-cache, no-store, max-age=0, must-revalidate",
     "content-encoding": "gzip",
-    "content-security-policy": "default-src 'self' https://plausible.io; base-uri 'self'; block-all-mixed-content; font-src 'self' https: data:; frame-ancestors 'self'; frame-src 'self' https://plausible.io; img-src 'self' https://www.notion.so data: ; object-src 'none'; script-src 'self' https://plausible.io 'unsafe-inline' ; script-src-attr 'none'; style-src 'self' https: https: *.plausible.io 'unsafe-inline'; connect-src 'self' https://geo.api.gouv.fr/ https://plausible.io https://sentry.apprentissage.beta.gouv.fr ; upgrade-insecure-requests; worker-src 'self' 'nonce-YjkxZjg2ZTEtYjI3MC00MDFkLWJiNjMtZGQ2Y2Q0NGI5NzQ4' 'strict-dynamic';",
+    "content-security-policy": "default-src 'self' https://plausible.io; base-uri 'self'; block-all-mixed-content; font-src 'self' https: data:; frame-ancestors 'self'; frame-src 'self' https://plausible.io; img-src 'self' https://www.notion.so data: ; object-src 'none'; script-src 'self' https://plausible.io 'unsafe-inline' ; script-src-attr 'none'; style-src 'self' https: https: *.plausible.io 'unsafe-inline'; connect-src 'self' https://geo.api.gouv.fr/ https://plausible.io https://sentry.apprentissage.beta.gouv.fr ; upgrade-insecure-requests; worker-src 'self' 'nonce-NjNkN2I5OWItZDBlOC00MDdhLWJlYmYtYzI1OTlkZjAwZjVk' 'strict-dynamic';",
     "content-type": "text/html; charset=utf-8",
-    "date": "Sun, 30 Jun 2024 01:35:38 GMT",
+    "date": "Sun, 07 Jul 2024 01:40:17 GMT",
     "referrer-policy": "no-referrer-when-downgrade",
     "strict-transport-security": "max-age=31536000; includeSubdomains",
     "vary": "RSC, Next-Router-State-Tree, Next-Router-Prefetch, Next-Url, Accept-Encoding",
@@ -48,7 +48,7 @@
           }
         },
         "location": {
-          "accuracy_radius": 1000,
+          "accuracy_radius": 200,
           "latitude": 48.8582,
           "longitude": 2.3387,
           "time_zone": "Europe/Paris"
