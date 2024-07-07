@@ -206,7 +206,7 @@
               "ip"           : "backend.passculture.pro/34.107.224.170",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "supported"
+              "finding"      : "not supported"
           }
 ,         {
               "id"           : "TLS_timestamp",
@@ -346,7 +346,7 @@
               "ip"           : "backend.passculture.pro/34.107.224.170",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "73 >= 60 days"
+              "finding"      : "66 >= 60 days"
           }
 ,         {
               "id"           : "cert_notBefore",
@@ -549,7 +549,7 @@
               "ip"           : "backend.passculture.pro/34.107.224.170",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1719722944"
+              "finding"      : "1720329821"
           }
 ,         {
               "id"           : "HSTS_time",
@@ -613,13 +613,6 @@
               "port"         : "443",
               "severity"     : "OK",
               "finding"      : "nosniff"
-          }
-,         {
-              "id"           : "Content-Security-Policy-Report-Only",
-              "ip"           : "backend.passculture.pro/34.107.224.170",
-              "port"         : "443",
-              "severity"     : "OK",
-              "finding"      : "default-src 'self'; report-uri ; report-to"
           }
 ,         {
               "id"           : "X-XSS-Protection",
@@ -1133,6 +1126,6 @@
               "ip"           : "backend.passculture.pro/34.107.224.170",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "35"
+              "finding"      : "37"
           }
 ]
