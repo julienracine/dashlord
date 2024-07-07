@@ -3,10 +3,10 @@
   "cookies": [
     {
       "name": "csrftoken",
-      "value": "8EwYHqQn9KRKBJ4WXIzKD8XaBeELxhIP",
+      "value": "e4CEsQianHw9RlSdLjgFYuKgyrUgqMVD",
       "domain": "moana.beta.gouv.fr",
       "path": "/",
-      "expires": 1751186232.439806,
+      "expires": 1751794513.629274,
       "size": 41,
       "httpOnly": false,
       "secure": true,
@@ -19,18 +19,18 @@
   ],
   "headers": {
     "content-encoding": "gzip",
-    "content-security-policy": "default-src 'self'; connect-src 'self'; form-action 'self'; script-src 'self'; style-src 'self' 'sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=' 'sha256-BW8NYdPk+rv9lpNlgLUX1TA/NiHG2tpA6q6KRC//k5c=' 'sha256-dsGP181IqXG75B+r9iF1SiIhPNVTsVx0BJXDFaoQLq4=' 'sha256-Qkou26UJ4mma/LNSpT1/69nlpyu27XJKOUO7n13g5Yk='; img-src 'self' data:; font-src 'self' data:; object-src 'self'; base-uri 'self'",
+    "content-security-policy": "base-uri 'self'; form-action 'self'; default-src 'self'; font-src 'self' data:; object-src 'self'; connect-src 'self'; style-src 'self' 'sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=' 'sha256-BW8NYdPk+rv9lpNlgLUX1TA/NiHG2tpA6q6KRC//k5c=' 'sha256-dsGP181IqXG75B+r9iF1SiIhPNVTsVx0BJXDFaoQLq4=' 'sha256-Qkou26UJ4mma/LNSpT1/69nlpyu27XJKOUO7n13g5Yk='; script-src 'self'; img-src 'self' data:",
     "content-type": "text/html; charset=utf-8",
     "cross-origin-opener-policy": "same-origin",
-    "date": "Sun, 30 Jun 2024 08:37:12 GMT",
+    "date": "Sun, 07 Jul 2024 09:35:13 GMT",
     "permissions-policy": "accelerometer=(), autoplay=(), camera=(), display-capture=(), document-domain=(), encrypted-media=(), fullscreen=(), geolocation=(), gyroscope=(), magnetometer=(), microphone=(), midi=(), payment=(), usb=()",
     "referrer-policy": "same-origin",
-    "set-cookie": "csrftoken=8EwYHqQn9KRKBJ4WXIzKD8XaBeELxhIP; expires=Sun, 29 Jun 2025 08:37:12 GMT; Max-Age=31449600; Path=/; SameSite=Lax; Secure",
+    "set-cookie": "csrftoken=e4CEsQianHw9RlSdLjgFYuKgyrUgqMVD; expires=Sun, 06 Jul 2025 09:35:13 GMT; Max-Age=31449600; Path=/; SameSite=Lax; Secure",
     "strict-transport-security": "max-age=31536000",
     "vary": "Cookie, origin",
     "x-content-type-options": "nosniff",
     "x-frame-options": "DENY",
-    "x-request-id": "5e4fe036-9102-422a-a829-48ba1939721f"
+    "x-request-id": "ea63e071-7202-4b3c-8656-a182b10ac37e"
   },
   "endpoints": [
     {
