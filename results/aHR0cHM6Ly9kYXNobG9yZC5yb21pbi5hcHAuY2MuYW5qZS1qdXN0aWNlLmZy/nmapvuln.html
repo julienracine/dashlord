@@ -54,7 +54,7 @@
 <h1>Scan Report<br><small>Nmap 7.92</small>
 </h1>
 <pre style="white-space:pre-wrap; word-wrap:break-word;">nmap -sV --script vulners --script-args mincvss=5.0 -oA /data/nmapvuln dashlord.romin.app.cc.anje-justice.fr</pre>
-<p class="lead">Sun Jun 30 12:35:35 2024 – Sun Jun 30 12:38:30 2024<br>1 hosts scanned.
+<p class="lead">Sun Jul  7 14:08:11 2024 – Sun Jul  7 14:10:35 2024<br>1 hosts scanned.
               1 hosts up.
               0 hosts down.
             </p>
@@ -124,12 +124,12 @@
     Cache-Control: no-cache
     Connection: close
     Content-Length: 479
-    Sozu-Id: 01J1MJ9S9S57SFJJAV454J42VN
+    Sozu-Id: 01J26RC7P2JC2E8X07H69CCXMP
     &lt;style&gt;pre{background:#EEE;padding:10px;border:1px solid #AAA;border-radius: 5px;}&lt;/style&gt;
     &lt;h1&gt;400 Bad Request&lt;/h1&gt;
     &lt;pre&gt;
     "route": "GET",
-    "request_id": "01J1MJ9S9S57SFJJAV454J42VN",
+    "request_id": "01J26RC7P2JC2E8X07H69CCXMP",
     &lt;/pre&gt;
     &lt;p&gt;Request could not be parsed. Parser stopped at phase: Body.&lt;/p&gt;
     &lt;p&gt;Diagnostic: Could not extract the route after connection started, this should not happen.&lt;/p&gt;
@@ -141,12 +141,12 @@
     Cache-Control: no-cache
     Connection: close
     Content-Length: 483
-    Sozu-Id: 01J1MJ9ZBRTD2V04WBTAF7EFAK
+    Sozu-Id: 01J26RCDQ15B5KECHF09X43KQR
     &lt;style&gt;pre{background:#EEE;padding:10px;border:1px solid #AAA;border-radius: 5px;}&lt;/style&gt;
     &lt;h1&gt;400 Bad Request&lt;/h1&gt;
     &lt;pre&gt;
     "route": "OPTIONS",
-    "request_id": "01J1MJ9ZBRTD2V04WBTAF7EFAK",
+    "request_id": "01J26RCDQ15B5KECHF09X43KQR",
     &lt;/pre&gt;
     &lt;p&gt;Request could not be parsed. Parser stopped at phase: Body.&lt;/p&gt;
     &lt;p&gt;Diagnostic: Could not extract the route after connection started, this should not happen.&lt;/p&gt;
@@ -158,12 +158,12 @@
     Cache-Control: no-cache
     Connection: close
     Content-Length: 885
-    Sozu-Id: 01J1MJ9ZJ76EDDWJS14KFX9RMH
+    Sozu-Id: 01J26RCDWHSWZNMGF78AK5E7FR
     &lt;style&gt;pre{background:#EEE;padding:10px;border:1px solid #AAA;border-radius: 5px;}&lt;/style&gt;
     &lt;h1&gt;400 Bad Request&lt;/h1&gt;
     &lt;pre&gt;
     "route": "",
-    "request_id": "01J1MJ9ZJ76EDDWJS14KFX9RMH",
+    "request_id": "01J26RCDWHSWZNMGF78AK5E7FR",
     &lt;/pre&gt;
     &lt;p&gt;Request could not be parsed. Parser stopped at phase: StatusLine.&lt;/p&gt;
     &lt;p&gt;Diagnostic: The request line is invalid. Make sure it is well formated and all characters are LATIN-1 (no UTF-8 allowed).&lt;/p&gt;
@@ -191,7 +191,10 @@
 <td title="Version"></td>
 <td title="Extra Info"></td>
 </tr>
-<tr><td colspan="7"><a href="https://nvd.nist.gov/vuln/search/results?form_type=Advanced&amp;cves=on&amp;cpe_version="></a></td></tr>
+<tr><td colspan="7">
+<a href="https://nvd.nist.gov/vuln/search/results?form_type=Advanced&amp;cves=on&amp;cpe_version="></a><h5>http-trane-info</h5>
+<pre style="white-space:pre-wrap; word-wrap:break-word;">Problem with XML parsing of /evox/about</pre>
+</td></tr>
 <tr class="success">
 <td title="Port">1080</td>
 <td title="Protocol">tcp</td>
@@ -216,33 +219,12 @@
 <td title="Port">3000</td>
 <td title="Protocol">tcp</td>
 <td title="State / Reason">open<br>syn-ack</td>
-<td title="Service">ppp</td>
-<td title="Product"></td>
+<td title="Service">landesk-rc</td>
+<td title="Product">LANDesk remote management</td>
 <td title="Version"></td>
 <td title="Extra Info"></td>
 </tr>
-<tr><td colspan="7">
-<a href="https://nvd.nist.gov/vuln/search/results?form_type=Advanced&amp;cves=on&amp;cpe_version="></a><h5>fingerprint-strings</h5>
-<pre style="white-space:pre-wrap; word-wrap:break-word;">
-  Kerberos: 
-    &lt;-{H
-    \x136
-    7f{u
-    #7to
-    yFR|
-  SIPOptions: 
-    #8^{D9
-    \x1c
-  SMBProgNeg: 
-    {Y,{
-  TLSSessionReq: 
-    a\xbd
-    f.z+A\xfeY
-    !x\x83
-    h{NT
-    A$#D&amp;d
-    uL(*"y</pre>
-</td></tr>
+<tr><td colspan="7"><a href="https://nvd.nist.gov/vuln/search/results?form_type=Advanced&amp;cves=on&amp;cpe_version=cpe:/a:landesk:landesk_management_suite">cpe:/a:landesk:landesk_management_suite</a></td></tr>
 <tr class="success">
 <td title="Port">5002</td>
 <td title="Protocol">tcp</td>
@@ -295,7 +277,7 @@
     authentication_failure_close: YES
     per_consumer_qos: YES
     direct_reply_to: YES
-  cluster_name: rabbit@691ca395062c
+  cluster_name: rabbit@0385e38da5cc
   copyright: Copyright (c) 2007-2024 Broadcom Inc and/or its subsidiaries
   information: Licensed under the MPL 2.0. Website: https://rabbitmq.com
   platform: Erlang/OTP 25.3.2.12
@@ -386,10 +368,10 @@
 <td>185.42.117.108 - dashlord.romin.app.cc.anje-justice.fr</td>
 <td>3000</td>
 <td>tcp</td>
-<td>ppp</td>
+<td>landesk-rc</td>
+<td>LANDesk remote management</td>
 <td></td>
-<td></td>
-<td></td>
+<td>cpe:/a:landesk:landesk_management_suite</td>
 <td></td>
 </tr>
 <tr>
