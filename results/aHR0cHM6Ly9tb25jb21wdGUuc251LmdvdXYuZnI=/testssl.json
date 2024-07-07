@@ -346,7 +346,7 @@
               "ip"           : "moncompte.snu.gouv.fr/185.179.148.148",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "41 >= 30 days"
+              "finding"      : "34 >= 30 days"
           }
 ,         {
               "id"           : "cert_notBefore",
@@ -514,7 +514,7 @@
               "ip"           : "moncompte.snu.gouv.fr/185.179.148.148",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1719729083"
+              "finding"      : "1720336496"
           }
 ,         {
               "id"           : "HSTS_time",
@@ -674,10 +674,10 @@
               "id"           : "BREACH",
               "ip"           : "moncompte.snu.gouv.fr/185.179.148.148",
               "port"         : "443",
-              "severity"     : "WARN",
+              "severity"     : "MEDIUM",
               "cve"          : "CVE-2013-3587",
               "cwe"          : "CWE-310",
-              "finding"      : "Test failed as HTTP request stalled and was terminated"
+              "finding"      : "potentially VULNERABLE, gzip HTTP compression detected  - only supplied '/' tested"
           }
 ,         {
               "id"           : "POODLE_SSL",
@@ -1105,6 +1105,6 @@
               "ip"           : "moncompte.snu.gouv.fr/185.179.148.148",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "72"
+              "finding"      : "97"
           }
 ]
