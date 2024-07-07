@@ -213,7 +213,7 @@
               "ip"           : "transport.data.gouv.fr/46.252.181.104",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "supported"
+              "finding"      : "not supported"
           }
 ,         {
               "id"           : "TLS_timestamp",
@@ -353,7 +353,7 @@
               "ip"           : "transport.data.gouv.fr/46.252.181.104",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "65 >= 30 days"
+              "finding"      : "58 >= 30 days"
           }
 ,         {
               "id"           : "cert_notBefore",
@@ -507,14 +507,14 @@
               "ip"           : "transport.data.gouv.fr/46.252.181.104",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "-2 seconds from localtime"
+              "finding"      : "-1 seconds from localtime"
           }
 ,         {
               "id"           : "HTTP_headerTime",
               "ip"           : "transport.data.gouv.fr/46.252.181.104",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1719726653"
+              "finding"      : "1720334414"
           }
 ,         {
               "id"           : "HSTS",
@@ -584,7 +584,7 @@
               "ip"           : "transport.data.gouv.fr/46.252.181.104",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "default-src 'none';connect-src *;font-src *;frame-ancestors 'none';img-src 'self' data: https://api.mapbox.com https://static.data.gouv.fr https://www.data.gouv.fr https://*.dmcdn.net https://transport-data-gouv-fr-logos-prod.cellar-c2.services.clever-cloud.com;script-src 'self' 'unsafe-eval' 'unsafe-inline' https://stats.data.gouv.fr/matomo.js;frame-src https://www.dailymotion.com/;style-src 'self' 'nonce-cl-bmees0D945w' 'sha256-9uoGUaZm3j6W7+Fh2wfvjI8P7zXcclRw5tVUu3qKZa0=' 'sha256-MmUum7+PiN7Rz79EUMm0OmUFWjCx6NZ97rdjoIbTnAg=';report-uri https://o1140487.ingest.sentry.io/api/6197733/security/?sentry_key=ee95fa9a50c747ec93b1467ed9377251&sentry_environment=prod"
+              "finding"      : "default-src 'none';connect-src *;font-src *;frame-ancestors 'none';img-src 'self' data: https://api.mapbox.com https://static.data.gouv.fr https://www.data.gouv.fr https://*.dmcdn.net https://transport-data-gouv-fr-logos-prod.cellar-c2.services.clever-cloud.com;script-src 'self' 'unsafe-eval' 'unsafe-inline' https://stats.data.gouv.fr/matomo.js;frame-src https://www.dailymotion.com/;style-src 'self' 'nonce-x_G5z-jeWrcSaQ' 'sha256-9uoGUaZm3j6W7+Fh2wfvjI8P7zXcclRw5tVUu3qKZa0=' 'sha256-MmUum7+PiN7Rz79EUMm0OmUFWjCx6NZ97rdjoIbTnAg=';report-uri https://o1140487.ingest.sentry.io/api/6197733/security/?sentry_key=ee95fa9a50c747ec93b1467ed9377251&sentry_environment=prod"
           }
 ,         {
               "id"           : "Referrer-Policy",
@@ -1461,7 +1461,7 @@
               "ip"           : "transport.data.gouv.fr/185.42.117.108",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "65 >= 30 days"
+              "finding"      : "58 >= 30 days"
           }
 ,         {
               "id"           : "cert_notBefore",
@@ -1615,14 +1615,14 @@
               "ip"           : "transport.data.gouv.fr/185.42.117.108",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "0 seconds from localtime"
+              "finding"      : "-1 seconds from localtime"
           }
 ,         {
               "id"           : "HTTP_headerTime",
               "ip"           : "transport.data.gouv.fr/185.42.117.108",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1719726753"
+              "finding"      : "1720334517"
           }
 ,         {
               "id"           : "HSTS",
@@ -1692,7 +1692,7 @@
               "ip"           : "transport.data.gouv.fr/185.42.117.108",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "default-src 'none';connect-src *;font-src *;frame-ancestors 'none';img-src 'self' data: https://api.mapbox.com https://static.data.gouv.fr https://www.data.gouv.fr https://*.dmcdn.net https://transport-data-gouv-fr-logos-prod.cellar-c2.services.clever-cloud.com;script-src 'self' 'unsafe-eval' 'unsafe-inline' https://stats.data.gouv.fr/matomo.js;frame-src https://www.dailymotion.com/;style-src 'self' 'nonce-0rm2XVS5oHicJg' 'sha256-9uoGUaZm3j6W7+Fh2wfvjI8P7zXcclRw5tVUu3qKZa0=' 'sha256-MmUum7+PiN7Rz79EUMm0OmUFWjCx6NZ97rdjoIbTnAg=';report-uri https://o1140487.ingest.sentry.io/api/6197733/security/?sentry_key=ee95fa9a50c747ec93b1467ed9377251&sentry_environment=prod"
+              "finding"      : "default-src 'none';connect-src *;font-src *;frame-ancestors 'none';img-src 'self' data: https://api.mapbox.com https://static.data.gouv.fr https://www.data.gouv.fr https://*.dmcdn.net https://transport-data-gouv-fr-logos-prod.cellar-c2.services.clever-cloud.com;script-src 'self' 'unsafe-eval' 'unsafe-inline' https://stats.data.gouv.fr/matomo.js;frame-src https://www.dailymotion.com/;style-src 'self' 'nonce-EWzOeYMrPGbszw' 'sha256-9uoGUaZm3j6W7+Fh2wfvjI8P7zXcclRw5tVUu3qKZa0=' 'sha256-MmUum7+PiN7Rz79EUMm0OmUFWjCx6NZ97rdjoIbTnAg=';report-uri https://o1140487.ingest.sentry.io/api/6197733/security/?sentry_key=ee95fa9a50c747ec93b1467ed9377251&sentry_environment=prod"
           }
 ,         {
               "id"           : "Referrer-Policy",
@@ -2569,7 +2569,7 @@
               "ip"           : "transport.data.gouv.fr/185.42.117.109",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "65 >= 30 days"
+              "finding"      : "58 >= 30 days"
           }
 ,         {
               "id"           : "cert_notBefore",
@@ -2730,7 +2730,7 @@
               "ip"           : "transport.data.gouv.fr/185.42.117.109",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1719726851"
+              "finding"      : "1720334611"
           }
 ,         {
               "id"           : "HSTS",
@@ -2800,7 +2800,7 @@
               "ip"           : "transport.data.gouv.fr/185.42.117.109",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "default-src 'none';connect-src *;font-src *;frame-ancestors 'none';img-src 'self' data: https://api.mapbox.com https://static.data.gouv.fr https://www.data.gouv.fr https://*.dmcdn.net https://transport-data-gouv-fr-logos-prod.cellar-c2.services.clever-cloud.com;script-src 'self' 'unsafe-eval' 'unsafe-inline' https://stats.data.gouv.fr/matomo.js;frame-src https://www.dailymotion.com/;style-src 'self' 'nonce-VUydoeO6Wxodyg' 'sha256-9uoGUaZm3j6W7+Fh2wfvjI8P7zXcclRw5tVUu3qKZa0=' 'sha256-MmUum7+PiN7Rz79EUMm0OmUFWjCx6NZ97rdjoIbTnAg=';report-uri https://o1140487.ingest.sentry.io/api/6197733/security/?sentry_key=ee95fa9a50c747ec93b1467ed9377251&sentry_environment=prod"
+              "finding"      : "default-src 'none';connect-src *;font-src *;frame-ancestors 'none';img-src 'self' data: https://api.mapbox.com https://static.data.gouv.fr https://www.data.gouv.fr https://*.dmcdn.net https://transport-data-gouv-fr-logos-prod.cellar-c2.services.clever-cloud.com;script-src 'self' 'unsafe-eval' 'unsafe-inline' https://stats.data.gouv.fr/matomo.js;frame-src https://www.dailymotion.com/;style-src 'self' 'nonce-DIO5S6FaeFqoZA' 'sha256-9uoGUaZm3j6W7+Fh2wfvjI8P7zXcclRw5tVUu3qKZa0=' 'sha256-MmUum7+PiN7Rz79EUMm0OmUFWjCx6NZ97rdjoIbTnAg=';report-uri https://o1140487.ingest.sentry.io/api/6197733/security/?sentry_key=ee95fa9a50c747ec93b1467ed9377251&sentry_environment=prod"
           }
 ,         {
               "id"           : "Referrer-Policy",
@@ -3327,8 +3327,8 @@
               "id"           : "service",
               "ip"           : "transport.data.gouv.fr/46.252.181.103",
               "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "HTTP"
+              "severity"     : "DEBUG",
+              "finding"      : "Couldn't determine service, skipping all HTTP checks"
           }
 ,         {
               "id"           : "pre_128cipher",
@@ -3677,7 +3677,7 @@
               "ip"           : "transport.data.gouv.fr/46.252.181.103",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "65 >= 30 days"
+              "finding"      : "58 >= 30 days"
           }
 ,         {
               "id"           : "cert_notBefore",
@@ -3820,119 +3820,6 @@
               "finding"      : "intermediate certificate(s) is/are ok"
           }
 ,         {
-              "id"           : "HTTP_status_code",
-              "ip"           : "transport.data.gouv.fr/46.252.181.103",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "200 OK ('/')"
-          }
-,         {
-              "id"           : "HTTP_clock_skew",
-              "ip"           : "transport.data.gouv.fr/46.252.181.103",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "-1 seconds from localtime"
-          }
-,         {
-              "id"           : "HTTP_headerTime",
-              "ip"           : "transport.data.gouv.fr/46.252.181.103",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "1719726949"
-          }
-,         {
-              "id"           : "HSTS",
-              "ip"           : "transport.data.gouv.fr/46.252.181.103",
-              "port"         : "443",
-              "severity"     : "LOW",
-              "finding"      : "not offered"
-          }
-,         {
-              "id"           : "HPKP",
-              "ip"           : "transport.data.gouv.fr/46.252.181.103",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "No support for HTTP Public Key Pinning"
-          }
-,         {
-              "id"           : "banner_server",
-              "ip"           : "transport.data.gouv.fr/46.252.181.103",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "Cowboy"
-          }
-,         {
-              "id"           : "banner_application",
-              "ip"           : "transport.data.gouv.fr/46.252.181.103",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "No application banner found"
-          }
-,         {
-              "id"           : "cookie_count",
-              "ip"           : "transport.data.gouv.fr/46.252.181.103",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "1 at '/'"
-          }
-,         {
-              "id"           : "cookie_secure",
-              "ip"           : "transport.data.gouv.fr/46.252.181.103",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "0/1 at '/' marked as secure"
-          }
-,         {
-              "id"           : "cookie_httponly",
-              "ip"           : "transport.data.gouv.fr/46.252.181.103",
-              "port"         : "443",
-              "severity"     : "OK",
-              "finding"      : "All (1) at '/' marked as HttpOnly"
-          }
-,         {
-              "id"           : "X-Frame-Options",
-              "ip"           : "transport.data.gouv.fr/46.252.181.103",
-              "port"         : "443",
-              "severity"     : "OK",
-              "finding"      : "DENY"
-          }
-,         {
-              "id"           : "X-Content-Type-Options",
-              "ip"           : "transport.data.gouv.fr/46.252.181.103",
-              "port"         : "443",
-              "severity"     : "OK",
-              "finding"      : "nosniff"
-          }
-,         {
-              "id"           : "Content-Security-Policy",
-              "ip"           : "transport.data.gouv.fr/46.252.181.103",
-              "port"         : "443",
-              "severity"     : "OK",
-              "finding"      : "default-src 'none';connect-src *;font-src *;frame-ancestors 'none';img-src 'self' data: https://api.mapbox.com https://static.data.gouv.fr https://www.data.gouv.fr https://*.dmcdn.net https://transport-data-gouv-fr-logos-prod.cellar-c2.services.clever-cloud.com;script-src 'self' 'unsafe-eval' 'unsafe-inline' https://stats.data.gouv.fr/matomo.js;frame-src https://www.dailymotion.com/;style-src 'self' 'nonce-LREKNyALe5Tt3A' 'sha256-9uoGUaZm3j6W7+Fh2wfvjI8P7zXcclRw5tVUu3qKZa0=' 'sha256-MmUum7+PiN7Rz79EUMm0OmUFWjCx6NZ97rdjoIbTnAg=';report-uri https://o1140487.ingest.sentry.io/api/6197733/security/?sentry_key=ee95fa9a50c747ec93b1467ed9377251&sentry_environment=prod"
-          }
-,         {
-              "id"           : "Referrer-Policy",
-              "ip"           : "transport.data.gouv.fr/46.252.181.103",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "strict-origin-when-cross-origin"
-          }
-,         {
-              "id"           : "Cache-Control",
-              "ip"           : "transport.data.gouv.fr/46.252.181.103",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "max-age=0, private, must-revalidate"
-          }
-,         {
-              "id"           : "banner_reverseproxy",
-              "ip"           : "transport.data.gouv.fr/46.252.181.103",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "cwe"          : "CWE-200",
-              "finding"      : "--"
-          }
-,         {
               "id"           : "heartbleed",
               "ip"           : "transport.data.gouv.fr/46.252.181.103",
               "port"         : "443",
@@ -3954,10 +3841,10 @@
               "id"           : "ticketbleed",
               "ip"           : "transport.data.gouv.fr/46.252.181.103",
               "port"         : "443",
-              "severity"     : "OK",
+              "severity"     : "INFO",
               "cve"          : "CVE-2016-9244",
               "cwe"          : "CWE-200",
-              "finding"      : "no session ticket extension"
+              "finding"      : "not applicable, not HTTP"
           }
 ,         {
               "id"           : "ROBOT",
@@ -3992,16 +3879,7 @@
               "severity"     : "OK",
               "cve"          : "CVE-2012-4929",
               "cwe"          : "CWE-310",
-              "finding"      : "not vulnerable"
-          }
-,         {
-              "id"           : "BREACH",
-              "ip"           : "transport.data.gouv.fr/46.252.181.103",
-              "port"         : "443",
-              "severity"     : "MEDIUM",
-              "cve"          : "CVE-2013-3587",
-              "cwe"          : "CWE-310",
-              "finding"      : "potentially VULNERABLE, gzip HTTP compression detected  - only supplied '/' tested"
+              "finding"      : "not vulnerable (not using HTTP anyway)"
           }
 ,         {
               "id"           : "POODLE_SSL",
@@ -4422,20 +4300,13 @@
               "ip"           : "transport.data.gouv.fr/46.252.181.103",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "A"
-          }
-,         {
-              "id"           : "grade_cap_reason_1",
-              "ip"           : "transport.data.gouv.fr/46.252.181.103",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "Grade capped to A. HSTS is not offered"
+              "finding"      : "A+"
           }
 ,         {
               "id"           : "scanTime",
               "ip"           : "transport.data.gouv.fr/46.252.181.103",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "397"
+              "finding"      : "389"
           }
 ]
