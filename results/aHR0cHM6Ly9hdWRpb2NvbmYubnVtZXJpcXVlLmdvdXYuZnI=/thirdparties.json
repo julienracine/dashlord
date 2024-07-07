@@ -3,10 +3,10 @@
   "cookies": [
     {
       "name": "sc-sticky-session",
-      "value": "+wkii6XUWMLdlxEDTXHjLeY5VQLUx6EBziIKe0ItAe/4yz6PLYKKyOgbPuPdZlEIIkLnLhPwqJdJTiN3jwIICg==",
+      "value": "tTUrIlfdFejn1qzT/BVCJULKZXngkdDUY+me3c/JnrAL7hoXzStFwg+ei4xh2b9tWsUbwzyn0js30M8mk68LRA==",
       "domain": "audioconf.numerique.gouv.fr",
       "path": "/",
-      "expires": 1719799137.211886,
+      "expires": 1720403748.710786,
       "size": 105,
       "httpOnly": true,
       "secure": true,
@@ -18,11 +18,11 @@
     },
     {
       "name": "connect.sid",
-      "value": "s%3A-WeBYK6A8s2YgQN0EdkYIFyWOIiRH3ys.jcIMX7DA8fPmOUrhe5M%2FVOgUOjZwnz6j6MBH5XIoZcc",
+      "value": "s%3ABjZRMYKQ_uCfyoMxe_Dh2wTPgakf5YTr.th5RWgIBvjfztPX7D7z3Cwq4VtRBAka8woc%2BF%2BumIH8",
       "domain": "audioconf.numerique.gouv.fr",
       "path": "/",
-      "expires": 1719713036.606656,
-      "size": 93,
+      "expires": 1720317648.109504,
+      "size": 95,
       "httpOnly": true,
       "secure": false,
       "session": false,
@@ -35,12 +35,12 @@
   "headers": {
     "content-encoding": "gzip",
     "content-type": "text/html; charset=utf-8",
-    "date": "Sun, 30 Jun 2024 01:58:56 GMT",
-    "etag": "W/\"7ddc-EYU9BetIgN5cuYzi2APmE8iYMME\"",
-    "set-cookie": "connect.sid=s%3A-WeBYK6A8s2YgQN0EdkYIFyWOIiRH3ys.jcIMX7DA8fPmOUrhe5M%2FVOgUOjZwnz6j6MBH5XIoZcc; Path=/; Expires=Sun, 30 Jun 2024 02:03:56 GMT; HttpOnly; SameSite=Lax\nsc-sticky-session=+wkii6XUWMLdlxEDTXHjLeY5VQLUx6EBziIKe0ItAe/4yz6PLYKKyOgbPuPdZlEIIkLnLhPwqJdJTiN3jwIICg==; Expires=Mon, 01-Jul-24 01:58:56 GMT; Max-Age=86400; Path=/; Secure; HttpOnly; SameSite=None",
+    "date": "Sun, 07 Jul 2024 01:55:48 GMT",
+    "etag": "W/\"7deb-Fp0n9V1ZidpjEfUjAoaqExHbqys\"",
+    "set-cookie": "connect.sid=s%3ABjZRMYKQ_uCfyoMxe_Dh2wTPgakf5YTr.th5RWgIBvjfztPX7D7z3Cwq4VtRBAka8woc%2BF%2BumIH8; Path=/; Expires=Sun, 07 Jul 2024 02:00:48 GMT; HttpOnly; SameSite=Lax\nsc-sticky-session=tTUrIlfdFejn1qzT/BVCJULKZXngkdDUY+me3c/JnrAL7hoXzStFwg+ei4xh2b9tWsUbwzyn0js30M8mk68LRA==; Expires=Mon, 08-Jul-24 01:55:48 GMT; Max-Age=86400; Path=/; Secure; HttpOnly; SameSite=None",
     "strict-transport-security": "max-age=31536000",
     "x-powered-by": "Express",
-    "x-request-id": "226f9434-b9c6-4076-a4ce-573a1b5106da"
+    "x-request-id": "a7cc4927-7283-4268-bc7c-594c2b2a26b2"
   },
   "endpoints": [
     {
