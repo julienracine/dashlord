@@ -7,9 +7,9 @@
     "content-encoding": "gzip",
     "content-security-policy": "frame-ancestors 'self' *.onisep.fr *.beta.gouv.fr",
     "content-type": "text/html; charset=utf-8",
-    "date": "Sun, 30 Jun 2024 12:18:42 GMT",
-    "etag": "W/\"3ca-19035f6dfd0\"",
-    "last-modified": "Thu, 20 Jun 2024 14:04:50 GMT",
+    "date": "Sun, 07 Jul 2024 13:51:50 GMT",
+    "etag": "W/\"3ca-19079168b58\"",
+    "last-modified": "Wed, 03 Jul 2024 14:53:59 GMT",
     "referrer-policy": "no-referrer-when-downgrade",
     "strict-transport-security": "max-age=31536000; includeSubdomains",
     "transfer-encoding": "chunked",
@@ -23,6 +23,19 @@
       "hostname": "sirius.apprentissage.beta.gouv.fr",
       "ip": "141.95.167.141",
       "geoip": {
+        "city": {
+          "geoname_id": 2988507,
+          "names": {
+            "de": "Paris",
+            "en": "Paris",
+            "es": "París",
+            "fr": "Paris",
+            "ja": "パリ",
+            "pt-BR": "Paris",
+            "ru": "Париж",
+            "zh-CN": "巴黎"
+          }
+        },
         "continent": {
           "code": "EU",
           "geoname_id": 6255148,
@@ -53,10 +66,13 @@
           }
         },
         "location": {
-          "accuracy_radius": 500,
-          "latitude": 48.8582,
-          "longitude": 2.3387,
+          "accuracy_radius": 1000,
+          "latitude": 48.8323,
+          "longitude": 2.4075,
           "time_zone": "Europe/Paris"
+        },
+        "postal": {
+          "code": "75005"
         },
         "registered_country": {
           "geoname_id": 3017382,
@@ -72,7 +88,33 @@
             "ru": "Франция",
             "zh-CN": "法国"
           }
-        }
+        },
+        "subdivisions": [
+          {
+            "geoname_id": 3012874,
+            "iso_code": "IDF",
+            "names": {
+              "de": "Île-de-France",
+              "en": "Île-de-France",
+              "es": "Isla de Francia",
+              "fr": "Île-de-France",
+              "ja": "イル・ド・フランス",
+              "pt-BR": "Ilha de França",
+              "ru": "Иль-де-Франс",
+              "zh-CN": "法兰西岛"
+            }
+          },
+          {
+            "geoname_id": 2968815,
+            "iso_code": "75",
+            "names": {
+              "de": "Paris",
+              "en": "Paris",
+              "es": "Paris",
+              "fr": "Paris"
+            }
+          }
+        ]
       }
     }
   ]
