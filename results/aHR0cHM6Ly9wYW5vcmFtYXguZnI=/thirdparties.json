@@ -22,7 +22,7 @@
     },
     {
       "type": "unknown",
-      "url": "https://matomo.panoramax.xyz//matomo.php?action_name=L%E2%80%99alternative%20libre%20pour%20photo-cartographier%20les%20territoires&idsite=2&rec=1&r=632053&h=11&m=16&s=39&url=https%3A%2F%2Fpanoramax.fr%2F&_id=a715f34ca42cc992&_idn=1&send_image=0&_refts=0&pv_id=sLiuJB&pf_net=146&pf_srv=83&pf_tfr=1&pf_dm1=6&uadata=%7B%22fullVersionList%22%3A%5B%5D%2C%22mobile%22%3Afalse%2C%22model%22%3A%22%22%2C%22platform%22%3A%22%22%2C%22platformVersion%22%3A%22%22%7D&cookie=1&res=800x600"
+      "url": "https://matomo.panoramax.xyz//matomo.php?action_name=L%E2%80%99alternative%20libre%20pour%20photo-cartographier%20les%20territoires&idsite=2&rec=1&r=588845&h=12&m=41&s=9&url=https%3A%2F%2Fpanoramax.fr%2F&_id=311bb7e57086662e&_idn=1&send_image=0&_refts=0&pv_id=0CUAHS&pf_net=140&pf_srv=80&pf_tfr=1&pf_dm1=6&uadata=%7B%22fullVersionList%22%3A%5B%5D%2C%22mobile%22%3Afalse%2C%22model%22%3A%22%22%2C%22platform%22%3A%22%22%2C%22platformVersion%22%3A%22%22%7D&cookie=1&res=800x600"
     },
     {
       "type": "unknown",
@@ -151,7 +151,7 @@
       "value": "1",
       "domain": "panoramax.fr",
       "path": "/",
-      "expires": 1719747999,
+      "expires": 1720357869,
       "size": 15,
       "httpOnly": false,
       "secure": false,
@@ -163,10 +163,10 @@
     },
     {
       "name": "_pk_id.2.8046",
-      "value": "a715f34ca42cc992.1719746199.",
+      "value": "311bb7e57086662e.1720356070.",
       "domain": "panoramax.fr",
       "path": "/",
-      "expires": 1753701399,
+      "expires": 1754311270,
       "size": 41,
       "httpOnly": false,
       "secure": false,
@@ -181,10 +181,10 @@
     "cache-control": "max-age=600",
     "content-length": "1352",
     "content-type": "text/html; charset=utf-8",
-    "date": "Sun, 30 Jun 2024 11:16:37 GMT",
-    "etag": "\"e16edb902ab5f8fce574c887aa7330e7d721dbc906b34c4b19cdafc2d5b9bb01\"",
-    "expires": "Sun, 30 Jun 2024 11:26:37 UTC",
-    "last-modified": "Thu, 27 Jun 2024 14:35:44 GMT",
+    "date": "Sun, 07 Jul 2024 12:41:07 GMT",
+    "etag": "\"ea8dea2a1646db275487ad626bf374dfe620c2c9ea5b6397c19df0045696f7c8\"",
+    "expires": "Sun, 07 Jul 2024 12:51:07 UTC",
+    "last-modified": "Wed, 03 Jul 2024 13:04:24 GMT",
     "permissions-policy": "interest-cohort=()",
     "vary": "Origin"
   },
