@@ -10,7 +10,7 @@
     },
     {
       "type": "unknown",
-      "url": "https://matomo.panoramax.xyz//matomo.php?action_name=Panoramax%20IGN%20%3A%20photo-cartographier%20les%20territoires&idsite=4&rec=1&r=427320&h=11&m=19&s=2&url=https%3A%2F%2Fpanoramax.ign.fr%2F&_id=d4c6ca8bf52b7929&_idn=1&send_image=0&_refts=0&pv_id=YMAZSX&pf_net=219&pf_srv=107&pf_tfr=1&pf_dm1=6&pf_dm2=916&pf_onl=0&uadata=%7B%22fullVersionList%22%3A%5B%5D%2C%22mobile%22%3Afalse%2C%22model%22%3A%22%22%2C%22platform%22%3A%22%22%2C%22platformVersion%22%3A%22%22%7D&cookie=1&res=800x600"
+      "url": "https://matomo.panoramax.xyz//matomo.php?action_name=Panoramax%20IGN%20%3A%20photo-cartographier%20les%20territoires&idsite=4&rec=1&r=198611&h=12&m=42&s=33&url=https%3A%2F%2Fpanoramax.ign.fr%2F&_id=c93bd164bb4fc52e&_idn=1&send_image=0&_refts=0&pv_id=8M09Ip&pf_net=181&pf_srv=90&pf_tfr=1&pf_dm1=6&pf_dm2=728&pf_onl=0&uadata=%7B%22fullVersionList%22%3A%5B%5D%2C%22mobile%22%3Afalse%2C%22model%22%3A%22%22%2C%22platform%22%3A%22%22%2C%22platformVersion%22%3A%22%22%7D&cookie=1&res=800x600"
     },
     {
       "type": "unknown",
@@ -26,24 +26,18 @@
     "cache-control": "public, max-age=0",
     "content-encoding": "gzip",
     "content-type": "text/html; charset=UTF-8",
-    "date": "Sun, 30 Jun 2024 11:19:00 GMT",
-    "etag": "W/\"56a-19054b1eca8\"",
-    "last-modified": "Wed, 26 Jun 2024 13:17:45 GMT",
+    "date": "Sun, 07 Jul 2024 12:42:32 GMT",
+    "etag": "W/\"56a-1906ed168c0\"",
+    "last-modified": "Mon, 01 Jul 2024 15:02:16 GMT",
     "strict-transport-security": "max-age=31536000\nmax-age=31536000",
     "x-powered-by": "Express",
-    "x-request-id": "7536158e-e1b8-478b-8644-182a58fd4f1a\n7536158e-e1b8-478b-8644-182a58fd4f1a"
+    "x-request-id": "62cbb083-009e-4144-96b2-a813e3b59bd5\n62cbb083-009e-4144-96b2-a813e3b59bd5"
   },
   "endpoints": [
     {
       "hostname": "panoramax.ign.fr",
-      "ip": "5.104.101.30",
+      "ip": "148.253.75.120",
       "geoip": {
-        "city": {
-          "geoname_id": 3006412,
-          "names": {
-            "en": "Lasgraisses"
-          }
-        },
         "continent": {
           "code": "EU",
           "geoname_id": 6255148,
@@ -74,13 +68,10 @@
           }
         },
         "location": {
-          "accuracy_radius": 200,
-          "latitude": 43.8239,
-          "longitude": 2.0396,
+          "accuracy_radius": 500,
+          "latitude": 48.8582,
+          "longitude": 2.3387,
           "time_zone": "Europe/Paris"
-        },
-        "postal": {
-          "code": "81300"
         },
         "registered_country": {
           "geoname_id": 3017382,
@@ -96,27 +87,7 @@
             "ru": "Франция",
             "zh-CN": "法国"
           }
-        },
-        "subdivisions": [
-          {
-            "geoname_id": 11071623,
-            "iso_code": "OCC",
-            "names": {
-              "en": "Occitanie",
-              "fr": "Occitanie"
-            }
-          },
-          {
-            "geoname_id": 2973362,
-            "iso_code": "81",
-            "names": {
-              "de": "Tarn",
-              "en": "Tarn",
-              "es": "Tarn",
-              "fr": "Tarn"
-            }
-          }
-        ]
+        }
       }
     },
     {
