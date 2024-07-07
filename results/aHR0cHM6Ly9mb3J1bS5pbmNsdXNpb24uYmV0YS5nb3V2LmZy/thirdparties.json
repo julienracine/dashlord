@@ -32,10 +32,10 @@
   "cookies": [
     {
       "name": "sessionid",
-      "value": "olitc47n2dva3cy6nj5bj6ni9urputp8",
+      "value": "azyy30llg6tvigd8lyp6s0zvo66irxi4",
       "domain": "communaute.inclusion.beta.gouv.fr",
       "path": "/",
-      "expires": 1720927023.570359,
+      "expires": 1721533102.237154,
       "size": 41,
       "httpOnly": true,
       "secure": true,
@@ -47,10 +47,10 @@
     },
     {
       "name": "csrftoken",
-      "value": "7d1wum5hCqlUmIdiInt7aus1zrFKo7Zo",
+      "value": "2ceBc14axEYNzo6fdrZqKjGdpw2ssbSV",
       "domain": "communaute.inclusion.beta.gouv.fr",
       "path": "/",
-      "expires": 1751167023.57025,
+      "expires": 1751773102.237036,
       "size": 41,
       "httpOnly": false,
       "secure": true,
@@ -64,15 +64,15 @@
   "headers": {
     "connection": "keep-alive",
     "content-encoding": "gzip",
-    "content-length": "7483",
-    "content-security-policy": "connect-src 'self' *.sentry.io https://api-adresse.data.gouv.fr https://matomo.inclusion.beta.gouv.fr/; font-src 'self' https://fonts.gstatic.com/ data:; script-src 'self' https://cdn.jsdelivr.net/npm/chart.js@4.0.1 https://cdn.jsdelivr.net/npm/jquery@3.6.1/dist/jquery.min.js https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.min.js https://browser.sentry-cdn.com https://js.sentry-cdn.com https://tally.so https://www.youtube.com/iframe_api https://www.youtube.com/s/player/ https://matomo.inclusion.beta.gouv.fr/ 'nonce-rURXZjv1nkAOkrHrkPCzPA=='; default-src 'self'; style-src-elem 'self' https://fonts.googleapis.com 'unsafe-inline'; style-src 'self' https://fonts.googleapis.com 'unsafe-inline'; script-src-elem 'self' https://cdn.jsdelivr.net/npm/chart.js@4.0.1 https://cdn.jsdelivr.net/npm/jquery@3.6.1/dist/jquery.min.js https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.min.js https://browser.sentry-cdn.com https://js.sentry-cdn.com https://tally.so https://www.youtube.com/iframe_api https://www.youtube.com/s/player/ https://matomo.inclusion.beta.gouv.fr/ 'nonce-rURXZjv1nkAOkrHrkPCzPA=='; frame-src 'self' https://tally.so https://www.youtube.com/embed/; img-src 'self' data: cellar-c2.services.clever-cloud.com https://matomo.inclusion.beta.gouv.fr/",
+    "content-length": "7602",
+    "content-security-policy": "script-src 'self' https://cdn.jsdelivr.net/npm/chart.js@4.0.1 https://cdn.jsdelivr.net/npm/jquery@3.6.1/dist/jquery.min.js https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.min.js https://browser.sentry-cdn.com https://js.sentry-cdn.com https://tally.so https://www.youtube.com/iframe_api https://www.youtube.com/s/player/ https://matomo.inclusion.beta.gouv.fr/ 'nonce-HWPBLrqu4iW7yTK5v1DN/Q=='; connect-src 'self' *.sentry.io https://api-adresse.data.gouv.fr https://matomo.inclusion.beta.gouv.fr/; frame-src 'self' https://tally.so https://www.youtube.com/embed/; script-src-elem 'self' https://cdn.jsdelivr.net/npm/chart.js@4.0.1 https://cdn.jsdelivr.net/npm/jquery@3.6.1/dist/jquery.min.js https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.min.js https://browser.sentry-cdn.com https://js.sentry-cdn.com https://tally.so https://www.youtube.com/iframe_api https://www.youtube.com/s/player/ https://matomo.inclusion.beta.gouv.fr/ 'nonce-HWPBLrqu4iW7yTK5v1DN/Q=='; style-src-elem 'self' https://fonts.googleapis.com 'unsafe-inline'; font-src 'self' https://fonts.gstatic.com/ data:; default-src 'self'; img-src 'self' data: cellar-c2.services.clever-cloud.com https://matomo.inclusion.beta.gouv.fr/; style-src 'self' https://fonts.googleapis.com 'unsafe-inline'",
     "content-type": "text/html; charset=utf-8",
     "cross-origin-opener-policy": "same-origin",
-    "date": "Sun, 30 Jun 2024 03:17:03 GMT",
+    "date": "Sun, 07 Jul 2024 03:38:22 GMT",
     "permissions-policy": "accelerometer=(), autoplay=(), camera=(), encrypted-media=(), fullscreen=(), geolocation=(), gyroscope=(), magnetometer=(), microphone=(), midi=(), payment=(), picture-in-picture=(), sync-xhr=(), usb=()",
     "referrer-policy": "same-origin",
-    "set-cookie": "csrftoken=7d1wum5hCqlUmIdiInt7aus1zrFKo7Zo; expires=Sun, 29 Jun 2025 03:17:03 GMT; Max-Age=31449600; Path=/; SameSite=Lax; Secure\nsessionid=olitc47n2dva3cy6nj5bj6ni9urputp8; expires=Sun, 14 Jul 2024 03:17:03 GMT; HttpOnly; Max-Age=1209600; Path=/; SameSite=Lax; Secure",
-    "sozu-id": "01J1KJAT6CGXJ6YZN24EB9ZFW6",
+    "set-cookie": "csrftoken=2ceBc14axEYNzo6fdrZqKjGdpw2ssbSV; expires=Sun, 06 Jul 2025 03:38:22 GMT; Max-Age=31449600; Path=/; SameSite=Lax; Secure\nsessionid=azyy30llg6tvigd8lyp6s0zvo66irxi4; expires=Sun, 21 Jul 2024 03:38:22 GMT; HttpOnly; Max-Age=1209600; Path=/; SameSite=Lax; Secure",
+    "sozu-id": "01J25MAVWN7ESKYHTM1S1GVM8F",
     "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
     "vary": "Cookie, Accept-Encoding",
     "x-content-type-options": "nosniff",
@@ -137,7 +137,7 @@
     },
     {
       "hostname": "js.sentry-cdn.com",
-      "ip": "151.101.194.217",
+      "ip": "151.101.130.217",
       "geoip": {
         "city": {
           "geoname_id": 5391959,
@@ -224,8 +224,59 @@
     },
     {
       "hostname": "cdn.jsdelivr.net",
-      "ip": "104.18.186.31",
+      "ip": "146.75.77.229",
       "geoip": {
+        "city": {
+          "geoname_id": 4887398,
+          "names": {
+            "de": "Chicago",
+            "en": "Chicago",
+            "es": "Chicago",
+            "fr": "Chicago",
+            "ja": "シカゴ",
+            "pt-BR": "Chicago",
+            "ru": "Чикаго",
+            "zh-CN": "芝加哥"
+          }
+        },
+        "continent": {
+          "code": "NA",
+          "geoname_id": 6255149,
+          "names": {
+            "de": "Nordamerika",
+            "en": "North America",
+            "es": "Norteamérica",
+            "fr": "Amérique du Nord",
+            "ja": "北アメリカ",
+            "pt-BR": "América do Norte",
+            "ru": "Северная Америка",
+            "zh-CN": "北美洲"
+          }
+        },
+        "country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "USA",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        },
+        "location": {
+          "accuracy_radius": 20,
+          "latitude": 41.8874,
+          "longitude": -87.6318,
+          "metro_code": 602,
+          "time_zone": "America/Chicago"
+        },
+        "postal": {
+          "code": "60602"
+        },
         "registered_country": {
           "geoname_id": 6252001,
           "iso_code": "US",
@@ -239,7 +290,23 @@
             "ru": "США",
             "zh-CN": "美国"
           }
-        }
+        },
+        "subdivisions": [
+          {
+            "geoname_id": 4896861,
+            "iso_code": "IL",
+            "names": {
+              "de": "Illinois",
+              "en": "Illinois",
+              "es": "Illinois",
+              "fr": "Illinois",
+              "ja": "イリノイ州",
+              "pt-BR": "Ilinóis",
+              "ru": "Иллинойс",
+              "zh-CN": "伊利诺伊州"
+            }
+          }
+        ]
       }
     }
   ]
