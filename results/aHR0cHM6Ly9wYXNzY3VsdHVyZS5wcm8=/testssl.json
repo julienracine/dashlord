@@ -206,7 +206,7 @@
               "ip"           : "passculture.pro/34.107.224.170",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "not supported"
+              "finding"      : "supported"
           }
 ,         {
               "id"           : "TLS_timestamp",
@@ -346,7 +346,7 @@
               "ip"           : "passculture.pro/34.107.224.170",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "232 >= 60 days"
+              "finding"      : "225 >= 60 days"
           }
 ,         {
               "id"           : "cert_notBefore",
@@ -507,7 +507,7 @@
               "ip"           : "passculture.pro/34.107.224.170",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1719723570"
+              "finding"      : "1720330264"
           }
 ,         {
               "id"           : "HSTS_time",
@@ -559,11 +559,18 @@
               "finding"      : "0 at '/'"
           }
 ,         {
+              "id"           : "Content-Security-Policy-Report-Only",
+              "ip"           : "passculture.pro/34.107.224.170",
+              "port"         : "443",
+              "severity"     : "OK",
+              "finding"      : "style-src 'self' https://app.getbeamer.com 'unsafe-inline'; img-src 'self' data: https://storage.googleapis.com https://app.getbeamer.com https://www.googletagmanager.com; object-src 'none'; frame-src https://push.getbeamer.com https://app.getbeamer.com https://www.google.com https://data-analytics.passculture.team; script-src-elem 'self' 'nonce-recaptcha' https://www.gstatic.com https://static.getbeamer.com https://static.hotjar.com https://app.getbeamer.com https://script.hotjar.com https://www.googletagmanager.com https://firebaseinstallations.googleapis.com https://firebaseremoteconfig.googleapis.com https://api-adresse.data.gouv.fr https://vc.hotjar.io; script-src; connect-src https://storage.googleapis.com https://backend.getbeamer.com https://firebaseremoteconfig.googleapis.com https://firebase.googleapis.com https://firebaseinstallations.googleapis.com https://sentry.passculture.team https://backend.testing.passculture.team https://backend.staging.passculture.team https://backend.passculture.pro https://region1.google-analytics.com https://*.algolia.net https://insights.algolia.io https://vc.hotjar.io https://metrics.hotjar.io; report-uri https://sentry.passculture.team/api/2/security/?sentry_key=50f5694849704813b4154c5868b73365;"
+          }
+,         {
               "id"           : "X-Served-By",
               "ip"           : "passculture.pro/34.107.224.170",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "cache-bur-kbur8200123-BUR"
+              "finding"      : "cache-bur-kbur8200073-BUR"
           }
 ,         {
               "id"           : "Cache-Control",
@@ -1077,6 +1084,6 @@
               "ip"           : "passculture.pro/34.107.224.170",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "41"
+              "finding"      : "37"
           }
 ]
