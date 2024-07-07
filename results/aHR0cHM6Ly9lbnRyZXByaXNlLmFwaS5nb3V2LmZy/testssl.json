@@ -339,7 +339,7 @@
               "ip"           : "entreprise.api.gouv.fr/54.36.95.60",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "170 >= 60 days"
+              "finding"      : "163 >= 60 days"
           }
 ,         {
               "id"           : "cert_notBefore",
@@ -493,14 +493,14 @@
               "ip"           : "entreprise.api.gouv.fr/54.36.95.60",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "-2 seconds from localtime"
+              "finding"      : "-10 seconds from localtime"
           }
 ,         {
               "id"           : "HTTP_headerTime",
               "ip"           : "entreprise.api.gouv.fr/54.36.95.60",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1719717218"
+              "finding"      : "1720322854"
           }
 ,         {
               "id"           : "HSTS_time",
@@ -1105,6 +1105,6 @@
               "ip"           : "entreprise.api.gouv.fr/54.36.95.60",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "101"
+              "finding"      : "58"
           }
 ]
