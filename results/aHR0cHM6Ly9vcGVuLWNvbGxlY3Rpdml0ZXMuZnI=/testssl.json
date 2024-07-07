@@ -366,8 +366,8 @@
               "id"           : "cert_expirationStatus",
               "ip"           : "open-collectivites.fr/5.39.67.78",
               "port"         : "443",
-              "severity"     : "MEDIUM",
-              "finding"      : "expires < 30 days (20)"
+              "severity"     : "HIGH",
+              "finding"      : "expires < 15 days (12)"
           }
 ,         {
               "id"           : "cert_notBefore",
@@ -380,7 +380,7 @@
               "id"           : "cert_notAfter",
               "ip"           : "open-collectivites.fr/5.39.67.78",
               "port"         : "443",
-              "severity"     : "MEDIUM",
+              "severity"     : "HIGH",
               "finding"      : "2024-07-20 08:44"
           }
 ,         {
@@ -528,7 +528,7 @@
               "ip"           : "open-collectivites.fr/5.39.67.78",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1719735955"
+              "finding"      : "1720344133"
           }
 ,         {
               "id"           : "HSTS",
@@ -1107,6 +1107,6 @@
               "ip"           : "open-collectivites.fr/5.39.67.78",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "69"
+              "finding"      : "136"
           }
 ]
