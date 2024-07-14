@@ -74,15 +74,7 @@
     },
     {
       "type": "unknown",
-      "url": "https://hd.pe.fr/event?s=475540&idclient=lybegbmy5xyagidx"
-    },
-    {
-      "type": "unknown",
-      "url": "https://privacy.trustcommander.net/privacy-consent?site=4340"
-    },
-    {
-      "type": "unknown",
-      "url": "https://hd.pe.fr/event?s=475540&idclient=lybegbmy5xyagidx"
+      "url": "https://hd.pe.fr/event?s=475540&idclient=lylex2tq90jcftc7"
     },
     {
       "type": "unknown",
@@ -126,10 +118,26 @@
     },
     {
       "type": "unknown",
+      "url": "https://privacy.trustcommander.net/privacy-consent?site=4340"
+    },
+    {
+      "type": "unknown",
+      "url": "https://hd.pe.fr/event?s=475540&idclient=lylex2tq90jcftc7"
+    },
+    {
+      "type": "unknown",
       "url": "https://candidat.francetravail.fr/mobiville/static/media/home-bg.4e918c4b2800bcb748fa.avif"
     },
     {
       "type": "unknown",
+      "url": "https://candidat.francetravail.fr/mobiville/static/media/roboto-v30-latin-700.227c93190fe7f82de3f8.woff2"
+    },
+    {
+      "type": "unknown",
+      "url": "https://candidat.francetravail.fr/mobiville/static/media/roboto-v30-latin-italic.e10742dbb1d4a0864ba8.woff2"
+    },
+    {
+      "type": "unknown",
       "url": "https://candidat.francetravail.fr/mobiville/static/media/roboto-v30-latin-500.f25d774ecfe0996f8eb5.woff2"
     },
     {
@@ -139,26 +147,22 @@
     {
       "type": "unknown",
       "url": "https://candidat.francetravail.fr/mobiville/static/media/roboto-v30-latin-italic.e10742dbb1d4a0864ba8.woff2"
+    },
+    {
+      "type": "unknown",
+      "url": "https://candidat.francetravail.fr/mobiville/static/media/roboto-v30-latin-500.f25d774ecfe0996f8eb5.woff2"
+    },
+    {
+      "type": "unknown",
+      "url": "https://candidat.francetravail.fr/mobiville/static/media/roboto-v30-latin-700italic.d92a5d1451f249359639.woff2"
+    },
+    {
+      "type": "unknown",
+      "url": "https://candidat.francetravail.fr/mobiville/static/media/roboto-v30-latin-500italic.3a43b67e5bbdfb3ab0a6.woff2"
     },
     {
       "type": "unknown",
       "url": "https://candidat.francetravail.fr/mobiville/api/helps/get-previews"
-    },
-    {
-      "type": "unknown",
-      "url": "https://candidat.francetravail.fr/mobiville/static/media/roboto-v30-latin-500.f25d774ecfe0996f8eb5.woff2"
-    },
-    {
-      "type": "unknown",
-      "url": "https://candidat.francetravail.fr/mobiville/static/media/roboto-v30-latin-700.227c93190fe7f82de3f8.woff2"
-    },
-    {
-      "type": "unknown",
-      "url": "https://candidat.francetravail.fr/mobiville/static/media/roboto-v30-latin-italic.e10742dbb1d4a0864ba8.woff2"
-    },
-    {
-      "type": "unknown",
-      "url": "https://www.francetravail.fr/files/live/sites/PE/files/images/Logos/header-logo2021-pe-fr.svg"
     },
     {
       "type": "unknown",
@@ -171,14 +175,6 @@
     {
       "type": "unknown",
       "url": "https://candidat.francetravail.fr/mobiville/static/media/guide-banner-mobile.b55883ebdb202a57031f.png"
-    },
-    {
-      "type": "unknown",
-      "url": "https://candidat.francetravail.fr/mobiville/static/media/roboto-v30-latin-700italic.d92a5d1451f249359639.woff2"
-    },
-    {
-      "type": "unknown",
-      "url": "https://candidat.francetravail.fr/mobiville/static/media/roboto-v30-latin-500italic.3a43b67e5bbdfb3ab0a6.woff2"
     },
     {
       "type": "unknown",
@@ -210,13 +206,17 @@
     },
     {
       "type": "unknown",
+      "url": "https://www.francetravail.fr/files/live/sites/PE/files/images/Logos/header-logo2021-pe-fr.svg"
+    },
+    {
+      "type": "unknown",
       "url": "https://candidat.francetravail.fr/mobiville/api/cities/autocomplete"
     }
   ],
   "cookies": [
     {
       "name": "TS016fc3b0",
-      "value": "0150c672c32b0eb77ed67ab93264e2e38ad6612d14e3460f6da5331e489deea061d70bd81abd49c95a24601572194dadb986e3d979",
+      "value": "0150c672c3663190a3b8ecc5bbc37be3a0ce97667abbee46aeba298fca8a2cf13bca70fcb8059400f87d4aba4f6e7a058c40e3fe7d",
       "domain": ".candidat.francetravail.fr",
       "path": "/",
       "expires": -1,
@@ -261,10 +261,10 @@
     "cache-control": "no-store, no-cache, must-revalidate, proxy-revalidate, max-age=0",
     "content-encoding": "gzip",
     "content-type": "text/html",
-    "date": "Sun, 07 Jul 2024 10:17:28 GMT",
+    "date": "Sun, 14 Jul 2024 10:28:12 GMT",
     "last-modified": "Tue, 28 May 2024 09:21:34 GMT",
     "referrer-policy": "no-referrer-when-downgrade",
-    "set-cookie": "Path=/; HttpOnly; Secure\nBIGipServerPOOL_Z2_PROD_MOP_HTTP=2023492362.20480.0000; path=/; Httponly; Secure\nTS016fc3b0=0150c672c32b0eb77ed67ab93264e2e38ad6612d14e3460f6da5331e489deea061d70bd81abd49c95a24601572194dadb986e3d979; Path=/; Domain=.candidat.francetravail.fr",
+    "set-cookie": "Path=/; HttpOnly; Secure\nBIGipServerPOOL_Z2_PROD_MOP_HTTP=2023492362.20480.0000; path=/; Httponly; Secure\nTS016fc3b0=0150c672c3663190a3b8ecc5bbc37be3a0ce97667abbee46aeba298fca8a2cf13bca70fcb8059400f87d4aba4f6e7a058c40e3fe7d; Path=/; Domain=.candidat.francetravail.fr",
     "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
     "transfer-encoding": "chunked",
     "vary": "Accept-Encoding",
@@ -292,24 +292,25 @@
           }
         },
         "country": {
-          "geoname_id": 2635167,
-          "iso_code": "GB",
+          "geoname_id": 3017382,
+          "is_in_european_union": true,
+          "iso_code": "FR",
           "names": {
-            "de": "UK",
-            "en": "United Kingdom",
-            "es": "Reino Unido",
-            "fr": "Royaume-Uni",
-            "ja": "英国",
-            "pt-BR": "Reino Unido",
-            "ru": "Британия",
-            "zh-CN": "英国"
+            "de": "Frankreich",
+            "en": "France",
+            "es": "Francia",
+            "fr": "France",
+            "ja": "フランス共和国",
+            "pt-BR": "França",
+            "ru": "Франция",
+            "zh-CN": "法国"
           }
         },
         "location": {
           "accuracy_radius": 500,
-          "latitude": 51.4964,
-          "longitude": -0.1224,
-          "time_zone": "Europe/London"
+          "latitude": 48.8582,
+          "longitude": 2.3387,
+          "time_zone": "Europe/Paris"
         },
         "registered_country": {
           "geoname_id": 3017382,
@@ -333,13 +334,15 @@
       "ip": "185.215.64.85",
       "geoip": {
         "city": {
-          "geoname_id": 2998056,
+          "geoname_id": 2990970,
           "names": {
-            "de": "Livry-Gargan",
-            "en": "Livry-Gargan",
-            "fr": "Livry-Gargan",
-            "ja": "リヴリー＝ガルガン",
-            "zh-CN": "利夫里-加尔冈"
+            "de": "Nanterre",
+            "en": "Nanterre",
+            "es": "Nanterre",
+            "fr": "Nanterre",
+            "ja": "ナンテール",
+            "ru": "Нантер",
+            "zh-CN": "楠泰尔"
           }
         },
         "continent": {
@@ -372,13 +375,13 @@
           }
         },
         "location": {
-          "accuracy_radius": 20,
-          "latitude": 48.9188,
-          "longitude": 2.5454,
+          "accuracy_radius": 200,
+          "latitude": 48.8909,
+          "longitude": 2.2093,
           "time_zone": "Europe/Paris"
         },
         "postal": {
-          "code": "93190"
+          "code": "92000"
         },
         "registered_country": {
           "geoname_id": 3017382,
@@ -411,17 +414,17 @@
             }
           },
           {
-            "geoname_id": 2975246,
-            "iso_code": "93",
+            "geoname_id": 3013657,
+            "iso_code": "92",
             "names": {
-              "de": "Seine-Saint-Denis",
-              "en": "Seine-Saint-Denis",
-              "es": "Sena Saint Denis",
-              "fr": "Seine-Saint-Denis",
-              "ja": "セーヌ＝サン＝ドニ県",
-              "pt-BR": "Seine-Saint-Denis",
-              "ru": "Сен-Сен-Дени",
-              "zh-CN": "塞纳-圣但尼省"
+              "de": "Hauts-de-Seine",
+              "en": "Hauts-de-Seine",
+              "es": "Altos de Sena",
+              "fr": "Hauts-de-Seine",
+              "ja": "オー＝ド＝セーヌ県",
+              "pt-BR": "Altos do Sena",
+              "ru": "О-де-Сен",
+              "zh-CN": "上塞纳省"
             }
           }
         ]
@@ -429,7 +432,7 @@
     },
     {
       "hostname": "fonts.googleapis.com",
-      "ip": "142.250.190.10",
+      "ip": "172.253.122.95",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -553,7 +556,7 @@
     },
     {
       "hostname": "tag.aticdn.net",
-      "ip": "108.156.91.50",
+      "ip": "18.160.18.104",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -607,7 +610,7 @@
     },
     {
       "hostname": "hd.pe.fr",
-      "ip": "18.160.213.91",
+      "ip": "18.160.18.7",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -657,6 +660,107 @@
             "zh-CN": "美国"
           }
         }
+      }
+    },
+    {
+      "hostname": "cdn.francetravail.fr",
+      "ip": "185.215.65.86",
+      "geoip": {
+        "city": {
+          "geoname_id": 2990970,
+          "names": {
+            "de": "Nanterre",
+            "en": "Nanterre",
+            "es": "Nanterre",
+            "fr": "Nanterre",
+            "ja": "ナンテール",
+            "ru": "Нантер",
+            "zh-CN": "楠泰尔"
+          }
+        },
+        "continent": {
+          "code": "EU",
+          "geoname_id": 6255148,
+          "names": {
+            "de": "Europa",
+            "en": "Europe",
+            "es": "Europa",
+            "fr": "Europe",
+            "ja": "ヨーロッパ",
+            "pt-BR": "Europa",
+            "ru": "Европа",
+            "zh-CN": "欧洲"
+          }
+        },
+        "country": {
+          "geoname_id": 3017382,
+          "is_in_european_union": true,
+          "iso_code": "FR",
+          "names": {
+            "de": "Frankreich",
+            "en": "France",
+            "es": "Francia",
+            "fr": "France",
+            "ja": "フランス共和国",
+            "pt-BR": "França",
+            "ru": "Франция",
+            "zh-CN": "法国"
+          }
+        },
+        "location": {
+          "accuracy_radius": 200,
+          "latitude": 48.8909,
+          "longitude": 2.2093,
+          "time_zone": "Europe/Paris"
+        },
+        "postal": {
+          "code": "92000"
+        },
+        "registered_country": {
+          "geoname_id": 3017382,
+          "is_in_european_union": true,
+          "iso_code": "FR",
+          "names": {
+            "de": "Frankreich",
+            "en": "France",
+            "es": "Francia",
+            "fr": "France",
+            "ja": "フランス共和国",
+            "pt-BR": "França",
+            "ru": "Франция",
+            "zh-CN": "法国"
+          }
+        },
+        "subdivisions": [
+          {
+            "geoname_id": 3012874,
+            "iso_code": "IDF",
+            "names": {
+              "de": "Île-de-France",
+              "en": "Île-de-France",
+              "es": "Isla de Francia",
+              "fr": "Île-de-France",
+              "ja": "イル・ド・フランス",
+              "pt-BR": "Ilha de França",
+              "ru": "Иль-де-Франс",
+              "zh-CN": "法兰西岛"
+            }
+          },
+          {
+            "geoname_id": 3013657,
+            "iso_code": "92",
+            "names": {
+              "de": "Hauts-de-Seine",
+              "en": "Hauts-de-Seine",
+              "es": "Altos de Sena",
+              "fr": "Hauts-de-Seine",
+              "ja": "オー＝ド＝セーヌ県",
+              "pt-BR": "Altos do Sena",
+              "ru": "О-де-Сен",
+              "zh-CN": "上塞纳省"
+            }
+          }
+        ]
       }
     },
     {
@@ -757,116 +861,19 @@
       }
     },
     {
-      "hostname": "cdn.francetravail.fr",
-      "ip": "185.215.65.86",
-      "geoip": {
-        "city": {
-          "geoname_id": 2998056,
-          "names": {
-            "de": "Livry-Gargan",
-            "en": "Livry-Gargan",
-            "fr": "Livry-Gargan",
-            "ja": "リヴリー＝ガルガン",
-            "zh-CN": "利夫里-加尔冈"
-          }
-        },
-        "continent": {
-          "code": "EU",
-          "geoname_id": 6255148,
-          "names": {
-            "de": "Europa",
-            "en": "Europe",
-            "es": "Europa",
-            "fr": "Europe",
-            "ja": "ヨーロッパ",
-            "pt-BR": "Europa",
-            "ru": "Европа",
-            "zh-CN": "欧洲"
-          }
-        },
-        "country": {
-          "geoname_id": 3017382,
-          "is_in_european_union": true,
-          "iso_code": "FR",
-          "names": {
-            "de": "Frankreich",
-            "en": "France",
-            "es": "Francia",
-            "fr": "France",
-            "ja": "フランス共和国",
-            "pt-BR": "França",
-            "ru": "Франция",
-            "zh-CN": "法国"
-          }
-        },
-        "location": {
-          "accuracy_radius": 20,
-          "latitude": 48.9188,
-          "longitude": 2.5454,
-          "time_zone": "Europe/Paris"
-        },
-        "postal": {
-          "code": "93190"
-        },
-        "registered_country": {
-          "geoname_id": 3017382,
-          "is_in_european_union": true,
-          "iso_code": "FR",
-          "names": {
-            "de": "Frankreich",
-            "en": "France",
-            "es": "Francia",
-            "fr": "France",
-            "ja": "フランス共和国",
-            "pt-BR": "França",
-            "ru": "Франция",
-            "zh-CN": "法国"
-          }
-        },
-        "subdivisions": [
-          {
-            "geoname_id": 3012874,
-            "iso_code": "IDF",
-            "names": {
-              "de": "Île-de-France",
-              "en": "Île-de-France",
-              "es": "Isla de Francia",
-              "fr": "Île-de-France",
-              "ja": "イル・ド・フランス",
-              "pt-BR": "Ilha de França",
-              "ru": "Иль-де-Франс",
-              "zh-CN": "法兰西岛"
-            }
-          },
-          {
-            "geoname_id": 2975246,
-            "iso_code": "93",
-            "names": {
-              "de": "Seine-Saint-Denis",
-              "en": "Seine-Saint-Denis",
-              "es": "Sena Saint Denis",
-              "fr": "Seine-Saint-Denis",
-              "ja": "セーヌ＝サン＝ドニ県",
-              "pt-BR": "Seine-Saint-Denis",
-              "ru": "Сен-Сен-Дени",
-              "zh-CN": "塞纳-圣但尼省"
-            }
-          }
-        ]
-      }
-    },
-    {
       "hostname": "www.francetravail.fr",
       "ip": "185.215.64.79",
       "geoip": {
         "city": {
-          "geoname_id": 2998056,
+          "geoname_id": 2990970,
           "names": {
-            "de": "Livry-Gargan",
-            "en": "Livry-Gargan",
-            "fr": "Livry-Gargan",
-            "ja": "リヴリー＝ガルガン",
-            "zh-CN": "利夫里-加尔冈"
+            "de": "Nanterre",
+            "en": "Nanterre",
+            "es": "Nanterre",
+            "fr": "Nanterre",
+            "ja": "ナンテール",
+            "ru": "Нантер",
+            "zh-CN": "楠泰尔"
           }
         },
         "continent": {
@@ -899,13 +906,13 @@
           }
         },
         "location": {
-          "accuracy_radius": 20,
-          "latitude": 48.9188,
-          "longitude": 2.5454,
+          "accuracy_radius": 200,
+          "latitude": 48.8909,
+          "longitude": 2.2093,
           "time_zone": "Europe/Paris"
         },
         "postal": {
-          "code": "93190"
+          "code": "92000"
         },
         "registered_country": {
           "geoname_id": 3017382,
@@ -938,17 +945,17 @@
             }
           },
           {
-            "geoname_id": 2975246,
-            "iso_code": "93",
+            "geoname_id": 3013657,
+            "iso_code": "92",
             "names": {
-              "de": "Seine-Saint-Denis",
-              "en": "Seine-Saint-Denis",
-              "es": "Sena Saint Denis",
-              "fr": "Seine-Saint-Denis",
-              "ja": "セーヌ＝サン＝ドニ県",
-              "pt-BR": "Seine-Saint-Denis",
-              "ru": "Сен-Сен-Дени",
-              "zh-CN": "塞纳-圣但尼省"
+              "de": "Hauts-de-Seine",
+              "en": "Hauts-de-Seine",
+              "es": "Altos de Sena",
+              "fr": "Hauts-de-Seine",
+              "ja": "オー＝ド＝セーヌ県",
+              "pt-BR": "Altos do Sena",
+              "ru": "О-де-Сен",
+              "zh-CN": "上塞纳省"
             }
           }
         ]
