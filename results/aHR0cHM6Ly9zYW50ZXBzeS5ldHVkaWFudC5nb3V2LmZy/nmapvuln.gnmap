@@ -1,1 +1,4 @@
-# Nmap 7.92 scan initiated Sun Jul  7 06:19:16 2024 as: nmap -sV --script vulners --script-args mincvss=5.0 -oA /data/nmapvuln santepsy.etudiant.gouv.fr
+# Nmap 7.92 scan initiated Sun Jul 14 06:32:00 2024 as: nmap -sV --script vulners --script-args mincvss=5.0 -oA /data/nmapvuln santepsy.etudiant.gouv.fr
+Host: 185.75.143.93 (men-tandem-lb-vip.dedie.ate.info)	Status: Up
+Host: 185.75.143.93 (men-tandem-lb-vip.dedie.ate.info)	Ports: 1/closed/tcp//tcpmux///, 80/open/tcp//tcpwrapped///, 443/open/tcp//ssl|tcpwrapped///, 900/closed/tcp//omginitialrefs///, 1236/closed/tcp//bvcontrol///, 1322/closed/tcp//novation///, 9207/closed/tcp//wap-vcal-s///, 9502/closed/tcp//unknown///, 9944/closed/tcp//unknown///, 44442/closed/tcp//coldfusion-auth///	Ignored State: filtered (990)
+# Nmap done at Sun Jul 14 06:33:52 2024 -- 1 IP address (1 host up) scanned in 112.06 seconds
