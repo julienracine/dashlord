@@ -345,8 +345,8 @@
               "id"           : "cert_expirationStatus",
               "ip"           : "backend.passculture.pro/34.107.224.170",
               "port"         : "443",
-              "severity"     : "OK",
-              "finding"      : "66 >= 60 days"
+              "severity"     : "MEDIUM",
+              "finding"      : "expires < 60 days (59)"
           }
 ,         {
               "id"           : "cert_notBefore",
@@ -359,7 +359,7 @@
               "id"           : "cert_notAfter",
               "ip"           : "backend.passculture.pro/34.107.224.170",
               "port"         : "443",
-              "severity"     : "OK",
+              "severity"     : "MEDIUM",
               "finding"      : "2024-09-11 07:22"
           }
 ,         {
@@ -549,7 +549,7 @@
               "ip"           : "backend.passculture.pro/34.107.224.170",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1720329821"
+              "finding"      : "1720934924"
           }
 ,         {
               "id"           : "HSTS_time",
@@ -1126,6 +1126,6 @@
               "ip"           : "backend.passculture.pro/34.107.224.170",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "37"
+              "finding"      : "36"
           }
 ]
