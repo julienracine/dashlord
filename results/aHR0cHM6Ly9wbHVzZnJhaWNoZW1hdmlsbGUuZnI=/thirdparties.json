@@ -18,7 +18,7 @@
     },
     {
       "name": "__Host-next-auth.csrf-token",
-      "value": "c8afe05a2e7d17c3b1a87359411655c31a0155e8ef185b39cd151ccb2309edcd%7Ca9eee374d456d29c5271969fe00f4903404320822d8afa5cd6013a2b681c2af7",
+      "value": "d776ccb71bef185b9596e9ec1d313f3033dc13dfba7ca0796e4609be86070c30%7C65dc4186eb08ff2b013f37ed0d0d85f56008e598aa72b4ca73a4ff14a0ef7af2",
       "domain": "plusfraichemaville.fr",
       "path": "/",
       "expires": -1,
@@ -35,15 +35,15 @@
   "headers": {
     "cache-control": "private, no-cache, no-store, max-age=0, must-revalidate",
     "content-encoding": "gzip",
-    "content-security-policy": "default-src 'self'; script-src 'self' https://stats.beta.gouv.fr 'nonce-MzZiZTEwYzMtZTA0My00MjFhLWFjMjUtZmFjODBmZGFhZjc3' 'strict-dynamic' ; style-src 'self' 'unsafe-inline'; img-src 'self' blob: data: https://plusfraichemaville.s3.fr-par.scw.cloud/ ; font-src 'self'; object-src 'none'; base-uri 'self'; form-action 'self'; frame-src https://c33e446d.sibforms.com https://stats.plusfraichemaville.fr; frame-ancestors 'none'; upgrade-insecure-requests; connect-src 'self' https://sentry.incubateur.net/ https://stats.beta.gouv.fr/matomo.php https://api-adresse.data.gouv.fr/search/ ;",
+    "content-security-policy": "default-src 'self'; script-src 'self' https://stats.beta.gouv.fr 'nonce-ZWU0ZWZlYmQtMjQxNS00NDc2LTlmMjktYjZlZGNkNTFmZTQx' 'strict-dynamic' ; style-src 'self' 'unsafe-inline'; img-src 'self' blob: data: https://plusfraichemaville.s3.fr-par.scw.cloud/ ; font-src 'self'; object-src 'none'; base-uri 'self'; form-action 'self'; frame-src https://c33e446d.sibforms.com https://stats.plusfraichemaville.fr; frame-ancestors 'none'; upgrade-insecure-requests; connect-src 'self' https://sentry.incubateur.net/ https://stats.beta.gouv.fr/matomo.php https://api-adresse.data.gouv.fr/search/ ;",
     "content-type": "text/html; charset=utf-8",
-    "date": "Sun, 07 Jul 2024 05:49:10 GMT",
+    "date": "Sun, 14 Jul 2024 05:55:12 GMT",
     "strict-transport-security": "max-age=31536000",
     "vary": "RSC, Next-Router-State-Tree, Next-Router-Prefetch, Next-Url, Accept-Encoding",
     "x-content-type-options": "nosniff",
     "x-frame-options": "DENY",
     "x-powered-by": "Next.js",
-    "x-request-id": "b2fd7d0b-51ce-4c47-8577-8c12c2013ddd"
+    "x-request-id": "f64500d2-0bfc-4556-b55d-2d989173d3d9"
   },
   "endpoints": [
     {

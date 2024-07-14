@@ -206,7 +206,7 @@
               "ip"           : "plusfraichemaville.fr/109.232.236.90",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "supported"
+              "finding"      : "not supported"
           }
 ,         {
               "id"           : "TLS_timestamp",
@@ -346,7 +346,7 @@
               "ip"           : "plusfraichemaville.fr/109.232.236.90",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "57 >= 30 days"
+              "finding"      : "50 >= 30 days"
           }
 ,         {
               "id"           : "cert_notBefore",
@@ -507,7 +507,7 @@
               "ip"           : "plusfraichemaville.fr/109.232.236.90",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1720331464"
+              "finding"      : "1720936584"
           }
 ,         {
               "id"           : "HSTS_time",
@@ -577,7 +577,7 @@
               "ip"           : "plusfraichemaville.fr/109.232.236.90",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "default-src 'self'; script-src 'self' https://stats.beta.gouv.fr 'nonce-MzZiZTEwYzMtZTA0My00MjFhLWFjMjUtZmFjODBmZGFhZjc3' 'strict-dynamic' ; style-src 'self' 'unsafe-inline'; img-src 'self' blob: data: https://plusfraichemaville.s3.fr-par.scw.cloud/ ; font-src 'self'; object-src 'none'; base-uri 'self'; form-action 'self'; frame-src https://c33e446d.sibforms.com https://stats.plusfraichemaville.fr; frame-ancestors 'none'; upgrade-insecure-requests; connect-src 'self' https://sentry.incubateur.net/ https://stats.beta.gouv.fr/matomo.php https://api-adresse.data.gouv.fr/search/ ;"
+              "finding"      : "default-src 'self'; script-src 'self' https://stats.beta.gouv.fr 'nonce-ZWU0ZWZlYmQtMjQxNS00NDc2LTlmMjktYjZlZGNkNTFmZTQx' 'strict-dynamic' ; style-src 'self' 'unsafe-inline'; img-src 'self' blob: data: https://plusfraichemaville.s3.fr-par.scw.cloud/ ; font-src 'self'; object-src 'none'; base-uri 'self'; form-action 'self'; frame-src https://c33e446d.sibforms.com https://stats.plusfraichemaville.fr; frame-ancestors 'none'; upgrade-insecure-requests; connect-src 'self' https://sentry.incubateur.net/ https://stats.beta.gouv.fr/matomo.php https://api-adresse.data.gouv.fr/search/ ;"
           }
 ,         {
               "id"           : "Cache-Control",
@@ -1286,7 +1286,7 @@
               "ip"           : "plusfraichemaville.fr/5.104.101.30",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "not supported"
+              "finding"      : "supported"
           }
 ,         {
               "id"           : "sessionresumption_ID",
@@ -1433,7 +1433,7 @@
               "ip"           : "plusfraichemaville.fr/5.104.101.30",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "57 >= 30 days"
+              "finding"      : "50 >= 30 days"
           }
 ,         {
               "id"           : "cert_notBefore",
@@ -1594,7 +1594,7 @@
               "ip"           : "plusfraichemaville.fr/5.104.101.30",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1720331564"
+              "finding"      : "1720936637"
           }
 ,         {
               "id"           : "HSTS_time",
@@ -1664,7 +1664,7 @@
               "ip"           : "plusfraichemaville.fr/5.104.101.30",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "default-src 'self'; script-src 'self' https://stats.beta.gouv.fr 'nonce-MzZiZTEwYzMtZTA0My00MjFhLWFjMjUtZmFjODBmZGFhZjc3' 'strict-dynamic' ; style-src 'self' 'unsafe-inline'; img-src 'self' blob: data: https://plusfraichemaville.s3.fr-par.scw.cloud/ ; font-src 'self'; object-src 'none'; base-uri 'self'; form-action 'self'; frame-src https://c33e446d.sibforms.com https://stats.plusfraichemaville.fr; frame-ancestors 'none'; upgrade-insecure-requests; connect-src 'self' https://sentry.incubateur.net/ https://stats.beta.gouv.fr/matomo.php https://api-adresse.data.gouv.fr/search/ ;"
+              "finding"      : "default-src 'self'; script-src 'self' https://stats.beta.gouv.fr 'nonce-ZWU0ZWZlYmQtMjQxNS00NDc2LTlmMjktYjZlZGNkNTFmZTQx' 'strict-dynamic' ; style-src 'self' 'unsafe-inline'; img-src 'self' blob: data: https://plusfraichemaville.s3.fr-par.scw.cloud/ ; font-src 'self'; object-src 'none'; base-uri 'self'; form-action 'self'; frame-src https://c33e446d.sibforms.com https://stats.plusfraichemaville.fr; frame-ancestors 'none'; upgrade-insecure-requests; connect-src 'self' https://sentry.incubateur.net/ https://stats.beta.gouv.fr/matomo.php https://api-adresse.data.gouv.fr/search/ ;"
           }
 ,         {
               "id"           : "Cache-Control",
@@ -2380,7 +2380,7 @@
               "ip"           : "plusfraichemaville.fr/148.253.75.120",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "not supported"
+              "finding"      : "supported"
           }
 ,         {
               "id"           : "TLS_timestamp",
@@ -2520,7 +2520,7 @@
               "ip"           : "plusfraichemaville.fr/148.253.75.120",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "57 >= 30 days"
+              "finding"      : "50 >= 30 days"
           }
 ,         {
               "id"           : "cert_notBefore",
@@ -2681,7 +2681,7 @@
               "ip"           : "plusfraichemaville.fr/148.253.75.120",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1720331661"
+              "finding"      : "1720936690"
           }
 ,         {
               "id"           : "HSTS_time",
@@ -2751,7 +2751,7 @@
               "ip"           : "plusfraichemaville.fr/148.253.75.120",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "default-src 'self'; script-src 'self' https://stats.beta.gouv.fr 'nonce-MzZiZTEwYzMtZTA0My00MjFhLWFjMjUtZmFjODBmZGFhZjc3' 'strict-dynamic' ; style-src 'self' 'unsafe-inline'; img-src 'self' blob: data: https://plusfraichemaville.s3.fr-par.scw.cloud/ ; font-src 'self'; object-src 'none'; base-uri 'self'; form-action 'self'; frame-src https://c33e446d.sibforms.com https://stats.plusfraichemaville.fr; frame-ancestors 'none'; upgrade-insecure-requests; connect-src 'self' https://sentry.incubateur.net/ https://stats.beta.gouv.fr/matomo.php https://api-adresse.data.gouv.fr/search/ ;"
+              "finding"      : "default-src 'self'; script-src 'self' https://stats.beta.gouv.fr 'nonce-ZWU0ZWZlYmQtMjQxNS00NDc2LTlmMjktYjZlZGNkNTFmZTQx' 'strict-dynamic' ; style-src 'self' 'unsafe-inline'; img-src 'self' blob: data: https://plusfraichemaville.s3.fr-par.scw.cloud/ ; font-src 'self'; object-src 'none'; base-uri 'self'; form-action 'self'; frame-src https://c33e446d.sibforms.com https://stats.plusfraichemaville.fr; frame-ancestors 'none'; upgrade-insecure-requests; connect-src 'self' https://sentry.incubateur.net/ https://stats.beta.gouv.fr/matomo.php https://api-adresse.data.gouv.fr/search/ ;"
           }
 ,         {
               "id"           : "Cache-Control",
@@ -3460,7 +3460,7 @@
               "ip"           : "plusfraichemaville.fr/109.232.233.130",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "not supported"
+              "finding"      : "supported"
           }
 ,         {
               "id"           : "sessionresumption_ID",
@@ -3607,7 +3607,7 @@
               "ip"           : "plusfraichemaville.fr/109.232.233.130",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "57 >= 30 days"
+              "finding"      : "50 >= 30 days"
           }
 ,         {
               "id"           : "cert_notBefore",
@@ -3761,14 +3761,14 @@
               "ip"           : "plusfraichemaville.fr/109.232.233.130",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "-1 seconds from localtime"
+              "finding"      : "0 seconds from localtime"
           }
 ,         {
               "id"           : "HTTP_headerTime",
               "ip"           : "plusfraichemaville.fr/109.232.233.130",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1720331756"
+              "finding"      : "1720936743"
           }
 ,         {
               "id"           : "HSTS_time",
@@ -3838,7 +3838,7 @@
               "ip"           : "plusfraichemaville.fr/109.232.233.130",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "default-src 'self'; script-src 'self' https://stats.beta.gouv.fr 'nonce-MzZiZTEwYzMtZTA0My00MjFhLWFjMjUtZmFjODBmZGFhZjc3' 'strict-dynamic' ; style-src 'self' 'unsafe-inline'; img-src 'self' blob: data: https://plusfraichemaville.s3.fr-par.scw.cloud/ ; font-src 'self'; object-src 'none'; base-uri 'self'; form-action 'self'; frame-src https://c33e446d.sibforms.com https://stats.plusfraichemaville.fr; frame-ancestors 'none'; upgrade-insecure-requests; connect-src 'self' https://sentry.incubateur.net/ https://stats.beta.gouv.fr/matomo.php https://api-adresse.data.gouv.fr/search/ ;"
+              "finding"      : "default-src 'self'; script-src 'self' https://stats.beta.gouv.fr 'nonce-ZWU0ZWZlYmQtMjQxNS00NDc2LTlmMjktYjZlZGNkNTFmZTQx' 'strict-dynamic' ; style-src 'self' 'unsafe-inline'; img-src 'self' blob: data: https://plusfraichemaville.s3.fr-par.scw.cloud/ ; font-src 'self'; object-src 'none'; base-uri 'self'; form-action 'self'; frame-src https://c33e446d.sibforms.com https://stats.plusfraichemaville.fr; frame-ancestors 'none'; upgrade-insecure-requests; connect-src 'self' https://sentry.incubateur.net/ https://stats.beta.gouv.fr/matomo.php https://api-adresse.data.gouv.fr/search/ ;"
           }
 ,         {
               "id"           : "Cache-Control",
@@ -4352,6 +4352,6 @@
               "ip"           : "plusfraichemaville.fr/109.232.233.130",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "394"
+              "finding"      : "213"
           }
 ]
