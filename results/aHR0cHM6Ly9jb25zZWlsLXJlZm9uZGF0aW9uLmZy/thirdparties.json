@@ -6,7 +6,7 @@
     },
     {
       "type": "unknown",
-      "url": "https://stats.conseil-refondation.fr/matomo.php?action_name=Accueil%20%E2%80%94%20Conseil%20National%20de%20la%20Refondation&idsite=1&rec=1&r=741864&h=10&m=46&s=24&url=https%3A%2F%2Fconseil-refondation.fr%2F&_id=5a235e7e5c6e7693&_idn=1&send_image=0&_refts=0&cookie=1&res=800x600&pv_id=7nOXIZ&pf_net=59&pf_srv=294&pf_tfr=92&pf_dm1=170&uadata=%7B%22fullVersionList%22%3A%5B%5D%2C%22mobile%22%3Afalse%2C%22model%22%3A%22%22%2C%22platform%22%3A%22%22%2C%22platformVersion%22%3A%22%22%7D"
+      "url": "https://stats.conseil-refondation.fr/matomo.php?action_name=Accueil%20%E2%80%94%20Conseil%20National%20de%20la%20Refondation&idsite=1&rec=1&r=779615&h=10&m=56&s=19&url=https%3A%2F%2Fconseil-refondation.fr%2F&_id=ad922f516713b8cb&_idn=1&send_image=0&_refts=0&cookie=1&res=800x600&pv_id=HhRc9v&pf_net=35&pf_srv=233&pf_tfr=4&uadata=%7B%22fullVersionList%22%3A%5B%5D%2C%22mobile%22%3Afalse%2C%22model%22%3A%22%22%2C%22platform%22%3A%22%22%2C%22platformVersion%22%3A%22%22%7D"
     }
   ],
   "cookies": [
@@ -15,7 +15,7 @@
       "value": "1",
       "domain": "conseil-refondation.fr",
       "path": "/",
-      "expires": 1720350984,
+      "expires": 1720956379,
       "size": 15,
       "httpOnly": false,
       "secure": false,
@@ -27,10 +27,10 @@
     },
     {
       "name": "_pk_id.1.474c",
-      "value": "5a235e7e5c6e7693.1720349185.",
+      "value": "ad922f516713b8cb.1720954579.",
       "domain": "conseil-refondation.fr",
       "path": "/",
-      "expires": 1754304385,
+      "expires": 1754909779,
       "size": 41,
       "httpOnly": false,
       "secure": false,
@@ -44,18 +44,18 @@
   "headers": {
     "alt-svc": "h3=\":443\"; ma=86400",
     "cf-cache-status": "DYNAMIC",
-    "cf-ray": "89f740209a620262-ORD",
+    "cf-ray": "8a30fc45f8be2f5e-LAX",
     "content-encoding": "br",
     "content-security-policy": "connect-src connect.facebook.net *.facebook.com 'self' stats.conseil-refondation.fr client.axept.io api.axept.io googletagmanager.com googleadservices.com googleads.g.doubleclick.net/ form.typeform.com; script-src 'self' 'sha256-bniFC3kd4JwCYRuTuxW9AjUYecKEuyTLJ+5NH6TJBWE=' stats.conseil-refondation.fr 'sha256-1neh+DsrMKevQd7CmK4xkhFjYHtrpaiR8ncbjLw/w5E=' connect.facebook.net static.axept.io www.googletagmanager.com www.googleadservices.com googleads.g.doubleclick.net embed.typeform.com; img-src 'self' data: localhost:8000 *.google.com *.gstatic.com *.facebook.com *.google.fr cellar-c2.services.clever-cloud.com; style-src 'self' 'unsafe-hashes' 'sha256-d//Lck7pNf/OY9MPfGYaIOTmqjEzvwlSukK3UObI08A=' 'sha256-Eyt3MCqJJqqqUJzUlVq9BLYX+kVGQZVLpJ4toZz4mb8=' 'sha256-Xhd5+zYamb/dMdyIkYwXmzaXokrsMrINTdCsO/s+Hcc=' 'sha256-dDZkVrIJy1Xyahb04E1npPS7ONJw3g8949x7gAc/kEY=' 'sha256-/68szNaQXdlDug09n2c6rD/J5VWzEfkXCRsVxk+Bc7s=' 'sha256-AthIs6YNuVjwfheHgESE8WAfJ61fXMZXX7s/UwRV5Dg=' embed.typeform.com; default-src 'self' data: localhost:8000; frame-src *.youtube.com *.facebook.com *.vimeo.com datawrapper.dwcdn.net form.typeform.com",
     "content-type": "text/html; charset=utf-8",
-    "date": "Sun, 07 Jul 2024 10:46:24 GMT",
+    "date": "Sun, 14 Jul 2024 10:56:19 GMT",
     "nel": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}",
     "referrer-policy": "same-origin",
-    "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=y2Wb0dNrbLn1ce2bzklNnye3JRZfEBgdbBgq8e0Rfxmzy%2BvMPeyB1c8LWnLCpudRdZhmHC8tW0IlREUAhoYQl%2By6cNgd%2BoWC9OfiMjAv45QGDThA6MqMCF0HO%2FP0MyY9g%2BQTV4CPLYy2\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
+    "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=9aHueg4wRNK13KnuLKmAXANduD6mn5N4nXayKQ2BpnDB2TxpKK09gqHqowleSvVlLd%2BXQOt3YCd6YQGtFE1yyVTGwr8OYUdonFNB8lHybY47BV69fTKxBCSBYtUdMHFWangko0dLBtrl\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
     "server": "cloudflare",
     "x-content-type-options": "nosniff",
     "x-frame-options": "DENY",
-    "x-request-id": "6243d92e-81d0-459a-b2c5-5b8a46b3d303"
+    "x-request-id": "01053f4c-68af-4c93-90e6-344f9220beaf"
   },
   "endpoints": [
     {
@@ -80,7 +80,7 @@
     },
     {
       "hostname": "stats.conseil-refondation.fr",
-      "ip": "104.21.7.98",
+      "ip": "172.67.130.24",
       "geoip": {
         "registered_country": {
           "geoname_id": 6252001,
