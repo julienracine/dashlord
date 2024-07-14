@@ -18,7 +18,7 @@
     },
     {
       "type": "unknown",
-      "url": "https://stats.recoconseil.fr/matomo.php?action_name=R%C3%A9habiliter%20une%20friche%20-%20UrbanVitaliz&idsite=2&rec=1&r=075725&h=12&m=54&s=28&url=https%3A%2F%2Furbanvitaliz.fr%2F&_id=3caad0f8271d5d29&_idn=1&send_image=0&_refts=0&pv_id=g0ofXr&pf_net=325&pf_srv=182&pf_tfr=152&pf_dm1=1256&uadata=%7B%22fullVersionList%22%3A%5B%5D%2C%22mobile%22%3Afalse%2C%22model%22%3A%22%22%2C%22platform%22%3A%22%22%2C%22platformVersion%22%3A%22%22%7D&cookie=1&res=800x600"
+      "url": "https://stats.recoconseil.fr/matomo.php?action_name=R%C3%A9habiliter%20une%20friche%20-%20UrbanVitaliz&idsite=2&rec=1&r=940274&h=12&m=59&s=40&url=https%3A%2F%2Furbanvitaliz.fr%2F&_id=3ffb34983ff297d2&_idn=1&send_image=0&_refts=0&pv_id=S7pvhW&pf_net=190&pf_srv=118&pf_tfr=88&pf_dm1=758&uadata=%7B%22fullVersionList%22%3A%5B%5D%2C%22mobile%22%3Afalse%2C%22model%22%3A%22%22%2C%22platform%22%3A%22%22%2C%22platformVersion%22%3A%22%22%7D&cookie=1&res=800x600"
     }
   ],
   "cookies": [
@@ -27,7 +27,7 @@
       "value": "1",
       "domain": "urbanvitaliz.fr",
       "path": "/",
-      "expires": 1720358668,
+      "expires": 1720963780,
       "size": 15,
       "httpOnly": false,
       "secure": false,
@@ -39,10 +39,10 @@
     },
     {
       "name": "_pk_id.2.30f1",
-      "value": "3caad0f8271d5d29.1720356869.",
+      "value": "3ffb34983ff297d2.1720961980.",
       "domain": "urbanvitaliz.fr",
       "path": "/",
-      "expires": 1754312069,
+      "expires": 1754917180,
       "size": 41,
       "httpOnly": false,
       "secure": false,
@@ -54,10 +54,10 @@
     },
     {
       "name": "csrftoken",
-      "value": "y3c0C8TRJvB4LmesQqRqedVhi8wki9ZQ",
+      "value": "sgUNJ8Yaa6MQbVVQjVukVkGr5SmWWdGy",
       "domain": "urbanvitaliz.fr",
       "path": "/",
-      "expires": 1751806466.412057,
+      "expires": 1752411579.23778,
       "size": 41,
       "httpOnly": false,
       "secure": true,
@@ -69,12 +69,12 @@
     }
   ],
   "headers": {
-    "content-length": "38034",
+    "content-length": "37997",
     "content-type": "text/html; charset=utf-8",
     "cross-origin-opener-policy": "same-origin",
-    "date": "Sun, 07 Jul 2024 12:54:26 GMT",
+    "date": "Sun, 14 Jul 2024 12:59:39 GMT",
     "referrer-policy": "same-origin",
-    "set-cookie": "csrftoken=y3c0C8TRJvB4LmesQqRqedVhi8wki9ZQ; expires=Sun, 06 Jul 2025 12:54:26 GMT; Max-Age=31449600; Path=/; SameSite=None; Secure",
+    "set-cookie": "csrftoken=sgUNJ8Yaa6MQbVVQjVukVkGr5SmWWdGy; expires=Sun, 13 Jul 2025 12:59:39 GMT; Max-Age=31449600; Path=/; SameSite=None; Secure",
     "strict-transport-security": "max-age=31536000; includeSubDomains",
     "vary": "Cookie",
     "via": "2.0 alproxy",
@@ -140,7 +140,7 @@
     },
     {
       "hostname": "browser.sentry-cdn.com",
-      "ip": "151.101.130.217",
+      "ip": "151.101.2.217",
       "geoip": {
         "city": {
           "geoname_id": 5391959,
