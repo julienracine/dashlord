@@ -1,22 +1,38 @@
 {
   "trackers": [],
-  "cookies": [],
+  "cookies": [
+    {
+      "name": "csrftoken",
+      "value": "xjuBGpQQ4nLrMz3zRoZc1RpUDQA90apK",
+      "domain": "carbure.beta.gouv.fr",
+      "path": "/",
+      "expires": 1752372676.339236,
+      "size": 41,
+      "httpOnly": false,
+      "secure": true,
+      "session": false,
+      "sameSite": "Strict",
+      "sameParty": false,
+      "sourceScheme": "Secure",
+      "sourcePort": 443
+    }
+  ],
   "headers": {
     "cache-control": "max-age=60, public",
     "content-encoding": "gzip",
-    "content-length": "530",
+    "content-length": "533",
     "content-security-policy": "default-src 'self' stats.beta.gouv.fr metabase.carbure.beta.gouv.fr https://*.tile.openstreetmap.org/",
     "content-type": "text/html; charset=\"utf-8\"",
     "cross-origin-opener-policy": "same-origin",
-    "date": "Sun, 07 Jul 2024 02:12:15 GMT",
-    "etag": "\"667bcb28-440\"",
-    "last-modified": "Wed, 26 Jun 2024 10:02:48 GMT",
+    "date": "Sun, 14 Jul 2024 02:11:15 GMT",
+    "etag": "\"668f8112-440\"",
+    "last-modified": "Thu, 11 Jul 2024 08:52:02 GMT",
     "referrer-policy": "same-origin",
     "strict-transport-security": "max-age=31536000",
     "vary": "Accept-Encoding",
     "x-content-type-options": "nosniff",
     "x-frame-options": "DENY",
-    "x-request-id": "e17197f9-b16c-4e9e-bfc6-fc8181a83b55"
+    "x-request-id": "ca17cd91-65c9-428a-a5c2-5f585ee15391"
   },
   "endpoints": [
     {
