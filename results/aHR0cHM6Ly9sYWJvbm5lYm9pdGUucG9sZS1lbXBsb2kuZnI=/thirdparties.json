@@ -98,7 +98,7 @@
     },
     {
       "type": "unknown",
-      "url": "https://hd.pe.fr/event?s=475540&idclient=lybezic83df39yq0"
+      "url": "https://hd.pe.fr/event?s=475540&idclient=lylffqwetxcz7ep4"
     },
     {
       "type": "unknown",
@@ -140,11 +140,11 @@
   "cookies": [
     {
       "name": "_pctx",
-      "value": "%7Bu%7DN4IgrgzgpgThIC4B2YA2qA05owMoBcBDfSREQpAeyRCwgEt8oBJAE0RXSwH18yBbVgC98AdyGUAFiAC%2BQA",
+      "value": "%7Bu%7DN4IgrgzgpgThIC4B2YA2qA05owMoBcBDfSREQpAeyRCwgEt8oBJAE0RXSwH18yBbKAE4wrABxiaAXyA",
       "domain": ".francetravail.fr",
       "path": "/",
-      "expires": 1754476344,
-      "size": 96,
+      "expires": 1755081764,
+      "size": 91,
       "httpOnly": false,
       "secure": true,
       "session": false,
@@ -155,10 +155,10 @@
     },
     {
       "name": "_pcid",
-      "value": "%7B%22browserId%22%3A%22lybezic83df39yq0%22%2C%22_t%22%3A%22mdztwzog%22%7D",
+      "value": "%7B%22browserId%22%3A%22lylffqwetxcz7ep4%22%2C%22_t%22%3A%22me9ud88m%22%7D",
       "domain": ".francetravail.fr",
       "path": "/",
-      "expires": 1754476344,
+      "expires": 1755081764,
       "size": 79,
       "httpOnly": false,
       "secure": true,
@@ -170,10 +170,10 @@
     },
     {
       "name": "TCPID",
-      "value": "124701032258374075865",
+      "value": "124701042445672054626",
       "domain": ".francetravail.fr",
       "path": "/",
-      "expires": 1754303545,
+      "expires": 1754908964,
       "size": 26,
       "httpOnly": false,
       "secure": true,
@@ -188,7 +188,7 @@
       "value": "%22exempt%22",
       "domain": ".francetravail.fr",
       "path": "/",
-      "expires": 1754476344,
+      "expires": 1755081764,
       "size": 22,
       "httpOnly": false,
       "secure": true,
@@ -204,8 +204,8 @@
     "content-encoding": "gzip",
     "content-security-policy": "script-src 'self' 'unsafe-inline' 'unsafe-eval' blob: maps.pole-emploi.fr cdn.trustcommander.net cdn.tagcommander.com tag.aticdn.net guidances-applicatives.pole-emploi.fr https://*.mopinion.com/ composants-pe-communs.pole-emploi.fr;",
     "content-type": "text/html; charset=utf-8",
-    "date": "Sun, 07 Jul 2024 10:32:24 GMT",
-    "etag": "W/\"1ad61-Ggg+JTBVWl8bMbWK8tBv4k9eo+Q\"",
+    "date": "Sun, 14 Jul 2024 10:42:43 GMT",
+    "etag": "W/\"1ad61-QqyT4pZDUWQP285Ptiwke6e8tFo\"",
     "referrer-policy": "strict-origin",
     "strict-transport-security": "max-age=31536000; includeSubDomains",
     "transfer-encoding": "chunked",
@@ -235,24 +235,25 @@
           }
         },
         "country": {
-          "geoname_id": 2635167,
-          "iso_code": "GB",
+          "geoname_id": 3017382,
+          "is_in_european_union": true,
+          "iso_code": "FR",
           "names": {
-            "de": "UK",
-            "en": "United Kingdom",
-            "es": "Reino Unido",
-            "fr": "Royaume-Uni",
-            "ja": "英国",
-            "pt-BR": "Reino Unido",
-            "ru": "Британия",
-            "zh-CN": "英国"
+            "de": "Frankreich",
+            "en": "France",
+            "es": "Francia",
+            "fr": "France",
+            "ja": "フランス共和国",
+            "pt-BR": "França",
+            "ru": "Франция",
+            "zh-CN": "法国"
           }
         },
         "location": {
           "accuracy_radius": 500,
-          "latitude": 51.4964,
-          "longitude": -0.1224,
-          "time_zone": "Europe/London"
+          "latitude": 48.8582,
+          "longitude": 2.3387,
+          "time_zone": "Europe/Paris"
         },
         "registered_country": {
           "geoname_id": 3017382,
@@ -290,24 +291,25 @@
           }
         },
         "country": {
-          "geoname_id": 2635167,
-          "iso_code": "GB",
+          "geoname_id": 3017382,
+          "is_in_european_union": true,
+          "iso_code": "FR",
           "names": {
-            "de": "UK",
-            "en": "United Kingdom",
-            "es": "Reino Unido",
-            "fr": "Royaume-Uni",
-            "ja": "英国",
-            "pt-BR": "Reino Unido",
-            "ru": "Британия",
-            "zh-CN": "英国"
+            "de": "Frankreich",
+            "en": "France",
+            "es": "Francia",
+            "fr": "France",
+            "ja": "フランス共和国",
+            "pt-BR": "França",
+            "ru": "Франция",
+            "zh-CN": "法国"
           }
         },
         "location": {
           "accuracy_radius": 500,
-          "latitude": 51.4964,
-          "longitude": -0.1224,
-          "time_zone": "Europe/London"
+          "latitude": 48.8582,
+          "longitude": 2.3387,
+          "time_zone": "Europe/Paris"
         },
         "registered_country": {
           "geoname_id": 3017382,
@@ -398,7 +400,7 @@
     },
     {
       "hostname": "tag.aticdn.net",
-      "ip": "13.33.21.9",
+      "ip": "18.160.18.10",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -452,7 +454,7 @@
     },
     {
       "hostname": "hd.pe.fr",
-      "ip": "18.164.174.84",
+      "ip": "18.160.18.3",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -506,7 +508,7 @@
     },
     {
       "hostname": "privacy.trustcommander.net",
-      "ip": "13.36.137.63",
+      "ip": "35.180.217.105",
       "geoip": {
         "city": {
           "geoname_id": 2988507,
@@ -603,7 +605,7 @@
     },
     {
       "hostname": "fonts.gstatic.com",
-      "ip": "142.250.188.227",
+      "ip": "172.253.122.94",
       "geoip": {
         "continent": {
           "code": "NA",
