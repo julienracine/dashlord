@@ -6,7 +6,7 @@
       "value": "1",
       "domain": "opentermsarchive.org",
       "path": "/",
-      "expires": 1720345665,
+      "expires": 1720951419,
       "size": 17,
       "httpOnly": false,
       "secure": false,
@@ -18,10 +18,10 @@
     },
     {
       "name": "_pk_id.179.cd52",
-      "value": "e7f2c5fba50fa83e.1720343865.",
+      "value": "7beec98f4a9ae647.1720949619.",
       "domain": "opentermsarchive.org",
       "path": "/",
-      "expires": 1754299065,
+      "expires": 1754904819,
       "size": 43,
       "httpOnly": false,
       "secure": false,
@@ -35,31 +35,45 @@
   "headers": {
     "accept-ranges": "bytes",
     "access-control-allow-origin": "*",
-    "age": "192",
+    "age": "0",
     "cache-control": "max-age=600",
     "content-encoding": "gzip",
-    "content-length": "10245",
+    "content-length": "10246",
     "content-type": "text/html; charset=utf-8",
-    "date": "Sun, 07 Jul 2024 09:17:44 GMT",
-    "etag": "W/\"667f22b9-bd3d\"",
-    "expires": "Sun, 07 Jul 2024 07:21:19 GMT",
-    "last-modified": "Fri, 28 Jun 2024 20:53:13 GMT",
+    "date": "Sun, 14 Jul 2024 09:33:38 GMT",
+    "etag": "W/\"6690f144-bd3d\"",
+    "expires": "Sun, 14 Jul 2024 09:40:05 GMT",
+    "last-modified": "Fri, 12 Jul 2024 09:03:00 GMT",
     "server": "GitHub.com",
     "vary": "Accept-Encoding",
     "via": "1.1 varnish",
     "x-cache": "HIT",
-    "x-cache-hits": "2",
-    "x-fastly-request-id": "40ff77874d8d51a47fd6e163669976223505fe05",
-    "x-github-request-id": "3AF7:154B09:139E81A:179667D:668A3F8C",
+    "x-cache-hits": "0",
+    "x-fastly-request-id": "b85e28633c087f862a4dc6d9b5630b91b67607d2",
+    "x-github-request-id": "4914:1A91C9:1323069:165218C:66939A9D",
+    "x-hosts-log-append": "pages_hosts_ips:",
     "x-proxy-cache": "MISS",
-    "x-served-by": "cache-iad-kcgs7200099-IAD",
-    "x-timer": "S1720343865.623225,VS0,VE0"
+    "x-served-by": "cache-iad-kcgs7200146-IAD",
+    "x-timer": "S1720949619.948124,VS0,VE7"
   },
   "endpoints": [
     {
       "hostname": "opentermsarchive.org",
-      "ip": "185.199.108.153",
+      "ip": "185.199.109.153",
       "geoip": {
+        "city": {
+          "geoname_id": 5391959,
+          "names": {
+            "de": "San Francisco",
+            "en": "San Francisco",
+            "es": "San Francisco",
+            "fr": "San Francisco",
+            "ja": "サンフランシスコ",
+            "pt-BR": "São Francisco",
+            "ru": "Сан-Франциско",
+            "zh-CN": "旧金山"
+          }
+        },
         "continent": {
           "code": "NA",
           "geoname_id": 6255149,
@@ -89,10 +103,14 @@
           }
         },
         "location": {
-          "accuracy_radius": 1000,
-          "latitude": 34.0544,
-          "longitude": -118.244,
+          "accuracy_radius": 20,
+          "latitude": 37.7642,
+          "longitude": -122.3993,
+          "metro_code": 807,
           "time_zone": "America/Los_Angeles"
+        },
+        "postal": {
+          "code": "94107"
         },
         "registered_country": {
           "geoname_id": 6252001,
