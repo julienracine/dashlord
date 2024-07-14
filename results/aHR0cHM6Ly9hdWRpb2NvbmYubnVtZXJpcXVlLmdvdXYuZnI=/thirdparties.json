@@ -3,10 +3,10 @@
   "cookies": [
     {
       "name": "sc-sticky-session",
-      "value": "tTUrIlfdFejn1qzT/BVCJULKZXngkdDUY+me3c/JnrAL7hoXzStFwg+ei4xh2b9tWsUbwzyn0js30M8mk68LRA==",
+      "value": "uc8jdYuSYOL0h3zXnDW97T6g/raeZnoKdu+qqH9GSaYACgfSQFBY6Ndt71hUbej057MGvHW92DpmQKLUH2QOQw==",
       "domain": "audioconf.numerique.gouv.fr",
       "path": "/",
-      "expires": 1720403748.710786,
+      "expires": 1721008557.619291,
       "size": 105,
       "httpOnly": true,
       "secure": true,
@@ -18,11 +18,11 @@
     },
     {
       "name": "connect.sid",
-      "value": "s%3ABjZRMYKQ_uCfyoMxe_Dh2wTPgakf5YTr.th5RWgIBvjfztPX7D7z3Cwq4VtRBAka8woc%2BF%2BumIH8",
+      "value": "s%3AQ8tZmCsaVexYWSuIXaJYbQxRox8Rs4l1.KxSJwA%2BAJlnkHvCHnIZ%2Faibjzg0azsIYxazm%2B%2B6ZfBw",
       "domain": "audioconf.numerique.gouv.fr",
       "path": "/",
-      "expires": 1720317648.109504,
-      "size": 95,
+      "expires": 1720922457.119463,
+      "size": 99,
       "httpOnly": true,
       "secure": false,
       "session": false,
@@ -35,83 +35,68 @@
   "headers": {
     "content-encoding": "gzip",
     "content-type": "text/html; charset=utf-8",
-    "date": "Sun, 07 Jul 2024 01:55:48 GMT",
-    "etag": "W/\"7deb-Fp0n9V1ZidpjEfUjAoaqExHbqys\"",
-    "set-cookie": "connect.sid=s%3ABjZRMYKQ_uCfyoMxe_Dh2wTPgakf5YTr.th5RWgIBvjfztPX7D7z3Cwq4VtRBAka8woc%2BF%2BumIH8; Path=/; Expires=Sun, 07 Jul 2024 02:00:48 GMT; HttpOnly; SameSite=Lax\nsc-sticky-session=tTUrIlfdFejn1qzT/BVCJULKZXngkdDUY+me3c/JnrAL7hoXzStFwg+ei4xh2b9tWsUbwzyn0js30M8mk68LRA==; Expires=Mon, 08-Jul-24 01:55:48 GMT; Max-Age=86400; Path=/; Secure; HttpOnly; SameSite=None",
+    "date": "Sun, 14 Jul 2024 01:55:57 GMT",
+    "etag": "W/\"7de5-9VEQG3FLHKT38pSh6z0sS4cf6EI\"",
+    "set-cookie": "connect.sid=s%3AQ8tZmCsaVexYWSuIXaJYbQxRox8Rs4l1.KxSJwA%2BAJlnkHvCHnIZ%2Faibjzg0azsIYxazm%2B%2B6ZfBw; Path=/; Expires=Sun, 14 Jul 2024 02:00:57 GMT; HttpOnly; SameSite=Lax\nsc-sticky-session=uc8jdYuSYOL0h3zXnDW97T6g/raeZnoKdu+qqH9GSaYACgfSQFBY6Ndt71hUbej057MGvHW92DpmQKLUH2QOQw==; Expires=Mon, 15-Jul-24 01:55:57 GMT; Max-Age=86400; Path=/; Secure; HttpOnly; SameSite=None",
     "strict-transport-security": "max-age=31536000",
     "x-powered-by": "Express",
-    "x-request-id": "a7cc4927-7283-4268-bc7c-594c2b2a26b2"
+    "x-request-id": "48e5ccd1-1b15-4b56-a2c8-b9e4459e4167"
   },
   "endpoints": [
     {
       "hostname": "audioconf.numerique.gouv.fr",
-      "ip": "87.247.13.145",
+      "ip": "80.247.12.255",
       "geoip": {
-        "city": {
-          "geoname_id": 1519843,
-          "names": {
-            "en": "Rudnyy",
-            "ru": "Рудный"
-          }
-        },
         "continent": {
-          "code": "AS",
-          "geoname_id": 6255147,
+          "code": "EU",
+          "geoname_id": 6255148,
           "names": {
-            "de": "Asien",
-            "en": "Asia",
-            "es": "Asia",
-            "fr": "Asie",
-            "ja": "アジア",
-            "pt-BR": "Ásia",
-            "ru": "Азия",
-            "zh-CN": "亚洲"
+            "de": "Europa",
+            "en": "Europe",
+            "es": "Europa",
+            "fr": "Europe",
+            "ja": "ヨーロッパ",
+            "pt-BR": "Europa",
+            "ru": "Европа",
+            "zh-CN": "欧洲"
           }
         },
         "country": {
-          "geoname_id": 1522867,
-          "iso_code": "KZ",
+          "geoname_id": 3017382,
+          "is_in_european_union": true,
+          "iso_code": "FR",
           "names": {
-            "de": "Kasachstan",
-            "en": "Kazakhstan",
-            "es": "Kazajstán",
-            "fr": "Kazakhstan",
-            "ja": "カザフスタン共和国",
-            "pt-BR": "Cazaquistão",
-            "ru": "Казахстан",
-            "zh-CN": "哈萨克斯坦"
+            "de": "Frankreich",
+            "en": "France",
+            "es": "Francia",
+            "fr": "France",
+            "ja": "フランス共和国",
+            "pt-BR": "França",
+            "ru": "Франция",
+            "zh-CN": "法国"
           }
         },
         "location": {
-          "accuracy_radius": 5,
-          "latitude": 52.9701,
-          "longitude": 63.1157,
-          "time_zone": "Asia/Qostanay"
+          "accuracy_radius": 500,
+          "latitude": 48.8582,
+          "longitude": 2.3387,
+          "time_zone": "Europe/Paris"
         },
         "registered_country": {
-          "geoname_id": 1522867,
-          "iso_code": "KZ",
+          "geoname_id": 3017382,
+          "is_in_european_union": true,
+          "iso_code": "FR",
           "names": {
-            "de": "Kasachstan",
-            "en": "Kazakhstan",
-            "es": "Kazajstán",
-            "fr": "Kazakhstan",
-            "ja": "カザフスタン共和国",
-            "pt-BR": "Cazaquistão",
-            "ru": "Казахстан",
-            "zh-CN": "哈萨克斯坦"
+            "de": "Frankreich",
+            "en": "France",
+            "es": "Francia",
+            "fr": "France",
+            "ja": "フランス共和国",
+            "pt-BR": "França",
+            "ru": "Франция",
+            "zh-CN": "法国"
           }
-        },
-        "subdivisions": [
-          {
-            "geoname_id": 1521671,
-            "iso_code": "39",
-            "names": {
-              "en": "Qostanay Oblysy",
-              "ru": "Kostanayskaya Oblast’"
-            }
-          }
-        ]
+        }
       }
     }
   ]
