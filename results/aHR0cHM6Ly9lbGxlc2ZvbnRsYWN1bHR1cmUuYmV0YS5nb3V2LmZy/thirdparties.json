@@ -51,7 +51,7 @@
       "value": "1",
       "domain": "ellesfontla.culture.gouv.fr",
       "path": "/",
-      "expires": 1720346673,
+      "expires": 1720952352,
       "size": 17,
       "httpOnly": false,
       "secure": false,
@@ -63,10 +63,10 @@
     },
     {
       "name": "_pk_id.187.1dd6",
-      "value": "a0e22203d619740d.1720344873.",
+      "value": "5d360e5a2590ef9a.1720950552.",
       "domain": "ellesfontla.culture.gouv.fr",
       "path": "/",
-      "expires": 1754300073,
+      "expires": 1754905752,
       "size": 43,
       "httpOnly": false,
       "secure": false,
@@ -78,11 +78,11 @@
     },
     {
       "name": "_ellesfontlaphoto_session",
-      "value": "548I2D0cGomsy9a0c1XYnQvhcDnXNCXGj4Q7RyMVNLOhaTolCso9TdDAMxk1dokDr8jp5%2BwOcVxsrAi3FqQ6%2FxNuMW5AvH6YA7UIXrCYMagdLr2zjOMLpquTd6zCMS9EGyNzX7Df%2Bkf42lExZEmnFziQlKDmsQKId4p0YdmonEosYLhl2jYHhDxI191nujNkJH0Frl%2F2vjSxEM4vwmBVR9iRfWr%2Bf16HUpHFNv3hqaKbS4IMTmuqv01fcapls%2F1CoeoA84j%2Fk70ZL4MYPlIOELC%2BpFClPmkRuDl0ajMYtMtukBtcrw5TNCq8Gii2QY%2BXZ4ytVikH5W5rlU9L8M5SrPN%2BYf80WR4QfiLzA%2BHPGEhSh5pHK%2F2HNXhfzbENhnVYnm8NHnbPKe%2BeCDF1YxHh6w92LV0xV1rkqCxCYlzs7VVBPuns5oYnQ32Xrk5XyIpIj3jZJrIzcE8GG9Vd%2FcmY%2FP6tWl%2BfYp6gd%2Bd%2FFPzoylBjSHF3N04c6D2MKWXy--d4CloTKZBGcFGssA--bxS6t7WPCMaBD317YxZF5Q%3D%3D",
+      "value": "ymZX9hTYjsw0tpBqATWo%2BYOUjMnSfuzKHzD9OUg7KitCDb%2Fdi%2Fe045uGym51cxS0MR97lCagcd8o9naRFw78fdc6gLdQg7G1riF9GDxc2Ismd3ukGh9brVZdsJTlt1GP2B%2FDTVtV%2FQ5uRrktrvTzRAz7aH48XmOe4xfQnOYZYpLgbtnn0RmxCv4YUBHXDEatDsBOo%2FyPZzy4gUav%2BsdnFAZkI%2F8uQwoMi3bSe5rnSq%2B1Tvm6JsErAqY315T4rELW9Q4nPnEDyVzUjnwE3VfIISYnGw3IV98fy8U3pkfiiYfQOlBckPPTXw5ABK5Q51HeVdnfW2luiZSJeFc1hQbd1cz2JqJg7oOdZjJEkrqccUS37t2h4gtATze2FLbBuEsPCXNkGqkUP3S7arAUm%2F7XFra2GXfShrdF8TKVFwsk80fr4sFTIY1kIQDR%2FO2BjD90hip6ISorZgrMh1vesVQeRjVrsWr0BXZOLsb014iaPiv8IkYrOWUGf39g78%2Bv--mCYakJi%2BINi3S63u--yKlP5LBQMuvCVPLc77zA%2Bw%3D%3D",
       "domain": "ellesfontla.culture.gouv.fr",
       "path": "/",
       "expires": -1,
-      "size": 617,
+      "size": 609,
       "httpOnly": true,
       "secure": true,
       "session": true,
@@ -96,13 +96,13 @@
     "accept-ranges": "bytes",
     "cache-control": "max-age=0, private, must-revalidate",
     "content-type": "text/html; charset=utf-8",
-    "date": "Sun, 07 Jul 2024 09:34:32 GMT",
-    "etag": "W/\"2d5ac603278bb53efc0f48b87d992f2b\"",
+    "date": "Sun, 14 Jul 2024 09:49:11 GMT",
+    "etag": "W/\"ba5ad7f3f7625b9c9ef4a540f652b2c6\"",
     "link": "</assets/application-9815be20b67528ecb748d9825798c5f0837b8eacebb73167b8d38f8c863584da.css>; rel=preload; as=style; nopush",
     "referrer-policy": "strict-origin-when-cross-origin",
-    "set-cookie": "_ellesfontlaphoto_session=548I2D0cGomsy9a0c1XYnQvhcDnXNCXGj4Q7RyMVNLOhaTolCso9TdDAMxk1dokDr8jp5%2BwOcVxsrAi3FqQ6%2FxNuMW5AvH6YA7UIXrCYMagdLr2zjOMLpquTd6zCMS9EGyNzX7Df%2Bkf42lExZEmnFziQlKDmsQKId4p0YdmonEosYLhl2jYHhDxI191nujNkJH0Frl%2F2vjSxEM4vwmBVR9iRfWr%2Bf16HUpHFNv3hqaKbS4IMTmuqv01fcapls%2F1CoeoA84j%2Fk70ZL4MYPlIOELC%2BpFClPmkRuDl0ajMYtMtukBtcrw5TNCq8Gii2QY%2BXZ4ytVikH5W5rlU9L8M5SrPN%2BYf80WR4QfiLzA%2BHPGEhSh5pHK%2F2HNXhfzbENhnVYnm8NHnbPKe%2BeCDF1YxHh6w92LV0xV1rkqCxCYlzs7VVBPuns5oYnQ32Xrk5XyIpIj3jZJrIzcE8GG9Vd%2FcmY%2FP6tWl%2BfYp6gd%2Bd%2FFPzoylBjSHF3N04c6D2MKWXy--d4CloTKZBGcFGssA--bxS6t7WPCMaBD317YxZF5Q%3D%3D; path=/; secure; HttpOnly; SameSite=Lax",
+    "set-cookie": "_ellesfontlaphoto_session=ymZX9hTYjsw0tpBqATWo%2BYOUjMnSfuzKHzD9OUg7KitCDb%2Fdi%2Fe045uGym51cxS0MR97lCagcd8o9naRFw78fdc6gLdQg7G1riF9GDxc2Ismd3ukGh9brVZdsJTlt1GP2B%2FDTVtV%2FQ5uRrktrvTzRAz7aH48XmOe4xfQnOYZYpLgbtnn0RmxCv4YUBHXDEatDsBOo%2FyPZzy4gUav%2BsdnFAZkI%2F8uQwoMi3bSe5rnSq%2B1Tvm6JsErAqY315T4rELW9Q4nPnEDyVzUjnwE3VfIISYnGw3IV98fy8U3pkfiiYfQOlBckPPTXw5ABK5Q51HeVdnfW2luiZSJeFc1hQbd1cz2JqJg7oOdZjJEkrqccUS37t2h4gtATze2FLbBuEsPCXNkGqkUP3S7arAUm%2F7XFra2GXfShrdF8TKVFwsk80fr4sFTIY1kIQDR%2FO2BjD90hip6ISorZgrMh1vesVQeRjVrsWr0BXZOLsb014iaPiv8IkYrOWUGf39g78%2Bv--mCYakJi%2BINi3S63u--yKlP5LBQMuvCVPLc77zA%2Bw%3D%3D; path=/; secure; HttpOnly; SameSite=Lax",
     "strict-transport-security": "max-age=31557600",
-    "traceresponse": "00-17dfe48bf347435a5cab7d866a2739c1-63cb3ebb9073e382-01",
+    "traceresponse": "00-17e20b68a230c51205024b4da388a585-6c8eed83349314c4-01",
     "via": "1.1 varnish, 1.1 varnish",
     "x-cache": "MISS, MISS",
     "x-cache-hits": "0, 0",
@@ -115,9 +115,9 @@
     "x-platform-cluster": "tl34jw4qs4bu2-master-7rqtwti",
     "x-platform-processor": "gwzrtyfmq5bg3qickflrztm5jm",
     "x-platform-router": "nthylk4d6puxch5isukqy3sywa",
-    "x-request-id": "7c09f6d3-c7ca-4446-bd3c-00ce78e02e97",
-    "x-runtime": "0.220436",
-    "x-served-by": "cache-par-lfpg1960026-PAR, cache-chi-kigq8000096-CHI",
+    "x-request-id": "c91f2d11-c498-45c2-acce-55451b697246",
+    "x-runtime": "0.164990",
+    "x-served-by": "cache-par-lfpg1960043-PAR, cache-chi-kigq8000057-CHI",
     "x-xss-protection": "1; mode=block"
   },
   "endpoints": [
@@ -179,59 +179,8 @@
     },
     {
       "hostname": "res.cloudinary.com",
-      "ip": "23.198.32.46",
+      "ip": "104.17.202.1",
       "geoip": {
-        "city": {
-          "geoname_id": 4887398,
-          "names": {
-            "de": "Chicago",
-            "en": "Chicago",
-            "es": "Chicago",
-            "fr": "Chicago",
-            "ja": "シカゴ",
-            "pt-BR": "Chicago",
-            "ru": "Чикаго",
-            "zh-CN": "芝加哥"
-          }
-        },
-        "continent": {
-          "code": "NA",
-          "geoname_id": 6255149,
-          "names": {
-            "de": "Nordamerika",
-            "en": "North America",
-            "es": "Norteamérica",
-            "fr": "Amérique du Nord",
-            "ja": "北アメリカ",
-            "pt-BR": "América do Norte",
-            "ru": "Северная Америка",
-            "zh-CN": "北美洲"
-          }
-        },
-        "country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
-          "names": {
-            "de": "USA",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
-          }
-        },
-        "location": {
-          "accuracy_radius": 20,
-          "latitude": 41.8874,
-          "longitude": -87.6318,
-          "metro_code": 602,
-          "time_zone": "America/Chicago"
-        },
-        "postal": {
-          "code": "60602"
-        },
         "registered_country": {
           "geoname_id": 6252001,
           "iso_code": "US",
@@ -245,23 +194,7 @@
             "ru": "США",
             "zh-CN": "美国"
           }
-        },
-        "subdivisions": [
-          {
-            "geoname_id": 4896861,
-            "iso_code": "IL",
-            "names": {
-              "de": "Illinois",
-              "en": "Illinois",
-              "es": "Illinois",
-              "fr": "Illinois",
-              "ja": "イリノイ州",
-              "pt-BR": "Ilinóis",
-              "ru": "Иллинойс",
-              "zh-CN": "伊利诺伊州"
-            }
-          }
-        ]
+        }
       }
     }
   ]
