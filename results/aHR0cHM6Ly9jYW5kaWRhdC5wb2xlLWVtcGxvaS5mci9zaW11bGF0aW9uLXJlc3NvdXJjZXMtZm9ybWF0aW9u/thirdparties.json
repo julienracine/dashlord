@@ -73,6 +73,14 @@
       "url": "https://candidat.francetravail.fr/simulation-ressources-formation/icons.7ae89a99da6cadce.ttf?wekjvp"
     },
     {
+      "type": "at-internet",
+      "url": "https://tag.aticdn.net/js-sdk/piano-analytics-6.8.3.js",
+      "details": {
+        "id": "at-internet",
+        "message": "Ensure your TOS notify the AT internet usage"
+      }
+    },
+    {
       "type": "unknown",
       "url": "https://candidat.francetravail.fr/portail-simulateurs/runtime.465e33792596c1f4.js"
     },
@@ -103,10 +111,6 @@
     {
       "type": "unknown",
       "url": "https://candidat.francetravail.fr/portail-simulateurs/527.262f7518cb30f11f.js"
-    },
-    {
-      "type": "unknown",
-      "url": "https://cdn.tagcommander.com/4340/tc_PoleEmploi_24.js"
     },
     {
       "type": "unknown",
@@ -145,6 +149,14 @@
       "url": "https://candidat.francetravail.fr/portail-simulateurs/roboto-bold-webfont.f52d56320d58032f.woff2"
     },
     {
+      "type": "at-internet",
+      "url": "https://tag.aticdn.net/js-sdk/piano-analytics-6.8.3.js",
+      "details": {
+        "id": "at-internet",
+        "message": "Ensure your TOS notify the AT internet usage"
+      }
+    },
+    {
       "type": "unknown",
       "url": "https://candidat.francetravail.fr/portail-simulateurs/icons.7ae89a99da6cadce.ttf?wekjvp"
     },
@@ -165,16 +177,16 @@
       "url": "https://candidat.francetravail.fr/portail-simulateurs/roboto-bold-webfont.f52d56320d58032f.woff2"
     },
     {
-      "type": "at-internet",
-      "url": "https://tag.aticdn.net/js-sdk/piano-analytics-6.8.3.js",
-      "details": {
-        "id": "at-internet",
-        "message": "Ensure your TOS notify the AT internet usage"
-      }
+      "type": "unknown",
+      "url": "https://hd.pe.fr/event?s=475540&idclient=lyletlxirpzjk06b"
     },
     {
       "type": "unknown",
-      "url": "https://hd.pe.fr/event?s=475540&idclient=lybebx59fqx3ooih"
+      "url": "https://privacy.trustcommander.net/privacy-consent?site=4340"
+    },
+    {
+      "type": "unknown",
+      "url": "https://hd.pe.fr/event?s=475540&idclient=lyletlxirpzjk06b"
     },
     {
       "type": "unknown",
@@ -186,27 +198,13 @@
     },
     {
       "type": "unknown",
-      "url": "https://privacy.trustcommander.net/privacy-consent?site=4340"
+      "url": "https://www.francetravail.fr/files/live/sites/PE/files/images/Logos/header-logo2021-pe-fr.svg"
     }
   ],
   "cookies": [
     {
-      "name": "TS01e01b1a",
-      "value": "0150c672c393687f1ebf30cdc372517c27283f3421193bf65cb3db7b9afec57653a0c2f7f62b1085e110c4a5044b3286798ea79fcd",
-      "domain": "candidat.francetravail.fr",
-      "path": "/",
-      "expires": -1,
-      "size": 116,
-      "httpOnly": false,
-      "secure": false,
-      "session": true,
-      "sameParty": false,
-      "sourceScheme": "Secure",
-      "sourcePort": 443
-    },
-    {
       "name": "BIGipServerPOOL_TAS_SDDC_HTTP",
-      "value": "1720912650.20480.0000",
+      "value": "1687358218.20480.0000",
       "domain": "candidat.francetravail.fr",
       "path": "/",
       "expires": -1,
@@ -222,14 +220,14 @@
   "headers": {
     "content-encoding": "gzip",
     "content-type": "text/html; charset=utf-8",
-    "date": "Sun, 07 Jul 2024 10:14:01 GMT",
+    "date": "Sun, 14 Jul 2024 10:25:28 GMT",
     "last-modified": "Tue, 11 Jun 2024 13:42:36 GMT",
-    "set-cookie": "BIGipServerPOOL_TAS_SDDC_HTTP=1720912650.20480.0000; path=/; Httponly; Secure\nTS01e01b1a=0150c672c393687f1ebf30cdc372517c27283f3421193bf65cb3db7b9afec57653a0c2f7f62b1085e110c4a5044b3286798ea79fcd; Path=/",
+    "set-cookie": "BIGipServerPOOL_TAS_SDDC_HTTP=1687358218.20480.0000; path=/; Httponly; Secure\nTS01fca309=0150c672c3cf3e8e278c4bd3aa18f3efd702d7685d7faac4d2335fd5ed7d2ba5bffc6d0c7acab4fccee21ac6108944e3c149312efa; Path=/; Domain=.pn307-estimeformation-prod.apps.tas-prod.pole-emploi.intra",
     "transfer-encoding": "chunked",
     "vary": "Accept-Encoding",
     "x-content-type-options": "nosniff'",
     "x-robots-tag": "noindex, nofollow, nosnippet, noarchive",
-    "x-vcap-request-id": "35672405-7166-42f0-7ecf-4ed8214dc042"
+    "x-vcap-request-id": "90d7d0ef-aaed-4b7b-72d5-614ca8735534"
   },
   "endpoints": [
     {
@@ -237,13 +235,15 @@
       "ip": "185.215.64.30",
       "geoip": {
         "city": {
-          "geoname_id": 2998056,
+          "geoname_id": 2990970,
           "names": {
-            "de": "Livry-Gargan",
-            "en": "Livry-Gargan",
-            "fr": "Livry-Gargan",
-            "ja": "リヴリー＝ガルガン",
-            "zh-CN": "利夫里-加尔冈"
+            "de": "Nanterre",
+            "en": "Nanterre",
+            "es": "Nanterre",
+            "fr": "Nanterre",
+            "ja": "ナンテール",
+            "ru": "Нантер",
+            "zh-CN": "楠泰尔"
           }
         },
         "continent": {
@@ -276,13 +276,13 @@
           }
         },
         "location": {
-          "accuracy_radius": 20,
-          "latitude": 48.9188,
-          "longitude": 2.5454,
+          "accuracy_radius": 200,
+          "latitude": 48.8909,
+          "longitude": 2.2093,
           "time_zone": "Europe/Paris"
         },
         "postal": {
-          "code": "93190"
+          "code": "92000"
         },
         "registered_country": {
           "geoname_id": 3017382,
@@ -315,17 +315,17 @@
             }
           },
           {
-            "geoname_id": 2975246,
-            "iso_code": "93",
+            "geoname_id": 3013657,
+            "iso_code": "92",
             "names": {
-              "de": "Seine-Saint-Denis",
-              "en": "Seine-Saint-Denis",
-              "es": "Sena Saint Denis",
-              "fr": "Seine-Saint-Denis",
-              "ja": "セーヌ＝サン＝ドニ県",
-              "pt-BR": "Seine-Saint-Denis",
-              "ru": "Сен-Сен-Дени",
-              "zh-CN": "塞纳-圣但尼省"
+              "de": "Hauts-de-Seine",
+              "en": "Hauts-de-Seine",
+              "es": "Altos de Sena",
+              "fr": "Hauts-de-Seine",
+              "ja": "オー＝ド＝セーヌ県",
+              "pt-BR": "Altos do Sena",
+              "ru": "О-де-Сен",
+              "zh-CN": "上塞纳省"
             }
           }
         ]
@@ -336,13 +336,15 @@
       "ip": "185.215.64.85",
       "geoip": {
         "city": {
-          "geoname_id": 2998056,
+          "geoname_id": 2990970,
           "names": {
-            "de": "Livry-Gargan",
-            "en": "Livry-Gargan",
-            "fr": "Livry-Gargan",
-            "ja": "リヴリー＝ガルガン",
-            "zh-CN": "利夫里-加尔冈"
+            "de": "Nanterre",
+            "en": "Nanterre",
+            "es": "Nanterre",
+            "fr": "Nanterre",
+            "ja": "ナンテール",
+            "ru": "Нантер",
+            "zh-CN": "楠泰尔"
           }
         },
         "continent": {
@@ -375,13 +377,13 @@
           }
         },
         "location": {
-          "accuracy_radius": 20,
-          "latitude": 48.9188,
-          "longitude": 2.5454,
+          "accuracy_radius": 200,
+          "latitude": 48.8909,
+          "longitude": 2.2093,
           "time_zone": "Europe/Paris"
         },
         "postal": {
-          "code": "93190"
+          "code": "92000"
         },
         "registered_country": {
           "geoname_id": 3017382,
@@ -414,17 +416,17 @@
             }
           },
           {
-            "geoname_id": 2975246,
-            "iso_code": "93",
+            "geoname_id": 3013657,
+            "iso_code": "92",
             "names": {
-              "de": "Seine-Saint-Denis",
-              "en": "Seine-Saint-Denis",
-              "es": "Sena Saint Denis",
-              "fr": "Seine-Saint-Denis",
-              "ja": "セーヌ＝サン＝ドニ県",
-              "pt-BR": "Seine-Saint-Denis",
-              "ru": "Сен-Сен-Дени",
-              "zh-CN": "塞纳-圣但尼省"
+              "de": "Hauts-de-Seine",
+              "en": "Hauts-de-Seine",
+              "es": "Altos de Sena",
+              "fr": "Hauts-de-Seine",
+              "ja": "オー＝ド＝セーヌ県",
+              "pt-BR": "Altos do Sena",
+              "ru": "О-де-Сен",
+              "zh-CN": "上塞纳省"
             }
           }
         ]
@@ -501,160 +503,7 @@
       }
     },
     {
-      "hostname": "api.francetravail.fr",
-      "ip": "185.215.64.96",
-      "geoip": {
-        "city": {
-          "geoname_id": 2998056,
-          "names": {
-            "de": "Livry-Gargan",
-            "en": "Livry-Gargan",
-            "fr": "Livry-Gargan",
-            "ja": "リヴリー＝ガルガン",
-            "zh-CN": "利夫里-加尔冈"
-          }
-        },
-        "continent": {
-          "code": "EU",
-          "geoname_id": 6255148,
-          "names": {
-            "de": "Europa",
-            "en": "Europe",
-            "es": "Europa",
-            "fr": "Europe",
-            "ja": "ヨーロッパ",
-            "pt-BR": "Europa",
-            "ru": "Европа",
-            "zh-CN": "欧洲"
-          }
-        },
-        "country": {
-          "geoname_id": 3017382,
-          "is_in_european_union": true,
-          "iso_code": "FR",
-          "names": {
-            "de": "Frankreich",
-            "en": "France",
-            "es": "Francia",
-            "fr": "France",
-            "ja": "フランス共和国",
-            "pt-BR": "França",
-            "ru": "Франция",
-            "zh-CN": "法国"
-          }
-        },
-        "location": {
-          "accuracy_radius": 20,
-          "latitude": 48.9188,
-          "longitude": 2.5454,
-          "time_zone": "Europe/Paris"
-        },
-        "postal": {
-          "code": "93190"
-        },
-        "registered_country": {
-          "geoname_id": 3017382,
-          "is_in_european_union": true,
-          "iso_code": "FR",
-          "names": {
-            "de": "Frankreich",
-            "en": "France",
-            "es": "Francia",
-            "fr": "France",
-            "ja": "フランス共和国",
-            "pt-BR": "França",
-            "ru": "Франция",
-            "zh-CN": "法国"
-          }
-        },
-        "subdivisions": [
-          {
-            "geoname_id": 3012874,
-            "iso_code": "IDF",
-            "names": {
-              "de": "Île-de-France",
-              "en": "Île-de-France",
-              "es": "Isla de Francia",
-              "fr": "Île-de-France",
-              "ja": "イル・ド・フランス",
-              "pt-BR": "Ilha de França",
-              "ru": "Иль-де-Франс",
-              "zh-CN": "法兰西岛"
-            }
-          },
-          {
-            "geoname_id": 2975246,
-            "iso_code": "93",
-            "names": {
-              "de": "Seine-Saint-Denis",
-              "en": "Seine-Saint-Denis",
-              "es": "Sena Saint Denis",
-              "fr": "Seine-Saint-Denis",
-              "ja": "セーヌ＝サン＝ドニ県",
-              "pt-BR": "Seine-Saint-Denis",
-              "ru": "Сен-Сен-Дени",
-              "zh-CN": "塞纳-圣但尼省"
-            }
-          }
-        ]
-      }
-    },
-    {
       "hostname": "tag.aticdn.net",
-      "ip": "18.160.18.10",
-      "geoip": {
-        "continent": {
-          "code": "NA",
-          "geoname_id": 6255149,
-          "names": {
-            "de": "Nordamerika",
-            "en": "North America",
-            "es": "Norteamérica",
-            "fr": "Amérique du Nord",
-            "ja": "北アメリカ",
-            "pt-BR": "América do Norte",
-            "ru": "Северная Америка",
-            "zh-CN": "北美洲"
-          }
-        },
-        "country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
-          "names": {
-            "de": "USA",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
-          }
-        },
-        "location": {
-          "accuracy_radius": 1000,
-          "latitude": 37.751,
-          "longitude": -97.822,
-          "time_zone": "America/Chicago"
-        },
-        "registered_country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
-          "names": {
-            "de": "USA",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
-          }
-        }
-      }
-    },
-    {
-      "hostname": "hd.pe.fr",
       "ip": "18.160.18.7",
       "geoip": {
         "continent": {
@@ -708,17 +557,19 @@
       }
     },
     {
-      "hostname": "www.francetravail.fr",
-      "ip": "185.215.64.79",
+      "hostname": "api.francetravail.fr",
+      "ip": "185.215.64.96",
       "geoip": {
         "city": {
-          "geoname_id": 2998056,
+          "geoname_id": 2990970,
           "names": {
-            "de": "Livry-Gargan",
-            "en": "Livry-Gargan",
-            "fr": "Livry-Gargan",
-            "ja": "リヴリー＝ガルガン",
-            "zh-CN": "利夫里-加尔冈"
+            "de": "Nanterre",
+            "en": "Nanterre",
+            "es": "Nanterre",
+            "fr": "Nanterre",
+            "ja": "ナンテール",
+            "ru": "Нантер",
+            "zh-CN": "楠泰尔"
           }
         },
         "continent": {
@@ -751,13 +602,13 @@
           }
         },
         "location": {
-          "accuracy_radius": 20,
-          "latitude": 48.9188,
-          "longitude": 2.5454,
+          "accuracy_radius": 200,
+          "latitude": 48.8909,
+          "longitude": 2.2093,
           "time_zone": "Europe/Paris"
         },
         "postal": {
-          "code": "93190"
+          "code": "92000"
         },
         "registered_country": {
           "geoname_id": 3017382,
@@ -790,20 +641,74 @@
             }
           },
           {
-            "geoname_id": 2975246,
-            "iso_code": "93",
+            "geoname_id": 3013657,
+            "iso_code": "92",
             "names": {
-              "de": "Seine-Saint-Denis",
-              "en": "Seine-Saint-Denis",
-              "es": "Sena Saint Denis",
-              "fr": "Seine-Saint-Denis",
-              "ja": "セーヌ＝サン＝ドニ県",
-              "pt-BR": "Seine-Saint-Denis",
-              "ru": "Сен-Сен-Дени",
-              "zh-CN": "塞纳-圣但尼省"
+              "de": "Hauts-de-Seine",
+              "en": "Hauts-de-Seine",
+              "es": "Altos de Sena",
+              "fr": "Hauts-de-Seine",
+              "ja": "オー＝ド＝セーヌ県",
+              "pt-BR": "Altos do Sena",
+              "ru": "О-де-Сен",
+              "zh-CN": "上塞纳省"
             }
           }
         ]
+      }
+    },
+    {
+      "hostname": "hd.pe.fr",
+      "ip": "18.160.213.127",
+      "geoip": {
+        "continent": {
+          "code": "NA",
+          "geoname_id": 6255149,
+          "names": {
+            "de": "Nordamerika",
+            "en": "North America",
+            "es": "Norteamérica",
+            "fr": "Amérique du Nord",
+            "ja": "北アメリカ",
+            "pt-BR": "América do Norte",
+            "ru": "Северная Америка",
+            "zh-CN": "北美洲"
+          }
+        },
+        "country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "USA",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        },
+        "location": {
+          "accuracy_radius": 1000,
+          "latitude": 37.751,
+          "longitude": -97.822,
+          "time_zone": "America/Chicago"
+        },
+        "registered_country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "USA",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        }
       }
     },
     {
@@ -898,6 +803,107 @@
               "en": "Paris",
               "es": "Paris",
               "fr": "Paris"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "hostname": "www.francetravail.fr",
+      "ip": "185.215.64.79",
+      "geoip": {
+        "city": {
+          "geoname_id": 2990970,
+          "names": {
+            "de": "Nanterre",
+            "en": "Nanterre",
+            "es": "Nanterre",
+            "fr": "Nanterre",
+            "ja": "ナンテール",
+            "ru": "Нантер",
+            "zh-CN": "楠泰尔"
+          }
+        },
+        "continent": {
+          "code": "EU",
+          "geoname_id": 6255148,
+          "names": {
+            "de": "Europa",
+            "en": "Europe",
+            "es": "Europa",
+            "fr": "Europe",
+            "ja": "ヨーロッパ",
+            "pt-BR": "Europa",
+            "ru": "Европа",
+            "zh-CN": "欧洲"
+          }
+        },
+        "country": {
+          "geoname_id": 3017382,
+          "is_in_european_union": true,
+          "iso_code": "FR",
+          "names": {
+            "de": "Frankreich",
+            "en": "France",
+            "es": "Francia",
+            "fr": "France",
+            "ja": "フランス共和国",
+            "pt-BR": "França",
+            "ru": "Франция",
+            "zh-CN": "法国"
+          }
+        },
+        "location": {
+          "accuracy_radius": 200,
+          "latitude": 48.8909,
+          "longitude": 2.2093,
+          "time_zone": "Europe/Paris"
+        },
+        "postal": {
+          "code": "92000"
+        },
+        "registered_country": {
+          "geoname_id": 3017382,
+          "is_in_european_union": true,
+          "iso_code": "FR",
+          "names": {
+            "de": "Frankreich",
+            "en": "France",
+            "es": "Francia",
+            "fr": "France",
+            "ja": "フランス共和国",
+            "pt-BR": "França",
+            "ru": "Франция",
+            "zh-CN": "法国"
+          }
+        },
+        "subdivisions": [
+          {
+            "geoname_id": 3012874,
+            "iso_code": "IDF",
+            "names": {
+              "de": "Île-de-France",
+              "en": "Île-de-France",
+              "es": "Isla de Francia",
+              "fr": "Île-de-France",
+              "ja": "イル・ド・フランス",
+              "pt-BR": "Ilha de França",
+              "ru": "Иль-де-Франс",
+              "zh-CN": "法兰西岛"
+            }
+          },
+          {
+            "geoname_id": 3013657,
+            "iso_code": "92",
+            "names": {
+              "de": "Hauts-de-Seine",
+              "en": "Hauts-de-Seine",
+              "es": "Altos de Sena",
+              "fr": "Hauts-de-Seine",
+              "ja": "オー＝ド＝セーヌ県",
+              "pt-BR": "Altos do Sena",
+              "ru": "О-де-Сен",
+              "zh-CN": "上塞纳省"
             }
           }
         ]
