@@ -206,7 +206,7 @@
               "ip"           : "passculture.pro/34.107.224.170",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "supported"
+              "finding"      : "not supported"
           }
 ,         {
               "id"           : "TLS_timestamp",
@@ -346,7 +346,7 @@
               "ip"           : "passculture.pro/34.107.224.170",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "225 >= 60 days"
+              "finding"      : "218 >= 60 days"
           }
 ,         {
               "id"           : "cert_notBefore",
@@ -507,7 +507,7 @@
               "ip"           : "passculture.pro/34.107.224.170",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1720330264"
+              "finding"      : "1720935196"
           }
 ,         {
               "id"           : "HSTS_time",
@@ -570,7 +570,7 @@
               "ip"           : "passculture.pro/34.107.224.170",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "cache-bur-kbur8200073-BUR"
+              "finding"      : "cache-iad-kcgs7200135-IAD"
           }
 ,         {
               "id"           : "Cache-Control",
