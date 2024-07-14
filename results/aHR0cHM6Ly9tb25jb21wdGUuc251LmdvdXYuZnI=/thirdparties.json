@@ -27,20 +27,16 @@
     {
       "type": "unknown",
       "url": "https://sentry.selego.co/api/143/envelope/?sentry_key=9f62b6f87edc757e44b10d7728db5913&sentry_version=7&sentry_client=sentry.javascript.react%2F7.77.0"
-    },
-    {
-      "type": "unknown",
-      "url": "https://sentry.selego.co/api/143/envelope/?sentry_key=9f62b6f87edc757e44b10d7728db5913&sentry_version=7&sentry_client=sentry.javascript.react%2F7.77.0"
     }
   ],
   "cookies": [
     {
       "name": "bln_challengejs",
-      "value": "IEkhQYSoPEgPFLLbiPcNDvVzA_s2Q2iJtOSjCHi_ADQNT-fhBOBnO5grtdsI0BHnELAEYTvPhWAPpiXUTE8rL-wtZ2TkHylCHxG-FIxUMQo0qQbq_Hdib5wQHy3L_nGrYxu-1DUpNH2gPT9qvSYqJtZfZv-SitTBf_XBWTmonkhqDpP3sNf8VkbdTrwmII_R1kKVw66MQzgIBbVW6w6qWln3odExXvMnRQ0IWQYyp9M4v1SMLOKjfqvNv0fE9BFD",
+      "value": "gw8SJw7SX5dfcolG2fQix4ibA5DOVFYRVIVmj7H2adNj-x0ll4I85xUE3j2zw9hRp32Www5iX0Byu3EDwa6vnL7KqHz_PFeGdDFBtGXEUnb7sJ6ZzdiSCJNjDSjrcCU9Rq2VTJAyz9DcRNYW-oVQo4AJii2ndqPiOJbyvVfOdEE6vhF1kQpGPpG9WNEiywK_h-fe1t6fP-hLIQ9i6BmJOaVv3VUc9i2Iox9vkCxqrtNBdAYb8B_7Xacn3h1HNrLtph11IJZ0uAslvekdXIcoWA",
       "domain": ".snu.gouv.fr",
       "path": "/",
-      "expires": 1720337325.958716,
-      "size": 271,
+      "expires": 1720942999.871565,
+      "size": 293,
       "httpOnly": false,
       "secure": false,
       "session": false,
@@ -52,11 +48,11 @@
   "headers": {
     "content-encoding": "gzip",
     "content-type": "text/html",
-    "date": "Sun, 07 Jul 2024 07:13:46 GMT",
-    "etag": "W/\"668811a6-1313\"",
-    "last-modified": "Fri, 05 Jul 2024 15:30:46 GMT",
+    "date": "Sun, 14 Jul 2024 07:28:19 GMT",
+    "etag": "W/\"6690e708-1313\"",
+    "last-modified": "Fri, 12 Jul 2024 08:19:20 GMT",
     "referrer-policy": ": no-referrer",
-    "sozu-id": "01J260N92Y4AP2NP9A8VV0VYTA",
+    "sozu-id": "01J2R28ZEHC0P68BJF86P328TD",
     "strict-transport-security": ": max-age=31536000; includeSubDomains; preload",
     "x-content-type-options": ": nosniff",
     "x-download-options": ": noopen",
@@ -122,8 +118,14 @@
     },
     {
       "hostname": "fonts.googleapis.com",
-      "ip": "142.250.176.10",
+      "ip": "142.251.167.95",
       "geoip": {
+        "city": {
+          "geoname_id": 5116931,
+          "names": {
+            "en": "Farmingdale"
+          }
+        },
         "continent": {
           "code": "NA",
           "geoname_id": 6255149,
@@ -154,9 +156,13 @@
         },
         "location": {
           "accuracy_radius": 1000,
-          "latitude": 37.751,
-          "longitude": -97.822,
-          "time_zone": "America/Chicago"
+          "latitude": 40.7306,
+          "longitude": -73.4313,
+          "metro_code": 501,
+          "time_zone": "America/New_York"
+        },
+        "postal": {
+          "code": "11735"
         },
         "registered_country": {
           "geoname_id": 6252001,
@@ -171,24 +177,40 @@
             "ru": "США",
             "zh-CN": "美国"
           }
-        }
+        },
+        "subdivisions": [
+          {
+            "geoname_id": 5128638,
+            "iso_code": "NY",
+            "names": {
+              "de": "New York",
+              "en": "New York",
+              "es": "Nueva York",
+              "fr": "New York",
+              "ja": "ニューヨーク州",
+              "pt-BR": "Nova Iorque",
+              "ru": "Нью-Йорк",
+              "zh-CN": "纽约州"
+            }
+          }
+        ]
       }
     },
     {
       "hostname": "plausible.io",
-      "ip": "143.244.50.84",
+      "ip": "37.19.207.34",
       "geoip": {
         "city": {
-          "geoname_id": 5368361,
+          "geoname_id": 4744870,
           "names": {
-            "de": "Los Angeles",
-            "en": "Los Angeles",
-            "es": "Los Ángeles",
-            "fr": "Los Angeles",
-            "ja": "ロサンゼルス",
-            "pt-BR": "Los Angeles",
-            "ru": "Лос-Анджелес",
-            "zh-CN": "洛杉矶"
+            "de": "Ashburn",
+            "en": "Ashburn",
+            "es": "Ashburn",
+            "fr": "Ashburn",
+            "ja": "アッシュバーン",
+            "pt-BR": "Ashburn",
+            "ru": "Ашберн",
+            "zh-CN": "阿什本"
           }
         },
         "continent": {
@@ -221,13 +243,13 @@
         },
         "location": {
           "accuracy_radius": 20,
-          "latitude": 34.0544,
-          "longitude": -118.2441,
-          "metro_code": 803,
-          "time_zone": "America/Los_Angeles"
+          "latitude": 39.0469,
+          "longitude": -77.4903,
+          "metro_code": 511,
+          "time_zone": "America/New_York"
         },
         "postal": {
-          "code": "90060"
+          "code": "20149"
         },
         "registered_country": {
           "geoname_id": 2635167,
@@ -245,17 +267,17 @@
         },
         "subdivisions": [
           {
-            "geoname_id": 5332921,
-            "iso_code": "CA",
+            "geoname_id": 6254928,
+            "iso_code": "VA",
             "names": {
-              "de": "Kalifornien",
-              "en": "California",
-              "es": "California",
-              "fr": "Californie",
-              "ja": "カリフォルニア州",
-              "pt-BR": "Califórnia",
-              "ru": "Калифорния",
-              "zh-CN": "加州"
+              "de": "Virginia",
+              "en": "Virginia",
+              "es": "Virginia",
+              "fr": "Virginie",
+              "ja": "バージニア州",
+              "pt-BR": "Virgínia",
+              "ru": "Вирджиния",
+              "zh-CN": "弗吉尼亚州"
             }
           }
         ]
