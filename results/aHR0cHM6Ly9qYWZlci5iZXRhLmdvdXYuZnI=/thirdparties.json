@@ -128,7 +128,7 @@
   "cookies": [
     {
       "name": "jafer-beta-gouv_u1main",
-      "value": "1720361728545x109893402355277550",
+      "value": "1720967075226x910844259685921000",
       "domain": ".jafer.beta.gouv.fr",
       "path": "/",
       "expires": -1,
@@ -142,10 +142,10 @@
     },
     {
       "name": "jafer-beta-gouv_live_u2main.sig",
-      "value": "STdAvzpzFzh-7GRkiq_CGUFRmTI",
+      "value": "boZFbx9OjGrQw6ZS85gdZzwVN0Y",
       "domain": ".jafer.beta.gouv.fr",
       "path": "/",
-      "expires": 1720620928.686917,
+      "expires": 1721226275.311979,
       "size": 58,
       "httpOnly": true,
       "secure": true,
@@ -156,10 +156,10 @@
     },
     {
       "name": "jafer-beta-gouv_live_u2main",
-      "value": "bus|1720361728545x109893402355277550|1720361728563x102385836554788060",
+      "value": "bus|1720967075226x910844259685921000|1720967075236x511416571397930800",
       "domain": ".jafer.beta.gouv.fr",
       "path": "/",
-      "expires": 1720620928.686817,
+      "expires": 1721226275.311877,
       "size": 96,
       "httpOnly": true,
       "secure": true,
@@ -173,25 +173,25 @@
     "alt-svc": "h3=\":443\"; ma=86400",
     "cache-control": "no-store",
     "cf-cache-status": "DYNAMIC",
-    "cf-ray": "89f872645fef8009-IAD",
+    "cf-ray": "8a322d5cbb1005a4-IAD",
     "content-encoding": "br",
     "content-security-policy": "frame-ancestors 'none';",
     "content-type": "text/html",
-    "date": "Sun, 07 Jul 2024 14:15:28 GMT",
+    "date": "Sun, 14 Jul 2024 14:24:35 GMT",
     "referrer-policy": "origin",
     "server": "cloudflare",
-    "set-cookie": "jafer-beta-gouv_u1main=1720361728545x109893402355277550; path=/; domain=jafer.beta.gouv.fr; secure",
+    "set-cookie": "jafer-beta-gouv_u1main=1720967075226x910844259685921000; path=/; domain=jafer.beta.gouv.fr; secure",
     "vary": "Accept-Encoding",
     "x-bubble-capacity-limit": "0 ms slower",
-    "x-bubble-capacity-used": "0.15 unit-seconds used",
-    "x-bubble-perf": "{\"total\":85.9,\"percents\":{\"top\":{\"bubble_cpu\":36.9,\"block\":62,\"capacity_rl\":0,\"other_pause\":0,\"pre_fiber\":1.1},\"sub\":{\"pp_userdb\":2.3,\"pp_wait_userdb\":0,\"http_request\":0,\"serverjson\":34.4,\"appserver_cache_misses_time\":0,\"redis\":56.7,\"fiber_queue\":3.4,\"capacity_wait\":10.3}},\"counts\":{\"pp_userdb\":1,\"http_request\":0,\"derived_build\":0,\"derived_cache_attempts\":9,\"derived_cache_memory_misses\":9,\"serverjson\":33,\"appserver_cache_attempts\":1,\"appserver_mem_cache_hits\":0,\"appserver_cache_hits\":1,\"appserver_cache_misses\":0,\"redis\":66,\"fiber_queue\":55,\"blocks\":54},\"misc\":{\"userdb_results\":0,\"userdb_data\":0,\"spent_time\":9754396}}",
+    "x-bubble-capacity-used": "0.16 unit-seconds used",
+    "x-bubble-perf": "{\"total\":85.6,\"percents\":{\"top\":{\"bubble_cpu\":34.1,\"block\":64.7,\"capacity_rl\":0,\"other_pause\":0,\"pre_fiber\":1.2},\"sub\":{\"pp_userdb\":4.7,\"pp_wait_userdb\":0,\"http_request\":0,\"serverjson\":33.2,\"appserver_cache_misses_time\":0,\"redis\":64.8,\"fiber_queue\":3.4,\"capacity_wait\":3.5}},\"counts\":{\"pp_userdb\":1,\"http_request\":0,\"derived_build\":0,\"derived_cache_attempts\":9,\"derived_cache_memory_misses\":9,\"serverjson\":31,\"appserver_cache_attempts\":1,\"appserver_mem_cache_hits\":0,\"appserver_cache_hits\":1,\"appserver_cache_misses\":0,\"redis\":70,\"fiber_queue\":61,\"blocks\":60},\"misc\":{\"userdb_results\":0,\"userdb_data\":0,\"spent_time\":10382069}}",
     "x-frame-options": "DENY",
     "x-powered-by": "Express"
   },
   "endpoints": [
     {
       "hostname": "jafer.beta.gouv.fr",
-      "ip": "104.19.240.93",
+      "ip": "104.19.241.93",
       "geoip": {
         "registered_country": {
           "geoname_id": 6252001,
@@ -251,7 +251,7 @@
     },
     {
       "hostname": "d2tf8y1b8kxrzw.cloudfront.net",
-      "ip": "99.84.216.116",
+      "ip": "52.85.150.165",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -305,7 +305,7 @@
     },
     {
       "hostname": "unpkg.com",
-      "ip": "104.17.249.203",
+      "ip": "104.17.245.203",
       "geoip": {
         "registered_country": {
           "geoname_id": 6252001,
@@ -325,94 +325,7 @@
     },
     {
       "hostname": "s3.amazonaws.com",
-      "ip": "3.5.24.247",
-      "geoip": {
-        "city": {
-          "geoname_id": 4744870,
-          "names": {
-            "de": "Ashburn",
-            "en": "Ashburn",
-            "es": "Ashburn",
-            "fr": "Ashburn",
-            "ja": "アッシュバーン",
-            "pt-BR": "Ashburn",
-            "ru": "Ашберн",
-            "zh-CN": "阿什本"
-          }
-        },
-        "continent": {
-          "code": "NA",
-          "geoname_id": 6255149,
-          "names": {
-            "de": "Nordamerika",
-            "en": "North America",
-            "es": "Norteamérica",
-            "fr": "Amérique du Nord",
-            "ja": "北アメリカ",
-            "pt-BR": "América do Norte",
-            "ru": "Северная Америка",
-            "zh-CN": "北美洲"
-          }
-        },
-        "country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
-          "names": {
-            "de": "USA",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
-          }
-        },
-        "location": {
-          "accuracy_radius": 20,
-          "latitude": 39.0469,
-          "longitude": -77.4903,
-          "metro_code": 511,
-          "time_zone": "America/New_York"
-        },
-        "postal": {
-          "code": "20149"
-        },
-        "registered_country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
-          "names": {
-            "de": "USA",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
-          }
-        },
-        "subdivisions": [
-          {
-            "geoname_id": 6254928,
-            "iso_code": "VA",
-            "names": {
-              "de": "Virginia",
-              "en": "Virginia",
-              "es": "Virginia",
-              "fr": "Virginie",
-              "ja": "バージニア州",
-              "pt-BR": "Virgínia",
-              "ru": "Вирджиния",
-              "zh-CN": "弗吉尼亚州"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "hostname": "plst237.s3.amazonaws.com",
-      "ip": "52.217.159.57",
+      "ip": "52.217.131.80",
       "geoip": {
         "city": {
           "geoname_id": 4744870,
@@ -457,6 +370,93 @@
         },
         "location": {
           "accuracy_radius": 1000,
+          "latitude": 39.0469,
+          "longitude": -77.4903,
+          "metro_code": 511,
+          "time_zone": "America/New_York"
+        },
+        "postal": {
+          "code": "20149"
+        },
+        "registered_country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "USA",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        },
+        "subdivisions": [
+          {
+            "geoname_id": 6254928,
+            "iso_code": "VA",
+            "names": {
+              "de": "Virginia",
+              "en": "Virginia",
+              "es": "Virginia",
+              "fr": "Virginie",
+              "ja": "バージニア州",
+              "pt-BR": "Virgínia",
+              "ru": "Вирджиния",
+              "zh-CN": "弗吉尼亚州"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "hostname": "plst237.s3.amazonaws.com",
+      "ip": "3.5.27.184",
+      "geoip": {
+        "city": {
+          "geoname_id": 4744870,
+          "names": {
+            "de": "Ashburn",
+            "en": "Ashburn",
+            "es": "Ashburn",
+            "fr": "Ashburn",
+            "ja": "アッシュバーン",
+            "pt-BR": "Ashburn",
+            "ru": "Ашберн",
+            "zh-CN": "阿什本"
+          }
+        },
+        "continent": {
+          "code": "NA",
+          "geoname_id": 6255149,
+          "names": {
+            "de": "Nordamerika",
+            "en": "North America",
+            "es": "Norteamérica",
+            "fr": "Amérique du Nord",
+            "ja": "北アメリカ",
+            "pt-BR": "América do Norte",
+            "ru": "Северная Америка",
+            "zh-CN": "北美洲"
+          }
+        },
+        "country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "USA",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        },
+        "location": {
+          "accuracy_radius": 20,
           "latitude": 39.0469,
           "longitude": -77.4903,
           "metro_code": 511,
