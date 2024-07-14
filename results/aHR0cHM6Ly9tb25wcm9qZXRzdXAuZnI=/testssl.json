@@ -367,7 +367,7 @@
               "ip"           : "monprojetsup.fr/162.19.61.97",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "88 >= 30 days"
+              "finding"      : "81 >= 30 days"
           }
 ,         {
               "id"           : "cert_notBefore",
@@ -528,7 +528,7 @@
               "ip"           : "monprojetsup.fr/162.19.61.97",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1720361041"
+              "finding"      : "1720966348"
           }
 ,         {
               "id"           : "HSTS",
@@ -1084,6 +1084,6 @@
               "ip"           : "monprojetsup.fr/162.19.61.97",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "58"
+              "finding"      : "55"
           }
 ]
