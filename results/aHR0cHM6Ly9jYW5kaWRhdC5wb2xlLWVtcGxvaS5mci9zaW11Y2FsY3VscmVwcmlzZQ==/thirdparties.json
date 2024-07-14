@@ -110,7 +110,7 @@
     },
     {
       "type": "unknown",
-      "url": "https://hd.pe.fr/event?s=475540&idclient=lybe235vvtef2bo5"
+      "url": "https://hd.pe.fr/event?s=475540&idclient=lylei0uagcotfqss"
     },
     {
       "type": "unknown",
@@ -123,26 +123,16 @@
     {
       "type": "unknown",
       "url": "https://privacy.trustcommander.net/privacy-consent?site=4340"
+    },
+    {
+      "type": "unknown",
+      "url": "https://hd.pe.fr/event?s=475540&idclient=lylei0uagcotfqss"
     }
   ],
   "cookies": [
     {
-      "name": "TS01e01b1a",
-      "value": "0150c672c334f08d4d33ee95a16df426582218cc7ddb815dbb4846ba88cb5a7e8a7b8f9695f87370465aa9151c10d8e3094ab0e98e",
-      "domain": "candidat.francetravail.fr",
-      "path": "/",
-      "expires": -1,
-      "size": 116,
-      "httpOnly": false,
-      "secure": false,
-      "session": true,
-      "sameParty": false,
-      "sourceScheme": "Secure",
-      "sourcePort": 443
-    },
-    {
       "name": "BIGipServerPOOL_TAS_SDDC_HTTP",
-      "value": "1838353162.20480.0000",
+      "value": "1754467082.20480.0000",
       "domain": "candidat.francetravail.fr",
       "path": "/",
       "expires": -1,
@@ -158,14 +148,14 @@
   "headers": {
     "content-encoding": "gzip",
     "content-type": "text/html; charset=utf-8",
-    "date": "Sun, 07 Jul 2024 10:06:23 GMT",
+    "date": "Sun, 14 Jul 2024 10:16:29 GMT",
     "last-modified": "Tue, 25 Jun 2024 13:46:28 GMT",
-    "set-cookie": "BIGipServerPOOL_TAS_SDDC_HTTP=1838353162.20480.0000; path=/; Httponly; Secure\nTS01e01b1a=0150c672c334f08d4d33ee95a16df426582218cc7ddb815dbb4846ba88cb5a7e8a7b8f9695f87370465aa9151c10d8e3094ab0e98e; Path=/",
+    "set-cookie": "BIGipServerPOOL_TAS_SDDC_HTTP=1754467082.20480.0000; path=/; Httponly; Secure\nTS011b8e23=0150c672c3cc457980bd532b1fd65748ba1a21ced46d13259e4ff421418b65a95ba6bcdba8667790581b2fc7475c0fd53b9d880eaf; Path=/; Domain=.pn322-portailsimulateurs-prod.apps.tas-prod.pole-emploi.intra",
     "transfer-encoding": "chunked",
     "vary": "Accept-Encoding",
     "x-content-type-options": "nosniff'",
     "x-robots-tag": "noindex, noarchive, nofollow, nosnippet",
-    "x-vcap-request-id": "5f47d00d-ffb7-4e39-606c-b29d44ea1003"
+    "x-vcap-request-id": "a5088c75-5790-41ac-7e14-a0e8dfaa6d5e"
   },
   "endpoints": [
     {
@@ -173,13 +163,15 @@
       "ip": "185.215.64.30",
       "geoip": {
         "city": {
-          "geoname_id": 2998056,
+          "geoname_id": 2990970,
           "names": {
-            "de": "Livry-Gargan",
-            "en": "Livry-Gargan",
-            "fr": "Livry-Gargan",
-            "ja": "リヴリー＝ガルガン",
-            "zh-CN": "利夫里-加尔冈"
+            "de": "Nanterre",
+            "en": "Nanterre",
+            "es": "Nanterre",
+            "fr": "Nanterre",
+            "ja": "ナンテール",
+            "ru": "Нантер",
+            "zh-CN": "楠泰尔"
           }
         },
         "continent": {
@@ -212,13 +204,13 @@
           }
         },
         "location": {
-          "accuracy_radius": 20,
-          "latitude": 48.9188,
-          "longitude": 2.5454,
+          "accuracy_radius": 200,
+          "latitude": 48.8909,
+          "longitude": 2.2093,
           "time_zone": "Europe/Paris"
         },
         "postal": {
-          "code": "93190"
+          "code": "92000"
         },
         "registered_country": {
           "geoname_id": 3017382,
@@ -251,17 +243,17 @@
             }
           },
           {
-            "geoname_id": 2975246,
-            "iso_code": "93",
+            "geoname_id": 3013657,
+            "iso_code": "92",
             "names": {
-              "de": "Seine-Saint-Denis",
-              "en": "Seine-Saint-Denis",
-              "es": "Sena Saint Denis",
-              "fr": "Seine-Saint-Denis",
-              "ja": "セーヌ＝サン＝ドニ県",
-              "pt-BR": "Seine-Saint-Denis",
-              "ru": "Сен-Сен-Дени",
-              "zh-CN": "塞纳-圣但尼省"
+              "de": "Hauts-de-Seine",
+              "en": "Hauts-de-Seine",
+              "es": "Altos de Sena",
+              "fr": "Hauts-de-Seine",
+              "ja": "オー＝ド＝セーヌ県",
+              "pt-BR": "Altos do Sena",
+              "ru": "О-де-Сен",
+              "zh-CN": "上塞纳省"
             }
           }
         ]
@@ -272,13 +264,15 @@
       "ip": "185.215.64.85",
       "geoip": {
         "city": {
-          "geoname_id": 2998056,
+          "geoname_id": 2990970,
           "names": {
-            "de": "Livry-Gargan",
-            "en": "Livry-Gargan",
-            "fr": "Livry-Gargan",
-            "ja": "リヴリー＝ガルガン",
-            "zh-CN": "利夫里-加尔冈"
+            "de": "Nanterre",
+            "en": "Nanterre",
+            "es": "Nanterre",
+            "fr": "Nanterre",
+            "ja": "ナンテール",
+            "ru": "Нантер",
+            "zh-CN": "楠泰尔"
           }
         },
         "continent": {
@@ -311,13 +305,13 @@
           }
         },
         "location": {
-          "accuracy_radius": 20,
-          "latitude": 48.9188,
-          "longitude": 2.5454,
+          "accuracy_radius": 200,
+          "latitude": 48.8909,
+          "longitude": 2.2093,
           "time_zone": "Europe/Paris"
         },
         "postal": {
-          "code": "93190"
+          "code": "92000"
         },
         "registered_country": {
           "geoname_id": 3017382,
@@ -350,17 +344,17 @@
             }
           },
           {
-            "geoname_id": 2975246,
-            "iso_code": "93",
+            "geoname_id": 3013657,
+            "iso_code": "92",
             "names": {
-              "de": "Seine-Saint-Denis",
-              "en": "Seine-Saint-Denis",
-              "es": "Sena Saint Denis",
-              "fr": "Seine-Saint-Denis",
-              "ja": "セーヌ＝サン＝ドニ県",
-              "pt-BR": "Seine-Saint-Denis",
-              "ru": "Сен-Сен-Дени",
-              "zh-CN": "塞纳-圣但尼省"
+              "de": "Hauts-de-Seine",
+              "en": "Hauts-de-Seine",
+              "es": "Altos de Sena",
+              "fr": "Hauts-de-Seine",
+              "ja": "オー＝ド＝セーヌ県",
+              "pt-BR": "Altos do Sena",
+              "ru": "О-де-Сен",
+              "zh-CN": "上塞纳省"
             }
           }
         ]
@@ -441,13 +435,15 @@
       "ip": "185.215.64.96",
       "geoip": {
         "city": {
-          "geoname_id": 2998056,
+          "geoname_id": 2990970,
           "names": {
-            "de": "Livry-Gargan",
-            "en": "Livry-Gargan",
-            "fr": "Livry-Gargan",
-            "ja": "リヴリー＝ガルガン",
-            "zh-CN": "利夫里-加尔冈"
+            "de": "Nanterre",
+            "en": "Nanterre",
+            "es": "Nanterre",
+            "fr": "Nanterre",
+            "ja": "ナンテール",
+            "ru": "Нантер",
+            "zh-CN": "楠泰尔"
           }
         },
         "continent": {
@@ -480,13 +476,13 @@
           }
         },
         "location": {
-          "accuracy_radius": 20,
-          "latitude": 48.9188,
-          "longitude": 2.5454,
+          "accuracy_radius": 200,
+          "latitude": 48.8909,
+          "longitude": 2.2093,
           "time_zone": "Europe/Paris"
         },
         "postal": {
-          "code": "93190"
+          "code": "92000"
         },
         "registered_country": {
           "geoname_id": 3017382,
@@ -519,17 +515,17 @@
             }
           },
           {
-            "geoname_id": 2975246,
-            "iso_code": "93",
+            "geoname_id": 3013657,
+            "iso_code": "92",
             "names": {
-              "de": "Seine-Saint-Denis",
-              "en": "Seine-Saint-Denis",
-              "es": "Sena Saint Denis",
-              "fr": "Seine-Saint-Denis",
-              "ja": "セーヌ＝サン＝ドニ県",
-              "pt-BR": "Seine-Saint-Denis",
-              "ru": "Сен-Сен-Дени",
-              "zh-CN": "塞纳-圣但尼省"
+              "de": "Hauts-de-Seine",
+              "en": "Hauts-de-Seine",
+              "es": "Altos de Sena",
+              "fr": "Hauts-de-Seine",
+              "ja": "オー＝ド＝セーヌ県",
+              "pt-BR": "Altos do Sena",
+              "ru": "О-де-Сен",
+              "zh-CN": "上塞纳省"
             }
           }
         ]
@@ -537,7 +533,7 @@
     },
     {
       "hostname": "tag.aticdn.net",
-      "ip": "108.156.91.113",
+      "ip": "108.156.91.67",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -591,7 +587,7 @@
     },
     {
       "hostname": "hd.pe.fr",
-      "ip": "18.160.213.91",
+      "ip": "18.160.213.127",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -648,13 +644,15 @@
       "ip": "185.215.64.79",
       "geoip": {
         "city": {
-          "geoname_id": 2998056,
+          "geoname_id": 2990970,
           "names": {
-            "de": "Livry-Gargan",
-            "en": "Livry-Gargan",
-            "fr": "Livry-Gargan",
-            "ja": "リヴリー＝ガルガン",
-            "zh-CN": "利夫里-加尔冈"
+            "de": "Nanterre",
+            "en": "Nanterre",
+            "es": "Nanterre",
+            "fr": "Nanterre",
+            "ja": "ナンテール",
+            "ru": "Нантер",
+            "zh-CN": "楠泰尔"
           }
         },
         "continent": {
@@ -687,13 +685,13 @@
           }
         },
         "location": {
-          "accuracy_radius": 20,
-          "latitude": 48.9188,
-          "longitude": 2.5454,
+          "accuracy_radius": 200,
+          "latitude": 48.8909,
+          "longitude": 2.2093,
           "time_zone": "Europe/Paris"
         },
         "postal": {
-          "code": "93190"
+          "code": "92000"
         },
         "registered_country": {
           "geoname_id": 3017382,
@@ -726,17 +724,17 @@
             }
           },
           {
-            "geoname_id": 2975246,
-            "iso_code": "93",
+            "geoname_id": 3013657,
+            "iso_code": "92",
             "names": {
-              "de": "Seine-Saint-Denis",
-              "en": "Seine-Saint-Denis",
-              "es": "Sena Saint Denis",
-              "fr": "Seine-Saint-Denis",
-              "ja": "セーヌ＝サン＝ドニ県",
-              "pt-BR": "Seine-Saint-Denis",
-              "ru": "Сен-Сен-Дени",
-              "zh-CN": "塞纳-圣但尼省"
+              "de": "Hauts-de-Seine",
+              "en": "Hauts-de-Seine",
+              "es": "Altos de Sena",
+              "fr": "Hauts-de-Seine",
+              "ja": "オー＝ド＝セーヌ県",
+              "pt-BR": "Altos do Sena",
+              "ru": "О-де-Сен",
+              "zh-CN": "上塞纳省"
             }
           }
         ]
@@ -744,7 +742,7 @@
     },
     {
       "hostname": "privacy.trustcommander.net",
-      "ip": "35.180.217.105",
+      "ip": "13.36.137.63",
       "geoip": {
         "city": {
           "geoname_id": 2988507,
