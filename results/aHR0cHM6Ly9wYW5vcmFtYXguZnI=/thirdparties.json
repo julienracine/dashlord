@@ -22,14 +22,14 @@
     },
     {
       "type": "unknown",
-      "url": "https://matomo.panoramax.xyz//matomo.php?action_name=L%E2%80%99alternative%20libre%20pour%20photo-cartographier%20les%20territoires&idsite=2&rec=1&r=588845&h=12&m=41&s=9&url=https%3A%2F%2Fpanoramax.fr%2F&_id=311bb7e57086662e&_idn=1&send_image=0&_refts=0&pv_id=0CUAHS&pf_net=140&pf_srv=80&pf_tfr=1&pf_dm1=6&uadata=%7B%22fullVersionList%22%3A%5B%5D%2C%22mobile%22%3Afalse%2C%22model%22%3A%22%22%2C%22platform%22%3A%22%22%2C%22platformVersion%22%3A%22%22%7D&cookie=1&res=800x600"
-    },
-    {
-      "type": "unknown",
       "url": "https://panoramax.openstreetmap.fr/pmtiles/basic.json"
     },
     {
       "type": "unknown",
+      "url": "https://matomo.panoramax.xyz//matomo.php?action_name=L%E2%80%99alternative%20libre%20pour%20photo-cartographier%20les%20territoires&idsite=2&rec=1&r=713301&h=12&m=46&s=47&url=https%3A%2F%2Fpanoramax.fr%2F&_id=0697c7546a737504&_idn=1&send_image=0&_refts=0&pv_id=Y1UOo4&pf_net=61&pf_srv=50&pf_tfr=1&pf_dm1=7&uadata=%7B%22fullVersionList%22%3A%5B%5D%2C%22mobile%22%3Afalse%2C%22model%22%3A%22%22%2C%22platform%22%3A%22%22%2C%22platformVersion%22%3A%22%22%7D&cookie=1&res=800x600"
+    },
+    {
+      "type": "unknown",
       "url": "https://panoramax.openstreetmap.fr/pmtiles/planet.pmtiles"
     },
     {
@@ -74,39 +74,7 @@
     },
     {
       "type": "unknown",
-      "url": "https://panoramax.openstreetmap.fr/pmtiles/planet.pmtiles"
-    },
-    {
-      "type": "unknown",
-      "url": "https://panoramax.openstreetmap.fr/pmtiles/planet.pmtiles"
-    },
-    {
-      "type": "unknown",
-      "url": "https://panoramax.openstreetmap.fr/pmtiles/planet.pmtiles"
-    },
-    {
-      "type": "unknown",
-      "url": "https://panoramax.openstreetmap.fr/pmtiles/planet.pmtiles"
-    },
-    {
-      "type": "unknown",
       "url": "https://api.panoramax.xyz/api/search?ids=7bde6d85-a442-4f1b-bd87-86197157b8f0"
-    },
-    {
-      "type": "unknown",
-      "url": "https://panoramax.openstreetmap.fr/pmtiles/planet.pmtiles"
-    },
-    {
-      "type": "unknown",
-      "url": "https://panoramax.openstreetmap.fr/pmtiles/planet.pmtiles"
-    },
-    {
-      "type": "unknown",
-      "url": "https://panoramax.openstreetmap.fr/pmtiles/planet.pmtiles"
-    },
-    {
-      "type": "unknown",
-      "url": "https://panoramax.openstreetmap.fr/pmtiles/planet.pmtiles"
     },
     {
       "type": "unknown",
@@ -151,7 +119,7 @@
       "value": "1",
       "domain": "panoramax.fr",
       "path": "/",
-      "expires": 1720357869,
+      "expires": 1720963007,
       "size": 15,
       "httpOnly": false,
       "secure": false,
@@ -163,10 +131,10 @@
     },
     {
       "name": "_pk_id.2.8046",
-      "value": "311bb7e57086662e.1720356070.",
+      "value": "0697c7546a737504.1720961208.",
       "domain": "panoramax.fr",
       "path": "/",
-      "expires": 1754311270,
+      "expires": 1754916408,
       "size": 41,
       "httpOnly": false,
       "secure": false,
@@ -181,10 +149,10 @@
     "cache-control": "max-age=600",
     "content-length": "1352",
     "content-type": "text/html; charset=utf-8",
-    "date": "Sun, 07 Jul 2024 12:41:07 GMT",
-    "etag": "\"ea8dea2a1646db275487ad626bf374dfe620c2c9ea5b6397c19df0045696f7c8\"",
-    "expires": "Sun, 07 Jul 2024 12:51:07 UTC",
-    "last-modified": "Wed, 03 Jul 2024 13:04:24 GMT",
+    "date": "Sun, 14 Jul 2024 12:46:46 GMT",
+    "etag": "\"0c20f78e7fa310fb1406fbf6dc26f2ef0180a45597bf25b5c91c508997271454\"",
+    "expires": "Sun, 14 Jul 2024 12:56:46 UTC",
+    "last-modified": "Thu, 11 Jul 2024 08:53:18 GMT",
     "permissions-policy": "interest-cohort=()",
     "vary": "Origin"
   },
@@ -446,9 +414,16 @@
       "ip": "213.36.253.212",
       "geoip": {
         "city": {
-          "geoname_id": 3019952,
+          "geoname_id": 2988507,
           "names": {
-            "en": "Éragny"
+            "de": "Paris",
+            "en": "Paris",
+            "es": "París",
+            "fr": "Paris",
+            "ja": "パリ",
+            "pt-BR": "Paris",
+            "ru": "Париж",
+            "zh-CN": "巴黎"
           }
         },
         "continent": {
@@ -482,12 +457,12 @@
         },
         "location": {
           "accuracy_radius": 20,
-          "latitude": 49.0215,
-          "longitude": 2.0894,
+          "latitude": 48.8323,
+          "longitude": 2.4075,
           "time_zone": "Europe/Paris"
         },
         "postal": {
-          "code": "95610"
+          "code": "75008"
         },
         "registered_country": {
           "geoname_id": 3017382,
@@ -520,17 +495,13 @@
             }
           },
           {
-            "geoname_id": 2971071,
-            "iso_code": "95",
+            "geoname_id": 2968815,
+            "iso_code": "75",
             "names": {
-              "de": "Val d'Oise",
-              "en": "Val d'Oise",
-              "es": "Valle de Oise",
-              "fr": "Val-d'Oise",
-              "ja": "ヴァル＝ドワーズ県",
-              "pt-BR": "Val-d'Oise",
-              "ru": "Валь-д’Уаз",
-              "zh-CN": "瓦兹河谷省"
+              "de": "Paris",
+              "en": "Paris",
+              "es": "Paris",
+              "fr": "Paris"
             }
           }
         ]
