@@ -18,18 +18,18 @@
     "content-encoding": "gzip",
     "content-security-policy": "frame-ancestors 'self'; object-src 'none';img-src self data: https: ; script-src 'self' https://client.crisp.chat https://static.userguiding.com https://public.produktly.com https://matomo.fabrique.social.gouv.fr 'unsafe-inline'",
     "content-type": "text/html; charset=utf-8",
-    "date": "Sun, 07 Jul 2024 12:23:25 GMT",
-    "etag": "\"ja1365f0ajlrz\"",
+    "date": "Sun, 14 Jul 2024 12:28:59 GMT",
+    "etag": "\"pt6gw5crg8lsd\"",
     "strict-transport-security": "max-age=31536000",
     "vary": "Accept-Encoding",
     "x-frame-options": "SAMEORIGIN",
     "x-powered-by": "Next.js",
-    "x-request-id": "3d3303e5-8bbc-4804-9847-aebbfbecba2d"
+    "x-request-id": "122c0c2e-32d8-4da2-8734-1de7e1b0a062"
   },
   "endpoints": [
     {
       "hostname": "vae.gouv.fr",
-      "ip": "80.247.12.255",
+      "ip": "148.253.96.193",
       "geoip": {
         "continent": {
           "code": "EU",
