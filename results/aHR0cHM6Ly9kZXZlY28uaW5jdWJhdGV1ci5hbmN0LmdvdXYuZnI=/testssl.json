@@ -346,7 +346,7 @@
               "ip"           : "deveco.incubateur.anct.gouv.fr/51.159.10.161",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "82 >= 30 days"
+              "finding"      : "75 >= 30 days"
           }
 ,         {
               "id"           : "cert_notBefore",
@@ -507,7 +507,7 @@
               "ip"           : "deveco.incubateur.anct.gouv.fr/51.159.10.161",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1720322126"
+              "finding"      : "1720926937"
           }
 ,         {
               "id"           : "HSTS_time",
@@ -1084,6 +1084,6 @@
               "ip"           : "deveco.incubateur.anct.gouv.fr/51.159.10.161",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "71"
+              "finding"      : "135"
           }
 ]
