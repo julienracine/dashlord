@@ -20,10 +20,10 @@
   "cookies": [
     {
       "name": "bln_challengejs",
-      "value": "xFlD3qOtJCbKh2DJsu8cJ1kG0jzS5U_7vQS7LOK1j6NF_mVgBAvCA4cMVu5d7SShdiVHmFqTcdJde63Y1Z_XkUWBtvNmu8S7zLH75ZSU2aLt8fkxClPQso-FMUguLjd7f1C6A5K55HpujSX776LJ3CgRrHyZfYg2NWdrNmS9t4LydL49BV_ZF89edAIWPdNI6cm2Ra0aQyf7RRZt7V962M2xGj9dqkrg_PamvCpAcM3vPuBSDivEDywK3mb4qTyW",
+      "value": "X97Ld3OV3t6uFn5UqbQbAwvDO90Ts7t089tSoAG0HD7J2cjs064hs_49bWydYwtzee_syu87w46RXxrg-hIgnxsoZNKAx57ZpN7kEIPaOOQMueU4p2tkn_nmEW075iZBcbQPuAlndwCvHiZS7AclvfOkSgRZALAohdrKnU7fsbgMOdKBMV-kX9jcV3xfcShl3vlsJmtoubVPrsnknxjpp6kaOnFwTObA2i3P7JRIvBIFGDRuXP9AnQwArr6Aq-te",
       "domain": ".snu.gouv.fr",
       "path": "/",
-      "expires": 1720337746.723194,
+      "expires": 1720943129.596472,
       "size": 271,
       "httpOnly": false,
       "secure": false,
@@ -36,11 +36,11 @@
   "headers": {
     "content-encoding": "gzip",
     "content-type": "text/html",
-    "date": "Sun, 07 Jul 2024 07:20:46 GMT",
-    "etag": "W/\"6688118c-625\"",
-    "last-modified": "Fri, 05 Jul 2024 15:30:20 GMT",
+    "date": "Sun, 14 Jul 2024 07:30:29 GMT",
+    "etag": "W/\"6690e70a-625\"",
+    "last-modified": "Fri, 12 Jul 2024 08:19:22 GMT",
     "referrer-policy": ": no-referrer",
-    "sozu-id": "01J2611BMV6GE5MYD2S0QZC1JB",
+    "sozu-id": "01J2R2CY4CSCM7KVK1NNTT66V2",
     "strict-transport-security": ": max-age=31536000; includeSubDomains; preload",
     "x-content-type-options": ": nosniff",
     "x-download-options": ": noopen",
@@ -106,14 +106,8 @@
     },
     {
       "hostname": "fonts.googleapis.com",
-      "ip": "142.251.46.170",
+      "ip": "172.253.115.95",
       "geoip": {
-        "city": {
-          "geoname_id": 5116931,
-          "names": {
-            "en": "Farmingdale"
-          }
-        },
         "continent": {
           "code": "NA",
           "geoname_id": 6255149,
@@ -144,13 +138,9 @@
         },
         "location": {
           "accuracy_radius": 1000,
-          "latitude": 40.7306,
-          "longitude": -73.4313,
-          "metro_code": 501,
-          "time_zone": "America/New_York"
-        },
-        "postal": {
-          "code": "11735"
+          "latitude": 37.751,
+          "longitude": -97.822,
+          "time_zone": "America/Chicago"
         },
         "registered_country": {
           "geoname_id": 6252001,
@@ -165,39 +155,23 @@
             "ru": "США",
             "zh-CN": "美国"
           }
-        },
-        "subdivisions": [
-          {
-            "geoname_id": 5128638,
-            "iso_code": "NY",
-            "names": {
-              "de": "New York",
-              "en": "New York",
-              "es": "Nueva York",
-              "fr": "New York",
-              "ja": "ニューヨーク州",
-              "pt-BR": "Nova Iorque",
-              "ru": "Нью-Йорк",
-              "zh-CN": "纽约州"
-            }
-          }
-        ]
+        }
       }
     },
     {
       "hostname": "plausible.io",
-      "ip": "169.150.221.147",
+      "ip": "138.199.40.58",
       "geoip": {
         "city": {
-          "geoname_id": 5392171,
+          "geoname_id": 5128581,
           "names": {
-            "de": "San José",
-            "en": "San Jose",
-            "es": "San José",
-            "fr": "San José",
-            "ja": "サンノゼ",
-            "pt-BR": "San José",
-            "ru": "Сан-Хосе"
+            "de": "New York City",
+            "en": "New York",
+            "es": "Nueva York",
+            "fr": "New York",
+            "ja": "ニューヨーク",
+            "pt-BR": "Nova Iorque",
+            "ru": "Нью-Йорк"
           }
         },
         "continent": {
@@ -230,13 +204,13 @@
         },
         "location": {
           "accuracy_radius": 20,
-          "latitude": 37.1835,
-          "longitude": -121.7714,
-          "metro_code": 807,
-          "time_zone": "America/Los_Angeles"
+          "latitude": 40.7123,
+          "longitude": -74.0068,
+          "metro_code": 501,
+          "time_zone": "America/New_York"
         },
         "postal": {
-          "code": "95141"
+          "code": "10118"
         },
         "registered_country": {
           "geoname_id": 2635167,
@@ -254,17 +228,17 @@
         },
         "subdivisions": [
           {
-            "geoname_id": 5332921,
-            "iso_code": "CA",
+            "geoname_id": 5128638,
+            "iso_code": "NY",
             "names": {
-              "de": "Kalifornien",
-              "en": "California",
-              "es": "California",
-              "fr": "Californie",
-              "ja": "カリフォルニア州",
-              "pt-BR": "Califórnia",
-              "ru": "Калифорния",
-              "zh-CN": "加州"
+              "de": "New York",
+              "en": "New York",
+              "es": "Nueva York",
+              "fr": "New York",
+              "ja": "ニューヨーク州",
+              "pt-BR": "Nova Iorque",
+              "ru": "Нью-Йорк",
+              "zh-CN": "纽约州"
             }
           }
         ]
