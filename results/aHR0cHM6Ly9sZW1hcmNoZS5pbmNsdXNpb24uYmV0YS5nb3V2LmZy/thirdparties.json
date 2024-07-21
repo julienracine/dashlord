@@ -60,10 +60,10 @@
   "cookies": [
     {
       "name": "csrftoken",
-      "value": "0Au8zS8YOANQ78VHvVAhv5NjFQkfs6bt",
+      "value": "Xn1eYbd7uuy2TZKSnyOop5LqU4IfcUsn",
       "domain": "lemarche.inclusion.beta.gouv.fr",
       "path": "/",
-      "expires": 1752379350.056013,
+      "expires": 1752983886.863329,
       "size": 41,
       "httpOnly": true,
       "secure": true,
@@ -76,13 +76,13 @@
   ],
   "headers": {
     "connection": "keep-alive",
-    "content-length": "64213",
+    "content-length": "64209",
     "content-type": "text/html; charset=utf-8",
     "cross-origin-opener-policy": "same-origin",
-    "date": "Sun, 14 Jul 2024 04:02:29 GMT",
+    "date": "Sun, 21 Jul 2024 03:58:06 GMT",
     "referrer-policy": "same-origin",
-    "set-cookie": "csrftoken=0Au8zS8YOANQ78VHvVAhv5NjFQkfs6bt; expires=Sun, 13 Jul 2025 04:02:29 GMT; HttpOnly; Max-Age=31449600; Path=/; SameSite=Lax; Secure",
-    "sozu-id": "01J2QPG2N93BD0V4CDJRXCKTSD",
+    "set-cookie": "csrftoken=Xn1eYbd7uuy2TZKSnyOop5LqU4IfcUsn; expires=Sun, 20 Jul 2025 03:58:06 GMT; HttpOnly; Max-Age=31449600; Path=/; SameSite=Lax; Secure",
+    "sozu-id": "01J39Q12P1N8R3P2SG1EQMESD3",
     "strict-transport-security": "max-age=30",
     "vary": "Cookie, Origin",
     "x-content-type-options": "nosniff",
@@ -91,7 +91,7 @@
   "endpoints": [
     {
       "hostname": "lemarche.inclusion.beta.gouv.fr",
-      "ip": "91.208.207.223",
+      "ip": "91.208.207.215",
       "geoip": {
         "continent": {
           "code": "EU",
@@ -147,59 +147,8 @@
     },
     {
       "hostname": "cdn.jsdelivr.net",
-      "ip": "146.75.93.229",
+      "ip": "104.18.186.31",
       "geoip": {
-        "city": {
-          "geoname_id": 5368361,
-          "names": {
-            "de": "Los Angeles",
-            "en": "Los Angeles",
-            "es": "Los Ángeles",
-            "fr": "Los Angeles",
-            "ja": "ロサンゼルス",
-            "pt-BR": "Los Angeles",
-            "ru": "Лос-Анджелес",
-            "zh-CN": "洛杉矶"
-          }
-        },
-        "continent": {
-          "code": "NA",
-          "geoname_id": 6255149,
-          "names": {
-            "de": "Nordamerika",
-            "en": "North America",
-            "es": "Norteamérica",
-            "fr": "Amérique du Nord",
-            "ja": "北アメリカ",
-            "pt-BR": "América do Norte",
-            "ru": "Северная Америка",
-            "zh-CN": "北美洲"
-          }
-        },
-        "country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
-          "names": {
-            "de": "USA",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
-          }
-        },
-        "location": {
-          "accuracy_radius": 20,
-          "latitude": 34.0544,
-          "longitude": -118.2441,
-          "metro_code": 803,
-          "time_zone": "America/Los_Angeles"
-        },
-        "postal": {
-          "code": "90060"
-        },
         "registered_country": {
           "geoname_id": 6252001,
           "iso_code": "US",
@@ -213,35 +162,13 @@
             "ru": "США",
             "zh-CN": "美国"
           }
-        },
-        "subdivisions": [
-          {
-            "geoname_id": 5332921,
-            "iso_code": "CA",
-            "names": {
-              "de": "Kalifornien",
-              "en": "California",
-              "es": "California",
-              "fr": "Californie",
-              "ja": "カリフォルニア州",
-              "pt-BR": "Califórnia",
-              "ru": "Калифорния",
-              "zh-CN": "加州"
-            }
-          }
-        ]
+        }
       }
     },
     {
       "hostname": "fonts.googleapis.com",
-      "ip": "142.250.68.106",
+      "ip": "142.250.190.42",
       "geoip": {
-        "city": {
-          "geoname_id": 5131638,
-          "names": {
-            "en": "Plainview"
-          }
-        },
         "continent": {
           "code": "NA",
           "geoname_id": 6255149,
@@ -271,14 +198,10 @@
           }
         },
         "location": {
-          "accuracy_radius": 100,
-          "latitude": 40.7746,
-          "longitude": -73.4761,
-          "metro_code": 501,
-          "time_zone": "America/New_York"
-        },
-        "postal": {
-          "code": "11803"
+          "accuracy_radius": 1000,
+          "latitude": 37.751,
+          "longitude": -97.822,
+          "time_zone": "America/Chicago"
         },
         "registered_country": {
           "geoname_id": 6252001,
@@ -293,23 +216,7 @@
             "ru": "США",
             "zh-CN": "美国"
           }
-        },
-        "subdivisions": [
-          {
-            "geoname_id": 5128638,
-            "iso_code": "NY",
-            "names": {
-              "de": "New York",
-              "en": "New York",
-              "es": "Nueva York",
-              "fr": "New York",
-              "ja": "ニューヨーク州",
-              "pt-BR": "Nova Iorque",
-              "ru": "Нью-Йорк",
-              "zh-CN": "纽约州"
-            }
-          }
-        ]
+        }
       }
     }
   ]
