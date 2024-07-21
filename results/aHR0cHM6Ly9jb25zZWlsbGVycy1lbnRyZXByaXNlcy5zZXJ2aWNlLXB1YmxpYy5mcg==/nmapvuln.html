@@ -54,7 +54,7 @@
 <h1>Scan Report<br><small>Nmap 7.92</small>
 </h1>
 <pre style="white-space:pre-wrap; word-wrap:break-word;">nmap -sV --script vulners --script-args mincvss=5.0 -oA /data/nmapvuln conseillers-entreprises.service-public.fr</pre>
-<p class="lead">Sun Jul 14 05:47:35 2024 – Sun Jul 14 05:48:11 2024<br>1 hosts scanned.
+<p class="lead">Sun Jul 21 05:43:30 2024 – Sun Jul 21 05:44:05 2024<br>1 hosts scanned.
               1 hosts up.
               0 hosts down.
             </p>
@@ -121,7 +121,7 @@
 <pre style="white-space:pre-wrap; word-wrap:break-word;">
   FourOhFourRequest: 
     HTTP/1.1 301 Moved Permanently
-    Date: Sun, 14 Jul 2024 05:47:49 GMT
+    Date: Sun, 21 Jul 2024 05:43:48 GMT
     Content-Type: text/html
     Content-Length: 166
     Connection: close
@@ -135,7 +135,7 @@
     &lt;/html&gt;
   GetRequest, HTTPOptions: 
     HTTP/1.1 301 Moved Permanently
-    Date: Sun, 14 Jul 2024 05:47:49 GMT
+    Date: Sun, 21 Jul 2024 05:43:47 GMT
     Content-Type: text/html
     Content-Length: 166
     Connection: close
@@ -149,7 +149,7 @@
     &lt;/html&gt;
   RTSPRequest, X11Probe: 
     HTTP/1.1 400 Bad Request
-    Date: Sun, 14 Jul 2024 05:47:49 GMT
+    Date: Sun, 21 Jul 2024 05:43:48 GMT
     Content-Type: text/html
     Content-Length: 154
     Connection: close
@@ -165,17 +165,17 @@
 <td title="Port">443</td>
 <td title="Protocol">tcp</td>
 <td title="State / Reason">open<br>syn-ack</td>
-<td title="Service">https</td>
+<td title="Service">http-proxy</td>
 <td title="Product"></td>
 <td title="Version"></td>
-<td title="Extra Info"></td>
+<td title="Extra Info">bad gateway</td>
 </tr>
 <tr><td colspan="7">
 <a href="https://nvd.nist.gov/vuln/search/results?form_type=Advanced&amp;cves=on&amp;cpe_version="></a><h5>fingerprint-strings</h5>
 <pre style="white-space:pre-wrap; word-wrap:break-word;">
-  GetRequest: 
+  FourOhFourRequest: 
     HTTP/1.1 200 OK
-    Date: Sun, 14 Jul 2024 05:47:55 GMT
+    Date: Sun, 21 Jul 2024 05:43:55 GMT
     Content-Type: text/html
     Content-Length: 3884
     Connection: close
@@ -184,20 +184,38 @@
     Strict-Transport-Security: max-age=63072000
     X-Content-Type-Options: nosniff
     X-XSS-Protection: 1; mode=block
-    &lt;!doctypehtml&gt;&lt;meta name="viewport"content="width=device-width"&gt;&lt;meta charset="utf-8"&gt;&lt;script&gt;&lt;/script&gt;&lt;script&gt;var __blnChallengeStore={"unregisterServiceWorker":false,"domain":".service-public.fr","checkChallengeParams":{"tracking_id":"","rule_id":"","bot_category":"unknown","request_fate":"challengejs"},"cookie":{"value":"JpAHe8MnqT0ZJDnfvmm-MJgCgUUh_qGb27m2hzFF4ZyS6vm-bSDbkDnoHKzRh7-g5oI1YUK2bgmZ628btfbS8VCth0FZn3a08m0aY0vD2lA","path":"/","name":"bln_challengejs","maxAge":900}};(()=&gt;{"use strict";const e=function*({domain:e,maxAge:n,name:o,path:a,secure:t,value:i}){yield`${o}=${i}`,void 0!==e&amp;&amp;""!==e&amp;
-  HTTPOptions: 
-    HTTP/1.1 404 Not Found
-    Date: Sun, 14 Jul 2024 05:47:55 GMT
+    &lt;!doctypehtml&gt;&lt;meta name="viewport"content="width=device-width"&gt;&lt;meta charset="utf-8"&gt;&lt;script&gt;&lt;/script&gt;&lt;script&gt;var __blnChallengeStore={"checkChallengeParams":{"tracking_id":"","rule_id":"","bot_category":"unknown","request_fate":"challengejs"},"cookie":{"maxAge":900,"name":"bln_challengejs","value":"wn3TEKLfYCtf8WfxvfrDzrRfUE0S4sdAeRF5rZPfU9oYpSi0tAZq2_bIEIE8g-K74nlexFhHrDEGozkDn0YnUSdEh_HRMBOuOUGuEU_aMw4","path":"/"},"domain":".service-public.fr","unregisterServiceWorker":false};(()=&gt;{"use strict";const e=function*({domain:e,maxAge:n,name:o,path:a,secure:t,value:i}){yield`${o}=${i}`,void 0!==e&amp;&amp;""!==e&amp;
+  GetRequest: 
+    HTTP/1.1 200 OK
+    Date: Sun, 21 Jul 2024 05:43:54 GMT
     Content-Type: text/html
+    Content-Length: 3884
     Connection: close
-    Content-Encoding: identity
-    X-Varnish: 4509613
+    Referrer-Policy: no-referrer
+    Cache-Control: no-cache
+    Strict-Transport-Security: max-age=63072000
+    X-Content-Type-Options: nosniff
+    X-XSS-Protection: 1; mode=block
+    &lt;!doctypehtml&gt;&lt;meta name="viewport"content="width=device-width"&gt;&lt;meta charset="utf-8"&gt;&lt;script&gt;&lt;/script&gt;&lt;script&gt;var __blnChallengeStore={"cookie":{"name":"bln_challengejs","value":"wn3TEKLfYCtf8WfxvfrDzhgdGhbv-7Nc2CpBJCKH8p8cCSTefNgo_4PsMoiCUrG7LAHOUTZzzjpysq9vLnPnOSnjkL9HgM2CNr5bJx1Qmq8","path":"/","maxAge":900},"checkChallengeParams":{"rule_id":"","tracking_id":"","bot_category":"unknown","request_fate":"challengejs"},"domain":".service-public.fr","unregisterServiceWorker":false};(()=&gt;{"use strict";const e=function*({domain:e,maxAge:n,name:o,path:a,secure:t,value:i}){yield`${o}=${i}`,void 0!==e&amp;&amp;""!==e&amp;
+  HTTPOptions: 
+    HTTP/1.1 502 Bad Gateway
+    Date: Sun, 21 Jul 2024 05:43:54 GMT
+    Content-Type: text/html
+    Content-Length: 154
+    Connection: close
+    X-Varnish: 4760919
     Age: 0
     Strict-Transport-Security: max-age=63072000
     X-Content-Type-Options: nosniff
     Referrer-Policy: origin-when-cross-origin
     X-XSS-Protection: 1; mode=block
-    &lt;!DOCTYPE html&gt;&lt;html&gt;&lt;head&gt;&lt;meta http-equiv="content-type" content="text/html; charset=UTF-8"&gt;&lt;meta charset="utf-8"&gt;&lt;meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible"&gt;&lt;meta content="width=device-width, initial-scale=1.0" name="viewport"&gt;&lt;title&gt;Application doesn't exist - Scalingo&lt;/title&gt;&lt;style&gt;html { height: 100%;}body { -webkit-transform-style: preserve-3d; transform-style: preserve-3d; text-align: center; height: 100%; margin: 0; padding: 0; background: -webkit-gradient(linear, left top, left bottom, from(#1864ab), to(#099ec9)) left top/100% 100% no-repeat #1864ab</pre>
+    &lt;html&gt;
+    &lt;head&gt;&lt;title&gt;502 Bad Gateway&lt;/title&gt;&lt;/head&gt;
+    &lt;body&gt;
+    &lt;center&gt;&lt;h1&gt;502 Bad Gateway&lt;/h1&gt;&lt;/center&gt;
+    &lt;hr&gt;&lt;center&gt;openresty&lt;/center&gt;
+    &lt;/body&gt;
+    &lt;/html&gt;</pre>
 </td></tr>
 </tbody>
 </table></div>
@@ -230,11 +248,11 @@
 <td>185.231.164.123 - conseillers-entreprises.service-public.fr</td>
 <td>443</td>
 <td>tcp</td>
-<td>https</td>
+<td>http-proxy</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td>bad gateway</td>
 </tr>
 </tbody>
 </table></div>
