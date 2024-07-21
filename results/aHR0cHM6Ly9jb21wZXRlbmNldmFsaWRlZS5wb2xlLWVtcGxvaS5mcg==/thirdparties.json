@@ -26,7 +26,19 @@
     },
     {
       "type": "unknown",
-      "url": "https://hd.pe.fr/event?s=475540&idclient=lykyklvmb3yuihoc"
+      "url": "https://hd.pe.fr/event?s=475540&idclient=lyuyknow8authzuj"
+    },
+    {
+      "type": "unknown",
+      "url": "https://candidat.francetravail.fr/competences-validees/static/media/OpenSans-VariableFont_wdth,wght.ceb05254cedfa895b512.ttf"
+    },
+    {
+      "type": "unknown",
+      "url": "https://privacy.trustcommander.net/privacy-consent?site=4340"
+    },
+    {
+      "type": "unknown",
+      "url": "https://hd.pe.fr/event?s=475540&idclient=lyuyknow8authzuj"
     },
     {
       "type": "unknown",
@@ -62,23 +74,11 @@
     },
     {
       "type": "unknown",
-      "url": "https://candidat.francetravail.fr/competences-validees/static/media/OpenSans-VariableFont_wdth,wght.ceb05254cedfa895b512.ttf"
-    },
-    {
-      "type": "unknown",
       "url": "https://candidat.francetravail.fr/competences-validees/static/media/Roboto-Regular.fc2b5060f7accec5cf74.ttf"
     },
     {
       "type": "unknown",
       "url": "https://candidat.francetravail.fr/competences-validees/static/media/Roboto-Bold.f80816a5455d171f948d.ttf"
-    },
-    {
-      "type": "unknown",
-      "url": "https://privacy.trustcommander.net/privacy-consent?site=4340"
-    },
-    {
-      "type": "unknown",
-      "url": "https://hd.pe.fr/event?s=475540&idclient=lykyklvmb3yuihoc"
     },
     {
       "type": "google fonts",
@@ -104,10 +104,10 @@
   "cookies": [
     {
       "name": "TCPID",
-      "value": "12470250371018764305",
+      "value": "12470248215853853986",
       "domain": ".francetravail.fr",
       "path": "/",
-      "expires": 1754880637,
+      "expires": 1755485301,
       "size": 25,
       "httpOnly": false,
       "secure": false,
@@ -119,10 +119,10 @@
     },
     {
       "name": "_pcid",
-      "value": "%7B%22browserId%22%3A%22lykyklvmb3yuihoc%22%2C%22_t%22%3A%22me9di37w%22%7D",
+      "value": "%7B%22browserId%22%3A%22lyuyknow8authzuj%22%2C%22_t%22%3A%22mejdi515%22%7D",
       "domain": ".francetravail.fr",
       "path": "/",
-      "expires": 1755053437,
+      "expires": 1755658101,
       "size": 79,
       "httpOnly": false,
       "secure": true,
@@ -137,7 +137,7 @@
       "value": "%22exempt%22",
       "domain": ".francetravail.fr",
       "path": "/",
-      "expires": 1755053437,
+      "expires": 1755658101,
       "size": 22,
       "httpOnly": false,
       "secure": true,
@@ -149,7 +149,7 @@
     },
     {
       "name": "TS016fc3b0",
-      "value": "0150c672c35a3a625d46e8b43eed7684606615ef5d84c33ba1331a7d00ea7495d45254c39011e7f35e22f55c815f4310da14ff4f25",
+      "value": "0150c672c3057ad897c21d4ae1fb7da53b1534a6fc4c1dd6d39a01c1f0b18c0963423d9bbb0a7f4c784f4ae3dca55ea03f9963bf92",
       "domain": ".candidat.francetravail.fr",
       "path": "/",
       "expires": -1,
@@ -163,10 +163,10 @@
     },
     {
       "name": "_pctx",
-      "value": "%7Bu%7DN4IgrgzgpgThIC4B2YA2qA05owMoBcBDfSREQpAeyRCwgEt8oBJAE0RXSwH18yBbKAE5W9AMwB2AB4gAvkA",
+      "value": "%7Bu%7DN4IgrgzgpgThIC4B2YA2qA05owMoBcBDfSREQpAeyRCwgEt8oBJAE0RXSwH18yBbKACtW9AKwBGAOwgAvkA",
       "domain": ".francetravail.fr",
       "path": "/",
-      "expires": 1755053437,
+      "expires": 1755658101,
       "size": 95,
       "httpOnly": false,
       "secure": true,
@@ -197,10 +197,10 @@
     "content-encoding": "gzip",
     "content-length": "522",
     "content-type": "text/html",
-    "date": "Sun, 14 Jul 2024 02:50:36 GMT",
-    "expires": "Sun, 14 Jul 2024 03:05:36 GMT",
-    "last-modified": "Thu, 06 Jun 2024 08:23:37 GMT",
-    "set-cookie": "BIGipServerPOOL_Z1_PROD_MOP_HTTP=848562954.20480.0000; path=/; Httponly; Secure\nTS016fc3b0=0150c672c35a3a625d46e8b43eed7684606615ef5d84c33ba1331a7d00ea7495d45254c39011e7f35e22f55c815f4310da14ff4f25; Path=/; Domain=.candidat.francetravail.fr",
+    "date": "Sun, 21 Jul 2024 02:48:21 GMT",
+    "expires": "Sun, 21 Jul 2024 03:03:21 GMT",
+    "last-modified": "Wed, 17 Jul 2024 16:24:43 GMT",
+    "set-cookie": "BIGipServerPOOL_Z1_PROD_MOP_HTTP=848562954.20480.0000; path=/; Httponly; Secure\nTS016fc3b0=0150c672c3057ad897c21d4ae1fb7da53b1534a6fc4c1dd6d39a01c1f0b18c0963423d9bbb0a7f4c784f4ae3dca55ea03f9963bf92; Path=/; Domain=.candidat.francetravail.fr",
     "vary": "Accept-Encoding",
     "x-content-type-options": "nosniff'"
   },
@@ -478,7 +478,7 @@
     },
     {
       "hostname": "tag.aticdn.net",
-      "ip": "13.33.21.97",
+      "ip": "18.160.18.10",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -532,7 +532,7 @@
     },
     {
       "hostname": "hd.pe.fr",
-      "ip": "18.164.174.22",
+      "ip": "18.160.18.7",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -683,7 +683,7 @@
     },
     {
       "hostname": "fonts.gstatic.com",
-      "ip": "172.217.12.131",
+      "ip": "142.250.31.94",
       "geoip": {
         "continent": {
           "code": "NA",
