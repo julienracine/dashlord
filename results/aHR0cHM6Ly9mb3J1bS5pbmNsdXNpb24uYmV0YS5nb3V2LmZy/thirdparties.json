@@ -32,10 +32,10 @@
   "cookies": [
     {
       "name": "sessionid",
-      "value": "4laarorbxw6qz8h2he3f3ve70tc6s3ej",
+      "value": "nl3fczz2i1uo1eoraw7ffekxmns94l1u",
       "domain": "communaute.inclusion.beta.gouv.fr",
       "path": "/",
-      "expires": 1722137600.081051,
+      "expires": 1722742117.777935,
       "size": 41,
       "httpOnly": true,
       "secure": true,
@@ -47,10 +47,10 @@
     },
     {
       "name": "csrftoken",
-      "value": "15oVhITQssdvdTWr3qC7htiW3enVFMMh",
+      "value": "9UoLoVQbb1eEcxLsrJTZ9IuK41x3PVsj",
       "domain": "communaute.inclusion.beta.gouv.fr",
       "path": "/",
-      "expires": 1752377600.080938,
+      "expires": 1752982117.777805,
       "size": 41,
       "httpOnly": false,
       "secure": true,
@@ -64,15 +64,15 @@
   "headers": {
     "connection": "keep-alive",
     "content-encoding": "gzip",
-    "content-length": "7658",
-    "content-security-policy": "script-src 'self' https://cdn.jsdelivr.net/npm/chart.js@4.0.1 https://cdn.jsdelivr.net/npm/jquery@3.6.1/dist/jquery.min.js https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.min.js https://browser.sentry-cdn.com https://js.sentry-cdn.com https://tally.so https://www.youtube.com/iframe_api https://www.youtube.com/s/player/ https://matomo.inclusion.beta.gouv.fr/ 'nonce-gm0PjEdz3ga/1WTrhPJcHg=='; font-src 'self' https://fonts.gstatic.com/ data:; script-src-elem 'self' https://cdn.jsdelivr.net/npm/chart.js@4.0.1 https://cdn.jsdelivr.net/npm/jquery@3.6.1/dist/jquery.min.js https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.min.js https://browser.sentry-cdn.com https://js.sentry-cdn.com https://tally.so https://www.youtube.com/iframe_api https://www.youtube.com/s/player/ https://matomo.inclusion.beta.gouv.fr/ 'nonce-gm0PjEdz3ga/1WTrhPJcHg=='; default-src 'self'; connect-src 'self' *.sentry.io https://api-adresse.data.gouv.fr https://matomo.inclusion.beta.gouv.fr/; style-src 'self' https://fonts.googleapis.com 'unsafe-inline'; frame-src 'self' https://tally.so https://www.youtube.com/embed/; style-src-elem 'self' https://fonts.googleapis.com 'unsafe-inline'; img-src 'self' data: cellar-c2.services.clever-cloud.com https://matomo.inclusion.beta.gouv.fr/",
+    "content-length": "7671",
+    "content-security-policy": "script-src 'self' https://cdn.jsdelivr.net/npm/chart.js@4.0.1 https://cdn.jsdelivr.net/npm/jquery@3.6.1/dist/jquery.min.js https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.min.js https://browser.sentry-cdn.com https://js.sentry-cdn.com https://tally.so https://www.youtube.com/iframe_api https://www.youtube.com/s/player/ https://matomo.inclusion.beta.gouv.fr/ 'nonce-HPmj34If77uxRRJQuOsmrg=='; font-src 'self' https://fonts.gstatic.com/ data:; script-src-elem 'self' https://cdn.jsdelivr.net/npm/chart.js@4.0.1 https://cdn.jsdelivr.net/npm/jquery@3.6.1/dist/jquery.min.js https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.min.js https://browser.sentry-cdn.com https://js.sentry-cdn.com https://tally.so https://www.youtube.com/iframe_api https://www.youtube.com/s/player/ https://matomo.inclusion.beta.gouv.fr/ 'nonce-HPmj34If77uxRRJQuOsmrg=='; default-src 'self'; connect-src 'self' *.sentry.io https://api-adresse.data.gouv.fr https://matomo.inclusion.beta.gouv.fr/; style-src 'self' https://fonts.googleapis.com 'unsafe-inline'; frame-src 'self' https://tally.so https://www.youtube.com/embed/; style-src-elem 'self' https://fonts.googleapis.com 'unsafe-inline'; img-src 'self' data: cellar-c2.services.clever-cloud.com https://matomo.inclusion.beta.gouv.fr/",
     "content-type": "text/html; charset=utf-8",
     "cross-origin-opener-policy": "same-origin",
-    "date": "Sun, 14 Jul 2024 03:33:20 GMT",
+    "date": "Sun, 21 Jul 2024 03:28:37 GMT",
     "permissions-policy": "accelerometer=(), autoplay=(), camera=(), encrypted-media=(), fullscreen=(), geolocation=(), gyroscope=(), magnetometer=(), microphone=(), midi=(), payment=(), picture-in-picture=(), sync-xhr=(), usb=()",
     "referrer-policy": "same-origin",
-    "set-cookie": "csrftoken=15oVhITQssdvdTWr3qC7htiW3enVFMMh; expires=Sun, 13 Jul 2025 03:33:20 GMT; Max-Age=31449600; Path=/; SameSite=Lax; Secure\nsessionid=4laarorbxw6qz8h2he3f3ve70tc6s3ej; expires=Sun, 28 Jul 2024 03:33:20 GMT; HttpOnly; Max-Age=1209600; Path=/; SameSite=Lax; Secure",
-    "sozu-id": "01J2QMTNT9DAZ4TGNW2PCZYPJ8",
+    "set-cookie": "csrftoken=9UoLoVQbb1eEcxLsrJTZ9IuK41x3PVsj; expires=Sun, 20 Jul 2025 03:28:37 GMT; Max-Age=31449600; Path=/; SameSite=Lax; Secure\nsessionid=nl3fczz2i1uo1eoraw7ffekxmns94l1u; expires=Sun, 04 Aug 2024 03:28:37 GMT; HttpOnly; Max-Age=1209600; Path=/; SameSite=Lax; Secure",
+    "sozu-id": "01J39NB34QQRYQHE2W2ZY3AYEP",
     "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
     "vary": "Cookie, Accept-Encoding",
     "x-content-type-options": "nosniff",
@@ -137,7 +137,7 @@
     },
     {
       "hostname": "js.sentry-cdn.com",
-      "ip": "151.101.66.217",
+      "ip": "151.101.2.217",
       "geoip": {
         "city": {
           "geoname_id": 5391959,

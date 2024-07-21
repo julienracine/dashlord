@@ -1,6 +1,6 @@
-# Nmap 7.92 scan initiated Sun Jul 14 03:35:10 2024 as: nmap -sV --script vulners --script-args mincvss=5.0 -oA /data/nmapvuln forum.inclusion.beta.gouv.fr
+# Nmap 7.92 scan initiated Sun Jul 21 03:30:33 2024 as: nmap -sV --script vulners --script-args mincvss=5.0 -oA /data/nmapvuln forum.inclusion.beta.gouv.fr
 Nmap scan report for forum.inclusion.beta.gouv.fr (185.31.40.19)
-Host is up (0.10s latency).
+Host is up (0.089s latency).
 Other addresses for forum.inclusion.beta.gouv.fr (not scanned): 2a00:b6e0:1:20:10::1
 rDNS record for 185.31.40.19: http9.paris1.alwaysdata.com
 Not shown: 998 closed tcp ports (reset)
@@ -18,20 +18,20 @@ PORT    STATE SERVICE   VERSION
 |     HTTP/1.1 404 Not Found
 |     Connection: close
 |     via: 1.0 alproxy
-|     date: Sun, 14 Jul 2024 03:35:30 GMT
-|     <html><body><h1>Site not found</h1><p></p><p>Request ID: 89f04532-f8b87418</p></body></html>
+|     date: Sun, 21 Jul 2024 03:30:56 GMT
+|     <html><body><h1>Site not found</h1><p></p><p>Request ID: 2d0f98c3-a2d37726</p></body></html>
 |   GetRequest: 
 |     HTTP/1.1 404 Not Found
 |     Connection: close
 |     via: 1.0 alproxy
-|     date: Sun, 14 Jul 2024 03:35:29 GMT
-|     <html><body><h1>Site not found</h1><p></p><p>Request ID: e4b284cf-3405115e</p></body></html>
+|     date: Sun, 21 Jul 2024 03:30:56 GMT
+|     <html><body><h1>Site not found</h1><p></p><p>Request ID: 2a5089a0-f86323cf</p></body></html>
 |   HTTPOptions: 
 |     HTTP/1.1 404 Not Found
 |     Connection: close
 |     via: 1.0 alproxy
-|     date: Sun, 14 Jul 2024 03:35:29 GMT
-|_    <html><body><h1>Site not found</h1><p></p><p>Request ID: 9dde2f3f-cbcda9d3</p></body></html>
+|     date: Sun, 21 Jul 2024 03:30:56 GMT
+|_    <html><body><h1>Site not found</h1><p></p><p>Request ID: af8c5c19-45cada79</p></body></html>
 443/tcp open  ssl/https Apache
 |_http-server-header: Apache
 | fingerprint-strings: 
@@ -45,40 +45,40 @@ PORT    STATE SERVICE   VERSION
 |     HTTP/1.1 404 Not Found
 |     Connection: close
 |     via: 1.0 alproxy
-|     date: Sun, 14 Jul 2024 03:35:36 GMT
-|     <html><body><h1>Site not found</h1><p></p><p>Request ID: f979a183-4b63fdf9</p></body></html>
+|     date: Sun, 21 Jul 2024 03:31:03 GMT
+|     <html><body><h1>Site not found</h1><p></p><p>Request ID: ac48311d-10495367</p></body></html>
 |   GetRequest: 
 |     HTTP/1.1 404 Not Found
 |     Connection: close
 |     via: 1.0 alproxy
-|     date: Sun, 14 Jul 2024 03:35:35 GMT
-|     <html><body><h1>Site not found</h1><p></p><p>Request ID: 10b5291f-b8c1f80f</p></body></html>
+|     date: Sun, 21 Jul 2024 03:31:02 GMT
+|     <html><body><h1>Site not found</h1><p></p><p>Request ID: ce038e8e-e1b69c35</p></body></html>
 |   HTTPOptions: 
 |     HTTP/1.1 404 Not Found
 |     Connection: close
 |     via: 1.0 alproxy
-|     date: Sun, 14 Jul 2024 03:35:35 GMT
-|_    <html><body><h1>Site not found</h1><p></p><p>Request ID: 175f751c-0d67531c</p></body></html>
+|     date: Sun, 21 Jul 2024 03:31:02 GMT
+|_    <html><body><h1>Site not found</h1><p></p><p>Request ID: 931aa06d-1abd1574</p></body></html>
 2 services unrecognized despite returning data. If you know the service/version, please submit the following fingerprints at https://nmap.org/cgi-bin/submit.cgi?new-service :
 ==============NEXT SERVICE FINGERPRINT (SUBMIT INDIVIDUALLY)==============
-SF-Port80-TCP:V=7.92%I=7%D=7/14%Time=66934781%P=x86_64-alpine-linux-musl%r
+SF-Port80-TCP:V=7.92%I=7%D=7/21%Time=669C80F0%P=x86_64-alpine-linux-musl%r
 SF:(GetRequest,C0,"HTTP/1\.1\x20404\x20Not\x20Found\r\nConnection:\x20clos
-SF:e\r\nvia:\x201\.0\x20alproxy\r\ndate:\x20Sun,\x2014\x20Jul\x202024\x200
-SF:3:35:29\x20GMT\r\n\r\n<html><body><h1>Site\x20not\x20found</h1><p></p><
-SF:p>Request\x20ID:\x20e4b284cf-3405115e</p></body></html>")%r(HTTPOptions
+SF:e\r\nvia:\x201\.0\x20alproxy\r\ndate:\x20Sun,\x2021\x20Jul\x202024\x200
+SF:3:30:56\x20GMT\r\n\r\n<html><body><h1>Site\x20not\x20found</h1><p></p><
+SF:p>Request\x20ID:\x202a5089a0-f86323cf</p></body></html>")%r(HTTPOptions
 SF:,C0,"HTTP/1\.1\x20404\x20Not\x20Found\r\nConnection:\x20close\r\nvia:\x
-SF:201\.0\x20alproxy\r\ndate:\x20Sun,\x2014\x20Jul\x202024\x2003:35:29\x20
+SF:201\.0\x20alproxy\r\ndate:\x20Sun,\x2021\x20Jul\x202024\x2003:30:56\x20
 SF:GMT\r\n\r\n<html><body><h1>Site\x20not\x20found</h1><p></p><p>Request\x
-SF:20ID:\x209dde2f3f-cbcda9d3</p></body></html>")%r(RTSPRequest,77,"HTTP/1
+SF:20ID:\x20af8c5c19-45cada79</p></body></html>")%r(RTSPRequest,77,"HTTP/1
 SF:\.1\x20400\x20Bad\x20Request\r\nConnection:\x20close\r\nContent-Length:
 SF:\x2011\r\ncontent-type:\x20text/plain;\x20charset=utf-8\r\n\r\nBad\x20R
 SF:equest")%r(X11Probe,77,"HTTP/1\.1\x20400\x20Bad\x20Request\r\nConnectio
 SF:n:\x20close\r\nContent-Length:\x2011\r\ncontent-type:\x20text/plain;\x2
 SF:0charset=utf-8\r\n\r\nBad\x20Request")%r(FourOhFourRequest,C0,"HTTP/1\.
 SF:1\x20404\x20Not\x20Found\r\nConnection:\x20close\r\nvia:\x201\.0\x20alp
-SF:roxy\r\ndate:\x20Sun,\x2014\x20Jul\x202024\x2003:35:30\x20GMT\r\n\r\n<h
-SF:tml><body><h1>Site\x20not\x20found</h1><p></p><p>Request\x20ID:\x2089f0
-SF:4532-f8b87418</p></body></html>")%r(RPCCheck,77,"HTTP/1\.1\x20400\x20Ba
+SF:roxy\r\ndate:\x20Sun,\x2021\x20Jul\x202024\x2003:30:56\x20GMT\r\n\r\n<h
+SF:tml><body><h1>Site\x20not\x20found</h1><p></p><p>Request\x20ID:\x202d0f
+SF:98c3-a2d37726</p></body></html>")%r(RPCCheck,77,"HTTP/1\.1\x20400\x20Ba
 SF:d\x20Request\r\nConnection:\x20close\r\nContent-Length:\x2011\r\nconten
 SF:t-type:\x20text/plain;\x20charset=utf-8\r\n\r\nBad\x20Request")%r(DNSVe
 SF:rsionBindReqTCP,77,"HTTP/1\.1\x20400\x20Bad\x20Request\r\nConnection:\x
@@ -92,19 +92,19 @@ SF:=utf-8\r\n\r\nBad\x20Request")%r(SSLSessionReq,77,"HTTP/1\.1\x20400\x20
 SF:Bad\x20Request\r\nConnection:\x20close\r\nContent-Length:\x2011\r\ncont
 SF:ent-type:\x20text/plain;\x20charset=utf-8\r\n\r\nBad\x20Request");
 ==============NEXT SERVICE FINGERPRINT (SUBMIT INDIVIDUALLY)==============
-SF-Port443-TCP:V=7.92%T=SSL%I=7%D=7/14%Time=66934787%P=x86_64-alpine-linux
+SF-Port443-TCP:V=7.92%T=SSL%I=7%D=7/21%Time=669C80F6%P=x86_64-alpine-linux
 SF:-musl%r(GetRequest,C0,"HTTP/1\.1\x20404\x20Not\x20Found\r\nConnection:\
-SF:x20close\r\nvia:\x201\.0\x20alproxy\r\ndate:\x20Sun,\x2014\x20Jul\x2020
-SF:24\x2003:35:35\x20GMT\r\n\r\n<html><body><h1>Site\x20not\x20found</h1><
-SF:p></p><p>Request\x20ID:\x2010b5291f-b8c1f80f</p></body></html>")%r(HTTP
+SF:x20close\r\nvia:\x201\.0\x20alproxy\r\ndate:\x20Sun,\x2021\x20Jul\x2020
+SF:24\x2003:31:02\x20GMT\r\n\r\n<html><body><h1>Site\x20not\x20found</h1><
+SF:p></p><p>Request\x20ID:\x20ce038e8e-e1b69c35</p></body></html>")%r(HTTP
 SF:Options,C0,"HTTP/1\.1\x20404\x20Not\x20Found\r\nConnection:\x20close\r\
-SF:nvia:\x201\.0\x20alproxy\r\ndate:\x20Sun,\x2014\x20Jul\x202024\x2003:35
-SF::35\x20GMT\r\n\r\n<html><body><h1>Site\x20not\x20found</h1><p></p><p>Re
-SF:quest\x20ID:\x20175f751c-0d67531c</p></body></html>")%r(FourOhFourReque
+SF:nvia:\x201\.0\x20alproxy\r\ndate:\x20Sun,\x2021\x20Jul\x202024\x2003:31
+SF::02\x20GMT\r\n\r\n<html><body><h1>Site\x20not\x20found</h1><p></p><p>Re
+SF:quest\x20ID:\x20931aa06d-1abd1574</p></body></html>")%r(FourOhFourReque
 SF:st,C0,"HTTP/1\.1\x20404\x20Not\x20Found\r\nConnection:\x20close\r\nvia:
-SF:\x201\.0\x20alproxy\r\ndate:\x20Sun,\x2014\x20Jul\x202024\x2003:35:36\x
+SF:\x201\.0\x20alproxy\r\ndate:\x20Sun,\x2021\x20Jul\x202024\x2003:31:03\x
 SF:20GMT\r\n\r\n<html><body><h1>Site\x20not\x20found</h1><p></p><p>Request
-SF:\x20ID:\x20f979a183-4b63fdf9</p></body></html>")%r(tor-versions,77,"HTT
+SF:\x20ID:\x20ac48311d-10495367</p></body></html>")%r(tor-versions,77,"HTT
 SF:P/1\.1\x20400\x20Bad\x20Request\r\nConnection:\x20close\r\nContent-Leng
 SF:th:\x2011\r\ncontent-type:\x20text/plain;\x20charset=utf-8\r\n\r\nBad\x
 SF:20Request")%r(RTSPRequest,77,"HTTP/1\.1\x20400\x20Bad\x20Request\r\nCon
@@ -125,4 +125,4 @@ SF:011\r\ncontent-type:\x20text/plain;\x20charset=utf-8\r\n\r\nBad\x20Requ
 SF:est");
 
 Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
-# Nmap done at Sun Jul 14 03:35:50 2024 -- 1 IP address (1 host up) scanned in 40.28 seconds
+# Nmap done at Sun Jul 21 03:31:16 2024 -- 1 IP address (1 host up) scanned in 43.72 seconds
