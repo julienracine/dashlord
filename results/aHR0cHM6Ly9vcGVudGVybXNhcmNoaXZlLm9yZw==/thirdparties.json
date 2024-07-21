@@ -6,7 +6,7 @@
       "value": "1",
       "domain": "opentermsarchive.org",
       "path": "/",
-      "expires": 1720951419,
+      "expires": 1721555846,
       "size": 17,
       "httpOnly": false,
       "secure": false,
@@ -18,10 +18,10 @@
     },
     {
       "name": "_pk_id.179.cd52",
-      "value": "7beec98f4a9ae647.1720949619.",
+      "value": "2e50f3f77ba8e60e.1721554046.",
       "domain": "opentermsarchive.org",
       "path": "/",
-      "expires": 1754904819,
+      "expires": 1755509246,
       "size": 43,
       "httpOnly": false,
       "secure": false,
@@ -38,42 +38,29 @@
     "age": "0",
     "cache-control": "max-age=600",
     "content-encoding": "gzip",
-    "content-length": "10246",
+    "content-length": "10248",
     "content-type": "text/html; charset=utf-8",
-    "date": "Sun, 14 Jul 2024 09:33:38 GMT",
-    "etag": "W/\"6690f144-bd3d\"",
-    "expires": "Sun, 14 Jul 2024 09:40:05 GMT",
-    "last-modified": "Fri, 12 Jul 2024 09:03:00 GMT",
+    "date": "Sun, 21 Jul 2024 09:27:25 GMT",
+    "etag": "W/\"669696c7-bd3d\"",
+    "expires": "Sun, 21 Jul 2024 09:34:02 GMT",
+    "last-modified": "Tue, 16 Jul 2024 15:50:31 GMT",
     "server": "GitHub.com",
     "vary": "Accept-Encoding",
     "via": "1.1 varnish",
     "x-cache": "HIT",
     "x-cache-hits": "0",
-    "x-fastly-request-id": "b85e28633c087f862a4dc6d9b5630b91b67607d2",
-    "x-github-request-id": "4914:1A91C9:1323069:165218C:66939A9D",
-    "x-hosts-log-append": "pages_hosts_ips:",
+    "x-fastly-request-id": "35d328b62d9e7c19fbf0a81427ff10992d28903f",
+    "x-github-request-id": "2938:250F83:16EE96F:1BC3C13:669CD3B2",
+    "x-hosts-log-append": "pages_hosts_ips:{ [1] = 10.0.18.189,[2] = 10.0.34.202,[3] = 10.0.3.166,}",
     "x-proxy-cache": "MISS",
-    "x-served-by": "cache-iad-kcgs7200146-IAD",
-    "x-timer": "S1720949619.948124,VS0,VE7"
+    "x-served-by": "cache-chi-kigq8000142-CHI",
+    "x-timer": "S1721554046.548943,VS0,VE24"
   },
   "endpoints": [
     {
       "hostname": "opentermsarchive.org",
-      "ip": "185.199.109.153",
+      "ip": "185.199.108.153",
       "geoip": {
-        "city": {
-          "geoname_id": 5391959,
-          "names": {
-            "de": "San Francisco",
-            "en": "San Francisco",
-            "es": "San Francisco",
-            "fr": "San Francisco",
-            "ja": "サンフランシスコ",
-            "pt-BR": "São Francisco",
-            "ru": "Сан-Франциско",
-            "zh-CN": "旧金山"
-          }
-        },
         "continent": {
           "code": "NA",
           "geoname_id": 6255149,
@@ -103,14 +90,10 @@
           }
         },
         "location": {
-          "accuracy_radius": 20,
-          "latitude": 37.7642,
-          "longitude": -122.3993,
-          "metro_code": 807,
+          "accuracy_radius": 1000,
+          "latitude": 34.0544,
+          "longitude": -118.244,
           "time_zone": "America/Los_Angeles"
-        },
-        "postal": {
-          "code": "94107"
         },
         "registered_country": {
           "geoname_id": 6252001,
