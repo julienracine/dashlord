@@ -1,56 +1,25 @@
 {
   "trackers": [],
-  "cookies": [
-    {
-      "name": "_pk_ses.116.e5db",
-      "value": "1",
-      "domain": "anssi-mac-prod.osc-secnum-fr1.scalingo.io",
-      "path": "/",
-      "expires": 1720960848,
-      "size": 17,
-      "httpOnly": false,
-      "secure": false,
-      "session": false,
-      "sameSite": "Lax",
-      "sameParty": false,
-      "sourceScheme": "Secure",
-      "sourcePort": 443
-    },
-    {
-      "name": "_pk_id.116.e5db",
-      "value": "5f51bfe7200e3933.1720959049.",
-      "domain": "anssi-mac-prod.osc-secnum-fr1.scalingo.io",
-      "path": "/",
-      "expires": 1754914249,
-      "size": 43,
-      "httpOnly": false,
-      "secure": false,
-      "session": false,
-      "sameSite": "Lax",
-      "sameParty": false,
-      "sourceScheme": "Secure",
-      "sourcePort": 443
-    }
-  ],
+  "cookies": [],
   "headers": {
     "cache-control": "public, max-age=0",
     "content-encoding": "gzip",
     "content-security-policy": "default-src 'self'; script-src 'report-sample' 'self' https://stats.beta.gouv.fr/matomo.js https://stats.beta.gouv.fr/js/container_5FRF0Y8m.js https://stats.beta.gouv.fr/plugins/HeatmapSessionRecording/; style-src 'report-sample' 'self'; object-src 'none'; base-uri 'self'; connect-src 'self' https://stats.beta.gouv.fr; font-src 'self'; frame-src 'self'; img-src 'self' data: https; manifest-src 'self'; media-src 'self'; frame-ancestors 'none'; form-action 'self';",
     "content-type": "text/html; charset=UTF-8",
-    "date": "Sun, 14 Jul 2024 12:10:46 GMT",
-    "etag": "W/\"422-190a227e550\"",
-    "last-modified": "Thu, 11 Jul 2024 14:17:22 GMT",
+    "date": "Sun, 21 Jul 2024 12:16:34 GMT",
+    "etag": "W/\"422-190c167be40\"",
+    "last-modified": "Wed, 17 Jul 2024 15:55:20 GMT",
     "ratelimit-limit": "100",
-    "ratelimit-remaining": "77",
-    "ratelimit-reset": "45",
+    "ratelimit-remaining": "86",
+    "ratelimit-reset": "74",
     "strict-transport-security": "max-age=31536000\nmax-age=63072000; includeSubDomains; preload",
     "x-content-type-options": "nosniff",
-    "x-request-id": "746251d8-7bec-4b56-8299-0d24f5289029"
+    "x-request-id": "798bf2de-2070-431f-816c-058f30c1a77d"
   },
   "endpoints": [
     {
       "hostname": "anssi-mac-prod.osc-secnum-fr1.scalingo.io",
-      "ip": "80.247.12.255",
+      "ip": "185.21.194.105",
       "geoip": {
         "continent": {
           "code": "EU",
