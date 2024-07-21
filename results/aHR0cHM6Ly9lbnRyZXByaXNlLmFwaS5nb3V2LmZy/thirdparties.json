@@ -87,7 +87,7 @@
       "value": "1",
       "domain": "entreprise.api.gouv.fr",
       "path": "/",
-      "expires": 1720929734,
+      "expires": 1721534058,
       "size": 16,
       "httpOnly": false,
       "secure": false,
@@ -99,10 +99,10 @@
     },
     {
       "name": "_pk_id.45.28f1",
-      "value": "817e29c27b8643b2.1720927934.",
+      "value": "13861ce2d77e8ba8.1721532258.",
       "domain": "entreprise.api.gouv.fr",
       "path": "/",
-      "expires": 1754883134,
+      "expires": 1755487458,
       "size": 42,
       "httpOnly": false,
       "secure": false,
@@ -114,7 +114,7 @@
     },
     {
       "name": "_admin_apientreprise_session",
-      "value": "Qsyxtfh1TGE%2FNHNYfzh7O%2BhiI3obBUHtwoHMmdL3L7%2FkD7%2BUJ0xZpuB3cF4MdXm94%2ByS%2BUMXXUSgqec1sbHApAdfcJthNbHq8%2FxKv5%2FZAQx6umiXLiEYXrapGiahDnNj3bqCzFfdVADvyCnO6wA7vngrrkGsyvLQnByqsIikKM9vwHZauIrMdXdIZLZDi2Kjuyz3dKCSsL00ya9SjqKKVHMtWtzBkyDArw3TB7EPRdDn8wGt1N8XAfG6yBGmdwJqFInxZn05FTBXYScSGeLJRbMiJBNKIYB7BRgsEuVAxYNjMz4V--QOt32mpAhoh6XhCI--11qBGbQgPdbdDdzw%2BgJTNA%3D%3D",
+      "value": "yWaIJ%2FqonVA8Dfz2LjCm5mRtQQMm3mQ%2FiJzIDow83kHgufQ1ueelb8l04t4qmOOSovQ%2F3TjsSd7gQCNIDO6CkQ2bzYyu30UQYQYKRzXAt5JZWr87AlQmOr7Wlm%2FaLp4C%2BZM7P0K3xsDTZ3eJyoKzHixaGNUBqUSaoj6q2X0iEREpsCfC1Muh%2FT%2FF5Ypv332Q%2FJWOzBI6WOvggEXoGfDvpthHNNKPy0ZV0x87ny%2F5XDepqegp23wjFsUX7NP8b1XaygXY4kZoHeAk53dLHiDqH7sraCkGdJsCXAUOgZHZU9s4pXqm--7ItZu5ZBBSg6Ivag--gSWKxfhkYW4VxuJOlWstxA%3D%3D",
       "domain": "entreprise.api.gouv.fr",
       "path": "/",
       "expires": -1,
@@ -130,22 +130,22 @@
   ],
   "headers": {
     "connection": "keep-alive",
-    "content-length": "47837",
+    "content-length": "48640",
     "content-type": "text/html; charset=utf-8",
-    "date": "Sun, 14 Jul 2024 03:31:56 GMT",
+    "date": "Sun, 21 Jul 2024 03:23:52 GMT",
     "server": "nginx",
     "strict-transport-security": "max-age=63072000",
     "cache-control": "max-age=0, private, must-revalidate",
-    "etag": "W/\"a943afae523ec788f315bb81816fe12b\"",
+    "etag": "W/\"ccfe2444b334c30f8aa8181ded540ada\"",
     "link": "</assets/api_entreprise-72bfb4c5539d636bef9dafeedcf2ba00801f94d948ce29b54666f3d1d0762ecf.css>; rel=preload; as=style; nopush,</assets/api_entreprise-f1c38127d41d397825b021039e616a7c5331491084c8184c198f432417f600b8.js>; rel=preload; as=script; nopush,</assets/turbo-6f8f1796078d2d3f7cb9b6badcd2d5e76287a3c58d97baffaa59dd12bd4135f5.js>; rel=modulepreload; as=script; nopush",
     "referrer-policy": "strict-origin-when-cross-origin",
-    "set-cookie": "_admin_apientreprise_session=Qsyxtfh1TGE%2FNHNYfzh7O%2BhiI3obBUHtwoHMmdL3L7%2FkD7%2BUJ0xZpuB3cF4MdXm94%2ByS%2BUMXXUSgqec1sbHApAdfcJthNbHq8%2FxKv5%2FZAQx6umiXLiEYXrapGiahDnNj3bqCzFfdVADvyCnO6wA7vngrrkGsyvLQnByqsIikKM9vwHZauIrMdXdIZLZDi2Kjuyz3dKCSsL00ya9SjqKKVHMtWtzBkyDArw3TB7EPRdDn8wGt1N8XAfG6yBGmdwJqFInxZn05FTBXYScSGeLJRbMiJBNKIYB7BRgsEuVAxYNjMz4V--QOt32mpAhoh6XhCI--11qBGbQgPdbdDdzw%2BgJTNA%3D%3D; path=/; secure; httponly; samesite=lax",
+    "set-cookie": "_admin_apientreprise_session=yWaIJ%2FqonVA8Dfz2LjCm5mRtQQMm3mQ%2FiJzIDow83kHgufQ1ueelb8l04t4qmOOSovQ%2F3TjsSd7gQCNIDO6CkQ2bzYyu30UQYQYKRzXAt5JZWr87AlQmOr7Wlm%2FaLp4C%2BZM7P0K3xsDTZ3eJyoKzHixaGNUBqUSaoj6q2X0iEREpsCfC1Muh%2FT%2FF5Ypv332Q%2FJWOzBI6WOvggEXoGfDvpthHNNKPy0ZV0x87ny%2F5XDepqegp23wjFsUX7NP8b1XaygXY4kZoHeAk53dLHiDqH7sraCkGdJsCXAUOgZHZU9s4pXqm--7ItZu5ZBBSg6Ivag--gSWKxfhkYW4VxuJOlWstxA%3D%3D; path=/; secure; httponly; samesite=lax",
     "vary": "Origin",
     "x-content-type-options": "nosniff",
     "x-frame-options": "SAMEORIGIN",
     "x-permitted-cross-domain-policies": "none",
-    "x-request-id": "6dcdb97f-17fc-4170-827b-eba0e880248c",
-    "x-runtime": "0.084222",
+    "x-request-id": "77fbbbf1-e802-49ce-b91b-10d6692a59ef",
+    "x-runtime": "0.134371",
     "x-xss-protection": "0"
   },
   "endpoints": [
@@ -207,59 +207,8 @@
     },
     {
       "hostname": "cdn.jsdelivr.net",
-      "ip": "146.75.37.229",
+      "ip": "104.18.187.31",
       "geoip": {
-        "city": {
-          "geoname_id": 4744870,
-          "names": {
-            "de": "Ashburn",
-            "en": "Ashburn",
-            "es": "Ashburn",
-            "fr": "Ashburn",
-            "ja": "アッシュバーン",
-            "pt-BR": "Ashburn",
-            "ru": "Ашберн",
-            "zh-CN": "阿什本"
-          }
-        },
-        "continent": {
-          "code": "NA",
-          "geoname_id": 6255149,
-          "names": {
-            "de": "Nordamerika",
-            "en": "North America",
-            "es": "Norteamérica",
-            "fr": "Amérique du Nord",
-            "ja": "北アメリカ",
-            "pt-BR": "América do Norte",
-            "ru": "Северная Америка",
-            "zh-CN": "北美洲"
-          }
-        },
-        "country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
-          "names": {
-            "de": "USA",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
-          }
-        },
-        "location": {
-          "accuracy_radius": 20,
-          "latitude": 39.0469,
-          "longitude": -77.4903,
-          "metro_code": 511,
-          "time_zone": "America/New_York"
-        },
-        "postal": {
-          "code": "20149"
-        },
         "registered_country": {
           "geoname_id": 6252001,
           "iso_code": "US",
@@ -273,28 +222,12 @@
             "ru": "США",
             "zh-CN": "美国"
           }
-        },
-        "subdivisions": [
-          {
-            "geoname_id": 6254928,
-            "iso_code": "VA",
-            "names": {
-              "de": "Virginia",
-              "en": "Virginia",
-              "es": "Virginia",
-              "fr": "Virginie",
-              "ja": "バージニア州",
-              "pt-BR": "Virgínia",
-              "ru": "Вирджиния",
-              "zh-CN": "弗吉尼亚州"
-            }
-          }
-        ]
+        }
       }
     },
     {
       "hostname": "unpkg.com",
-      "ip": "104.17.249.203",
+      "ip": "104.17.246.203",
       "geoip": {
         "registered_country": {
           "geoname_id": 6252001,
@@ -401,14 +334,8 @@
     },
     {
       "hostname": "fonts.googleapis.com",
-      "ip": "142.251.16.95",
+      "ip": "142.250.191.234",
       "geoip": {
-        "city": {
-          "geoname_id": 5116931,
-          "names": {
-            "en": "Farmingdale"
-          }
-        },
         "continent": {
           "code": "NA",
           "geoname_id": 6255149,
@@ -439,13 +366,9 @@
         },
         "location": {
           "accuracy_radius": 1000,
-          "latitude": 40.7306,
-          "longitude": -73.4313,
-          "metro_code": 501,
-          "time_zone": "America/New_York"
-        },
-        "postal": {
-          "code": "11735"
+          "latitude": 37.751,
+          "longitude": -97.822,
+          "time_zone": "America/Chicago"
         },
         "registered_country": {
           "geoname_id": 6252001,
@@ -460,23 +383,7 @@
             "ru": "США",
             "zh-CN": "美国"
           }
-        },
-        "subdivisions": [
-          {
-            "geoname_id": 5128638,
-            "iso_code": "NY",
-            "names": {
-              "de": "New York",
-              "en": "New York",
-              "es": "Nueva York",
-              "fr": "New York",
-              "ja": "ニューヨーク州",
-              "pt-BR": "Nova Iorque",
-              "ru": "Нью-Йорк",
-              "zh-CN": "纽约州"
-            }
-          }
-        ]
+        }
       }
     }
   ]
