@@ -54,27 +54,27 @@
     },
     {
       "type": "unknown",
-      "url": "https://cdn.livestorm.co/dist/js/chunk-vendors.dcab36dd.js"
+      "url": "https://cdn.livestorm.co/dist/js/chunk-vendors.746be55c.js"
     },
     {
       "type": "unknown",
-      "url": "https://cdn.livestorm.co/dist/js/chunk-vendors-group-registration.0fff73a9.js"
+      "url": "https://cdn.livestorm.co/dist/js/chunk-vendors-group-registration.cc6ed69f.js"
     },
     {
       "type": "unknown",
-      "url": "https://cdn.livestorm.co/dist/js/chunk-company-vendors.afb0c8ee.js"
+      "url": "https://cdn.livestorm.co/dist/js/chunk-company-vendors.67d1dd90.js"
     },
     {
       "type": "unknown",
-      "url": "https://cdn.livestorm.co/dist/js/chunk-common.fa249de7.js"
+      "url": "https://cdn.livestorm.co/dist/js/chunk-common.58a3b0df.js"
     },
     {
       "type": "unknown",
-      "url": "https://cdn.livestorm.co/dist/js/runtime-company.8bb813f1.js"
+      "url": "https://cdn.livestorm.co/dist/js/runtime-company.7afa05ae.js"
     },
     {
       "type": "unknown",
-      "url": "https://cdn.livestorm.co/dist/js/company.f7b51695.js"
+      "url": "https://cdn.livestorm.co/dist/js/company.03645af6.js"
     },
     {
       "type": "google fonts",
@@ -90,7 +90,7 @@
     },
     {
       "type": "unknown",
-      "url": "https://cdn.livestorm.co/dist/js/chunk-locale-en.074c0b4c.js"
+      "url": "https://cdn.livestorm.co/dist/js/chunk-locale-en.eca2dd60.js"
     },
     {
       "type": "unknown",
@@ -148,10 +148,10 @@
   "cookies": [
     {
       "name": "csrftoken",
-      "value": "KslsEqzC8GAAiTknGPHVB7GPjwknVdjB",
+      "value": "4nRY5kzhYaPM2GhpQvfwn6IWUNuwkvwO",
       "domain": "pilotage.inclusion.beta.gouv.fr",
       "path": "/",
-      "expires": 1752385103.807751,
+      "expires": 1752989380.692469,
       "size": 41,
       "httpOnly": false,
       "secure": true,
@@ -167,10 +167,10 @@
     "content-length": "51448",
     "content-type": "text/html; charset=utf-8",
     "cross-origin-opener-policy": "same-origin",
-    "date": "Sun, 14 Jul 2024 05:38:23 GMT",
+    "date": "Sun, 21 Jul 2024 05:29:40 GMT",
     "referrer-policy": "same-origin",
-    "set-cookie": "csrftoken=KslsEqzC8GAAiTknGPHVB7GPjwknVdjB; expires=Sun, 13 Jul 2025 05:38:23 GMT; Max-Age=31449600; Path=/; SameSite=Lax; Secure",
-    "sozu-id": "01J2QVZNPE6Q6S3GJMG0TTZ8RE",
+    "set-cookie": "csrftoken=4nRY5kzhYaPM2GhpQvfwn6IWUNuwkvwO; expires=Sun, 20 Jul 2025 05:29:40 GMT; Max-Age=31449600; Path=/; SameSite=Lax; Secure",
+    "sozu-id": "01J39W8QT73EYJGN10GJ54147Z",
     "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
     "vary": "Cookie",
     "x-content-type-options": "nosniff",
@@ -179,7 +179,7 @@
   "endpoints": [
     {
       "hostname": "pilotage.inclusion.beta.gouv.fr",
-      "ip": "91.208.207.214",
+      "ip": "91.208.207.215",
       "geoip": {
         "continent": {
           "code": "EU",
@@ -235,7 +235,7 @@
     },
     {
       "hostname": "app.livestorm.co",
-      "ip": "54.171.50.108",
+      "ip": "52.51.74.43",
       "geoip": {
         "city": {
           "geoname_id": 2964574,
@@ -318,7 +318,7 @@
     },
     {
       "hostname": "cdn.jsdelivr.net",
-      "ip": "104.18.186.31",
+      "ip": "104.18.187.31",
       "geoip": {
         "registered_country": {
           "geoname_id": 6252001,
@@ -338,7 +338,7 @@
     },
     {
       "hostname": "fonts.googleapis.com",
-      "ip": "142.250.189.234",
+      "ip": "142.250.190.10",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -392,7 +392,7 @@
     },
     {
       "hostname": "cdn.livestorm.co",
-      "ip": "65.8.161.7",
+      "ip": "52.85.247.44",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -446,14 +446,8 @@
     },
     {
       "hostname": "fonts.gstatic.com",
-      "ip": "142.251.46.227",
+      "ip": "142.250.191.195",
       "geoip": {
-        "city": {
-          "geoname_id": 5116931,
-          "names": {
-            "en": "Farmingdale"
-          }
-        },
         "continent": {
           "code": "NA",
           "geoname_id": 6255149,
@@ -484,13 +478,9 @@
         },
         "location": {
           "accuracy_radius": 1000,
-          "latitude": 40.7306,
-          "longitude": -73.4313,
-          "metro_code": 501,
-          "time_zone": "America/New_York"
-        },
-        "postal": {
-          "code": "11735"
+          "latitude": 37.751,
+          "longitude": -97.822,
+          "time_zone": "America/Chicago"
         },
         "registered_country": {
           "geoname_id": 6252001,
@@ -505,23 +495,7 @@
             "ru": "США",
             "zh-CN": "美国"
           }
-        },
-        "subdivisions": [
-          {
-            "geoname_id": 5128638,
-            "iso_code": "NY",
-            "names": {
-              "de": "New York",
-              "en": "New York",
-              "es": "Nueva York",
-              "fr": "New York",
-              "ja": "ニューヨーク州",
-              "pt-BR": "Nova Iorque",
-              "ru": "Нью-Йорк",
-              "zh-CN": "纽约州"
-            }
-          }
-        ]
+        }
       }
     },
     {
