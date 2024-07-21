@@ -29,16 +29,16 @@
       }
     },
     {
+      "type": "unknown",
+      "url": "https://static.userguiding.com/media/sdk-006614964ID.json"
+    },
+    {
       "type": "crisp",
-      "url": "https://client.crisp.chat/settings/website/582ff50a-5ac4-4f38-a8bc-62f51beeef89/prelude/?callback=window.%24__CRISP_INSTANCE.__spool.website_prelude_handler&2024-6-14-10-10",
+      "url": "https://client.crisp.chat/settings/website/582ff50a-5ac4-4f38-a8bc-62f51beeef89/prelude/?callback=window.%24__CRISP_INSTANCE.__spool.website_prelude_handler&2024-6-21-10-12",
       "details": {
         "id": "crisp",
         "message": "Ensure your TOS notify the CRISP usage"
       }
-    },
-    {
-      "type": "unknown",
-      "url": "https://static.userguiding.com/media/sdk-006614964ID.json"
     },
     {
       "type": "google fonts",
@@ -66,7 +66,7 @@
     },
     {
       "type": "crisp",
-      "url": "https://client.crisp.chat/settings/website/582ff50a-5ac4-4f38-a8bc-62f51beeef89/?callback=window.%24__CRISP_INSTANCE.__spool.website_settings_handler&1720616322852",
+      "url": "https://client.crisp.chat/settings/website/582ff50a-5ac4-4f38-a8bc-62f51beeef89/?callback=window.%24__CRISP_INSTANCE.__spool.website_settings_handler&1721378989835",
       "details": {
         "id": "crisp",
         "message": "Ensure your TOS notify the CRISP usage"
@@ -86,14 +86,14 @@
     "alt-svc": "h3=\":443\"; ma=86400",
     "cache-control": "public, max-age=0",
     "cf-cache-status": "DYNAMIC",
-    "cf-ray": "8a30b8b3a8b23b3e-IAD",
+    "cf-ray": "8a6a69067fab0854-IAD",
     "content-encoding": "br",
     "content-type": "text/html; charset=UTF-8",
-    "date": "Sun, 14 Jul 2024 10:10:11 GMT",
-    "etag": "W/\"a93-190a146e7a8\"",
-    "last-modified": "Thu, 11 Jul 2024 10:11:37 GMT",
+    "date": "Sun, 21 Jul 2024 10:12:01 GMT",
+    "etag": "W/\"a93-190c6a2bb80\"",
+    "last-modified": "Thu, 18 Jul 2024 16:17:52 GMT",
     "server": "cloudflare",
-    "x-b3-traceid": "1ef3b99e655d475a",
+    "x-b3-traceid": "2ffb5c23a1be3fb6",
     "x-envoy-upstream-service-time": "81",
     "x-koyeb-backend": "par1",
     "x-koyeb-glb": "was1",
@@ -102,7 +102,7 @@
   "endpoints": [
     {
       "hostname": "app.territoiresentransitions.fr",
-      "ip": "104.22.79.190",
+      "ip": "172.67.24.44",
       "geoip": {
         "registered_country": {
           "geoname_id": 6252001,
@@ -142,7 +142,7 @@
     },
     {
       "hostname": "static.userguiding.com",
-      "ip": "104.26.5.5",
+      "ip": "172.67.70.147",
       "geoip": {
         "registered_country": {
           "geoname_id": 6252001,
@@ -162,7 +162,7 @@
     },
     {
       "hostname": "fonts.googleapis.com",
-      "ip": "142.251.163.95",
+      "ip": "142.251.179.95",
       "geoip": {
         "city": {
           "geoname_id": 5116931,
@@ -242,7 +242,7 @@
     },
     {
       "hostname": "userguiding.com",
-      "ip": "104.26.5.5",
+      "ip": "104.26.4.5",
       "geoip": {
         "registered_country": {
           "geoname_id": 6252001,
@@ -262,7 +262,7 @@
     },
     {
       "hostname": "uploads-ssl.webflow.com",
-      "ip": "18.165.83.94",
+      "ip": "18.165.83.98",
       "geoip": {
         "continent": {
           "code": "NA",
