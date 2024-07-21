@@ -7,7 +7,7 @@
     "content-type": "application/json",
     "country-package": "openfisca-france",
     "country-package-version": "167.1.0",
-    "date": "Sun, 14 Jul 2024 05:10:38 GMT",
+    "date": "Sun, 21 Jul 2024 05:03:16 GMT",
     "server": "nginx/1.18.0"
   },
   "endpoints": [
@@ -45,7 +45,7 @@
           }
         },
         "location": {
-          "accuracy_radius": 500,
+          "accuracy_radius": 200,
           "latitude": 48.8582,
           "longitude": 2.3387,
           "time_zone": "Europe/Paris"
