@@ -22,31 +22,43 @@
     },
     {
       "type": "unknown",
-      "url": "https://candidat.francetravail.fr/mobiville/static/css/main.68c52fa7.css"
+      "url": "https://cdn.francetravail.fr/studio/design-system/css/styles.css"
     },
     {
       "type": "unknown",
-      "url": "https://candidat.francetravail.fr/mobiville/static/js/main.0fbbff64.js"
+      "url": "https://candidat.francetravail.fr/mobiville/static/css/main.88de8868.css"
     },
     {
       "type": "unknown",
-      "url": "https://candidat.francetravail.fr/mobiville/static/js/592.9c544c5f.chunk.js"
+      "url": "https://candidat.francetravail.fr/mobiville/static/js/main.fd728c23.js"
     },
     {
       "type": "unknown",
-      "url": "https://candidat.francetravail.fr/mobiville/static/js/950.edac25d5.chunk.js"
+      "url": "https://cdn.francetravail.fr/error/409.html"
     },
     {
       "type": "unknown",
-      "url": "https://candidat.francetravail.fr/mobiville/static/css/551.247727f8.chunk.css"
+      "url": "https://candidat.francetravail.fr/mobiville/static/js/395.a720075a.chunk.js"
     },
     {
       "type": "unknown",
-      "url": "https://candidat.francetravail.fr/mobiville/static/js/551.e3bb9ee1.chunk.js"
+      "url": "https://candidat.francetravail.fr/mobiville/static/js/840.c0798549.chunk.js"
     },
     {
       "type": "unknown",
-      "url": "https://candidat.francetravail.fr/mobiville/static/media/roboto-v30-latin-regular.b009a76ad6afe4ebd301.woff2"
+      "url": "https://candidat.francetravail.fr/mobiville/static/css/551.a1a00321.chunk.css"
+    },
+    {
+      "type": "unknown",
+      "url": "https://candidat.francetravail.fr/mobiville/static/js/551.a2d5a06c.chunk.js"
+    },
+    {
+      "type": "google fonts",
+      "url": "https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu4mxK.woff2",
+      "details": {
+        "id": "google fonts",
+        "message": "Host the font locally with https://github.com/neverpanic/google-font-download or https://google-webfonts-helper.herokuapp.com/"
+      }
     },
     {
       "type": "unknown",
@@ -61,8 +73,12 @@
       "url": "https://cdn.tagcommander.com/4340/uat/tc_PoleEmploi_24.js"
     },
     {
-      "type": "unknown",
-      "url": "https://candidat.francetravail.fr/mobiville/static/media/roboto-v30-latin-regular.b009a76ad6afe4ebd301.woff2"
+      "type": "google fonts",
+      "url": "https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu4mxK.woff2",
+      "details": {
+        "id": "google fonts",
+        "message": "Host the font locally with https://github.com/neverpanic/google-font-download or https://google-webfonts-helper.herokuapp.com/"
+      }
     },
     {
       "type": "at-internet",
@@ -74,7 +90,15 @@
     },
     {
       "type": "unknown",
-      "url": "https://hd.pe.fr/event?s=475540&idclient=lylex2tq90jcftc7"
+      "url": "https://hd.pe.fr/event?s=475540&idclient=lyvey7mhea01fxzb"
+    },
+    {
+      "type": "unknown",
+      "url": "https://privacy.trustcommander.net/privacy-consent?site=4340"
+    },
+    {
+      "type": "unknown",
+      "url": "https://hd.pe.fr/event?s=475540&idclient=lyvey7mhea01fxzb"
     },
     {
       "type": "unknown",
@@ -90,15 +114,15 @@
     },
     {
       "type": "unknown",
-      "url": "https://candidat.francetravail.fr/mobiville/static/js/100.5ce3fae7.chunk.js"
+      "url": "https://candidat.francetravail.fr/mobiville/static/js/100.c36904a3.chunk.js"
     },
     {
       "type": "unknown",
-      "url": "https://candidat.francetravail.fr/mobiville/static/js/171.7d5db888.chunk.js"
+      "url": "https://candidat.francetravail.fr/mobiville/static/js/171.25b54386.chunk.js"
     },
     {
       "type": "unknown",
-      "url": "https://candidat.francetravail.fr/mobiville/static/js/46.1f594db1.chunk.js"
+      "url": "https://candidat.francetravail.fr/mobiville/static/js/46.54f2b57e.chunk.js"
     },
     {
       "type": "unknown",
@@ -110,7 +134,7 @@
     },
     {
       "type": "unknown",
-      "url": "https://candidat.francetravail.fr/mobiville/static/js/594.347bef56.chunk.js"
+      "url": "https://candidat.francetravail.fr/mobiville/static/js/594.c8ea3f9a.chunk.js"
     },
     {
       "type": "unknown",
@@ -118,59 +142,31 @@
     },
     {
       "type": "unknown",
-      "url": "https://privacy.trustcommander.net/privacy-consent?site=4340"
-    },
-    {
-      "type": "unknown",
-      "url": "https://hd.pe.fr/event?s=475540&idclient=lylex2tq90jcftc7"
-    },
-    {
-      "type": "unknown",
       "url": "https://candidat.francetravail.fr/mobiville/static/media/home-bg.4e918c4b2800bcb748fa.avif"
     },
     {
-      "type": "unknown",
-      "url": "https://candidat.francetravail.fr/mobiville/static/media/roboto-v30-latin-700.227c93190fe7f82de3f8.woff2"
+      "type": "google fonts",
+      "url": "https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfBBc4.woff2",
+      "details": {
+        "id": "google fonts",
+        "message": "Host the font locally with https://github.com/neverpanic/google-font-download or https://google-webfonts-helper.herokuapp.com/"
+      }
+    },
+    {
+      "type": "google fonts",
+      "url": "https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfBBc4.woff2",
+      "details": {
+        "id": "google fonts",
+        "message": "Host the font locally with https://github.com/neverpanic/google-font-download or https://google-webfonts-helper.herokuapp.com/"
+      }
     },
     {
       "type": "unknown",
-      "url": "https://candidat.francetravail.fr/mobiville/static/media/roboto-v30-latin-italic.e10742dbb1d4a0864ba8.woff2"
-    },
-    {
-      "type": "unknown",
-      "url": "https://candidat.francetravail.fr/mobiville/static/media/roboto-v30-latin-500.f25d774ecfe0996f8eb5.woff2"
-    },
-    {
-      "type": "unknown",
-      "url": "https://candidat.francetravail.fr/mobiville/static/media/roboto-v30-latin-700.227c93190fe7f82de3f8.woff2"
-    },
-    {
-      "type": "unknown",
-      "url": "https://candidat.francetravail.fr/mobiville/static/media/roboto-v30-latin-italic.e10742dbb1d4a0864ba8.woff2"
-    },
-    {
-      "type": "unknown",
-      "url": "https://candidat.francetravail.fr/mobiville/static/media/roboto-v30-latin-500.f25d774ecfe0996f8eb5.woff2"
-    },
-    {
-      "type": "unknown",
-      "url": "https://candidat.francetravail.fr/mobiville/static/media/roboto-v30-latin-700italic.d92a5d1451f249359639.woff2"
-    },
-    {
-      "type": "unknown",
-      "url": "https://candidat.francetravail.fr/mobiville/static/media/roboto-v30-latin-500italic.3a43b67e5bbdfb3ab0a6.woff2"
+      "url": "https://www.francetravail.fr/files/live/sites/PE/files/images/Logos/header-logo2021-pe-fr.svg"
     },
     {
       "type": "unknown",
       "url": "https://candidat.francetravail.fr/mobiville/api/helps/get-previews"
-    },
-    {
-      "type": "unknown",
-      "url": "https://candidat.francetravail.fr/mobiville/static/media/roboto-v30-latin-700italic.d92a5d1451f249359639.woff2"
-    },
-    {
-      "type": "unknown",
-      "url": "https://candidat.francetravail.fr/mobiville/static/media/roboto-v30-latin-500italic.3a43b67e5bbdfb3ab0a6.woff2"
     },
     {
       "type": "unknown",
@@ -194,6 +190,10 @@
     },
     {
       "type": "unknown",
+      "url": "https://candidat.francetravail.fr/mobiville/api/cities/autocomplete"
+    },
+    {
+      "type": "unknown",
       "url": "https://cdn.francetravail.fr/error/409.html"
     },
     {
@@ -203,20 +203,12 @@
     {
       "type": "unknown",
       "url": "https://www.francetravail.fr/files/live/sites/PE/files/images/Logos/header-logo2023-ft-fr.svg"
-    },
-    {
-      "type": "unknown",
-      "url": "https://www.francetravail.fr/files/live/sites/PE/files/images/Logos/header-logo2021-pe-fr.svg"
-    },
-    {
-      "type": "unknown",
-      "url": "https://candidat.francetravail.fr/mobiville/api/cities/autocomplete"
     }
   ],
   "cookies": [
     {
       "name": "TS016fc3b0",
-      "value": "0150c672c3663190a3b8ecc5bbc37be3a0ce97667abbee46aeba298fca8a2cf13bca70fcb8059400f87d4aba4f6e7a058c40e3fe7d",
+      "value": "0150c672c3d0eed016e2f2e0d18f2cde3adb8a535569ca525788f19df7a7590a8fd8ec1974b7cb4db3a9af0197ec3a853534e39779",
       "domain": ".candidat.francetravail.fr",
       "path": "/",
       "expires": -1,
@@ -261,10 +253,10 @@
     "cache-control": "no-store, no-cache, must-revalidate, proxy-revalidate, max-age=0",
     "content-encoding": "gzip",
     "content-type": "text/html",
-    "date": "Sun, 14 Jul 2024 10:28:12 GMT",
-    "last-modified": "Tue, 28 May 2024 09:21:34 GMT",
+    "date": "Sun, 21 Jul 2024 10:26:46 GMT",
+    "last-modified": "Tue, 16 Jul 2024 16:59:33 GMT",
     "referrer-policy": "no-referrer-when-downgrade",
-    "set-cookie": "Path=/; HttpOnly; Secure\nBIGipServerPOOL_Z2_PROD_MOP_HTTP=2023492362.20480.0000; path=/; Httponly; Secure\nTS016fc3b0=0150c672c3663190a3b8ecc5bbc37be3a0ce97667abbee46aeba298fca8a2cf13bca70fcb8059400f87d4aba4f6e7a058c40e3fe7d; Path=/; Domain=.candidat.francetravail.fr",
+    "set-cookie": "Path=/; HttpOnly; Secure\nBIGipServerPOOL_Z2_PROD_MOP_HTTP=2023492362.20480.0000; path=/; Httponly; Secure\nTS016fc3b0=0150c672c3d0eed016e2f2e0d18f2cde3adb8a535569ca525788f19df7a7590a8fd8ec1974b7cb4db3a9af0197ec3a853534e39779; Path=/; Domain=.candidat.francetravail.fr",
     "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
     "transfer-encoding": "chunked",
     "vary": "Accept-Encoding",
@@ -432,8 +424,14 @@
     },
     {
       "hostname": "fonts.googleapis.com",
-      "ip": "172.253.122.95",
+      "ip": "142.251.46.202",
       "geoip": {
+        "city": {
+          "geoname_id": 5116931,
+          "names": {
+            "en": "Farmingdale"
+          }
+        },
         "continent": {
           "code": "NA",
           "geoname_id": 6255149,
@@ -464,63 +462,13 @@
         },
         "location": {
           "accuracy_radius": 1000,
-          "latitude": 37.751,
-          "longitude": -97.822,
-          "time_zone": "America/Chicago"
+          "latitude": 40.7306,
+          "longitude": -73.4313,
+          "metro_code": 501,
+          "time_zone": "America/New_York"
         },
-        "registered_country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
-          "names": {
-            "de": "USA",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
-          }
-        }
-      }
-    },
-    {
-      "hostname": "cdn.tagcommander.com",
-      "ip": "192.229.163.55",
-      "geoip": {
-        "continent": {
-          "code": "NA",
-          "geoname_id": 6255149,
-          "names": {
-            "de": "Nordamerika",
-            "en": "North America",
-            "es": "Norteamérica",
-            "fr": "Amérique du Nord",
-            "ja": "北アメリカ",
-            "pt-BR": "América do Norte",
-            "ru": "Северная Америка",
-            "zh-CN": "北美洲"
-          }
-        },
-        "country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
-          "names": {
-            "de": "USA",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
-          }
-        },
-        "location": {
-          "accuracy_radius": 1000,
-          "latitude": 32.7797,
-          "longitude": -96.8022,
-          "time_zone": "America/Chicago"
+        "postal": {
+          "code": "11735"
         },
         "registered_country": {
           "geoname_id": 6252001,
@@ -538,128 +486,20 @@
         },
         "subdivisions": [
           {
-            "geoname_id": 4736286,
-            "iso_code": "TX",
+            "geoname_id": 5128638,
+            "iso_code": "NY",
             "names": {
-              "de": "Texas",
-              "en": "Texas",
-              "es": "Texas",
-              "fr": "Texas",
-              "ja": "テキサス州",
-              "pt-BR": "Texas",
-              "ru": "Техас",
-              "zh-CN": "得克萨斯州"
+              "de": "New York",
+              "en": "New York",
+              "es": "Nueva York",
+              "fr": "New York",
+              "ja": "ニューヨーク州",
+              "pt-BR": "Nova Iorque",
+              "ru": "Нью-Йорк",
+              "zh-CN": "纽约州"
             }
           }
         ]
-      }
-    },
-    {
-      "hostname": "tag.aticdn.net",
-      "ip": "18.160.18.104",
-      "geoip": {
-        "continent": {
-          "code": "NA",
-          "geoname_id": 6255149,
-          "names": {
-            "de": "Nordamerika",
-            "en": "North America",
-            "es": "Norteamérica",
-            "fr": "Amérique du Nord",
-            "ja": "北アメリカ",
-            "pt-BR": "América do Norte",
-            "ru": "Северная Америка",
-            "zh-CN": "北美洲"
-          }
-        },
-        "country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
-          "names": {
-            "de": "USA",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
-          }
-        },
-        "location": {
-          "accuracy_radius": 1000,
-          "latitude": 37.751,
-          "longitude": -97.822,
-          "time_zone": "America/Chicago"
-        },
-        "registered_country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
-          "names": {
-            "de": "USA",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
-          }
-        }
-      }
-    },
-    {
-      "hostname": "hd.pe.fr",
-      "ip": "18.160.18.7",
-      "geoip": {
-        "continent": {
-          "code": "NA",
-          "geoname_id": 6255149,
-          "names": {
-            "de": "Nordamerika",
-            "en": "North America",
-            "es": "Norteamérica",
-            "fr": "Amérique du Nord",
-            "ja": "北アメリカ",
-            "pt-BR": "América do Norte",
-            "ru": "Северная Америка",
-            "zh-CN": "北美洲"
-          }
-        },
-        "country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
-          "names": {
-            "de": "USA",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
-          }
-        },
-        "location": {
-          "accuracy_radius": 1000,
-          "latitude": 37.751,
-          "longitude": -97.822,
-          "time_zone": "America/Chicago"
-        },
-        "registered_country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
-          "names": {
-            "de": "USA",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
-          }
-        }
       }
     },
     {
@@ -761,6 +601,264 @@
             }
           }
         ]
+      }
+    },
+    {
+      "hostname": "fonts.gstatic.com",
+      "ip": "142.251.46.227",
+      "geoip": {
+        "city": {
+          "geoname_id": 5116931,
+          "names": {
+            "en": "Farmingdale"
+          }
+        },
+        "continent": {
+          "code": "NA",
+          "geoname_id": 6255149,
+          "names": {
+            "de": "Nordamerika",
+            "en": "North America",
+            "es": "Norteamérica",
+            "fr": "Amérique du Nord",
+            "ja": "北アメリカ",
+            "pt-BR": "América do Norte",
+            "ru": "Северная Америка",
+            "zh-CN": "北美洲"
+          }
+        },
+        "country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "USA",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        },
+        "location": {
+          "accuracy_radius": 1000,
+          "latitude": 40.7306,
+          "longitude": -73.4313,
+          "metro_code": 501,
+          "time_zone": "America/New_York"
+        },
+        "postal": {
+          "code": "11735"
+        },
+        "registered_country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "USA",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        },
+        "subdivisions": [
+          {
+            "geoname_id": 5128638,
+            "iso_code": "NY",
+            "names": {
+              "de": "New York",
+              "en": "New York",
+              "es": "Nueva York",
+              "fr": "New York",
+              "ja": "ニューヨーク州",
+              "pt-BR": "Nova Iorque",
+              "ru": "Нью-Йорк",
+              "zh-CN": "纽约州"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "hostname": "cdn.tagcommander.com",
+      "ip": "192.229.163.55",
+      "geoip": {
+        "continent": {
+          "code": "NA",
+          "geoname_id": 6255149,
+          "names": {
+            "de": "Nordamerika",
+            "en": "North America",
+            "es": "Norteamérica",
+            "fr": "Amérique du Nord",
+            "ja": "北アメリカ",
+            "pt-BR": "América do Norte",
+            "ru": "Северная Америка",
+            "zh-CN": "北美洲"
+          }
+        },
+        "country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "USA",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        },
+        "location": {
+          "accuracy_radius": 1000,
+          "latitude": 32.7797,
+          "longitude": -96.8022,
+          "time_zone": "America/Chicago"
+        },
+        "registered_country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "USA",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        },
+        "subdivisions": [
+          {
+            "geoname_id": 4736286,
+            "iso_code": "TX",
+            "names": {
+              "de": "Texas",
+              "en": "Texas",
+              "es": "Texas",
+              "fr": "Texas",
+              "ja": "テキサス州",
+              "pt-BR": "Texas",
+              "ru": "Техас",
+              "zh-CN": "得克萨斯州"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "hostname": "tag.aticdn.net",
+      "ip": "13.35.122.26",
+      "geoip": {
+        "continent": {
+          "code": "NA",
+          "geoname_id": 6255149,
+          "names": {
+            "de": "Nordamerika",
+            "en": "North America",
+            "es": "Norteamérica",
+            "fr": "Amérique du Nord",
+            "ja": "北アメリカ",
+            "pt-BR": "América do Norte",
+            "ru": "Северная Америка",
+            "zh-CN": "北美洲"
+          }
+        },
+        "country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "USA",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        },
+        "location": {
+          "accuracy_radius": 1000,
+          "latitude": 37.751,
+          "longitude": -97.822,
+          "time_zone": "America/Chicago"
+        },
+        "registered_country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "USA",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        }
+      }
+    },
+    {
+      "hostname": "hd.pe.fr",
+      "ip": "18.173.121.17",
+      "geoip": {
+        "continent": {
+          "code": "NA",
+          "geoname_id": 6255149,
+          "names": {
+            "de": "Nordamerika",
+            "en": "North America",
+            "es": "Norteamérica",
+            "fr": "Amérique du Nord",
+            "ja": "北アメリカ",
+            "pt-BR": "América do Norte",
+            "ru": "Северная Америка",
+            "zh-CN": "北美洲"
+          }
+        },
+        "country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "USA",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        },
+        "location": {
+          "accuracy_radius": 1000,
+          "latitude": 37.751,
+          "longitude": -97.822,
+          "time_zone": "America/Chicago"
+        },
+        "registered_country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "USA",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        }
       }
     },
     {
