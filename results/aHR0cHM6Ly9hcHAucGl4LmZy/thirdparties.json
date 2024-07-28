@@ -14,7 +14,7 @@
     },
     {
       "type": "unknown",
-      "url": "https://analytics.pix.fr/piwik.php?action_name=%2Fconnexion&idsite=3&rec=1&r=582734&h=1&m=54&s=50&url=https%3A%2F%2Fapp.pix.fr%2Fconnexion&_id=b8dc9650ecef68ce&_idn=1&send_image=0&_refts=0&cookie=1&res=800x600&pv_id=BitYIn&pf_net=0&pf_srv=99&pf_tfr=0&pf_dm1=682&pf_dm2=543&pf_onl=0"
+      "url": "https://analytics.pix.fr/piwik.php?action_name=%2Fconnexion&idsite=3&rec=1&r=368172&h=1&m=59&s=59&url=https%3A%2F%2Fapp.pix.fr%2Fconnexion&_id=481730562b5690ee&_idn=1&send_image=0&_refts=0&cookie=1&res=800x600&pv_id=hp5TLA&pf_net=0&pf_srv=106&pf_tfr=1&pf_dm1=680&pf_dm2=548&pf_onl=1"
     }
   ],
   "cookies": [
@@ -23,7 +23,7 @@
       "value": "fr-FR",
       "domain": ".pix.fr",
       "path": "/",
-      "expires": 1753062889.330404,
+      "expires": 1753667998.664709,
       "size": 11,
       "httpOnly": false,
       "secure": false,
@@ -35,10 +35,10 @@
     },
     {
       "name": "visit_baleen_ACM-655d43",
-      "value": "q8QlAktHqTNBC-r0rLFwP0V6UK1QOXe8pgwUNItIjPwUZm71lXZSs57XvXY8xkFp8UJ9fz48ZHfps-mEENuBXBOYJyrq-XJyQmMp6eZSHxlIP261hD3l9ir3OF1f67K3Dtcs_2t8kxf-8VfCkLCjnnQgYW_rIGjP1NC0vTqGQdpW2e2JoZh_MRx9oGFqTp7n617vHXAMoefV2majANJ2yR-kqzUEPphJPAYNDJKvYkc1FNM5fVZ5EjiT3t1_re-4",
+      "value": "q8QlAktHqTNBC-r0rLFwP0V6UK1QOXe8pgwUNItIjPwUZm71lXZSs57XvXY8xkFp8UJ9fz48ZHfps-mEENuBXBOYJyrq-XJyQmMp6eZSHxlIP261hD3l9ir3OF1f67K3Dtcs_2t8kxf-8VfCkLCjnnQgYW_rIGjP1NC0vTqGQdpW2e2JoZh_MRx9oGFqTp7n617vHXAMoefV2majANJ2yUNdIK9EmOsQ9a6k1sBe5FCr_VfQuKcvTTaE_VkpMop4",
       "domain": ".pix.fr",
       "path": "/",
-      "expires": 1721527788.22901,
+      "expires": 1722132897.543552,
       "size": 279,
       "httpOnly": false,
       "secure": false,
@@ -55,24 +55,24 @@
     "content-encoding": "gzip",
     "content-security-policy-report-only": "style-src 'self' 'unsafe-inline'; img-src 'self' https: data:; font-src 'self'; frame-src *.pix.fr data:; connect-src 'self' analytics.pix.fr; script-src 'self' analytics.pix.fr 'sha256-zzl6AXEYNbODqut4N1s48ebXWb9C1EcejDmXsYvw5uQ='; report-uri https://pix-report-csp-production.osc-secnum-fr1.scalingo.io",
     "content-type": "text/html; charset=utf-8",
-    "date": "Sun, 21 Jul 2024 01:54:48 GMT",
-    "etag": "W/\"669a5da5-1065\"",
-    "expires": "Sun, 21 Jul 2024 01:54:47 GMT",
-    "last-modified": "Fri, 19 Jul 2024 12:35:49 GMT",
+    "date": "Sun, 28 Jul 2024 01:59:57 GMT",
+    "etag": "W/\"66a39e90-1065\"",
+    "expires": "Sun, 28 Jul 2024 01:59:56 GMT",
+    "last-modified": "Fri, 26 Jul 2024 13:03:12 GMT",
     "referrer-policy": "origin-when-cross-origin",
     "strict-transport-security": "max-age=31536000",
     "vary": "Accept-Encoding",
     "x-content-type-options": "nosniff",
     "x-frame-options": "SAMEORIGIN",
-    "x-request-id": "9fb85dca14a7bc3bff2ae1ebe1b20c84",
+    "x-request-id": "967fa732496cff3924d3010ebcd0d487",
     "x-robots-tag": "noindex",
-    "x-varnish": "907972925",
+    "x-varnish": "223182082",
     "x-xss-protection": "1"
   },
   "endpoints": [
     {
       "hostname": "app.pix.fr",
-      "ip": "185.179.148.158",
+      "ip": "185.231.167.158",
       "geoip": {
         "continent": {
           "code": "EU",
@@ -128,14 +128,8 @@
     },
     {
       "hostname": "fonts.googleapis.com",
-      "ip": "142.251.179.95",
+      "ip": "172.253.115.95",
       "geoip": {
-        "city": {
-          "geoname_id": 5116931,
-          "names": {
-            "en": "Farmingdale"
-          }
-        },
         "continent": {
           "code": "NA",
           "geoname_id": 6255149,
@@ -166,13 +160,9 @@
         },
         "location": {
           "accuracy_radius": 1000,
-          "latitude": 40.7306,
-          "longitude": -73.4313,
-          "metro_code": 501,
-          "time_zone": "America/New_York"
-        },
-        "postal": {
-          "code": "11735"
+          "latitude": 37.751,
+          "longitude": -97.822,
+          "time_zone": "America/Chicago"
         },
         "registered_country": {
           "geoname_id": 6252001,
@@ -187,23 +177,7 @@
             "ru": "США",
             "zh-CN": "美国"
           }
-        },
-        "subdivisions": [
-          {
-            "geoname_id": 5128638,
-            "iso_code": "NY",
-            "names": {
-              "de": "New York",
-              "en": "New York",
-              "es": "Nueva York",
-              "fr": "New York",
-              "ja": "ニューヨーク州",
-              "pt-BR": "Nova Iorque",
-              "ru": "Нью-Йорк",
-              "zh-CN": "纽约州"
-            }
-          }
-        ]
+        }
       }
     },
     {
