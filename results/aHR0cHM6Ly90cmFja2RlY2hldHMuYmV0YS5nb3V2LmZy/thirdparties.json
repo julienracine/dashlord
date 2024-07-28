@@ -3,10 +3,10 @@
   "cookies": [
     {
       "name": "csrftoken",
-      "value": "x6qfGfPpmc5Y5ivXRTQRfbjLvUcOaIo0",
+      "value": "btDEr5mh2pYEtuZWQP9LCuMFvhTj1kCN",
       "domain": "trackdechets.beta.gouv.fr",
       "path": "/",
-      "expires": 1752992680.755211,
+      "expires": 1753605146.029515,
       "size": 41,
       "httpOnly": false,
       "secure": true,
@@ -22,20 +22,20 @@
     "content-security-policy": "font-src 'self' data: static/; script-src 'self' 'unsafe-inline' static/; default-src 'self' trackdechets.beta.gouv.fr/ blob:; frame-src 'self' https://statistiques.trackdechets.beta.gouv.fr; img-src 'self' data: static/; style-src 'self' 'unsafe-inline' static/; connect-src 'self'",
     "content-type": "text/html; charset=utf-8",
     "cross-origin-opener-policy": "same-origin",
-    "date": "Sun, 21 Jul 2024 06:24:40 GMT",
+    "date": "Sun, 28 Jul 2024 08:32:25 GMT",
     "permissions-policy": "accelerometer=(), ambient-light-sensor=(), autoplay=(), camera=(), display-capture=(), document-domain=(), encrypted-media=(), fullscreen=(), geolocation=(), gyroscope=(), interest-cohort=(), magnetometer=(), microphone=(), midi=(), payment=(), usb=()",
     "referrer-policy": "same-origin",
-    "set-cookie": "csrftoken=x6qfGfPpmc5Y5ivXRTQRfbjLvUcOaIo0; expires=Sun, 20 Jul 2025 06:24:40 GMT; Max-Age=31449600; Path=/; SameSite=Lax; Secure",
+    "set-cookie": "csrftoken=btDEr5mh2pYEtuZWQP9LCuMFvhTj1kCN; expires=Sun, 27 Jul 2025 08:32:25 GMT; Max-Age=31449600; Path=/; SameSite=Lax; Secure",
     "strict-transport-security": "max-age=15768000; includeSubDomains; preload",
     "vary": "Cookie, origin",
     "x-content-type-options": "nosniff",
     "x-frame-options": "DENY",
-    "x-request-id": "330f4e6c-8d6a-4657-ba6f-e8f146bd856e"
+    "x-request-id": "220009cb-3995-4f80-bd46-1e8ec01d1ac0"
   },
   "endpoints": [
     {
       "hostname": "trackdechets.beta.gouv.fr",
-      "ip": "5.104.101.30",
+      "ip": "109.232.236.90",
       "geoip": {
         "continent": {
           "code": "EU",
