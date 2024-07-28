@@ -10,7 +10,7 @@
     },
     {
       "type": "unknown",
-      "url": "https://candidat.francetravail.fr/simulation-ressources-formation/runtime.a7772e12ee7928b5.js"
+      "url": "https://candidat.francetravail.fr/simulation-ressources-formation/runtime.58cd35ad675f37cb.js"
     },
     {
       "type": "unknown",
@@ -30,7 +30,7 @@
     },
     {
       "type": "unknown",
-      "url": "https://candidat.francetravail.fr/simulation-ressources-formation/693.a20bd9433ebcab5a.js"
+      "url": "https://candidat.francetravail.fr/simulation-ressources-formation/693.a7d32827f02e55cd.js"
     },
     {
       "type": "unknown",
@@ -38,7 +38,7 @@
     },
     {
       "type": "unknown",
-      "url": "https://candidat.francetravail.fr/simulation-ressources-formation/564.7e6e551467f1fb08.js"
+      "url": "https://candidat.francetravail.fr/simulation-ressources-formation/564.b8b9679aa82b9dbd.js"
     },
     {
       "type": "unknown",
@@ -73,18 +73,6 @@
       "url": "https://candidat.francetravail.fr/simulation-ressources-formation/roboto-light-webfont.307a1a11c1d7ea10.woff2"
     },
     {
-      "type": "at-internet",
-      "url": "https://tag.aticdn.net/js-sdk/piano-analytics-6.8.3.js",
-      "details": {
-        "id": "at-internet",
-        "message": "Ensure your TOS notify the AT internet usage"
-      }
-    },
-    {
-      "type": "unknown",
-      "url": "https://candidat.francetravail.fr/simulation-ressources-formation/roboto-light-webfont.cdd5202a269193a5.woff"
-    },
-    {
       "type": "unknown",
       "url": "https://candidat.francetravail.fr/portail-simulateurs/runtime.badd969d8d3f50ad.js"
     },
@@ -94,7 +82,7 @@
     },
     {
       "type": "unknown",
-      "url": "https://candidat.francetravail.fr/portail-simulateurs/main.84cbe1f4b529a8c4.js"
+      "url": "https://candidat.francetravail.fr/portail-simulateurs/main.199540311448bb4e.js"
     },
     {
       "type": "unknown",
@@ -115,6 +103,10 @@
     {
       "type": "unknown",
       "url": "https://candidat.francetravail.fr/portail-simulateurs/527.262f7518cb30f11f.js"
+    },
+    {
+      "type": "unknown",
+      "url": "https://cdn.tagcommander.com/4340/tc_PoleEmploi_24.js"
     },
     {
       "type": "unknown",
@@ -153,14 +145,6 @@
       "url": "https://candidat.francetravail.fr/portail-simulateurs/roboto-bold-webfont.f52d56320d58032f.woff2"
     },
     {
-      "type": "at-internet",
-      "url": "https://tag.aticdn.net/js-sdk/piano-analytics-6.8.3.js",
-      "details": {
-        "id": "at-internet",
-        "message": "Ensure your TOS notify the AT internet usage"
-      }
-    },
-    {
       "type": "unknown",
       "url": "https://candidat.francetravail.fr/portail-simulateurs/icons.7ae89a99da6cadce.ttf?wekjvp"
     },
@@ -181,8 +165,24 @@
       "url": "https://candidat.francetravail.fr/portail-simulateurs/roboto-bold-webfont.f52d56320d58032f.woff2"
     },
     {
+      "type": "at-internet",
+      "url": "https://tag.aticdn.net/js-sdk/piano-analytics-6.8.3.js",
+      "details": {
+        "id": "at-internet",
+        "message": "Ensure your TOS notify the AT internet usage"
+      }
+    },
+    {
       "type": "unknown",
-      "url": "https://hd.pe.fr/event?s=475540&idclient=lyvewzdqed3pq3dx"
+      "url": "https://hd.pe.fr/event?s=475540&idclient=lz5ntyssuu046rhz"
+    },
+    {
+      "type": "unknown",
+      "url": "https://www.francetravail.fr/files/live/sites/PE/files/images/Logos/header-logo2021-marianne.svg"
+    },
+    {
+      "type": "unknown",
+      "url": "https://www.francetravail.fr/files/live/sites/PE/files/images/Logos/header-logo2023-ft-fr.svg"
     },
     {
       "type": "unknown",
@@ -190,17 +190,13 @@
     },
     {
       "type": "unknown",
-      "url": "https://hd.pe.fr/event?s=475540&idclient=lyvewzdqed3pq3dx"
-    },
-    {
-      "type": "unknown",
-      "url": "https://www.francetravail.fr/files/live/sites/PE/files/images/Logos/header-logo2021-pe-fr.svg"
+      "url": "https://hd.pe.fr/event?s=475540&idclient=lz5ntyssuu046rhz"
     }
   ],
   "cookies": [
     {
       "name": "BIGipServerPOOL_TAS_SDDC_HTTP",
-      "value": "1788021514.20480.0000",
+      "value": "1687358218.20480.0000",
       "domain": "candidat.francetravail.fr",
       "path": "/",
       "expires": -1,
@@ -216,14 +212,14 @@
   "headers": {
     "content-encoding": "gzip",
     "content-type": "text/html; charset=utf-8",
-    "date": "Sun, 21 Jul 2024 10:25:47 GMT",
-    "last-modified": "Tue, 16 Jul 2024 14:40:42 GMT",
-    "set-cookie": "BIGipServerPOOL_TAS_SDDC_HTTP=1788021514.20480.0000; path=/; Httponly; Secure\nTS01fca309=0150c672c3ea9fe8e1b08a0d955d73a912eb528030e98df2671a77ae681bb10500e566e1a3f0c1b2117354595ac9925dfd22b3eb40; Path=/; Domain=.pn307-estimeformation-prod.apps.tas-prod.pole-emploi.intra",
+    "date": "Sun, 28 Jul 2024 14:33:04 GMT",
+    "last-modified": "Fri, 19 Jul 2024 14:25:07 GMT",
+    "set-cookie": "BIGipServerPOOL_TAS_SDDC_HTTP=1687358218.20480.0000; path=/; Httponly; Secure\nTS01fca309=0150c672c3b955249502a24629e3ff92bc656fc3301930425ac59cf197457c01ed41ff2a7c54709811b27e616d7448c0e2ccd85afe; Path=/; Domain=.pn307-estimeformation-prod.apps.tas-prod.pole-emploi.intra",
     "transfer-encoding": "chunked",
     "vary": "Accept-Encoding",
     "x-content-type-options": "nosniff'",
     "x-robots-tag": "noindex, nofollow, nosnippet, noarchive",
-    "x-vcap-request-id": "e4972a01-8f81-4993-4c3c-eb7dcb755a22"
+    "x-vcap-request-id": "0720c1ea-56d3-4010-6a9c-1449de8e4d45"
   },
   "endpoints": [
     {
@@ -499,60 +495,6 @@
       }
     },
     {
-      "hostname": "tag.aticdn.net",
-      "ip": "18.160.18.104",
-      "geoip": {
-        "continent": {
-          "code": "NA",
-          "geoname_id": 6255149,
-          "names": {
-            "de": "Nordamerika",
-            "en": "North America",
-            "es": "Norteamérica",
-            "fr": "Amérique du Nord",
-            "ja": "北アメリカ",
-            "pt-BR": "América do Norte",
-            "ru": "Северная Америка",
-            "zh-CN": "北美洲"
-          }
-        },
-        "country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
-          "names": {
-            "de": "USA",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
-          }
-        },
-        "location": {
-          "accuracy_radius": 1000,
-          "latitude": 37.751,
-          "longitude": -97.822,
-          "time_zone": "America/Chicago"
-        },
-        "registered_country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
-          "names": {
-            "de": "USA",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
-          }
-        }
-      }
-    },
-    {
       "hostname": "api.francetravail.fr",
       "ip": "185.215.64.96",
       "geoip": {
@@ -654,8 +596,8 @@
       }
     },
     {
-      "hostname": "hd.pe.fr",
-      "ip": "18.160.18.49",
+      "hostname": "tag.aticdn.net",
+      "ip": "108.156.91.67",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -708,59 +650,42 @@
       }
     },
     {
-      "hostname": "privacy.trustcommander.net",
-      "ip": "13.36.137.63",
+      "hostname": "hd.pe.fr",
+      "ip": "18.160.213.125",
       "geoip": {
-        "city": {
-          "geoname_id": 2988507,
-          "names": {
-            "de": "Paris",
-            "en": "Paris",
-            "es": "París",
-            "fr": "Paris",
-            "ja": "パリ",
-            "pt-BR": "Paris",
-            "ru": "Париж",
-            "zh-CN": "巴黎"
-          }
-        },
         "continent": {
-          "code": "EU",
-          "geoname_id": 6255148,
+          "code": "NA",
+          "geoname_id": 6255149,
           "names": {
-            "de": "Europa",
-            "en": "Europe",
-            "es": "Europa",
-            "fr": "Europe",
-            "ja": "ヨーロッパ",
-            "pt-BR": "Europa",
-            "ru": "Европа",
-            "zh-CN": "欧洲"
+            "de": "Nordamerika",
+            "en": "North America",
+            "es": "Norteamérica",
+            "fr": "Amérique du Nord",
+            "ja": "北アメリカ",
+            "pt-BR": "América do Norte",
+            "ru": "Северная Америка",
+            "zh-CN": "北美洲"
           }
         },
         "country": {
-          "geoname_id": 3017382,
-          "is_in_european_union": true,
-          "iso_code": "FR",
+          "geoname_id": 6252001,
+          "iso_code": "US",
           "names": {
-            "de": "Frankreich",
-            "en": "France",
-            "es": "Francia",
-            "fr": "France",
-            "ja": "フランス共和国",
-            "pt-BR": "França",
-            "ru": "Франция",
-            "zh-CN": "法国"
+            "de": "USA",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
           }
         },
         "location": {
-          "accuracy_radius": 500,
-          "latitude": 48.8323,
-          "longitude": 2.4075,
-          "time_zone": "Europe/Paris"
-        },
-        "postal": {
-          "code": "75001"
+          "accuracy_radius": 1000,
+          "latitude": 37.751,
+          "longitude": -97.822,
+          "time_zone": "America/Chicago"
         },
         "registered_country": {
           "geoname_id": 6252001,
@@ -775,33 +700,7 @@
             "ru": "США",
             "zh-CN": "美国"
           }
-        },
-        "subdivisions": [
-          {
-            "geoname_id": 3012874,
-            "iso_code": "IDF",
-            "names": {
-              "de": "Île-de-France",
-              "en": "Île-de-France",
-              "es": "Isla de Francia",
-              "fr": "Île-de-France",
-              "ja": "イル・ド・フランス",
-              "pt-BR": "Ilha de França",
-              "ru": "Иль-де-Франс",
-              "zh-CN": "法兰西岛"
-            }
-          },
-          {
-            "geoname_id": 2968815,
-            "iso_code": "75",
-            "names": {
-              "de": "Paris",
-              "en": "Paris",
-              "es": "Paris",
-              "fr": "Paris"
-            }
-          }
-        ]
+        }
       }
     },
     {
@@ -900,6 +799,103 @@
               "pt-BR": "Altos do Sena",
               "ru": "О-де-Сен",
               "zh-CN": "上塞纳省"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "hostname": "privacy.trustcommander.net",
+      "ip": "15.188.226.251",
+      "geoip": {
+        "city": {
+          "geoname_id": 2988507,
+          "names": {
+            "de": "Paris",
+            "en": "Paris",
+            "es": "París",
+            "fr": "Paris",
+            "ja": "パリ",
+            "pt-BR": "Paris",
+            "ru": "Париж",
+            "zh-CN": "巴黎"
+          }
+        },
+        "continent": {
+          "code": "EU",
+          "geoname_id": 6255148,
+          "names": {
+            "de": "Europa",
+            "en": "Europe",
+            "es": "Europa",
+            "fr": "Europe",
+            "ja": "ヨーロッパ",
+            "pt-BR": "Europa",
+            "ru": "Европа",
+            "zh-CN": "欧洲"
+          }
+        },
+        "country": {
+          "geoname_id": 3017382,
+          "is_in_european_union": true,
+          "iso_code": "FR",
+          "names": {
+            "de": "Frankreich",
+            "en": "France",
+            "es": "Francia",
+            "fr": "France",
+            "ja": "フランス共和国",
+            "pt-BR": "França",
+            "ru": "Франция",
+            "zh-CN": "法国"
+          }
+        },
+        "location": {
+          "accuracy_radius": 500,
+          "latitude": 48.8323,
+          "longitude": 2.4075,
+          "time_zone": "Europe/Paris"
+        },
+        "postal": {
+          "code": "75001"
+        },
+        "registered_country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "USA",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        },
+        "subdivisions": [
+          {
+            "geoname_id": 3012874,
+            "iso_code": "IDF",
+            "names": {
+              "de": "Île-de-France",
+              "en": "Île-de-France",
+              "es": "Isla de Francia",
+              "fr": "Île-de-France",
+              "ja": "イル・ド・フランス",
+              "pt-BR": "Ilha de França",
+              "ru": "Иль-де-Франс",
+              "zh-CN": "法兰西岛"
+            }
+          },
+          {
+            "geoname_id": 2968815,
+            "iso_code": "75",
+            "names": {
+              "de": "Paris",
+              "en": "Paris",
+              "es": "Paris",
+              "fr": "Paris"
             }
           }
         ]
