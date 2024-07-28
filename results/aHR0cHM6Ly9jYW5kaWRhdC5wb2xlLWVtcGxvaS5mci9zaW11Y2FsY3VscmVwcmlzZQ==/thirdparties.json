@@ -18,7 +18,7 @@
     },
     {
       "type": "unknown",
-      "url": "https://candidat.francetravail.fr/portail-simulateurs/main.84cbe1f4b529a8c4.js"
+      "url": "https://candidat.francetravail.fr/portail-simulateurs/main.199540311448bb4e.js"
     },
     {
       "type": "unknown",
@@ -110,7 +110,7 @@
     },
     {
       "type": "unknown",
-      "url": "https://hd.pe.fr/event?s=475540&idclient=lyvehb0phhpu8163"
+      "url": "https://hd.pe.fr/event?s=475540&idclient=lz5nnt0e98svayjk"
     },
     {
       "type": "unknown",
@@ -126,13 +126,13 @@
     },
     {
       "type": "unknown",
-      "url": "https://hd.pe.fr/event?s=475540&idclient=lyvehb0phhpu8163"
+      "url": "https://hd.pe.fr/event?s=475540&idclient=lz5nnt0e98svayjk"
     }
   ],
   "cookies": [
     {
       "name": "BIGipServerPOOL_TAS_SDDC_HTTP",
-      "value": "1754467082.20480.0000",
+      "value": "1804798730.20480.0000",
       "domain": "candidat.francetravail.fr",
       "path": "/",
       "expires": -1,
@@ -148,14 +148,14 @@
   "headers": {
     "content-encoding": "gzip",
     "content-type": "text/html; charset=utf-8",
-    "date": "Sun, 21 Jul 2024 10:13:37 GMT",
-    "last-modified": "Tue, 16 Jul 2024 14:24:31 GMT",
-    "set-cookie": "BIGipServerPOOL_TAS_SDDC_HTTP=1754467082.20480.0000; path=/; Httponly; Secure\nTS011b8e23=0150c672c3559b33c93321335a1be8a2a52b98b06cbe6a1f64d27410416c2fb219ba970fda2766f5b7f0c72838bea46a2875d7b978; Path=/; Domain=.pn322-portailsimulateurs-prod.apps.tas-prod.pole-emploi.intra",
+    "date": "Sun, 28 Jul 2024 14:28:18 GMT",
+    "last-modified": "Fri, 19 Jul 2024 14:23:25 GMT",
+    "set-cookie": "BIGipServerPOOL_TAS_SDDC_HTTP=1804798730.20480.0000; path=/; Httponly; Secure\nTS011b8e23=0150c672c3e2f04b49029d0c958db89348b9a9c963a8f4d904fce2acda229b068c93819467e733ae9fa79465f730ec69f166c983df; Path=/; Domain=.pn322-portailsimulateurs-prod.apps.tas-prod.pole-emploi.intra",
     "transfer-encoding": "chunked",
     "vary": "Accept-Encoding",
     "x-content-type-options": "nosniff'",
     "x-robots-tag": "noindex, noarchive, nofollow, nosnippet",
-    "x-vcap-request-id": "930a86ad-2277-4dfa-6162-e45a9bc2dcf5"
+    "x-vcap-request-id": "3d7fb41f-69ee-42fd-7707-573d7f9f78b4"
   },
   "endpoints": [
     {
@@ -533,7 +533,7 @@
     },
     {
       "hostname": "tag.aticdn.net",
-      "ip": "18.160.18.7",
+      "ip": "108.156.91.113",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -587,7 +587,7 @@
     },
     {
       "hostname": "hd.pe.fr",
-      "ip": "18.160.18.7",
+      "ip": "18.160.213.127",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -742,7 +742,7 @@
     },
     {
       "hostname": "privacy.trustcommander.net",
-      "ip": "35.180.217.105",
+      "ip": "35.181.10.206",
       "geoip": {
         "city": {
           "geoname_id": 2988507,
