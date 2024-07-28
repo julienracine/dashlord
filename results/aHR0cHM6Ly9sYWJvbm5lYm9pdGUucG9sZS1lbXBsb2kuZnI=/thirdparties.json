@@ -94,7 +94,7 @@
     },
     {
       "type": "unknown",
-      "url": "https://hd.pe.fr/event?s=475540&idclient=lyvfldaafm9n5g9p"
+      "url": "https://hd.pe.fr/event?s=475540&idclient=lz5osrapnlgk774q"
     },
     {
       "type": "unknown",
@@ -140,11 +140,11 @@
   "cookies": [
     {
       "name": "_pctx",
-      "value": "%7Bu%7DN4IgrgzgpgThIC4B2YA2qA05owMoBcBDfSREQpAeyRCwgEt8oBJAE0RXSwH18yBbKACsw9MPyEgAvkA",
+      "value": "%7Bu%7DN4IgrgzgpgThIC4B2YA2qA05owMoBcBDfSREQpAeyRCwgEt8oBJAE0RXSwH18yBbKGADMARwAc-AJ4gAvkA",
       "domain": ".francetravail.fr",
       "path": "/",
-      "expires": 1755686688,
-      "size": 91,
+      "expires": 1756306811,
+      "size": 95,
       "httpOnly": false,
       "secure": true,
       "session": false,
@@ -155,10 +155,10 @@
     },
     {
       "name": "_pcid",
-      "value": "%7B%22browserId%22%3A%22lyvfldaafm9n5g9p%22%2C%22_t%22%3A%22mejuiumi%22%7D",
+      "value": "%7B%22browserId%22%3A%22lz5osrapnlgk774q%22%2C%22_t%22%3A%22meu3q8mx%22%7D",
       "domain": ".francetravail.fr",
       "path": "/",
-      "expires": 1755686688,
+      "expires": 1756306811,
       "size": 79,
       "httpOnly": false,
       "secure": true,
@@ -170,11 +170,11 @@
     },
     {
       "name": "TCPID",
-      "value": "124701044485554724995",
+      "value": "12470150113965599797",
       "domain": ".francetravail.fr",
       "path": "/",
-      "expires": 1755513888,
-      "size": 26,
+      "expires": 1756134011,
+      "size": 25,
       "httpOnly": false,
       "secure": true,
       "session": false,
@@ -188,7 +188,7 @@
       "value": "%22exempt%22",
       "domain": ".francetravail.fr",
       "path": "/",
-      "expires": 1755686688,
+      "expires": 1756306811,
       "size": 22,
       "httpOnly": false,
       "secure": true,
@@ -204,8 +204,8 @@
     "content-encoding": "gzip",
     "content-security-policy": "script-src 'self' 'unsafe-inline' 'unsafe-eval' blob: maps.pole-emploi.fr cdn.trustcommander.net cdn.tagcommander.com tag.aticdn.net guidances-applicatives.pole-emploi.fr https://*.mopinion.com/ composants-pe-communs.pole-emploi.fr;",
     "content-type": "text/html; charset=utf-8",
-    "date": "Sun, 21 Jul 2024 10:44:47 GMT",
-    "etag": "W/\"1afd9-b1OxClqY+1sdO22f1uQb9y3e59Y\"",
+    "date": "Sun, 28 Jul 2024 15:00:10 GMT",
+    "etag": "W/\"1afd9-hh4WzhrHqzYK0ThF48e18pVuAkw\"",
     "referrer-policy": "strict-origin",
     "strict-transport-security": "max-age=31536000; includeSubDomains",
     "transfer-encoding": "chunked",
@@ -400,7 +400,7 @@
     },
     {
       "hostname": "tag.aticdn.net",
-      "ip": "13.35.122.2",
+      "ip": "18.160.18.104",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -454,7 +454,7 @@
     },
     {
       "hostname": "hd.pe.fr",
-      "ip": "18.173.121.17",
+      "ip": "18.160.18.49",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -508,7 +508,7 @@
     },
     {
       "hostname": "privacy.trustcommander.net",
-      "ip": "13.36.137.63",
+      "ip": "35.181.10.206",
       "geoip": {
         "city": {
           "geoname_id": 2988507,
@@ -605,7 +605,7 @@
     },
     {
       "hostname": "fonts.gstatic.com",
-      "ip": "142.250.191.67",
+      "ip": "172.217.1.99",
       "geoip": {
         "continent": {
           "code": "NA",
