@@ -54,7 +54,7 @@
 <h1>Scan Report<br><small>Nmap 7.92</small>
 </h1>
 <pre style="white-space:pre-wrap; word-wrap:break-word;">nmap -sV --script vulners --script-args mincvss=5.0 -oA /data/nmapvuln mobilic.beta.gouv.fr</pre>
-<p class="lead">Sun Jul 21 04:37:23 2024 – Sun Jul 21 04:38:10 2024<br>1 hosts scanned.
+<p class="lead">Sun Jul 28 05:40:08 2024 – Sun Jul 28 05:40:56 2024<br>1 hosts scanned.
               1 hosts up.
               0 hosts down.
             </p>
@@ -121,7 +121,7 @@
 <pre style="white-space:pre-wrap; word-wrap:break-word;">
   FourOhFourRequest: 
     HTTP/1.1 301 Moved Permanently
-    Date: Sun, 21 Jul 2024 04:37:41 GMT
+    Date: Sun, 28 Jul 2024 05:40:27 GMT
     Content-Type: text/html
     Content-Length: 166
     Connection: close
@@ -133,9 +133,23 @@
     &lt;hr&gt;&lt;center&gt;openresty&lt;/center&gt;
     &lt;/body&gt;
     &lt;/html&gt;
-  GetRequest, HTTPOptions: 
+  GetRequest: 
     HTTP/1.1 301 Moved Permanently
-    Date: Sun, 21 Jul 2024 04:37:40 GMT
+    Date: Sun, 28 Jul 2024 05:40:25 GMT
+    Content-Type: text/html
+    Content-Length: 166
+    Connection: close
+    Location: https://mobilic.beta.gouv.fr/
+    &lt;html&gt;
+    &lt;head&gt;&lt;title&gt;301 Moved Permanently&lt;/title&gt;&lt;/head&gt;
+    &lt;body&gt;
+    &lt;center&gt;&lt;h1&gt;301 Moved Permanently&lt;/h1&gt;&lt;/center&gt;
+    &lt;hr&gt;&lt;center&gt;openresty&lt;/center&gt;
+    &lt;/body&gt;
+    &lt;/html&gt;
+  HTTPOptions: 
+    HTTP/1.1 301 Moved Permanently
+    Date: Sun, 28 Jul 2024 05:40:26 GMT
     Content-Type: text/html
     Content-Length: 166
     Connection: close
@@ -149,7 +163,7 @@
     &lt;/html&gt;
   RTSPRequest, X11Probe: 
     HTTP/1.1 400 Bad Request
-    Date: Sun, 21 Jul 2024 04:37:41 GMT
+    Date: Sun, 28 Jul 2024 05:40:26 GMT
     Content-Type: text/html
     Content-Length: 154
     Connection: close
@@ -175,7 +189,7 @@
 <pre style="white-space:pre-wrap; word-wrap:break-word;">
   GetRequest: 
     HTTP/1.1 200 OK
-    Date: Sun, 21 Jul 2024 04:37:46 GMT
+    Date: Sun, 28 Jul 2024 05:40:32 GMT
     Content-Type: text/html
     Content-Length: 3878
     Connection: close
@@ -185,14 +199,14 @@
     X-Frame-Options: DENY
     X-Content-Type-Options: nosniff
     X-XSS-Protection: 1; mode=block
-    &lt;!doctypehtml&gt;&lt;meta name="viewport"content="width=device-width"&gt;&lt;meta charset="utf-8"&gt;&lt;script&gt;&lt;/script&gt;&lt;script&gt;var __blnChallengeStore={"unregisterServiceWorker":true,"checkChallengeParams":{"tracking_id":"","request_fate":"challengejs","bot_category":"unknown","rule_id":""},"domain":".beta.gouv.fr","cookie":{"value":"WuGU-J9P50tplolZ8x1LyM3QI8lYANcWUCAtil4TWJNhk43j5T6HXwyVj93SwOlawaGsYrv5jqsv2lRIx9F29701qqF6xO7B_Qd3Qr401R8","name":"bln_challengejs","path":"/","maxAge":900}};(()=&gt;{"use strict";const e=function*({domain:e,maxAge:n,name:o,path:a,secure:t,value:i}){yield`${o}=${i}`,vo
+    &lt;!doctypehtml&gt;&lt;meta name="viewport"content="width=device-width"&gt;&lt;meta charset="utf-8"&gt;&lt;script&gt;&lt;/script&gt;&lt;script&gt;var __blnChallengeStore={"cookie":{"maxAge":900,"value":"nfX0idsJ2QFMv05P4s4qZf2GDxJFsaIFTA6JAaTb3-7KlYuPjXZ176v6CcCmZKaO3j4jXofbggidrDLi9cwxTb21YqiTn2rTwGB_e3BBzBE","path":"/","name":"bln_challengejs"},"checkChallengeParams":{"tracking_id":"","bot_category":"unknown","request_fate":"challengejs","rule_id":""},"unregisterServiceWorker":true,"domain":".beta.gouv.fr"};(()=&gt;{"use strict";const e=function*({domain:e,maxAge:n,name:o,path:a,secure:t,value:i}){yield`${o}=${i}`,vo
   HTTPOptions: 
     HTTP/1.1 404 Not Found
-    Date: Sun, 21 Jul 2024 04:37:47 GMT
+    Date: Sun, 28 Jul 2024 05:40:33 GMT
     Content-Type: text/html
     Connection: close
     Content-Encoding: identity
-    X-Varnish: 173353031
+    X-Varnish: 187174378
     Age: 0
     Strict-Transport-Security: max-age=63072000
     X-Frame-Options: DENY
