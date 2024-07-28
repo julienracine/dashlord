@@ -32,10 +32,10 @@
   "cookies": [
     {
       "name": "sessionid",
-      "value": "c8ffpl7xmsszo7vi78w860wacr1g4vb4",
+      "value": "4j6biqkrvmwvywfhpo9et9bgvrav9ph2",
       "domain": "communaute.inclusion.beta.gouv.fr",
       "path": "/",
-      "expires": 1722739701.780695,
+      "expires": 1723345272.634209,
       "size": 41,
       "httpOnly": true,
       "secure": true,
@@ -47,10 +47,10 @@
     },
     {
       "name": "csrftoken",
-      "value": "njfzSUetOnnCgyiaLsIJ85SVWhHfhc4U",
+      "value": "cbzISgS9yaW82Xz5wICqZBj9a8yELxun",
       "domain": "communaute.inclusion.beta.gouv.fr",
       "path": "/",
-      "expires": 1752979701.780579,
+      "expires": 1753585272.634107,
       "size": 41,
       "httpOnly": false,
       "secure": true,
@@ -64,15 +64,15 @@
   "headers": {
     "connection": "keep-alive",
     "content-encoding": "gzip",
-    "content-length": "7691",
-    "content-security-policy": "script-src 'self' https://cdn.jsdelivr.net/npm/chart.js@4.0.1 https://cdn.jsdelivr.net/npm/jquery@3.6.1/dist/jquery.min.js https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.min.js https://browser.sentry-cdn.com https://js.sentry-cdn.com https://tally.so https://www.youtube.com/iframe_api https://www.youtube.com/s/player/ https://matomo.inclusion.beta.gouv.fr/ 'nonce-r3V07P4XUewGVe+JUK5CMA=='; font-src 'self' https://fonts.gstatic.com/ data:; script-src-elem 'self' https://cdn.jsdelivr.net/npm/chart.js@4.0.1 https://cdn.jsdelivr.net/npm/jquery@3.6.1/dist/jquery.min.js https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.min.js https://browser.sentry-cdn.com https://js.sentry-cdn.com https://tally.so https://www.youtube.com/iframe_api https://www.youtube.com/s/player/ https://matomo.inclusion.beta.gouv.fr/ 'nonce-r3V07P4XUewGVe+JUK5CMA=='; default-src 'self'; connect-src 'self' *.sentry.io https://api-adresse.data.gouv.fr https://matomo.inclusion.beta.gouv.fr/; style-src 'self' https://fonts.googleapis.com 'unsafe-inline'; frame-src 'self' https://tally.so https://www.youtube.com/embed/; style-src-elem 'self' https://fonts.googleapis.com 'unsafe-inline'; img-src 'self' data: cellar-c2.services.clever-cloud.com https://matomo.inclusion.beta.gouv.fr/",
+    "content-length": "7773",
+    "content-security-policy": "script-src 'self' https://cdn.jsdelivr.net/npm/chart.js@4.0.1 https://cdn.jsdelivr.net/npm/jquery@3.6.1/dist/jquery.min.js https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.min.js https://browser.sentry-cdn.com https://js.sentry-cdn.com https://tally.so https://www.youtube.com/iframe_api https://www.youtube.com/s/player/ https://matomo.inclusion.beta.gouv.fr/ 'nonce-JpHpEdE3XHjCxKYJXd1PMA=='; font-src 'self' https://fonts.gstatic.com/ data:; script-src-elem 'self' https://cdn.jsdelivr.net/npm/chart.js@4.0.1 https://cdn.jsdelivr.net/npm/jquery@3.6.1/dist/jquery.min.js https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.min.js https://browser.sentry-cdn.com https://js.sentry-cdn.com https://tally.so https://www.youtube.com/iframe_api https://www.youtube.com/s/player/ https://matomo.inclusion.beta.gouv.fr/ 'nonce-JpHpEdE3XHjCxKYJXd1PMA=='; default-src 'self'; connect-src 'self' *.sentry.io https://api-adresse.data.gouv.fr https://matomo.inclusion.beta.gouv.fr/; style-src 'self' https://fonts.googleapis.com 'unsafe-inline'; frame-src 'self' https://tally.so https://www.youtube.com/embed/; style-src-elem 'self' https://fonts.googleapis.com 'unsafe-inline'; img-src 'self' data: cellar-c2.services.clever-cloud.com https://matomo.inclusion.beta.gouv.fr/",
     "content-type": "text/html; charset=utf-8",
     "cross-origin-opener-policy": "same-origin",
-    "date": "Sun, 21 Jul 2024 02:48:21 GMT",
+    "date": "Sun, 28 Jul 2024 03:01:12 GMT",
     "permissions-policy": "accelerometer=(), autoplay=(), camera=(), encrypted-media=(), fullscreen=(), geolocation=(), gyroscope=(), magnetometer=(), microphone=(), midi=(), payment=(), picture-in-picture=(), sync-xhr=(), usb=()",
     "referrer-policy": "same-origin",
-    "set-cookie": "csrftoken=njfzSUetOnnCgyiaLsIJ85SVWhHfhc4U; expires=Sun, 20 Jul 2025 02:48:21 GMT; Max-Age=31449600; Path=/; SameSite=Lax; Secure\nsessionid=c8ffpl7xmsszo7vi78w860wacr1g4vb4; expires=Sun, 04 Aug 2024 02:48:21 GMT; HttpOnly; Max-Age=1209600; Path=/; SameSite=Lax; Secure",
-    "sozu-id": "01J39K1BS0MACEYT7CXHB0339R",
+    "set-cookie": "csrftoken=cbzISgS9yaW82Xz5wICqZBj9a8yELxun; expires=Sun, 27 Jul 2025 03:01:12 GMT; Max-Age=31449600; Path=/; SameSite=Lax; Secure\nsessionid=4j6biqkrvmwvywfhpo9et9bgvrav9ph2; expires=Sun, 11 Aug 2024 03:01:12 GMT; HttpOnly; Max-Age=1209600; Path=/; SameSite=Lax; Secure",
+    "sozu-id": "01J3VMHXJEM52Q2HB0CDX2XV5H",
     "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
     "vary": "Cookie, Accept-Encoding",
     "x-content-type-options": "nosniff",
@@ -81,7 +81,7 @@
   "endpoints": [
     {
       "hostname": "communaute.inclusion.beta.gouv.fr",
-      "ip": "91.208.207.223",
+      "ip": "91.208.207.218",
       "geoip": {
         "continent": {
           "code": "EU",
@@ -224,8 +224,59 @@
     },
     {
       "hostname": "cdn.jsdelivr.net",
-      "ip": "104.18.186.31",
+      "ip": "146.75.37.229",
       "geoip": {
+        "city": {
+          "geoname_id": 4744870,
+          "names": {
+            "de": "Ashburn",
+            "en": "Ashburn",
+            "es": "Ashburn",
+            "fr": "Ashburn",
+            "ja": "アッシュバーン",
+            "pt-BR": "Ashburn",
+            "ru": "Ашберн",
+            "zh-CN": "阿什本"
+          }
+        },
+        "continent": {
+          "code": "NA",
+          "geoname_id": 6255149,
+          "names": {
+            "de": "Nordamerika",
+            "en": "North America",
+            "es": "Norteamérica",
+            "fr": "Amérique du Nord",
+            "ja": "北アメリカ",
+            "pt-BR": "América do Norte",
+            "ru": "Северная Америка",
+            "zh-CN": "北美洲"
+          }
+        },
+        "country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "USA",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        },
+        "location": {
+          "accuracy_radius": 20,
+          "latitude": 39.0469,
+          "longitude": -77.4903,
+          "metro_code": 511,
+          "time_zone": "America/New_York"
+        },
+        "postal": {
+          "code": "20149"
+        },
         "registered_country": {
           "geoname_id": 6252001,
           "iso_code": "US",
@@ -239,7 +290,23 @@
             "ru": "США",
             "zh-CN": "美国"
           }
-        }
+        },
+        "subdivisions": [
+          {
+            "geoname_id": 6254928,
+            "iso_code": "VA",
+            "names": {
+              "de": "Virginia",
+              "en": "Virginia",
+              "es": "Virginia",
+              "fr": "Virginie",
+              "ja": "バージニア州",
+              "pt-BR": "Virgínia",
+              "ru": "Вирджиния",
+              "zh-CN": "弗吉尼亚州"
+            }
+          }
+        ]
       }
     }
   ]
