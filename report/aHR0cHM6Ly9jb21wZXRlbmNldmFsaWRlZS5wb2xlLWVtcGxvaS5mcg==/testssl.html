@@ -21,11 +21,11 @@
 ###########################################################</span>
 
  Using &quot;OpenSSL 1.0.2-bad (1.0.2k-dev)&quot; [~183 ciphers]
- on fv-az2031-780:/home/testssl/bin/openssl.Linux.x86_64
+ on fv-az2031-593:/home/testssl/bin/openssl.Linux.x86_64
  (built: &quot;Sep  1 14:03:44 2022&quot;, platform: &quot;linux-x86_64&quot;)
 
 
-<span style="color:white;background-color:black;"> Start 2024-07-21 02:48:48                --&gt;&gt; 51.68.90.157:443 (competencevalidee.pole-emploi.fr) &lt;&lt;--</span>
+<span style="color:white;background-color:black;"> Start 2024-07-28 03:07:51                --&gt;&gt; 51.68.90.157:443 (competencevalidee.pole-emploi.fr) &lt;&lt;--</span>
 
  rDNS (51.68.90.157):    --
  Service detected:       HTTP
@@ -107,9 +107,9 @@ Hexcode  Cipher Suite Name (OpenSSL)       KeyExch.   Encryption  Bits     Ciphe
 <span style="font-weight:bold;"> Common Name (CN)             </span><i>competencevalidee.pole-emploi.fr </i>
 <span style="font-weight:bold;"> subjectAltName (SAN)         </span><i>competencevalidee.pole-emploi.fr </i>
 <span style="font-weight:bold;"> Trust (hostname)             </span><span style="color:#008817;">Ok via SAN and CN</span> (same w/o SNI)
-<span style="font-weight:bold;"> Chain of trust</span>               <span style="color:#008817;">Ok   </span><span style="color:#cd00cd;"></span>
+<span style="font-weight:bold;"> Chain of trust</span>               <span style="color:#e52207;font-weight:bold;">NOT ok</span> (expired)
 <span style="font-weight:bold;"> EV cert</span> (experimental)       yes 
-<span style="font-weight:bold;"> Certificate Validity (UTC)   </span><span style="color:#e52207;">expires &lt; 30 days (5)</span> (2023-07-27 13:19 --&gt; 2024-07-26 13:19)
+<span style="font-weight:bold;"> Certificate Validity (UTC)   </span><span style="color:#e52207;font-weight:bold;">expired</span> (2023-07-27 13:19 --&gt; 2024-07-26 13:19)
 <span style="font-weight:bold;"> ETS/&quot;eTLS&quot;</span>, visibility info  not present
 <span style="font-weight:bold;"> Certificate Revocation List  </span>http://crl.entrust.net/level1m.crl
 <span style="font-weight:bold;"> OCSP URI                     </span>http://ocsp.entrust.net
@@ -215,13 +215,15 @@ Hexcode  Cipher Suite Name (OpenSSL)       KeyExch.   Encryption  Bits     Ciphe
 
 <span style="font-weight:bold;"> Rating specs</span> (not complete)  SSL Labs&apos;s &apos;SSL Server Rating Guide&apos; (version 2009q from 2020-01-30)
 <span style="font-weight:bold;"> Specification documentation  </span><a href="https://github.com/ssllabs/research/wiki/SSL-Server-Rating-Guide" style="color:black;text-decoration:none;">https://github.com/ssllabs/research/wiki/SSL-Server-Rating-Guide</a>
-<span style="font-weight:bold;"> Protocol Support </span>(weighted)  100 (30)
-<span style="font-weight:bold;"> Key Exchange </span>    (weighted)  90 (27)
-<span style="font-weight:bold;"> Cipher Strength </span> (weighted)  60 (24)
-<span style="font-weight:bold;"> Final Score                  </span>81
-<span style="font-weight:bold;"> Overall Grade                </span><span style="color:#008817;font-weight:bold;">A+</span>
+<span style="font-weight:bold;"> Protocol Support</span> (weighted)  0 (0)
+<span style="font-weight:bold;"> Key Exchange</span>     (weighted)  0 (0)
+<span style="font-weight:bold;"> Cipher Strength</span>  (weighted)  0 (0)
+<span style="font-weight:bold;"> Final Score                  </span>0
+<span style="font-weight:bold;"> Overall Grade                </span><span style="color:#e52207;font-weight:bold;">T</span>
+<span style="font-weight:bold;"> Grade cap reasons            </span>Grade capped to T. Issues with the chain of trust (expired)
+                              Grade capped to T. Certificate expired
 
-<span style="color:white;background-color:black;"> Done 2024-07-21 02:49:55 [  69s] --&gt;&gt; 51.68.90.157:443 (competencevalidee.pole-emploi.fr) &lt;&lt;--</span>
+<span style="color:white;background-color:black;"> Done 2024-07-28 03:08:59 [  70s] --&gt;&gt; 51.68.90.157:443 (competencevalidee.pole-emploi.fr) &lt;&lt;--</span>
 
 
 </pre>
