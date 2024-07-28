@@ -70,14 +70,6 @@
     },
     {
       "type": "unpkg",
-      "url": "https://unpkg.com/@lottiefiles/lottie-player@2.0.4/dist/lottie-player.js",
-      "details": {
-        "id": "unpkg",
-        "message": "Host files locally"
-      }
-    },
-    {
-      "type": "unpkg",
       "url": "https://unpkg.com/@lottiefiles/lottie-interactivity@1.6.2/dist/lottie-interactivity.min.js",
       "details": {
         "id": "unpkg",
@@ -85,12 +77,32 @@
       }
     },
     {
+      "type": "unpkg",
+      "url": "https://unpkg.com/@lottiefiles/lottie-player@2.0.4/dist/lottie-player.js",
+      "details": {
+        "id": "unpkg",
+        "message": "Host files locally"
+      }
+    },
+    {
+      "type": "unknown",
+      "url": "https://s3.amazonaws.com/appforest_uf/f1678206794930x218136516585784700/Marianne-Medium.otf"
+    },
+    {
+      "type": "unknown",
+      "url": "https://s3.amazonaws.com/appforest_uf/f1678206794930x218136516585784700/Marianne-Medium.otf"
+    },
+    {
       "type": "unknown",
       "url": "https://s3.amazonaws.com/appforest_uf/f1678206650950x598128875872265300/Marianne-Bold.otf"
     },
     {
       "type": "unknown",
-      "url": "https://s3.amazonaws.com/appforest_uf/f1678206794930x218136516585784700/Marianne-Medium.otf"
+      "url": "https://s3.amazonaws.com/appforest_uf/f1678206600203x993608576952853400/Marianne-Regular.otf"
+    },
+    {
+      "type": "unknown",
+      "url": "https://s3.amazonaws.com/appforest_uf/f1678206650950x598128875872265300/Marianne-Bold.otf"
     },
     {
       "type": "unknown",
@@ -99,18 +111,6 @@
     {
       "type": "unknown",
       "url": "https://plst237.s3.amazonaws.com/plst.js"
-    },
-    {
-      "type": "unknown",
-      "url": "https://s3.amazonaws.com/appforest_uf/f1678206650950x598128875872265300/Marianne-Bold.otf"
-    },
-    {
-      "type": "unknown",
-      "url": "https://s3.amazonaws.com/appforest_uf/f1678206794930x218136516585784700/Marianne-Medium.otf"
-    },
-    {
-      "type": "unknown",
-      "url": "https://s3.amazonaws.com/appforest_uf/f1678206600203x993608576952853400/Marianne-Regular.otf"
     },
     {
       "type": "unknown",
@@ -128,7 +128,7 @@
   "cookies": [
     {
       "name": "jafer-beta-gouv_u1main",
-      "value": "1721573062061x960410465477258100",
+      "value": "1722193328624x424198115521982500",
       "domain": ".jafer.beta.gouv.fr",
       "path": "/",
       "expires": -1,
@@ -142,10 +142,10 @@
     },
     {
       "name": "jafer-beta-gouv_live_u2main.sig",
-      "value": "bajF2Gp7WW8EQM0cisJhqXl5oJg",
+      "value": "BFAWkuKgR8vnM-oF7lFBEsH17rc",
       "domain": ".jafer.beta.gouv.fr",
       "path": "/",
-      "expires": 1721832262.141674,
+      "expires": 1722452528.702251,
       "size": 58,
       "httpOnly": true,
       "secure": true,
@@ -156,10 +156,10 @@
     },
     {
       "name": "jafer-beta-gouv_live_u2main",
-      "value": "bus|1721573062061x960410465477258100|1721573062071x593892288371648600",
+      "value": "bus|1722193328624x424198115521982500|1722193328633x288571739702578900",
       "domain": ".jafer.beta.gouv.fr",
       "path": "/",
-      "expires": 1721832262.141546,
+      "expires": 1722452528.702148,
       "size": 96,
       "httpOnly": true,
       "secure": true,
@@ -173,18 +173,18 @@
     "alt-svc": "h3=\":443\"; ma=86400",
     "cache-control": "no-store",
     "cf-cache-status": "DYNAMIC",
-    "cf-ray": "8a6bf7f66e1e299e-ORD",
+    "cf-ray": "8aa71f307831fa52-SJC",
     "content-encoding": "br",
     "content-security-policy": "frame-ancestors 'none';",
     "content-type": "text/html",
-    "date": "Sun, 21 Jul 2024 14:44:22 GMT",
+    "date": "Sun, 28 Jul 2024 19:02:08 GMT",
     "referrer-policy": "origin",
     "server": "cloudflare",
-    "set-cookie": "jafer-beta-gouv_u1main=1721573062061x960410465477258100; path=/; domain=jafer.beta.gouv.fr; secure",
+    "set-cookie": "jafer-beta-gouv_u1main=1722193328624x424198115521982500; path=/; domain=jafer.beta.gouv.fr; secure",
     "vary": "Accept-Encoding",
     "x-bubble-capacity-limit": "0 ms slower",
-    "x-bubble-capacity-used": "0.155 unit-seconds used",
-    "x-bubble-perf": "{\"total\":81.4,\"percents\":{\"top\":{\"bubble_cpu\":41.8,\"block\":55.2,\"capacity_rl\":0,\"other_pause\":0,\"pre_fiber\":2.8},\"sub\":{\"pp_userdb\":2.5,\"pp_wait_userdb\":0,\"http_request\":0,\"serverjson\":44.5,\"appserver_cache_misses_time\":0,\"redis\":58.3,\"fiber_queue\":3.8,\"capacity_wait\":5.3}},\"counts\":{\"pp_userdb\":1,\"http_request\":0,\"derived_build\":0,\"derived_cache_attempts\":9,\"derived_cache_memory_misses\":9,\"serverjson\":31,\"appserver_cache_attempts\":1,\"appserver_mem_cache_hits\":0,\"appserver_cache_hits\":1,\"appserver_cache_misses\":0,\"redis\":72,\"fiber_queue\":61,\"blocks\":60},\"misc\":{\"userdb_results\":0,\"userdb_data\":0,\"spent_time\":10098809}}",
+    "x-bubble-capacity-used": "0.167 unit-seconds used",
+    "x-bubble-perf": "{\"total\":93,\"percents\":{\"top\":{\"bubble_cpu\":34.9,\"block\":63.9,\"capacity_rl\":0,\"other_pause\":0,\"pre_fiber\":1.3},\"sub\":{\"pp_userdb\":5.4,\"pp_wait_userdb\":0,\"http_request\":0,\"serverjson\":36.6,\"appserver_cache_misses_time\":0,\"redis\":60.9,\"fiber_queue\":7.9,\"capacity_wait\":7.8}},\"counts\":{\"pp_userdb\":1,\"http_request\":0,\"derived_build\":0,\"derived_cache_attempts\":9,\"derived_cache_memory_misses\":9,\"serverjson\":31,\"appserver_cache_attempts\":1,\"appserver_mem_cache_hits\":0,\"appserver_cache_hits\":1,\"appserver_cache_misses\":0,\"redis\":70,\"fiber_queue\":55,\"blocks\":54},\"misc\":{\"userdb_results\":0,\"userdb_data\":0,\"spent_time\":10865532}}",
     "x-frame-options": "DENY",
     "x-powered-by": "Express"
   },
@@ -231,7 +231,7 @@
     },
     {
       "hostname": "cdnjs.cloudflare.com",
-      "ip": "104.17.25.14",
+      "ip": "104.17.24.14",
       "geoip": {
         "registered_country": {
           "geoname_id": 6252001,
@@ -251,7 +251,7 @@
     },
     {
       "hostname": "d2tf8y1b8kxrzw.cloudfront.net",
-      "ip": "18.160.227.132",
+      "ip": "13.33.62.129",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -325,7 +325,7 @@
     },
     {
       "hostname": "s3.amazonaws.com",
-      "ip": "52.217.122.160",
+      "ip": "52.217.200.192",
       "geoip": {
         "city": {
           "geoname_id": 4744870,
@@ -412,7 +412,7 @@
     },
     {
       "hostname": "plst237.s3.amazonaws.com",
-      "ip": "16.182.38.73",
+      "ip": "54.231.166.145",
       "geoip": {
         "city": {
           "geoname_id": 4744870,
