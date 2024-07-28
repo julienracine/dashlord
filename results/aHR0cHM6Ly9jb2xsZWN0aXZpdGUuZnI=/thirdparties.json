@@ -27,12 +27,12 @@
   ],
   "cookies": [
     {
-      "name": "_pk_ses.6.88ba",
+      "name": "_pk_ses.118.88ba",
       "value": "1",
       "domain": "collectivite.fr",
       "path": "/",
-      "expires": 1721563193,
-      "size": 15,
+      "expires": 1722183289,
+      "size": 17,
       "httpOnly": false,
       "secure": false,
       "session": false,
@@ -42,12 +42,12 @@
       "sourcePort": 443
     },
     {
-      "name": "_pk_id.6.88ba",
-      "value": "f9aca644fc9f04a1.1721561393.",
+      "name": "_pk_id.118.88ba",
+      "value": "4323e586cfb35240.1722181489.",
       "domain": "collectivite.fr",
       "path": "/",
-      "expires": 1755516593,
-      "size": 41,
+      "expires": 1756136689,
+      "size": 43,
       "httpOnly": false,
       "secure": false,
       "session": false,
@@ -59,7 +59,7 @@
   ],
   "headers": {
     "content-type": "text/html",
-    "date": "Sun, 21 Jul 2024 11:29:52 GMT",
+    "date": "Sun, 28 Jul 2024 15:44:47 GMT",
     "referrer-policy": "no-referrer",
     "strict-transport-security": "max-age=31536000",
     "x-frame-options": "SAMEORIGIN"
@@ -112,7 +112,7 @@
           }
         },
         "location": {
-          "accuracy_radius": 1000,
+          "accuracy_radius": 500,
           "latitude": 48.8323,
           "longitude": 2.4075,
           "time_zone": "Europe/Paris"
