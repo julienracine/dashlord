@@ -36,10 +36,10 @@
   "cookies": [
     {
       "name": "bln_challengejs",
-      "value": "IEkhQYSoPEgPFLLbiPcNDvVzA_s2Q2iJtOSjCHi_ADQNT-fhBOBnO5grtdsI0BHnELAEYTvPhWAPpiXUTE8rL-wtZ2TkHylCHxG-FIxUMQo0qQbq_Hdib5wQHy3L_nGrYxu-1DUpNH2gPT9qvSYqJtZfZv-SitTBf_XBWTmonkhqDpP3sNf8VkbdTrwmII_R1kKVw66MQzgIBbVW6w6qWus0vQQkC-dlkFAe7X17gSsok66FMGLhtlUlwIje_djKaE1KfSMbn3t6j-UmY4DuHg",
+      "value": "gw8SJw7SX5dfcolG2fQixwjKNzYkaOC3yyFSvBuNd6FTAykhNT_ch-uhcJn5zsMcV4OqKnEFrP8G0ZQ3dVHCuDUdQzMKphJijEKV1QU-rcJzZsoypcx-nT2A0g1heDMxdx4j3pkr2EOMOn7du2hZ3hAKRBkaMu2LSZGQaioQe_umd54zLjb5bz_WLYIGyr2fANYXaBqXZeoWb3g24a1NpBn4PdqZDGN2lV7DkPhii18VstCzZJ9GmOVHR0soz_s2HQtCmvh8fqe-ELm9EyNykw",
       "domain": ".snu.gouv.fr",
       "path": "/",
-      "expires": 1721547596.446946,
+      "expires": 1722161159.619893,
       "size": 293,
       "httpOnly": false,
       "secure": false,
@@ -52,11 +52,11 @@
   "headers": {
     "content-encoding": "gzip",
     "content-type": "text/html",
-    "date": "Sun, 21 Jul 2024 07:24:56 GMT",
-    "etag": "W/\"6697dfa3-1313\"",
-    "last-modified": "Wed, 17 Jul 2024 15:13:39 GMT",
+    "date": "Sun, 28 Jul 2024 09:50:59 GMT",
+    "etag": "W/\"66a3b772-1617\"",
+    "last-modified": "Fri, 26 Jul 2024 14:49:22 GMT",
     "referrer-policy": ": no-referrer",
-    "sozu-id": "01J3A2VSTK903AES41ATKJ4CKB",
+    "sozu-id": "01J3WBZPKJKQNNHN0X23X9FZBJ",
     "strict-transport-security": ": max-age=31536000; includeSubDomains; preload",
     "x-content-type-options": ": nosniff",
     "x-download-options": ": noopen",
@@ -66,7 +66,7 @@
   "endpoints": [
     {
       "hostname": "moncompte.snu.gouv.fr",
-      "ip": "185.231.167.148",
+      "ip": "185.179.148.148",
       "geoip": {
         "continent": {
           "code": "EU",
@@ -122,7 +122,7 @@
     },
     {
       "hostname": "fonts.googleapis.com",
-      "ip": "142.250.190.138",
+      "ip": "142.250.190.74",
       "geoip": {
         "continent": {
           "code": "NA",

@@ -54,7 +54,7 @@
 <h1>Scan Report<br><small>Nmap 7.92</small>
 </h1>
 <pre style="white-space:pre-wrap; word-wrap:break-word;">nmap -sV --script vulners --script-args mincvss=5.0 -oA /data/nmapvuln moncompte.snu.gouv.fr</pre>
-<p class="lead">Sun Jul 21 07:26:13 2024 – Sun Jul 21 07:26:52 2024<br>1 hosts scanned.
+<p class="lead">Sun Jul 28 09:52:10 2024 – Sun Jul 28 09:52:48 2024<br>1 hosts scanned.
               1 hosts up.
               0 hosts down.
             </p>
@@ -76,7 +76,7 @@
 </tr></thead>
 <tbody><tr>
 <td><span class="label label-success">up</span></td>
-<td>185.231.167.148</td>
+<td>185.179.148.148</td>
 <td>moncompte.snu.gouv.fr</td>
 <td>2</td>
 <td>0</td>
@@ -91,8 +91,8 @@
             });
           </script><h2 id="onlinehosts" class="target">Online Hosts</h2>
 <div class="panel panel-default">
-<div class="panel-heading clickable" data-toggle="collapse" data-target="#185-231-167-148"><h3 class="panel-title">185.231.167.148 - moncompte.snu.gouv.fr</h3></div>
-<div class="panel-body collapse in" id="185-231-167-148">
+<div class="panel-heading clickable" data-toggle="collapse" data-target="#185-179-148-148"><h3 class="panel-title">185.179.148.148 - moncompte.snu.gouv.fr</h3></div>
+<div class="panel-body collapse in" id="185-179-148-148">
 <h4>Hostnames</h4>
 <ul><li>moncompte.snu.gouv.fr (user)</li></ul>
 <h4>Ports</h4>
@@ -121,7 +121,7 @@
 <pre style="white-space:pre-wrap; word-wrap:break-word;">
   FourOhFourRequest: 
     HTTP/1.1 301 Moved Permanently
-    Date: Sun, 21 Jul 2024 07:26:28 GMT
+    Date: Sun, 28 Jul 2024 09:52:25 GMT
     Content-Type: text/html
     Content-Length: 166
     Connection: close
@@ -135,7 +135,7 @@
     &lt;/html&gt;
   GetRequest, HTTPOptions: 
     HTTP/1.1 301 Moved Permanently
-    Date: Sun, 21 Jul 2024 07:26:28 GMT
+    Date: Sun, 28 Jul 2024 09:52:24 GMT
     Content-Type: text/html
     Content-Length: 166
     Connection: close
@@ -147,9 +147,22 @@
     &lt;hr&gt;&lt;center&gt;openresty&lt;/center&gt;
     &lt;/body&gt;
     &lt;/html&gt;
-  RTSPRequest, X11Probe: 
+  RTSPRequest: 
     HTTP/1.1 400 Bad Request
-    Date: Sun, 21 Jul 2024 07:26:28 GMT
+    Date: Sun, 28 Jul 2024 09:52:24 GMT
+    Content-Type: text/html
+    Content-Length: 154
+    Connection: close
+    &lt;html&gt;
+    &lt;head&gt;&lt;title&gt;400 Bad Request&lt;/title&gt;&lt;/head&gt;
+    &lt;body&gt;
+    &lt;center&gt;&lt;h1&gt;400 Bad Request&lt;/h1&gt;&lt;/center&gt;
+    &lt;hr&gt;&lt;center&gt;openresty&lt;/center&gt;
+    &lt;/body&gt;
+    &lt;/html&gt;
+  X11Probe: 
+    HTTP/1.1 400 Bad Request
+    Date: Sun, 28 Jul 2024 09:52:25 GMT
     Content-Type: text/html
     Content-Length: 154
     Connection: close
@@ -173,9 +186,9 @@
 <tr><td colspan="7">
 <a href="https://nvd.nist.gov/vuln/search/results?form_type=Advanced&amp;cves=on&amp;cpe_version="></a><h5>fingerprint-strings</h5>
 <pre style="white-space:pre-wrap; word-wrap:break-word;">
-  GetRequest, HTTPOptions: 
+  GetRequest: 
     HTTP/1.1 200 OK
-    Date: Sun, 21 Jul 2024 07:26:34 GMT
+    Date: Sun, 28 Jul 2024 09:52:30 GMT
     Content-Type: text/html
     Content-Length: 3899
     Connection: close
@@ -185,7 +198,20 @@
     X-Frame-Options: DENY
     X-Content-Type-Options: nosniff
     X-XSS-Protection: 1; mode=block
-    &lt;!doctypehtml&gt;&lt;meta name="viewport"content="width=device-width"&gt;&lt;meta charset="utf-8"&gt;&lt;script&gt;&lt;/script&gt;&lt;script&gt;var __blnChallengeStore={"checkChallengeParams":{"request_fate":"challengejs","bot_category":"unknown","tracking_id":"","rule_id":""},"cookie":{"path":"/","name":"bln_challengejs","maxAge":900,"value":"wuwWaOUI_laBrCN4kI62gFYOvrkbvTe5NHhcvFPTY3APJBhjUB9pUPziRl685L9xwySfOD99GbOKzjM4HNZiLuGvct0LGrO3TXbTmdeCh1WpOH1pi74df1yP_hhXm2zH"},"unregisterServiceWorker":false,"domain":".snu.gouv.fr"};(()=&gt;{"use strict";const e=function*({domain:e,maxAge:n,name:o,path:a,secure:t,value:i}</pre>
+    &lt;!doctypehtml&gt;&lt;meta name="viewport"content="width=device-width"&gt;&lt;meta charset="utf-8"&gt;&lt;script&gt;&lt;/script&gt;&lt;script&gt;var __blnChallengeStore={"domain":".snu.gouv.fr","unregisterServiceWorker":false,"checkChallengeParams":{"rule_id":"","request_fate":"challengejs","bot_category":"unknown","tracking_id":""},"cookie":{"value":"gw8SJw7SX5dfcolG2fQix9hoS5Q4uVeq2t6BtyygPHQjNmqKtids17v_IMREuizgtWay1yxkuyO1kxMDWM7dwnSaETJF4DB0_bBob5qHdhc3o3WD30Gst4MCQ8AWzzwM","maxAge":900,"name":"bln_challengejs","path":"/"}};(()=&gt;{"use strict";const e=function*({domain:e,maxAge:n,name:o,path:a,secure:t,value:i}
+  HTTPOptions: 
+    HTTP/1.1 200 OK
+    Date: Sun, 28 Jul 2024 09:52:31 GMT
+    Content-Type: text/html
+    Content-Length: 3899
+    Connection: close
+    Referrer-Policy: no-referrer
+    Cache-Control: no-cache
+    Strict-Transport-Security: max-age=63072000
+    X-Frame-Options: DENY
+    X-Content-Type-Options: nosniff
+    X-XSS-Protection: 1; mode=block
+    &lt;!doctypehtml&gt;&lt;meta name="viewport"content="width=device-width"&gt;&lt;meta charset="utf-8"&gt;&lt;script&gt;&lt;/script&gt;&lt;script&gt;var __blnChallengeStore={"unregisterServiceWorker":false,"checkChallengeParams":{"bot_category":"unknown","request_fate":"challengejs","rule_id":"","tracking_id":""},"cookie":{"name":"bln_challengejs","path":"/","maxAge":900,"value":"1Y2bCqBUjQ_9hekpz_upZ4vGyd8ODuCpECV3EaqCNbhik6rbK9fxqe8ewQ06qRNJg3o71BWbjIJw0rjpvZ5fG3h9fSVretCqqZSwgPe3N4IPOAuRDQTMt_2Lb5N9B_Cc"},"domain":".snu.gouv.fr"};(()=&gt;{"use strict";const e=function*({domain:e,maxAge:n,name:o,path:a,secure:t,value:i}</pre>
 </td></tr>
 </tbody>
 </table></div>
@@ -205,7 +231,7 @@
 </tr></thead>
 <tbody>
 <tr>
-<td>185.231.167.148 - moncompte.snu.gouv.fr</td>
+<td>185.179.148.148 - moncompte.snu.gouv.fr</td>
 <td>80</td>
 <td>tcp</td>
 <td>http</td>
@@ -215,7 +241,7 @@
 <td></td>
 </tr>
 <tr>
-<td>185.231.167.148 - moncompte.snu.gouv.fr</td>
+<td>185.179.148.148 - moncompte.snu.gouv.fr</td>
 <td>443</td>
 <td>tcp</td>
 <td>https</td>
