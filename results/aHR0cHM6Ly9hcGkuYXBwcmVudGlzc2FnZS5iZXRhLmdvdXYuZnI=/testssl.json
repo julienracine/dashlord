@@ -3,8 +3,8 @@
               "id"           : "service",
               "ip"           : "api.apprentissage.beta.gouv.fr/54.38.65.110",
               "port"         : "443",
-              "severity"     : "DEBUG",
-              "finding"      : "Couldn't determine service, skipping all HTTP checks"
+              "severity"     : "INFO",
+              "finding"      : "HTTP"
           }
 ,         {
               "id"           : "pre_128cipher",
@@ -360,7 +360,7 @@
               "ip"           : "api.apprentissage.beta.gouv.fr/54.38.65.110",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "70 >= 30 days"
+              "finding"      : "63 >= 30 days"
           }
 ,         {
               "id"           : "cert_notBefore",
@@ -503,6 +503,119 @@
               "finding"      : "intermediate certificate(s) is/are ok"
           }
 ,         {
+              "id"           : "HTTP_status_code",
+              "ip"           : "api.apprentissage.beta.gouv.fr/54.38.65.110",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "200 OK ('/')"
+          }
+,         {
+              "id"           : "HTTP_clock_skew",
+              "ip"           : "api.apprentissage.beta.gouv.fr/54.38.65.110",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "0 seconds from localtime"
+          }
+,         {
+              "id"           : "HTTP_headerTime",
+              "ip"           : "api.apprentissage.beta.gouv.fr/54.38.65.110",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "1722131176"
+          }
+,         {
+              "id"           : "HSTS_time",
+              "ip"           : "api.apprentissage.beta.gouv.fr/54.38.65.110",
+              "port"         : "443",
+              "severity"     : "OK",
+              "finding"      : "365 days (=31536000 seconds) > 15552000 seconds"
+          }
+,         {
+              "id"           : "HSTS_subdomains",
+              "ip"           : "api.apprentissage.beta.gouv.fr/54.38.65.110",
+              "port"         : "443",
+              "severity"     : "OK",
+              "finding"      : "includes subdomains"
+          }
+,         {
+              "id"           : "HSTS_preload",
+              "ip"           : "api.apprentissage.beta.gouv.fr/54.38.65.110",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "domain is NOT marked for preloading"
+          }
+,         {
+              "id"           : "HPKP",
+              "ip"           : "api.apprentissage.beta.gouv.fr/54.38.65.110",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "No support for HTTP Public Key Pinning"
+          }
+,         {
+              "id"           : "banner_server",
+              "ip"           : "api.apprentissage.beta.gouv.fr/54.38.65.110",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "No Server banner line in header, interesting!"
+          }
+,         {
+              "id"           : "banner_application",
+              "ip"           : "api.apprentissage.beta.gouv.fr/54.38.65.110",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "No application banner found"
+          }
+,         {
+              "id"           : "cookie_count",
+              "ip"           : "api.apprentissage.beta.gouv.fr/54.38.65.110",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "0 at '/'"
+          }
+,         {
+              "id"           : "X-Frame-Options",
+              "ip"           : "api.apprentissage.beta.gouv.fr/54.38.65.110",
+              "port"         : "443",
+              "severity"     : "OK",
+              "finding"      : "SAMEORIGIN"
+          }
+,         {
+              "id"           : "X-Content-Type-Options",
+              "ip"           : "api.apprentissage.beta.gouv.fr/54.38.65.110",
+              "port"         : "443",
+              "severity"     : "OK",
+              "finding"      : "nosniff"
+          }
+,         {
+              "id"           : "Content-Security-Policy",
+              "ip"           : "api.apprentissage.beta.gouv.fr/54.38.65.110",
+              "port"         : "443",
+              "severity"     : "OK",
+              "finding"      : "default-src 'self' https://plausible.io; base-uri 'self'; block-all-mixed-content; font-src 'self' https: data:; frame-ancestors 'self'; frame-src 'self' https://plausible.io; img-src 'self' https://www.notion.so data: ; object-src 'none'; script-src 'self' https://plausible.io 'unsafe-inline' ; script-src-attr 'none'; style-src 'self' https: https: *.plausible.io 'unsafe-inline'; connect-src 'self' https://geo.api.gouv.fr/ https://plausible.io https://sentry.apprentissage.beta.gouv.fr ; upgrade-insecure-requests; worker-src 'self' 'nonce-MTZjMzAzOGYtOTZlZC00ZDc5LWFhNDMtOGI1NDdhZTIyOWIz' 'strict-dynamic';"
+          }
+,         {
+              "id"           : "Referrer-Policy",
+              "ip"           : "api.apprentissage.beta.gouv.fr/54.38.65.110",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "no-referrer-when-downgrade"
+          }
+,         {
+              "id"           : "Cache-Control",
+              "ip"           : "api.apprentissage.beta.gouv.fr/54.38.65.110",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "private, no-cache, no-store, max-age=0, must-revalidate"
+          }
+,         {
+              "id"           : "banner_reverseproxy",
+              "ip"           : "api.apprentissage.beta.gouv.fr/54.38.65.110",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "cwe"          : "CWE-200",
+              "finding"      : "--"
+          }
+,         {
               "id"           : "heartbleed",
               "ip"           : "api.apprentissage.beta.gouv.fr/54.38.65.110",
               "port"         : "443",
@@ -524,10 +637,10 @@
               "id"           : "ticketbleed",
               "ip"           : "api.apprentissage.beta.gouv.fr/54.38.65.110",
               "port"         : "443",
-              "severity"     : "INFO",
+              "severity"     : "OK",
               "cve"          : "CVE-2016-9244",
               "cwe"          : "CWE-200",
-              "finding"      : "not applicable, not HTTP"
+              "finding"      : "no session ticket extension"
           }
 ,         {
               "id"           : "ROBOT",
@@ -562,7 +675,16 @@
               "severity"     : "OK",
               "cve"          : "CVE-2012-4929",
               "cwe"          : "CWE-310",
-              "finding"      : "not vulnerable (not using HTTP anyway)"
+              "finding"      : "not vulnerable"
+          }
+,         {
+              "id"           : "BREACH",
+              "ip"           : "api.apprentissage.beta.gouv.fr/54.38.65.110",
+              "port"         : "443",
+              "severity"     : "MEDIUM",
+              "cve"          : "CVE-2013-3587",
+              "cwe"          : "CWE-310",
+              "finding"      : "potentially VULNERABLE, gzip deflate HTTP compression detected  - only supplied '/' tested"
           }
 ,         {
               "id"           : "POODLE_SSL",
@@ -990,6 +1112,6 @@
               "ip"           : "api.apprentissage.beta.gouv.fr/54.38.65.110",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "51"
+              "finding"      : "55"
           }
 ]
