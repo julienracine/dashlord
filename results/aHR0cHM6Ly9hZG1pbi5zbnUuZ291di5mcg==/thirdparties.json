@@ -20,11 +20,11 @@
   "cookies": [
     {
       "name": "bln_challengejs",
-      "value": "O_FiLGf-CcCCpXCzt9J96U7mGVaZe9N9jiLohbYSjopLhcf8egIczqq3TH6OrvOELfZWtsladwhV3nZPpKt61j5fq2G0rfBlERkPYG7mM49N41E8DRZY-KP-gHnwCRu5N97Wg_cBg_KkT1QXTfhRJp0f14aGMchqiJsrT2tQ-Pkm3cOBTpKAqiXnO-4ATjou74WxF5vd4Ovqs_bfl6QQdZjfajgdw_suFl_Mo-3iS37D5P16fb-tdji0zJeyBpVgPiCr5wOahwXEs_Ns3S4rCw",
+      "value": "KptJhlBR5dyMo-QPR-NosxTl5o_qyzRX4YEVVNEgI_YVdlaU_S8lUI8uJ89AK_W0BVT1O9mTjkfuO9OKYKrzxe9QCbfO6Eu0L7nyN_qE5iSrQm9dc1J6SWPIqePQ9KzJ1E4vzCDabm6cZeijxuDWLiE5vVvzWg2LZy3Fr6uvzuAgj3TzHZS0Cp3uQHiT5re0dkgEEPQsZxGDZdGnlGbDIWCkSASklwr559CO0fI6kD52JWdCX1uSC0lwGqx36CIv",
       "domain": ".snu.gouv.fr",
       "path": "/",
-      "expires": 1721547500.230283,
-      "size": 293,
+      "expires": 1722161782.977649,
+      "size": 271,
       "httpOnly": false,
       "secure": false,
       "session": false,
@@ -36,11 +36,11 @@
   "headers": {
     "content-encoding": "gzip",
     "content-type": "text/html",
-    "date": "Sun, 21 Jul 2024 07:23:20 GMT",
-    "etag": "W/\"6697dfa5-625\"",
-    "last-modified": "Wed, 17 Jul 2024 15:13:41 GMT",
+    "date": "Sun, 28 Jul 2024 10:01:23 GMT",
+    "etag": "W/\"66a3b771-625\"",
+    "last-modified": "Fri, 26 Jul 2024 14:49:21 GMT",
     "referrer-policy": ": no-referrer",
-    "sozu-id": "01J3A2R3Z087SFJC63X0W05NKX",
+    "sozu-id": "01J3WCK9BDXC73TZMGAVCVNPR3",
     "strict-transport-security": ": max-age=31536000; includeSubDomains; preload",
     "x-content-type-options": ": nosniff",
     "x-download-options": ": noopen",
@@ -106,8 +106,14 @@
     },
     {
       "hostname": "fonts.googleapis.com",
-      "ip": "172.253.63.95",
+      "ip": "142.251.16.95",
       "geoip": {
+        "city": {
+          "geoname_id": 5116931,
+          "names": {
+            "en": "Farmingdale"
+          }
+        },
         "continent": {
           "code": "NA",
           "geoname_id": 6255149,
@@ -138,9 +144,13 @@
         },
         "location": {
           "accuracy_radius": 1000,
-          "latitude": 37.751,
-          "longitude": -97.822,
-          "time_zone": "America/Chicago"
+          "latitude": 40.7306,
+          "longitude": -73.4313,
+          "metro_code": 501,
+          "time_zone": "America/New_York"
+        },
+        "postal": {
+          "code": "11735"
         },
         "registered_country": {
           "geoname_id": 6252001,
@@ -155,7 +165,23 @@
             "ru": "США",
             "zh-CN": "美国"
           }
-        }
+        },
+        "subdivisions": [
+          {
+            "geoname_id": 5128638,
+            "iso_code": "NY",
+            "names": {
+              "de": "New York",
+              "en": "New York",
+              "es": "Nueva York",
+              "fr": "New York",
+              "ja": "ニューヨーク州",
+              "pt-BR": "Nova Iorque",
+              "ru": "Нью-Йорк",
+              "zh-CN": "纽约州"
+            }
+          }
+        ]
       }
     },
     {
