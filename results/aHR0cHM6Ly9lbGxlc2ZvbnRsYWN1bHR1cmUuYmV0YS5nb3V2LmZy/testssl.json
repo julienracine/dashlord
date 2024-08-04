@@ -346,7 +346,7 @@
               "ip"           : "ellesfontlaculture.beta.gouv.fr/185.31.40.13",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "67 >= 30 days"
+              "finding"      : "60 >= 30 days"
           }
 ,         {
               "id"           : "cert_notBefore",
@@ -507,7 +507,7 @@
               "ip"           : "ellesfontlaculture.beta.gouv.fr/185.31.40.13",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1722174144"
+              "finding"      : "1722776790"
           }
 ,         {
               "id"           : "HSTS",
@@ -1063,6 +1063,6 @@
               "ip"           : "ellesfontlaculture.beta.gouv.fr/185.31.40.13",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "94"
+              "finding"      : "52"
           }
 ]
