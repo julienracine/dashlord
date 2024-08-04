@@ -21,13 +21,13 @@
 ###########################################################</span>
 
  Using &quot;OpenSSL 1.0.2-bad (1.0.2k-dev)&quot; [~183 ciphers]
- on fv-az520-427:/home/testssl/bin/openssl.Linux.x86_64
+ on fv-az1501-27:/home/testssl/bin/openssl.Linux.x86_64
  (built: &quot;Sep  1 14:03:44 2022&quot;, platform: &quot;linux-x86_64&quot;)
 
 
 <span style="font-weight:bold;">Testing all IPv4 addresses (port 443): </span>162.159.138.9 162.159.137.9
 -----------------------------------------------------
-<span style="color:white;background-color:black;"> Start 2024-07-28 16:22:48                --&gt;&gt; 162.159.138.9:443 (datasubvention.beta.gouv.fr) &lt;&lt;--</span>
+<span style="color:white;background-color:black;"> Start 2024-08-04 15:34:58                --&gt;&gt; 162.159.138.9:443 (datasubvention.beta.gouv.fr) &lt;&lt;--</span>
 
  Further IP addresses:   162.159.137.9 2606:4700:7::a29f:8a09
                          2606:4700:7::a29f:8909 
@@ -102,7 +102,7 @@ Hexcode  Cipher Suite Name (OpenSSL)       KeyExch.   Encryption  Bits     Ciphe
                               &quot;compress_certificate/#27&quot;
 <span style="font-weight:bold;"> Session Ticket RFC 5077 hint </span>64800 seconds, session tickets keys seems to be rotated &lt; daily
 <span style="font-weight:bold;"> SSL Session ID support       </span>yes
-<span style="font-weight:bold;"> Session Resumption           </span>Tickets: yes, ID: no
+<span style="font-weight:bold;"> Session Resumption           </span>Tickets: yes, ID: yes
 <span style="font-weight:bold;"> TLS clock skew</span>               Random values, no fingerprinting possible 
 <span style="font-weight:bold;"> Certificate Compression      </span>0002/Brotli
 <span style="font-weight:bold;"> Client Authentication        </span>none
@@ -120,7 +120,7 @@ Hexcode  Cipher Suite Name (OpenSSL)       KeyExch.   Encryption  Bits     Ciphe
   <span style="font-weight:bold;"> Trust (hostname)             </span><span style="color:#008817;">Ok via SAN and CN</span> (SNI mandatory)
   <span style="font-weight:bold;"> Chain of trust</span>               <span style="color:#008817;">Ok   </span><span style="color:#cd00cd;"></span>
   <span style="font-weight:bold;"> EV cert</span> (experimental)       no 
-  <span style="font-weight:bold;"> Certificate Validity (UTC)   </span><span style="color:#c05600;">expires &lt; 60 days (39)</span> (2023-09-07 00:00 --&gt; 2024-09-05 23:59)
+  <span style="font-weight:bold;"> Certificate Validity (UTC)   </span><span style="color:#c05600;">expires &lt; 60 days (32)</span> (2023-09-07 00:00 --&gt; 2024-09-05 23:59)
   <span style="font-weight:bold;"> ETS/&quot;eTLS&quot;</span>, visibility info  not present
   <span style="font-weight:bold;"> Certificate Revocation List  </span>http://crl3.digicert.com/CloudflareIncRSACA-2.crl
                                 http://crl4.digicert.com/CloudflareIncRSACA-2.crl
@@ -147,7 +147,7 @@ Hexcode  Cipher Suite Name (OpenSSL)       KeyExch.   Encryption  Bits     Ciphe
   <span style="font-weight:bold;"> Trust (hostname)             </span><span style="color:#008817;">Ok via SAN and CN</span> (SNI mandatory)
   <span style="font-weight:bold;"> Chain of trust</span>               <span style="color:#008817;">Ok   </span><span style="color:#cd00cd;"></span>
   <span style="font-weight:bold;"> EV cert</span> (experimental)       no 
-  <span style="font-weight:bold;"> Certificate Validity (UTC)   </span><span style="color:#c05600;">expires &lt; 60 days (39)</span> (2023-09-07 00:00 --&gt; 2024-09-05 23:59)
+  <span style="font-weight:bold;"> Certificate Validity (UTC)   </span><span style="color:#c05600;">expires &lt; 60 days (32)</span> (2023-09-07 00:00 --&gt; 2024-09-05 23:59)
   <span style="font-weight:bold;"> ETS/&quot;eTLS&quot;</span>, visibility info  not present
   <span style="font-weight:bold;"> Certificate Revocation List  </span>http://crl3.digicert.com/CloudflareIncECCCA-3.crl
                                 http://crl4.digicert.com/CloudflareIncECCCA-3.crl
@@ -165,11 +165,11 @@ Hexcode  Cipher Suite Name (OpenSSL)       KeyExch.   Encryption  Bits     Ciphe
 <span style="text-decoration:underline;font-weight:bold;"> Testing HTTP header response @ &quot;/&quot; </span>
 
 <span style="font-weight:bold;"> HTTP Status Code           </span>  200 OK
-<span style="font-weight:bold;"> HTTP clock skew              </span>+382 sec from localtime
-<span style="font-weight:bold;"> HTTP Age</span> (RFC 7234)          382
-<span style="font-weight:bold;"> IPv4 address in header       </span><span style="color:#c05600;">Set-Cookie: __cf_bm=k9XjjP4Y7nYai3pQnY4WHIYb3n4owCLjYwdSP3T_Umg-1722183784-1.0.1.1-nlW6Z.fKxFDtXfP0xlUMj7atf63nkpidBAa34RNAsY5B3iNc.fOEjORjiJElmTGSk6JYvSZraqcV9r0UTh9icg; path=/; expires=Sun, 28-Jul-24 16:53:04 GMT; domain=.datasubvention.beta.gouv.fr; HttpOnly; Secure; SameSite=None</span>
+<span style="font-weight:bold;"> HTTP clock skew              </span>+330 sec from localtime
+<span style="font-weight:bold;"> HTTP Age</span> (RFC 7234)          330
+<span style="font-weight:bold;"> IPv4 address in header       </span><span style="color:#c05600;">Set-Cookie: __cf_bm=G0SSnT7JZfY2IxTpfgzYHR5ArzPU_XtUnnFfbblXSGE-1722785715-1.0.1.1-RQD18oaAUZOrzeSuOJ4oRLJE.El61KZUdehh5gL1_Y19c8KqdMmd83kPz45qk0lfxHT0L5Mt2yzoIjexo6pEyQ; path=/; expires=Sun, 04-Aug-24 16:05:15 GMT; domain=.datasubvention.beta.gouv.fr; HttpOnly; Secure; SameSite=None</span>
                               (check if it&apos;s your IP address or e.g. a cluster IP)
-                              <span style="color:#c05600;">Set-Cookie: _cfuvid=.yX1C8eaXE4CdfrNuWOaoGg1VbtmpJxQ8mD4iro_PKA-1722183784823-0.0.1.1-604800000; path=/; domain=.datasubvention.beta.gouv.fr; HttpOnly; Secure; SameSite=None</span>
+                              <span style="color:#c05600;">Set-Cookie: _cfuvid=ASPFsKxS08cNI.K5.92goWTEswstdFRSoamTkBAqkCs-1722785715740-0.0.1.1-604800000; path=/; domain=.datasubvention.beta.gouv.fr; HttpOnly; Secure; SameSite=None</span>
                               
 <span style="font-weight:bold;"> Strict Transport Security    </span><span style="color:#a86437;">not offered</span>
 <span style="font-weight:bold;"> Public Key Pinning           </span>--
@@ -257,10 +257,10 @@ Hexcode  Cipher Suite Name (OpenSSL)       KeyExch.   Encryption  Bits     Ciphe
 <span style="font-weight:bold;"> Overall Grade                </span><span style="color:#008817;font-weight:bold;">A</span>
 <span style="font-weight:bold;"> Grade cap reasons            </span>Grade capped to A. HSTS is not offered
 
-<span style="color:white;background-color:black;"> Done 2024-07-28 16:23:43 [  56s] --&gt;&gt; 162.159.138.9:443 (datasubvention.beta.gouv.fr) &lt;&lt;--</span>
+<span style="color:white;background-color:black;"> Done 2024-08-04 15:35:55 [  58s] --&gt;&gt; 162.159.138.9:443 (datasubvention.beta.gouv.fr) &lt;&lt;--</span>
 
 -----------------------------------------------------
-<span style="color:white;background-color:black;"> Start 2024-07-28 16:23:43                --&gt;&gt; 162.159.137.9:443 (datasubvention.beta.gouv.fr) &lt;&lt;--</span>
+<span style="color:white;background-color:black;"> Start 2024-08-04 15:35:55                --&gt;&gt; 162.159.137.9:443 (datasubvention.beta.gouv.fr) &lt;&lt;--</span>
 
  Further IP addresses:   162.159.138.9 2606:4700:7::a29f:8a09
                          2606:4700:7::a29f:8909 
@@ -353,7 +353,7 @@ Hexcode  Cipher Suite Name (OpenSSL)       KeyExch.   Encryption  Bits     Ciphe
   <span style="font-weight:bold;"> Trust (hostname)             </span><span style="color:#008817;">Ok via SAN and CN</span> (SNI mandatory)
   <span style="font-weight:bold;"> Chain of trust</span>               <span style="color:#008817;">Ok   </span><span style="color:#cd00cd;"></span>
   <span style="font-weight:bold;"> EV cert</span> (experimental)       no 
-  <span style="font-weight:bold;"> Certificate Validity (UTC)   </span><span style="color:#c05600;">expires &lt; 60 days (39)</span> (2023-09-07 00:00 --&gt; 2024-09-05 23:59)
+  <span style="font-weight:bold;"> Certificate Validity (UTC)   </span><span style="color:#c05600;">expires &lt; 60 days (32)</span> (2023-09-07 00:00 --&gt; 2024-09-05 23:59)
   <span style="font-weight:bold;"> ETS/&quot;eTLS&quot;</span>, visibility info  not present
   <span style="font-weight:bold;"> Certificate Revocation List  </span>http://crl3.digicert.com/CloudflareIncRSACA-2.crl
                                 http://crl4.digicert.com/CloudflareIncRSACA-2.crl
@@ -380,7 +380,7 @@ Hexcode  Cipher Suite Name (OpenSSL)       KeyExch.   Encryption  Bits     Ciphe
   <span style="font-weight:bold;"> Trust (hostname)             </span><span style="color:#008817;">Ok via SAN and CN</span> (SNI mandatory)
   <span style="font-weight:bold;"> Chain of trust</span>               <span style="color:#008817;">Ok   </span><span style="color:#cd00cd;"></span>
   <span style="font-weight:bold;"> EV cert</span> (experimental)       no 
-  <span style="font-weight:bold;"> Certificate Validity (UTC)   </span><span style="color:#c05600;">expires &lt; 60 days (39)</span> (2023-09-07 00:00 --&gt; 2024-09-05 23:59)
+  <span style="font-weight:bold;"> Certificate Validity (UTC)   </span><span style="color:#c05600;">expires &lt; 60 days (32)</span> (2023-09-07 00:00 --&gt; 2024-09-05 23:59)
   <span style="font-weight:bold;"> ETS/&quot;eTLS&quot;</span>, visibility info  not present
   <span style="font-weight:bold;"> Certificate Revocation List  </span>http://crl3.digicert.com/CloudflareIncECCCA-3.crl
                                 http://crl4.digicert.com/CloudflareIncECCCA-3.crl
@@ -398,11 +398,11 @@ Hexcode  Cipher Suite Name (OpenSSL)       KeyExch.   Encryption  Bits     Ciphe
 <span style="text-decoration:underline;font-weight:bold;"> Testing HTTP header response @ &quot;/&quot; </span>
 
 <span style="font-weight:bold;"> HTTP Status Code           </span>  200 OK
-<span style="font-weight:bold;"> HTTP clock skew              </span>+436 sec from localtime
-<span style="font-weight:bold;"> HTTP Age</span> (RFC 7234)          436
-<span style="font-weight:bold;"> IPv4 address in header       </span><span style="color:#c05600;">Set-Cookie: __cf_bm=xJBR.TYyrDiPX9InuSnl8l5woLejDllFfq96phuYIvQ-1722183838-1.0.1.1-BphZTKkPcjnmqiSbt1Ro6zvWi0t.2pF8_8oxPnyLUwzf5zwfSLoK4FnOIt1YluLPOQtpNldpsFRmhuM4Zeey_g; path=/; expires=Sun, 28-Jul-24 16:53:58 GMT; domain=.datasubvention.beta.gouv.fr; HttpOnly; Secure; SameSite=None</span>
+<span style="font-weight:bold;"> HTTP clock skew              </span>+386 sec from localtime
+<span style="font-weight:bold;"> HTTP Age</span> (RFC 7234)          386
+<span style="font-weight:bold;"> IPv4 address in header       </span><span style="color:#c05600;">Set-Cookie: __cf_bm=v7GnC1fjoONoxSF7Q.f6Fd7MXl2g.ohD4I3TACjQ8_E-1722785771-1.0.1.1-yE0sXBwDj7X.DYD5btSRXzEhwMyzp2oRXXu28w9WE9RbACqCt8itXT6ZqZzmwGEvnYK_2vqBI7nJ7viI9KkIgQ; path=/; expires=Sun, 04-Aug-24 16:06:11 GMT; domain=.datasubvention.beta.gouv.fr; HttpOnly; Secure; SameSite=None</span>
                               (check if it&apos;s your IP address or e.g. a cluster IP)
-                              <span style="color:#c05600;">Set-Cookie: _cfuvid=nDcdC7GMrYXRQ7PyEgkpGdSP0kBrGdPLZC79MhtkNmI-1722183838491-0.0.1.1-604800000; path=/; domain=.datasubvention.beta.gouv.fr; HttpOnly; Secure; SameSite=None</span>
+                              <span style="color:#c05600;">Set-Cookie: _cfuvid=I5nRb6fiXkGxHLZ8jrqtsLtfDAHcj2d6TfjAR6GTv6A-1722785771915-0.0.1.1-604800000; path=/; domain=.datasubvention.beta.gouv.fr; HttpOnly; Secure; SameSite=None</span>
                               
 <span style="font-weight:bold;"> Strict Transport Security    </span><span style="color:#a86437;">not offered</span>
 <span style="font-weight:bold;"> Public Key Pinning           </span>--
@@ -490,7 +490,7 @@ Hexcode  Cipher Suite Name (OpenSSL)       KeyExch.   Encryption  Bits     Ciphe
 <span style="font-weight:bold;"> Overall Grade                </span><span style="color:#008817;font-weight:bold;">A</span>
 <span style="font-weight:bold;"> Grade cap reasons            </span>Grade capped to A. HSTS is not offered
 
-<span style="color:white;background-color:black;"> Done 2024-07-28 16:24:36 [ 109s] --&gt;&gt; 162.159.137.9:443 (datasubvention.beta.gouv.fr) &lt;&lt;--</span>
+<span style="color:white;background-color:black;"> Done 2024-08-04 15:36:51 [ 114s] --&gt;&gt; 162.159.137.9:443 (datasubvention.beta.gouv.fr) &lt;&lt;--</span>
 
 -----------------------------------------------------
 <span style="font-weight:bold;">Done testing now all IP addresses (on port 443): </span>162.159.138.9 162.159.137.9
