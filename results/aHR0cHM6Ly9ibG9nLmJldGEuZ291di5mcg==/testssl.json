@@ -346,7 +346,7 @@
               "ip"           : "blog.beta.gouv.fr/109.232.233.130",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "79 >= 30 days"
+              "finding"      : "72 >= 30 days"
           }
 ,         {
               "id"           : "cert_notBefore",
@@ -507,7 +507,7 @@
               "ip"           : "blog.beta.gouv.fr/109.232.233.130",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1722132796"
+              "finding"      : "1722737433"
           }
 ,         {
               "id"           : "HSTS_time",
@@ -1412,7 +1412,7 @@
               "ip"           : "blog.beta.gouv.fr/5.104.101.30",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "79 >= 30 days"
+              "finding"      : "72 >= 30 days"
           }
 ,         {
               "id"           : "cert_notBefore",
@@ -1573,7 +1573,7 @@
               "ip"           : "blog.beta.gouv.fr/5.104.101.30",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1722132848"
+              "finding"      : "1722737530"
           }
 ,         {
               "id"           : "HSTS_time",
@@ -2478,7 +2478,7 @@
               "ip"           : "blog.beta.gouv.fr/148.253.75.120",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "79 >= 30 days"
+              "finding"      : "72 >= 30 days"
           }
 ,         {
               "id"           : "cert_notBefore",
@@ -2639,7 +2639,7 @@
               "ip"           : "blog.beta.gouv.fr/148.253.75.120",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1722132900"
+              "finding"      : "1722737627"
           }
 ,         {
               "id"           : "HSTS_time",
@@ -3544,7 +3544,7 @@
               "ip"           : "blog.beta.gouv.fr/109.232.236.90",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "79 >= 30 days"
+              "finding"      : "72 >= 30 days"
           }
 ,         {
               "id"           : "cert_notBefore",
@@ -3705,7 +3705,7 @@
               "ip"           : "blog.beta.gouv.fr/109.232.236.90",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1722132952"
+              "finding"      : "1722737725"
           }
 ,         {
               "id"           : "HSTS_time",
@@ -4268,6 +4268,6 @@
               "ip"           : "blog.beta.gouv.fr/109.232.236.90",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "212"
+              "finding"      : "394"
           }
 ]
