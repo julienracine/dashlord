@@ -6,10 +6,40 @@
     },
     {
       "type": "unknown",
-      "url": "https://heapanalytics.com/h?a=3380454554&u=1185810771777840&v=8289760879563745&s=5563361318978182&b=web&tv=4.0&z=0&h=%2F&d=rnb.beta.gouv.fr&t=R%C3%A9f%C3%A9rentiel%20National%20des%20B%C3%A2timents&ts=1722190637180&sch=600&scw=800&st=1722190637183"
+      "url": "https://heapanalytics.com/h?a=3380454554&u=3068989419971034&v=8497379608276282&s=5924656062957498&b=web&tv=4.0&z=0&h=%2F&d=rnb.beta.gouv.fr&t=R%C3%A9f%C3%A9rentiel%20National%20des%20B%C3%A2timents&ts=1722792146867&sch=600&scw=800&st=1722792146899"
     }
   ],
   "cookies": [
+    {
+      "name": "_hp2_ses_props.3380454554",
+      "value": "%7B%22z%22%3A0%2C%22ts%22%3A1722792146867%2C%22d%22%3A%22rnb.beta.gouv.fr%22%2C%22h%22%3A%22%2F%22%2C%22t%22%3A%22R%C3%A9f%C3%A9rentiel%20National%20des%20B%C3%A2timents%22%7D",
+      "domain": ".beta.gouv.fr",
+      "path": "/",
+      "expires": 1722793946,
+      "size": 200,
+      "httpOnly": false,
+      "secure": false,
+      "session": false,
+      "sameSite": "Lax",
+      "sameParty": false,
+      "sourceScheme": "Secure",
+      "sourcePort": 443
+    },
+    {
+      "name": "_hp2_id.3380454554",
+      "value": "%7B%22userId%22%3A%223068989419971034%22%2C%22pageviewId%22%3A%228497379608276282%22%2C%22sessionId%22%3A%225924656062957498%22%2C%22identity%22%3Anull%2C%22trackerVersion%22%3A%224.0%22%7D",
+      "domain": ".beta.gouv.fr",
+      "path": "/",
+      "expires": 1756869746,
+      "size": 207,
+      "httpOnly": false,
+      "secure": false,
+      "session": false,
+      "sameSite": "Lax",
+      "sameParty": false,
+      "sourceScheme": "Secure",
+      "sourcePort": 443
+    },
     {
       "name": "__Secure-next-auth.callback-url",
       "value": "https%3A%2F%2Frnb.beta.gouv.fr",
@@ -27,7 +57,7 @@
     },
     {
       "name": "__Host-next-auth.csrf-token",
-      "value": "85bf9aeef18b5c12fd69adf2faa0bf7eb6dc56abd6db94912dd8a05a35086ff8%7C0c7381f3a0fb9035d90a567e1a4946ee7b16608a782cc71ef741f2efeb2fad30",
+      "value": "25db07e745b4cf88c880147c704e45a2dc293053bfce479b87d25fcbd315e7b9%7C463deede38f4b7cf745f7ec2bbde2c8644501c038880fde0b3f7576be7e9cead",
       "domain": "rnb.beta.gouv.fr",
       "path": "/",
       "expires": -1,
@@ -42,19 +72,19 @@
     }
   ],
   "headers": {
-    "age": "142",
+    "age": "25",
     "cache-control": "public, max-age=0, must-revalidate",
     "content-encoding": "br",
     "content-type": "text/html; charset=utf-8",
-    "date": "Sun, 28 Jul 2024 18:14:54 GMT",
-    "etag": "W/\"63gcqmdl0qzkz\"",
+    "date": "Sun, 04 Aug 2024 17:22:01 GMT",
+    "etag": "W/\"lvkubeqdfmzkz\"",
     "server": "Vercel",
     "strict-transport-security": "max-age=63072000",
     "vary": "RSC, Next-Router-State-Tree, Next-Router-Prefetch",
     "x-matched-path": "/",
     "x-powered-by": "Next.js",
     "x-vercel-cache": "STALE",
-    "x-vercel-id": "iad1::iad1::dvvq9-1722190636594-520d891e79d2"
+    "x-vercel-id": "iad1::iad1::s2sck-1722792146397-c2b10d3bdb1e"
   },
   "endpoints": [
     {
@@ -141,7 +171,7 @@
     },
     {
       "hostname": "cdn.heapanalytics.com",
-      "ip": "3.162.125.63",
+      "ip": "3.162.125.36",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -195,7 +225,7 @@
     },
     {
       "hostname": "heapanalytics.com",
-      "ip": "54.175.178.227",
+      "ip": "3.229.230.19",
       "geoip": {
         "city": {
           "geoname_id": 4744870,
