@@ -26,7 +26,7 @@
     },
     {
       "type": "crisp",
-      "url": "https://client.crisp.chat/settings/website/1ece6c2f-2fa1-4425-a3bb-c6be0432354a/prelude/?callback=window.%24__CRISP_INSTANCE.__spool.website_prelude_handler&2024-6-28-6-36",
+      "url": "https://client.crisp.chat/settings/website/1ece6c2f-2fa1-4425-a3bb-c6be0432354a/prelude/?callback=window.%24__CRISP_INSTANCE.__spool.website_prelude_handler&2024-7-4-6-19",
       "details": {
         "id": "crisp",
         "message": "Ensure your TOS notify the CRISP usage"
@@ -52,10 +52,10 @@
   "cookies": [
     {
       "name": "csrftoken",
-      "value": "IHAbBf9elbgEMscDPDv4xkyhhWkVnZk7PpAb3EWFhv2vaAUSepHdRJu0ijYNUrr3",
+      "value": "FVm2JHtwNFiNvGO61Tp7wVHPbg1vt44ZfvZq1qUD6Fm5kgU9dQFtIoFcjtITyKG9",
       "domain": "partaj.ecologie.gouv.fr",
       "path": "/",
-      "expires": 1753598199.900603,
+      "expires": 1754201959.586014,
       "size": 73,
       "httpOnly": false,
       "secure": true,
@@ -69,13 +69,13 @@
   "headers": {
     "content-encoding": "gzip",
     "content-type": "text/html; charset=utf-8",
-    "date": "Sun, 28 Jul 2024 06:36:39 GMT",
-    "set-cookie": "csrftoken=IHAbBf9elbgEMscDPDv4xkyhhWkVnZk7PpAb3EWFhv2vaAUSepHdRJu0ijYNUrr3; expires=Sun, 27 Jul 2025 06:36:39 GMT; Max-Age=31449600; Path=/; SameSite=Lax; Secure",
+    "date": "Sun, 04 Aug 2024 06:19:19 GMT",
+    "set-cookie": "csrftoken=FVm2JHtwNFiNvGO61Tp7wVHPbg1vt44ZfvZq1qUD6Fm5kgU9dQFtIoFcjtITyKG9; expires=Sun, 03 Aug 2025 06:19:19 GMT; Max-Age=31449600; Path=/; SameSite=Lax; Secure",
     "strict-transport-security": "max-age=31536000",
     "vary": "Cookie",
     "x-content-type-options": "nosniff",
     "x-frame-options": "DENY",
-    "x-request-id": "81b9b3af-26ef-46c6-bec7-f55909014db5",
+    "x-request-id": "a7e97232-6d8e-46cf-a029-e80e0e4b8776",
     "x-xss-protection": "1; mode=block"
   },
   "endpoints": [
