@@ -1,6 +1,6 @@
-# Nmap 7.92 scan initiated Sun Jul 28 15:40:10 2024 as: nmap -sV --script vulners --script-args mincvss=5.0 -oA /data/nmapvuln mon.franceconnect.gouv.fr
+# Nmap 7.92 scan initiated Sun Aug  4 14:57:57 2024 as: nmap -sV --script vulners --script-args mincvss=5.0 -oA /data/nmapvuln mon.franceconnect.gouv.fr
 Nmap scan report for mon.franceconnect.gouv.fr (148.253.96.161)
-Host is up (0.083s latency).
+Host is up (0.15s latency).
 rDNS record for 148.253.96.161: ows-148-253-96-161.cloudgouv-eu-west-1.compute.outscale.com
 Not shown: 998 filtered tcp ports (no-response)
 PORT    STATE SERVICE  VERSION
@@ -9,4 +9,4 @@ PORT    STATE SERVICE  VERSION
 |_http-trane-info: Problem with XML parsing of /evox/about
 
 Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
-# Nmap done at Sun Jul 28 15:40:39 2024 -- 1 IP address (1 host up) scanned in 29.70 seconds
+# Nmap done at Sun Aug  4 14:58:36 2024 -- 1 IP address (1 host up) scanned in 38.76 seconds
