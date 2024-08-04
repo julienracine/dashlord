@@ -54,7 +54,7 @@
     },
     {
       "type": "google fonts",
-      "url": "https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu4mxK.woff2",
+      "url": "https://fonts.gstatic.com/s/roboto/v32/KFOmCnqEu92Fr1Mu4mxK.woff2",
       "details": {
         "id": "google fonts",
         "message": "Host the font locally with https://github.com/neverpanic/google-font-download or https://google-webfonts-helper.herokuapp.com/"
@@ -74,7 +74,7 @@
     },
     {
       "type": "google fonts",
-      "url": "https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu4mxK.woff2",
+      "url": "https://fonts.gstatic.com/s/roboto/v32/KFOmCnqEu92Fr1Mu4mxK.woff2",
       "details": {
         "id": "google fonts",
         "message": "Host the font locally with https://github.com/neverpanic/google-font-download or https://google-webfonts-helper.herokuapp.com/"
@@ -90,7 +90,7 @@
     },
     {
       "type": "unknown",
-      "url": "https://hd.pe.fr/event?s=475540&idclient=lz5o40oow88j1crz"
+      "url": "https://hd.pe.fr/event?s=475540&idclient=lzfmxa551tubwtpx"
     },
     {
       "type": "unknown",
@@ -98,7 +98,7 @@
     },
     {
       "type": "unknown",
-      "url": "https://hd.pe.fr/event?s=475540&idclient=lz5o40oow88j1crz"
+      "url": "https://hd.pe.fr/event?s=475540&idclient=lzfmxa551tubwtpx"
     },
     {
       "type": "unknown",
@@ -145,20 +145,12 @@
       "url": "https://candidat.francetravail.fr/mobiville/static/media/home-bg.4e918c4b2800bcb748fa.avif"
     },
     {
-      "type": "google fonts",
-      "url": "https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfBBc4.woff2",
-      "details": {
-        "id": "google fonts",
-        "message": "Host the font locally with https://github.com/neverpanic/google-font-download or https://google-webfonts-helper.herokuapp.com/"
-      }
-    },
-    {
       "type": "unknown",
       "url": "https://www.francetravail.fr/files/live/sites/PE/files/images/Logos/header-logo2021-pe-fr.svg"
     },
     {
       "type": "google fonts",
-      "url": "https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfBBc4.woff2",
+      "url": "https://fonts.gstatic.com/s/roboto/v32/KFOlCnqEu92Fr1MmWUlfBBc4.woff2",
       "details": {
         "id": "google fonts",
         "message": "Host the font locally with https://github.com/neverpanic/google-font-download or https://google-webfonts-helper.herokuapp.com/"
@@ -169,32 +161,36 @@
       "url": "https://candidat.francetravail.fr/mobiville/api/helps/get-previews"
     },
     {
+      "type": "google fonts",
+      "url": "https://fonts.gstatic.com/s/roboto/v32/KFOlCnqEu92Fr1MmWUlfBBc4.woff2",
+      "details": {
+        "id": "google fonts",
+        "message": "Host the font locally with https://github.com/neverpanic/google-font-download or https://google-webfonts-helper.herokuapp.com/"
+      }
+    },
+    {
       "type": "unknown",
       "url": "https://candidat.francetravail.fr/mobiville/static/media/guide-banner-mobile.b55883ebdb202a57031f.png"
     },
     {
       "type": "unknown",
+      "url": "https://cdn.francetravail.fr/error/409.html"
+    },
+    {
+      "type": "unknown",
+      "url": "https://cdn.francetravail.fr/error/409.html"
+    },
+    {
+      "type": "unknown",
+      "url": "https://cdn.francetravail.fr/error/409.html"
+    },
+    {
+      "type": "unknown",
+      "url": "https://cdn.francetravail.fr/error/409.html"
+    },
+    {
+      "type": "unknown",
       "url": "https://candidat.francetravail.fr/mobiville/help-logos/120px/action-logement.png"
-    },
-    {
-      "type": "unknown",
-      "url": "https://cdn.francetravail.fr/error/409.html"
-    },
-    {
-      "type": "unknown",
-      "url": "https://cdn.francetravail.fr/error/409.html"
-    },
-    {
-      "type": "unknown",
-      "url": "https://cdn.francetravail.fr/error/409.html"
-    },
-    {
-      "type": "unknown",
-      "url": "https://candidat.francetravail.fr/mobiville/api/cities/autocomplete"
-    },
-    {
-      "type": "unknown",
-      "url": "https://cdn.francetravail.fr/error/409.html"
     },
     {
       "type": "unknown",
@@ -203,12 +199,16 @@
     {
       "type": "unknown",
       "url": "https://www.francetravail.fr/files/live/sites/PE/files/images/Logos/header-logo2023-ft-fr.svg"
+    },
+    {
+      "type": "unknown",
+      "url": "https://candidat.francetravail.fr/mobiville/api/cities/autocomplete"
     }
   ],
   "cookies": [
     {
       "name": "TS016fc3b0",
-      "value": "0150c672c3ad7b56ff726f0a0e1c5cc12d01cc404c3d8f8a33cf388044f4d8eeb9f1cfd68303beb925d3f2dad288a631ae6a1f91e8",
+      "value": "0150c672c38b9ef03ce5e9a75028a141648e3b7c92b1dba38098431171bcaf41c7a46faaa0add6d64eb3139ef4056a4a23d416e847",
       "domain": ".candidat.francetravail.fr",
       "path": "/",
       "expires": -1,
@@ -253,10 +253,10 @@
     "cache-control": "no-store, no-cache, must-revalidate, proxy-revalidate, max-age=0",
     "content-encoding": "gzip",
     "content-type": "text/html",
-    "date": "Sun, 28 Jul 2024 14:40:55 GMT",
+    "date": "Sun, 04 Aug 2024 14:05:23 GMT",
     "last-modified": "Tue, 16 Jul 2024 16:59:33 GMT",
     "referrer-policy": "no-referrer-when-downgrade",
-    "set-cookie": "Path=/; HttpOnly; Secure\nBIGipServerPOOL_Z2_PROD_MOP_HTTP=2023492362.20480.0000; path=/; Httponly; Secure\nTS016fc3b0=0150c672c3ad7b56ff726f0a0e1c5cc12d01cc404c3d8f8a33cf388044f4d8eeb9f1cfd68303beb925d3f2dad288a631ae6a1f91e8; Path=/; Domain=.candidat.francetravail.fr",
+    "set-cookie": "Path=/; HttpOnly; Secure\nBIGipServerPOOL_Z2_PROD_MOP_HTTP=2023492362.20480.0000; path=/; Httponly; Secure\nTS016fc3b0=0150c672c38b9ef03ce5e9a75028a141648e3b7c92b1dba38098431171bcaf41c7a46faaa0add6d64eb3139ef4056a4a23d416e847; Path=/; Domain=.candidat.francetravail.fr",
     "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
     "transfer-encoding": "chunked",
     "vary": "Accept-Encoding",
@@ -424,7 +424,7 @@
     },
     {
       "hostname": "fonts.googleapis.com",
-      "ip": "142.250.188.10",
+      "ip": "64.233.180.95",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -579,7 +579,7 @@
     },
     {
       "hostname": "fonts.gstatic.com",
-      "ip": "142.250.189.195",
+      "ip": "172.253.63.94",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -703,7 +703,7 @@
     },
     {
       "hostname": "tag.aticdn.net",
-      "ip": "13.35.122.2",
+      "ip": "18.160.18.104",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -757,7 +757,7 @@
     },
     {
       "hostname": "hd.pe.fr",
-      "ip": "18.173.121.17",
+      "ip": "18.160.18.7",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -811,7 +811,7 @@
     },
     {
       "hostname": "privacy.trustcommander.net",
-      "ip": "35.181.10.206",
+      "ip": "15.188.131.7",
       "geoip": {
         "city": {
           "geoname_id": 2988507,
