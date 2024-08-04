@@ -472,7 +472,7 @@
               "ip"           : "marcenais-33620.collectivite.fr/51.159.10.161",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1722182268"
+              "finding"      : "1722784791"
           }
 ,         {
               "id"           : "HSTS",
@@ -1049,6 +1049,6 @@
               "ip"           : "marcenais-33620.collectivite.fr/51.159.10.161",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "69"
+              "finding"      : "133"
           }
 ]
