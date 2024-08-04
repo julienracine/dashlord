@@ -43,22 +43,8 @@
   ],
   "cookies": [
     {
-      "name": "bln_challengejs",
-      "value": "2_TrqtTLuatz3kTNAYIGc7x8gaBdsdFzXOjBuep1KHCHpQa6tKn5nqtbHebu8NsdtM8QOVGF2RxTYve3MjOdD1LoYJfQWC1Qx-3vr_qSAsSNC9sgy-5No4lTVU1-0c-H6a9aQ7EGr6t_IoIuBX__rPeMI9GpRDsxCgPsbIZo3ORu6qsk-9-VcsdOWGAhQAFaCv211zZdeXbY8TarssIBAyQA7eWVVXVNlMrSiP57qEhKYjewhnvPqhp1zH_houLR68sbjLRyNjAL2EOVZdLQbw",
-      "domain": ".numerique.gouv.fr",
-      "path": "/",
-      "expires": 1722159109.126101,
-      "size": 293,
-      "httpOnly": false,
-      "secure": false,
-      "session": false,
-      "sameParty": false,
-      "sourceScheme": "Secure",
-      "sourcePort": 443
-    },
-    {
       "name": "JSESSIONID",
-      "value": "7782A36791A0776A7C3589385BAEB799.n1",
+      "value": "CEB732E1355BB8CC264EB1779961930B.n1",
       "domain": "osmose.numerique.gouv.fr",
       "path": "/",
       "expires": -1,
@@ -71,15 +57,15 @@
       "sourcePort": 443
     },
     {
-      "name": "jcms.prefs",
-      "value": "%7B%22id%22%3A%22jcms%22%7D",
-      "domain": "osmose.numerique.gouv.fr",
-      "path": "/plugins/DINUMThemePlugin/jsp/front",
-      "expires": -1,
-      "size": 37,
+      "name": "bln_challengejs",
+      "value": "NpQ5KeZ5zm-eEqy5MmQkbW0ayyyAudoBUMHacrIzDIDOYXQPgYD_l5xhacG-mHDaoCZLHpvbz4C184iOp5YLHIoplob_32arA0rOEO9592ttc3M9MzdAjE_QOYKu5__mMJct40eQ9zhykLbpq_UTUtRz_txix2ytT4NRKqFhpIiaFdOXtRbyIIkoxS01oa18UTZVuPX3YeQiQkI33FqcO5WddkGv1RMg-4JlUXytRBKFl_3osqwlpTo_6EnRZ3xElFHcEMJQ30Is8I-o7WrNjw",
+      "domain": ".numerique.gouv.fr",
+      "path": "/",
+      "expires": 1722762664.411064,
+      "size": 293,
       "httpOnly": false,
       "secure": false,
-      "session": true,
+      "session": false,
       "sameParty": false,
       "sourceScheme": "Secure",
       "sourcePort": 443
@@ -89,7 +75,7 @@
     "cache-control": "no-cache, no-store, must-revalidate",
     "content-encoding": "gzip",
     "content-type": "text/html;charset=UTF-8",
-    "date": "Sun, 28 Jul 2024 09:16:49 GMT",
+    "date": "Sun, 04 Aug 2024 08:56:04 GMT",
     "expires": "0",
     "feature-policy": "accelerometer 'none'; autoplay 'none'; camera *; geolocation 'none'; gyroscope 'none'; magnetometer 'none'; microphone *; midi 'none'; payment 'none'; usb 'none';",
     "permissions-policy": "accelerometer=(), autoplay=(), camera=*, geolocation=(), gyroscope=(), magnetometer=(), microphone=*, midi=(), payment=(), usb=()",
@@ -158,7 +144,7 @@
     },
     {
       "hostname": "fonts.googleapis.com",
-      "ip": "142.250.191.106",
+      "ip": "172.253.115.95",
       "geoip": {
         "continent": {
           "code": "NA",
