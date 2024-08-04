@@ -54,7 +54,7 @@
 <h1>Scan Report<br><small>Nmap 7.92</small>
 </h1>
 <pre style="white-space:pre-wrap; word-wrap:break-word;">nmap -sV --script vulners --script-args mincvss=5.0 -oA /data/nmapvuln conseillers-entreprises.service-public.fr</pre>
-<p class="lead">Sun Jul 28 07:24:17 2024 – Sun Jul 28 07:24:45 2024<br>1 hosts scanned.
+<p class="lead">Sun Aug  4 07:10:37 2024 – Sun Aug  4 07:11:15 2024<br>1 hosts scanned.
               1 hosts up.
               0 hosts down.
             </p>
@@ -119,103 +119,65 @@
 <tr><td colspan="7">
 <a href="https://nvd.nist.gov/vuln/search/results?form_type=Advanced&amp;cves=on&amp;cpe_version="></a><h5>fingerprint-strings</h5>
 <pre style="white-space:pre-wrap; word-wrap:break-word;">
-  FourOhFourRequest: 
-    HTTP/1.1 301 Moved Permanently
-    Date: Sun, 28 Jul 2024 07:24:31 GMT
+  GetRequest: 
+    HTTP/1.1 200 OK
+    Date: Sun, 04 Aug 2024 07:10:51 GMT
     Content-Type: text/html
-    Content-Length: 166
+    Content-Length: 3884
     Connection: close
-    Location: https://conseillers-entreprises.service-public.fr/nice%20ports%2C/Tri%6Eity.txt%2ebak
-    &lt;html&gt;
-    &lt;head&gt;&lt;title&gt;301 Moved Permanently&lt;/title&gt;&lt;/head&gt;
-    &lt;body&gt;
-    &lt;center&gt;&lt;h1&gt;301 Moved Permanently&lt;/h1&gt;&lt;/center&gt;
-    &lt;hr&gt;&lt;center&gt;openresty&lt;/center&gt;
-    &lt;/body&gt;
-    &lt;/html&gt;
-  GetRequest, HTTPOptions: 
-    HTTP/1.1 301 Moved Permanently
-    Date: Sun, 28 Jul 2024 07:24:31 GMT
+    Referrer-Policy: no-referrer
+    Cache-Control: no-cache
+    X-Content-Type-Options: nosniff
+    X-XSS-Protection: 1; mode=block
+    &lt;!doctypehtml&gt;&lt;meta name="viewport"content="width=device-width"&gt;&lt;meta charset="utf-8"&gt;&lt;script&gt;&lt;/script&gt;&lt;script&gt;var __blnChallengeStore={"domain":".service-public.fr","unregisterServiceWorker":false,"checkChallengeParams":{"tracking_id":"","request_fate":"challengejs","rule_id":"","bot_category":"unknown"},"cookie":{"path":"/","maxAge":900,"value":"dCzQIIufeBCTrXzSnPGf94HCUZXBNmJRIF-xWIXX5KxBbh_Qh8YPHMtA3JJCidMwcaBN5EVbObCPIQZROLaCCnjSkUPVRjSjzrT-wSVZ7oY","name":"bln_challengejs"}};(()=&gt;{"use strict";const e=function*({domain:e,maxAge:n,name:o,path:a,secure:t,value:i}){yield`${o}=${i}`,void 0!==e&amp;&amp;""!==e&amp;&amp;(yield`Domain=${e}`),void 0!==a&amp;&amp;""!==a&amp;&amp;(yi
+  HTTPOptions: 
+    HTTP/1.1 404 Not Found
+    Date: Sun, 04 Aug 2024 07:10:52 GMT
     Content-Type: text/html
-    Content-Length: 166
     Connection: close
-    Location: https://conseillers-entreprises.service-public.fr/
-    &lt;html&gt;
-    &lt;head&gt;&lt;title&gt;301 Moved Permanently&lt;/title&gt;&lt;/head&gt;
-    &lt;body&gt;
-    &lt;center&gt;&lt;h1&gt;301 Moved Permanently&lt;/h1&gt;&lt;/center&gt;
-    &lt;hr&gt;&lt;center&gt;openresty&lt;/center&gt;
-    &lt;/body&gt;
-    &lt;/html&gt;
-  RTSPRequest, X11Probe: 
-    HTTP/1.1 400 Bad Request
-    Date: Sun, 28 Jul 2024 07:24:31 GMT
-    Content-Type: text/html
-    Content-Length: 154
-    Connection: close
-    &lt;html&gt;
-    &lt;head&gt;&lt;title&gt;400 Bad Request&lt;/title&gt;&lt;/head&gt;
-    &lt;body&gt;
-    &lt;center&gt;&lt;h1&gt;400 Bad Request&lt;/h1&gt;&lt;/center&gt;
-    &lt;hr&gt;&lt;center&gt;openresty&lt;/center&gt;
-    &lt;/body&gt;
-    &lt;/html&gt;</pre>
+    Content-Encoding: identity
+    X-Varnish: 2179851
+    Age: 0
+    X-Content-Type-Options: nosniff
+    Referrer-Policy: origin-when-cross-origin
+    X-XSS-Protection: 1; mode=block
+    &lt;!DOCTYPE html&gt;&lt;html&gt;&lt;head&gt;&lt;meta http-equiv="content-type" content="text/html; charset=UTF-8"&gt;&lt;meta charset="utf-8"&gt;&lt;meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible"&gt;&lt;meta content="width=device-width, initial-scale=1.0" name="viewport"&gt;&lt;title&gt;Application doesn't exist - Scalingo&lt;/title&gt;&lt;style&gt;html { height: 100%;}body { -webkit-transform-style: preserve-3d; transform-style: preserve-3d; text-align: center; height: 100%; margin: 0; padding: 0; background: -webkit-gradient(linear, left top, left bottom, from(#1864ab), to(#099ec9)) left top/100% 100% no-repeat #1864ab; background: linear-gradient(to bottom, #186</pre>
 </td></tr>
 <tr class="success">
 <td title="Port">443</td>
 <td title="Protocol">tcp</td>
 <td title="State / Reason">open<br>syn-ack</td>
-<td title="Service">http-proxy</td>
+<td title="Service">https</td>
 <td title="Product"></td>
 <td title="Version"></td>
-<td title="Extra Info">bad gateway</td>
+<td title="Extra Info"></td>
 </tr>
 <tr><td colspan="7">
 <a href="https://nvd.nist.gov/vuln/search/results?form_type=Advanced&amp;cves=on&amp;cpe_version="></a><h5>fingerprint-strings</h5>
 <pre style="white-space:pre-wrap; word-wrap:break-word;">
-  FourOhFourRequest: 
-    HTTP/1.1 200 OK
-    Date: Sun, 28 Jul 2024 07:24:38 GMT
-    Content-Type: text/html
-    Content-Length: 3884
-    Connection: close
-    Referrer-Policy: no-referrer
-    Cache-Control: no-cache
-    Strict-Transport-Security: max-age=63072000
-    X-Content-Type-Options: nosniff
-    X-XSS-Protection: 1; mode=block
-    &lt;!doctypehtml&gt;&lt;meta name="viewport"content="width=device-width"&gt;&lt;meta charset="utf-8"&gt;&lt;script&gt;&lt;/script&gt;&lt;script&gt;var __blnChallengeStore={"unregisterServiceWorker":false,"checkChallengeParams":{"bot_category":"unknown","rule_id":"","tracking_id":"","request_fate":"challengejs"},"domain":".service-public.fr","cookie":{"name":"bln_challengejs","maxAge":900,"value":"Fl-c8NSEFgWqkFRQWXLtGtAJBJP5P0ORhZu9gtm3r7Et6xNoFwcdpJzTLLzyB-vZ8Yk92rvkL7oEZzYkyFubYnXCzGui8O2tWROgSAGAXKw","path":"/"}};(()=&gt;{"use strict";const e=function*({domain:e,maxAge:n,name:o,path:a,secure:t,value:i}){yield`${o}=${i}`,void 0!==e&amp;&amp;""!==e&amp;
   GetRequest: 
     HTTP/1.1 200 OK
-    Date: Sun, 28 Jul 2024 07:24:37 GMT
+    Date: Sun, 04 Aug 2024 07:10:58 GMT
     Content-Type: text/html
     Content-Length: 3884
     Connection: close
     Referrer-Policy: no-referrer
     Cache-Control: no-cache
-    Strict-Transport-Security: max-age=63072000
     X-Content-Type-Options: nosniff
     X-XSS-Protection: 1; mode=block
-    &lt;!doctypehtml&gt;&lt;meta name="viewport"content="width=device-width"&gt;&lt;meta charset="utf-8"&gt;&lt;script&gt;&lt;/script&gt;&lt;script&gt;var __blnChallengeStore={"unregisterServiceWorker":false,"checkChallengeParams":{"tracking_id":"","bot_category":"unknown","rule_id":"","request_fate":"challengejs"},"domain":".service-public.fr","cookie":{"value":"Fl-c8NSEFgWqkFRQWXLtGsimHhljYncq2OApmG1rqlSDtRObxGo9KE9w6knWo8AIpNNJAupIgenzQHet4nzHd-enBjrcPHrJpWFbg1wV5hk","maxAge":900,"path":"/","name":"bln_challengejs"}};(()=&gt;{"use strict";const e=function*({domain:e,maxAge:n,name:o,path:a,secure:t,value:i}){yield`${o}=${i}`,void 0!==e&amp;&amp;""!==e&amp;
+    &lt;!doctypehtml&gt;&lt;meta name="viewport"content="width=device-width"&gt;&lt;meta charset="utf-8"&gt;&lt;script&gt;&lt;/script&gt;&lt;script&gt;var __blnChallengeStore={"cookie":{"value":"Fl-c8NSEFgWqkFRQWXLtGqrO1M6B2Y2ZBENXdN68aHn2_pLeFu0FMzktURuwzfX2cyn3CbNLTyiNqn_HWe8OApFx6AUqLDeg7lN0zrP5o6A","path":"/","maxAge":900,"name":"bln_challengejs"},"unregisterServiceWorker":false,"checkChallengeParams":{"tracking_id":"","rule_id":"","bot_category":"unknown","request_fate":"challengejs"},"domain":".service-public.fr"};(()=&gt;{"use strict";const e=function*({domain:e,maxAge:n,name:o,path:a,secure:t,value:i}){yield`${o}=${i}`,void 0!==e&amp;&amp;""!==e&amp;&amp;(yield`Domain=${e}`),void 0!==a&amp;&amp;""!==a&amp;&amp;(yi
   HTTPOptions: 
-    HTTP/1.1 502 Bad Gateway
-    Date: Sun, 28 Jul 2024 07:24:37 GMT
+    HTTP/1.1 404 Not Found
+    Date: Sun, 04 Aug 2024 07:10:58 GMT
     Content-Type: text/html
-    Content-Length: 154
     Connection: close
-    X-Varnish: 832086
+    Content-Encoding: identity
+    X-Varnish: 1207607
     Age: 0
-    Strict-Transport-Security: max-age=63072000
     X-Content-Type-Options: nosniff
     Referrer-Policy: origin-when-cross-origin
     X-XSS-Protection: 1; mode=block
-    &lt;html&gt;
-    &lt;head&gt;&lt;title&gt;502 Bad Gateway&lt;/title&gt;&lt;/head&gt;
-    &lt;body&gt;
-    &lt;center&gt;&lt;h1&gt;502 Bad Gateway&lt;/h1&gt;&lt;/center&gt;
-    &lt;hr&gt;&lt;center&gt;openresty&lt;/center&gt;
-    &lt;/body&gt;
-    &lt;/html&gt;</pre>
+    &lt;!DOCTYPE html&gt;&lt;html&gt;&lt;head&gt;&lt;meta http-equiv="content-type" content="text/html; charset=UTF-8"&gt;&lt;meta charset="utf-8"&gt;&lt;meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible"&gt;&lt;meta content="width=device-width, initial-scale=1.0" name="viewport"&gt;&lt;title&gt;Application doesn't exist - Scalingo&lt;/title&gt;&lt;style&gt;html { height: 100%;}body { -webkit-transform-style: preserve-3d; transform-style: preserve-3d; text-align: center; height: 100%; margin: 0; padding: 0; background: -webkit-gradient(linear, left top, left bottom, from(#1864ab), to(#099ec9)) left top/100% 100% no-repeat #1864ab; background: linear-gradient(to bottom, #186</pre>
 </td></tr>
 </tbody>
 </table></div>
@@ -248,11 +210,11 @@
 <td>185.231.164.123 - conseillers-entreprises.service-public.fr</td>
 <td>443</td>
 <td>tcp</td>
-<td>http-proxy</td>
+<td>https</td>
 <td></td>
 <td></td>
 <td></td>
-<td>bad gateway</td>
+<td></td>
 </tr>
 </tbody>
 </table></div>
