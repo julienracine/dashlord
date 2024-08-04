@@ -1,16 +1,16 @@
 {
   "trackers": [
     {
+      "type": "unknown",
+      "url": "https://stonly.com/js/widget/v2/version?v=1722778672446"
+    },
+    {
       "type": "crisp",
       "url": "https://client.crisp.chat/l.js",
       "details": {
         "id": "crisp",
         "message": "Ensure your TOS notify the CRISP usage"
       }
-    },
-    {
-      "type": "unknown",
-      "url": "https://static.userguiding.com/media/user-guiding-006614964ID-embedded.js"
     },
     {
       "type": "crisp",
@@ -30,7 +30,7 @@
     },
     {
       "type": "crisp",
-      "url": "https://client.crisp.chat/settings/website/582ff50a-5ac4-4f38-a8bc-62f51beeef89/prelude/?callback=window.%24__CRISP_INSTANCE.__spool.website_prelude_handler&2024-6-28-14-14",
+      "url": "https://client.crisp.chat/settings/website/582ff50a-5ac4-4f38-a8bc-62f51beeef89/prelude/?callback=window.%24__CRISP_INSTANCE.__spool.website_prelude_handler&2024-7-4-13-37",
       "details": {
         "id": "crisp",
         "message": "Ensure your TOS notify the CRISP usage"
@@ -38,7 +38,35 @@
     },
     {
       "type": "unknown",
-      "url": "https://static.userguiding.com/media/sdk-006614964ID.json"
+      "url": "https://stonly.com/js/widget/v2/stonly-widget.js?v=00eeb165"
+    },
+    {
+      "type": "unknown",
+      "url": "https://stonly.com/js/widget/v2/vendors~widget-3902cc5a737366904b2f.stonly.js"
+    },
+    {
+      "type": "unknown",
+      "url": "https://stonly.com/js/widget/v2/widget-645dbe32a9dc1996e815.stonly.js"
+    },
+    {
+      "type": "unknown",
+      "url": "https://s.stonly.com/stonly-stat-id.html?widgetId=1b1b2533-383c-11ef-a9d4-06cb0cb2a85e&v=1.6"
+    },
+    {
+      "type": "unknown",
+      "url": "https://api.stonly.com/api/v1/targeting/identify"
+    },
+    {
+      "type": "unknown",
+      "url": "https://api.stonly.com/api/v1/targeting/identify"
+    },
+    {
+      "type": "unknown",
+      "url": "https://api.stonly.com/api/v2/widget/integration?widgetId=1b1b2533-383c-11ef-a9d4-06cb0cb2a85e&stonlyAnonymousId=4af9481a-af29-4164-b4a1-4198c0e4cf19&url=https%3A%2F%2Fapp.territoiresentransitions.fr%2F"
+    },
+    {
+      "type": "unknown",
+      "url": "https://api.stonly.com/api/v2/widget/integration?widgetId=1b1b2533-383c-11ef-a9d4-06cb0cb2a85e&stonlyAnonymousId=4af9481a-af29-4164-b4a1-4198c0e4cf19&url=https%3A%2F%2Fapp.territoiresentransitions.fr%2F"
     },
     {
       "type": "crisp",
@@ -55,6 +83,14 @@
         "id": "crisp",
         "message": "Ensure your TOS notify the CRISP usage"
       }
+    },
+    {
+      "type": "unknown",
+      "url": "https://api.stonly.com/api/v1/stat"
+    },
+    {
+      "type": "unknown",
+      "url": "https://api.stonly.com/api/v1/stat"
     }
   ],
   "cookies": [],
@@ -62,14 +98,14 @@
     "alt-svc": "h3=\":443\"; ma=86400",
     "cache-control": "public, max-age=0",
     "cf-cache-status": "DYNAMIC",
-    "cf-ray": "8aa57a5a8a792cdd-ORD",
+    "cf-ray": "8adef1ce1c415b04-IAD",
     "content-encoding": "br",
     "content-type": "text/html; charset=UTF-8",
-    "date": "Sun, 28 Jul 2024 14:14:51 GMT",
-    "etag": "W/\"a93-190eac32928\"",
-    "last-modified": "Thu, 25 Jul 2024 16:39:37 GMT",
+    "date": "Sun, 04 Aug 2024 13:37:52 GMT",
+    "etag": "W/\"aff-1910dc257f0\"",
+    "last-modified": "Thu, 01 Aug 2024 11:45:26 GMT",
     "server": "cloudflare",
-    "x-envoy-upstream-service-time": "82",
+    "x-envoy-upstream-service-time": "81",
     "x-koyeb-backend": "par1",
     "x-koyeb-glb": "par1",
     "x-powered-by": "Express"
@@ -77,8 +113,62 @@
   "endpoints": [
     {
       "hostname": "app.territoiresentransitions.fr",
-      "ip": "172.67.24.44",
+      "ip": "104.22.79.190",
       "geoip": {
+        "registered_country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "USA",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        }
+      }
+    },
+    {
+      "hostname": "stonly.com",
+      "ip": "13.32.208.50",
+      "geoip": {
+        "continent": {
+          "code": "NA",
+          "geoname_id": 6255149,
+          "names": {
+            "de": "Nordamerika",
+            "en": "North America",
+            "es": "Norteamérica",
+            "fr": "Amérique du Nord",
+            "ja": "北アメリカ",
+            "pt-BR": "América do Norte",
+            "ru": "Северная Америка",
+            "zh-CN": "北美洲"
+          }
+        },
+        "country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "USA",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        },
+        "location": {
+          "accuracy_radius": 1000,
+          "latitude": 37.751,
+          "longitude": -97.822,
+          "time_zone": "America/Chicago"
+        },
         "registered_country": {
           "geoname_id": 6252001,
           "iso_code": "US",
@@ -116,9 +206,43 @@
       }
     },
     {
-      "hostname": "static.userguiding.com",
-      "ip": "104.26.4.5",
+      "hostname": "s.stonly.com",
+      "ip": "3.162.112.25",
       "geoip": {
+        "continent": {
+          "code": "NA",
+          "geoname_id": 6255149,
+          "names": {
+            "de": "Nordamerika",
+            "en": "North America",
+            "es": "Norteamérica",
+            "fr": "Amérique du Nord",
+            "ja": "北アメリカ",
+            "pt-BR": "América do Norte",
+            "ru": "Северная Америка",
+            "zh-CN": "北美洲"
+          }
+        },
+        "country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "USA",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        },
+        "location": {
+          "accuracy_radius": 1000,
+          "latitude": 37.751,
+          "longitude": -97.822,
+          "time_zone": "America/Chicago"
+        },
         "registered_country": {
           "geoname_id": 6252001,
           "iso_code": "US",
@@ -133,6 +257,103 @@
             "zh-CN": "美国"
           }
         }
+      }
+    },
+    {
+      "hostname": "api.stonly.com",
+      "ip": "35.181.14.116",
+      "geoip": {
+        "city": {
+          "geoname_id": 2988507,
+          "names": {
+            "de": "Paris",
+            "en": "Paris",
+            "es": "París",
+            "fr": "Paris",
+            "ja": "パリ",
+            "pt-BR": "Paris",
+            "ru": "Париж",
+            "zh-CN": "巴黎"
+          }
+        },
+        "continent": {
+          "code": "EU",
+          "geoname_id": 6255148,
+          "names": {
+            "de": "Europa",
+            "en": "Europe",
+            "es": "Europa",
+            "fr": "Europe",
+            "ja": "ヨーロッパ",
+            "pt-BR": "Europa",
+            "ru": "Европа",
+            "zh-CN": "欧洲"
+          }
+        },
+        "country": {
+          "geoname_id": 3017382,
+          "is_in_european_union": true,
+          "iso_code": "FR",
+          "names": {
+            "de": "Frankreich",
+            "en": "France",
+            "es": "Francia",
+            "fr": "France",
+            "ja": "フランス共和国",
+            "pt-BR": "França",
+            "ru": "Франция",
+            "zh-CN": "法国"
+          }
+        },
+        "location": {
+          "accuracy_radius": 500,
+          "latitude": 48.8323,
+          "longitude": 2.4075,
+          "time_zone": "Europe/Paris"
+        },
+        "postal": {
+          "code": "75001"
+        },
+        "registered_country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "USA",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        },
+        "subdivisions": [
+          {
+            "geoname_id": 3012874,
+            "iso_code": "IDF",
+            "names": {
+              "de": "Île-de-France",
+              "en": "Île-de-France",
+              "es": "Isla de Francia",
+              "fr": "Île-de-France",
+              "ja": "イル・ド・フランス",
+              "pt-BR": "Ilha de França",
+              "ru": "Иль-де-Франс",
+              "zh-CN": "法兰西岛"
+            }
+          },
+          {
+            "geoname_id": 2968815,
+            "iso_code": "75",
+            "names": {
+              "de": "Paris",
+              "en": "Paris",
+              "es": "Paris",
+              "fr": "Paris"
+            }
+          }
+        ]
       }
     }
   ]
