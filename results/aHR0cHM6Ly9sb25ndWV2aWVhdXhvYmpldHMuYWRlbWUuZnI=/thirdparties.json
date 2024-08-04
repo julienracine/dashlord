@@ -1,22 +1,53 @@
 {
   "trackers": [],
-  "cookies": [],
+  "cookies": [
+    {
+      "name": "_pk_ses.120.3f48",
+      "value": "1",
+      "domain": "longuevieauxobjets.ademe.fr",
+      "path": "/",
+      "expires": 1722752790,
+      "size": 17,
+      "httpOnly": false,
+      "secure": false,
+      "session": false,
+      "sameSite": "Lax",
+      "sameParty": false,
+      "sourceScheme": "Secure",
+      "sourcePort": 443
+    },
+    {
+      "name": "_pk_id.120.3f48",
+      "value": "4d1736f7998041fb.1722750990.",
+      "domain": "longuevieauxobjets.ademe.fr",
+      "path": "/",
+      "expires": 1756706190,
+      "size": 43,
+      "httpOnly": false,
+      "secure": false,
+      "session": false,
+      "sameSite": "Lax",
+      "sameParty": false,
+      "sourceScheme": "Secure",
+      "sourcePort": 443
+    }
+  ],
   "headers": {
     "content-encoding": "gzip",
     "content-language": "fr",
     "content-type": "text/html; charset=utf-8",
     "cross-origin-opener-policy": "same-origin",
-    "date": "Sun, 28 Jul 2024 06:09:02 GMT",
+    "date": "Sun, 04 Aug 2024 05:56:29 GMT",
     "referrer-policy": "same-origin",
     "vary": "Accept-Language, Cookie",
     "x-content-type-options": "nosniff",
     "x-frame-options": "DENY",
-    "x-request-id": "f2ede999-4d3b-403f-92d5-58f2026ce278"
+    "x-request-id": "95aca474-3913-4b3c-89db-f73e8ebf13ac"
   },
   "endpoints": [
     {
       "hostname": "longuevieauxobjets.ademe.fr",
-      "ip": "148.253.75.120",
+      "ip": "5.104.101.30",
       "geoip": {
         "continent": {
           "code": "EU",
