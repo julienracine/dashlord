@@ -18,7 +18,7 @@
     },
     {
       "name": "__Host-next-auth.csrf-token",
-      "value": "a2b7742d0bfa2a67e37638f0364d90256ae365f00c53fab2b87f476f4880186d%7C72a257ca64f0875d7f123f1c29a9fcbc5b6896529f42c139dd3d485dc1e313c6",
+      "value": "5cbe61746e5354a92f2efb6922ba4651f649f15d80d585cf22654a16098f2856%7C652bb5f5a4c1796fc032336e1ca34cdc737ae20a769eaea1a74ba7c5e69eb899",
       "domain": "www.mediateur-public.fr",
       "path": "/",
       "expires": -1,
@@ -40,7 +40,7 @@
     "cross-origin-embedder-policy": "require-corp",
     "cross-origin-opener-policy": "same-origin",
     "cross-origin-resource-policy": "same-origin",
-    "date": "Sun, 28 Jul 2024 05:04:10 GMT",
+    "date": "Sun, 04 Aug 2024 04:59:53 GMT",
     "etag": "\"mchbhl081wdnf\"",
     "origin-agent-cluster": "?1",
     "referrer-policy": "no-referrer",
@@ -52,7 +52,7 @@
     "x-frame-options": "SAMEORIGIN",
     "x-nextjs-cache": "HIT",
     "x-permitted-cross-domain-policies": "none",
-    "x-request-id": "4d851754-0ae1-4333-a994-0fe570535ae2",
+    "x-request-id": "6276b279-3192-42f1-b396-43e35354e447",
     "x-xss-protection": "0"
   },
   "endpoints": [
