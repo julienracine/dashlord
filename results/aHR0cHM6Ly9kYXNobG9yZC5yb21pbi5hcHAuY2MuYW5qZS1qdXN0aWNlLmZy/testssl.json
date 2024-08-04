@@ -353,7 +353,7 @@
               "ip"           : "dashlord.romin.app.cc.anje-justice.fr/185.42.117.108",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "88 >= 30 days"
+              "finding"      : "81 >= 30 days"
           }
 ,         {
               "id"           : "cert_notBefore",
@@ -500,42 +500,21 @@
               "ip"           : "dashlord.romin.app.cc.anje-justice.fr/185.42.117.108",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "200 OK ('/')"
+              "finding"      : "404 Not Found ('/')"
           }
 ,         {
               "id"           : "HTTP_clock_skew",
               "ip"           : "dashlord.romin.app.cc.anje-justice.fr/185.42.117.108",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "-1 seconds from localtime"
+              "finding"      : "Got no HTTP time, maybe try different URL?"
           }
 ,         {
-              "id"           : "HTTP_headerTime",
+              "id"           : "HSTS",
               "ip"           : "dashlord.romin.app.cc.anje-justice.fr/185.42.117.108",
               "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "1722193017"
-          }
-,         {
-              "id"           : "HSTS_time",
-              "ip"           : "dashlord.romin.app.cc.anje-justice.fr/185.42.117.108",
-              "port"         : "443",
-              "severity"     : "OK",
-              "finding"      : "180 days (=15552000 seconds) > 15552000 seconds"
-          }
-,         {
-              "id"           : "HSTS_subdomains",
-              "ip"           : "dashlord.romin.app.cc.anje-justice.fr/185.42.117.108",
-              "port"         : "443",
-              "severity"     : "OK",
-              "finding"      : "includes subdomains"
-          }
-,         {
-              "id"           : "HSTS_preload",
-              "ip"           : "dashlord.romin.app.cc.anje-justice.fr/185.42.117.108",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "domain is NOT marked for preloading"
+              "severity"     : "LOW",
+              "finding"      : "not offered"
           }
 ,         {
               "id"           : "HPKP",
@@ -563,56 +542,14 @@
               "ip"           : "dashlord.romin.app.cc.anje-justice.fr/185.42.117.108",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "0 at '/'"
+              "finding"      : "0 at '/' (30x detected, better try target URL of 30x)"
           }
 ,         {
-              "id"           : "X-Frame-Options",
-              "ip"           : "dashlord.romin.app.cc.anje-justice.fr/185.42.117.108",
-              "port"         : "443",
-              "severity"     : "OK",
-              "finding"      : "SAMEORIGIN"
-          }
-,         {
-              "id"           : "X-Content-Type-Options",
-              "ip"           : "dashlord.romin.app.cc.anje-justice.fr/185.42.117.108",
-              "port"         : "443",
-              "severity"     : "OK",
-              "finding"      : "nosniff"
-          }
-,         {
-              "id"           : "Content-Security-Policy",
-              "ip"           : "dashlord.romin.app.cc.anje-justice.fr/185.42.117.108",
-              "port"         : "443",
-              "severity"     : "OK",
-              "finding"      : "base-uri 'none'; font-src 'self' https: data:; form-action 'self'; frame-ancestors 'self'; img-src 'self' data: https://romin-justice.directus.app/assets/; object-src 'none'; script-src-attr 'none'; style-src 'self' https: 'unsafe-inline'; script-src 'self' https: 'unsafe-inline' 'strict-dynamic' 'nonce-LdCsTd7SfqzTYoyavopjUw=='; upgrade-insecure-requests;"
-          }
-,         {
-              "id"           : "Permissions-Policy",
-              "ip"           : "dashlord.romin.app.cc.anje-justice.fr/185.42.117.108",
-              "port"         : "443",
-              "severity"     : "OK",
-              "finding"      : "camera=(), display-capture=(), fullscreen=(), geolocation=(), microphone=()"
-          }
-,         {
-              "id"           : "X-XSS-Protection",
+              "id"           : "Cache-Control",
               "ip"           : "dashlord.romin.app.cc.anje-justice.fr/185.42.117.108",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "0"
-          }
-,         {
-              "id"           : "Access-Control-Allow-Origin",
-              "ip"           : "dashlord.romin.app.cc.anje-justice.fr/185.42.117.108",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "*"
-          }
-,         {
-              "id"           : "Referrer-Policy",
-              "ip"           : "dashlord.romin.app.cc.anje-justice.fr/185.42.117.108",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "no-referrer"
+              "finding"      : "no-cache"
           }
 ,         {
               "id"           : "banner_reverseproxy",
@@ -1112,13 +1049,20 @@
               "ip"           : "dashlord.romin.app.cc.anje-justice.fr/185.42.117.108",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "A+"
+              "finding"      : "A"
+          }
+,         {
+              "id"           : "grade_cap_reason_1",
+              "ip"           : "dashlord.romin.app.cc.anje-justice.fr/185.42.117.108",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "Grade capped to A. HSTS is not offered"
           }
 ,         {
               "id"           : "scanTime",
               "ip"           : "dashlord.romin.app.cc.anje-justice.fr/185.42.117.108",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "100"
+              "finding"      : "101"
           }
 ]
