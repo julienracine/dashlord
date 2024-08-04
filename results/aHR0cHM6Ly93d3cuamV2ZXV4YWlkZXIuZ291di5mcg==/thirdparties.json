@@ -69,22 +69,22 @@
   "headers": {
     "cache-control": "max-age=300\npublic, no-transform",
     "cf-cache-status": "DYNAMIC",
-    "cf-ray": "8aa40a63edc95b3b-IAD",
+    "cf-ray": "8adda1b0aa53226e-ORD",
     "content-encoding": "br",
-    "content-length": "46526",
+    "content-length": "46523",
     "content-type": "text/html;charset=utf-8",
-    "date": "Sun, 28 Jul 2024 10:03:40 GMT",
-    "expires": "Sun, 28 Jul 2024 10:08:40 GMT",
+    "date": "Sun, 04 Aug 2024 09:48:25 GMT",
+    "expires": "Sun, 04 Aug 2024 09:53:25 GMT",
     "server": "cloudflare",
     "strict-transport-security": "max-age=31536000",
     "vary": "Accept-Encoding",
     "x-powered-by": "Nuxt",
-    "x-request-id": "690e414d-38b3-4e30-a9f4-91409a4577d3\n690e414d-38b3-4e30-a9f4-91409a4577d3"
+    "x-request-id": "42129ac6-49c0-4f93-a4c2-b7c52f5f436d\n42129ac6-49c0-4f93-a4c2-b7c52f5f436d"
   },
   "endpoints": [
     {
       "hostname": "www.jeveuxaider.gouv.fr",
-      "ip": "172.67.42.178",
+      "ip": "104.22.76.85",
       "geoip": {
         "registered_country": {
           "geoname_id": 6252001,
@@ -191,7 +191,7 @@
     },
     {
       "hostname": "www.googletagmanager.com",
-      "ip": "172.253.63.97",
+      "ip": "142.250.191.136",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -245,21 +245,8 @@
     },
     {
       "hostname": "gqlg3qh7po-dsn.algolia.net",
-      "ip": "95.211.18.123",
+      "ip": "5.196.83.169",
       "geoip": {
-        "city": {
-          "geoname_id": 2747891,
-          "names": {
-            "de": "Rotterdam",
-            "en": "Rotterdam",
-            "es": "Rotterdam",
-            "fr": "Rotterdam",
-            "ja": "ロッテルダム",
-            "pt-BR": "Roterdão",
-            "ru": "Роттердам",
-            "zh-CN": "鹿特丹"
-          }
-        },
         "continent": {
           "code": "EU",
           "geoname_id": 6255148,
@@ -275,75 +262,58 @@
           }
         },
         "country": {
-          "geoname_id": 2750405,
+          "geoname_id": 3017382,
           "is_in_european_union": true,
-          "iso_code": "NL",
+          "iso_code": "FR",
           "names": {
-            "de": "Niederlande",
-            "en": "The Netherlands",
-            "es": "Holanda",
-            "fr": "Pays-Bas",
-            "ja": "オランダ王国",
-            "pt-BR": "Holanda",
-            "ru": "Нидерланды",
-            "zh-CN": "荷兰"
+            "de": "Frankreich",
+            "en": "France",
+            "es": "Francia",
+            "fr": "France",
+            "ja": "フランス共和国",
+            "pt-BR": "França",
+            "ru": "Франция",
+            "zh-CN": "法国"
           }
         },
         "location": {
-          "accuracy_radius": 50,
-          "latitude": 51.9281,
-          "longitude": 4.5052,
-          "time_zone": "Europe/Amsterdam"
-        },
-        "postal": {
-          "code": "3061"
+          "accuracy_radius": 500,
+          "latitude": 48.8582,
+          "longitude": 2.3387,
+          "time_zone": "Europe/Paris"
         },
         "registered_country": {
-          "geoname_id": 2750405,
+          "geoname_id": 3017382,
           "is_in_european_union": true,
-          "iso_code": "NL",
+          "iso_code": "FR",
           "names": {
-            "de": "Niederlande",
-            "en": "The Netherlands",
-            "es": "Holanda",
-            "fr": "Pays-Bas",
-            "ja": "オランダ王国",
-            "pt-BR": "Holanda",
-            "ru": "Нидерланды",
-            "zh-CN": "荷兰"
+            "de": "Frankreich",
+            "en": "France",
+            "es": "Francia",
+            "fr": "France",
+            "ja": "フランス共和国",
+            "pt-BR": "França",
+            "ru": "Франция",
+            "zh-CN": "法国"
           }
-        },
-        "subdivisions": [
-          {
-            "geoname_id": 2743698,
-            "iso_code": "ZH",
-            "names": {
-              "de": "Südholland",
-              "en": "South Holland",
-              "es": "Holanda Meridional",
-              "fr": "Hollande-Méridionale",
-              "ja": "南ホラント州",
-              "pt-BR": "Holanda do Sul",
-              "ru": "Южная Голландия"
-            }
-          }
-        ]
+        }
       }
     },
     {
       "hostname": "plausible.io",
-      "ip": "138.199.40.58",
+      "ip": "169.150.236.104",
       "geoip": {
         "city": {
-          "geoname_id": 5128581,
+          "geoname_id": 4887398,
           "names": {
-            "de": "New York City",
-            "en": "New York",
-            "es": "Nueva York",
-            "fr": "New York",
-            "ja": "ニューヨーク",
-            "pt-BR": "Nova Iorque",
-            "ru": "Нью-Йорк"
+            "de": "Chicago",
+            "en": "Chicago",
+            "es": "Chicago",
+            "fr": "Chicago",
+            "ja": "シカゴ",
+            "pt-BR": "Chicago",
+            "ru": "Чикаго",
+            "zh-CN": "芝加哥"
           }
         },
         "continent": {
@@ -376,13 +346,13 @@
         },
         "location": {
           "accuracy_radius": 20,
-          "latitude": 40.7123,
-          "longitude": -74.0068,
-          "metro_code": 501,
-          "time_zone": "America/New_York"
+          "latitude": 41.8874,
+          "longitude": -87.6318,
+          "metro_code": 602,
+          "time_zone": "America/Chicago"
         },
         "postal": {
-          "code": "10118"
+          "code": "60602"
         },
         "registered_country": {
           "geoname_id": 2635167,
@@ -400,17 +370,17 @@
         },
         "subdivisions": [
           {
-            "geoname_id": 5128638,
-            "iso_code": "NY",
+            "geoname_id": 4896861,
+            "iso_code": "IL",
             "names": {
-              "de": "New York",
-              "en": "New York",
-              "es": "Nueva York",
-              "fr": "New York",
-              "ja": "ニューヨーク州",
-              "pt-BR": "Nova Iorque",
-              "ru": "Нью-Йорк",
-              "zh-CN": "纽约州"
+              "de": "Illinois",
+              "en": "Illinois",
+              "es": "Illinois",
+              "fr": "Illinois",
+              "ja": "イリノイ州",
+              "pt-BR": "Ilinóis",
+              "ru": "Иллинойс",
+              "zh-CN": "伊利诺伊州"
             }
           }
         ]
@@ -418,7 +388,7 @@
     },
     {
       "hostname": "static.axept.io",
-      "ip": "13.32.208.129",
+      "ip": "18.160.225.30",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -472,7 +442,7 @@
     },
     {
       "hostname": "client.axept.io",
-      "ip": "18.160.18.80",
+      "ip": "18.64.183.94",
       "geoip": {
         "continent": {
           "code": "NA",
