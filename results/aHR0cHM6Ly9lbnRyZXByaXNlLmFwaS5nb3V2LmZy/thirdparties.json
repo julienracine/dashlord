@@ -53,16 +53,16 @@
       }
     },
     {
+      "type": "unknown",
+      "url": "https://hyperping.com/badge.js"
+    },
+    {
       "type": "unpkg",
       "url": "https://unpkg.com/@hotwired/stimulus@3.2.2/dist/stimulus.js",
       "details": {
         "id": "unpkg",
         "message": "Host files locally"
       }
-    },
-    {
-      "type": "unknown",
-      "url": "https://hyperping.com/badge.js"
     },
     {
       "type": "jsdelivr",
@@ -87,7 +87,7 @@
       "value": "1",
       "domain": "entreprise.api.gouv.fr",
       "path": "/",
-      "expires": 1722744462,
+      "expires": 1723349153,
       "size": 16,
       "httpOnly": false,
       "secure": false,
@@ -99,10 +99,10 @@
     },
     {
       "name": "_pk_id.45.28f1",
-      "value": "353d1763d25a248a.1722742663.",
+      "value": "4b65d64444fc05eb.1723347353.",
       "domain": "entreprise.api.gouv.fr",
       "path": "/",
-      "expires": 1756697863,
+      "expires": 1757302553,
       "size": 42,
       "httpOnly": false,
       "secure": false,
@@ -114,11 +114,11 @@
     },
     {
       "name": "_admin_apientreprise_session",
-      "value": "LpVeYr0xPVRB5WpjLZ9JpPBDjc8W%2FbP9dyweY9zWd5dAfGN25fBtaXr4Lfp3TsdeLyj2tWds1KlTC6RqwvJzyiUJJzjzj6E8EwjRzaCsIDswfzZSY8uoyQIqFJlt1ojPUmdWwRo54ohuG%2FU3isJY1qRTPEmoD1qyrpGG%2FxIBQPfzyCtUoS6l7ZRW3494S11mE%2FUnRZLjLSOTvRkEKlXQvXAP2H1PjGIyXwLNYNtGUJs7zE9fgbpNdKiCokfbE4%2FGA7n6LZ9HHAZ7hsYe6bc6xrdmbCBaLiNXeC3pXLvRSCpyoH5U--SIqmk8Jxd62R9VWp--KVBF0shCvryo7nDlrLFJeg%3D%3D",
+      "value": "pdUrBCDPoXkkzJY%2BAI7a5Qe94F8iYSVzr6r9k4QwfrjgluS0%2Fy4N7posCkXix7oSjkpU9XCltBrGZ%2F7WcaFqCKgyFcUs2XgBlAFRjZsanHubJ2OdH302uB1XUSBGlYGGd0wF%2FC3Pssm%2FP2bL%2Fgx09ZE8j%2B%2Fk9jKrLqJ1mY1yc92p6GzYkscWg7MJLag7RR3qCJFIMFaXFB9CfXguaItp4ny927TVoGtdYqGFl5hVstNDS7Mvu%2BtFWXAhricNf8qENYNHie8QiTZZVbebuSTTHlPOCH101%2F0aeLwEYNe2PEhPofBn--9lhszEs4tJbBNXxb--wXE9ei09OFlbcXiHFP9q5w%3D%3D",
       "domain": "entreprise.api.gouv.fr",
       "path": "/",
       "expires": -1,
-      "size": 390,
+      "size": 400,
       "httpOnly": true,
       "secure": true,
       "session": true,
@@ -130,22 +130,22 @@
   ],
   "headers": {
     "connection": "keep-alive",
-    "content-length": "49061",
+    "content-length": "48760",
     "content-type": "text/html; charset=utf-8",
-    "date": "Sun, 04 Aug 2024 03:37:02 GMT",
+    "date": "Sun, 11 Aug 2024 03:35:51 GMT",
     "server": "nginx",
     "strict-transport-security": "max-age=63072000",
     "cache-control": "max-age=0, private, must-revalidate",
-    "etag": "W/\"5d738c739462899315718938b21a1bd9\"",
+    "etag": "W/\"3585cc85459628afc05bc5eccf8653ba\"",
     "link": "</assets/api_entreprise-7ffac7e86e0ca3664c5f2d38f24c5237e032de0c4cd48f30fda19001d90dbdcd.css>; rel=preload; as=style; nopush,</assets/api_entreprise-f1c38127d41d397825b021039e616a7c5331491084c8184c198f432417f600b8.js>; rel=preload; as=script; nopush,</assets/turbo-84e828a0e6f1f9418a277df89df877e9a30524438cf8dc007c066655017a44bc.js>; rel=modulepreload; as=script; nopush",
     "referrer-policy": "strict-origin-when-cross-origin",
-    "set-cookie": "_admin_apientreprise_session=LpVeYr0xPVRB5WpjLZ9JpPBDjc8W%2FbP9dyweY9zWd5dAfGN25fBtaXr4Lfp3TsdeLyj2tWds1KlTC6RqwvJzyiUJJzjzj6E8EwjRzaCsIDswfzZSY8uoyQIqFJlt1ojPUmdWwRo54ohuG%2FU3isJY1qRTPEmoD1qyrpGG%2FxIBQPfzyCtUoS6l7ZRW3494S11mE%2FUnRZLjLSOTvRkEKlXQvXAP2H1PjGIyXwLNYNtGUJs7zE9fgbpNdKiCokfbE4%2FGA7n6LZ9HHAZ7hsYe6bc6xrdmbCBaLiNXeC3pXLvRSCpyoH5U--SIqmk8Jxd62R9VWp--KVBF0shCvryo7nDlrLFJeg%3D%3D; path=/; secure; httponly; samesite=lax",
+    "set-cookie": "_admin_apientreprise_session=pdUrBCDPoXkkzJY%2BAI7a5Qe94F8iYSVzr6r9k4QwfrjgluS0%2Fy4N7posCkXix7oSjkpU9XCltBrGZ%2F7WcaFqCKgyFcUs2XgBlAFRjZsanHubJ2OdH302uB1XUSBGlYGGd0wF%2FC3Pssm%2FP2bL%2Fgx09ZE8j%2B%2Fk9jKrLqJ1mY1yc92p6GzYkscWg7MJLag7RR3qCJFIMFaXFB9CfXguaItp4ny927TVoGtdYqGFl5hVstNDS7Mvu%2BtFWXAhricNf8qENYNHie8QiTZZVbebuSTTHlPOCH101%2F0aeLwEYNe2PEhPofBn--9lhszEs4tJbBNXxb--wXE9ei09OFlbcXiHFP9q5w%3D%3D; path=/; secure; httponly; samesite=lax",
     "vary": "Origin",
     "x-content-type-options": "nosniff",
     "x-frame-options": "SAMEORIGIN",
     "x-permitted-cross-domain-policies": "none",
-    "x-request-id": "b7130666-bfea-403b-a464-70ff010a43f4",
-    "x-runtime": "0.101885",
+    "x-request-id": "4468fa4f-9a6b-4c8f-8e8f-44efa530b27e",
+    "x-runtime": "0.135224",
     "x-xss-protection": "0"
   },
   "endpoints": [
@@ -227,7 +227,7 @@
     },
     {
       "hostname": "unpkg.com",
-      "ip": "104.17.245.203",
+      "ip": "104.17.246.203",
       "geoip": {
         "registered_country": {
           "geoname_id": 6252001,
