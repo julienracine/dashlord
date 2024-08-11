@@ -269,7 +269,7 @@
               "ip"           : "backend.passculture.pro/34.107.224.170",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "DBAEC3166DB740B61087783D86A53406"
+              "finding"      : "96EE33A556CA0A4E0AD0BD35AAA16CF9"
           }
 ,         {
               "id"           : "cert_serialNumberLen",
@@ -283,21 +283,21 @@
               "ip"           : "backend.passculture.pro/34.107.224.170",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "A247D5519E3C44C0855B0551BDF0BFE89F62F9B0"
+              "finding"      : "23A51CB6B936A5D88CD47073114E519B24C8B782"
           }
 ,         {
               "id"           : "cert_fingerprintSHA256",
               "ip"           : "backend.passculture.pro/34.107.224.170",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "D63D4F59FDE2521248FE93FCA18723E322F253FAD51704169FB4066E6ED3DD79"
+              "finding"      : "A2B8788D885EBADEA989DBFBF4BAB95DAB624B71E1656FED9AFF2D1BC092D2E3"
           }
 ,         {
               "id"           : "cert",
               "ip"           : "backend.passculture.pro/34.107.224.170",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "-----BEGIN CERTIFICATE-----\nMIIFOjCCBCKgAwIBAgIRANuuwxZtt0C2EId4PYalNAYwDQYJKoZIhvcNAQELBQAwOzELMAkGA1UEBhMCVVMxHjAcBgNVBAoTFUdvb2dsZSBUcnVzdCBTZXJ2aWNlczEMMAoGA1UEAxMDV1IzMB4XDTI0MDYxMzA2MjY0NloXDTI0MDkxMTA3MjI0MVowIjEgMB4GA1UEAxMXYmFja2VuZC5wYXNzY3VsdHVyZS5wcm8wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDNXv+h7YR4dti7Fw/Pxd2YA5Tufr4bdZ8xa41+mFU/71wqyJCQhyUZ3wusQxu87vb5EM+c1rxgU3bDyL6fZIfGp48Igkihd2RLCz3OHahln14IaCjQZatCn/5nni9aqbWF0LfEVtwc4nS0z9X2/wpa5+oeYkWhwA27dsH9+D12XKECMXM1fHO8FNhxmKVIHNrQw5jGv5U1csijrgF5kswLVMWd8gs75vmUjyQYnEmzV4zwujVWcb4uj7HITLKu+zzx9QTju9XxJETmRXTYG+tfLr3Dpsdo7WWy2S1zgsI4vMEdd5fCgGJFTaF+0Wxz5mFp4++b1DvyZVeacxGPhgEBAgMBAAGjggJQMIICTDAOBgNVHQ8BAf8EBAMCBaAwEwYDVR0lBAwwCgYIKwYBBQUHAwEwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQU4zA1TLH6yANmLH+RoCHc8r63imMwHwYDVR0jBBgwFoAUx4H1/Y6I2QA8TWOiUDEkoM4j/iMwXgYIKwYBBQUHAQEEUjBQMCcGCCsGAQUFBzABhhtodHRwOi8vby5wa2kuZ29vZy9zL3dyMy8yNjQwJQYIKwYBBQUHMAKGGWh0dHA6Ly9pLnBraS5nb29nL3dyMy5jcnQwIgYDVR0RBBswGYIXYmFja2VuZC5wYXNzY3VsdHVyZS5wcm8wEwYDVR0gBAwwCjAIBgZngQwBAgEwNgYDVR0fBC8wLTAroCmgJ4YlaHR0cDovL2MucGtpLmdvb2cvd3IzL3JCT3Y1cW1nYW5FLmNybDCCAQQGCisGAQQB1nkCBAIEgfUEgfIA8AB3AO7N0GTV2xrOxVy3nbTNE6Iyh0Z8vOzew1FIWUZxH7WbAAABkBB97uMAAAQDAEgwRgIhAPiXNWmXPV+UTqPS0l5qVRae1h0yVFMgMULoOT/Vj+8+AiEArYmx8nH0MNF8AAQFP3lgADgZ20zgDjH8wTHRjx9AbwYAdQBIsONr2qZHNA/lagL6nTDrHFIBy1bdLIHZu7+rOdiEcwAAAZAQfe8FAAAEAwBGMEQCICesXXzSo7SwJJHwcu4hT6H6Ko0nwScIG7HkIE9Ilo4vAiBchA19Uu2mqAwsdD9D1tMlkNt41n3aVbzR9RMCXYz6IjANBgkqhkiG9w0BAQsFAAOCAQEAILygEtZDmMkdeyla9CD62iSI5eqe1YOkSA6g8eUxequKCz2uuCPS+3H43Ldp9YGRx2Dqg0+xprG9RvIHAwk47YhLmXChZO+FPvq0JtY1RFA99oH9cfGZLrUJWr3jZX/zx9kW7awNZhflz9vlH4F1Wi01auD3Q37VtiaWzVfkFWDcVBTRYAu6/NcdrAxp8LXObBNHj85WdbD2tMYAY6QY3OGcczHWMshnfq+v9SKoJJEBz6YyuukangxzHwkrl9mN+0bZkTvLE6Ud0ORh7CZM2oWF0TEpQRsKWUO9zCrBTWH+FCDHXfZ8SaH4iQxQ92+rSzq39olB6Hf6V+xT2YY9Tw==\n-----END CERTIFICATE-----"
+              "finding"      : "-----BEGIN CERTIFICATE-----\nMIIFOjCCBCKgAwIBAgIRAJbuM6VWygpOCtC9NaqhbPkwDQYJKoZIhvcNAQELBQAwOzELMAkGA1UEBhMCVVMxHjAcBgNVBAoTFUdvb2dsZSBUcnVzdCBTZXJ2aWNlczEMMAoGA1UEAxMDV1IzMB4XDTI0MDgwODIxMzcwNloXDTI0MTEwNjIyMzMwMVowIjEgMB4GA1UEAxMXYmFja2VuZC5wYXNzY3VsdHVyZS5wcm8wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQC1bG2Pr85dNmHxqT8z2MJP97zF5ynkbPDpX5TjVJfp77X7PO94cL9XLIrNoWd85fnWaVvQ3HmKVjnpZTRzctEh9Gf8Bv6Fn8ArYGypZ9r5o0q4sO60vZRj9PO5MFoW7yvkrscCv+ylTCU56ADAGFTAHzrJujMVKuqXa7zUEBi6R0XjQUaXP1zJpFuEbGwqdNuzN7G6BrA0BfXDw0n39xnLMZSM20u2yeQss+lBy9Wz9INLahYqYvdlqoqRHeyKroKPIXEegRlyXUSF5DQIIxGJ6PZG1LZm2tcervpMZKT6Ai7Cr8uIXz2FsaZt93lyGcOs4N7VBthl1udD1bflPLDjAgMBAAGjggJQMIICTDAOBgNVHQ8BAf8EBAMCBaAwEwYDVR0lBAwwCgYIKwYBBQUHAwEwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQUNCAt76sRY4qqo9t8lEenuF230FMwHwYDVR0jBBgwFoAUx4H1/Y6I2QA8TWOiUDEkoM4j/iMwXgYIKwYBBQUHAQEEUjBQMCcGCCsGAQUFBzABhhtodHRwOi8vby5wa2kuZ29vZy9zL3dyMy9sdTQwJQYIKwYBBQUHMAKGGWh0dHA6Ly9pLnBraS5nb29nL3dyMy5jcnQwIgYDVR0RBBswGYIXYmFja2VuZC5wYXNzY3VsdHVyZS5wcm8wEwYDVR0gBAwwCjAIBgZngQwBAgEwNgYDVR0fBC8wLTAroCmgJ4YlaHR0cDovL2MucGtpLmdvb2cvd3IzL2RSY09jNHBpNEdZLmNybDCCAQQGCisGAQQB1nkCBAIEgfUEgfIA8AB2AO7N0GTV2xrOxVy3nbTNE6Iyh0Z8vOzew1FIWUZxH7WbAAABkTQjfMwAAAQDAEcwRQIgZg9upFNu01DAXeXTm96bMsHl3SZqy0Uvs9ld7dG90cQCIQCuEs/J9KR0gX2hUjI4qK5iSeu/HRdvCCFB6NT+bMBiQwB2AEiw42vapkc0D+VqAvqdMOscUgHLVt0sgdm7v6s52IRzAAABkTQjfUcAAAQDAEcwRQIgOSF3WpTOAbUhV4BVKS1jhHw+bXRQQVuUkVgfUrqz6D8CIQCTqJdT73TqxndNR7imtpZtEWFcNpE5UlWpOJ88hYOaAzANBgkqhkiG9w0BAQsFAAOCAQEAJptzpsNpGbYGBMC+QT6so9xNMbJaEkZtqtxuJ7I6/enZxo9sI4HFAdsYz7J8dXe8G/ZkgEnousGep1oxt/WW4dxGtJpha7Y1QsH2JXRSWQiMmhMiLso76kP0zCQypG32L7VY8DjXWIAzm/+aPxr3DZX08SYyaqWbHzuO+5kkGawsnpI9lAu2A8n5wllI1soL8/epS7b0iRjIujy93ujaleapDfTfOIKFuP4N1AWYNA/+dIBe17B7o3UpBuRuZjXm4LquvayQxaCGTYYSKldxZJFFNXI4QZ7Wl9Q2QzGHrO3jdeivu65GJqyj6et0csCDhgLx5BzACK9R8/78iIGtVA==\n-----END CERTIFICATE-----"
           }
 ,         {
               "id"           : "cert_commonName",
@@ -345,22 +345,22 @@
               "id"           : "cert_expirationStatus",
               "ip"           : "backend.passculture.pro/34.107.224.170",
               "port"         : "443",
-              "severity"     : "MEDIUM",
-              "finding"      : "expires < 60 days (38)"
+              "severity"     : "OK",
+              "finding"      : "87 >= 60 days"
           }
 ,         {
               "id"           : "cert_notBefore",
               "ip"           : "backend.passculture.pro/34.107.224.170",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "2024-06-13 06:26"
+              "finding"      : "2024-08-08 21:37"
           }
 ,         {
               "id"           : "cert_notAfter",
               "ip"           : "backend.passculture.pro/34.107.224.170",
               "port"         : "443",
-              "severity"     : "MEDIUM",
-              "finding"      : "2024-09-11 07:22"
+              "severity"     : "OK",
+              "finding"      : "2024-11-06 22:33"
           }
 ,         {
               "id"           : "cert_extlifeSpan",
@@ -381,14 +381,14 @@
               "ip"           : "backend.passculture.pro/34.107.224.170",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "http://c.pki.goog/wr3/rBOv5qmganE.crl"
+              "finding"      : "http://c.pki.goog/wr3/dRcOc4pi4GY.crl"
           }
 ,         {
               "id"           : "cert_ocspURL",
               "ip"           : "backend.passculture.pro/34.107.224.170",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "http://o.pki.goog/s/wr3/264"
+              "finding"      : "http://o.pki.goog/s/wr3/lu4"
           }
 ,         {
               "id"           : "OCSP_stapling",
@@ -542,14 +542,14 @@
               "ip"           : "backend.passculture.pro/34.107.224.170",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "-1 seconds from localtime"
+              "finding"      : "0 seconds from localtime"
           }
 ,         {
               "id"           : "HTTP_headerTime",
               "ip"           : "backend.passculture.pro/34.107.224.170",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1722752959"
+              "finding"      : "1723357409"
           }
 ,         {
               "id"           : "HSTS_time",
@@ -750,7 +750,7 @@
               "severity"     : "INFO",
               "cve"          : "CVE-2016-0800 CVE-2016-0703",
               "cwe"          : "CWE-310",
-              "finding"      : "Make sure you don't use this certificate elsewhere with SSLv2 enabled services, see https://search.censys.io/search?resource=hosts&virtual_hosts=INCLUDE&q=D63D4F59FDE2521248FE93FCA18723E322F253FAD51704169FB4066E6ED3DD79"
+              "finding"      : "Make sure you don't use this certificate elsewhere with SSLv2 enabled services, see https://search.censys.io/search?resource=hosts&virtual_hosts=INCLUDE&q=A2B8788D885EBADEA989DBFBF4BAB95DAB624B71E1656FED9AFF2D1BC092D2E3"
           }
 ,         {
               "id"           : "LOGJAM",
@@ -1126,6 +1126,6 @@
               "ip"           : "backend.passculture.pro/34.107.224.170",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "37"
+              "finding"      : "36"
           }
 ]
