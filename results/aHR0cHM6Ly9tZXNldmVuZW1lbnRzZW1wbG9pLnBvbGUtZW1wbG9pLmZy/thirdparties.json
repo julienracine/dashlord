@@ -162,10 +162,6 @@
     },
     {
       "type": "unknown",
-      "url": "https://hd.pe.fr/event?s=620985&idclient=lzf3xwrwpnsycgm8"
-    },
-    {
-      "type": "unknown",
       "url": "https://mesevenementsemploi.francetravail.fr/ex089-versunmetier-rest/mee/v1/de/tag/tags/type/OPERA"
     },
     {
@@ -210,6 +206,10 @@
     },
     {
       "type": "unknown",
+      "url": "https://privacy.trustcommander.net/privacy-consent/"
+    },
+    {
+      "type": "unknown",
       "url": "https://mesevenementsemploi.francetravail.fr/ex089-versunmetier-rest/mee/v1/de/evenement/all/filtered"
     },
     {
@@ -217,24 +217,28 @@
       "url": "https://mesevenementsemploi.francetravail.fr/ex089-versunmetier-rest/mee/v1/de/evenement/count/all/"
     },
     {
+      "type": "google fonts",
+      "url": "https://fonts.gstatic.com/s/opensans/v29/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTS-muw.woff2",
+      "details": {
+        "id": "google fonts",
+        "message": "Host the font locally with https://github.com/neverpanic/google-font-download or https://google-webfonts-helper.herokuapp.com/"
+      }
+    },
+    {
+      "type": "google fonts",
+      "url": "https://fonts.gstatic.com/s/opensans/v29/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTS-muw.woff2",
+      "details": {
+        "id": "google fonts",
+        "message": "Host the font locally with https://github.com/neverpanic/google-font-download or https://google-webfonts-helper.herokuapp.com/"
+      }
+    },
+    {
       "type": "unknown",
-      "url": "https://privacy.trustcommander.net/privacy-consent/"
+      "url": "https://www.francetravail.fr/files/live/sites/PE/files/images/Logos/header-logo2021-pe-fr.svg"
     },
     {
-      "type": "google fonts",
-      "url": "https://fonts.gstatic.com/s/opensans/v29/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTS-muw.woff2",
-      "details": {
-        "id": "google fonts",
-        "message": "Host the font locally with https://github.com/neverpanic/google-font-download or https://google-webfonts-helper.herokuapp.com/"
-      }
-    },
-    {
-      "type": "google fonts",
-      "url": "https://fonts.gstatic.com/s/opensans/v29/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTS-muw.woff2",
-      "details": {
-        "id": "google fonts",
-        "message": "Host the font locally with https://github.com/neverpanic/google-font-download or https://google-webfonts-helper.herokuapp.com/"
-      }
+      "type": "unknown",
+      "url": "https://hd.pe.fr/event?s=620985&idclient=lzp438vktlkvwvk9"
     },
     {
       "type": "unknown",
@@ -259,20 +263,30 @@
     {
       "type": "unknown",
       "url": "https://mesevenementsemploi.francetravail.fr/circle-arrow-right-black.828a2a03d9e3b37c.svg"
-    },
-    {
-      "type": "unknown",
-      "url": "https://www.francetravail.fr/files/live/sites/PE/files/images/Logos/header-logo2021-pe-fr.svg"
     }
   ],
   "cookies": [
     {
+      "name": "ADRUM_BTs",
+      "value": "R:67|s:f",
+      "domain": "mesevenementsemploi.francetravail.fr",
+      "path": "/",
+      "expires": 1723353383.200334,
+      "size": 17,
+      "httpOnly": false,
+      "secure": false,
+      "session": false,
+      "sameParty": false,
+      "sourceScheme": "Secure",
+      "sourcePort": 443
+    },
+    {
       "name": "TS0108a62c",
-      "value": "01b3abf0a29fb8fa06f15fa47765854017a0935c6865f8edbd46e932a8d34b5198f54acba99757d8ede8260eef2d930dfbe51f1cd593498637b0a5391fb38863d614b734e7885b2467f58f11c3050e64109bce810bbfab8d04e00620dd8da296dff4b5b09380d874a40d31734cab89bb90169abe532e51abe63e54be581001cf529f2dbbbd3b65937c90c4860e609b506a648a542f",
+      "value": "01b3abf0a28f6eeeac379367a4f82b7b1d208e8d853a0658fb6bb50e4f0ed601872e03dca2a0b810107667ab50b3066af378e232511159cf2e0a8ae9f632b3cae2f2e2a1e661dd1a5417968f1fc48d0c5ea86a85c52edf7deeb634150d25e139538d926d114d1a74a3bf8c0476ee239275ad6c6ad8195de7061c6c899cda2a1775ea701c834938bddceccfb7175678ab4b7b78340f65ce48b472144d74c10701cc619fce111be11e2eaf2bae35b0bf308cf539981a",
       "domain": ".mesevenementsemploi.francetravail.fr",
       "path": "/",
       "expires": -1,
-      "size": 308,
+      "size": 372,
       "httpOnly": true,
       "secure": true,
       "session": true,
@@ -282,11 +296,11 @@
     },
     {
       "name": "ADRUM_BT1",
-      "value": "R:67|i:2321403|e:64|t:1722748441936",
+      "value": "R:67|i:2321403|t:1723353352091",
       "domain": "mesevenementsemploi.francetravail.fr",
       "path": "/",
-      "expires": 1722748473.127684,
-      "size": 44,
+      "expires": 1723353383.200323,
+      "size": 39,
       "httpOnly": false,
       "secure": false,
       "session": false,
@@ -296,10 +310,10 @@
     },
     {
       "name": "ADRUM_BTa",
-      "value": "R:67|g:46a8de2d-a96c-406b-a29b-9245aa50f3ed|n:pole-emploi_39312bed-46a3-4e23-aac7-07f3e30d3139",
+      "value": "R:67|g:83d5208d-38e3-4a69-8255-0c0499f527f6|n:pole-emploi_39312bed-46a3-4e23-aac7-07f3e30d3139",
       "domain": "mesevenementsemploi.francetravail.fr",
       "path": "/",
-      "expires": 1722748473.127639,
+      "expires": 1723353383.20029,
       "size": 103,
       "httpOnly": false,
       "secure": false,
@@ -309,14 +323,14 @@
       "sourcePort": 443
     },
     {
-      "name": "TCPID",
-      "value": "1248051415757642991",
+      "name": "pa_privacy",
+      "value": "%22optin%22",
       "domain": ".francetravail.fr",
       "path": "/",
-      "expires": 1756703641,
-      "size": 24,
+      "expires": 1757481352,
+      "size": 21,
       "httpOnly": false,
-      "secure": false,
+      "secure": true,
       "session": false,
       "sameSite": "Lax",
       "sameParty": false,
@@ -324,12 +338,12 @@
       "sourcePort": 443
     },
     {
-      "name": "_pctx",
-      "value": "%7Bu%7DN4IgrgzgpgThIC4B2YA2qA05owMoBcBDfSREQpAeyRCwgEt8oBJAE0RXSwH18yBbAGYBmegDcoAFgBsIAL5A",
+      "name": "_pcid",
+      "value": "%7B%22browserId%22%3A%22lzp438vktlkvwvk9%22%2C%22_t%22%3A%22mfdj0q7t%22%7D",
       "domain": ".francetravail.fr",
       "path": "/",
-      "expires": 1756876441,
-      "size": 96,
+      "expires": 1757481352,
+      "size": 79,
       "httpOnly": false,
       "secure": true,
       "session": false,
@@ -343,7 +357,7 @@
       "value": "None",
       "domain": "mesevenementsemploi.francetravail.fr",
       "path": "/",
-      "expires": 1722748473.127651,
+      "expires": 1723353383.200303,
       "size": 12,
       "httpOnly": false,
       "secure": true,
@@ -353,12 +367,12 @@
       "sourcePort": 443
     },
     {
-      "name": "_pcid",
-      "value": "%7B%22browserId%22%3A%22lzf3xwrwpnsycgm8%22%2C%22_t%22%3A%22mf3ive45%22%7D",
+      "name": "_pctx",
+      "value": "%7Bu%7DN4IgrgzgpgThIC4B2YA2qA05owMoBcBDfSREQpAeyRCwgEt8oBJAE0RXSwH18yBbAGasAVgAYAjgHYwIAL5A",
       "domain": ".francetravail.fr",
       "path": "/",
-      "expires": 1756876441,
-      "size": 79,
+      "expires": 1757481352,
+      "size": 96,
       "httpOnly": false,
       "secure": true,
       "session": false,
@@ -368,14 +382,14 @@
       "sourcePort": 443
     },
     {
-      "name": "pa_privacy",
-      "value": "%22optin%22",
+      "name": "TCPID",
+      "value": "12480515513352052490",
       "domain": ".francetravail.fr",
       "path": "/",
-      "expires": 1756876441,
-      "size": 21,
+      "expires": 1757308551,
+      "size": 25,
       "httpOnly": false,
-      "secure": true,
+      "secure": false,
       "session": false,
       "sameSite": "Lax",
       "sameParty": false,
@@ -386,9 +400,9 @@
   "headers": {
     "content-encoding": "gzip",
     "content-type": "text/html; charset=utf-8",
-    "date": "Sun, 04 Aug 2024 05:13:59 GMT",
-    "etag": "W/\"33095-xeuI10TjAfiYdQtQdRfDhRNZrWk\"",
-    "set-cookie": "TS0108a62c=01b3abf0a2c297d5ae9e5bd3d2e9b6a1ba363ed41a65f8edbd46e932a8d34b5198f54acba9f3474ccaa524f232f18b1b3d0872ec9a; Path=/; Domain=.mesevenementsemploi.francetravail.fr; Secure; HTTPOnly",
+    "date": "Sun, 11 Aug 2024 05:15:50 GMT",
+    "etag": "W/\"33095-CkLjCGwgn/CtwrXDIATyoXQRInE\"",
+    "set-cookie": "TS0108a62c=01b3abf0a263a605827a66e0bf3fe9e51adf1f69343a0658fb6bb50e4f0ed601872e03dca2d3afb6ee932b63cc6df8ec1f5ffc9fa8; Path=/; Domain=.mesevenementsemploi.francetravail.fr; Secure; HTTPOnly",
     "transfer-encoding": "chunked",
     "vary": "Accept-Encoding",
     "x-content-type-options": "nosniff'"
@@ -399,15 +413,16 @@
       "ip": "185.215.64.42",
       "geoip": {
         "city": {
-          "geoname_id": 2990970,
+          "geoname_id": 2988507,
           "names": {
-            "de": "Nanterre",
-            "en": "Nanterre",
-            "es": "Nanterre",
-            "fr": "Nanterre",
-            "ja": "ナンテール",
-            "ru": "Нантер",
-            "zh-CN": "楠泰尔"
+            "de": "Paris",
+            "en": "Paris",
+            "es": "París",
+            "fr": "Paris",
+            "ja": "パリ",
+            "pt-BR": "Paris",
+            "ru": "Париж",
+            "zh-CN": "巴黎"
           }
         },
         "continent": {
@@ -441,12 +456,12 @@
         },
         "location": {
           "accuracy_radius": 200,
-          "latitude": 48.8909,
-          "longitude": 2.2093,
+          "latitude": 48.8323,
+          "longitude": 2.4075,
           "time_zone": "Europe/Paris"
         },
         "postal": {
-          "code": "92000"
+          "code": "75020"
         },
         "registered_country": {
           "geoname_id": 3017382,
@@ -479,17 +494,13 @@
             }
           },
           {
-            "geoname_id": 3013657,
-            "iso_code": "92",
+            "geoname_id": 2968815,
+            "iso_code": "75",
             "names": {
-              "de": "Hauts-de-Seine",
-              "en": "Hauts-de-Seine",
-              "es": "Altos de Sena",
-              "fr": "Hauts-de-Seine",
-              "ja": "オー＝ド＝セーヌ県",
-              "pt-BR": "Altos do Sena",
-              "ru": "О-де-Сен",
-              "zh-CN": "上塞纳省"
+              "de": "Paris",
+              "en": "Paris",
+              "es": "Paris",
+              "fr": "Paris"
             }
           }
         ]
@@ -500,15 +511,16 @@
       "ip": "185.215.64.92",
       "geoip": {
         "city": {
-          "geoname_id": 2990970,
+          "geoname_id": 2988507,
           "names": {
-            "de": "Nanterre",
-            "en": "Nanterre",
-            "es": "Nanterre",
-            "fr": "Nanterre",
-            "ja": "ナンテール",
-            "ru": "Нантер",
-            "zh-CN": "楠泰尔"
+            "de": "Paris",
+            "en": "Paris",
+            "es": "París",
+            "fr": "Paris",
+            "ja": "パリ",
+            "pt-BR": "Paris",
+            "ru": "Париж",
+            "zh-CN": "巴黎"
           }
         },
         "continent": {
@@ -542,12 +554,12 @@
         },
         "location": {
           "accuracy_radius": 200,
-          "latitude": 48.8909,
-          "longitude": 2.2093,
+          "latitude": 48.8323,
+          "longitude": 2.4075,
           "time_zone": "Europe/Paris"
         },
         "postal": {
-          "code": "92000"
+          "code": "75020"
         },
         "registered_country": {
           "geoname_id": 3017382,
@@ -580,17 +592,13 @@
             }
           },
           {
-            "geoname_id": 3013657,
-            "iso_code": "92",
+            "geoname_id": 2968815,
+            "iso_code": "75",
             "names": {
-              "de": "Hauts-de-Seine",
-              "en": "Hauts-de-Seine",
-              "es": "Altos de Sena",
-              "fr": "Hauts-de-Seine",
-              "ja": "オー＝ド＝セーヌ県",
-              "pt-BR": "Altos do Sena",
-              "ru": "О-де-Сен",
-              "zh-CN": "上塞纳省"
+              "de": "Paris",
+              "en": "Paris",
+              "es": "Paris",
+              "fr": "Paris"
             }
           }
         ]
@@ -598,12 +606,12 @@
     },
     {
       "hostname": "fonts.googleapis.com",
-      "ip": "142.250.68.10",
+      "ip": "142.251.16.95",
       "geoip": {
         "city": {
-          "geoname_id": 5131638,
+          "geoname_id": 5116931,
           "names": {
-            "en": "Plainview"
+            "en": "Farmingdale"
           }
         },
         "continent": {
@@ -635,14 +643,14 @@
           }
         },
         "location": {
-          "accuracy_radius": 100,
-          "latitude": 40.7746,
-          "longitude": -73.4761,
+          "accuracy_radius": 1000,
+          "latitude": 40.7306,
+          "longitude": -73.4313,
           "metro_code": 501,
           "time_zone": "America/New_York"
         },
         "postal": {
-          "code": "11803"
+          "code": "11735"
         },
         "registered_country": {
           "geoname_id": 6252001,
@@ -678,8 +686,14 @@
     },
     {
       "hostname": "fonts.gstatic.com",
-      "ip": "142.250.217.131",
+      "ip": "142.251.167.94",
       "geoip": {
+        "city": {
+          "geoname_id": 5116931,
+          "names": {
+            "en": "Farmingdale"
+          }
+        },
         "continent": {
           "code": "NA",
           "geoname_id": 6255149,
@@ -710,9 +724,13 @@
         },
         "location": {
           "accuracy_radius": 1000,
-          "latitude": 37.751,
-          "longitude": -97.822,
-          "time_zone": "America/Chicago"
+          "latitude": 40.7306,
+          "longitude": -73.4313,
+          "metro_code": 501,
+          "time_zone": "America/New_York"
+        },
+        "postal": {
+          "code": "11735"
         },
         "registered_country": {
           "geoname_id": 6252001,
@@ -727,7 +745,23 @@
             "ru": "США",
             "zh-CN": "美国"
           }
-        }
+        },
+        "subdivisions": [
+          {
+            "geoname_id": 5128638,
+            "iso_code": "NY",
+            "names": {
+              "de": "New York",
+              "en": "New York",
+              "es": "Nueva York",
+              "fr": "New York",
+              "ja": "ニューヨーク州",
+              "pt-BR": "Nova Iorque",
+              "ru": "Нью-Йорк",
+              "zh-CN": "纽约州"
+            }
+          }
+        ]
       }
     },
     {
@@ -802,61 +836,7 @@
     },
     {
       "hostname": "tag.aticdn.net",
-      "ip": "13.33.21.97",
-      "geoip": {
-        "continent": {
-          "code": "NA",
-          "geoname_id": 6255149,
-          "names": {
-            "de": "Nordamerika",
-            "en": "North America",
-            "es": "Norteamérica",
-            "fr": "Amérique du Nord",
-            "ja": "北アメリカ",
-            "pt-BR": "América do Norte",
-            "ru": "Северная Америка",
-            "zh-CN": "北美洲"
-          }
-        },
-        "country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
-          "names": {
-            "de": "USA",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
-          }
-        },
-        "location": {
-          "accuracy_radius": 1000,
-          "latitude": 37.751,
-          "longitude": -97.822,
-          "time_zone": "America/Chicago"
-        },
-        "registered_country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
-          "names": {
-            "de": "USA",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
-          }
-        }
-      }
-    },
-    {
-      "hostname": "hd.pe.fr",
-      "ip": "18.164.174.22",
+      "ip": "3.166.192.49",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -1010,15 +990,16 @@
       "ip": "185.215.64.79",
       "geoip": {
         "city": {
-          "geoname_id": 2990970,
+          "geoname_id": 2988507,
           "names": {
-            "de": "Nanterre",
-            "en": "Nanterre",
-            "es": "Nanterre",
-            "fr": "Nanterre",
-            "ja": "ナンテール",
-            "ru": "Нантер",
-            "zh-CN": "楠泰尔"
+            "de": "Paris",
+            "en": "Paris",
+            "es": "París",
+            "fr": "Paris",
+            "ja": "パリ",
+            "pt-BR": "Paris",
+            "ru": "Париж",
+            "zh-CN": "巴黎"
           }
         },
         "continent": {
@@ -1052,12 +1033,12 @@
         },
         "location": {
           "accuracy_radius": 200,
-          "latitude": 48.8909,
-          "longitude": 2.2093,
+          "latitude": 48.8323,
+          "longitude": 2.4075,
           "time_zone": "Europe/Paris"
         },
         "postal": {
-          "code": "92000"
+          "code": "75020"
         },
         "registered_country": {
           "geoname_id": 3017382,
@@ -1090,20 +1071,70 @@
             }
           },
           {
-            "geoname_id": 3013657,
-            "iso_code": "92",
+            "geoname_id": 2968815,
+            "iso_code": "75",
             "names": {
-              "de": "Hauts-de-Seine",
-              "en": "Hauts-de-Seine",
-              "es": "Altos de Sena",
-              "fr": "Hauts-de-Seine",
-              "ja": "オー＝ド＝セーヌ県",
-              "pt-BR": "Altos do Sena",
-              "ru": "О-де-Сен",
-              "zh-CN": "上塞纳省"
+              "de": "Paris",
+              "en": "Paris",
+              "es": "Paris",
+              "fr": "Paris"
             }
           }
         ]
+      }
+    },
+    {
+      "hostname": "hd.pe.fr",
+      "ip": "18.173.132.69",
+      "geoip": {
+        "continent": {
+          "code": "NA",
+          "geoname_id": 6255149,
+          "names": {
+            "de": "Nordamerika",
+            "en": "North America",
+            "es": "Norteamérica",
+            "fr": "Amérique du Nord",
+            "ja": "北アメリカ",
+            "pt-BR": "América do Norte",
+            "ru": "Северная Америка",
+            "zh-CN": "北美洲"
+          }
+        },
+        "country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "USA",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        },
+        "location": {
+          "accuracy_radius": 1000,
+          "latitude": 37.751,
+          "longitude": -97.822,
+          "time_zone": "America/Chicago"
+        },
+        "registered_country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "USA",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        }
       }
     }
   ]
