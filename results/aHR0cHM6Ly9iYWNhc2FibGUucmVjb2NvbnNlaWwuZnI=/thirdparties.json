@@ -16,10 +16,10 @@
   "cookies": [
     {
       "name": "csrftoken",
-      "value": "eLMtIOxIJvKiak4TtEZcK26kb44BDVXA",
+      "value": "F9BSSPp7oaBHl1UljMngricZISojpXYv",
       "domain": "bacasable.recoconseil.fr",
       "path": "/",
-      "expires": 1754239548.321201,
+      "expires": 1754843704.440447,
       "size": 41,
       "httpOnly": false,
       "secure": true,
@@ -34,9 +34,9 @@
     "content-length": "23655",
     "content-type": "text/html; charset=utf-8",
     "cross-origin-opener-policy": "same-origin",
-    "date": "Sun, 04 Aug 2024 16:45:48 GMT",
+    "date": "Sun, 11 Aug 2024 16:35:04 GMT",
     "referrer-policy": "same-origin",
-    "set-cookie": "csrftoken=eLMtIOxIJvKiak4TtEZcK26kb44BDVXA; expires=Sun, 03 Aug 2025 16:45:48 GMT; Max-Age=31449600; Path=/; SameSite=None; Secure",
+    "set-cookie": "csrftoken=F9BSSPp7oaBHl1UljMngricZISojpXYv; expires=Sun, 10 Aug 2025 16:35:04 GMT; Max-Age=31449600; Path=/; SameSite=None; Secure",
     "strict-transport-security": "max-age=31536000; includeSubDomains",
     "vary": "Cookie",
     "via": "2.0 alproxy",
@@ -102,7 +102,7 @@
     },
     {
       "hostname": "browser.sentry-cdn.com",
-      "ip": "151.101.2.217",
+      "ip": "151.101.130.217",
       "geoip": {
         "city": {
           "geoname_id": 5391959,
