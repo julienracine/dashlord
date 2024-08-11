@@ -69,8 +69,12 @@
       }
     },
     {
-      "type": "unknown",
-      "url": "https://cdn.contentful.com/spaces/2bg01iqy0isv/environments/master/entries?include=3&content_type=homepageNatif&access_token=oqkcaGmPpBLYASc-Tl2yTC1Jg6sK5_LviP0yrmUG8ug"
+      "type": "google",
+      "url": "https://firestore.googleapis.com/google.firestore.v1.Firestore/Listen/channel?database=projects%2Fpassculture-native%2Fdatabases%2F(default)&VER=8&RID=68368&CVER=22&X-HTTP-Session-Id=gsessionid&%24httpHeaders=X-Goog-Api-Client%3Agl-js%2F%20fire%2F9.6.11%0D%0AContent-Type%3Atext%2Fplain%0D%0AX-Firebase-GMPID%3A1%3A605788939445%3Aweb%3Abb7dbdae56cd6eed29cafc%0D%0A&zx=xq7cubtt8dn6&t=1",
+      "details": {
+        "id": "google",
+        "message": "Use hosted Matomo instance"
+      }
     },
     {
       "type": "google",
@@ -82,11 +86,15 @@
     },
     {
       "type": "google",
-      "url": "https://firestore.googleapis.com/google.firestore.v1.Firestore/Listen/channel?database=projects%2Fpassculture-native%2Fdatabases%2F(default)&VER=8&RID=64836&CVER=22&X-HTTP-Session-Id=gsessionid&%24httpHeaders=X-Goog-Api-Client%3Agl-js%2F%20fire%2F9.6.11%0D%0AContent-Type%3Atext%2Fplain%0D%0AX-Firebase-GMPID%3A1%3A605788939445%3Aweb%3Abb7dbdae56cd6eed29cafc%0D%0A&zx=g5s11qmm47v7&t=1",
+      "url": "https://firebaseinstallations.googleapis.com/v1/projects/passculture-native/installations",
       "details": {
         "id": "google",
         "message": "Use hosted Matomo instance"
       }
+    },
+    {
+      "type": "unknown",
+      "url": "https://cdn.contentful.com/spaces/2bg01iqy0isv/environments/master/entries?include=3&content_type=homepageNatif&access_token=oqkcaGmPpBLYASc-Tl2yTC1Jg6sK5_LviP0yrmUG8ug"
     },
     {
       "type": "google",
@@ -106,14 +114,6 @@
     },
     {
       "type": "google",
-      "url": "https://firebaseinstallations.googleapis.com/v1/projects/passculture-native/installations",
-      "details": {
-        "id": "google",
-        "message": "Use hosted Matomo instance"
-      }
-    },
-    {
-      "type": "google",
       "url": "https://firebaseremoteconfig.googleapis.com/v1/projects/passculture-native/namespaces/firebase:fetch?key=AIzaSyA-SYp01R2ikq_y116N5wew5vcwy36NFrk",
       "details": {
         "id": "google",
@@ -130,7 +130,7 @@
     },
     {
       "type": "google",
-      "url": "https://firestore.googleapis.com/google.firestore.v1.Firestore/Listen/channel?database=projects%2Fpassculture-native%2Fdatabases%2F(default)&gsessionid=WhqOyMrt6A2vGLkk63Y2AK_mzaq4vcEjFoY-rqpBnaw&VER=8&RID=rpc&SID=n4YF2lz7clFkVyHrKHmIJw&CI=0&AID=0&TYPE=xmlhttp&zx=zakzprzg4de0&t=1",
+      "url": "https://firestore.googleapis.com/google.firestore.v1.Firestore/Listen/channel?database=projects%2Fpassculture-native%2Fdatabases%2F(default)&gsessionid=tZU1rzA_FSu8473Ar-UTsp_5SdYto-icyQ_rEKUn-kM&VER=8&RID=rpc&SID=-JjTpU7JFqox2gEA-MU6aQ&CI=0&AID=0&TYPE=xmlhttp&zx=xxnhskclr1d3&t=1",
       "details": {
         "id": "google",
         "message": "Use hosted Matomo instance"
@@ -138,7 +138,7 @@
     },
     {
       "type": "google",
-      "url": "https://firestore.googleapis.com/google.firestore.v1.Firestore/Listen/channel?database=projects%2Fpassculture-native%2Fdatabases%2F(default)&VER=8&gsessionid=WhqOyMrt6A2vGLkk63Y2AK_mzaq4vcEjFoY-rqpBnaw&SID=n4YF2lz7clFkVyHrKHmIJw&RID=64837&AID=4&zx=1g0jk5vjorls&t=1",
+      "url": "https://firestore.googleapis.com/google.firestore.v1.Firestore/Listen/channel?database=projects%2Fpassculture-native%2Fdatabases%2F(default)&VER=8&gsessionid=tZU1rzA_FSu8473Ar-UTsp_5SdYto-icyQ_rEKUn-kM&SID=-JjTpU7JFqox2gEA-MU6aQ&RID=68369&AID=4&zx=fizefux7sru0&t=1",
       "details": {
         "id": "google",
         "message": "Use hosted Matomo instance"
@@ -147,27 +147,27 @@
   ],
   "cookies": [],
   "headers": {
-    "age": "1138",
+    "age": "344",
     "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000\nh3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
     "cache-control": "public, max-age=3600",
     "content-encoding": "gzip",
-    "content-length": "8218",
+    "content-length": "8219",
     "content-type": "text/html",
-    "date": "Sun, 04 Aug 2024 06:26:18 GMT",
+    "date": "Sun, 11 Aug 2024 06:22:41 GMT",
     "etag": "W/\"566d919445b23201ec2c4bcdaafbae1b\"",
-    "expires": "Sun, 04 Aug 2024 07:07:20 GMT",
+    "expires": "Sun, 11 Aug 2024 07:17:50 GMT",
     "last-modified": "Wed, 31 Jul 2024 09:04:00 GMT",
     "server": "Google Frontend",
     "vary": "Accept-Encoding",
     "via": "1.1 google",
-    "x-cloud-trace-context": "ac11fde41db724e718c84fc66eba0671",
+    "x-cloud-trace-context": "58e0f86a37474b85ad13d507f75fffd9",
     "x-goog-generation": "1722416640873419",
     "x-goog-hash": "crc32c=3oEjiA==, md5=Vm2RlEWyMgHsLEvNqvuuGw==",
     "x-goog-metageneration": "1",
     "x-goog-storage-class": "STANDARD",
     "x-goog-stored-content-encoding": "identity",
     "x-goog-stored-content-length": "21460",
-    "x-guploader-uploadid": "AHxI1nPCCbVCG-VZyX0Hd1jJdA9RKu11hDKAzUYEAESTW1tHONIO_LXyio5EY1Wm4N1Wxs2DwTA",
+    "x-guploader-uploadid": "AHxI1nM_8glnWH4s0qLBfeSFljFRWOfXN4MWk5NM5C5Goddj_zFtiGt69qfnB-ZMA7Hp80ZXLFVzggtB3g",
     "x-powered-by": "Express"
   },
   "endpoints": [
@@ -259,7 +259,7 @@
     },
     {
       "hostname": "websdk.appsflyer.com",
-      "ip": "99.84.160.46",
+      "ip": "18.160.10.75",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -313,7 +313,7 @@
     },
     {
       "hostname": "firebase.googleapis.com",
-      "ip": "142.250.190.106",
+      "ip": "142.250.31.95",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -367,7 +367,7 @@
     },
     {
       "hostname": "fonts.gstatic.com",
-      "ip": "142.250.190.131",
+      "ip": "172.253.62.94",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -421,19 +421,18 @@
     },
     {
       "hostname": "cdn.contentful.com",
-      "ip": "146.75.78.49",
+      "ip": "151.101.210.49",
       "geoip": {
         "city": {
-          "geoname_id": 4887398,
+          "geoname_id": 5101798,
           "names": {
-            "de": "Chicago",
-            "en": "Chicago",
-            "es": "Chicago",
-            "fr": "Chicago",
-            "ja": "シカゴ",
-            "pt-BR": "Chicago",
-            "ru": "Чикаго",
-            "zh-CN": "芝加哥"
+            "de": "Newark",
+            "en": "Newark",
+            "es": "Newark",
+            "fr": "Newark",
+            "ja": "ニューアーク",
+            "pt-BR": "Newark",
+            "ru": "Ньюарк"
           }
         },
         "continent": {
@@ -466,13 +465,13 @@
         },
         "location": {
           "accuracy_radius": 20,
-          "latitude": 41.8874,
-          "longitude": -87.6318,
-          "metro_code": 602,
-          "time_zone": "America/Chicago"
+          "latitude": 40.738,
+          "longitude": -74.1634,
+          "metro_code": 501,
+          "time_zone": "America/New_York"
         },
         "postal": {
-          "code": "60602"
+          "code": "07192"
         },
         "registered_country": {
           "geoname_id": 6252001,
@@ -490,17 +489,17 @@
         },
         "subdivisions": [
           {
-            "geoname_id": 4896861,
-            "iso_code": "IL",
+            "geoname_id": 5101760,
+            "iso_code": "NJ",
             "names": {
-              "de": "Illinois",
-              "en": "Illinois",
-              "es": "Illinois",
-              "fr": "Illinois",
-              "ja": "イリノイ州",
-              "pt-BR": "Ilinóis",
-              "ru": "Иллинойс",
-              "zh-CN": "伊利诺伊州"
+              "de": "New Jersey",
+              "en": "New Jersey",
+              "es": "Nueva Jersey",
+              "fr": "New Jersey",
+              "ja": "ニュージャージー州",
+              "pt-BR": "Nova Jérsei",
+              "ru": "Нью-Джерси",
+              "zh-CN": "新泽西州"
             }
           }
         ]
@@ -594,8 +593,14 @@
     },
     {
       "hostname": "firestore.googleapis.com",
-      "ip": "172.217.2.42",
+      "ip": "142.251.163.95",
       "geoip": {
+        "city": {
+          "geoname_id": 5116931,
+          "names": {
+            "en": "Farmingdale"
+          }
+        },
         "continent": {
           "code": "NA",
           "geoname_id": 6255149,
@@ -626,9 +631,13 @@
         },
         "location": {
           "accuracy_radius": 1000,
-          "latitude": 37.751,
-          "longitude": -97.822,
-          "time_zone": "America/Chicago"
+          "latitude": 40.7306,
+          "longitude": -73.4313,
+          "metro_code": 501,
+          "time_zone": "America/New_York"
+        },
+        "postal": {
+          "code": "11735"
         },
         "registered_country": {
           "geoname_id": 6252001,
@@ -643,12 +652,28 @@
             "ru": "США",
             "zh-CN": "美国"
           }
-        }
+        },
+        "subdivisions": [
+          {
+            "geoname_id": 5128638,
+            "iso_code": "NY",
+            "names": {
+              "de": "New York",
+              "en": "New York",
+              "es": "Nueva York",
+              "fr": "New York",
+              "ja": "ニューヨーク州",
+              "pt-BR": "Nova Iorque",
+              "ru": "Нью-Йорк",
+              "zh-CN": "纽约州"
+            }
+          }
+        ]
       }
     },
     {
       "hostname": "firebaseinstallations.googleapis.com",
-      "ip": "142.250.191.234",
+      "ip": "172.253.63.95",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -702,7 +727,7 @@
     },
     {
       "hostname": "www.googletagmanager.com",
-      "ip": "142.250.191.168",
+      "ip": "172.253.62.97",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -756,8 +781,14 @@
     },
     {
       "hostname": "firebaseremoteconfig.googleapis.com",
-      "ip": "142.250.191.202",
+      "ip": "142.251.111.95",
       "geoip": {
+        "city": {
+          "geoname_id": 5116931,
+          "names": {
+            "en": "Farmingdale"
+          }
+        },
         "continent": {
           "code": "NA",
           "geoname_id": 6255149,
@@ -788,9 +819,13 @@
         },
         "location": {
           "accuracy_radius": 1000,
-          "latitude": 37.751,
-          "longitude": -97.822,
-          "time_zone": "America/Chicago"
+          "latitude": 40.7306,
+          "longitude": -73.4313,
+          "metro_code": 501,
+          "time_zone": "America/New_York"
+        },
+        "postal": {
+          "code": "11735"
         },
         "registered_country": {
           "geoname_id": 6252001,
@@ -805,7 +840,23 @@
             "ru": "США",
             "zh-CN": "美国"
           }
-        }
+        },
+        "subdivisions": [
+          {
+            "geoname_id": 5128638,
+            "iso_code": "NY",
+            "names": {
+              "de": "New York",
+              "en": "New York",
+              "es": "Nueva York",
+              "fr": "New York",
+              "ja": "ニューヨーク州",
+              "pt-BR": "Nova Iorque",
+              "ru": "Нью-Йорк",
+              "zh-CN": "纽约州"
+            }
+          }
+        ]
       }
     }
   ]
