@@ -31,7 +31,7 @@
       "value": "1",
       "domain": "collectivite.fr",
       "path": "/",
-      "expires": 1722785305,
+      "expires": 1723389650,
       "size": 17,
       "httpOnly": false,
       "secure": false,
@@ -43,10 +43,10 @@
     },
     {
       "name": "_pk_id.118.88ba",
-      "value": "56e617d041a93c7d.1722783505.",
+      "value": "74edc968460bc2f6.1723387850.",
       "domain": "collectivite.fr",
       "path": "/",
-      "expires": 1756738705,
+      "expires": 1757343050,
       "size": 43,
       "httpOnly": false,
       "secure": false,
@@ -59,7 +59,7 @@
   ],
   "headers": {
     "content-type": "text/html",
-    "date": "Sun, 04 Aug 2024 14:58:24 GMT",
+    "date": "Sun, 11 Aug 2024 14:50:48 GMT",
     "referrer-policy": "no-referrer",
     "strict-transport-security": "max-age=31536000",
     "x-frame-options": "SAMEORIGIN"
@@ -112,7 +112,7 @@
           }
         },
         "location": {
-          "accuracy_radius": 500,
+          "accuracy_radius": 1000,
           "latitude": 48.8323,
           "longitude": 2.4075,
           "time_zone": "Europe/Paris"
@@ -165,7 +165,7 @@
     },
     {
       "hostname": "annuaire-des-collectivites-production-storage.s3.fr-par.scw.cloud",
-      "ip": "51.159.62.7",
+      "ip": "51.159.62.6",
       "geoip": {
         "city": {
           "geoname_id": 2988507,
