@@ -23,7 +23,7 @@
       "value": "1",
       "domain": "blog.beta.gouv.fr",
       "path": "/",
-      "expires": 1722739154,
+      "expires": 1723343924,
       "size": 17,
       "httpOnly": false,
       "secure": false,
@@ -35,10 +35,10 @@
     },
     {
       "name": "_pk_id.106.9a49",
-      "value": "5ed4a8b3696b8449.1722737354.",
+      "value": "d1ef25f6922163d8.1723342124.",
       "domain": "blog.beta.gouv.fr",
       "path": "/",
-      "expires": 1756692554,
+      "expires": 1757297324,
       "size": 43,
       "httpOnly": false,
       "secure": false,
@@ -52,16 +52,16 @@
   "headers": {
     "content-encoding": "gzip",
     "content-type": "text/html",
-    "date": "Sun, 04 Aug 2024 02:09:13 GMT",
+    "date": "Sun, 11 Aug 2024 02:08:43 GMT",
     "etag": "W/\"66ab7bc3-669d\"",
     "last-modified": "Thu, 01 Aug 2024 12:12:51 GMT",
     "strict-transport-security": "max-age=31536000",
-    "x-request-id": "2a0663aa-9664-48ef-aa52-8212f17691e6"
+    "x-request-id": "8f7f6cae-c4b6-4e73-bdf4-da77f698478f"
   },
   "endpoints": [
     {
       "hostname": "blog.beta.gouv.fr",
-      "ip": "5.104.101.30",
+      "ip": "109.232.236.90",
       "geoip": {
         "continent": {
           "code": "EU",
@@ -117,7 +117,7 @@
     },
     {
       "hostname": "avatars3.githubusercontent.com",
-      "ip": "185.199.110.133",
+      "ip": "185.199.108.133",
       "geoip": {
         "continent": {
           "code": "NA",
