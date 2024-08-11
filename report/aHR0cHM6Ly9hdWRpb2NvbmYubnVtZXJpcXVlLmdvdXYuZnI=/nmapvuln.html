@@ -54,7 +54,7 @@
 <h1>Scan Report<br><small>Nmap 7.92</small>
 </h1>
 <pre style="white-space:pre-wrap; word-wrap:break-word;">nmap -sV --script vulners --script-args mincvss=5.0 -oA /data/nmapvuln audioconf.numerique.gouv.fr</pre>
-<p class="lead">Sun Aug  4 01:57:44 2024 – Sun Aug  4 01:58:33 2024<br>1 hosts scanned.
+<p class="lead">Sun Aug 11 01:58:47 2024 – Sun Aug 11 01:59:23 2024<br>1 hosts scanned.
               1 hosts up.
               0 hosts down.
             </p>
@@ -121,7 +121,7 @@
 <pre style="white-space:pre-wrap; word-wrap:break-word;">
   FourOhFourRequest: 
     HTTP/1.1 301 Moved Permanently
-    Date: Sun, 04 Aug 2024 01:58:02 GMT
+    Date: Sun, 11 Aug 2024 01:59:01 GMT
     Content-Type: text/html
     Content-Length: 166
     Connection: close
@@ -133,9 +133,9 @@
     &lt;hr&gt;&lt;center&gt;openresty&lt;/center&gt;
     &lt;/body&gt;
     &lt;/html&gt;
-  GetRequest, HTTPOptions: 
+  GetRequest: 
     HTTP/1.1 301 Moved Permanently
-    Date: Sun, 04 Aug 2024 01:58:01 GMT
+    Date: Sun, 11 Aug 2024 01:59:00 GMT
     Content-Type: text/html
     Content-Length: 166
     Connection: close
@@ -147,22 +147,23 @@
     &lt;hr&gt;&lt;center&gt;openresty&lt;/center&gt;
     &lt;/body&gt;
     &lt;/html&gt;
-  RTSPRequest: 
-    HTTP/1.1 400 Bad Request
-    Date: Sun, 04 Aug 2024 01:58:01 GMT
+  HTTPOptions: 
+    HTTP/1.1 301 Moved Permanently
+    Date: Sun, 11 Aug 2024 01:59:01 GMT
     Content-Type: text/html
-    Content-Length: 154
+    Content-Length: 166
     Connection: close
+    Location: https://audioconf.numerique.gouv.fr/
     &lt;html&gt;
-    &lt;head&gt;&lt;title&gt;400 Bad Request&lt;/title&gt;&lt;/head&gt;
+    &lt;head&gt;&lt;title&gt;301 Moved Permanently&lt;/title&gt;&lt;/head&gt;
     &lt;body&gt;
-    &lt;center&gt;&lt;h1&gt;400 Bad Request&lt;/h1&gt;&lt;/center&gt;
+    &lt;center&gt;&lt;h1&gt;301 Moved Permanently&lt;/h1&gt;&lt;/center&gt;
     &lt;hr&gt;&lt;center&gt;openresty&lt;/center&gt;
     &lt;/body&gt;
     &lt;/html&gt;
-  X11Probe: 
+  RTSPRequest, X11Probe: 
     HTTP/1.1 400 Bad Request
-    Date: Sun, 04 Aug 2024 01:58:02 GMT
+    Date: Sun, 11 Aug 2024 01:59:01 GMT
     Content-Type: text/html
     Content-Length: 154
     Connection: close
@@ -190,7 +191,7 @@
 <pre style="white-space:pre-wrap; word-wrap:break-word;">
   GetRequest: 
     HTTP/1.1 200 OK
-    Date: Sun, 04 Aug 2024 01:58:07 GMT
+    Date: Sun, 11 Aug 2024 01:59:07 GMT
     Content-Type: text/html
     Content-Length: 3884
     Connection: close
@@ -200,15 +201,15 @@
     X-Frame-Options: DENY
     X-Content-Type-Options: nosniff
     X-XSS-Protection: 1; mode=block
-    &lt;!doctypehtml&gt;&lt;meta name="viewport"content="width=device-width"&gt;&lt;meta charset="utf-8"&gt;&lt;script&gt;&lt;/script&gt;&lt;script&gt;var __blnChallengeStore={"cookie":{"path":"/","maxAge":900,"name":"bln_challengejs","value":"gHntngsFdAi6FsW71UtIZnBSmaK6HH34f4UTPysl0Yo1_8dI1ajjLa48HVH5foHodaURsnJMXaB0UmzJdP7wcbPof9WW0jHog4vt2fAYrFs"},"checkChallengeParams":{"bot_category":"unknown","rule_id":"","request_fate":"challengejs","tracking_id":""},"domain":".numerique.gouv.fr","unregisterServiceWorker":false};(()=&gt;{"use strict";const e=function*({domain:e,maxAge:n,name:o,path:a,secure:t,value:i}){yield`${o}=${
+    &lt;!doctypehtml&gt;&lt;meta name="viewport"content="width=device-width"&gt;&lt;meta charset="utf-8"&gt;&lt;script&gt;&lt;/script&gt;&lt;script&gt;var __blnChallengeStore={"checkChallengeParams":{"tracking_id":"","request_fate":"challengejs","rule_id":"","bot_category":"unknown"},"cookie":{"value":"gHntngsFdAi6FsW71UtIZkN7Hn5yd0HyOW_pgP7OASbPLnHQBeyVim0g_gjw_qkXTU_0-tcknnvyrj1DOCRmYDkN6rad4NEBtPWfTrRFzDs","path":"/","name":"bln_challengejs","maxAge":900},"unregisterServiceWorker":false,"domain":".numerique.gouv.fr"};(()=&gt;{"use strict";const e=function*({domain:e,maxAge:n,name:o,path:a,secure:t,value:i}){yield`${o}=${
   HTTPOptions: 
     HTTP/1.1 404 Not Found
-    Date: Sun, 04 Aug 2024 01:58:08 GMT
+    Date: Sun, 11 Aug 2024 01:59:07 GMT
     Content-Type: text/html
     Content-Length: 15532
     Connection: close
     ETag: "662276d9-3cac"
-    X-Varnish: 303927
+    X-Varnish: 5672042
     Age: 0
     Strict-Transport-Security: max-age=63072000
     X-Frame-Options: DENY
