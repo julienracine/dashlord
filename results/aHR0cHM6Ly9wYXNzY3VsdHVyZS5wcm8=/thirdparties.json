@@ -14,7 +14,7 @@
     },
     {
       "type": "google",
-      "url": "https://www.gstatic.com/recaptcha/releases/hfUfsXWZFeg83qqxrK27GB8P/recaptcha__en.js",
+      "url": "https://www.gstatic.com/recaptcha/releases/_ZpyzC9NQw3gYt1GHTrnprhx/recaptcha__en.js",
       "details": {
         "id": "google",
         "message": "Use hosted Matomo instance"
@@ -22,7 +22,7 @@
     },
     {
       "type": "google",
-      "url": "https://www.google.com/recaptcha/api2/anchor?ar=1&k=6LdQAK0ZAAAAABAW9T4lfAtxrJp9DtnPYIZ7Qd7p&co=aHR0cHM6Ly9wYXNzY3VsdHVyZS5wcm86NDQz&hl=en&v=hfUfsXWZFeg83qqxrK27GB8P&size=invisible&cb=510eoqmfzlab",
+      "url": "https://www.google.com/recaptcha/api2/anchor?ar=1&k=6LdQAK0ZAAAAABAW9T4lfAtxrJp9DtnPYIZ7Qd7p&co=aHR0cHM6Ly9wYXNzY3VsdHVyZS5wcm86NDQz&hl=en&v=_ZpyzC9NQw3gYt1GHTrnprhx&size=invisible&cb=hmbv1xalx9od",
       "details": {
         "id": "google",
         "message": "Use hosted Matomo instance"
@@ -30,7 +30,7 @@
     },
     {
       "type": "google",
-      "url": "https://www.gstatic.com/recaptcha/releases/hfUfsXWZFeg83qqxrK27GB8P/styles__ltr.css",
+      "url": "https://www.gstatic.com/recaptcha/releases/_ZpyzC9NQw3gYt1GHTrnprhx/styles__ltr.css",
       "details": {
         "id": "google",
         "message": "Use hosted Matomo instance"
@@ -38,7 +38,7 @@
     },
     {
       "type": "google",
-      "url": "https://www.gstatic.com/recaptcha/releases/hfUfsXWZFeg83qqxrK27GB8P/recaptcha__en.js",
+      "url": "https://www.gstatic.com/recaptcha/releases/_ZpyzC9NQw3gYt1GHTrnprhx/recaptcha__en.js",
       "details": {
         "id": "google",
         "message": "Use hosted Matomo instance"
@@ -78,7 +78,7 @@
     },
     {
       "type": "google",
-      "url": "https://www.google.com/recaptcha/api2/webworker.js?hl=en&v=hfUfsXWZFeg83qqxrK27GB8P",
+      "url": "https://www.google.com/recaptcha/api2/webworker.js?hl=en&v=_ZpyzC9NQw3gYt1GHTrnprhx",
       "details": {
         "id": "google",
         "message": "Use hosted Matomo instance"
@@ -107,19 +107,19 @@
     "alt-svc": "h3=\":443\";ma=86400,h3-29=\":443\";ma=86400,h3-27=\":443\";ma=86400\nh3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
     "cache-control": "max-age=3600",
     "content-encoding": "br",
-    "content-length": "531",
+    "content-length": "532",
     "content-security-policy-report-only": "style-src 'self' https://app.getbeamer.com 'unsafe-inline'; img-src 'self' data: https://static.getbeamer.com https://storage.googleapis.com https://app.getbeamer.com https://www.googletagmanager.com; object-src 'none'; frame-src https://push.getbeamer.com https://app.getbeamer.com https://www.google.com https://data-analytics.passculture.team; script-src-elem 'self' 'nonce-recaptcha' https://www.gstatic.com https://static.getbeamer.com https://static.hotjar.com https://app.getbeamer.com https://script.hotjar.com https://www.googletagmanager.com https://firebaseinstallations.googleapis.com https://firebaseremoteconfig.googleapis.com https://api-adresse.data.gouv.fr https://vc.hotjar.io; script-src 'self'; connect-src 'self' https://*.algolianet.com https://www.google-analytics.com wss://ws.hotjar.com https://content.hotjar.io https://surveystats.hotjar.io https://api-adresse.data.gouv.fr https://storage.googleapis.com https://backend.getbeamer.com https://firebaseremoteconfig.googleapis.com https://firebase.googleapis.com https://firebaseinstallations.googleapis.com https://sentry.passculture.team https://backend.integration.passculture.pro https://backend.testing.passculture.team https://backend.staging.passculture.team https://backend.passculture.pro https://region1.google-analytics.com https://*.algolia.net https://insights.algolia.io https://vc.hotjar.io https://metrics.hotjar.io; report-uri https://sentry.passculture.team/api/2/security/?sentry_key=50f5694849704813b4154c5868b73365;",
     "content-type": "text/html; charset=utf-8",
-    "date": "Sun, 04 Aug 2024 06:41:13 GMT",
-    "etag": "\"d808670b915b8f929c4a63b8adaf1938a83d7acb91e88893af33aa5bdaad852d-br\"",
-    "last-modified": "Wed, 31 Jul 2024 10:03:38 GMT",
+    "date": "Sun, 11 Aug 2024 06:35:11 GMT",
+    "etag": "\"0c1cfdfbdfc019bb26648ba086151c75e96941f494c625d5fcdd177a5233cc96-br\"",
+    "last-modified": "Mon, 05 Aug 2024 14:59:39 GMT",
     "strict-transport-security": "max-age=31556926; includeSubDomains; preload",
     "vary": "x-fh-requested-host, accept-encoding",
     "via": "1.1 google",
     "x-cache": "HIT",
     "x-cache-hits": "2",
-    "x-served-by": "cache-iad-kcgs7200065-IAD",
-    "x-timer": "S1722753673.411008,VS0,VE0"
+    "x-served-by": "cache-chi-kigq8000023-CHI",
+    "x-timer": "S1723358112.538312,VS0,VE0"
   },
   "endpoints": [
     {
@@ -296,14 +296,8 @@
     },
     {
       "hostname": "www.google.com",
-      "ip": "142.251.167.105",
+      "ip": "142.250.191.100",
       "geoip": {
-        "city": {
-          "geoname_id": 5116931,
-          "names": {
-            "en": "Farmingdale"
-          }
-        },
         "continent": {
           "code": "NA",
           "geoname_id": 6255149,
@@ -334,13 +328,9 @@
         },
         "location": {
           "accuracy_radius": 1000,
-          "latitude": 40.7306,
-          "longitude": -73.4313,
-          "metro_code": 501,
-          "time_zone": "America/New_York"
-        },
-        "postal": {
-          "code": "11735"
+          "latitude": 37.751,
+          "longitude": -97.822,
+          "time_zone": "America/Chicago"
         },
         "registered_country": {
           "geoname_id": 6252001,
@@ -355,28 +345,12 @@
             "ru": "США",
             "zh-CN": "美国"
           }
-        },
-        "subdivisions": [
-          {
-            "geoname_id": 5128638,
-            "iso_code": "NY",
-            "names": {
-              "de": "New York",
-              "en": "New York",
-              "es": "Nueva York",
-              "fr": "New York",
-              "ja": "ニューヨーク州",
-              "pt-BR": "Nova Iorque",
-              "ru": "Нью-Йорк",
-              "zh-CN": "纽约州"
-            }
-          }
-        ]
+        }
       }
     },
     {
       "hostname": "www.gstatic.com",
-      "ip": "172.253.115.94",
+      "ip": "142.250.191.131",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -430,14 +404,8 @@
     },
     {
       "hostname": "fonts.gstatic.com",
-      "ip": "142.251.167.94",
+      "ip": "142.250.190.35",
       "geoip": {
-        "city": {
-          "geoname_id": 5116931,
-          "names": {
-            "en": "Farmingdale"
-          }
-        },
         "continent": {
           "code": "NA",
           "geoname_id": 6255149,
@@ -468,13 +436,9 @@
         },
         "location": {
           "accuracy_radius": 1000,
-          "latitude": 40.7306,
-          "longitude": -73.4313,
-          "metro_code": 501,
-          "time_zone": "America/New_York"
-        },
-        "postal": {
-          "code": "11735"
+          "latitude": 37.751,
+          "longitude": -97.822,
+          "time_zone": "America/Chicago"
         },
         "registered_country": {
           "geoname_id": 6252001,
@@ -489,23 +453,7 @@
             "ru": "США",
             "zh-CN": "美国"
           }
-        },
-        "subdivisions": [
-          {
-            "geoname_id": 5128638,
-            "iso_code": "NY",
-            "names": {
-              "de": "New York",
-              "en": "New York",
-              "es": "Nueva York",
-              "fr": "New York",
-              "ja": "ニューヨーク州",
-              "pt-BR": "Nova Iorque",
-              "ru": "Нью-Йорк",
-              "zh-CN": "纽约州"
-            }
-          }
-        ]
+        }
       }
     }
   ]

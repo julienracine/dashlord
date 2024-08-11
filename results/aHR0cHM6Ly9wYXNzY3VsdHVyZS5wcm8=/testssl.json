@@ -206,7 +206,7 @@
               "ip"           : "passculture.pro/34.107.224.170",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "supported"
+              "finding"      : "not supported"
           }
 ,         {
               "id"           : "TLS_timestamp",
@@ -346,7 +346,7 @@
               "ip"           : "passculture.pro/34.107.224.170",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "197 >= 60 days"
+              "finding"      : "190 >= 60 days"
           }
 ,         {
               "id"           : "cert_notBefore",
@@ -492,8 +492,8 @@
               "id"           : "HTTP_status_code",
               "ip"           : "passculture.pro/34.107.224.170",
               "port"         : "443",
-              "severity"     : "WARN",
-              "finding"      : "Unexpected 502 Bad Gateway @ '/'"
+              "severity"     : "INFO",
+              "finding"      : "200 OK ('/')"
           }
 ,         {
               "id"           : "HTTP_clock_skew",
@@ -507,14 +507,28 @@
               "ip"           : "passculture.pro/34.107.224.170",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1722753722"
+              "finding"      : "1723358160"
           }
 ,         {
-              "id"           : "HSTS",
+              "id"           : "HSTS_time",
               "ip"           : "passculture.pro/34.107.224.170",
               "port"         : "443",
-              "severity"     : "LOW",
-              "finding"      : "not offered"
+              "severity"     : "OK",
+              "finding"      : "365 days (=31556926 seconds) > 15552000 seconds"
+          }
+,         {
+              "id"           : "HSTS_subdomains",
+              "ip"           : "passculture.pro/34.107.224.170",
+              "port"         : "443",
+              "severity"     : "OK",
+              "finding"      : "includes subdomains"
+          }
+,         {
+              "id"           : "HSTS_preload",
+              "ip"           : "passculture.pro/34.107.224.170",
+              "port"         : "443",
+              "severity"     : "OK",
+              "finding"      : "domain IS marked for preloading"
           }
 ,         {
               "id"           : "HPKP",
@@ -542,14 +556,28 @@
               "ip"           : "passculture.pro/34.107.224.170",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "0 at '/' (30x detected, better try target URL of 30x)"
+              "finding"      : "0 at '/'"
           }
 ,         {
-              "id"           : "Referrer-Policy",
+              "id"           : "Content-Security-Policy-Report-Only",
+              "ip"           : "passculture.pro/34.107.224.170",
+              "port"         : "443",
+              "severity"     : "OK",
+              "finding"      : "style-src 'self' https://app.getbeamer.com 'unsafe-inline'; img-src 'self' data: https://static.getbeamer.com https://storage.googleapis.com https://app.getbeamer.com https://www.googletagmanager.com; object-src 'none'; frame-src https://push.getbeamer.com https://app.getbeamer.com https://www.google.com https://data-analytics.passculture.team; script-src-elem 'self' 'nonce-recaptcha' https://www.gstatic.com https://static.getbeamer.com https://static.hotjar.com https://app.getbeamer.com https://script.hotjar.com https://www.googletagmanager.com https://firebaseinstallations.googleapis.com https://firebaseremoteconfig.googleapis.com https://api-adresse.data.gouv.fr https://vc.hotjar.io; script-src 'self'; connect-src 'self' https://*.algolianet.com https://www.google-analytics.com wss://ws.hotjar.com https://content.hotjar.io https://surveystats.hotjar.io https://api-adresse.data.gouv.fr https://storage.googleapis.com https://backend.getbeamer.com https://firebaseremoteconfig.googleapis.com https://firebase.googleapis.com https://firebaseinstallations.googleapis.com https://sentry.passculture.team https://backend.integration.passculture.pro https://backend.testing.passculture.team https://backend.staging.passculture.team https://backend.passculture.pro https://region1.google-analytics.com https://*.algolia.net https://insights.algolia.io https://vc.hotjar.io https://metrics.hotjar.io; report-uri https://sentry.passculture.team/api/2/security/?sentry_key=50f5694849704813b4154c5868b73365;"
+          }
+,         {
+              "id"           : "X-Served-By",
               "ip"           : "passculture.pro/34.107.224.170",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "no-referrer"
+              "finding"      : "cache-chi-kigq8000051-CHI"
+          }
+,         {
+              "id"           : "Cache-Control",
+              "ip"           : "passculture.pro/34.107.224.170",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "max-age=3600"
           }
 ,         {
               "id"           : "banner_reverseproxy",
@@ -557,7 +585,7 @@
               "port"         : "443",
               "severity"     : "INFO",
               "cwe"          : "CWE-200",
-              "finding"      : "--"
+              "finding"      : "X-Cache: HITX-Cache-Hits: 1Via: 1.1 google"
           }
 ,         {
               "id"           : "heartbleed",
@@ -1049,20 +1077,13 @@
               "ip"           : "passculture.pro/34.107.224.170",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "A"
-          }
-,         {
-              "id"           : "grade_cap_reason_1",
-              "ip"           : "passculture.pro/34.107.224.170",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "Grade capped to A. HSTS is not offered"
+              "finding"      : "A+"
           }
 ,         {
               "id"           : "scanTime",
               "ip"           : "passculture.pro/34.107.224.170",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "39"
+              "finding"      : "38"
           }
 ]
