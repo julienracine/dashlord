@@ -2,7 +2,7 @@
   "trackers": [
     {
       "type": "unknown",
-      "url": "https://stonly.com/js/widget/v2/version?v=1722778672446"
+      "url": "https://stonly.com/js/widget/v2/version?v=1723383408751"
     },
     {
       "type": "crisp",
@@ -30,7 +30,7 @@
     },
     {
       "type": "crisp",
-      "url": "https://client.crisp.chat/settings/website/582ff50a-5ac4-4f38-a8bc-62f51beeef89/prelude/?callback=window.%24__CRISP_INSTANCE.__spool.website_prelude_handler&2024-7-4-13-37",
+      "url": "https://client.crisp.chat/settings/website/582ff50a-5ac4-4f38-a8bc-62f51beeef89/prelude/?callback=window.%24__CRISP_INSTANCE.__spool.website_prelude_handler&2024-7-11-13-36",
       "details": {
         "id": "crisp",
         "message": "Ensure your TOS notify the CRISP usage"
@@ -38,15 +38,15 @@
     },
     {
       "type": "unknown",
-      "url": "https://stonly.com/js/widget/v2/stonly-widget.js?v=00eeb165"
+      "url": "https://stonly.com/js/widget/v2/stonly-widget.js?v=9ecab877"
     },
     {
       "type": "unknown",
-      "url": "https://stonly.com/js/widget/v2/vendors~widget-3902cc5a737366904b2f.stonly.js"
+      "url": "https://stonly.com/js/widget/v2/vendors~widget-7180e59bbdc1182ee45f.stonly.js"
     },
     {
       "type": "unknown",
-      "url": "https://stonly.com/js/widget/v2/widget-645dbe32a9dc1996e815.stonly.js"
+      "url": "https://stonly.com/js/widget/v2/widget-699cddf4518b62d8ebb2.stonly.js"
     },
     {
       "type": "unknown",
@@ -62,15 +62,19 @@
     },
     {
       "type": "unknown",
-      "url": "https://api.stonly.com/api/v2/widget/integration?widgetId=1b1b2533-383c-11ef-a9d4-06cb0cb2a85e&stonlyAnonymousId=4af9481a-af29-4164-b4a1-4198c0e4cf19&url=https%3A%2F%2Fapp.territoiresentransitions.fr%2F"
+      "url": "https://api.stonly.com/api/v2/widget/integration?widgetId=1b1b2533-383c-11ef-a9d4-06cb0cb2a85e&stonlyAnonymousId=6b4cb765-e0bf-4bc8-b53a-34c3c1610070&url=https%3A%2F%2Fapp.territoiresentransitions.fr%2F"
     },
     {
       "type": "unknown",
-      "url": "https://api.stonly.com/api/v2/widget/integration?widgetId=1b1b2533-383c-11ef-a9d4-06cb0cb2a85e&stonlyAnonymousId=4af9481a-af29-4164-b4a1-4198c0e4cf19&url=https%3A%2F%2Fapp.territoiresentransitions.fr%2F"
+      "url": "https://api.stonly.com/api/v2/widget/integration?widgetId=1b1b2533-383c-11ef-a9d4-06cb0cb2a85e&stonlyAnonymousId=6b4cb765-e0bf-4bc8-b53a-34c3c1610070&url=https%3A%2F%2Fapp.territoiresentransitions.fr%2F"
+    },
+    {
+      "type": "unknown",
+      "url": "https://api.stonly.com/api/v1/stat"
     },
     {
       "type": "crisp",
-      "url": "https://client.crisp.chat/settings/website/582ff50a-5ac4-4f38-a8bc-62f51beeef89/?callback=window.%24__CRISP_INSTANCE.__spool.website_settings_handler&1721671547207",
+      "url": "https://client.crisp.chat/settings/website/582ff50a-5ac4-4f38-a8bc-62f51beeef89/?callback=window.%24__CRISP_INSTANCE.__spool.website_settings_handler&1723148183601",
       "details": {
         "id": "crisp",
         "message": "Ensure your TOS notify the CRISP usage"
@@ -87,10 +91,6 @@
     {
       "type": "unknown",
       "url": "https://api.stonly.com/api/v1/stat"
-    },
-    {
-      "type": "unknown",
-      "url": "https://api.stonly.com/api/v1/stat"
     }
   ],
   "cookies": [],
@@ -98,14 +98,14 @@
     "alt-svc": "h3=\":443\"; ma=86400",
     "cache-control": "public, max-age=0",
     "cf-cache-status": "DYNAMIC",
-    "cf-ray": "8adef1ce1c415b04-IAD",
+    "cf-ray": "8b189ddf9be1f97b-SJC",
     "content-encoding": "br",
     "content-type": "text/html; charset=UTF-8",
-    "date": "Sun, 04 Aug 2024 13:37:52 GMT",
+    "date": "Sun, 11 Aug 2024 13:36:48 GMT",
     "etag": "W/\"aff-1910dc257f0\"",
     "last-modified": "Thu, 01 Aug 2024 11:45:26 GMT",
     "server": "cloudflare",
-    "x-envoy-upstream-service-time": "81",
+    "x-envoy-upstream-service-time": "79",
     "x-koyeb-backend": "par1",
     "x-koyeb-glb": "par1",
     "x-powered-by": "Express"
@@ -133,7 +133,7 @@
     },
     {
       "hostname": "stonly.com",
-      "ip": "13.32.208.50",
+      "ip": "18.173.121.121",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -187,7 +187,7 @@
     },
     {
       "hostname": "client.crisp.chat",
-      "ip": "104.18.29.104",
+      "ip": "104.18.28.104",
       "geoip": {
         "registered_country": {
           "geoname_id": 6252001,
@@ -207,7 +207,7 @@
     },
     {
       "hostname": "s.stonly.com",
-      "ip": "3.162.112.25",
+      "ip": "65.8.161.10",
       "geoip": {
         "continent": {
           "code": "NA",
