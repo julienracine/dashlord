@@ -54,7 +54,7 @@
 <h1>Scan Report<br><small>Nmap 7.92</small>
 </h1>
 <pre style="white-space:pre-wrap; word-wrap:break-word;">nmap -sV --script vulners --script-args mincvss=5.0 -oA /data/nmapvuln pilotage.inclusion.beta.gouv.fr</pre>
-<p class="lead">Sun Aug  4 06:56:28 2024 – Sun Aug  4 06:59:15 2024<br>1 hosts scanned.
+<p class="lead">Sun Aug 11 06:52:11 2024 – Sun Aug 11 06:54:59 2024<br>1 hosts scanned.
               1 hosts up.
               0 hosts down.
             </p>
@@ -76,9 +76,9 @@
 </tr></thead>
 <tbody><tr>
 <td><span class="label label-success">up</span></td>
-<td>91.208.207.217</td>
+<td>91.208.207.215</td>
 <td>pilotage.inclusion.beta.gouv.fr</td>
-<td>10</td>
+<td>12</td>
 <td>0</td>
 </tr></tbody>
 </table></div>
@@ -91,8 +91,8 @@
             });
           </script><h2 id="onlinehosts" class="target">Online Hosts</h2>
 <div class="panel panel-default">
-<div class="panel-heading clickable" data-toggle="collapse" data-target="#91-208-207-217"><h3 class="panel-title">91.208.207.217 - pilotage.inclusion.beta.gouv.fr</h3></div>
-<div class="panel-body collapse in" id="91-208-207-217">
+<div class="panel-heading clickable" data-toggle="collapse" data-target="#91-208-207-215"><h3 class="panel-title">91.208.207.215 - pilotage.inclusion.beta.gouv.fr</h3></div>
+<div class="panel-body collapse in" id="91-208-207-215">
 <h4>Hostnames</h4>
 <ul><li>pilotage.inclusion.beta.gouv.fr (user)</li></ul>
 <h4>Ports</h4>
@@ -124,12 +124,12 @@
     Cache-Control: no-cache
     Connection: close
     Content-Length: 479
-    Sozu-Id: 01J4E2SW31H1SDQRN7PXZY1KP0
+    Sozu-Id: 01J503B2R4ZB2VN9D1AP766ZVP
     &lt;style&gt;pre{background:#EEE;padding:10px;border:1px solid #AAA;border-radius: 5px;}&lt;/style&gt;
     &lt;h1&gt;400 Bad Request&lt;/h1&gt;
     &lt;pre&gt;
     "route": "GET",
-    "request_id": "01J4E2SW31H1SDQRN7PXZY1KP0",
+    "request_id": "01J503B2R4ZB2VN9D1AP766ZVP",
     &lt;/pre&gt;
     &lt;p&gt;Request could not be parsed. Parser stopped at phase: Body.&lt;/p&gt;
     &lt;p&gt;Diagnostic: Could not extract the route after connection started, this should not happen.&lt;/p&gt;
@@ -141,12 +141,12 @@
     Cache-Control: no-cache
     Connection: close
     Content-Length: 483
-    Sozu-Id: 01J4E2T272DTXE00JZFKPPDVCQ
+    Sozu-Id: 01J503B8X61C9FJ4N148JED3JX
     &lt;style&gt;pre{background:#EEE;padding:10px;border:1px solid #AAA;border-radius: 5px;}&lt;/style&gt;
     &lt;h1&gt;400 Bad Request&lt;/h1&gt;
     &lt;pre&gt;
     "route": "OPTIONS",
-    "request_id": "01J4E2T272DTXE00JZFKPPDVCQ",
+    "request_id": "01J503B8X61C9FJ4N148JED3JX",
     &lt;/pre&gt;
     &lt;p&gt;Request could not be parsed. Parser stopped at phase: Body.&lt;/p&gt;
     &lt;p&gt;Diagnostic: Could not extract the route after connection started, this should not happen.&lt;/p&gt;
@@ -158,12 +158,12 @@
     Cache-Control: no-cache
     Connection: close
     Content-Length: 885
-    Sozu-Id: 01J4E2T2FKS81PRX4S945A2NAR
+    Sozu-Id: 01J503B96QE27KHB92VJ2E98B4
     &lt;style&gt;pre{background:#EEE;padding:10px;border:1px solid #AAA;border-radius: 5px;}&lt;/style&gt;
     &lt;h1&gt;400 Bad Request&lt;/h1&gt;
     &lt;pre&gt;
     "route": "",
-    "request_id": "01J4E2T2FKS81PRX4S945A2NAR",
+    "request_id": "01J503B96QE27KHB92VJ2E98B4",
     &lt;/pre&gt;
     &lt;p&gt;Request could not be parsed. Parser stopped at phase: StatusLine.&lt;/p&gt;
     &lt;p&gt;Diagnostic: The request line is invalid. Make sure it is well formated and all characters are LATIN-1 (no UTF-8 allowed).&lt;/p&gt;
@@ -225,14 +225,14 @@
 <a href="https://nvd.nist.gov/vuln/search/results?form_type=Advanced&amp;cves=on&amp;cpe_version="></a><h5>fingerprint-strings</h5>
 <pre style="white-space:pre-wrap; word-wrap:break-word;">
   Kerberos: 
-    H\x0f
-    \xe4
-    6uce
-    )^Jn^
+    8\xf6
+    6C&amp;x
+    V(9_
+    ca92
+    DA\x82
+    QfkH
   TLSSessionReq: 
-    P*L;
-    ")~h
-    \xd9</pre>
+    QCNY</pre>
 </td></tr>
 <tr class="success">
 <td title="Port">5002</td>
@@ -264,6 +264,26 @@
   NULL: 
     SSH-2.0-SFTPGo_2.4.4-dev</pre>
 </td></tr>
+<tr class="success">
+<td title="Port">5405</td>
+<td title="Protocol">tcp</td>
+<td title="State / Reason">open<br>syn-ack</td>
+<td title="Service">pcduo</td>
+<td title="Product"></td>
+<td title="Version"></td>
+<td title="Extra Info"></td>
+</tr>
+<tr><td colspan="7"><a href="https://nvd.nist.gov/vuln/search/results?form_type=Advanced&amp;cves=on&amp;cpe_version="></a></td></tr>
+<tr class="success">
+<td title="Port">5666</td>
+<td title="Protocol">tcp</td>
+<td title="State / Reason">open<br>syn-ack</td>
+<td title="Service">tcpwrapped</td>
+<td title="Product"></td>
+<td title="Version"></td>
+<td title="Extra Info"></td>
+</tr>
+<tr><td colspan="7"><a href="https://nvd.nist.gov/vuln/search/results?form_type=Advanced&amp;cves=on&amp;cpe_version="></a></td></tr>
 <tr class="success">
 <td title="Port">5800</td>
 <td title="Protocol">tcp</td>
@@ -334,7 +354,7 @@
 </tr></thead>
 <tbody>
 <tr>
-<td>91.208.207.217 - pilotage.inclusion.beta.gouv.fr</td>
+<td>91.208.207.215 - pilotage.inclusion.beta.gouv.fr</td>
 <td>80</td>
 <td>tcp</td>
 <td>http</td>
@@ -344,7 +364,7 @@
 <td></td>
 </tr>
 <tr>
-<td>91.208.207.217 - pilotage.inclusion.beta.gouv.fr</td>
+<td>91.208.207.215 - pilotage.inclusion.beta.gouv.fr</td>
 <td>443</td>
 <td>tcp</td>
 <td>https</td>
@@ -354,7 +374,7 @@
 <td></td>
 </tr>
 <tr>
-<td>91.208.207.217 - pilotage.inclusion.beta.gouv.fr</td>
+<td>91.208.207.215 - pilotage.inclusion.beta.gouv.fr</td>
 <td>1080</td>
 <td>tcp</td>
 <td>socks</td>
@@ -364,7 +384,7 @@
 <td></td>
 </tr>
 <tr>
-<td>91.208.207.217 - pilotage.inclusion.beta.gouv.fr</td>
+<td>91.208.207.215 - pilotage.inclusion.beta.gouv.fr</td>
 <td>1081</td>
 <td>tcp</td>
 <td>pvuniwien</td>
@@ -374,7 +394,7 @@
 <td></td>
 </tr>
 <tr>
-<td>91.208.207.217 - pilotage.inclusion.beta.gouv.fr</td>
+<td>91.208.207.215 - pilotage.inclusion.beta.gouv.fr</td>
 <td>3000</td>
 <td>tcp</td>
 <td>ppp</td>
@@ -384,7 +404,7 @@
 <td></td>
 </tr>
 <tr>
-<td>91.208.207.217 - pilotage.inclusion.beta.gouv.fr</td>
+<td>91.208.207.215 - pilotage.inclusion.beta.gouv.fr</td>
 <td>5002</td>
 <td>tcp</td>
 <td>ssh</td>
@@ -394,7 +414,7 @@
 <td>protocol 2.0</td>
 </tr>
 <tr>
-<td>91.208.207.217 - pilotage.inclusion.beta.gouv.fr</td>
+<td>91.208.207.215 - pilotage.inclusion.beta.gouv.fr</td>
 <td>5357</td>
 <td>tcp</td>
 <td>ssh</td>
@@ -404,7 +424,27 @@
 <td>protocol 2.0</td>
 </tr>
 <tr>
-<td>91.208.207.217 - pilotage.inclusion.beta.gouv.fr</td>
+<td>91.208.207.215 - pilotage.inclusion.beta.gouv.fr</td>
+<td>5405</td>
+<td>tcp</td>
+<td>pcduo</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>91.208.207.215 - pilotage.inclusion.beta.gouv.fr</td>
+<td>5666</td>
+<td>tcp</td>
+<td>tcpwrapped</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>91.208.207.215 - pilotage.inclusion.beta.gouv.fr</td>
 <td>5800</td>
 <td>tcp</td>
 <td>amqp</td>
@@ -414,7 +454,7 @@
 <td>0-9</td>
 </tr>
 <tr>
-<td>91.208.207.217 - pilotage.inclusion.beta.gouv.fr</td>
+<td>91.208.207.215 - pilotage.inclusion.beta.gouv.fr</td>
 <td>5962</td>
 <td>tcp</td>
 <td>unknown</td>
@@ -424,7 +464,7 @@
 <td></td>
 </tr>
 <tr>
-<td>91.208.207.217 - pilotage.inclusion.beta.gouv.fr</td>
+<td>91.208.207.215 - pilotage.inclusion.beta.gouv.fr</td>
 <td>9999</td>
 <td>tcp</td>
 <td>tcpwrapped</td>
