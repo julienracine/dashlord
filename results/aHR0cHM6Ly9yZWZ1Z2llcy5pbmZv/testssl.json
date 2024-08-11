@@ -199,7 +199,7 @@
               "ip"           : "refugies.info/34.120.26.1",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "prime256v1 secp384r1"
+              "finding"      : "prime256v1"
           }
 ,         {
               "id"           : "TLS_extensions",
@@ -212,8 +212,8 @@
               "id"           : "TLS_session_ticket",
               "ip"           : "refugies.info/34.120.26.1",
               "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "valid for 7200 seconds only (<daily)"
+              "severity"     : "LOW",
+              "finding"      : "valid for 100800 seconds (>daily)"
           }
 ,         {
               "id"           : "SSL_sessionID_support",
@@ -234,7 +234,7 @@
               "ip"           : "refugies.info/34.120.26.1",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "not supported"
+              "finding"      : "supported"
           }
 ,         {
               "id"           : "TLS_timestamp",
@@ -297,7 +297,7 @@
               "ip"           : "refugies.info/34.120.26.1",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "881A71F72893E5210988145B377AAD81"
+              "finding"      : "1726301F6B423D5C0A3FDEFB882FB4EF"
           }
 ,         {
               "id"           : "cert_serialNumberLen",
@@ -311,21 +311,21 @@
               "ip"           : "refugies.info/34.120.26.1",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "EDC5F6C7218AAF5F4BB6418F46F9A54E69EE9EB2"
+              "finding"      : "D54D5AF59DBD9CF31A71A6B3EE832586C4675C23"
           }
 ,         {
               "id"           : "cert_fingerprintSHA256",
               "ip"           : "refugies.info/34.120.26.1",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "661CA5EE91E3C8C7F50430C3F48320C2A6AE3970F94358E01D885BAB511FA9C5"
+              "finding"      : "AAA59027F08876F3899C835650CD9F38EA209E4B8A009095319DDFEA8CAA5245"
           }
 ,         {
               "id"           : "cert",
               "ip"           : "refugies.info/34.120.26.1",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "-----BEGIN CERTIFICATE-----\nMIIFODCCBCCgAwIBAgIRAIgacfcok+UhCYgUWzd6rYEwDQYJKoZIhvcNAQELBQAwOzELMAkGA1UEBhMCVVMxHjAcBgNVBAoTFUdvb2dsZSBUcnVzdCBTZXJ2aWNlczEMMAoGA1UEAxMDV1IzMB4XDTI0MDYxMTE4MzUyNVoXDTI0MDkwOTE5Mjc1OFowGDEWMBQGA1UEAxMNcmVmdWdpZXMuaW5mbzCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAMdyljoiZVeZR99rdyT3Hr1LRISN2E04R8ZZoc8ToPi9RE5GI2m40p+T8VyPmU15SZ1eevK6DTWT+lMHjzS44f7k5aC0fzSXNosUfwxROpB/Pop5XczsSGEK6zVYNmvzan/WqlIT+ac/4fy2FrMtH3dmD+WVY1J5b8BCxpIMjAPK/qgczZaU52lAcH5nkVT5CJN+sEwGqP5VChChDQZpQAyZM5IGPW2eCuZOg/WfXb7/g1HhsbcXo9P6nrjsi/UWGn/4Y1NiIYs4EWi+SC2qn+zGoTvXBX0UUxaYlVapRxLkv/5VisQsQWSA5VlOcCzdO6VTQaxEgTXOKM5ZG0GRRsECAwEAAaOCAlgwggJUMA4GA1UdDwEB/wQEAwIFoDATBgNVHSUEDDAKBggrBgEFBQcDATAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBSh5b0Xza5K/RQjOgDresFtaHZzUTAfBgNVHSMEGDAWgBTHgfX9jojZADxNY6JQMSSgziP+IzBeBggrBgEFBQcBAQRSMFAwJwYIKwYBBQUHMAGGG2h0dHA6Ly9vLnBraS5nb29nL3Mvd3IzL2lCbzAlBggrBgEFBQcwAoYZaHR0cDovL2kucGtpLmdvb2cvd3IzLmNydDArBgNVHREEJDAigg1yZWZ1Z2llcy5pbmZvghF3d3cucmVmdWdpZXMuaW5mbzATBgNVHSAEDDAKMAgGBmeBDAECATA2BgNVHR8ELzAtMCugKaAnhiVodHRwOi8vYy5wa2kuZ29vZy93cjMvYVppYU0wWVNkYlUuY3JsMIIBAwYKKwYBBAHWeQIEAgSB9ASB8QDvAHUAdv+IPwq2+5VRwmHM9Ye6NLSkzbsp3GhCCp/mZ0xaOnQAAAGQCMxPLgAABAMARjBEAiBkLf1q0h57F0eTqLudOSl2mH16J61E7wkf4yPwDFQ7nwIgVwi0ooA22uJANLARXlJE1jahBv6GSmAwDwicXtB81VwAdgDatr9rP7W2Ip+bwrtca+hwkXFsu1GEhTS9pD0wSNf7qwAAAZAIzE85AAAEAwBHMEUCIQCs4z5V8pLKI6pRrCdSHP6ckVuAa0Igkptx7h2Xf1+TaQIgDjak7pfTNASob2wIMEc80uR6RUYLI4mvA16xME7CYoYwDQYJKoZIhvcNAQELBQADggEBAIWYt3Oyym1Gp82FwRtzrK+vgBkvwU+4EQQP5I7pQWz+KUIBmbmpgmlnEkF2FfDdXBcRyVVmrCm+KhAa4GSfkVesWrdZXJOl1TyEKBb3aWsfQHg94+64uzq/ipJXHZwZ2M9BwsNEn1zQ1J6HEdHN7+9TMtbB43SIytSRkJfnxbd5Qs839X3cw93nmU/VXubEmTt2KRQ+JtQDpptwyY/vnKcn/yB1bBdLsqXhdV3rE/uy0TdqHyNnh/Eiojjgwt/j5umUjg0hhJDN3ZjMgCDkrnf8YQzPYi9MU0Lf2m2lfC4wokPmpHYOBzZv4EFKR75/cgQfMtzluMTS/PiCv0l/VKc=\n-----END CERTIFICATE-----"
+              "finding"      : "-----BEGIN CERTIFICATE-----\nMIIFNzCCBB+gAwIBAgIQFyYwH2tCPVwKP977iC+07zANBgkqhkiG9w0BAQsFADA7MQswCQYDVQQGEwJVUzEeMBwGA1UEChMVR29vZ2xlIFRydXN0IFNlcnZpY2VzMQwwCgYDVQQDEwNXUjMwHhcNMjQwODA4MTE1MzEzWhcNMjQxMTA2MTI0NjI2WjAYMRYwFAYDVQQDEw1yZWZ1Z2llcy5pbmZvMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAn3o+Uqp3wp3dISCi2wx584VWDTfRmFPSKWU3lg+yanXLgsEDiCwXpi1e1oluwjXHCKH6zMvzjAMy6LcEO749LNChkihimtjeP+V37d7evK4M6+3FfDsFEDXxQC0ujfv5YLdyEKSb+i2a/IMPhG4vpuRx0wxHMO5446FYFXqa0pdHyh0cOCuyEVzWj8t5GQl2dYcXr5Jk1TnbNf3MwjtSy6l0I1W89/q40Nr08uFETBch7YnJ8/2HMeDYWOKsI51rZ88Y8XuB4IdVX5YnwgsCatvtHweKWQelFqGazLTfYu0CkMF77gRPb7NXfJJm5TYYm6ZdH0dZC4rpeVzvr3yn7wIDAQABo4ICWDCCAlQwDgYDVR0PAQH/BAQDAgWgMBMGA1UdJQQMMAoGCCsGAQUFBwMBMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFEwE+nHAxZUE4mCEG3E5QqzTbl3mMB8GA1UdIwQYMBaAFMeB9f2OiNkAPE1jolAxJKDOI/4jMF4GCCsGAQUFBwEBBFIwUDAnBggrBgEFBQcwAYYbaHR0cDovL28ucGtpLmdvb2cvcy93cjMvRnlZMCUGCCsGAQUFBzAChhlodHRwOi8vaS5wa2kuZ29vZy93cjMuY3J0MCsGA1UdEQQkMCKCDXJlZnVnaWVzLmluZm+CEXd3dy5yZWZ1Z2llcy5pbmZvMBMGA1UdIAQMMAowCAYGZ4EMAQIBMDYGA1UdHwQvMC0wK6ApoCeGJWh0dHA6Ly9jLnBraS5nb29nL3dyMy81T0h2SVZGRXl0Zy5jcmwwggEDBgorBgEEAdZ5AgQCBIH0BIHxAO8AdQB2/4g/Crb7lVHCYcz1h7o0tKTNuyncaEIKn+ZnTFo6dAAAAZEyDO2+AAAEAwBGMEQCIHioq21BwUxRdp12HcFoS6W4xYSNwAUx4I3nZUeq6hSrAiBVTL2uuBiqPTGlesXGhBYHyj41DUn5zUJa6qjfMRNVfwB2AN/hVuuqBa+1nA+GcY2owDJOrlbZbqf1pWoB0cE7vlJcAAABkTIM7mIAAAQDAEcwRQIhAOg18XgbCgbpnyr16bsRw7pQnll4tOvVGWE+V4Ck+zSZAiAqUvPoSP2xLua0wyOThToSFUp/5nFe2k4uuBq/DlKSmjANBgkqhkiG9w0BAQsFAAOCAQEAKFp5DIKzVshDtXRZyMBSCPPYcsNJsd983U8LpWTfDPutp9Abzx35HMYKq+3KhBjoTknlkTORdrpgalQrL5aAuY/OppQdut+CYLKf+Sm/Hopt0+k26gNOL87vvjmad3ZGkZNv91w4TA88u7VbwnGHjiS3AOc8hTaWjLGXGfp7jODZETbQf1DsWasa7ya+bbgcxsWDX+uxHaNIUVEfdmcRiLZVl20RhnbsofwVdZnolQp/NWEClx4H+xUsb5wKjqBjkC/u9a7xs1E/ovrsGD0ggQ2dPl5W3GIwjUk7BEQEE0ID6pGz9a0/kN7YILhalKdtpJ/YHIb2H/rv3m54uY+X/Q==\n-----END CERTIFICATE-----"
           }
 ,         {
               "id"           : "cert_commonName",
@@ -373,22 +373,22 @@
               "id"           : "cert_expirationStatus",
               "ip"           : "refugies.info/34.120.26.1",
               "port"         : "443",
-              "severity"     : "MEDIUM",
-              "finding"      : "expires < 60 days (36)"
+              "severity"     : "OK",
+              "finding"      : "86 >= 60 days"
           }
 ,         {
               "id"           : "cert_notBefore",
               "ip"           : "refugies.info/34.120.26.1",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "2024-06-11 18:35"
+              "finding"      : "2024-08-08 11:53"
           }
 ,         {
               "id"           : "cert_notAfter",
               "ip"           : "refugies.info/34.120.26.1",
               "port"         : "443",
-              "severity"     : "MEDIUM",
-              "finding"      : "2024-09-09 19:27"
+              "severity"     : "OK",
+              "finding"      : "2024-11-06 12:46"
           }
 ,         {
               "id"           : "cert_extlifeSpan",
@@ -409,14 +409,14 @@
               "ip"           : "refugies.info/34.120.26.1",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "http://c.pki.goog/wr3/aZiaM0YSdbU.crl"
+              "finding"      : "http://c.pki.goog/wr3/5OHvIVFEytg.crl"
           }
 ,         {
               "id"           : "cert_ocspURL",
               "ip"           : "refugies.info/34.120.26.1",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "http://o.pki.goog/s/wr3/iBo"
+              "finding"      : "http://o.pki.goog/s/wr3/FyY"
           }
 ,         {
               "id"           : "OCSP_stapling",
@@ -577,7 +577,7 @@
               "ip"           : "refugies.info/34.120.26.1",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1722791749"
+              "finding"      : "1723396210"
           }
 ,         {
               "id"           : "HSTS",
@@ -750,7 +750,7 @@
               "severity"     : "INFO",
               "cve"          : "CVE-2016-0800 CVE-2016-0703",
               "cwe"          : "CWE-310",
-              "finding"      : "Make sure you don't use this certificate elsewhere with SSLv2 enabled services, see https://search.censys.io/search?resource=hosts&virtual_hosts=INCLUDE&q=661CA5EE91E3C8C7F50430C3F48320C2A6AE3970F94358E01D885BAB511FA9C5"
+              "finding"      : "Make sure you don't use this certificate elsewhere with SSLv2 enabled services, see https://search.censys.io/search?resource=hosts&virtual_hosts=INCLUDE&q=AAA59027F08876F3899C835650CD9F38EA209E4B8A009095319DDFEA8CAA5245"
           }
 ,         {
               "id"           : "LOGJAM",
@@ -995,7 +995,7 @@
               "ip"           : "refugies.info/34.120.26.1",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "TLSv1.3 TLS_AES_128_GCM_SHA256"
+              "finding"      : "TLSv1.2 ECDHE-RSA-AES128-GCM-SHA256"
           }
 ,         {
               "id"           : "clientsimulation-java1703",
@@ -1156,6 +1156,6 @@
               "ip"           : "refugies.info/34.120.26.1",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "54"
+              "finding"      : "52"
           }
 ]
