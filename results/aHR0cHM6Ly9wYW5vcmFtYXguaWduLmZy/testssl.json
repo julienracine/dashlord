@@ -346,7 +346,7 @@
               "ip"           : "panoramax.ign.fr/109.232.233.130",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "87 >= 30 days"
+              "finding"      : "80 >= 30 days"
           }
 ,         {
               "id"           : "cert_notBefore",
@@ -507,7 +507,7 @@
               "ip"           : "panoramax.ign.fr/109.232.233.130",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1722788649"
+              "finding"      : "1723392870"
           }
 ,         {
               "id"           : "HSTS_multiple",
@@ -1419,7 +1419,7 @@
               "ip"           : "panoramax.ign.fr/109.232.236.90",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "87 >= 30 days"
+              "finding"      : "80 >= 30 days"
           }
 ,         {
               "id"           : "cert_notBefore",
@@ -1580,7 +1580,7 @@
               "ip"           : "panoramax.ign.fr/109.232.236.90",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1722788745"
+              "finding"      : "1723392967"
           }
 ,         {
               "id"           : "HSTS_multiple",
@@ -2345,7 +2345,7 @@
               "ip"           : "panoramax.ign.fr/5.104.101.30",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "supported"
+              "finding"      : "not supported"
           }
 ,         {
               "id"           : "sessionresumption_ID",
@@ -2492,7 +2492,7 @@
               "ip"           : "panoramax.ign.fr/5.104.101.30",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "87 >= 30 days"
+              "finding"      : "80 >= 30 days"
           }
 ,         {
               "id"           : "cert_notBefore",
@@ -2653,7 +2653,7 @@
               "ip"           : "panoramax.ign.fr/5.104.101.30",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1722788841"
+              "finding"      : "1723393065"
           }
 ,         {
               "id"           : "HSTS_multiple",
@@ -3418,7 +3418,7 @@
               "ip"           : "panoramax.ign.fr/148.253.75.120",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "not supported"
+              "finding"      : "supported"
           }
 ,         {
               "id"           : "sessionresumption_ID",
@@ -3565,7 +3565,7 @@
               "ip"           : "panoramax.ign.fr/148.253.75.120",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "87 >= 30 days"
+              "finding"      : "80 >= 30 days"
           }
 ,         {
               "id"           : "cert_notBefore",
@@ -3726,7 +3726,7 @@
               "ip"           : "panoramax.ign.fr/148.253.75.120",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1722788938"
+              "finding"      : "1723393163"
           }
 ,         {
               "id"           : "HSTS_multiple",
@@ -4296,6 +4296,6 @@
               "ip"           : "panoramax.ign.fr/148.253.75.120",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "392"
+              "finding"      : "394"
           }
 ]
