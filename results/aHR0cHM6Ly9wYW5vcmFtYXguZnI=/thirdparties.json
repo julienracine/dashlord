@@ -22,14 +22,14 @@
     },
     {
       "type": "unknown",
+      "url": "https://matomo.panoramax.xyz//matomo.php?action_name=L%E2%80%99alternative%20libre%20pour%20photo-cartographier%20les%20territoires&idsite=2&rec=1&r=625255&h=16&m=9&s=1&url=https%3A%2F%2Fpanoramax.fr%2F&_id=221328b2203a3789&_idn=1&send_image=0&_refts=0&pv_id=A1pWKk&pf_net=157&pf_srv=227&pf_tfr=1&pf_dm1=6&uadata=%7B%22fullVersionList%22%3A%5B%5D%2C%22mobile%22%3Afalse%2C%22model%22%3A%22%22%2C%22platform%22%3A%22%22%2C%22platformVersion%22%3A%22%22%7D&cookie=1&res=800x600"
+    },
+    {
+      "type": "unknown",
       "url": "https://panoramax.openstreetmap.fr/pmtiles/basic.json"
     },
     {
       "type": "unknown",
-      "url": "https://matomo.panoramax.xyz//matomo.php?action_name=L%E2%80%99alternative%20libre%20pour%20photo-cartographier%20les%20territoires&idsite=2&rec=1&r=288360&h=16&m=20&s=27&url=https%3A%2F%2Fpanoramax.fr%2F&_id=a2960ea4e212af51&_idn=1&send_image=0&_refts=0&pv_id=CW030k&pf_net=63&pf_srv=48&pf_tfr=1&pf_dm1=6&uadata=%7B%22fullVersionList%22%3A%5B%5D%2C%22mobile%22%3Afalse%2C%22model%22%3A%22%22%2C%22platform%22%3A%22%22%2C%22platformVersion%22%3A%22%22%7D&cookie=1&res=800x600"
-    },
-    {
-      "type": "unknown",
       "url": "https://panoramax.openstreetmap.fr/pmtiles/planet.pmtiles"
     },
     {
@@ -143,10 +143,6 @@
     {
       "type": "unknown",
       "url": "https://tile-vect.openstreetmap.fr/fonts/Noto%20Sans%20Regular/0-255.pbf"
-    },
-    {
-      "type": "unknown",
-      "url": "https://api.panoramax.xyz/api/collections/a09470ab-e33f-4156-a8be-5bb60ec6b390/items/c15833fb-9bb3-44a8-813e-bef2ed552d14"
     }
   ],
   "cookies": [
@@ -155,7 +151,7 @@
       "value": "1",
       "domain": "panoramax.fr",
       "path": "/",
-      "expires": 1722790227,
+      "expires": 1723394341,
       "size": 15,
       "httpOnly": false,
       "secure": false,
@@ -167,10 +163,10 @@
     },
     {
       "name": "_pk_id.2.8046",
-      "value": "a2960ea4e212af51.1722788427.",
+      "value": "221328b2203a3789.1723392542.",
       "domain": "panoramax.fr",
       "path": "/",
-      "expires": 1756743627,
+      "expires": 1757347742,
       "size": 41,
       "httpOnly": false,
       "secure": false,
@@ -185,10 +181,10 @@
     "cache-control": "max-age=600",
     "content-length": "1352",
     "content-type": "text/html; charset=utf-8",
-    "date": "Sun, 04 Aug 2024 16:20:26 GMT",
-    "etag": "\"0c20f78e7fa310fb1406fbf6dc26f2ef0180a45597bf25b5c91c508997271454\"",
-    "expires": "Sun, 04 Aug 2024 16:30:26 UTC",
-    "last-modified": "Thu, 11 Jul 2024 08:53:18 GMT",
+    "date": "Sun, 11 Aug 2024 16:09:00 GMT",
+    "etag": "\"71c1731c33a5f900f9ded30677e7dd570118a5a853fa347b212104072be1a98a\"",
+    "expires": "Sun, 11 Aug 2024 16:19:00 UTC",
+    "last-modified": "Wed, 07 Aug 2024 09:15:47 GMT",
     "permissions-policy": "interest-cohort=()",
     "vary": "Origin"
   },
