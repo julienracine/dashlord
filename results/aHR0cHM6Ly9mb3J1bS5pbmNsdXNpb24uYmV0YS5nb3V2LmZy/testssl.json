@@ -199,7 +199,7 @@
               "ip"           : "forum.inclusion.beta.gouv.fr/185.31.40.19",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "not supported"
+              "finding"      : "supported"
           }
 ,         {
               "id"           : "sessionresumption_ID",
@@ -346,7 +346,7 @@
               "ip"           : "forum.inclusion.beta.gouv.fr/185.31.40.19",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "38 >= 30 days"
+              "finding"      : "31 >= 30 days"
           }
 ,         {
               "id"           : "cert_notBefore",
@@ -507,7 +507,7 @@
               "ip"           : "forum.inclusion.beta.gouv.fr/185.31.40.19",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1722743566"
+              "finding"      : "1723348254"
           }
 ,         {
               "id"           : "HSTS",
@@ -1063,6 +1063,6 @@
               "ip"           : "forum.inclusion.beta.gouv.fr/185.31.40.19",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "53"
+              "finding"      : "98"
           }
 ]
