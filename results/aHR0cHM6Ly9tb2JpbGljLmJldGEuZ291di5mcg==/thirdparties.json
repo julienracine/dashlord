@@ -97,19 +97,19 @@
       }
     },
     {
-      "type": "crisp",
-      "url": "https://client.crisp.chat/static/javascripts/client.js?76ab9f1",
+      "type": "cloudflare",
+      "url": "https://challenges.cloudflare.com/turnstile/v0/api.js?onload=turnstileLoad",
       "details": {
-        "id": "crisp",
-        "message": "Ensure your TOS notify the CRISP usage"
+        "id": "cloudflare",
+        "message": "Host files locally"
       }
     },
     {
-      "type": "crisp",
-      "url": "https://client.crisp.chat/static/stylesheets/client_legacy.css?76ab9f1",
+      "type": "cloudflare",
+      "url": "https://challenges.cloudflare.com/turnstile/v0/api.js?onload=turnstileLoad",
       "details": {
-        "id": "crisp",
-        "message": "Ensure your TOS notify the CRISP usage"
+        "id": "cloudflare",
+        "message": "Host files locally"
       }
     },
     {
@@ -130,7 +130,7 @@
     },
     {
       "type": "cloudflare",
-      "url": "https://challenges.cloudflare.com/turnstile/v0/g/769ce3c24a3b/api.js",
+      "url": "https://challenges.cloudflare.com/turnstile/v0/api.js?onload=turnstileLoad",
       "details": {
         "id": "cloudflare",
         "message": "Host files locally"
@@ -138,7 +138,7 @@
     },
     {
       "type": "cloudflare",
-      "url": "https://challenges.cloudflare.com/turnstile/v0/g/769ce3c24a3b/api.js",
+      "url": "https://challenges.cloudflare.com/turnstile/v0/g/ba7376691753/api.js",
       "details": {
         "id": "cloudflare",
         "message": "Host files locally"
@@ -146,7 +146,7 @@
     },
     {
       "type": "cloudflare",
-      "url": "https://challenges.cloudflare.com/turnstile/v0/g/769ce3c24a3b/api.js",
+      "url": "https://challenges.cloudflare.com/turnstile/v0/g/ba7376691753/api.js",
       "details": {
         "id": "cloudflare",
         "message": "Host files locally"
@@ -154,7 +154,7 @@
     },
     {
       "type": "cloudflare",
-      "url": "https://challenges.cloudflare.com/turnstile/v0/g/769ce3c24a3b/api.js",
+      "url": "https://challenges.cloudflare.com/turnstile/v0/g/ba7376691753/api.js",
       "details": {
         "id": "cloudflare",
         "message": "Host files locally"
@@ -162,7 +162,7 @@
     },
     {
       "type": "cloudflare",
-      "url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/if/ov2/av0/rcv0/0/usq2z/0x4AAAAAAAbaszMygKLnGbeo/auto/fbE/normal/auto/",
+      "url": "https://challenges.cloudflare.com/turnstile/v0/g/ba7376691753/api.js",
       "details": {
         "id": "cloudflare",
         "message": "Host files locally"
@@ -170,7 +170,7 @@
     },
     {
       "type": "cloudflare",
-      "url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/if/ov2/av0/rcv0/0/t0ugw/0x4AAAAAAAbaszMygKLnGbeo/auto/fbE/normal/auto/",
+      "url": "https://challenges.cloudflare.com/turnstile/v0/g/ba7376691753/api.js",
       "details": {
         "id": "cloudflare",
         "message": "Host files locally"
@@ -178,7 +178,7 @@
     },
     {
       "type": "cloudflare",
-      "url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/if/ov2/av0/rcv0/0/m3z4r/0x4AAAAAAAbaszMygKLnGbeo/auto/fbE/normal/auto/",
+      "url": "https://challenges.cloudflare.com/turnstile/v0/g/ba7376691753/api.js",
       "details": {
         "id": "cloudflare",
         "message": "Host files locally"
@@ -186,7 +186,7 @@
     },
     {
       "type": "cloudflare",
-      "url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/if/ov2/av0/rcv0/0/sp923/0x4AAAAAAAbaszMygKLnGbeo/auto/fbE/normal/auto/",
+      "url": "https://challenges.cloudflare.com/turnstile/v0/g/ba7376691753/api.js",
       "details": {
         "id": "cloudflare",
         "message": "Host files locally"
@@ -194,7 +194,7 @@
     },
     {
       "type": "cloudflare",
-      "url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/if/ov2/av0/rcv0/0/gtv9s/0x4AAAAAAAbaszMygKLnGbeo/auto/fbE/normal/auto/",
+      "url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/if/ov2/av0/rcv0/0/9v01b/0x4AAAAAAAbaszMygKLnGbeo/auto/fbE/normal/auto/",
       "details": {
         "id": "cloudflare",
         "message": "Host files locally"
@@ -202,7 +202,7 @@
     },
     {
       "type": "cloudflare",
-      "url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/if/ov2/av0/rcv0/0/hjvvv/0x4AAAAAAAbaszMygKLnGbeo/auto/fbE/normal/auto/",
+      "url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/if/ov2/av0/rcv0/0/0rrfu/0x4AAAAAAAbaszMygKLnGbeo/auto/fbE/normal/auto/",
       "details": {
         "id": "cloudflare",
         "message": "Host files locally"
@@ -210,7 +210,7 @@
     },
     {
       "type": "cloudflare",
-      "url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/if/ov2/av0/rcv0/0/viwc2/0x4AAAAAAAbaszMygKLnGbeo/auto/fbE/normal/auto/",
+      "url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/if/ov2/av0/rcv0/0/b77bb/0x4AAAAAAAbaszMygKLnGbeo/auto/fbE/normal/auto/",
       "details": {
         "id": "cloudflare",
         "message": "Host files locally"
@@ -218,23 +218,7 @@
     },
     {
       "type": "cloudflare",
-      "url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/if/ov2/av0/rcv0/0/m2y9t/0x4AAAAAAAbaszMygKLnGbeo/auto/fbE/normal/auto/",
-      "details": {
-        "id": "cloudflare",
-        "message": "Host files locally"
-      }
-    },
-    {
-      "type": "crisp",
-      "url": "https://client.crisp.chat/settings/website/e433738e-c2a9-4490-b31b-cb03aa080be9/prelude/?callback=window.%24__CRISP_INSTANCE.__spool.website_prelude_handler&2024-7-11-5-18",
-      "details": {
-        "id": "crisp",
-        "message": "Ensure your TOS notify the CRISP usage"
-      }
-    },
-    {
-      "type": "cloudflare",
-      "url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/if/ov2/av0/rcv0/0/kq78m/0x4AAAAAAAbaszMygKLnGbeo/auto/fbE/normal/auto/",
+      "url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/if/ov2/av0/rcv0/0/cw12m/0x4AAAAAAAbaszMygKLnGbeo/auto/fbE/normal/auto/",
       "details": {
         "id": "cloudflare",
         "message": "Host files locally"
@@ -242,7 +226,7 @@
     },
     {
       "type": "cloudflare",
-      "url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/if/ov2/av0/rcv0/0/ix8qt/0x4AAAAAAAbaszMygKLnGbeo/auto/fbE/normal/auto/",
+      "url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/if/ov2/av0/rcv0/0/5dprs/0x4AAAAAAAbaszMygKLnGbeo/auto/fbE/normal/auto/",
       "details": {
         "id": "cloudflare",
         "message": "Host files locally"
@@ -250,7 +234,7 @@
     },
     {
       "type": "cloudflare",
-      "url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/if/ov2/av0/rcv0/0/5hce0/0x4AAAAAAAbaszMygKLnGbeo/auto/fbE/normal/auto/",
+      "url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/if/ov2/av0/rcv0/0/zd8a4/0x4AAAAAAAbaszMygKLnGbeo/auto/fbE/normal/auto/",
       "details": {
         "id": "cloudflare",
         "message": "Host files locally"
@@ -258,7 +242,7 @@
     },
     {
       "type": "cloudflare",
-      "url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/if/ov2/av0/rcv0/0/4v4k5/0x4AAAAAAAbaszMygKLnGbeo/auto/fbE/normal/auto/",
+      "url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/if/ov2/av0/rcv0/0/4m7lz/0x4AAAAAAAbaszMygKLnGbeo/auto/fbE/normal/auto/",
       "details": {
         "id": "cloudflare",
         "message": "Host files locally"
@@ -266,7 +250,7 @@
     },
     {
       "type": "cloudflare",
-      "url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/if/ov2/av0/rcv0/0/f3day/0x4AAAAAAAbaszMygKLnGbeo/auto/fbE/normal/auto/",
+      "url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/if/ov2/av0/rcv0/0/pdrjj/0x4AAAAAAAbaszMygKLnGbeo/auto/fbE/normal/auto/",
       "details": {
         "id": "cloudflare",
         "message": "Host files locally"
@@ -274,51 +258,60 @@
     },
     {
       "type": "cloudflare",
-      "url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/if/ov2/av0/rcv0/0/g5zi1/0x4AAAAAAAbaszMygKLnGbeo/auto/fbE/normal/auto/",
+      "url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/if/ov2/av0/rcv0/0/rfcuv/0x4AAAAAAAbaszMygKLnGbeo/auto/fbE/normal/auto/",
       "details": {
         "id": "cloudflare",
         "message": "Host files locally"
       }
     },
     {
-      "type": "crisp",
-      "url": "https://client.crisp.chat/settings/website/e433738e-c2a9-4490-b31b-cb03aa080be9/?callback=window.%24__CRISP_INSTANCE.__spool.website_settings_handler&1722782919095",
+      "type": "cloudflare",
+      "url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/if/ov2/av0/rcv0/0/alqqy/0x4AAAAAAAbaszMygKLnGbeo/auto/fbE/normal/auto/",
       "details": {
-        "id": "crisp",
-        "message": "Ensure your TOS notify the CRISP usage"
+        "id": "cloudflare",
+        "message": "Host files locally"
       }
     },
     {
-      "type": "crisp",
-      "url": "https://client.crisp.chat/static/javascripts/locales/fr.js?76ab9f1",
+      "type": "cloudflare",
+      "url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/if/ov2/av0/rcv0/0/50vfy/0x4AAAAAAAbaszMygKLnGbeo/auto/fbE/normal/auto/",
       "details": {
-        "id": "crisp",
-        "message": "Ensure your TOS notify the CRISP usage"
+        "id": "cloudflare",
+        "message": "Host files locally"
+      }
+    },
+    {
+      "type": "cloudflare",
+      "url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/if/ov2/av0/rcv0/0/lawkx/0x4AAAAAAAbaszMygKLnGbeo/auto/fbE/normal/auto/",
+      "details": {
+        "id": "cloudflare",
+        "message": "Host files locally"
+      }
+    },
+    {
+      "type": "cloudflare",
+      "url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/if/ov2/av0/rcv0/0/2y3z6/0x4AAAAAAAbaszMygKLnGbeo/auto/fbE/normal/auto/",
+      "details": {
+        "id": "cloudflare",
+        "message": "Host files locally"
+      }
+    },
+    {
+      "type": "cloudflare",
+      "url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/if/ov2/av0/rcv0/0/bx2p1/0x4AAAAAAAbaszMygKLnGbeo/auto/fbE/normal/auto/",
+      "details": {
+        "id": "cloudflare",
+        "message": "Host files locally"
       }
     }
   ],
   "cookies": [
     {
-      "name": "crisp-client%2Fsession%2Fe433738e-c2a9-4490-b31b-cb03aa080be9",
-      "value": "session_d80210c8-c510-4720-af4b-b5304f7e83f7",
-      "domain": ".beta.gouv.fr",
-      "path": "/",
-      "expires": 1739121532,
-      "size": 105,
-      "httpOnly": false,
-      "secure": false,
-      "session": false,
-      "sameSite": "Lax",
-      "sameParty": false,
-      "sourceScheme": "Secure",
-      "sourcePort": 443
-    },
-    {
       "name": "_pk_ses.75.5533",
       "value": "1",
       "domain": "mobilic.beta.gouv.fr",
       "path": "/",
-      "expires": 1723355331,
+      "expires": 1723959975,
       "size": 16,
       "httpOnly": false,
       "secure": false,
@@ -330,10 +323,10 @@
     },
     {
       "name": "_pk_id.75.5533",
-      "value": "087721e3000bbf04.1723353532.",
+      "value": "e955f0b5cafa7fdb.1723958175.",
       "domain": "mobilic.beta.gouv.fr",
       "path": "/",
-      "expires": 1757308732,
+      "expires": 1757913375,
       "size": 42,
       "httpOnly": false,
       "secure": false,
@@ -345,10 +338,10 @@
     },
     {
       "name": "bln_challengejs",
-      "value": "nfX0idsJ2QFMv05P4s4qZbkILwVwcNQ1X_xVMbwyfNxmSECAX7Dk8UczFoDjpiiRPoMiHmP8lrcoMMJLJbiys63nliwUq6prYpRLT154xneraRitmjWF4-CrlIWe3s2GTO04ArNSFsITWdoMYXeNRYEJOEwqPup8GTf3oSM4BZZFJUK5kpjzRIpYPxibCF0CByw2KTAhfKaSV-l80PGtBdiUCSnTFKwS0_rViaLK2wO9lP-fU6bZ6Pk68riJpZ5X",
+      "value": "MRYw6fprHsjGZ1iTc0EjTq5di05sv1yyp5aDnx82Rq4CtQw72x0YzXKQfap9cHQTvcZb07CHabWp3-c1gYoMQxkhtFq_Scu4izR4l2aiIC6Ynr__GrQ5joWlM87oMv5eXIpFGrldsKKkXrUfkbM9n5uUuou-KUjoxffvUXiTZ7jB4Rv6-HN9LuW2QxFI93-NjtWw7jROp5YLsJJTkGMCKG1v-inG_-mwjtsYQ8IJ3RnzYN4eRlQj5GIuUgreUnDe",
       "domain": ".beta.gouv.fr",
       "path": "/",
-      "expires": 1723354429.065986,
+      "expires": 1723959073.518883,
       "size": 271,
       "httpOnly": false,
       "secure": false,
@@ -365,16 +358,16 @@
     "content-encoding": "gzip",
     "content-security-policy": "object-src 'self'; connect-src 'self' https://client.crisp.chat https://api-adresse.data.gouv.fr https://sentry.incubateur.net wss://client.relay.crisp.chat https://stats.beta.gouv.fr https://client.axept.io/ https://api.axept.io https://google.com; base-uri 'self'; default-src 'self'; script-src 'self' https://client.crisp.chat https://stats.beta.gouv.fr https://static.axept.io/ https://www.googletagmanager.com/ https://www.googleadservices.com/ https://googleads.g.doubleclick.net https://www.google.com 'unsafe-eval' 'unsafe-inline'; img-src 'self' data: https://client.crisp.chat https://image.crisp.chat https://stats.beta.gouv.fr https://res.cloudinary.com https://images.unsplash.com https://axeptio.imgix.net https://favicons.axept.io https://t1.gstatic.com https://www.google.com/ https://www.google.fr/ https://googleads.g.doubleclick.net https://www.googleadservices.com; style-src 'self' 'unsafe-inline' https://client.crisp.chat https://cdn.jsdelivr.net; font-src 'self' https://client.crisp.chat https://cdn.jsdelivr.net; frame-src https://metabase.mobilic.beta.gouv.fr https://www.slideshare.net https://fr.slideshare.net https://cgu.mobilic.beta.gouv.fr https://form.typeform.com https://player.vimeo.com https://bid.g.doubleclick.net/;",
     "content-type": "text/html; charset=utf-8",
-    "date": "Sun, 11 Aug 2024 05:18:49 GMT",
-    "etag": "W/\"66ab9d93-c6f\"",
-    "last-modified": "Thu, 01 Aug 2024 14:37:07 GMT",
+    "date": "Sun, 18 Aug 2024 05:16:13 GMT",
+    "etag": "W/\"66ba6140-c6f\"",
+    "last-modified": "Mon, 12 Aug 2024 19:23:44 GMT",
     "referrer-policy": "origin-when-cross-origin",
     "strict-transport-security": "max-age=31536000; includeSubDomains",
     "vary": "Accept-Encoding",
     "x-content-type-options": "nosniff",
     "x-frame-options": "deny",
-    "x-request-id": "5ef25268ef2930c16d52d87f18b5feb7",
-    "x-varnish": "168351306",
+    "x-request-id": "414d17e508c92e78c699b7ea06f832a1",
+    "x-varnish": "173089374",
     "x-xss-protection": "1; mode=block"
   },
   "endpoints": [
@@ -436,8 +429,14 @@
     },
     {
       "hostname": "fonts.googleapis.com",
-      "ip": "142.250.189.170",
+      "ip": "142.251.111.95",
       "geoip": {
+        "city": {
+          "geoname_id": 5116931,
+          "names": {
+            "en": "Farmingdale"
+          }
+        },
         "continent": {
           "code": "NA",
           "geoname_id": 6255149,
@@ -468,9 +467,13 @@
         },
         "location": {
           "accuracy_radius": 1000,
-          "latitude": 37.751,
-          "longitude": -97.822,
-          "time_zone": "America/Chicago"
+          "latitude": 40.7306,
+          "longitude": -73.4313,
+          "metro_code": 501,
+          "time_zone": "America/New_York"
+        },
+        "postal": {
+          "code": "11735"
         },
         "registered_country": {
           "geoname_id": 6252001,
@@ -485,12 +488,28 @@
             "ru": "США",
             "zh-CN": "美国"
           }
-        }
+        },
+        "subdivisions": [
+          {
+            "geoname_id": 5128638,
+            "iso_code": "NY",
+            "names": {
+              "de": "New York",
+              "en": "New York",
+              "es": "Nueva York",
+              "fr": "New York",
+              "ja": "ニューヨーク州",
+              "pt-BR": "Nova Iorque",
+              "ru": "Нью-Йорк",
+              "zh-CN": "纽约州"
+            }
+          }
+        ]
       }
     },
     {
       "hostname": "cdn.jsdelivr.net",
-      "ip": "104.18.187.31",
+      "ip": "104.18.186.31",
       "geoip": {
         "registered_country": {
           "geoname_id": 6252001,
@@ -510,7 +529,7 @@
     },
     {
       "hostname": "client.crisp.chat",
-      "ip": "104.18.28.104",
+      "ip": "104.18.29.104",
       "geoip": {
         "registered_country": {
           "geoname_id": 6252001,
@@ -530,7 +549,7 @@
     },
     {
       "hostname": "player.vimeo.com",
-      "ip": "162.159.138.60",
+      "ip": "162.159.128.61",
       "geoip": {
         "registered_country": {
           "geoname_id": 6252001,
@@ -550,7 +569,7 @@
     },
     {
       "hostname": "challenges.cloudflare.com",
-      "ip": "104.18.94.41",
+      "ip": "104.18.95.41",
       "geoip": {
         "registered_country": {
           "geoname_id": 6252001,
