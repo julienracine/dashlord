@@ -21,28 +21,12 @@
       }
     },
     {
-      "type": "crisp",
-      "url": "https://client.crisp.chat/static/javascripts/client.js?76ab9f1",
-      "details": {
-        "id": "crisp",
-        "message": "Ensure your TOS notify the CRISP usage"
-      }
-    },
-    {
-      "type": "crisp",
-      "url": "https://client.crisp.chat/static/stylesheets/client_legacy.css?76ab9f1",
-      "details": {
-        "id": "crisp",
-        "message": "Ensure your TOS notify the CRISP usage"
-      }
-    },
-    {
       "type": "unknown",
       "url": "https://sibautomation.com/cm.html?key=uvxc7hbx21zuv3f2yjbhub71"
     },
     {
       "type": "brevo",
-      "url": "https://in-automate.brevo.com/cm?uuid=a41da838-a4c6-4cdc-8b23-061fbb6b994e&key=uvxc7hbx21zuv3f2yjbhub71&cuid=41d39b4c-f084-4d70-9cd7-03d0b34f5b97",
+      "url": "https://in-automate.brevo.com/cm?uuid=fa9e4959-206b-4a32-8688-a70178312334&key=uvxc7hbx21zuv3f2yjbhub71&cuid=f7043879-0726-4aaa-bbec-aa94102896d9",
       "details": {
         "id": "brevo",
         "message": "Ensure your TOS notify the Brevo usage"
@@ -57,32 +41,20 @@
       "url": "https://matomo-datasubvention.osc-secnum-fr1.scalingo.io/piwik.js"
     },
     {
-      "type": "unknown",
-      "url": "https://matomo-datasubvention.osc-secnum-fr1.scalingo.io/piwik.php?action_name=Data.Subvention&idsite=2&rec=1&r=002288&h=15&m=23&s=53&url=https%3A%2F%2Fdatasubvention.beta.gouv.fr%2F&_id=a3bb2142c9066d0a&_idn=1&send_image=0&_refts=0&pv_id=FZKPyf&pf_net=24&pf_srv=87&pf_tfr=5&pf_dm1=547&uadata=%7B%22fullVersionList%22%3A%5B%5D%2C%22mobile%22%3Afalse%2C%22model%22%3A%22%22%2C%22platform%22%3A%22%22%2C%22platformVersion%22%3A%22%22%7D&cookie=1&res=800x600"
-    },
-    {
       "type": "brevo",
-      "url": "https://in-automate.brevo.com/p?key=uvxc7hbx21zuv3f2yjbhub71&cuid=41d39b4c-f084-4d70-9cd7-03d0b34f5b97&ma_url=https%3A%2F%2Fdatasubvention.beta.gouv.fr%2F&sib_type=page&ma_title=Data.Subvention&sib_name=Data.Subvention&ma_referrer=&ma_path=%2F",
+      "url": "https://in-automate.brevo.com/p?key=uvxc7hbx21zuv3f2yjbhub71&cuid=f7043879-0726-4aaa-bbec-aa94102896d9&ma_url=https%3A%2F%2Fdatasubvention.beta.gouv.fr%2F&sib_type=page&ma_title=Data.Subvention&sib_name=Data.Subvention&ma_referrer=&ma_path=%2F",
       "details": {
         "id": "brevo",
         "message": "Ensure your TOS notify the Brevo usage"
       }
     },
     {
-      "type": "crisp",
-      "url": "https://client.crisp.chat/settings/website/9b58fbdb-9b81-4ac8-9754-ee1eb9d8d058/prelude/?callback=window.%24__CRISP_INSTANCE.__spool.website_prelude_handler&2024-7-11-15-23",
-      "details": {
-        "id": "crisp",
-        "message": "Ensure your TOS notify the CRISP usage"
-      }
+      "type": "unknown",
+      "url": "https://cdn.loom.com/assets/css/embed-video-0e5dd5b1246b403828b6.css"
     },
     {
       "type": "unknown",
-      "url": "https://cdn.loom.com/assets/css/embed-video-5537ce1ad1ec265f18cc.css"
-    },
-    {
-      "type": "unknown",
-      "url": "https://cdn.loom.com/assets/js/0runtime-fc2efe47677b33b9b7e6.js"
+      "url": "https://cdn.loom.com/assets/js/0runtime-67b193be831100f60a8e.js"
     },
     {
       "type": "unknown",
@@ -90,11 +62,11 @@
     },
     {
       "type": "unknown",
-      "url": "https://cdn.loom.com/assets/js/vendor-35bda9aa-5abf34125f4295095be1.js"
+      "url": "https://cdn.loom.com/assets/js/vendor-35bda9aa-889ff81d8975bac719b9.js"
     },
     {
       "type": "unknown",
-      "url": "https://cdn.loom.com/assets/js/vendor-1bff54fd-b42b5d452196c705f7c9.js"
+      "url": "https://cdn.loom.com/assets/js/vendor-b2f0f04e-4f5c166ccbd2d35660be.js"
     },
     {
       "type": "unknown",
@@ -146,7 +118,7 @@
     },
     {
       "type": "unknown",
-      "url": "https://cdn.loom.com/assets/js/vendor-72e1f408-9b56307607c276ab14c0.js"
+      "url": "https://cdn.loom.com/assets/js/vendor-72e1f408-8669b4a591d345248687.js"
     },
     {
       "type": "unknown",
@@ -178,7 +150,7 @@
     },
     {
       "type": "unknown",
-      "url": "https://cdn.loom.com/assets/js/vendor-be5e06f6-4b94091a285670efb78c.js"
+      "url": "https://cdn.loom.com/assets/js/vendor-be5e06f6-482acdef3280925a4bd7.js"
     },
     {
       "type": "unknown",
@@ -194,7 +166,7 @@
     },
     {
       "type": "unknown",
-      "url": "https://cdn.loom.com/assets/js/vendor-6eb8e622-ea087d26fdd0c86e569c.js"
+      "url": "https://cdn.loom.com/assets/js/vendor-6eb8e622-cb7c61850c0979001ddf.js"
     },
     {
       "type": "unknown",
@@ -202,11 +174,15 @@
     },
     {
       "type": "unknown",
-      "url": "https://cdn.loom.com/assets/js/vendor-5c7c8bfa-2635be6039fa0a4776cf.js"
+      "url": "https://cdn.loom.com/assets/js/vendor-5c7c8bfa-b64a243993248be4a44f.js"
     },
     {
       "type": "unknown",
-      "url": "https://cdn.loom.com/assets/js/embed-video-7e6b2af452d73153a8f1.js"
+      "url": "https://cdn.loom.com/assets/js/embed-video-a477c79a577beba49340.js"
+    },
+    {
+      "type": "unknown",
+      "url": "https://matomo-datasubvention.osc-secnum-fr1.scalingo.io/piwik.php?action_name=Data.Subvention&idsite=2&rec=1&r=731842&h=15&m=24&s=23&url=https%3A%2F%2Fdatasubvention.beta.gouv.fr%2F&_id=e206009cbc311d55&_idn=1&send_image=0&_refts=0&pv_id=PtakZ4&pf_net=36&pf_srv=39&pf_tfr=7&pf_dm1=467&uadata=%7B%22fullVersionList%22%3A%5B%5D%2C%22mobile%22%3Afalse%2C%22model%22%3A%22%22%2C%22platform%22%3A%22%22%2C%22platformVersion%22%3A%22%22%7D&cookie=1&res=800x600"
     },
     {
       "type": "unknown",
@@ -222,7 +198,7 @@
     },
     {
       "type": "unknown",
-      "url": "https://cdn.loom.com/assets/js/LoadSlackConnect-32d315a0d7af14fe6156.js"
+      "url": "https://cdn.loom.com/assets/js/LoadSlackConnect-4bd5600f84448bf0ec92.js"
     },
     {
       "type": "unknown",
@@ -282,11 +258,7 @@
     },
     {
       "type": "unknown",
-      "url": "https://matomo-datasubvention.osc-secnum-fr1.scalingo.io/piwik.php?action_name=Data.Subvention&idsite=2&rec=1&r=395766&h=15&m=23&s=53&url=https%3A%2F%2Fdatasubvention.beta.gouv.fr%2F&_id=a3bb2142c9066d0a&_idn=0&send_image=0&_refts=0&pv_id=Xdafp3&pf_net=24&pf_srv=87&pf_tfr=5&pf_dm1=547&uadata=%7B%22fullVersionList%22%3A%5B%5D%2C%22mobile%22%3Afalse%2C%22model%22%3A%22%22%2C%22platform%22%3A%22%22%2C%22platformVersion%22%3A%22%22%7D&cookie=1&res=800x600"
-    },
-    {
-      "type": "unknown",
-      "url": "https://www.loom.com/v1/users/feature_flag/bulk?flags=rollout-limit-business-creator-lite,enable-dev-tools,rollout-new-sdk-ui,exp-eovn-emojis&hash=720176e0-3cb1-4b62-bb2a-c1eeeacdbfa2&extraProperties={}"
+      "url": "https://www.loom.com/v1/users/feature_flag/bulk?flags=rollout-limit-business-creator-lite,enable-dev-tools,rollout-new-sdk-ui,rollout-new-sdk-ui,exp-eovn-emojis,exp-eovn-emojis,exp-updated-engagement-bar-v3&hash=bce4c390-40e9-463d-8e7b-1728a33b43c2&extraProperties={}"
     },
     {
       "type": "unknown",
@@ -298,7 +270,7 @@
     },
     {
       "type": "unknown",
-      "url": "https://matomo-datasubvention.osc-secnum-fr1.scalingo.io/piwik.php?action_name=Data.Subvention&idsite=2&rec=1&r=973418&h=15&m=23&s=53&url=https%3A%2F%2Fdatasubvention.beta.gouv.fr%2F&_id=a3bb2142c9066d0a&_idn=0&send_image=0&_refts=0&pv_id=UlkD7j&pf_net=24&pf_srv=87&pf_tfr=5&pf_dm1=547&uadata=%7B%22fullVersionList%22%3A%5B%5D%2C%22mobile%22%3Afalse%2C%22model%22%3A%22%22%2C%22platform%22%3A%22%22%2C%22platformVersion%22%3A%22%22%7D&cookie=1&res=800x600"
+      "url": "https://matomo-datasubvention.osc-secnum-fr1.scalingo.io/piwik.php?action_name=Data.Subvention&idsite=2&rec=1&r=448853&h=15&m=24&s=23&url=https%3A%2F%2Fdatasubvention.beta.gouv.fr%2F&_id=e206009cbc311d55&_idn=0&send_image=0&_refts=0&pv_id=QgGv3j&pf_net=36&pf_srv=39&pf_tfr=7&pf_dm1=467&uadata=%7B%22fullVersionList%22%3A%5B%5D%2C%22mobile%22%3Afalse%2C%22model%22%3A%22%22%2C%22platform%22%3A%22%22%2C%22platformVersion%22%3A%22%22%7D&cookie=1&res=800x600"
     },
     {
       "type": "unknown",
@@ -306,7 +278,27 @@
     },
     {
       "type": "unknown",
+      "url": "https://matomo-datasubvention.osc-secnum-fr1.scalingo.io/piwik.php?action_name=Data.Subvention&idsite=2&rec=1&r=323747&h=15&m=24&s=23&url=https%3A%2F%2Fdatasubvention.beta.gouv.fr%2F&_id=e206009cbc311d55&_idn=0&send_image=0&_refts=0&pv_id=9Z3Elz&pf_net=36&pf_srv=39&pf_tfr=7&pf_dm1=467&uadata=%7B%22fullVersionList%22%3A%5B%5D%2C%22mobile%22%3Afalse%2C%22model%22%3A%22%22%2C%22platform%22%3A%22%22%2C%22platformVersion%22%3A%22%22%7D&cookie=1&res=800x600"
+    },
+    {
+      "type": "unknown",
       "url": "https://cdn.segment.com/v1/projects/rggRFsCK29LOKVGyTLpt9xoXVhNNXaP6/settings"
+    },
+    {
+      "type": "unknown",
+      "url": "https://cdn.loom.com/mediametadata/seekpreview/2720a47a15ab4929bfb0ab2059ca3fe5.vtt?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4ubG9vbS5jb20vbWVkaWFtZXRhZGF0YS9zZWVrcHJldmlldy8yNzIwYTQ3YTE1YWI0OTI5YmZiMGFiMjA1OWNhM2ZlNS4qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzI5MTc4NjY1fX19XX0_&Key-Pair-Id=APKAJQIC5BGSW7XXK7FQ&Signature=UWQdSdq6D56RdNCg9BAXglBITdQFXm7iqmLPGylPuNzvlMNE6O8axRyFJRdtBvQ2Exg4C8Qh1MxT7302jrFK4XFgn1j3mVVoDiuCKce9R%7ErA9Aku8Qf908kVFWqYWxCRWAtNxO60IADTygYSUFWWksyVOplJu07r-4o4UHsNiQlfl7YrIFWbME9ER9cohf23Ytgx94l%7E0SwdiNmVDcRbQvqh-dk0x8ziakH4FEFEWkrxKxz1Nyi3pSwXBfTgMQocz1h-VSAXZdSn1vYRjeyDK96S1fJky8jmASQKa30EOAuFVK2Pe0vt7jpiOOS5Oi1t3YLWYM5MpaNqlB%7Evc%7EbIww__"
+    },
+    {
+      "type": "unknown",
+      "url": "https://cdn.loom.com/mediametadata/seekpreview/2720a47a15ab4929bfb0ab2059ca3fe5.vtt?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4ubG9vbS5jb20vbWVkaWFtZXRhZGF0YS9zZWVrcHJldmlldy8yNzIwYTQ3YTE1YWI0OTI5YmZiMGFiMjA1OWNhM2ZlNS4qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzI5MTc4NjY1fX19XX0_&Key-Pair-Id=APKAJQIC5BGSW7XXK7FQ&Signature=UWQdSdq6D56RdNCg9BAXglBITdQFXm7iqmLPGylPuNzvlMNE6O8axRyFJRdtBvQ2Exg4C8Qh1MxT7302jrFK4XFgn1j3mVVoDiuCKce9R%7ErA9Aku8Qf908kVFWqYWxCRWAtNxO60IADTygYSUFWWksyVOplJu07r-4o4UHsNiQlfl7YrIFWbME9ER9cohf23Ytgx94l%7E0SwdiNmVDcRbQvqh-dk0x8ziakH4FEFEWkrxKxz1Nyi3pSwXBfTgMQocz1h-VSAXZdSn1vYRjeyDK96S1fJky8jmASQKa30EOAuFVK2Pe0vt7jpiOOS5Oi1t3YLWYM5MpaNqlB%7Evc%7EbIww__"
+    },
+    {
+      "type": "unknown",
+      "url": "https://cdn.loom.com/mediametadata/seekpreview/2720a47a15ab4929bfb0ab2059ca3fe5.vtt?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4ubG9vbS5jb20vbWVkaWFtZXRhZGF0YS9zZWVrcHJldmlldy8yNzIwYTQ3YTE1YWI0OTI5YmZiMGFiMjA1OWNhM2ZlNS4qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzI5MTc4NjY1fX19XX0_&Key-Pair-Id=APKAJQIC5BGSW7XXK7FQ&Signature=UWQdSdq6D56RdNCg9BAXglBITdQFXm7iqmLPGylPuNzvlMNE6O8axRyFJRdtBvQ2Exg4C8Qh1MxT7302jrFK4XFgn1j3mVVoDiuCKce9R%7ErA9Aku8Qf908kVFWqYWxCRWAtNxO60IADTygYSUFWWksyVOplJu07r-4o4UHsNiQlfl7YrIFWbME9ER9cohf23Ytgx94l%7E0SwdiNmVDcRbQvqh-dk0x8ziakH4FEFEWkrxKxz1Nyi3pSwXBfTgMQocz1h-VSAXZdSn1vYRjeyDK96S1fJky8jmASQKa30EOAuFVK2Pe0vt7jpiOOS5Oi1t3YLWYM5MpaNqlB%7Evc%7EbIww__"
+    },
+    {
+      "type": "unknown",
+      "url": "https://cdn.loom.com/mediametadata/seekpreview/2720a47a15ab4929bfb0ab2059ca3fe5.vtt?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4ubG9vbS5jb20vbWVkaWFtZXRhZGF0YS9zZWVrcHJldmlldy8yNzIwYTQ3YTE1YWI0OTI5YmZiMGFiMjA1OWNhM2ZlNS4qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzI5MTc4NjY1fX19XX0_&Key-Pair-Id=APKAJQIC5BGSW7XXK7FQ&Signature=UWQdSdq6D56RdNCg9BAXglBITdQFXm7iqmLPGylPuNzvlMNE6O8axRyFJRdtBvQ2Exg4C8Qh1MxT7302jrFK4XFgn1j3mVVoDiuCKce9R%7ErA9Aku8Qf908kVFWqYWxCRWAtNxO60IADTygYSUFWWksyVOplJu07r-4o4UHsNiQlfl7YrIFWbME9ER9cohf23Ytgx94l%7E0SwdiNmVDcRbQvqh-dk0x8ziakH4FEFEWkrxKxz1Nyi3pSwXBfTgMQocz1h-VSAXZdSn1vYRjeyDK96S1fJky8jmASQKa30EOAuFVK2Pe0vt7jpiOOS5Oi1t3YLWYM5MpaNqlB%7Evc%7EbIww__"
     },
     {
       "type": "unknown",
@@ -314,27 +306,11 @@
     },
     {
       "type": "unknown",
-      "url": "https://cdn.loom.com/mediametadata/seekpreview/2720a47a15ab4929bfb0ab2059ca3fe5.vtt?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4ubG9vbS5jb20vbWVkaWFtZXRhZGF0YS9zZWVrcHJldmlldy8yNzIwYTQ3YTE1YWI0OTI5YmZiMGFiMjA1OWNhM2ZlNS4qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzI4NTczODM0fX19XX0_&Key-Pair-Id=APKAJQIC5BGSW7XXK7FQ&Signature=qpuhFYtw5H%7EbLjCLsC-tVeCyfo8A3iOde5PponPcXMqvZqQ2pKICs5-EoPnUL4Xh9yzxKvFpuNEz-FEDWhwetda85vMGFtyiKUUqi01M0Z%7ELPtyJ%7EdXRPjd6j9dOg10YWjsBM0XyNoz8Wws88TuFrqAhRGdtsr%7E%7E69EHgY5hT1%7EMtmqGIqdJ9eJ3TFQAyIydrPk3teJfMl6V%7E-Nmay38yeiO-N2Q54bY8SDZTcl-5AVQXKnrh%7ES9bDedoMELQRAJ9SwlOwH7ItGjYYi5l68xFI0pFuDMlchIS-15sytf0nVfcKssRnI-z6apleSLjdhFdWAhpL6Rvom4t-tEsfo80g__"
-    },
-    {
-      "type": "unknown",
-      "url": "https://cdn.loom.com/mediametadata/seekpreview/2720a47a15ab4929bfb0ab2059ca3fe5.vtt?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4ubG9vbS5jb20vbWVkaWFtZXRhZGF0YS9zZWVrcHJldmlldy8yNzIwYTQ3YTE1YWI0OTI5YmZiMGFiMjA1OWNhM2ZlNS4qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzI4NTczODM0fX19XX0_&Key-Pair-Id=APKAJQIC5BGSW7XXK7FQ&Signature=qpuhFYtw5H%7EbLjCLsC-tVeCyfo8A3iOde5PponPcXMqvZqQ2pKICs5-EoPnUL4Xh9yzxKvFpuNEz-FEDWhwetda85vMGFtyiKUUqi01M0Z%7ELPtyJ%7EdXRPjd6j9dOg10YWjsBM0XyNoz8Wws88TuFrqAhRGdtsr%7E%7E69EHgY5hT1%7EMtmqGIqdJ9eJ3TFQAyIydrPk3teJfMl6V%7E-Nmay38yeiO-N2Q54bY8SDZTcl-5AVQXKnrh%7ES9bDedoMELQRAJ9SwlOwH7ItGjYYi5l68xFI0pFuDMlchIS-15sytf0nVfcKssRnI-z6apleSLjdhFdWAhpL6Rvom4t-tEsfo80g__"
-    },
-    {
-      "type": "unknown",
-      "url": "https://cdn.loom.com/mediametadata/seekpreview/2720a47a15ab4929bfb0ab2059ca3fe5.vtt?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4ubG9vbS5jb20vbWVkaWFtZXRhZGF0YS9zZWVrcHJldmlldy8yNzIwYTQ3YTE1YWI0OTI5YmZiMGFiMjA1OWNhM2ZlNS4qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzI4NTczODM0fX19XX0_&Key-Pair-Id=APKAJQIC5BGSW7XXK7FQ&Signature=qpuhFYtw5H%7EbLjCLsC-tVeCyfo8A3iOde5PponPcXMqvZqQ2pKICs5-EoPnUL4Xh9yzxKvFpuNEz-FEDWhwetda85vMGFtyiKUUqi01M0Z%7ELPtyJ%7EdXRPjd6j9dOg10YWjsBM0XyNoz8Wws88TuFrqAhRGdtsr%7E%7E69EHgY5hT1%7EMtmqGIqdJ9eJ3TFQAyIydrPk3teJfMl6V%7E-Nmay38yeiO-N2Q54bY8SDZTcl-5AVQXKnrh%7ES9bDedoMELQRAJ9SwlOwH7ItGjYYi5l68xFI0pFuDMlchIS-15sytf0nVfcKssRnI-z6apleSLjdhFdWAhpL6Rvom4t-tEsfo80g__"
-    },
-    {
-      "type": "unknown",
-      "url": "https://cdn.loom.com/mediametadata/seekpreview/2720a47a15ab4929bfb0ab2059ca3fe5.vtt?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4ubG9vbS5jb20vbWVkaWFtZXRhZGF0YS9zZWVrcHJldmlldy8yNzIwYTQ3YTE1YWI0OTI5YmZiMGFiMjA1OWNhM2ZlNS4qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzI4NTczODM0fX19XX0_&Key-Pair-Id=APKAJQIC5BGSW7XXK7FQ&Signature=qpuhFYtw5H%7EbLjCLsC-tVeCyfo8A3iOde5PponPcXMqvZqQ2pKICs5-EoPnUL4Xh9yzxKvFpuNEz-FEDWhwetda85vMGFtyiKUUqi01M0Z%7ELPtyJ%7EdXRPjd6j9dOg10YWjsBM0XyNoz8Wws88TuFrqAhRGdtsr%7E%7E69EHgY5hT1%7EMtmqGIqdJ9eJ3TFQAyIydrPk3teJfMl6V%7E-Nmay38yeiO-N2Q54bY8SDZTcl-5AVQXKnrh%7ES9bDedoMELQRAJ9SwlOwH7ItGjYYi5l68xFI0pFuDMlchIS-15sytf0nVfcKssRnI-z6apleSLjdhFdWAhpL6Rvom4t-tEsfo80g__"
+      "url": "https://luna.loom.com/id/2720a47a15ab4929bfb0ab2059ca3fe5/rev/6e82eda7caf7ce86600e6e749fac9081207520bfffb464b0e8f7c1bff08311604/resource/dash/playlistmultibitrate.mpd?Signature=jBG0kVyMhyPy1EhE9ndWit8jBA3U9WrCaSKQ9uc-8XsFpxKJoxZlnrbSX0pR2BQ5L7a10Xv0~pQ7Atl2Sr9WG1i11QOM0Hr25Gh6q3z2UmiwwrtckPWCMJvjUn-SF2uf0AY~BCywX2eelZkNw~MXJ8VGlVNcTobHyEpp-BQpR5cv-VvjLq5I~GGqELiMOK7Z3K1RA6iy4Hv4lrtDgpP2xGHs-JK1Bi1b746x3X9NLyz0CWGoieIrKvNWUf9vcrC65oY3Bc~ECvK4BB26hejzT2m5vu~66mIlqO1ZyOLQBMb3EboZ-4mRJEKjnlvLcmfGVBFUVpBcr4kxsoOqJPcJwg__&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9sdW5hLmxvb20uY29tL2lkLzI3MjBhNDdhMTVhYjQ5MjliZmIwYWIyMDU5Y2EzZmU1L3Jldi82ZTgyZWRhN2NhZjdjZTg2NjAwZTZlNzQ5ZmFjOTA4MTIwNzUyMGJmZmZiNDY0YjBlOGY3YzFiZmYwODMxMTYwNC9yZXNvdXJjZS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzI0MDgxMDY1fX19XX0_&Key-Pair-Id=APKAJQIC5BGSW7XXK7FQ"
     },
     {
       "type": "unknown",
       "url": "https://cdn.segment.com/analytics-next/bundles/ajs-destination.bundle.ed53a26b6edc80c65d73.js"
-    },
-    {
-      "type": "unknown",
-      "url": "https://luna.loom.com/id/2720a47a15ab4929bfb0ab2059ca3fe5/rev/6e82eda7caf7ce86600e6e749fac9081207520bfffb464b0e8f7c1bff08311604/resource/dash/playlistmultibitrate.mpd?Signature=k-efV0e3VSRRXEdc25JkwxNPCuCCsFPVcvNRAMD93pPClS~rlWs3MTbNyhea8PAEleqQnI0mHqzdLmFBM5upq0BgIkrBsUN5hNc9YFdZQsX39uuMrB5NtM~qQ4lYxmd4B1sfudMtY5c7jcqaQfBNHeJd0I8sN5H24ujisTtXFtdcoBoa2oMpZCl~SDLnYJhAIZ6YNMienK1w5aNXkd1RLVg49YgYdBBHCV9vx3pAyqRk~vL0wsTTI9rvAfbv8ekZ5IoUs~QAxukcyvrtaqZi0rYFQ3o0HfB~PK9n4DbfcTuI9GsYj8wbs-j~8mG9DqvP0RFxsHlBCwb4uZydvPiq-g__&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9sdW5hLmxvb20uY29tL2lkLzI3MjBhNDdhMTVhYjQ5MjliZmIwYWIyMDU5Y2EzZmU1L3Jldi82ZTgyZWRhN2NhZjdjZTg2NjAwZTZlNzQ5ZmFjOTA4MTIwNzUyMGJmZmZiNDY0YjBlOGY3YzFiZmYwODMxMTYwNC9yZXNvdXJjZS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzIzNDc2MjM0fX19XX0_&Key-Pair-Id=APKAJQIC5BGSW7XXK7FQ"
     },
     {
       "type": "unknown",
@@ -354,15 +330,11 @@
     },
     {
       "type": "unknown",
-      "url": "https://luna.loom.com/id/2720a47a15ab4929bfb0ab2059ca3fe5/rev/6e82eda7caf7ce86600e6e749fac9081207520bfffb464b0e8f7c1bff08311604/resource/dash/2720a47a15ab4929bfb0ab2059ca3fe5-audio-init.webm?Signature=k-efV0e3VSRRXEdc25JkwxNPCuCCsFPVcvNRAMD93pPClS~rlWs3MTbNyhea8PAEleqQnI0mHqzdLmFBM5upq0BgIkrBsUN5hNc9YFdZQsX39uuMrB5NtM~qQ4lYxmd4B1sfudMtY5c7jcqaQfBNHeJd0I8sN5H24ujisTtXFtdcoBoa2oMpZCl~SDLnYJhAIZ6YNMienK1w5aNXkd1RLVg49YgYdBBHCV9vx3pAyqRk~vL0wsTTI9rvAfbv8ekZ5IoUs~QAxukcyvrtaqZi0rYFQ3o0HfB~PK9n4DbfcTuI9GsYj8wbs-j~8mG9DqvP0RFxsHlBCwb4uZydvPiq-g__&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9sdW5hLmxvb20uY29tL2lkLzI3MjBhNDdhMTVhYjQ5MjliZmIwYWIyMDU5Y2EzZmU1L3Jldi82ZTgyZWRhN2NhZjdjZTg2NjAwZTZlNzQ5ZmFjOTA4MTIwNzUyMGJmZmZiNDY0YjBlOGY3YzFiZmYwODMxMTYwNC9yZXNvdXJjZS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzIzNDc2MjM0fX19XX0_&Key-Pair-Id=APKAJQIC5BGSW7XXK7FQ"
+      "url": "https://luna.loom.com/id/2720a47a15ab4929bfb0ab2059ca3fe5/rev/6e82eda7caf7ce86600e6e749fac9081207520bfffb464b0e8f7c1bff08311604/resource/dash/2720a47a15ab4929bfb0ab2059ca3fe5-audio-init.webm?Signature=jBG0kVyMhyPy1EhE9ndWit8jBA3U9WrCaSKQ9uc-8XsFpxKJoxZlnrbSX0pR2BQ5L7a10Xv0~pQ7Atl2Sr9WG1i11QOM0Hr25Gh6q3z2UmiwwrtckPWCMJvjUn-SF2uf0AY~BCywX2eelZkNw~MXJ8VGlVNcTobHyEpp-BQpR5cv-VvjLq5I~GGqELiMOK7Z3K1RA6iy4Hv4lrtDgpP2xGHs-JK1Bi1b746x3X9NLyz0CWGoieIrKvNWUf9vcrC65oY3Bc~ECvK4BB26hejzT2m5vu~66mIlqO1ZyOLQBMb3EboZ-4mRJEKjnlvLcmfGVBFUVpBcr4kxsoOqJPcJwg__&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9sdW5hLmxvb20uY29tL2lkLzI3MjBhNDdhMTVhYjQ5MjliZmIwYWIyMDU5Y2EzZmU1L3Jldi82ZTgyZWRhN2NhZjdjZTg2NjAwZTZlNzQ5ZmFjOTA4MTIwNzUyMGJmZmZiNDY0YjBlOGY3YzFiZmYwODMxMTYwNC9yZXNvdXJjZS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzI0MDgxMDY1fX19XX0_&Key-Pair-Id=APKAJQIC5BGSW7XXK7FQ"
     },
     {
       "type": "unknown",
-      "url": "https://luna.loom.com/id/2720a47a15ab4929bfb0ab2059ca3fe5/rev/6e82eda7caf7ce86600e6e749fac9081207520bfffb464b0e8f7c1bff08311604/resource/dash/2720a47a15ab4929bfb0ab2059ca3fe5-video-init.webm?Signature=k-efV0e3VSRRXEdc25JkwxNPCuCCsFPVcvNRAMD93pPClS~rlWs3MTbNyhea8PAEleqQnI0mHqzdLmFBM5upq0BgIkrBsUN5hNc9YFdZQsX39uuMrB5NtM~qQ4lYxmd4B1sfudMtY5c7jcqaQfBNHeJd0I8sN5H24ujisTtXFtdcoBoa2oMpZCl~SDLnYJhAIZ6YNMienK1w5aNXkd1RLVg49YgYdBBHCV9vx3pAyqRk~vL0wsTTI9rvAfbv8ekZ5IoUs~QAxukcyvrtaqZi0rYFQ3o0HfB~PK9n4DbfcTuI9GsYj8wbs-j~8mG9DqvP0RFxsHlBCwb4uZydvPiq-g__&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9sdW5hLmxvb20uY29tL2lkLzI3MjBhNDdhMTVhYjQ5MjliZmIwYWIyMDU5Y2EzZmU1L3Jldi82ZTgyZWRhN2NhZjdjZTg2NjAwZTZlNzQ5ZmFjOTA4MTIwNzUyMGJmZmZiNDY0YjBlOGY3YzFiZmYwODMxMTYwNC9yZXNvdXJjZS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzIzNDc2MjM0fX19XX0_&Key-Pair-Id=APKAJQIC5BGSW7XXK7FQ"
-    },
-    {
-      "type": "unknown",
-      "url": "https://cdn.sprig.com/shim.js?id=KVj_WYX4LR"
+      "url": "https://luna.loom.com/id/2720a47a15ab4929bfb0ab2059ca3fe5/rev/6e82eda7caf7ce86600e6e749fac9081207520bfffb464b0e8f7c1bff08311604/resource/dash/2720a47a15ab4929bfb0ab2059ca3fe5-video-init.webm?Signature=jBG0kVyMhyPy1EhE9ndWit8jBA3U9WrCaSKQ9uc-8XsFpxKJoxZlnrbSX0pR2BQ5L7a10Xv0~pQ7Atl2Sr9WG1i11QOM0Hr25Gh6q3z2UmiwwrtckPWCMJvjUn-SF2uf0AY~BCywX2eelZkNw~MXJ8VGlVNcTobHyEpp-BQpR5cv-VvjLq5I~GGqELiMOK7Z3K1RA6iy4Hv4lrtDgpP2xGHs-JK1Bi1b746x3X9NLyz0CWGoieIrKvNWUf9vcrC65oY3Bc~ECvK4BB26hejzT2m5vu~66mIlqO1ZyOLQBMb3EboZ-4mRJEKjnlvLcmfGVBFUVpBcr4kxsoOqJPcJwg__&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9sdW5hLmxvb20uY29tL2lkLzI3MjBhNDdhMTVhYjQ5MjliZmIwYWIyMDU5Y2EzZmU1L3Jldi82ZTgyZWRhN2NhZjdjZTg2NjAwZTZlNzQ5ZmFjOTA4MTIwNzUyMGJmZmZiNDY0YjBlOGY3YzFiZmYwODMxMTYwNC9yZXNvdXJjZS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzI0MDgxMDY1fX19XX0_&Key-Pair-Id=APKAJQIC5BGSW7XXK7FQ"
     },
     {
       "type": "unknown",
@@ -370,124 +342,48 @@
     },
     {
       "type": "unknown",
+      "url": "https://cdn.sprig.com/shim.js?id=KVj_WYX4LR"
+    },
+    {
+      "type": "unknown",
       "url": "https://api.sgmt.loom.com/v1/p"
     },
     {
       "type": "unknown",
-      "url": "https://luna.loom.com/id/2720a47a15ab4929bfb0ab2059ca3fe5/rev/6e82eda7caf7ce86600e6e749fac9081207520bfffb464b0e8f7c1bff08311604/resource/dash/2720a47a15ab4929bfb0ab2059ca3fe5-audio-0.webm?Signature=k-efV0e3VSRRXEdc25JkwxNPCuCCsFPVcvNRAMD93pPClS~rlWs3MTbNyhea8PAEleqQnI0mHqzdLmFBM5upq0BgIkrBsUN5hNc9YFdZQsX39uuMrB5NtM~qQ4lYxmd4B1sfudMtY5c7jcqaQfBNHeJd0I8sN5H24ujisTtXFtdcoBoa2oMpZCl~SDLnYJhAIZ6YNMienK1w5aNXkd1RLVg49YgYdBBHCV9vx3pAyqRk~vL0wsTTI9rvAfbv8ekZ5IoUs~QAxukcyvrtaqZi0rYFQ3o0HfB~PK9n4DbfcTuI9GsYj8wbs-j~8mG9DqvP0RFxsHlBCwb4uZydvPiq-g__&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9sdW5hLmxvb20uY29tL2lkLzI3MjBhNDdhMTVhYjQ5MjliZmIwYWIyMDU5Y2EzZmU1L3Jldi82ZTgyZWRhN2NhZjdjZTg2NjAwZTZlNzQ5ZmFjOTA4MTIwNzUyMGJmZmZiNDY0YjBlOGY3YzFiZmYwODMxMTYwNC9yZXNvdXJjZS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzIzNDc2MjM0fX19XX0_&Key-Pair-Id=APKAJQIC5BGSW7XXK7FQ"
+      "url": "https://luna.loom.com/id/2720a47a15ab4929bfb0ab2059ca3fe5/rev/6e82eda7caf7ce86600e6e749fac9081207520bfffb464b0e8f7c1bff08311604/resource/dash/2720a47a15ab4929bfb0ab2059ca3fe5-audio-0.webm?Signature=jBG0kVyMhyPy1EhE9ndWit8jBA3U9WrCaSKQ9uc-8XsFpxKJoxZlnrbSX0pR2BQ5L7a10Xv0~pQ7Atl2Sr9WG1i11QOM0Hr25Gh6q3z2UmiwwrtckPWCMJvjUn-SF2uf0AY~BCywX2eelZkNw~MXJ8VGlVNcTobHyEpp-BQpR5cv-VvjLq5I~GGqELiMOK7Z3K1RA6iy4Hv4lrtDgpP2xGHs-JK1Bi1b746x3X9NLyz0CWGoieIrKvNWUf9vcrC65oY3Bc~ECvK4BB26hejzT2m5vu~66mIlqO1ZyOLQBMb3EboZ-4mRJEKjnlvLcmfGVBFUVpBcr4kxsoOqJPcJwg__&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9sdW5hLmxvb20uY29tL2lkLzI3MjBhNDdhMTVhYjQ5MjliZmIwYWIyMDU5Y2EzZmU1L3Jldi82ZTgyZWRhN2NhZjdjZTg2NjAwZTZlNzQ5ZmFjOTA4MTIwNzUyMGJmZmZiNDY0YjBlOGY3YzFiZmYwODMxMTYwNC9yZXNvdXJjZS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzI0MDgxMDY1fX19XX0_&Key-Pair-Id=APKAJQIC5BGSW7XXK7FQ"
+    },
+    {
+      "type": "unknown",
+      "url": "https://luna.loom.com/id/2720a47a15ab4929bfb0ab2059ca3fe5/rev/6e82eda7caf7ce86600e6e749fac9081207520bfffb464b0e8f7c1bff08311604/resource/dash/2720a47a15ab4929bfb0ab2059ca3fe5-video-0.webm?Signature=jBG0kVyMhyPy1EhE9ndWit8jBA3U9WrCaSKQ9uc-8XsFpxKJoxZlnrbSX0pR2BQ5L7a10Xv0~pQ7Atl2Sr9WG1i11QOM0Hr25Gh6q3z2UmiwwrtckPWCMJvjUn-SF2uf0AY~BCywX2eelZkNw~MXJ8VGlVNcTobHyEpp-BQpR5cv-VvjLq5I~GGqELiMOK7Z3K1RA6iy4Hv4lrtDgpP2xGHs-JK1Bi1b746x3X9NLyz0CWGoieIrKvNWUf9vcrC65oY3Bc~ECvK4BB26hejzT2m5vu~66mIlqO1ZyOLQBMb3EboZ-4mRJEKjnlvLcmfGVBFUVpBcr4kxsoOqJPcJwg__&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9sdW5hLmxvb20uY29tL2lkLzI3MjBhNDdhMTVhYjQ5MjliZmIwYWIyMDU5Y2EzZmU1L3Jldi82ZTgyZWRhN2NhZjdjZTg2NjAwZTZlNzQ5ZmFjOTA4MTIwNzUyMGJmZmZiNDY0YjBlOGY3YzFiZmYwODMxMTYwNC9yZXNvdXJjZS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzI0MDgxMDY1fX19XX0_&Key-Pair-Id=APKAJQIC5BGSW7XXK7FQ"
+    },
+    {
+      "type": "unknown",
+      "url": "https://cdn.loom.com/mediametadata/captions/2720a47a15ab4929bfb0ab2059ca3fe5-2.vtt?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4ubG9vbS5jb20vbWVkaWFtZXRhZGF0YS9jYXB0aW9ucy8yNzIwYTQ3YTE1YWI0OTI5YmZiMGFiMjA1OWNhM2ZlNS0yLnZ0dCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTcyNDA4MTA2NX19fV19&Key-Pair-Id=APKAJQIC5BGSW7XXK7FQ&Signature=SLi5RPPPw5Iw8B3pUtyrGdGvl8q70Mm-U4Tsfd55REubQKzb7e2053asUIcii3w9O6OwaxIYOqhFagEwokqguieb35tekqkSX2pMh5vrYnCZLVZBGQXzXcT3F2lv1-AgY6qwEhZBYGsVBGlNwDq1hajwusj0wmpq%7EPClroPzjjTQx0q2obNlDA%7EqAZ8Eld5qJ-TvWZxXNZpSFKcv1fAvQh1hNL9BowPVuvJh3R8--MWx0u2RDoWBGBl-6jLROZNP50quQq-%7EEIDkRYxPhTBBZerNiYaEPecwqGQaQOLZY%7EYiPckrng9%7EIkLDNdGqRRj4dYdEAw9Qbbg%7EzIy7vmhH4w__"
     },
     {
       "type": "unknown",
       "url": "https://api.sprig.com/sdk/1/environments/KVj_WYX4LR/config"
-    },
-    {
-      "type": "unknown",
-      "url": "https://luna.loom.com/id/2720a47a15ab4929bfb0ab2059ca3fe5/rev/6e82eda7caf7ce86600e6e749fac9081207520bfffb464b0e8f7c1bff08311604/resource/dash/2720a47a15ab4929bfb0ab2059ca3fe5-video-0.webm?Signature=k-efV0e3VSRRXEdc25JkwxNPCuCCsFPVcvNRAMD93pPClS~rlWs3MTbNyhea8PAEleqQnI0mHqzdLmFBM5upq0BgIkrBsUN5hNc9YFdZQsX39uuMrB5NtM~qQ4lYxmd4B1sfudMtY5c7jcqaQfBNHeJd0I8sN5H24ujisTtXFtdcoBoa2oMpZCl~SDLnYJhAIZ6YNMienK1w5aNXkd1RLVg49YgYdBBHCV9vx3pAyqRk~vL0wsTTI9rvAfbv8ekZ5IoUs~QAxukcyvrtaqZi0rYFQ3o0HfB~PK9n4DbfcTuI9GsYj8wbs-j~8mG9DqvP0RFxsHlBCwb4uZydvPiq-g__&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9sdW5hLmxvb20uY29tL2lkLzI3MjBhNDdhMTVhYjQ5MjliZmIwYWIyMDU5Y2EzZmU1L3Jldi82ZTgyZWRhN2NhZjdjZTg2NjAwZTZlNzQ5ZmFjOTA4MTIwNzUyMGJmZmZiNDY0YjBlOGY3YzFiZmYwODMxMTYwNC9yZXNvdXJjZS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzIzNDc2MjM0fX19XX0_&Key-Pair-Id=APKAJQIC5BGSW7XXK7FQ"
-    },
-    {
-      "type": "unknown",
-      "url": "https://api.sprig.com/sdk/1/environments/KVj_WYX4LR/config"
-    },
-    {
-      "type": "unknown",
-      "url": "https://cdn.loom.com/mediametadata/captions/2720a47a15ab4929bfb0ab2059ca3fe5-2.vtt?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4ubG9vbS5jb20vbWVkaWFtZXRhZGF0YS9jYXB0aW9ucy8yNzIwYTQ3YTE1YWI0OTI5YmZiMGFiMjA1OWNhM2ZlNS0yLnZ0dCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTcyMzQ3NjIzNH19fV19&Key-Pair-Id=APKAJQIC5BGSW7XXK7FQ&Signature=XIJ1hzdfV930j9lP-PD-nAyfRE9JHaeObOCEkXgqbdvTyqB3vsoKm89rBKMhgg-uNKR-7xn9gkx8BRZaRCkb7L56nhnUHF%7EUuYAg6ZihanKSqWMeA0ArU3SHxwUqMim1sTFVeu%7ElpgVR9akwOb34F3JrZjfreq7UrKRoqw93MTHhlDPwcluod98l5lU6nqciFoUvKPP2Q4dLeMny4b-ouq2v19ybekwiQzse3lxFPN7COpOPiiaZgyqEx2F2hXUcLse9zrh0Kv3xuu7uoJemL0NpLK%7ENUDuEPQ-CE5uXmb7NgKSQn7LHR8k8-VMkirOWcMvYfMF4DwrTqktXH-UB3g__"
     },
     {
       "type": "unknown",
       "url": "https://api.sgmt.loom.com/v1/t"
     },
     {
-      "type": "crisp",
-      "url": "https://client.crisp.chat/settings/website/9b58fbdb-9b81-4ac8-9754-ee1eb9d8d058/?callback=window.%24__CRISP_INSTANCE.__spool.website_settings_handler&1723128742889",
-      "details": {
-        "id": "crisp",
-        "message": "Ensure your TOS notify the CRISP usage"
-      }
-    },
-    {
-      "type": "crisp",
-      "url": "https://client.crisp.chat/static/javascripts/locales/en.js?76ab9f1",
-      "details": {
-        "id": "crisp",
-        "message": "Ensure your TOS notify the CRISP usage"
-      }
+      "type": "unknown",
+      "url": "https://api.sprig.com/sdk/1/environments/KVj_WYX4LR/config"
     },
     {
       "type": "unknown",
       "url": "https://www.loom.com/insights-api/graphql"
-    },
-    {
-      "type": "crisp",
-      "url": "https://image.crisp.chat/process/thumbnail/?url=https%3A%2F%2Fstorage.crisp.chat%2Fusers%2Favatar%2Foperator%2Fdf82169218f89000%2F1555594446856_1fvlg5p.jpeg&width=60&height=60&1723128742889",
-      "details": {
-        "id": "crisp",
-        "message": "Ensure your TOS notify the CRISP usage"
-      }
-    },
-    {
-      "type": "crisp",
-      "url": "https://image.crisp.chat/process/thumbnail/?url=https%3A%2F%2Fstorage.crisp.chat%2Fusers%2Favatar%2Foperator%2F647c81e2dba70400%2Fidmi_qkr60n.png&width=60&height=60&1723128742889",
-      "details": {
-        "id": "crisp",
-        "message": "Ensure your TOS notify the CRISP usage"
-      }
-    },
-    {
-      "type": "crisp",
-      "url": "https://image.crisp.chat/process/thumbnail/?url=https%3A%2F%2Fstorage.crisp.chat%2Fusers%2Favatar%2Foperator%2Fa76805d99ddc4800%2Fmoipro_16ad6dc.png&width=60&height=60&1723128742889",
-      "details": {
-        "id": "crisp",
-        "message": "Ensure your TOS notify the CRISP usage"
-      }
-    },
-    {
-      "type": "crisp",
-      "url": "https://image.crisp.chat/avatar/website/9b58fbdb-9b81-4ac8-9754-ee1eb9d8d058/60/?1723128742889",
-      "details": {
-        "id": "crisp",
-        "message": "Ensure your TOS notify the CRISP usage"
-      }
-    },
-    {
-      "type": "crisp",
-      "url": "https://client.crisp.chat/static/fonts/noto_sans/full/noto_sans_bold.woff2?76ab9f1",
-      "details": {
-        "id": "crisp",
-        "message": "Ensure your TOS notify the CRISP usage"
-      }
-    },
-    {
-      "type": "crisp",
-      "url": "https://client.crisp.chat/static/fonts/noto_sans/full/noto_sans_regular.woff2?76ab9f1",
-      "details": {
-        "id": "crisp",
-        "message": "Ensure your TOS notify the CRISP usage"
-      }
-    },
-    {
-      "type": "crisp",
-      "url": "https://client.crisp.chat/static/fonts/noto_sans/full/noto_sans_bold.woff2?76ab9f1",
-      "details": {
-        "id": "crisp",
-        "message": "Ensure your TOS notify the CRISP usage"
-      }
-    },
-    {
-      "type": "crisp",
-      "url": "https://client.crisp.chat/static/fonts/noto_sans/full/noto_sans_regular.woff2?76ab9f1",
-      "details": {
-        "id": "crisp",
-        "message": "Ensure your TOS notify the CRISP usage"
-      }
     }
   ],
   "cookies": [
     {
       "name": "_pk_id.258.755a",
-      "value": "ed6365bdafccbaf0.1723389833.",
+      "value": "58db1375c8f30462.1723994664.",
       "domain": "datasubvention.beta.gouv.fr",
       "path": "/",
-      "expires": 1757345033,
+      "expires": 1757949864,
       "size": 43,
       "httpOnly": false,
       "secure": false,
@@ -502,7 +398,7 @@
       "value": "1",
       "domain": "datasubvention.beta.gouv.fr",
       "path": "/",
-      "expires": 1723391633,
+      "expires": 1723996463,
       "size": 15,
       "httpOnly": false,
       "secure": false,
@@ -514,10 +410,10 @@
     },
     {
       "name": "__cf_bm",
-      "value": "Gq3dD2nGC8.8fYXR7rGmmEDFyPAJuPCdzoCbqB9UlFQ-1723389832-1.0.1.1-k4aYLvVrbufxap7xlfmjcfUuz9zJLBhP9LRujLrTbWrxpMOCpUZX7SWMKgt2kfnDAQYBbdBkQV8pEB970CGe5w",
+      "value": "XdNrzGFRDrg4DvgR4OgrbbwlzFBx1vKnpIDuTkE.XXg-1723994663-1.0.1.1-uGdeuGFe4ImJNqtMuO_9qjtvCfu.tr8Rp_DEuJWk8t1X5baqAhcGMuBlaKOLXnZwlAFkmG1QqXsDojRbbYhO4A",
       "domain": ".datasubvention.beta.gouv.fr",
       "path": "/",
-      "expires": 1723391632.471444,
+      "expires": 1723996463.143329,
       "size": 156,
       "httpOnly": true,
       "secure": true,
@@ -529,10 +425,10 @@
     },
     {
       "name": "_pk_id.2.755a",
-      "value": "a3bb2142c9066d0a.1723389833.",
+      "value": "e206009cbc311d55.1723994664.",
       "domain": "datasubvention.beta.gouv.fr",
       "path": "/",
-      "expires": 1757345033,
+      "expires": 1757949864,
       "size": 41,
       "httpOnly": false,
       "secure": false,
@@ -547,7 +443,7 @@
       "value": "1",
       "domain": "datasubvention.beta.gouv.fr",
       "path": "/",
-      "expires": 1723391633,
+      "expires": 1723996464,
       "size": 17,
       "httpOnly": false,
       "secure": false,
@@ -559,7 +455,7 @@
     },
     {
       "name": "_cfuvid",
-      "value": "hjDPkS.e5tbwtcg9b_YyKLPGrssfSmt8tV4mE5V5v2s-1723389832469-0.0.1.1-604800000",
+      "value": "YWHcJuZBsar_sQXJqThltJ9pBlag23NepI3zgcBZKfs-1723994663136-0.0.1.1-604800000",
       "domain": ".datasubvention.beta.gouv.fr",
       "path": "/",
       "expires": -1,
@@ -574,10 +470,10 @@
     },
     {
       "name": "sib_cuid",
-      "value": "41d39b4c-f084-4d70-9cd7-03d0b34f5b97",
+      "value": "f7043879-0726-4aaa-bbec-aa94102896d9",
       "domain": ".datasubvention.beta.gouv.fr",
       "path": "/",
-      "expires": 1739060632,
+      "expires": 1739665463,
       "size": 44,
       "httpOnly": false,
       "secure": false,
@@ -588,23 +484,23 @@
     }
   ],
   "headers": {
-    "age": "248",
+    "age": "260",
     "alt-svc": "h3=\":443\"; ma=86400",
     "cache-control": "public, max-age=604800",
     "cf-cache-status": "HIT",
-    "cf-ray": "8b193ab469266fcd-IAD",
+    "cf-ray": "8b52e9146f071024-LAX",
     "content-encoding": "br",
     "content-type": "text/html; charset=UTF-8",
-    "date": "Sun, 11 Aug 2024 15:23:52 GMT",
+    "date": "Sun, 18 Aug 2024 15:24:23 GMT",
     "ec-cdn-cache-control": "public, max-age=604800",
     "ec-cdn-status": "hit",
     "ec-cdn-supported": "1",
     "ec-coldstart": "worker",
     "ec-source": "dynamic",
-    "last-modified": "Sun, 11 Aug 2024 15:19:44 GMT",
+    "last-modified": "Sun, 18 Aug 2024 15:20:03 GMT",
     "link": "<https://datasubvention.beta.gouv.fr/wp-json/>; rel=\"https://api.w.org/\", <https://datasubvention.beta.gouv.fr/wp-json/wp/v2/pages/496>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://datasubvention.beta.gouv.fr/>; rel=shortlink",
     "server": "cloudflare",
-    "set-cookie": "__cf_bm=Gq3dD2nGC8.8fYXR7rGmmEDFyPAJuPCdzoCbqB9UlFQ-1723389832-1.0.1.1-k4aYLvVrbufxap7xlfmjcfUuz9zJLBhP9LRujLrTbWrxpMOCpUZX7SWMKgt2kfnDAQYBbdBkQV8pEB970CGe5w; path=/; expires=Sun, 11-Aug-24 15:53:52 GMT; domain=.datasubvention.beta.gouv.fr; HttpOnly; Secure; SameSite=None\n_cfuvid=hjDPkS.e5tbwtcg9b_YyKLPGrssfSmt8tV4mE5V5v2s-1723389832469-0.0.1.1-604800000; path=/; domain=.datasubvention.beta.gouv.fr; HttpOnly; Secure; SameSite=None",
+    "set-cookie": "__cf_bm=XdNrzGFRDrg4DvgR4OgrbbwlzFBx1vKnpIDuTkE.XXg-1723994663-1.0.1.1-uGdeuGFe4ImJNqtMuO_9qjtvCfu.tr8Rp_DEuJWk8t1X5baqAhcGMuBlaKOLXnZwlAFkmG1QqXsDojRbbYhO4A; path=/; expires=Sun, 18-Aug-24 15:54:23 GMT; domain=.datasubvention.beta.gouv.fr; HttpOnly; Secure; SameSite=None\n_cfuvid=YWHcJuZBsar_sQXJqThltJ9pBlag23NepI3zgcBZKfs-1723994663136-0.0.1.1-604800000; path=/; domain=.datasubvention.beta.gouv.fr; HttpOnly; Secure; SameSite=None",
     "vary": "Accept-Encoding",
     "x-litespeed-tag": "81d_HTTP.200",
     "x-powered-by": "Elementor Cloud"
@@ -612,7 +508,7 @@
   "endpoints": [
     {
       "hostname": "datasubvention.beta.gouv.fr",
-      "ip": "162.159.138.9",
+      "ip": "162.159.137.9",
       "geoip": {
         "registered_country": {
           "geoname_id": 6252001,
@@ -632,7 +528,7 @@
     },
     {
       "hostname": "static.cloudflareinsights.com",
-      "ip": "104.16.79.73",
+      "ip": "104.16.80.73",
       "geoip": {
         "registered_country": {
           "geoname_id": 6252001,
@@ -672,7 +568,7 @@
     },
     {
       "hostname": "client.crisp.chat",
-      "ip": "104.18.29.104",
+      "ip": "104.18.28.104",
       "geoip": {
         "registered_country": {
           "geoname_id": 6252001,
@@ -712,7 +608,7 @@
     },
     {
       "hostname": "www.loom.com",
-      "ip": "3.167.69.25",
+      "ip": "18.65.3.6",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -766,7 +662,7 @@
     },
     {
       "hostname": "matomo-datasubvention.osc-secnum-fr1.scalingo.io",
-      "ip": "80.247.13.145",
+      "ip": "148.253.96.193",
       "geoip": {
         "continent": {
           "code": "EU",
@@ -822,7 +718,7 @@
     },
     {
       "hostname": "cdn.loom.com",
-      "ip": "18.165.98.45",
+      "ip": "3.168.147.31",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -967,7 +863,7 @@
     },
     {
       "hostname": "evs.sgmt.loom.com",
-      "ip": "3.167.69.38",
+      "ip": "18.164.154.93",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -1021,7 +917,7 @@
     },
     {
       "hostname": "cdn.segment.com",
-      "ip": "99.86.191.237",
+      "ip": "3.168.149.142",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -1075,7 +971,7 @@
     },
     {
       "hostname": "luna.loom.com",
-      "ip": "18.165.83.53",
+      "ip": "13.226.228.89",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -1129,7 +1025,7 @@
     },
     {
       "hostname": "cdn.sprig.com",
-      "ip": "3.162.112.82",
+      "ip": "216.137.39.101",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -1183,7 +1079,7 @@
     },
     {
       "hostname": "api.sgmt.loom.com",
-      "ip": "54.148.233.230",
+      "ip": "54.69.21.216",
       "geoip": {
         "city": {
           "geoname_id": 5714964,
@@ -1352,26 +1248,6 @@
             }
           }
         ]
-      }
-    },
-    {
-      "hostname": "image.crisp.chat",
-      "ip": "104.18.28.104",
-      "geoip": {
-        "registered_country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
-          "names": {
-            "de": "USA",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
-          }
-        }
       }
     }
   ]

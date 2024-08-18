@@ -346,7 +346,7 @@
               "ip"           : "datasubvention.beta.gouv.fr/162.159.138.9",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "84 >= 60 days"
+              "finding"      : "77 >= 60 days"
           }
 ,         {
               "id"           : "cert_notBefore <hostCert#1>",
@@ -647,7 +647,7 @@
               "ip"           : "datasubvention.beta.gouv.fr/162.159.138.9",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "84 >= 60 days"
+              "finding"      : "77 >= 60 days"
           }
 ,         {
               "id"           : "cert_notBefore <hostCert#2>",
@@ -850,21 +850,21 @@
               "ip"           : "datasubvention.beta.gouv.fr/162.159.138.9",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "+320 seconds from localtime"
+              "finding"      : "+342 seconds from localtime"
           }
 ,         {
               "id"           : "HTTP_headerTime",
               "ip"           : "datasubvention.beta.gouv.fr/162.159.138.9",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1723389904"
+              "finding"      : "1723994745"
           }
 ,         {
               "id"           : "HTTP_headerAge",
               "ip"           : "datasubvention.beta.gouv.fr/162.159.138.9",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "320 seconds"
+              "finding"      : "342 seconds"
           }
 ,         {
               "id"           : "ipv4_in_header",
@@ -872,7 +872,7 @@
               "port"         : "443",
               "severity"     : "MEDIUM",
               "cwe"          : "CWE-212",
-              "finding"      : "Set-Cookie: __cf_bm=p3OQLnoDrmE2w__melLvUmGk3.Pk5obME.8LBSDKTEA-1723389904-1.0.1.1-LyrGqUoALqg4qi8MbW0D7nttOMyuKIjc8THu4TBeA3pv_Z5Qrx8HFruWWYwnuks4aQk42idhAr0ZjF2WF7Uv7A; path=/; expires=Sun, 11-Aug-24 15:55:04 GMT; domain=.datasubvention.beta.gouv.fr; HttpOnly; Secure; SameSite=None (check if it's your IP address or e.g. a cluster IP)"
+              "finding"      : "Set-Cookie: __cf_bm=HIx3B5zm_MnoVjADnSPVqW_I80Qu1aGe9RX51ZEYGd0-1723994745-1.0.1.1-4W1zzOIHXRFPJfYcJsjiXjaHrdEHTwGYXLsV5zhdLXm1skXkTIsGv0dz70toe_Pkb0gZtKCShScqiv9KoRxQ3Q; path=/; expires=Sun, 18-Aug-24 15:55:45 GMT; domain=.datasubvention.beta.gouv.fr; HttpOnly; Secure; SameSite=None (check if it's your IP address or e.g. a cluster IP)"
           }
 ,         {
               "id"           : "ipv4_in_header",
@@ -880,7 +880,7 @@
               "port"         : "443",
               "severity"     : "MEDIUM",
               "cwe"          : "CWE-212",
-              "finding"      : "Set-Cookie: _cfuvid=5qn_EEf62_ftrBHezGHylcbM0pWTpmImU12WPZE8PJc-1723389904399-0.0.1.1-604800000; path=/; domain=.datasubvention.beta.gouv.fr; HttpOnly; Secure; SameSite=None"
+              "finding"      : "Set-Cookie: _cfuvid=4HbDrLHwS819k9lQyX8WfVD6KQeo6.xdz1XHi3jOcBI-1723994745208-0.0.1.1-604800000; path=/; domain=.datasubvention.beta.gouv.fr; HttpOnly; Secure; SameSite=None"
           }
 ,         {
               "id"           : "HSTS",
@@ -1792,7 +1792,7 @@
               "ip"           : "datasubvention.beta.gouv.fr/162.159.137.9",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "84 >= 60 days"
+              "finding"      : "77 >= 60 days"
           }
 ,         {
               "id"           : "cert_notBefore <hostCert#1>",
@@ -2093,7 +2093,7 @@
               "ip"           : "datasubvention.beta.gouv.fr/162.159.137.9",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "84 >= 60 days"
+              "finding"      : "77 >= 60 days"
           }
 ,         {
               "id"           : "cert_notBefore <hostCert#2>",
@@ -2296,21 +2296,21 @@
               "ip"           : "datasubvention.beta.gouv.fr/162.159.137.9",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "+374 seconds from localtime"
+              "finding"      : "+401 seconds from localtime"
           }
 ,         {
               "id"           : "HTTP_headerTime",
               "ip"           : "datasubvention.beta.gouv.fr/162.159.137.9",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1723389958"
+              "finding"      : "1723994804"
           }
 ,         {
               "id"           : "HTTP_headerAge",
               "ip"           : "datasubvention.beta.gouv.fr/162.159.137.9",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "374 seconds"
+              "finding"      : "401 seconds"
           }
 ,         {
               "id"           : "ipv4_in_header",
@@ -2318,7 +2318,7 @@
               "port"         : "443",
               "severity"     : "MEDIUM",
               "cwe"          : "CWE-212",
-              "finding"      : "Set-Cookie: __cf_bm=34r90poTwkgjuEjznQGN7L4L6VE2Y.4QmX2gDCzHGu4-1723389958-1.0.1.1-j7IEQPNw.gQ0h69nLXdEMeAkCfxx.j_1KaONBYic302oYovK23WUclkFkflo2SzWul._2kiO2lo6frEa7NAtdw; path=/; expires=Sun, 11-Aug-24 15:55:58 GMT; domain=.datasubvention.beta.gouv.fr; HttpOnly; Secure; SameSite=None (check if it's your IP address or e.g. a cluster IP)"
+              "finding"      : "Set-Cookie: __cf_bm=yDAh2Ls0JiVFMjgwIKmAJZlHvanL0OHe4_C63ONu_1o-1723994804-1.0.1.1-Zn6eVN0GHVoqBCJBYaThsl.77ec6hEYYN_x5TRr2o_F4RuAbJD7CtNJ8yb.iROyWayWiSY5PTI6owKkEv.NpQA; path=/; expires=Sun, 18-Aug-24 15:56:44 GMT; domain=.datasubvention.beta.gouv.fr; HttpOnly; Secure; SameSite=None (check if it's your IP address or e.g. a cluster IP)"
           }
 ,         {
               "id"           : "ipv4_in_header",
@@ -2326,7 +2326,7 @@
               "port"         : "443",
               "severity"     : "MEDIUM",
               "cwe"          : "CWE-212",
-              "finding"      : "Set-Cookie: _cfuvid=55lsU_Ks4iY4J5DX_m.CCvT6oH8lGiV75PI0blshHVU-1723389958874-0.0.1.1-604800000; path=/; domain=.datasubvention.beta.gouv.fr; HttpOnly; Secure; SameSite=None"
+              "finding"      : "Set-Cookie: _cfuvid=DuF6MnDxY.jp6RFe3lNu0pwTKuNj.efPjk5KOdBRjvE-1723994804288-0.0.1.1-604800000; path=/; domain=.datasubvention.beta.gouv.fr; HttpOnly; Secure; SameSite=None"
           }
 ,         {
               "id"           : "HSTS",
@@ -2896,6 +2896,6 @@
               "ip"           : "datasubvention.beta.gouv.fr/162.159.137.9",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "111"
+              "finding"      : "122"
           }
 ]
