@@ -14,15 +14,15 @@
     },
     {
       "type": "unknown",
-      "url": "https://labonneboite.francetravail.fr/runtime.e839deca1a0af57e.js"
+      "url": "https://labonneboite.francetravail.fr/runtime.27cdf28e5cda2ec8.js"
     },
     {
       "type": "unknown",
-      "url": "https://labonneboite.francetravail.fr/polyfills.69ac9fab579cbea3.js"
+      "url": "https://labonneboite.francetravail.fr/polyfills.b04a1af67c85ddbe.js"
     },
     {
       "type": "unknown",
-      "url": "https://labonneboite.francetravail.fr/main.a6e4f8c4430bffca.js"
+      "url": "https://labonneboite.francetravail.fr/main.af9f9d3e9ac46866.js"
     },
     {
       "type": "unknown",
@@ -42,7 +42,7 @@
     },
     {
       "type": "unknown",
-      "url": "https://labonneboite.francetravail.fr/styles.dab25614c6d147e3.css"
+      "url": "https://labonneboite.francetravail.fr/styles.91062c32f4a1570d.css"
     },
     {
       "type": "unknown",
@@ -94,7 +94,7 @@
     },
     {
       "type": "unknown",
-      "url": "https://hd.pe.fr/event?s=475540&idclient=lzpnf129rchtgqy3"
+      "url": "https://hd.pe.fr/event?s=475540&idclient=lzznj0sd5z7sq8yt"
     },
     {
       "type": "unknown",
@@ -118,11 +118,15 @@
     },
     {
       "type": "unknown",
-      "url": "https://labonneboite.francetravail.fr/common.30603dc7d1f3cbcc.js"
+      "url": "https://labonneboite.francetravail.fr/common.d277eab1d7c5155e.js"
     },
     {
       "type": "unknown",
-      "url": "https://labonneboite.francetravail.fr/424.1d80e573ead20484.js"
+      "url": "https://labonneboite.francetravail.fr/47.0fb06d71bf16bce7.js"
+    },
+    {
+      "type": "unknown",
+      "url": "https://labonneboite.francetravail.fr/csrfToken"
     },
     {
       "type": "unknown",
@@ -140,11 +144,11 @@
   "cookies": [
     {
       "name": "_pctx",
-      "value": "%7Bu%7DN4IgrgzgpgThIC4B2YA2qA05owMoBcBDfSREQpAeyRCwgEt8oBJAE0RXSwH18yBbAGZQATAGN6UeiAC%2BQA",
+      "value": "%7Bu%7DN4IgrgzgpgThIC4B2YA2qA05owMoBcBDfSREQpAeyRCwgEt8oBJAE0RXSwH18yBbAGaUATAHN6AFn4gAvkA",
       "domain": ".francetravail.fr",
       "path": "/",
-      "expires": 1757513814,
-      "size": 96,
+      "expires": 1758118662,
+      "size": 95,
       "httpOnly": false,
       "secure": true,
       "session": false,
@@ -155,10 +159,10 @@
     },
     {
       "name": "_pcid",
-      "value": "%7B%22browserId%22%3A%22lzpnf129rchtgqy3%22%2C%22_t%22%3A%22mfe2cieh%22%7D",
+      "value": "%7B%22browserId%22%3A%22lzznj0sd5z7sq8yt%22%2C%22_t%22%3A%22mfo2gi4l%22%7D",
       "domain": ".francetravail.fr",
       "path": "/",
-      "expires": 1757513814,
+      "expires": 1758118662,
       "size": 79,
       "httpOnly": false,
       "secure": true,
@@ -170,10 +174,10 @@
     },
     {
       "name": "TCPID",
-      "value": "124801416544838080042",
+      "value": "124801417421679401253",
       "domain": ".francetravail.fr",
       "path": "/",
-      "expires": 1757341014,
+      "expires": 1757945862,
       "size": 26,
       "httpOnly": false,
       "secure": true,
@@ -188,7 +192,7 @@
       "value": "%22exempt%22",
       "domain": ".francetravail.fr",
       "path": "/",
-      "expires": 1757513814,
+      "expires": 1758118662,
       "size": 22,
       "httpOnly": false,
       "secure": true,
@@ -204,8 +208,8 @@
     "content-encoding": "gzip",
     "content-security-policy": "script-src 'self' 'unsafe-inline' 'unsafe-eval' blob: maps.pole-emploi.fr cdn.trustcommander.net cdn.tagcommander.com tag.aticdn.net guidances-applicatives.pole-emploi.fr https://*.mopinion.com/ composants-pe-communs.pole-emploi.fr;",
     "content-type": "text/html; charset=utf-8",
-    "date": "Sun, 11 Aug 2024 14:16:54 GMT",
-    "etag": "W/\"1afda-p5rHX0k3xfatF5dBdWm39872jEc\"",
+    "date": "Sun, 18 Aug 2024 14:17:42 GMT",
+    "etag": "W/\"1dee9-NAsk9QiQ17Bfpb1ZCNkNoeMpV5A\"",
     "referrer-policy": "strict-origin",
     "strict-transport-security": "max-age=31536000; includeSubDomains",
     "transfer-encoding": "chunked",
@@ -478,7 +482,7 @@
     },
     {
       "hostname": "tag.aticdn.net",
-      "ip": "18.160.18.104",
+      "ip": "13.33.21.97",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -532,7 +536,7 @@
     },
     {
       "hostname": "hd.pe.fr",
-      "ip": "18.160.18.49",
+      "ip": "18.164.174.93",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -586,7 +590,7 @@
     },
     {
       "hostname": "privacy.trustcommander.net",
-      "ip": "13.37.53.239",
+      "ip": "13.39.179.137",
       "geoip": {
         "city": {
           "geoname_id": 2988507,
@@ -683,8 +687,14 @@
     },
     {
       "hostname": "fonts.gstatic.com",
-      "ip": "142.250.31.94",
+      "ip": "142.251.40.35",
       "geoip": {
+        "city": {
+          "geoname_id": 5116931,
+          "names": {
+            "en": "Farmingdale"
+          }
+        },
         "continent": {
           "code": "NA",
           "geoname_id": 6255149,
@@ -715,9 +725,13 @@
         },
         "location": {
           "accuracy_radius": 1000,
-          "latitude": 37.751,
-          "longitude": -97.822,
-          "time_zone": "America/Chicago"
+          "latitude": 40.7306,
+          "longitude": -73.4313,
+          "metro_code": 501,
+          "time_zone": "America/New_York"
+        },
+        "postal": {
+          "code": "11735"
         },
         "registered_country": {
           "geoname_id": 6252001,
@@ -732,7 +746,23 @@
             "ru": "США",
             "zh-CN": "美国"
           }
-        }
+        },
+        "subdivisions": [
+          {
+            "geoname_id": 5128638,
+            "iso_code": "NY",
+            "names": {
+              "de": "New York",
+              "en": "New York",
+              "es": "Nueva York",
+              "fr": "New York",
+              "ja": "ニューヨーク州",
+              "pt-BR": "Nova Iorque",
+              "ru": "Нью-Йорк",
+              "zh-CN": "纽约州"
+            }
+          }
+        ]
       }
     }
   ]
