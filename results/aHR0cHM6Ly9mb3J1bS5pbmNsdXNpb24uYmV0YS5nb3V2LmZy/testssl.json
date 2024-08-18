@@ -269,7 +269,7 @@
               "ip"           : "forum.inclusion.beta.gouv.fr/185.31.40.19",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "047DBA982B8F7C42D69210A0F56AF54B4D04"
+              "finding"      : "031C14FC26CD90462F7B325CAFB70A828C67"
           }
 ,         {
               "id"           : "cert_serialNumberLen",
@@ -283,21 +283,21 @@
               "ip"           : "forum.inclusion.beta.gouv.fr/185.31.40.19",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "7D13B926D7CB6AB6779D91D7B2F3FF541D1EF94A"
+              "finding"      : "99645A37294E72CA27049B8B2C136BD1A90B8C5D"
           }
 ,         {
               "id"           : "cert_fingerprintSHA256",
               "ip"           : "forum.inclusion.beta.gouv.fr/185.31.40.19",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "9EE3ADE8B5CA65D06744F8CC29E55AA5285D08FF3910D6746A97B4903E278A8E"
+              "finding"      : "3E05FB70B22CC4A9D3B47645259AE034069BD5CBB1658759057C18EFA8EADA71"
           }
 ,         {
               "id"           : "cert",
               "ip"           : "forum.inclusion.beta.gouv.fr/185.31.40.19",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "-----BEGIN CERTIFICATE-----\nMIIFBzCCA++gAwIBAgISBH26mCuPfELWkhCg9Wr1S00EMA0GCSqGSIb3DQEBCwUAMDMxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQwwCgYDVQQDEwNSMTAwHhcNMjQwNjEzMDY0MTU3WhcNMjQwOTExMDY0MTU2WjAnMSUwIwYDVQQDExxmb3J1bS5pbmNsdXNpb24uYmV0YS5nb3V2LmZyMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA2spKnxhFGyaJnh6PxhZ5lxDuLP3FUuE/5R/LuDFhn+QHiMZ30ESJwOlw0NduQFJRz45lgwMK5Z9n8vcDNYaGfeAO/N8RoPtU5a7307JLFjfanMX6kv70Y521KisBmgX1sX3xPeXXD5SfZXAgZyzVeHVNF7hx27DlNG6evuZhwzvNcfdZnABjQPu9kSx/fR2E+CIzBZMxVdHnMhkdda4r4mRNCo0qZArG1W4WnOwi096Y37A9K1flqPv77Twr+jFRvHTfux1iGBQsfCLXysrFG61CPx9mc/m61X545aycm0ArvNqM0aFymKx39vWEO7SAMjpSKfcscih4wVGHbUcIYQIDAQABo4ICHzCCAhswDgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBTkTMgnyV2Qh8No73agOKjHI5iyYDAfBgNVHSMEGDAWgBS7vMNHpeS8qcbDpHIMEI2iNeHI6DBXBggrBgEFBQcBAQRLMEkwIgYIKwYBBQUHMAGGFmh0dHA6Ly9yMTAuby5sZW5jci5vcmcwIwYIKwYBBQUHMAKGF2h0dHA6Ly9yMTAuaS5sZW5jci5vcmcvMCcGA1UdEQQgMB6CHGZvcnVtLmluY2x1c2lvbi5iZXRhLmdvdXYuZnIwEwYDVR0gBAwwCjAIBgZngQwBAgEwggEDBgorBgEEAdZ5AgQCBIH0BIHxAO8AdgBIsONr2qZHNA/lagL6nTDrHFIBy1bdLIHZu7+rOdiEcwAAAZAQi9W8AAAEAwBHMEUCIQDKuTnUiMByLv6QlJXe+SZ6GdfJOVuCBbWQPyvwtkdsQwIgEpaQN43ejM74506/mYsyS908FI1J9+l5zD2jZO19f50AdQDuzdBk1dsazsVct520zROiModGfLzs3sNRSFlGcR+1mwAAAZAQi9XDAAAEAwBGMEQCIFX3cWsz0yLKd66foUB1rGdKMln4T3WAIyYKhHNa3VG2AiAX2huF1qrvMWbyFXTV/fl8Fxncl1teBfGjrF2CnF/t0jANBgkqhkiG9w0BAQsFAAOCAQEAXIbgpGKlMKDgLTIONoh/8DmnYmrllIbHjAkWpx3LAU7NJRwGSo0B5ZTAKuzhYUVC+ghzgx52EA0PJUWrHsabluZTVp2GFG6RJmSNgWbn+BhP1hjn0QqvdbZ70lomuvvq/hR5qRoZicjkqvtEqOEXd2KrxQ70yO7UGHBLhD1VIN9pYhCKRP6Ka7aolnD6aYs7sWBEm9xKlUICEqxUz82T3TOfZ4M3SXy+3wS7sS2Lz1bCGsLMAUT+21sVIESVWgY8O9edCAGX1XDJfkDaelY8KCNCaN6geKDKUopwlsqcwDCY2JOB0LBcs4Kaq6bIMacbI71hrn0wm6++EvT1t1vL2A==\n-----END CERTIFICATE-----"
+              "finding"      : "-----BEGIN CERTIFICATE-----\nMIIFCDCCA/CgAwIBAgISAxwU/CbNkEYvezJcr7cKgoxnMA0GCSqGSIb3DQEBCwUAMDMxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQwwCgYDVQQDEwNSMTAwHhcNMjQwODEyMDY0ODEwWhcNMjQxMTEwMDY0ODA5WjAnMSUwIwYDVQQDExxmb3J1bS5pbmNsdXNpb24uYmV0YS5nb3V2LmZyMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA2spKnxhFGyaJnh6PxhZ5lxDuLP3FUuE/5R/LuDFhn+QHiMZ30ESJwOlw0NduQFJRz45lgwMK5Z9n8vcDNYaGfeAO/N8RoPtU5a7307JLFjfanMX6kv70Y521KisBmgX1sX3xPeXXD5SfZXAgZyzVeHVNF7hx27DlNG6evuZhwzvNcfdZnABjQPu9kSx/fR2E+CIzBZMxVdHnMhkdda4r4mRNCo0qZArG1W4WnOwi096Y37A9K1flqPv77Twr+jFRvHTfux1iGBQsfCLXysrFG61CPx9mc/m61X545aycm0ArvNqM0aFymKx39vWEO7SAMjpSKfcscih4wVGHbUcIYQIDAQABo4ICIDCCAhwwDgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBTkTMgnyV2Qh8No73agOKjHI5iyYDAfBgNVHSMEGDAWgBS7vMNHpeS8qcbDpHIMEI2iNeHI6DBXBggrBgEFBQcBAQRLMEkwIgYIKwYBBQUHMAGGFmh0dHA6Ly9yMTAuby5sZW5jci5vcmcwIwYIKwYBBQUHMAKGF2h0dHA6Ly9yMTAuaS5sZW5jci5vcmcvMCcGA1UdEQQgMB6CHGZvcnVtLmluY2x1c2lvbi5iZXRhLmdvdXYuZnIwEwYDVR0gBAwwCjAIBgZngQwBAgEwggEEBgorBgEEAdZ5AgQCBIH1BIHyAPAAdgA/F0tP1yJHWJQdZRyEvg0S7ZA3fx+FauvBvyiF7PhkbgAAAZFFjbP7AAAEAwBHMEUCIQDj1DdmpHPHQixHeX4aiy2nNxxpyaMhQKmroNTIok10dwIgfsjCIhs8//2cZpmCq0tZiY/MnRgaH2V5w1YOUGMcO0kAdgBIsONr2qZHNA/lagL6nTDrHFIBy1bdLIHZu7+rOdiEcwAAAZFFjbP1AAAEAwBHMEUCIQCBMHc2hvO8o514uYUm6gk4FkQdxb5SaXUNL4VfSE4OmQIgN4muwa/S9EIAH62dhjUnrN5FU6mASZ7+bnek0jEIUGYwDQYJKoZIhvcNAQELBQADggEBAJ966LNFby8Qc0p5XJ0DKLbufDMi3ENaA6xX0p5n0nHcmbxA3jzEpUlL0OJvrgc4FNEC2hC3SuDkKjH/4q4LlLz3n8szUwZGh7Zr1pL38RbK5xf8909XVUrF23SYUjmaC2Sod8frB5mEE/b1AYF7ywfKSIOQC2A/EVkx+Mv4BDoAO1XLypRHybrpzT3tWioebK0DCFOzJn9UoifMxObM+V1l2FA7qkEpERAWF5D691SOo1h57kYOR4bArb0FSdnw/z0upqU7aFJ/PKc6VVAJzrvpJ0rxZHJbw3uVXD+bBPj2//ZNvS9ZbkF2WgTxfaKFt1MFWTj9lcPA2aM9u5MQ4GY=\n-----END CERTIFICATE-----"
           }
 ,         {
               "id"           : "cert_commonName",
@@ -346,21 +346,21 @@
               "ip"           : "forum.inclusion.beta.gouv.fr/185.31.40.19",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "31 >= 30 days"
+              "finding"      : "84 >= 30 days"
           }
 ,         {
               "id"           : "cert_notBefore",
               "ip"           : "forum.inclusion.beta.gouv.fr/185.31.40.19",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "2024-06-13 06:41"
+              "finding"      : "2024-08-12 06:48"
           }
 ,         {
               "id"           : "cert_notAfter",
               "ip"           : "forum.inclusion.beta.gouv.fr/185.31.40.19",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "2024-09-11 06:41"
+              "finding"      : "2024-11-10 06:48"
           }
 ,         {
               "id"           : "cert_extlifeSpan",
@@ -507,7 +507,7 @@
               "ip"           : "forum.inclusion.beta.gouv.fr/185.31.40.19",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1723348254"
+              "finding"      : "1723953094"
           }
 ,         {
               "id"           : "HSTS",
@@ -680,7 +680,7 @@
               "severity"     : "INFO",
               "cve"          : "CVE-2016-0800 CVE-2016-0703",
               "cwe"          : "CWE-310",
-              "finding"      : "Make sure you don't use this certificate elsewhere with SSLv2 enabled services, see https://search.censys.io/search?resource=hosts&virtual_hosts=INCLUDE&q=9EE3ADE8B5CA65D06744F8CC29E55AA5285D08FF3910D6746A97B4903E278A8E"
+              "finding"      : "Make sure you don't use this certificate elsewhere with SSLv2 enabled services, see https://search.censys.io/search?resource=hosts&virtual_hosts=INCLUDE&q=3E05FB70B22CC4A9D3B47645259AE034069BD5CBB1658759057C18EFA8EADA71"
           }
 ,         {
               "id"           : "LOGJAM",
