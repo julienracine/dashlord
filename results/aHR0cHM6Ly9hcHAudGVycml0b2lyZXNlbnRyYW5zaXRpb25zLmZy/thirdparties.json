@@ -2,7 +2,7 @@
   "trackers": [
     {
       "type": "unknown",
-      "url": "https://stonly.com/js/widget/v2/version?v=1723383408751"
+      "url": "https://stonly.com/js/widget/v2/version?v=1723988065543"
     },
     {
       "type": "crisp",
@@ -13,32 +13,8 @@
       }
     },
     {
-      "type": "crisp",
-      "url": "https://client.crisp.chat/static/javascripts/client.js?76ab9f1",
-      "details": {
-        "id": "crisp",
-        "message": "Ensure your TOS notify the CRISP usage"
-      }
-    },
-    {
-      "type": "crisp",
-      "url": "https://client.crisp.chat/static/stylesheets/client_legacy.css?76ab9f1",
-      "details": {
-        "id": "crisp",
-        "message": "Ensure your TOS notify the CRISP usage"
-      }
-    },
-    {
-      "type": "crisp",
-      "url": "https://client.crisp.chat/settings/website/582ff50a-5ac4-4f38-a8bc-62f51beeef89/prelude/?callback=window.%24__CRISP_INSTANCE.__spool.website_prelude_handler&2024-7-11-13-36",
-      "details": {
-        "id": "crisp",
-        "message": "Ensure your TOS notify the CRISP usage"
-      }
-    },
-    {
       "type": "unknown",
-      "url": "https://stonly.com/js/widget/v2/stonly-widget.js?v=9ecab877"
+      "url": "https://stonly.com/js/widget/v2/stonly-widget.js?v=58ec3f2a"
     },
     {
       "type": "unknown",
@@ -62,31 +38,15 @@
     },
     {
       "type": "unknown",
-      "url": "https://api.stonly.com/api/v2/widget/integration?widgetId=1b1b2533-383c-11ef-a9d4-06cb0cb2a85e&stonlyAnonymousId=6b4cb765-e0bf-4bc8-b53a-34c3c1610070&url=https%3A%2F%2Fapp.territoiresentransitions.fr%2F"
+      "url": "https://api.stonly.com/api/v2/widget/integration?widgetId=1b1b2533-383c-11ef-a9d4-06cb0cb2a85e&stonlyAnonymousId=85f2d9a5-6a67-4ebf-b7cc-897ea1a0d58a&url=https%3A%2F%2Fapp.territoiresentransitions.fr%2F"
     },
     {
       "type": "unknown",
-      "url": "https://api.stonly.com/api/v2/widget/integration?widgetId=1b1b2533-383c-11ef-a9d4-06cb0cb2a85e&stonlyAnonymousId=6b4cb765-e0bf-4bc8-b53a-34c3c1610070&url=https%3A%2F%2Fapp.territoiresentransitions.fr%2F"
+      "url": "https://api.stonly.com/api/v2/widget/integration?widgetId=1b1b2533-383c-11ef-a9d4-06cb0cb2a85e&stonlyAnonymousId=85f2d9a5-6a67-4ebf-b7cc-897ea1a0d58a&url=https%3A%2F%2Fapp.territoiresentransitions.fr%2F"
     },
     {
       "type": "unknown",
       "url": "https://api.stonly.com/api/v1/stat"
-    },
-    {
-      "type": "crisp",
-      "url": "https://client.crisp.chat/settings/website/582ff50a-5ac4-4f38-a8bc-62f51beeef89/?callback=window.%24__CRISP_INSTANCE.__spool.website_settings_handler&1723148183601",
-      "details": {
-        "id": "crisp",
-        "message": "Ensure your TOS notify the CRISP usage"
-      }
-    },
-    {
-      "type": "crisp",
-      "url": "https://client.crisp.chat/static/javascripts/locales/fr.js?76ab9f1",
-      "details": {
-        "id": "crisp",
-        "message": "Ensure your TOS notify the CRISP usage"
-      }
     },
     {
       "type": "unknown",
@@ -98,14 +58,14 @@
     "alt-svc": "h3=\":443\"; ma=86400",
     "cache-control": "public, max-age=0",
     "cf-cache-status": "DYNAMIC",
-    "cf-ray": "8b189ddf9be1f97b-SJC",
+    "cf-ray": "8b5247ff7cc19e5e-SJC",
     "content-encoding": "br",
     "content-type": "text/html; charset=UTF-8",
-    "date": "Sun, 11 Aug 2024 13:36:48 GMT",
-    "etag": "W/\"aff-1910dc257f0\"",
-    "last-modified": "Thu, 01 Aug 2024 11:45:26 GMT",
+    "date": "Sun, 18 Aug 2024 13:34:25 GMT",
+    "etag": "W/\"aff-19151998020\"",
+    "last-modified": "Wed, 14 Aug 2024 15:55:00 GMT",
     "server": "cloudflare",
-    "x-envoy-upstream-service-time": "79",
+    "x-envoy-upstream-service-time": "82",
     "x-koyeb-backend": "par1",
     "x-koyeb-glb": "par1",
     "x-powered-by": "Express"
@@ -133,7 +93,7 @@
     },
     {
       "hostname": "stonly.com",
-      "ip": "18.173.121.121",
+      "ip": "18.173.121.57",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -187,7 +147,7 @@
     },
     {
       "hostname": "client.crisp.chat",
-      "ip": "104.18.28.104",
+      "ip": "104.18.29.104",
       "geoip": {
         "registered_country": {
           "geoname_id": 6252001,
@@ -207,7 +167,7 @@
     },
     {
       "hostname": "s.stonly.com",
-      "ip": "65.8.161.10",
+      "ip": "65.8.161.73",
       "geoip": {
         "continent": {
           "code": "NA",
