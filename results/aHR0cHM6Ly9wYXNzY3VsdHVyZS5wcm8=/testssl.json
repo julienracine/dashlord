@@ -346,7 +346,7 @@
               "ip"           : "passculture.pro/34.107.224.170",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "190 >= 60 days"
+              "finding"      : "183 >= 60 days"
           }
 ,         {
               "id"           : "cert_notBefore",
@@ -507,7 +507,7 @@
               "ip"           : "passculture.pro/34.107.224.170",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1723358160"
+              "finding"      : "1723962694"
           }
 ,         {
               "id"           : "HSTS_time",
@@ -563,14 +563,14 @@
               "ip"           : "passculture.pro/34.107.224.170",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "style-src 'self' https://app.getbeamer.com 'unsafe-inline'; img-src 'self' data: https://static.getbeamer.com https://storage.googleapis.com https://app.getbeamer.com https://www.googletagmanager.com; object-src 'none'; frame-src https://push.getbeamer.com https://app.getbeamer.com https://www.google.com https://data-analytics.passculture.team; script-src-elem 'self' 'nonce-recaptcha' https://www.gstatic.com https://static.getbeamer.com https://static.hotjar.com https://app.getbeamer.com https://script.hotjar.com https://www.googletagmanager.com https://firebaseinstallations.googleapis.com https://firebaseremoteconfig.googleapis.com https://api-adresse.data.gouv.fr https://vc.hotjar.io; script-src 'self'; connect-src 'self' https://*.algolianet.com https://www.google-analytics.com wss://ws.hotjar.com https://content.hotjar.io https://surveystats.hotjar.io https://api-adresse.data.gouv.fr https://storage.googleapis.com https://backend.getbeamer.com https://firebaseremoteconfig.googleapis.com https://firebase.googleapis.com https://firebaseinstallations.googleapis.com https://sentry.passculture.team https://backend.integration.passculture.pro https://backend.testing.passculture.team https://backend.staging.passculture.team https://backend.passculture.pro https://region1.google-analytics.com https://*.algolia.net https://insights.algolia.io https://vc.hotjar.io https://metrics.hotjar.io; report-uri https://sentry.passculture.team/api/2/security/?sentry_key=50f5694849704813b4154c5868b73365;"
+              "finding"      : "style-src 'self' https://app.getbeamer.com 'unsafe-inline'; img-src 'self' blob: data: https://*.getbeamer.com https://storage.googleapis.com https://www.googletagmanager.com; object-src 'none'; frame-src https://*.getbeamer.com https://www.google.com https://data-analytics.passculture.team; script-src 'self' 'nonce-recaptcha' https://www.gstatic.com https://*.getbeamer.com https://*.hotjar.com https://www.googletagmanager.com https://firebaseinstallations.googleapis.com https://firebaseremoteconfig.googleapis.com https://api-adresse.data.gouv.fr https://*.hotjar.io; connect-src 'self' https://*.algolianet.com https://www.googletagmanager.com https://www.google-analytics.com wss://ws.hotjar.com https://*.hotjar.com https://*.hotjar.io https://api-adresse.data.gouv.fr https://storage.googleapis.com https://backend.getbeamer.com https://firebaseremoteconfig.googleapis.com https://firebase.googleapis.com https://firebaseinstallations.googleapis.com https://sentry.passculture.team https://backend.integration.passculture.pro https://backend.testing.passculture.team https://backend.staging.passculture.team https://backend.passculture.pro https://region1.google-analytics.com https://*.algolia.net https://insights.algolia.io; base-uri; report-uri https://sentry.passculture.team/api/2/security/?sentry_key=50f5694849704813b4154c5868b73365;"
           }
 ,         {
               "id"           : "X-Served-By",
               "ip"           : "passculture.pro/34.107.224.170",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "cache-chi-kigq8000051-CHI"
+              "finding"      : "cache-iad-kiad7000166-IAD"
           }
 ,         {
               "id"           : "Cache-Control",
@@ -1084,6 +1084,6 @@
               "ip"           : "passculture.pro/34.107.224.170",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "38"
+              "finding"      : "39"
           }
 ]

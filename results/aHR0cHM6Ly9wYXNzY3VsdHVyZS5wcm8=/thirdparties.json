@@ -2,7 +2,7 @@
   "trackers": [
     {
       "type": "unknown",
-      "url": "https://sentry.passculture.team/api/2/envelope/?sentry_key=50f5694849704813b4154c5868b73365&sentry_version=7&sentry_client=sentry.javascript.browser%2F8.19.0"
+      "url": "https://sentry.passculture.team/api/2/envelope/?sentry_key=50f5694849704813b4154c5868b73365&sentry_version=7&sentry_client=sentry.javascript.browser%2F8.24.0"
     },
     {
       "type": "google",
@@ -14,7 +14,7 @@
     },
     {
       "type": "google",
-      "url": "https://www.gstatic.com/recaptcha/releases/_ZpyzC9NQw3gYt1GHTrnprhx/recaptcha__en.js",
+      "url": "https://www.gstatic.com/recaptcha/releases/hfUfsXWZFeg83qqxrK27GB8P/recaptcha__en.js",
       "details": {
         "id": "google",
         "message": "Use hosted Matomo instance"
@@ -22,7 +22,7 @@
     },
     {
       "type": "google",
-      "url": "https://www.google.com/recaptcha/api2/anchor?ar=1&k=6LdQAK0ZAAAAABAW9T4lfAtxrJp9DtnPYIZ7Qd7p&co=aHR0cHM6Ly9wYXNzY3VsdHVyZS5wcm86NDQz&hl=en&v=_ZpyzC9NQw3gYt1GHTrnprhx&size=invisible&cb=hmbv1xalx9od",
+      "url": "https://www.google.com/recaptcha/api2/anchor?ar=1&k=6LdQAK0ZAAAAABAW9T4lfAtxrJp9DtnPYIZ7Qd7p&co=aHR0cHM6Ly9wYXNzY3VsdHVyZS5wcm86NDQz&hl=en&v=hfUfsXWZFeg83qqxrK27GB8P&size=invisible&cb=gh5jue3e6rmc",
       "details": {
         "id": "google",
         "message": "Use hosted Matomo instance"
@@ -30,7 +30,7 @@
     },
     {
       "type": "google",
-      "url": "https://www.gstatic.com/recaptcha/releases/_ZpyzC9NQw3gYt1GHTrnprhx/styles__ltr.css",
+      "url": "https://www.gstatic.com/recaptcha/releases/hfUfsXWZFeg83qqxrK27GB8P/styles__ltr.css",
       "details": {
         "id": "google",
         "message": "Use hosted Matomo instance"
@@ -38,7 +38,7 @@
     },
     {
       "type": "google",
-      "url": "https://www.gstatic.com/recaptcha/releases/_ZpyzC9NQw3gYt1GHTrnprhx/recaptcha__en.js",
+      "url": "https://www.gstatic.com/recaptcha/releases/hfUfsXWZFeg83qqxrK27GB8P/recaptcha__en.js",
       "details": {
         "id": "google",
         "message": "Use hosted Matomo instance"
@@ -46,7 +46,7 @@
     },
     {
       "type": "google",
-      "url": "https://www.google.com/js/bg/tE6BD2dmJ4MsSW_XgLndBgqWpAgx-dXQ3y0tInp2GOI.js",
+      "url": "https://www.google.com/js/bg/9-EOwXn41UiUHbG6vS6aFgQ_dyloxc5d6b44OXoGoHA.js",
       "details": {
         "id": "google",
         "message": "Use hosted Matomo instance"
@@ -78,7 +78,7 @@
     },
     {
       "type": "google",
-      "url": "https://www.google.com/recaptcha/api2/webworker.js?hl=en&v=_ZpyzC9NQw3gYt1GHTrnprhx",
+      "url": "https://www.google.com/recaptcha/api2/webworker.js?hl=en&v=hfUfsXWZFeg83qqxrK27GB8P",
       "details": {
         "id": "google",
         "message": "Use hosted Matomo instance"
@@ -107,19 +107,19 @@
     "alt-svc": "h3=\":443\";ma=86400,h3-29=\":443\";ma=86400,h3-27=\":443\";ma=86400\nh3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
     "cache-control": "max-age=3600",
     "content-encoding": "br",
-    "content-length": "532",
-    "content-security-policy-report-only": "style-src 'self' https://app.getbeamer.com 'unsafe-inline'; img-src 'self' data: https://static.getbeamer.com https://storage.googleapis.com https://app.getbeamer.com https://www.googletagmanager.com; object-src 'none'; frame-src https://push.getbeamer.com https://app.getbeamer.com https://www.google.com https://data-analytics.passculture.team; script-src-elem 'self' 'nonce-recaptcha' https://www.gstatic.com https://static.getbeamer.com https://static.hotjar.com https://app.getbeamer.com https://script.hotjar.com https://www.googletagmanager.com https://firebaseinstallations.googleapis.com https://firebaseremoteconfig.googleapis.com https://api-adresse.data.gouv.fr https://vc.hotjar.io; script-src 'self'; connect-src 'self' https://*.algolianet.com https://www.google-analytics.com wss://ws.hotjar.com https://content.hotjar.io https://surveystats.hotjar.io https://api-adresse.data.gouv.fr https://storage.googleapis.com https://backend.getbeamer.com https://firebaseremoteconfig.googleapis.com https://firebase.googleapis.com https://firebaseinstallations.googleapis.com https://sentry.passculture.team https://backend.integration.passculture.pro https://backend.testing.passculture.team https://backend.staging.passculture.team https://backend.passculture.pro https://region1.google-analytics.com https://*.algolia.net https://insights.algolia.io https://vc.hotjar.io https://metrics.hotjar.io; report-uri https://sentry.passculture.team/api/2/security/?sentry_key=50f5694849704813b4154c5868b73365;",
+    "content-length": "533",
+    "content-security-policy-report-only": "style-src 'self' https://app.getbeamer.com 'unsafe-inline'; img-src 'self' blob: data: https://*.getbeamer.com https://storage.googleapis.com https://www.googletagmanager.com; object-src 'none'; frame-src https://*.getbeamer.com https://www.google.com https://data-analytics.passculture.team; script-src 'self' 'nonce-recaptcha' https://www.gstatic.com https://*.getbeamer.com https://*.hotjar.com https://www.googletagmanager.com https://firebaseinstallations.googleapis.com https://firebaseremoteconfig.googleapis.com https://api-adresse.data.gouv.fr https://*.hotjar.io; connect-src 'self' https://*.algolianet.com https://www.googletagmanager.com https://www.google-analytics.com wss://ws.hotjar.com https://*.hotjar.com https://*.hotjar.io https://api-adresse.data.gouv.fr https://storage.googleapis.com https://backend.getbeamer.com https://firebaseremoteconfig.googleapis.com https://firebase.googleapis.com https://firebaseinstallations.googleapis.com https://sentry.passculture.team https://backend.integration.passculture.pro https://backend.testing.passculture.team https://backend.staging.passculture.team https://backend.passculture.pro https://region1.google-analytics.com https://*.algolia.net https://insights.algolia.io; base-uri; report-uri https://sentry.passculture.team/api/2/security/?sentry_key=50f5694849704813b4154c5868b73365;",
     "content-type": "text/html; charset=utf-8",
-    "date": "Sun, 11 Aug 2024 06:35:11 GMT",
-    "etag": "\"0c1cfdfbdfc019bb26648ba086151c75e96941f494c625d5fcdd177a5233cc96-br\"",
-    "last-modified": "Mon, 05 Aug 2024 14:59:39 GMT",
+    "date": "Sun, 18 Aug 2024 06:30:46 GMT",
+    "etag": "\"629a8dae2734e439602873fffcfeda6202455c7702ef90369066e269dbbff9d9-br\"",
+    "last-modified": "Wed, 14 Aug 2024 10:01:32 GMT",
     "strict-transport-security": "max-age=31556926; includeSubDomains; preload",
     "vary": "x-fh-requested-host, accept-encoding",
     "via": "1.1 google",
     "x-cache": "HIT",
-    "x-cache-hits": "2",
-    "x-served-by": "cache-chi-kigq8000023-CHI",
-    "x-timer": "S1723358112.538312,VS0,VE0"
+    "x-cache-hits": "1",
+    "x-served-by": "cache-iad-kcgs7200166-IAD",
+    "x-timer": "S1723962646.143918,VS0,VE1"
   },
   "endpoints": [
     {
@@ -296,8 +296,14 @@
     },
     {
       "hostname": "www.google.com",
-      "ip": "142.250.191.100",
+      "ip": "142.251.167.99",
       "geoip": {
+        "city": {
+          "geoname_id": 5116931,
+          "names": {
+            "en": "Farmingdale"
+          }
+        },
         "continent": {
           "code": "NA",
           "geoname_id": 6255149,
@@ -328,9 +334,13 @@
         },
         "location": {
           "accuracy_radius": 1000,
-          "latitude": 37.751,
-          "longitude": -97.822,
-          "time_zone": "America/Chicago"
+          "latitude": 40.7306,
+          "longitude": -73.4313,
+          "metro_code": 501,
+          "time_zone": "America/New_York"
+        },
+        "postal": {
+          "code": "11735"
         },
         "registered_country": {
           "geoname_id": 6252001,
@@ -345,13 +355,35 @@
             "ru": "США",
             "zh-CN": "美国"
           }
-        }
+        },
+        "subdivisions": [
+          {
+            "geoname_id": 5128638,
+            "iso_code": "NY",
+            "names": {
+              "de": "New York",
+              "en": "New York",
+              "es": "Nueva York",
+              "fr": "New York",
+              "ja": "ニューヨーク州",
+              "pt-BR": "Nova Iorque",
+              "ru": "Нью-Йорк",
+              "zh-CN": "纽约州"
+            }
+          }
+        ]
       }
     },
     {
       "hostname": "www.gstatic.com",
-      "ip": "142.250.191.131",
+      "ip": "142.251.111.94",
       "geoip": {
+        "city": {
+          "geoname_id": 5116931,
+          "names": {
+            "en": "Farmingdale"
+          }
+        },
         "continent": {
           "code": "NA",
           "geoname_id": 6255149,
@@ -382,9 +414,13 @@
         },
         "location": {
           "accuracy_radius": 1000,
-          "latitude": 37.751,
-          "longitude": -97.822,
-          "time_zone": "America/Chicago"
+          "latitude": 40.7306,
+          "longitude": -73.4313,
+          "metro_code": 501,
+          "time_zone": "America/New_York"
+        },
+        "postal": {
+          "code": "11735"
         },
         "registered_country": {
           "geoname_id": 6252001,
@@ -399,12 +435,28 @@
             "ru": "США",
             "zh-CN": "美国"
           }
-        }
+        },
+        "subdivisions": [
+          {
+            "geoname_id": 5128638,
+            "iso_code": "NY",
+            "names": {
+              "de": "New York",
+              "en": "New York",
+              "es": "Nueva York",
+              "fr": "New York",
+              "ja": "ニューヨーク州",
+              "pt-BR": "Nova Iorque",
+              "ru": "Нью-Йорк",
+              "zh-CN": "纽约州"
+            }
+          }
+        ]
       }
     },
     {
       "hostname": "fonts.gstatic.com",
-      "ip": "142.250.190.35",
+      "ip": "172.253.62.94",
       "geoip": {
         "continent": {
           "code": "NA",
