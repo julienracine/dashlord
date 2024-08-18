@@ -57,18 +57,6 @@
       }
     },
     {
-      "type": "unknown",
-      "url": "https://s3.amazonaws.com/appforest_uf/f1678207023328x554327879471268500/font-marianne-bold.css"
-    },
-    {
-      "type": "unknown",
-      "url": "https://s3.amazonaws.com/appforest_uf/f1678206894280x278115442214581500/font-marianne-med.css"
-    },
-    {
-      "type": "unknown",
-      "url": "https://s3.amazonaws.com/appforest_uf/f1678206971846x188133202385374360/font-marianne-reg.css"
-    },
-    {
       "type": "unpkg",
       "url": "https://unpkg.com/@lottiefiles/lottie-player@2.0.4/dist/lottie-player.js",
       "details": {
@@ -83,6 +71,18 @@
         "id": "unpkg",
         "message": "Host files locally"
       }
+    },
+    {
+      "type": "unknown",
+      "url": "https://s3.amazonaws.com/appforest_uf/f1678207023328x554327879471268500/font-marianne-bold.css"
+    },
+    {
+      "type": "unknown",
+      "url": "https://s3.amazonaws.com/appforest_uf/f1678206894280x278115442214581500/font-marianne-med.css"
+    },
+    {
+      "type": "unknown",
+      "url": "https://s3.amazonaws.com/appforest_uf/f1678206971846x188133202385374360/font-marianne-reg.css"
     },
     {
       "type": "unknown",
@@ -128,7 +128,7 @@
   "cookies": [
     {
       "name": "jafer-beta-gouv_u1main",
-      "value": "1723398583208x879520651128228700",
+      "value": "1724003748794x444543626834805300",
       "domain": ".jafer.beta.gouv.fr",
       "path": "/",
       "expires": -1,
@@ -142,10 +142,10 @@
     },
     {
       "name": "jafer-beta-gouv_live_u2main.sig",
-      "value": "dlDIpFIuSGnXbvAaPO8SapWZYzs",
+      "value": "mU7E7AcS_PedPJKPK260NaiUO4o",
       "domain": ".jafer.beta.gouv.fr",
       "path": "/",
-      "expires": 1723657783.295526,
+      "expires": 1724262948.895162,
       "size": 58,
       "httpOnly": true,
       "secure": true,
@@ -156,10 +156,10 @@
     },
     {
       "name": "jafer-beta-gouv_live_u2main",
-      "value": "bus|1723398583208x879520651128228700|1723398583221x926259417984946600",
+      "value": "bus|1724003748794x444543626834805300|1724003748809x409860972890863300",
       "domain": ".jafer.beta.gouv.fr",
       "path": "/",
-      "expires": 1723657783.295412,
+      "expires": 1724262948.895028,
       "size": 96,
       "httpOnly": true,
       "secure": true,
@@ -173,25 +173,25 @@
     "alt-svc": "h3=\":443\"; ma=86400",
     "cache-control": "no-store",
     "cf-cache-status": "DYNAMIC",
-    "cf-ray": "8b1a1059a834d029-SJC",
+    "cf-ray": "8b53c6e6ae80faf4-SJC",
     "content-encoding": "br",
     "content-security-policy": "frame-ancestors 'none';",
     "content-type": "text/html",
-    "date": "Sun, 11 Aug 2024 17:49:43 GMT",
+    "date": "Sun, 18 Aug 2024 17:55:49 GMT",
     "referrer-policy": "origin",
     "server": "cloudflare",
-    "set-cookie": "jafer-beta-gouv_u1main=1723398583208x879520651128228700; path=/; domain=jafer.beta.gouv.fr; secure",
+    "set-cookie": "jafer-beta-gouv_u1main=1724003748794x444543626834805300; path=/; domain=jafer.beta.gouv.fr; secure",
     "vary": "Accept-Encoding",
     "x-bubble-capacity-limit": "0 ms slower",
-    "x-bubble-capacity-used": "0.146 unit-seconds used",
-    "x-bubble-perf": "{\"total\":92.2,\"percents\":{\"top\":{\"bubble_cpu\":32.6,\"block\":66.1,\"capacity_rl\":0,\"other_pause\":0,\"pre_fiber\":1},\"sub\":{\"pp_userdb\":2.2,\"pp_wait_userdb\":0,\"http_request\":0,\"serverjson\":49.8,\"appserver_cache_misses_time\":0,\"redis\":73.2,\"fiber_queue\":2.6,\"capacity_wait\":2.9}},\"counts\":{\"pp_userdb\":1,\"http_request\":0,\"derived_build\":0,\"derived_cache_attempts\":9,\"derived_cache_memory_misses\":9,\"serverjson\":32,\"appserver_cache_attempts\":1,\"appserver_mem_cache_hits\":0,\"appserver_cache_hits\":1,\"appserver_cache_misses\":0,\"redis\":72,\"fiber_queue\":60,\"blocks\":59},\"misc\":{\"userdb_results\":0,\"userdb_data\":0,\"spent_time\":9502536}}",
+    "x-bubble-capacity-used": "0.16 unit-seconds used",
+    "x-bubble-perf": "{\"total\":89.2,\"percents\":{\"top\":{\"bubble_cpu\":40.6,\"block\":58.5,\"capacity_rl\":0,\"other_pause\":0,\"pre_fiber\":1.3},\"sub\":{\"pp_userdb\":2.2,\"pp_wait_userdb\":0,\"http_request\":0,\"serverjson\":37,\"appserver_cache_misses_time\":0,\"redis\":64,\"fiber_queue\":4.3,\"capacity_wait\":4.3}},\"counts\":{\"pp_userdb\":1,\"http_request\":0,\"derived_build\":0,\"derived_cache_attempts\":9,\"derived_cache_memory_misses\":9,\"serverjson\":32,\"appserver_cache_attempts\":1,\"appserver_mem_cache_hits\":0,\"appserver_cache_hits\":1,\"appserver_cache_misses\":0,\"redis\":74,\"fiber_queue\":64,\"blocks\":63},\"misc\":{\"userdb_results\":0,\"userdb_data\":0,\"spent_time\":10424391}}",
     "x-frame-options": "DENY",
     "x-powered-by": "Express"
   },
   "endpoints": [
     {
       "hostname": "jafer.beta.gouv.fr",
-      "ip": "104.19.240.93",
+      "ip": "104.19.241.93",
       "geoip": {
         "registered_country": {
           "geoname_id": 6252001,
@@ -251,7 +251,7 @@
     },
     {
       "hostname": "d2tf8y1b8kxrzw.cloudfront.net",
-      "ip": "65.8.165.196",
+      "ip": "13.33.62.129",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -305,7 +305,7 @@
     },
     {
       "hostname": "unpkg.com",
-      "ip": "104.17.246.203",
+      "ip": "104.17.248.203",
       "geoip": {
         "registered_country": {
           "geoname_id": 6252001,
@@ -325,7 +325,7 @@
     },
     {
       "hostname": "s3.amazonaws.com",
-      "ip": "54.231.169.144",
+      "ip": "52.216.170.237",
       "geoip": {
         "city": {
           "geoname_id": 4744870,
@@ -412,7 +412,7 @@
     },
     {
       "hostname": "plst237.s3.amazonaws.com",
-      "ip": "52.217.64.236",
+      "ip": "52.217.224.137",
       "geoip": {
         "city": {
           "geoname_id": 4744870,
