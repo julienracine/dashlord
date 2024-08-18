@@ -7,119 +7,15 @@
         "id": "crisp",
         "message": "Ensure your TOS notify the CRISP usage"
       }
-    },
-    {
-      "type": "crisp",
-      "url": "https://client.crisp.chat/static/javascripts/client.js?76ab9f1",
-      "details": {
-        "id": "crisp",
-        "message": "Ensure your TOS notify the CRISP usage"
-      }
-    },
-    {
-      "type": "crisp",
-      "url": "https://client.crisp.chat/static/stylesheets/client_legacy.css?76ab9f1",
-      "details": {
-        "id": "crisp",
-        "message": "Ensure your TOS notify the CRISP usage"
-      }
-    },
-    {
-      "type": "crisp",
-      "url": "https://client.crisp.chat/settings/website/071cca61-bd5f-4950-a5ed-c02238666a5c/prelude/?callback=window.%24__CRISP_INSTANCE.__spool.website_prelude_handler&2024-7-11-4-51",
-      "details": {
-        "id": "crisp",
-        "message": "Ensure your TOS notify the CRISP usage"
-      }
-    },
-    {
-      "type": "crisp",
-      "url": "https://client.crisp.chat/settings/website/071cca61-bd5f-4950-a5ed-c02238666a5c/?callback=window.%24__CRISP_INSTANCE.__spool.website_settings_handler&1722773888488",
-      "details": {
-        "id": "crisp",
-        "message": "Ensure your TOS notify the CRISP usage"
-      }
-    },
-    {
-      "type": "crisp",
-      "url": "https://client.crisp.chat/static/javascripts/locales/en.js?76ab9f1",
-      "details": {
-        "id": "crisp",
-        "message": "Ensure your TOS notify the CRISP usage"
-      }
-    },
-    {
-      "type": "crisp",
-      "url": "https://image.crisp.chat/process/thumbnail/?url=https%3A%2F%2Fstorage.crisp.chat%2Fusers%2Favatar%2Foperator%2F4ef7b181bcbb4800%2Fcapture-decran-2024-02-12-a-11_ug64el.png&width=60&height=60&1722773888488",
-      "details": {
-        "id": "crisp",
-        "message": "Ensure your TOS notify the CRISP usage"
-      }
-    },
-    {
-      "type": "crisp",
-      "url": "https://image.crisp.chat/process/thumbnail/?url=https%3A%2F%2Fstorage.crisp.chat%2Fusers%2Favatar%2Foperator%2Feceba75306c5d800%2Fscreenshot-2022-07-25-113300_c6eikk.png&width=60&height=60&1722773888488",
-      "details": {
-        "id": "crisp",
-        "message": "Ensure your TOS notify the CRISP usage"
-      }
-    },
-    {
-      "type": "crisp",
-      "url": "https://image.crisp.chat/process/thumbnail/?url=https%3A%2F%2Fstorage.crisp.chat%2Fusers%2Favatar%2Foperator%2Ff3f2cb1617fec000%2Fimg4579_evnydt.jpg&width=60&height=60&1722773888488",
-      "details": {
-        "id": "crisp",
-        "message": "Ensure your TOS notify the CRISP usage"
-      }
-    },
-    {
-      "type": "crisp",
-      "url": "https://image.crisp.chat/avatar/website/071cca61-bd5f-4950-a5ed-c02238666a5c/60/?1722773888488",
-      "details": {
-        "id": "crisp",
-        "message": "Ensure your TOS notify the CRISP usage"
-      }
-    },
-    {
-      "type": "crisp",
-      "url": "https://client.crisp.chat/static/fonts/noto_sans/full/noto_sans_bold.woff2?76ab9f1",
-      "details": {
-        "id": "crisp",
-        "message": "Ensure your TOS notify the CRISP usage"
-      }
-    },
-    {
-      "type": "crisp",
-      "url": "https://client.crisp.chat/static/fonts/noto_sans/full/noto_sans_regular.woff2?76ab9f1",
-      "details": {
-        "id": "crisp",
-        "message": "Ensure your TOS notify the CRISP usage"
-      }
-    },
-    {
-      "type": "crisp",
-      "url": "https://client.crisp.chat/static/fonts/noto_sans/full/noto_sans_bold.woff2?76ab9f1",
-      "details": {
-        "id": "crisp",
-        "message": "Ensure your TOS notify the CRISP usage"
-      }
-    },
-    {
-      "type": "crisp",
-      "url": "https://client.crisp.chat/static/fonts/noto_sans/full/noto_sans_regular.woff2?76ab9f1",
-      "details": {
-        "id": "crisp",
-        "message": "Ensure your TOS notify the CRISP usage"
-      }
     }
   ],
   "cookies": [
     {
       "name": "csrftoken",
-      "value": "P3qpe1qxPNuHsoP7wz66CQdAcLJeLrXr",
+      "value": "hHE87sO1Z9kOLWt8eydnw8mFUelz8aJC",
       "domain": "ma-cantine.agriculture.gouv.fr",
       "path": "/",
-      "expires": 1754801498.796906,
+      "expires": 1755405918.046958,
       "size": 41,
       "httpOnly": false,
       "secure": false,
@@ -134,13 +30,13 @@
     "connection": "keep-alive",
     "content-encoding": "gzip",
     "content-language": "fr",
-    "content-security-policy": "object-src 'self' cellar-c2.services.clever-cloud.com; media-src 'self' cellar-c2.services.clever-cloud.com; script-src 'self' stats.beta.gouv.fr 'unsafe-inline' client.crisp.chat; frame-src 'self' ma-cantine.crisp.help ma-cantine-metabase.cleverapps.io; font-src 'self' client.crisp.chat; style-src 'self' 'unsafe-inline' client.crisp.chat netdna.bootstrapcdn.com; connect-src 'self' stats.beta.gouv.fr ws: api-adresse.data.gouv.fr client.crisp.chat wss://client.relay.crisp.chat entreprise.data.gouv.fr plateforme.adresse.data.gouv.fr; default-src 'self'; img-src 'self' cellar-c2.services.clever-cloud.com voxusagers.numerique.gouv.fr 'unsafe-inline' stats.beta.gouv.fr www.w3.org data: image.crisp.chat jedonnemonavis.numerique.gouv.fr",
+    "content-security-policy": "connect-src 'self' stats.beta.gouv.fr ws: api-adresse.data.gouv.fr client.crisp.chat wss://client.relay.crisp.chat entreprise.data.gouv.fr plateforme.adresse.data.gouv.fr; object-src 'self' cellar-c2.services.clever-cloud.com; font-src 'self' client.crisp.chat; frame-src 'self' ma-cantine.crisp.help ma-cantine-metabase.cleverapps.io; img-src 'self' cellar-c2.services.clever-cloud.com voxusagers.numerique.gouv.fr 'unsafe-inline' stats.beta.gouv.fr www.w3.org data: image.crisp.chat jedonnemonavis.numerique.gouv.fr; style-src 'self' 'unsafe-inline' client.crisp.chat netdna.bootstrapcdn.com; script-src 'self' stats.beta.gouv.fr 'unsafe-inline' client.crisp.chat; default-src 'self'; media-src 'self' cellar-c2.services.clever-cloud.com",
     "content-type": "text/html; charset=utf-8",
     "cross-origin-opener-policy": "same-origin",
-    "date": "Sun, 11 Aug 2024 04:51:38 GMT",
+    "date": "Sun, 18 Aug 2024 04:45:18 GMT",
     "referrer-policy": "same-origin",
-    "set-cookie": "csrftoken=P3qpe1qxPNuHsoP7wz66CQdAcLJeLrXr; expires=Sun, 10 Aug 2025 04:51:38 GMT; Max-Age=31449600; Path=/; SameSite=Lax",
-    "sozu-id": "01J4ZWE6DWX09Q8AD9Q013BEP0",
+    "set-cookie": "csrftoken=hHE87sO1Z9kOLWt8eydnw8mFUelz8aJC; expires=Sun, 17 Aug 2025 04:45:18 GMT; Max-Age=31449600; Path=/; SameSite=Lax",
+    "sozu-id": "01J5HWVKPR9H2N9Q4RH9JD6Q47",
     "transfer-encoding": "chunked",
     "vary": "Cookie, Accept-Language",
     "x-content-type-options": "nosniff",
@@ -149,7 +45,7 @@
   "endpoints": [
     {
       "hostname": "ma-cantine.agriculture.gouv.fr",
-      "ip": "91.208.207.221",
+      "ip": "91.208.207.214",
       "geoip": {
         "continent": {
           "code": "EU",
@@ -205,26 +101,6 @@
     },
     {
       "hostname": "client.crisp.chat",
-      "ip": "104.18.29.104",
-      "geoip": {
-        "registered_country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
-          "names": {
-            "de": "USA",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
-          }
-        }
-      }
-    },
-    {
-      "hostname": "image.crisp.chat",
       "ip": "104.18.29.104",
       "geoip": {
         "registered_country": {
