@@ -20,10 +20,10 @@
   "cookies": [
     {
       "name": "bln_challengejs",
-      "value": "KptJhlBR5dyMo-QPR-Nosz4F-6k1ER6yNg-sj9ea3JLuzfBU1-nI1gcG6eDjfC8qQtMpI3broAl7b4On7HheYslY0MPe-b0nb5nt6WgORFTreisauwAY87qufLYt8sqqUSZGYc-9c96qsznBN78_xHJtX7vk3G1xwIJqSJEF0byvbgvbgOGOW8n6NP8gVHHbZGBw2vp6CL14831GYsTeCHNBeNoc1M9ohiVPjOLB8OAXbGwMp94G6U-PxBPKYCYC",
+      "value": "UoC1K7_pdBI3OFAoENKJQ50i5vh3RHogYcCYBPL-ggL4KzErWHZrqp5vC7RbO7LBuSh5drXeXOz4CkAV5AD6w9pAXLAdN8-tOKJFq007GT4cbDEpxs6kj9L-vH-9QTbaNhFebybf3p6vv3BKgsK3b-PiU4SNFfXXhfowLvgrteKGR-pLZRRCZ2i3xjEQ6EbvsPnHlPSjqEYSruNgs6y36CDYnnr9LAfdsvTKW02wyNMGlrvGIpeJgzXuwg85K-Ir",
       "domain": ".snu.gouv.fr",
       "path": "/",
-      "expires": 1723369875.290052,
+      "expires": 1723974470.638597,
       "size": 271,
       "httpOnly": false,
       "secure": false,
@@ -36,11 +36,11 @@
   "headers": {
     "content-encoding": "gzip",
     "content-type": "text/html",
-    "date": "Sun, 11 Aug 2024 09:36:15 GMT",
-    "etag": "W/\"66b4c4c9-625\"",
-    "last-modified": "Thu, 08 Aug 2024 13:14:49 GMT",
+    "date": "Sun, 18 Aug 2024 09:32:50 GMT",
+    "etag": "W/\"66ba01e3-625\"",
+    "last-modified": "Mon, 12 Aug 2024 12:36:51 GMT",
     "referrer-policy": ": no-referrer",
-    "sozu-id": "01J50CPPVBBBNBM8Y1E69FA444",
+    "sozu-id": "01J5JDA44XDRCJG3CBTR8BTQQD",
     "strict-transport-security": ": max-age=31536000; includeSubDomains; preload",
     "x-content-type-options": ": nosniff",
     "x-download-options": ": noopen",
@@ -50,7 +50,7 @@
   "endpoints": [
     {
       "hostname": "admin.snu.gouv.fr",
-      "ip": "185.179.148.149",
+      "ip": "185.231.167.165",
       "geoip": {
         "continent": {
           "code": "EU",
@@ -106,8 +106,14 @@
     },
     {
       "hostname": "fonts.googleapis.com",
-      "ip": "64.233.180.95",
+      "ip": "142.251.16.95",
       "geoip": {
+        "city": {
+          "geoname_id": 5116931,
+          "names": {
+            "en": "Farmingdale"
+          }
+        },
         "continent": {
           "code": "NA",
           "geoname_id": 6255149,
@@ -138,9 +144,13 @@
         },
         "location": {
           "accuracy_radius": 1000,
-          "latitude": 37.751,
-          "longitude": -97.822,
-          "time_zone": "America/Chicago"
+          "latitude": 40.7306,
+          "longitude": -73.4313,
+          "metro_code": 501,
+          "time_zone": "America/New_York"
+        },
+        "postal": {
+          "code": "11735"
         },
         "registered_country": {
           "geoname_id": 6252001,
@@ -155,7 +165,23 @@
             "ru": "США",
             "zh-CN": "美国"
           }
-        }
+        },
+        "subdivisions": [
+          {
+            "geoname_id": 5128638,
+            "iso_code": "NY",
+            "names": {
+              "de": "New York",
+              "en": "New York",
+              "es": "Nueva York",
+              "fr": "New York",
+              "ja": "ニューヨーク州",
+              "pt-BR": "Nova Iorque",
+              "ru": "Нью-Йорк",
+              "zh-CN": "纽约州"
+            }
+          }
+        ]
       }
     },
     {
