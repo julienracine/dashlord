@@ -21,16 +21,16 @@
 ###########################################################</span>
 
  Using &quot;OpenSSL 1.0.2-bad (1.0.2k-dev)&quot; [~183 ciphers]
- on fv-az1789-88:/home/testssl/bin/openssl.Linux.x86_64
+ on fv-az1109-164:/home/testssl/bin/openssl.Linux.x86_64
  (built: &quot;Sep  1 14:03:44 2022&quot;, platform: &quot;linux-x86_64&quot;)
 
 
 <span style="font-weight:bold;">Testing all IPv4 addresses (port 443): </span>172.67.4.138 104.22.16.136 104.22.17.136
 -----------------------------------------------------
-<span style="color:white;background-color:black;"> Start 2024-08-11 09:22:59                --&gt;&gt; 172.67.4.138:443 (www.snu.gouv.fr) &lt;&lt;--</span>
+<span style="color:white;background-color:black;"> Start 2024-08-18 09:18:39                --&gt;&gt; 172.67.4.138:443 (www.snu.gouv.fr) &lt;&lt;--</span>
 
- Further IP addresses:   104.22.16.136 104.22.17.136 2606:4700:10::6816:1088
-                         2606:4700:10::6816:1188 2606:4700:10::ac43:48a 
+ Further IP addresses:   104.22.17.136 104.22.16.136 2606:4700:10::6816:1088
+                         2606:4700:10::ac43:48a 2606:4700:10::6816:1188 
  rDNS (172.67.4.138):    --
  Service detected:       HTTP
 
@@ -102,7 +102,7 @@ Hexcode  Cipher Suite Name (OpenSSL)       KeyExch.   Encryption  Bits     Ciphe
                               &quot;compress_certificate/#27&quot;
 <span style="font-weight:bold;"> Session Ticket RFC 5077 hint </span>64800 seconds, session tickets keys seems to be rotated &lt; daily
 <span style="font-weight:bold;"> SSL Session ID support       </span>yes
-<span style="font-weight:bold;"> Session Resumption           </span>Tickets: yes, ID: yes
+<span style="font-weight:bold;"> Session Resumption           </span>Tickets: yes, ID: no
 <span style="font-weight:bold;"> TLS clock skew</span>               Random values, no fingerprinting possible 
 <span style="font-weight:bold;"> Certificate Compression      </span>0002/Brotli
 <span style="font-weight:bold;"> Client Authentication        </span>none
@@ -120,7 +120,7 @@ Hexcode  Cipher Suite Name (OpenSSL)       KeyExch.   Encryption  Bits     Ciphe
   <span style="font-weight:bold;"> Trust (hostname)             </span><span style="color:#008817;">Ok via SAN and CN</span> (SNI mandatory)
   <span style="font-weight:bold;"> Chain of trust</span>               <span style="color:#008817;">Ok   </span><span style="color:#cd00cd;"></span>
   <span style="font-weight:bold;"> EV cert</span> (experimental)       no 
-  <span style="font-weight:bold;"> Certificate Validity (UTC)   </span><span style="color:#008817;">68 &gt;= 60 days</span> (2024-07-20 18:54 --&gt; 2024-10-18 18:54)
+  <span style="font-weight:bold;"> Certificate Validity (UTC)   </span><span style="color:#008817;">61 &gt;= 60 days</span> (2024-07-20 18:54 --&gt; 2024-10-18 18:54)
   <span style="font-weight:bold;"> ETS/&quot;eTLS&quot;</span>, visibility info  not present
   <span style="font-weight:bold;"> Certificate Revocation List  </span>http://c.pki.goog/wr1/_WMQVCo8Z40.crl
   <span style="font-weight:bold;"> OCSP URI                     </span>http://o.pki.goog/s/wr1/NR8
@@ -147,7 +147,7 @@ Hexcode  Cipher Suite Name (OpenSSL)       KeyExch.   Encryption  Bits     Ciphe
   <span style="font-weight:bold;"> Trust (hostname)             </span><span style="color:#008817;">Ok via SAN and CN</span> (SNI mandatory)
   <span style="font-weight:bold;"> Chain of trust</span>               <span style="color:#008817;">Ok   </span><span style="color:#cd00cd;"></span>
   <span style="font-weight:bold;"> EV cert</span> (experimental)       no 
-  <span style="font-weight:bold;"> Certificate Validity (UTC)   </span><span style="color:#008817;">68 &gt;= 60 days</span> (2024-07-20 18:54 --&gt; 2024-10-18 18:54)
+  <span style="font-weight:bold;"> Certificate Validity (UTC)   </span><span style="color:#008817;">61 &gt;= 60 days</span> (2024-07-20 18:54 --&gt; 2024-10-18 18:54)
   <span style="font-weight:bold;"> ETS/&quot;eTLS&quot;</span>, visibility info  not present
   <span style="font-weight:bold;"> Certificate Revocation List  </span>http://c.pki.goog/we1/xgUc4c2k3B4.crl
   <span style="font-weight:bold;"> OCSP URI                     </span>http://o.pki.goog/s/we1/zcg
@@ -165,7 +165,7 @@ Hexcode  Cipher Suite Name (OpenSSL)       KeyExch.   Encryption  Bits     Ciphe
 <span style="text-decoration:underline;font-weight:bold;"> Testing HTTP header response @ &quot;/&quot; </span>
 
 <span style="font-weight:bold;"> HTTP Status Code           </span>  200 OK
-<span style="font-weight:bold;"> HTTP clock skew              </span>0 sec from localtime
+<span style="font-weight:bold;"> HTTP clock skew              </span>-1 sec from localtime
 <span style="font-weight:bold;"> Strict Transport Security    </span><span style="color:#a86437;">not offered</span>
 <span style="font-weight:bold;"> Public Key Pinning           </span>--
 <span style="font-weight:bold;"> Server banner                </span>cloudflare
@@ -252,13 +252,13 @@ Hexcode  Cipher Suite Name (OpenSSL)       KeyExch.   Encryption  Bits     Ciphe
 <span style="font-weight:bold;"> Overall Grade                </span><span style="color:#008817;font-weight:bold;">A</span>
 <span style="font-weight:bold;"> Grade cap reasons            </span>Grade capped to A. HSTS is not offered
 
-<span style="color:white;background-color:black;"> Done 2024-08-11 09:23:55 [  58s] --&gt;&gt; 172.67.4.138:443 (www.snu.gouv.fr) &lt;&lt;--</span>
+<span style="color:white;background-color:black;"> Done 2024-08-18 09:19:35 [  58s] --&gt;&gt; 172.67.4.138:443 (www.snu.gouv.fr) &lt;&lt;--</span>
 
 -----------------------------------------------------
-<span style="color:white;background-color:black;"> Start 2024-08-11 09:23:55                --&gt;&gt; 104.22.16.136:443 (www.snu.gouv.fr) &lt;&lt;--</span>
+<span style="color:white;background-color:black;"> Start 2024-08-18 09:19:35                --&gt;&gt; 104.22.16.136:443 (www.snu.gouv.fr) &lt;&lt;--</span>
 
  Further IP addresses:   104.22.17.136 172.67.4.138 2606:4700:10::6816:1088
-                         2606:4700:10::6816:1188 2606:4700:10::ac43:48a 
+                         2606:4700:10::ac43:48a 2606:4700:10::6816:1188 
  rDNS (104.22.16.136):   --
  Service detected:       HTTP
 
@@ -348,7 +348,7 @@ Hexcode  Cipher Suite Name (OpenSSL)       KeyExch.   Encryption  Bits     Ciphe
   <span style="font-weight:bold;"> Trust (hostname)             </span><span style="color:#008817;">Ok via SAN and CN</span> (SNI mandatory)
   <span style="font-weight:bold;"> Chain of trust</span>               <span style="color:#008817;">Ok   </span><span style="color:#cd00cd;"></span>
   <span style="font-weight:bold;"> EV cert</span> (experimental)       no 
-  <span style="font-weight:bold;"> Certificate Validity (UTC)   </span><span style="color:#008817;">68 &gt;= 60 days</span> (2024-07-20 18:54 --&gt; 2024-10-18 18:54)
+  <span style="font-weight:bold;"> Certificate Validity (UTC)   </span><span style="color:#008817;">61 &gt;= 60 days</span> (2024-07-20 18:54 --&gt; 2024-10-18 18:54)
   <span style="font-weight:bold;"> ETS/&quot;eTLS&quot;</span>, visibility info  not present
   <span style="font-weight:bold;"> Certificate Revocation List  </span>http://c.pki.goog/wr1/_WMQVCo8Z40.crl
   <span style="font-weight:bold;"> OCSP URI                     </span>http://o.pki.goog/s/wr1/NR8
@@ -375,7 +375,7 @@ Hexcode  Cipher Suite Name (OpenSSL)       KeyExch.   Encryption  Bits     Ciphe
   <span style="font-weight:bold;"> Trust (hostname)             </span><span style="color:#008817;">Ok via SAN and CN</span> (SNI mandatory)
   <span style="font-weight:bold;"> Chain of trust</span>               <span style="color:#008817;">Ok   </span><span style="color:#cd00cd;"></span>
   <span style="font-weight:bold;"> EV cert</span> (experimental)       no 
-  <span style="font-weight:bold;"> Certificate Validity (UTC)   </span><span style="color:#008817;">68 &gt;= 60 days</span> (2024-07-20 18:54 --&gt; 2024-10-18 18:54)
+  <span style="font-weight:bold;"> Certificate Validity (UTC)   </span><span style="color:#008817;">61 &gt;= 60 days</span> (2024-07-20 18:54 --&gt; 2024-10-18 18:54)
   <span style="font-weight:bold;"> ETS/&quot;eTLS&quot;</span>, visibility info  not present
   <span style="font-weight:bold;"> Certificate Revocation List  </span>http://c.pki.goog/we1/xgUc4c2k3B4.crl
   <span style="font-weight:bold;"> OCSP URI                     </span>http://o.pki.goog/s/we1/zcg
@@ -480,13 +480,13 @@ Hexcode  Cipher Suite Name (OpenSSL)       KeyExch.   Encryption  Bits     Ciphe
 <span style="font-weight:bold;"> Overall Grade                </span><span style="color:#008817;font-weight:bold;">A</span>
 <span style="font-weight:bold;"> Grade cap reasons            </span>Grade capped to A. HSTS is not offered
 
-<span style="color:white;background-color:black;"> Done 2024-08-11 09:24:52 [ 115s] --&gt;&gt; 104.22.16.136:443 (www.snu.gouv.fr) &lt;&lt;--</span>
+<span style="color:white;background-color:black;"> Done 2024-08-18 09:20:31 [ 114s] --&gt;&gt; 104.22.16.136:443 (www.snu.gouv.fr) &lt;&lt;--</span>
 
 -----------------------------------------------------
-<span style="color:white;background-color:black;"> Start 2024-08-11 09:24:52                --&gt;&gt; 104.22.17.136:443 (www.snu.gouv.fr) &lt;&lt;--</span>
+<span style="color:white;background-color:black;"> Start 2024-08-18 09:20:31                --&gt;&gt; 104.22.17.136:443 (www.snu.gouv.fr) &lt;&lt;--</span>
 
- Further IP addresses:   104.22.16.136 172.67.4.138 2606:4700:10::6816:1088
-                         2606:4700:10::6816:1188 2606:4700:10::ac43:48a 
+ Further IP addresses:   172.67.4.138 104.22.16.136 2606:4700:10::6816:1088
+                         2606:4700:10::ac43:48a 2606:4700:10::6816:1188 
  rDNS (104.22.17.136):   --
  Service detected:       HTTP
 
@@ -576,7 +576,7 @@ Hexcode  Cipher Suite Name (OpenSSL)       KeyExch.   Encryption  Bits     Ciphe
   <span style="font-weight:bold;"> Trust (hostname)             </span><span style="color:#008817;">Ok via SAN and CN</span> (SNI mandatory)
   <span style="font-weight:bold;"> Chain of trust</span>               <span style="color:#008817;">Ok   </span><span style="color:#cd00cd;"></span>
   <span style="font-weight:bold;"> EV cert</span> (experimental)       no 
-  <span style="font-weight:bold;"> Certificate Validity (UTC)   </span><span style="color:#008817;">68 &gt;= 60 days</span> (2024-07-20 18:54 --&gt; 2024-10-18 18:54)
+  <span style="font-weight:bold;"> Certificate Validity (UTC)   </span><span style="color:#008817;">61 &gt;= 60 days</span> (2024-07-20 18:54 --&gt; 2024-10-18 18:54)
   <span style="font-weight:bold;"> ETS/&quot;eTLS&quot;</span>, visibility info  not present
   <span style="font-weight:bold;"> Certificate Revocation List  </span>http://c.pki.goog/wr1/_WMQVCo8Z40.crl
   <span style="font-weight:bold;"> OCSP URI                     </span>http://o.pki.goog/s/wr1/NR8
@@ -603,7 +603,7 @@ Hexcode  Cipher Suite Name (OpenSSL)       KeyExch.   Encryption  Bits     Ciphe
   <span style="font-weight:bold;"> Trust (hostname)             </span><span style="color:#008817;">Ok via SAN and CN</span> (SNI mandatory)
   <span style="font-weight:bold;"> Chain of trust</span>               <span style="color:#008817;">Ok   </span><span style="color:#cd00cd;"></span>
   <span style="font-weight:bold;"> EV cert</span> (experimental)       no 
-  <span style="font-weight:bold;"> Certificate Validity (UTC)   </span><span style="color:#008817;">68 &gt;= 60 days</span> (2024-07-20 18:54 --&gt; 2024-10-18 18:54)
+  <span style="font-weight:bold;"> Certificate Validity (UTC)   </span><span style="color:#008817;">61 &gt;= 60 days</span> (2024-07-20 18:54 --&gt; 2024-10-18 18:54)
   <span style="font-weight:bold;"> ETS/&quot;eTLS&quot;</span>, visibility info  not present
   <span style="font-weight:bold;"> Certificate Revocation List  </span>http://c.pki.goog/we1/xgUc4c2k3B4.crl
   <span style="font-weight:bold;"> OCSP URI                     </span>http://o.pki.goog/s/we1/zcg
@@ -708,7 +708,7 @@ Hexcode  Cipher Suite Name (OpenSSL)       KeyExch.   Encryption  Bits     Ciphe
 <span style="font-weight:bold;"> Overall Grade                </span><span style="color:#008817;font-weight:bold;">A</span>
 <span style="font-weight:bold;"> Grade cap reasons            </span>Grade capped to A. HSTS is not offered
 
-<span style="color:white;background-color:black;"> Done 2024-08-11 09:25:49 [ 172s] --&gt;&gt; 104.22.17.136:443 (www.snu.gouv.fr) &lt;&lt;--</span>
+<span style="color:white;background-color:black;"> Done 2024-08-18 09:21:27 [ 170s] --&gt;&gt; 104.22.17.136:443 (www.snu.gouv.fr) &lt;&lt;--</span>
 
 -----------------------------------------------------
 <span style="font-weight:bold;">Done testing now all IP addresses (on port 443): </span>172.67.4.138 104.22.16.136 104.22.17.136
