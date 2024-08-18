@@ -31,7 +31,7 @@
       "value": "1",
       "domain": "santepsy.etudiant.gouv.fr",
       "path": "/",
-      "expires": 1723364005,
+      "expires": 1723968830,
       "size": 16,
       "httpOnly": false,
       "secure": true,
@@ -43,10 +43,10 @@
     },
     {
       "name": "_pk_id.76.22ad",
-      "value": "84ffc269882d3870.1723362206.",
+      "value": "a4828e24010c7bd5.1723967030.",
       "domain": "santepsy.etudiant.gouv.fr",
       "path": "/",
-      "expires": 1757317406,
+      "expires": 1757922230,
       "size": 42,
       "httpOnly": false,
       "secure": true,
@@ -65,7 +65,7 @@
     "content-type": "text/html; charset=UTF-8",
     "cross-origin-opener-policy": "same-origin",
     "cross-origin-resource-policy": "same-origin",
-    "date": "Sun, 11 Aug 2024 07:43:25 GMT",
+    "date": "Sun, 18 Aug 2024 07:43:49 GMT",
     "etag": "W/\"6a9-190e54421f0\"",
     "expires": "0",
     "feature-policy": "geolocation 'self'",
@@ -82,7 +82,7 @@
     "x-download-options": "noopen",
     "x-frame-options": "SAMEORIGIN",
     "x-permitted-cross-domain-policies": "none",
-    "x-request-id": "0ad3db78-ede6-46dd-8ff9-0af135e4be34",
+    "x-request-id": "7feb1e3c-9066-40db-8d35-96e7b07ec5e9",
     "x-xss-protection": "0"
   },
   "endpoints": [
@@ -144,8 +144,59 @@
     },
     {
       "hostname": "cdn.jsdelivr.net",
-      "ip": "104.18.187.31",
+      "ip": "146.75.77.229",
       "geoip": {
+        "city": {
+          "geoname_id": 4887398,
+          "names": {
+            "de": "Chicago",
+            "en": "Chicago",
+            "es": "Chicago",
+            "fr": "Chicago",
+            "ja": "シカゴ",
+            "pt-BR": "Chicago",
+            "ru": "Чикаго",
+            "zh-CN": "芝加哥"
+          }
+        },
+        "continent": {
+          "code": "NA",
+          "geoname_id": 6255149,
+          "names": {
+            "de": "Nordamerika",
+            "en": "North America",
+            "es": "Norteamérica",
+            "fr": "Amérique du Nord",
+            "ja": "北アメリカ",
+            "pt-BR": "América do Norte",
+            "ru": "Северная Америка",
+            "zh-CN": "北美洲"
+          }
+        },
+        "country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "USA",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        },
+        "location": {
+          "accuracy_radius": 20,
+          "latitude": 41.8874,
+          "longitude": -87.6318,
+          "metro_code": 602,
+          "time_zone": "America/Chicago"
+        },
+        "postal": {
+          "code": "60602"
+        },
         "registered_country": {
           "geoname_id": 6252001,
           "iso_code": "US",
@@ -159,7 +210,23 @@
             "ru": "США",
             "zh-CN": "美国"
           }
-        }
+        },
+        "subdivisions": [
+          {
+            "geoname_id": 4896861,
+            "iso_code": "IL",
+            "names": {
+              "de": "Illinois",
+              "en": "Illinois",
+              "es": "Illinois",
+              "fr": "Illinois",
+              "ja": "イリノイ州",
+              "pt-BR": "Ilinóis",
+              "ru": "Иллинойс",
+              "zh-CN": "伊利诺伊州"
+            }
+          }
+        ]
       }
     }
   ]
