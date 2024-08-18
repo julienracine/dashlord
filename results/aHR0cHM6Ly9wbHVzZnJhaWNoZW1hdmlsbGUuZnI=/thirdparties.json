@@ -18,7 +18,7 @@
     },
     {
       "name": "__Host-next-auth.csrf-token",
-      "value": "2bd3127e04ae9277277c11b6653b8f400dc65405851515142854d2d4ba356063%7C54d1fecb55f1eaff464bb4e8e27c3bc0c20c372a06542c87029e049925954f06",
+      "value": "af56a6b0c211a308982b3bf8ef35e3e397ecf2134731c8e5a60e273c241d386a%7C32d17df2863293c4796aed66969cd5604b3aeeced56732c16cb1c4ca7c8c1d9b",
       "domain": "plusfraichemaville.fr",
       "path": "/",
       "expires": -1,
@@ -37,13 +37,13 @@
     "content-encoding": "gzip",
     "content-security-policy": "default-src 'self'; script-src 'self' https://stats.beta.gouv.fr 'nonce-Y2FjZGY5YjUtYTljYy00M2U1LWIwMzMtOTg5YWQ5ZjAwZWNk' 'strict-dynamic' ; style-src 'self' 'unsafe-inline'; img-src 'self' blob: data: https://plusfraichemaville.s3.fr-par.scw.cloud/ ; font-src 'self'; object-src 'none'; base-uri 'self'; form-action 'self'; frame-src https://c33e446d.sibforms.com https://stats.plusfraichemaville.fr; frame-ancestors 'none'; upgrade-insecure-requests; connect-src 'self' https://sentry.incubateur.net/ https://stats.beta.gouv.fr/matomo.php https://api-adresse.data.gouv.fr/search/ ;",
     "content-type": "text/html; charset=utf-8",
-    "date": "Sun, 11 Aug 2024 07:05:37 GMT",
+    "date": "Sun, 18 Aug 2024 06:59:44 GMT",
     "strict-transport-security": "max-age=31536000",
     "vary": "RSC, Next-Router-State-Tree, Next-Router-Prefetch, Next-Url, Accept-Encoding",
     "x-content-type-options": "nosniff",
     "x-frame-options": "DENY",
     "x-powered-by": "Next.js",
-    "x-request-id": "72122ccc-bf49-4d06-94c8-2a7cfb010beb"
+    "x-request-id": "e091c77a-19db-4e95-bb56-32e6d3f4ee9b"
   },
   "endpoints": [
     {
