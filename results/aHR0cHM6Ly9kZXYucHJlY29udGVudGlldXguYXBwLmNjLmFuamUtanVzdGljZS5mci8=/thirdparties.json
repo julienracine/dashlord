@@ -2,13 +2,18 @@
   "trackers": [],
   "cookies": [],
   "headers": {
-    "connection": "close",
-    "content-length": "0",
+    "cache-control": "max-age=0, must-revalidate, private",
+    "connection": "Keep-Alive",
+    "content-encoding": "gzip",
     "content-type": "text/html; charset=UTF-8",
-    "date": "Sun, 11 Aug 2024 17:54:46 GMT",
-    "server": "Apache/2.4.56 (Debian)",
-    "sozu-id": "01J51985ABGTGR9AF9496KMHJ6",
-    "x-powered-by": "PHP/8.2.5"
+    "date": "Sun, 18 Aug 2024 18:01:10 GMT",
+    "expires": "Sun, 18 Aug 2024 18:01:10 GMT",
+    "keep-alive": "timeout=5, max=100",
+    "server": "Apache/2.4.61 (Debian)",
+    "sozu-id": "01J5KACX744T0ZS8SGX182769H",
+    "transfer-encoding": "chunked",
+    "vary": "Accept-Encoding",
+    "x-powered-by": "PHP/8.2.22"
   },
   "endpoints": [
     {
