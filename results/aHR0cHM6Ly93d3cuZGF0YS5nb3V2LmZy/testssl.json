@@ -339,7 +339,7 @@
               "ip"           : "www.data.gouv.fr/37.59.183.73",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "128 >= 60 days"
+              "finding"      : "121 >= 60 days"
           }
 ,         {
               "id"           : "cert_notBefore",
@@ -542,7 +542,7 @@
               "ip"           : "www.data.gouv.fr/37.59.183.73",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1723367169"
+              "finding"      : "1723971572"
           }
 ,         {
               "id"           : "HSTS",
@@ -1461,7 +1461,7 @@
               "ip"           : "www.data.gouv.fr/37.59.183.91",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "128 >= 60 days"
+              "finding"      : "121 >= 60 days"
           }
 ,         {
               "id"           : "cert_notBefore",
@@ -1664,7 +1664,7 @@
               "ip"           : "www.data.gouv.fr/37.59.183.91",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1723367243"
+              "finding"      : "1723971654"
           }
 ,         {
               "id"           : "HSTS",
@@ -2248,6 +2248,6 @@
               "ip"           : "www.data.gouv.fr/37.59.183.91",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "149"
+              "finding"      : "166"
           }
 ]
