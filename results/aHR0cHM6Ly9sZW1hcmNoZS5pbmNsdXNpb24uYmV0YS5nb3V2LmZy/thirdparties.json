@@ -60,10 +60,10 @@
   "cookies": [
     {
       "name": "csrftoken",
-      "value": "vrC92iwgaR8VkTfyTm2rc2R9wSDRmmpE",
+      "value": "VaBcDnpkOVLzhWcSA6qRCxPoTE0FGLKG",
       "domain": "lemarche.inclusion.beta.gouv.fr",
       "path": "/",
-      "expires": 1754800060.99662,
+      "expires": 1755404594.761759,
       "size": 41,
       "httpOnly": true,
       "secure": true,
@@ -76,13 +76,13 @@
   ],
   "headers": {
     "connection": "keep-alive",
-    "content-length": "64216",
+    "content-length": "64230",
     "content-type": "text/html; charset=utf-8",
     "cross-origin-opener-policy": "same-origin",
-    "date": "Sun, 11 Aug 2024 04:27:40 GMT",
+    "date": "Sun, 18 Aug 2024 04:23:14 GMT",
     "referrer-policy": "same-origin",
-    "set-cookie": "csrftoken=vrC92iwgaR8VkTfyTm2rc2R9wSDRmmpE; expires=Sun, 10 Aug 2025 04:27:40 GMT; HttpOnly; Max-Age=31449600; Path=/; SameSite=Lax; Secure",
-    "sozu-id": "01J4ZV2A9ZQAVBNSNRPQJ93YRK",
+    "set-cookie": "csrftoken=VaBcDnpkOVLzhWcSA6qRCxPoTE0FGLKG; expires=Sun, 17 Aug 2025 04:23:14 GMT; HttpOnly; Max-Age=31449600; Path=/; SameSite=Lax; Secure",
+    "sozu-id": "01J5HVK7515RPCSKKQB2T14EJ8",
     "strict-transport-security": "max-age=30",
     "vary": "Cookie, Origin",
     "x-content-type-options": "nosniff",
@@ -91,7 +91,7 @@
   "endpoints": [
     {
       "hostname": "lemarche.inclusion.beta.gouv.fr",
-      "ip": "91.208.207.221",
+      "ip": "91.208.207.215",
       "geoip": {
         "continent": {
           "code": "EU",
@@ -167,8 +167,14 @@
     },
     {
       "hostname": "fonts.googleapis.com",
-      "ip": "172.253.62.95",
+      "ip": "142.251.46.234",
       "geoip": {
+        "city": {
+          "geoname_id": 5116931,
+          "names": {
+            "en": "Farmingdale"
+          }
+        },
         "continent": {
           "code": "NA",
           "geoname_id": 6255149,
@@ -199,9 +205,13 @@
         },
         "location": {
           "accuracy_radius": 1000,
-          "latitude": 37.751,
-          "longitude": -97.822,
-          "time_zone": "America/Chicago"
+          "latitude": 40.7306,
+          "longitude": -73.4313,
+          "metro_code": 501,
+          "time_zone": "America/New_York"
+        },
+        "postal": {
+          "code": "11735"
         },
         "registered_country": {
           "geoname_id": 6252001,
@@ -216,7 +226,23 @@
             "ru": "США",
             "zh-CN": "美国"
           }
-        }
+        },
+        "subdivisions": [
+          {
+            "geoname_id": 5128638,
+            "iso_code": "NY",
+            "names": {
+              "de": "New York",
+              "en": "New York",
+              "es": "Nueva York",
+              "fr": "New York",
+              "ja": "ニューヨーク州",
+              "pt-BR": "Nova Iorque",
+              "ru": "Нью-Йорк",
+              "zh-CN": "纽约州"
+            }
+          }
+        ]
       }
     }
   ]
