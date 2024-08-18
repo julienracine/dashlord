@@ -322,7 +322,7 @@
     },
     {
       "type": "unknown",
-      "url": "https://hd.pe.fr/event?s=624858&idclient=lzpo628ea93ilrkm"
+      "url": "https://hd.pe.fr/event?s=624858&idclient=lzzob4fgxg97l7q2"
     },
     {
       "type": "unknown",
@@ -377,74 +377,13 @@
       "url": "https://www.francetravail.fr/files/live/sites/PE/files/images/Logos/header-logo2021-pe-fr.svg"
     }
   ],
-  "cookies": [
-    {
-      "name": "TCPID",
-      "value": "1248014375511284940289",
-      "domain": ".francetravail.fr",
-      "path": "/",
-      "expires": 1757342275,
-      "size": 27,
-      "httpOnly": false,
-      "secure": false,
-      "session": false,
-      "sameSite": "Lax",
-      "sameParty": false,
-      "sourceScheme": "Secure",
-      "sourcePort": 443
-    },
-    {
-      "name": "_pctx",
-      "value": "%7Bu%7DN4IgrgzgpgThIC4B2YA2qA05owMoBcBDfSREQpAeyRCwgEt8oBJAE0RXSwH18yBbAGZQAzCIBWAa0ogAvkA",
-      "domain": ".francetravail.fr",
-      "path": "/",
-      "expires": 1757515075,
-      "size": 95,
-      "httpOnly": false,
-      "secure": true,
-      "session": false,
-      "sameSite": "Lax",
-      "sameParty": false,
-      "sourceScheme": "Secure",
-      "sourcePort": 443
-    },
-    {
-      "name": "_pcid",
-      "value": "%7B%22browserId%22%3A%22lzpo628ea93ilrkm%22%2C%22_t%22%3A%22mfe33jkm%22%7D",
-      "domain": ".francetravail.fr",
-      "path": "/",
-      "expires": 1757515075,
-      "size": 79,
-      "httpOnly": false,
-      "secure": true,
-      "session": false,
-      "sameSite": "Lax",
-      "sameParty": false,
-      "sourceScheme": "Secure",
-      "sourcePort": 443
-    },
-    {
-      "name": "pa_privacy",
-      "value": "%22optin%22",
-      "domain": ".francetravail.fr",
-      "path": "/",
-      "expires": 1757515075,
-      "size": 21,
-      "httpOnly": false,
-      "secure": true,
-      "session": false,
-      "sameSite": "Lax",
-      "sameParty": false,
-      "sourceScheme": "Secure",
-      "sourcePort": 443
-    }
-  ],
+  "cookies": [],
   "headers": {
     "cache-control": "private, no-cache, no-store, max-age=0, must-revalidate",
     "content-encoding": "gzip",
     "content-security-policy": "default-src 'self' 'unsafe-eval'; img-src 'self' https://privacy.trustcommander.net https://privacy.commander1.com https://www.francetravail.fr https://www.pole-emploi.fr data: https://manager.tagcommander.com/; style-src 'self' 'unsafe-inline'; script-src-elem 'self' 'unsafe-inline' https://*.mopinion.com/ http://cdn.tagcommander.com/ https://tag.aticdn.net/ https://cdn.trustcommander.net/ https://privacy.trustcommander.net/ https://*.mapbox.com/ https://composants-pe-communs.pole-emploi.fr/ https://composants-pe-communs.pe-qvr.fr/; connect-src 'self' https://*.mopinion.com/ https://privacy.trustcommander.net https://privacy.commander1.com https://geo.api.gouv.fr/ https://*.mapbox.com/ https://hd.pe.fr/; font-src 'self'; frame-src 'self' https://www.youtube-nocookie.com/; frame-ancestors 'self' https://1jeune1solution.gouv.fr/ https://www.1jeune1solution.gouv.fr/ https://recette.1jeune1solution.gouv.fr/; object-src 'self' data; worker-src 'self' blob:",
     "content-type": "text/html; charset=utf-8",
-    "date": "Sun, 11 Aug 2024 14:37:54 GMT",
+    "date": "Sun, 18 Aug 2024 14:39:32 GMT",
     "permissions-policy": "web-share=self",
     "referrer-policy": "strict-origin",
     "strict-transport-security": "max-age=63072000; includeSubDomains; preload\nmax-age=15768000\nmax-age=63072000",
@@ -716,7 +655,7 @@
     },
     {
       "hostname": "tag.aticdn.net",
-      "ip": "18.160.18.7",
+      "ip": "13.33.21.9",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -770,7 +709,7 @@
     },
     {
       "hostname": "hd.pe.fr",
-      "ip": "18.160.18.49",
+      "ip": "18.164.174.22",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -824,7 +763,7 @@
     },
     {
       "hostname": "privacy.trustcommander.net",
-      "ip": "13.37.126.19",
+      "ip": "13.36.116.3",
       "geoip": {
         "city": {
           "geoname_id": 2988507,

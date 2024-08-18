@@ -346,7 +346,7 @@
               "ip"           : "mes-aides.pole-emploi.fr/51.83.34.111",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "275 >= 60 days"
+              "finding"      : "268 >= 60 days"
           }
 ,         {
               "id"           : "cert_notBefore",
@@ -549,7 +549,7 @@
               "ip"           : "mes-aides.pole-emploi.fr/51.83.34.111",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1723387152"
+              "finding"      : "1723992079"
           }
 ,         {
               "id"           : "HSTS",
@@ -1105,6 +1105,6 @@
               "ip"           : "mes-aides.pole-emploi.fr/51.83.34.111",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "69"
+              "finding"      : "126"
           }
 ]
