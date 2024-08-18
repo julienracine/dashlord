@@ -269,7 +269,7 @@
               "ip"           : "recosante.beta.gouv.fr/57.128.91.43",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "04CBBDC70C694642679558F3FFE54DD2A8A4"
+              "finding"      : "047E16BEE83FC00BCB0D91BA75557AF922DA"
           }
 ,         {
               "id"           : "cert_serialNumberLen",
@@ -283,21 +283,21 @@
               "ip"           : "recosante.beta.gouv.fr/57.128.91.43",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "8C686077A6D33105D0491BE94614C0FD713C7873"
+              "finding"      : "96F75606A495023F1C41BB1F15F9307AC2E51D90"
           }
 ,         {
               "id"           : "cert_fingerprintSHA256",
               "ip"           : "recosante.beta.gouv.fr/57.128.91.43",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "381C3B50D152A12D4ADE65A1E89A207762090EC9C78ECE48D40A0A41F1F613D5"
+              "finding"      : "69F74733201433070C239C7D742771FEDA94CF458896CD017D8AC8050701831D"
           }
 ,         {
               "id"           : "cert",
               "ip"           : "recosante.beta.gouv.fr/57.128.91.43",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "-----BEGIN CERTIFICATE-----\nMIIE/TCCA+WgAwIBAgISBMu9xwxpRkJnlVjz/+VN0qikMA0GCSqGSIb3DQEBCwUAMDMxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQwwCgYDVQQDEwNSMTEwHhcNMjQwNjEzMTgwODI5WhcNMjQwOTExMTgwODI4WjAhMR8wHQYDVQQDExZyZWNvc2FudGUuYmV0YS5nb3V2LmZyMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAxd5gfSMzPjveiUWpPjyOk+KKkhT1F7izWe5lvP6i1Yxki9W2QL+bTwBy4vaT3xDPVl+hkK1Y3RglXqSRF6S1NQq2h5pgqSTjD36ZeuHrdFBDHKiM9Pfb2gQb7Wt5xftTFOavMuWWdDHTB1vyeWekV/jdAAM7wG6/QlnRgGlBq33GWCge1eSEfQwgxIpnbLhHsPliAIurqevjYvH0oQ4CToIY2V8cElVYvjUiAdk85FzVJ5pNSof8HPFOGfuQTpqkCzrYPgs1pmQstFBbQhYqq2kbqDMqYky3drdj5jdHtBHVk1W5i0siTIA1SSLEJgFY7pLN/6VUpFb20skcZLdaUwIDAQABo4ICGzCCAhcwDgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBRgP6UUKNieTDVzGhlo7avROHxfrTAfBgNVHSMEGDAWgBTFz0ak6vTDwHpslcQtsF6SLybjuTBXBggrBgEFBQcBAQRLMEkwIgYIKwYBBQUHMAGGFmh0dHA6Ly9yMTEuby5sZW5jci5vcmcwIwYIKwYBBQUHMAKGF2h0dHA6Ly9yMTEuaS5sZW5jci5vcmcvMCEGA1UdEQQaMBiCFnJlY29zYW50ZS5iZXRhLmdvdXYuZnIwEwYDVR0gBAwwCjAIBgZngQwBAgEwggEFBgorBgEEAdZ5AgQCBIH2BIHzAPEAdwBIsONr2qZHNA/lagL6nTDrHFIBy1bdLIHZu7+rOdiEcwAAAZATAF3MAAAEAwBIMEYCIQCgntYPuxP7WJ+FfjFbcTMj84cBcN9I9cUr2/WFkrf2qwIhAI9ehC6Zzkdk90wHuPHOzU967e0dZ36Vpdg8TaY1JLKjAHYAGZgQcQnw1lIuMIDSnj9ku4NuKMz5D1KO7t/OSj8WtMoAAAGQEwBeIQAABAMARzBFAiEA5j8gwmZaPJanNfbcuS/zAofUrAhdFJqx4E5glmGHOfoCIFSfsQjM5rAZhs6m9qcI6fxxWU4a32zWNYqUIamDcIeaMA0GCSqGSIb3DQEBCwUAA4IBAQCmiX8NdkH+ZcMK9kboX7P/GgtIMwDkyAiVdIhWWPFcozEXz699YwuUCa7BmkgN6fExRXMyFHzZB3Utc4xISCtGVY6TMFLN8UCJSx8FRw/UJ41e/G0N4KWeScWr9aNMhruQoBJ6bVPuVOjjJhdGIMvUqyf11kEMz7BJ2REbjBq8D+vfrY62yORvQpFbRJaaTMIN/YdD5UvFS3Hgwhy7HP9ja+/dUV7vFa7JL94d3bhMY/w7ienM9hYBw4af8FLmQkqaMh2Ap2QBtTSYgHIrIrdt5XxTbpoH+pLbuMXDZ8T835Vr06gDH2Nj0aoic2LvErh1T2ZssQwphtgyD3jxHEdB\n-----END CERTIFICATE-----"
+              "finding"      : "-----BEGIN CERTIFICATE-----\nMIIE/TCCA+WgAwIBAgISBH4Wvug/wAvLDZG6dVV6+SLaMA0GCSqGSIb3DQEBCwUAMDMxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQwwCgYDVQQDEwNSMTEwHhcNMjQwODEyMTcxMDI0WhcNMjQxMTEwMTcxMDIzWjAhMR8wHQYDVQQDExZyZWNvc2FudGUuYmV0YS5nb3V2LmZyMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAxd5gfSMzPjveiUWpPjyOk+KKkhT1F7izWe5lvP6i1Yxki9W2QL+bTwBy4vaT3xDPVl+hkK1Y3RglXqSRF6S1NQq2h5pgqSTjD36ZeuHrdFBDHKiM9Pfb2gQb7Wt5xftTFOavMuWWdDHTB1vyeWekV/jdAAM7wG6/QlnRgGlBq33GWCge1eSEfQwgxIpnbLhHsPliAIurqevjYvH0oQ4CToIY2V8cElVYvjUiAdk85FzVJ5pNSof8HPFOGfuQTpqkCzrYPgs1pmQstFBbQhYqq2kbqDMqYky3drdj5jdHtBHVk1W5i0siTIA1SSLEJgFY7pLN/6VUpFb20skcZLdaUwIDAQABo4ICGzCCAhcwDgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBRgP6UUKNieTDVzGhlo7avROHxfrTAfBgNVHSMEGDAWgBTFz0ak6vTDwHpslcQtsF6SLybjuTBXBggrBgEFBQcBAQRLMEkwIgYIKwYBBQUHMAGGFmh0dHA6Ly9yMTEuby5sZW5jci5vcmcwIwYIKwYBBQUHMAKGF2h0dHA6Ly9yMTEuaS5sZW5jci5vcmcvMCEGA1UdEQQaMBiCFnJlY29zYW50ZS5iZXRhLmdvdXYuZnIwEwYDVR0gBAwwCjAIBgZngQwBAgEwggEFBgorBgEEAdZ5AgQCBIH2BIHzAPEAdwBIsONr2qZHNA/lagL6nTDrHFIBy1bdLIHZu7+rOdiEcwAAAZFHx2HZAAAEAwBIMEYCIQCyH5zXkEjfMKn9Qb33mtOlxsf3igU1kYv9JYpYxCRqnAIhALEIa0KNhIawrHvmPfp+PUL4pbpNprTvjAeUcnk5y43BAHYA3+FW66oFr7WcD4ZxjajAMk6uVtlup/WlagHRwTu+UlwAAAGRR8dilAAABAMARzBFAiEAqq7yaVX+hq3gX9JI5FXyurM5G04b+SMfutvKrAkr6GsCIA3/3bBHUITaFRJjFkn3F+5XhdU6jUyHnYmMb7sxH0pjMA0GCSqGSIb3DQEBCwUAA4IBAQBN7W5c7z6YoVnQHB9Fj3PGciCyJ75vPN1s2OoZyit2kVsV0OPzYL3ImQE29ATRTiDvEGidnaz2aLb4kKU+wrZ41+YLKStmWFYMAN0+p2lfM7R276ihiSafc9LQ9IDLyiBO5ILxJwhbdVB1AkFdUIDjFtuK8kJu8d/xiSzcJ6uKUxypCaEyuULX491AXcd7h7RW+N4G8Ab2TNTBbV9tTK5fF9jhu2tJ2GpKWOfa40XBA+AO/TGVkourqQOl6Xn1u9tk0oKkpn1DexFOP3jjfCFes7v/QZovr3iD92tJGjhrQagSG9BMGj3cGFakHkswRoQ+H1LLwRrOFzK5fYRsAbU+\n-----END CERTIFICATE-----"
           }
 ,         {
               "id"           : "cert_commonName",
@@ -346,21 +346,21 @@
               "ip"           : "recosante.beta.gouv.fr/57.128.91.43",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "31 >= 30 days"
+              "finding"      : "84 >= 30 days"
           }
 ,         {
               "id"           : "cert_notBefore",
               "ip"           : "recosante.beta.gouv.fr/57.128.91.43",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "2024-06-13 18:08"
+              "finding"      : "2024-08-12 17:10"
           }
 ,         {
               "id"           : "cert_notAfter",
               "ip"           : "recosante.beta.gouv.fr/57.128.91.43",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "2024-09-11 18:08"
+              "finding"      : "2024-11-10 17:10"
           }
 ,         {
               "id"           : "cert_extlifeSpan",
@@ -500,14 +500,14 @@
               "ip"           : "recosante.beta.gouv.fr/57.128.91.43",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "-1 seconds from localtime"
+              "finding"      : "0 seconds from localtime"
           }
 ,         {
               "id"           : "HTTP_headerTime",
               "ip"           : "recosante.beta.gouv.fr/57.128.91.43",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1723361397"
+              "finding"      : "1723966199"
           }
 ,         {
               "id"           : "HSTS_time",
@@ -694,7 +694,7 @@
               "severity"     : "INFO",
               "cve"          : "CVE-2016-0800 CVE-2016-0703",
               "cwe"          : "CWE-310",
-              "finding"      : "Make sure you don't use this certificate elsewhere with SSLv2 enabled services, see https://search.censys.io/search?resource=hosts&virtual_hosts=INCLUDE&q=381C3B50D152A12D4ADE65A1E89A207762090EC9C78ECE48D40A0A41F1F613D5"
+              "finding"      : "Make sure you don't use this certificate elsewhere with SSLv2 enabled services, see https://search.censys.io/search?resource=hosts&virtual_hosts=INCLUDE&q=69F74733201433070C239C7D742771FEDA94CF458896CD017D8AC8050701831D"
           }
 ,         {
               "id"           : "LOGJAM",
@@ -1070,6 +1070,6 @@
               "ip"           : "recosante.beta.gouv.fr/57.128.91.43",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "71"
+              "finding"      : "52"
           }
 ]
