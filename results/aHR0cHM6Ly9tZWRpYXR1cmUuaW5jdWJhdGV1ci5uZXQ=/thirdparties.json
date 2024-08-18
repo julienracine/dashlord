@@ -1,37 +1,6 @@
 {
   "trackers": [],
-  "cookies": [
-    {
-      "name": "__Secure-next-auth.callback-url",
-      "value": "https%3A%2F%2Fmediature.incubateur.net",
-      "domain": "mediature.incubateur.net",
-      "path": "/",
-      "expires": -1,
-      "size": 69,
-      "httpOnly": true,
-      "secure": true,
-      "session": true,
-      "sameSite": "Lax",
-      "sameParty": false,
-      "sourceScheme": "Secure",
-      "sourcePort": 443
-    },
-    {
-      "name": "__Host-next-auth.csrf-token",
-      "value": "9d642bde8f9e4e9036b9d3362fcb14c264fd72bdb0e613fc86bdd3a4acd39cba%7C358ecb0488da5b3ae4bc56fdbef2be1c76ac6b0e0ede5110e215ee2f84141e26",
-      "domain": "mediature.incubateur.net",
-      "path": "/",
-      "expires": -1,
-      "size": 158,
-      "httpOnly": true,
-      "secure": true,
-      "session": true,
-      "sameSite": "Lax",
-      "sameParty": false,
-      "sourceScheme": "Secure",
-      "sourcePort": 443
-    }
-  ],
+  "cookies": [],
   "headers": {
     "cache-control": "s-maxage=31536000, stale-while-revalidate",
     "content-encoding": "gzip",
@@ -40,7 +9,7 @@
     "cross-origin-embedder-policy": "require-corp",
     "cross-origin-opener-policy": "same-origin",
     "cross-origin-resource-policy": "same-origin",
-    "date": "Sun, 11 Aug 2024 05:02:14 GMT",
+    "date": "Sun, 18 Aug 2024 05:01:18 GMT",
     "etag": "\"oymsqsx037dnf\"",
     "origin-agent-cluster": "?1",
     "referrer-policy": "no-referrer",
@@ -52,7 +21,7 @@
     "x-frame-options": "SAMEORIGIN",
     "x-nextjs-cache": "HIT",
     "x-permitted-cross-domain-policies": "none",
-    "x-request-id": "51eb160e-4101-47c9-bd3f-b299e22cfe50",
+    "x-request-id": "2a1f0665-b705-4fdb-bc52-2c9b40290242",
     "x-xss-protection": "0"
   },
   "endpoints": [
