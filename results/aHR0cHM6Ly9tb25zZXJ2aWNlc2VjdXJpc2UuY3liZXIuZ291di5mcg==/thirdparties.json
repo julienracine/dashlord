@@ -12,10 +12,10 @@
   "cookies": [
     {
       "name": "_pk_id.28.a0cf",
-      "value": "4b32c411045cbc9d.1723385040.",
+      "value": "d887db3cf207da3f.1723989772.",
       "domain": "monservicesecurise.cyber.gouv.fr",
       "path": "/",
-      "expires": 1757340240,
+      "expires": 1757944972,
       "size": 42,
       "httpOnly": false,
       "secure": false,
@@ -30,7 +30,7 @@
       "value": "1",
       "domain": "monservicesecurise.cyber.gouv.fr",
       "path": "/",
-      "expires": 1723386839,
+      "expires": 1723991571,
       "size": 16,
       "httpOnly": false,
       "secure": false,
@@ -42,10 +42,10 @@
     },
     {
       "name": "sc-sticky-session",
-      "value": "rEVTlPA9D4ITUgNJRiegWVFi6LnPeBUxIyN1TbHncGtxSBZGy3v1nmqESVZmJ7jhqE2HTv60J8bTjlW2wotlBkXLbzxvcmTXuIlUZsQxBL4=",
+      "value": "5G4y0gZX5MY2OSsPEkUk0McK8r6Xcj/XkbM3WY4lk+24t/mdpGVuwDhN36tS0z5D9THyMobQtOSiGDLIpDybJCH0ZIe+mvUXOgUhrbTFsSg=",
       "domain": "monservicesecurise.cyber.gouv.fr",
       "path": "/",
-      "expires": 1723471439.783379,
+      "expires": 1724076171.898734,
       "size": 125,
       "httpOnly": true,
       "secure": true,
@@ -57,11 +57,11 @@
     },
     {
       "name": "bln_challengejs",
-      "value": "jkwJkncL9uJTs0c3ZURtOa0NxD4bN8hnRLiBx2YRWbQoWosmgge3_3gyrs3tAdGKJHdTiDzvoqnC0Z9gDUFruaIaGfMY85QKXqeIO0xmbHSAD8NCKRU-wce2LxaTpmcMplnl7bFrmdilCRDQJ99RxoGJEbxyh0tRR3CTIwy4yVN13FuSHA3kjWrs4Mjo6Zq-M9IxJbK7WKw63-Le31LuFG2SzzjsB1u9r-3ITfBGIlf9WTVlkeElqmvbInUGAnICX5BpqX6sm_dsoKp7XavNwA",
+      "value": "jkwJkncL9uJTs0c3ZURtOS9BCf-L5I6H69sq95GoK5RoWWML1dapXU6-uLGxPNtpPnA8O7PsLL_--OVsw8xP5lcz9AjuHN5fWzG3U3s0CUX15GrEG5Rr1kvVAQ9ByRZPIOD1sNMSXxEd-Y_dNHZyWTLp6rDfLWGifxEzXV3FU8oHwbpNXoHHMRXv_NcZ9Nz96XUADkx7k906K6cKltcEvei907Awilq9K8olzWnN0vuWnqIiDCiNTM34ju1Vqx27",
       "domain": ".cyber.gouv.fr",
       "path": "/",
-      "expires": 1723385938.89288,
-      "size": 293,
+      "expires": 1723990670.798179,
+      "size": 271,
       "httpOnly": false,
       "secure": false,
       "session": false,
@@ -71,10 +71,10 @@
     },
     {
       "name": "token",
-      "value": "eyJfY3NyZlNlY3JldCI6IkpxczdvYmNER0IxcXVnPT0iLCJtYWludGVuYW50IjoyODcyMzA4M30=",
+      "value": "eyJfY3NyZlNlY3JldCI6Ik5xOThldkJoZlFhNU13PT0iLCJtYWludGVuYW50IjoyODczMzE2Mn0=",
       "domain": "monservicesecurise.cyber.gouv.fr",
       "path": "/",
-      "expires": 1723388639.024047,
+      "expires": 1723993370.968182,
       "size": 81,
       "httpOnly": true,
       "secure": true,
@@ -86,10 +86,10 @@
     },
     {
       "name": "token.sig",
-      "value": "B4l7bJeX8S8XceYVLTwZ1k1VBgk",
+      "value": "maVKPqtqgCCWbATrQ2GeFC2loNw",
       "domain": "monservicesecurise.cyber.gouv.fr",
       "path": "/",
-      "expires": 1723388639.024102,
+      "expires": 1723993370.968243,
       "size": 36,
       "httpOnly": true,
       "secure": true,
@@ -106,19 +106,19 @@
     "content-encoding": "gzip",
     "content-security-policy": "default-src 'self'; connect-src 'self' https://stats.beta.gouv.fr/matomo.php; img-src 'self' https://storage.crisp.chat data:; media-src 'self' https://monservicesecurise-ressources.cellar-c2.services.clever-cloud.com; script-src 'self'; frame-src https://metabase.monservicesecurise.cyber.gouv.fr/",
     "content-type": "text/html; charset=utf-8",
-    "date": "Sun, 11 Aug 2024 14:03:58 GMT",
-    "etag": "W/\"6178-ilJE+kFTyOvtT+16/G3Lhk2KVXo\"",
+    "date": "Sun, 18 Aug 2024 14:02:50 GMT",
+    "etag": "W/\"6178-r0a+xy3xBVkDWTEF4lazez63QuY\"",
     "referrer-policy": "no-referrer",
-    "set-cookie": "token=eyJfY3NyZlNlY3JldCI6IkpxczdvYmNER0IxcXVnPT0iLCJtYWludGVuYW50IjoyODcyMzA4M30=; path=/; expires=Sun, 11 Aug 2024 15:03:58 GMT; samesite=strict; secure; httponly\ntoken.sig=B4l7bJeX8S8XceYVLTwZ1k1VBgk; path=/; expires=Sun, 11 Aug 2024 15:03:58 GMT; samesite=strict; secure; httponly\nsc-sticky-session=rEVTlPA9D4ITUgNJRiegWVFi6LnPeBUxIyN1TbHncGtxSBZGy3v1nmqESVZmJ7jhqE2HTv60J8bTjlW2wotlBkXLbzxvcmTXuIlUZsQxBL4=; Expires=Mon, 12-Aug-24 14:03:58 GMT; Max-Age=86400; Path=/; Secure; HttpOnly; SameSite=None",
+    "set-cookie": "token=eyJfY3NyZlNlY3JldCI6Ik5xOThldkJoZlFhNU13PT0iLCJtYWludGVuYW50IjoyODczMzE2Mn0=; path=/; expires=Sun, 18 Aug 2024 15:02:50 GMT; samesite=strict; secure; httponly\ntoken.sig=maVKPqtqgCCWbATrQ2GeFC2loNw; path=/; expires=Sun, 18 Aug 2024 15:02:50 GMT; samesite=strict; secure; httponly\nsc-sticky-session=5G4y0gZX5MY2OSsPEkUk0McK8r6Xcj/XkbM3WY4lk+24t/mdpGVuwDhN36tS0z5D9THyMobQtOSiGDLIpDybJCH0ZIe+mvUXOgUhrbTFsSg=; Expires=Mon, 19-Aug-24 14:02:50 GMT; Max-Age=86400; Path=/; Secure; HttpOnly; SameSite=None",
     "strict-transport-security": "max-age=31536000",
     "vary": "Accept-Encoding",
     "x-content-type-options": "nosniff",
     "x-frame-options": "deny",
     "x-ratelimit-limit": "600",
-    "x-ratelimit-remaining": "596",
-    "x-ratelimit-reset": "1723385078",
-    "x-request-id": "de8e05b891cbedfe35e6104ed86c0f56",
-    "x-varnish": "1577629",
+    "x-ratelimit-remaining": "598",
+    "x-ratelimit-reset": "1723989774",
+    "x-request-id": "17d3df8dfc8018743e014016d8543635",
+    "x-varnish": "5889110",
     "x-xss-protection": "1; mode=block"
   },
   "endpoints": [
@@ -180,8 +180,14 @@
     },
     {
       "hostname": "fonts.googleapis.com",
-      "ip": "142.250.191.234",
+      "ip": "142.250.72.138",
       "geoip": {
+        "city": {
+          "geoname_id": 5131638,
+          "names": {
+            "en": "Plainview"
+          }
+        },
         "continent": {
           "code": "NA",
           "geoname_id": 6255149,
@@ -211,10 +217,14 @@
           }
         },
         "location": {
-          "accuracy_radius": 1000,
-          "latitude": 37.751,
-          "longitude": -97.822,
-          "time_zone": "America/Chicago"
+          "accuracy_radius": 100,
+          "latitude": 40.7746,
+          "longitude": -73.4761,
+          "metro_code": 501,
+          "time_zone": "America/New_York"
+        },
+        "postal": {
+          "code": "11803"
         },
         "registered_country": {
           "geoname_id": 6252001,
@@ -229,7 +239,23 @@
             "ru": "США",
             "zh-CN": "美国"
           }
-        }
+        },
+        "subdivisions": [
+          {
+            "geoname_id": 5128638,
+            "iso_code": "NY",
+            "names": {
+              "de": "New York",
+              "en": "New York",
+              "es": "Nueva York",
+              "fr": "New York",
+              "ja": "ニューヨーク州",
+              "pt-BR": "Nova Iorque",
+              "ru": "Нью-Йорк",
+              "zh-CN": "纽约州"
+            }
+          }
+        ]
       }
     }
   ]
