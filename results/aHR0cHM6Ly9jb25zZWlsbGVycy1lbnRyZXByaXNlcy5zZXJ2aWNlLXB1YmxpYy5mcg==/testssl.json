@@ -206,7 +206,7 @@
               "ip"           : "conseillers-entreprises.service-public.fr/185.231.164.123",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "supported"
+              "finding"      : "not supported"
           }
 ,         {
               "id"           : "TLS_timestamp",
@@ -346,7 +346,7 @@
               "ip"           : "conseillers-entreprises.service-public.fr/185.231.164.123",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "268 >= 60 days"
+              "finding"      : "261 >= 60 days"
           }
 ,         {
               "id"           : "cert_notBefore",
@@ -507,7 +507,7 @@
               "ip"           : "conseillers-entreprises.service-public.fr/185.231.164.123",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1723359689"
+              "finding"      : "1723964285"
           }
 ,         {
               "id"           : "HSTS",
@@ -1084,6 +1084,6 @@
               "ip"           : "conseillers-entreprises.service-public.fr/185.231.164.123",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "56"
+              "finding"      : "57"
           }
 ]
