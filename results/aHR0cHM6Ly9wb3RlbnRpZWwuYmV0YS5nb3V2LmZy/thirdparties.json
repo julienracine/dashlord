@@ -16,8 +16,8 @@
     "content-type": "text/html; charset=utf-8",
     "cross-origin-opener-policy": "same-origin",
     "cross-origin-resource-policy": "same-origin",
-    "date": "Sun, 18 Aug 2024 07:14:05 GMT",
-    "etag": "W/\"5092-vfv0XRnwswdPa/PgKUW81J5RzEE\"",
+    "date": "Sun, 25 Aug 2024 07:25:40 GMT",
+    "etag": "W/\"5092-GF+EBCd293sdi47/aMosKgtHFDc\"",
     "origin-agent-cluster": "?1",
     "referrer-policy": "strict-origin",
     "strict-transport-security": "max-age=31536000\nmax-age=63072000; preload",
@@ -26,13 +26,13 @@
     "x-download-options": "noopen",
     "x-frame-options": "SAMEORIGIN",
     "x-permitted-cross-domain-policies": "none",
-    "x-request-id": "5ac5011c-fa71-494d-a355-5f234203dbcd",
+    "x-request-id": "e3c342f2-bd52-4dab-a7df-124c37d57f79",
     "x-xss-protection": "0"
   },
   "endpoints": [
     {
       "hostname": "potentiel.beta.gouv.fr",
-      "ip": "185.21.194.105",
+      "ip": "148.253.96.193",
       "geoip": {
         "continent": {
           "code": "EU",
