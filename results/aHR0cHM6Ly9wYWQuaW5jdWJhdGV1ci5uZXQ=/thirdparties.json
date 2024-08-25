@@ -3,10 +3,10 @@
   "cookies": [
     {
       "name": "connect.sid",
-      "value": "s%3AIqLzcd_brq74Lv4ERTXwqAo0to57-pj4.H9w3YlvOXieKOjP876A5242cEHogUN8qj19Az0WKgBA",
+      "value": "s%3ASpfBQuTzHSDu1pYIlRNjaP84_d09qzo-.6SVladr16NQkfKRDbBL0mqbzIBL8GLStaVNn2Ls4XyA",
       "domain": "pad.incubateur.net",
       "path": "/",
-      "expires": 1724566323.938137,
+      "expires": 1725776029.27078,
       "size": 91,
       "httpOnly": true,
       "secure": true,
@@ -19,17 +19,17 @@
   ],
   "headers": {
     "content-encoding": "gzip",
-    "content-security-policy": "default-src 'self';script-src 'self' vimeo.com https://gist.github.com www.slideshare.net 'unsafe-eval' https://disqus.com https://*.disqus.com https://*.disquscdn.com https://www.google-analytics.com 'nonce-dc7b47e0-2ea4-4d8e-8c63-5e8ee5e7b389' 'sha256-81acLZNZISnyGYZrSuoYhpzwDTTxi7vC1YM4uNxqWaM=';img-src *;style-src 'self' 'unsafe-inline' https://github.githubassets.com https://*.disquscdn.com;font-src 'self' data: https://public.slidesharecdn.com https://*.disquscdn.com;object-src *;media-src *;child-src *;connect-src *",
+    "content-security-policy": "default-src 'self';script-src 'self' vimeo.com https://gist.github.com www.slideshare.net 'unsafe-eval' https://disqus.com https://*.disqus.com https://*.disquscdn.com https://www.google-analytics.com 'nonce-cf271ec6-2b48-45eb-8b1e-aa48abc8c166' 'sha256-81acLZNZISnyGYZrSuoYhpzwDTTxi7vC1YM4uNxqWaM=';img-src *;style-src 'self' 'unsafe-inline' https://github.githubassets.com https://*.disquscdn.com;font-src 'self' data: https://public.slidesharecdn.com https://*.disquscdn.com;object-src *;media-src *;child-src *;connect-src *",
     "content-type": "text/html; charset=utf-8",
-    "date": "Sun, 11 Aug 2024 06:12:03 GMT",
+    "date": "Sun, 25 Aug 2024 06:13:48 GMT",
     "etag": "W/\"38c5-cO2pHfqjC9Mqrc3iDYMvVnqOPTU\"",
     "hedgedoc-version": "1.8.2",
     "referrer-policy": "same-origin",
-    "set-cookie": "connect.sid=s%3AIqLzcd_brq74Lv4ERTXwqAo0to57-pj4.H9w3YlvOXieKOjP876A5242cEHogUN8qj19Az0WKgBA; Path=/; Expires=Sun, 25 Aug 2024 06:12:03 GMT; HttpOnly; Secure; SameSite=Lax",
+    "set-cookie": "connect.sid=s%3ASpfBQuTzHSDu1pYIlRNjaP84_d09qzo-.6SVladr16NQkfKRDbBL0mqbzIBL8GLStaVNn2Ls4XyA; Path=/; Expires=Sun, 08 Sep 2024 06:13:48 GMT; HttpOnly; Secure; SameSite=Lax",
     "strict-transport-security": "max-age=31536000\nmax-age=31536000; includeSubDomains; preload",
     "vary": "Accept-Encoding",
     "x-powered-by": "Express",
-    "x-request-id": "7179c897-90aa-44e1-a035-c2b49597c2bb"
+    "x-request-id": "f62e0cc0-ed78-4458-b268-24253e3d4e42"
   },
   "endpoints": [
     {
