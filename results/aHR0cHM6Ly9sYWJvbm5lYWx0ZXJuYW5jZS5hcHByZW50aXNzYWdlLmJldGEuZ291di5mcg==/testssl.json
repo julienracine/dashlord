@@ -276,7 +276,7 @@
               "ip"           : "labonnealternance.apprentissage.beta.gouv.fr/149.202.54.205",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "0413544FA166DA2292A5E7FD3F846F50A7CE"
+              "finding"      : "04C4F0DA4F4090B5FF1AA2898090B64BB250"
           }
 ,         {
               "id"           : "cert_serialNumberLen",
@@ -290,21 +290,21 @@
               "ip"           : "labonnealternance.apprentissage.beta.gouv.fr/149.202.54.205",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "504ED281B655F15056A7F8D9A1A213614A879126"
+              "finding"      : "7BA0F0E31D6141B977D3A384C600CFC910E0D71D"
           }
 ,         {
               "id"           : "cert_fingerprintSHA256",
               "ip"           : "labonnealternance.apprentissage.beta.gouv.fr/149.202.54.205",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "7E316C2BCF637964155507ACDD4C919592714573B7C7FD46DECA219DD4B57070"
+              "finding"      : "B57D6260101F22F3DF3AAD1FCB5DF83B176BC4D10F5E4A520857D9F5A1BA22E8"
           }
 ,         {
               "id"           : "cert",
               "ip"           : "labonnealternance.apprentissage.beta.gouv.fr/149.202.54.205",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "-----BEGIN CERTIFICATE-----\nMIIDujCCAz+gAwIBAgISBBNUT6Fm2iKSpef9P4RvUKfOMAoGCCqGSM49BAMDMDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQDEwJFNTAeFw0yNDA2MTgwMjMwMTFaFw0yNDA5MTYwMjMwMTBaMDcxNTAzBgNVBAMTLGxhYm9ubmVhbHRlcm5hbmNlLmFwcHJlbnRpc3NhZ2UuYmV0YS5nb3V2LmZyMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEZGVHhibLUcWKf5N04Ksqym2W1hXxxVW0CmG5Q1dclparebK1SlZizjCRse1JsbwRsFwHioAnc0sHxxB2iekJa6OCAi4wggIqMA4GA1UdDwEB/wQEAwIHgDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQUFjcB0oqVnUyAmkNgMl25gV1TCf0wHwYDVR0jBBgwFoAUnytfzzwhT50Et+0rLMTGcIvS1w0wVQYIKwYBBQUHAQEESTBHMCEGCCsGAQUFBzABhhVodHRwOi8vZTUuby5sZW5jci5vcmcwIgYIKwYBBQUHMAKGFmh0dHA6Ly9lNS5pLmxlbmNyLm9yZy8wNwYDVR0RBDAwLoIsbGFib25uZWFsdGVybmFuY2UuYXBwcmVudGlzc2FnZS5iZXRhLmdvdXYuZnIwEwYDVR0gBAwwCjAIBgZngQwBAgEwggEEBgorBgEEAdZ5AgQCBIH1BIHyAPAAdQBIsONr2qZHNA/lagL6nTDrHFIBy1bdLIHZu7+rOdiEcwAAAZApZSBvAAAEAwBGMEQCIBSkLob5rACTISQYyS4e9Yen8fN4vAt3/38Mh/z9vkNbAiBVWSwrtjMG0fzJ8U+R5K/RLOasHdx2GR02V0qsHx1BWwB3AO7N0GTV2xrOxVy3nbTNE6Iyh0Z8vOzew1FIWUZxH7WbAAABkCllIG4AAAQDAEgwRgIhAJ9V4gRmzFON3vRvZyM1C8vgnYuN9RJmrlkzjer1zdNgAiEAs9fTNjSsGQDan8g/wbgEz4v7tEgwQFhdqxXSD0qarcswCgYIKoZIzj0EAwMDaQAwZgIxAIHHdy+FXODyO0iRGsKF2SOfhAroANRc/NC2dHiv8IvBoOClTyJ8MErEhm0wDftjXgIxAOsvGkNfiEmvjwURUzcoip4GbrWxXm1XUW9XH9HTJ45MOLuwrw45pMAwaTeEDrO1kA==\n-----END CERTIFICATE-----"
+              "finding"      : "-----BEGIN CERTIFICATE-----\nMIIDuDCCAz6gAwIBAgISBMTw2k9AkLX/GqKJgJC2S7JQMAoGCCqGSM49BAMDMDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQDEwJFNTAeFw0yNDA4MjAwMjMxMzhaFw0yNDExMTgwMjMxMzdaMDcxNTAzBgNVBAMTLGxhYm9ubmVhbHRlcm5hbmNlLmFwcHJlbnRpc3NhZ2UuYmV0YS5nb3V2LmZyMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEsadZMX+3FbKKU6RLwZ0w/Z+1hEVl6Xr7Z+tEnCpaZq76KXa+NEaCauL3/9QVJr0pk5CyQomNpOqstBYVIkET86OCAi0wggIpMA4GA1UdDwEB/wQEAwIHgDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQUOBKIIw8pCv5EbQNOfmQLWPOJhTEwHwYDVR0jBBgwFoAUnytfzzwhT50Et+0rLMTGcIvS1w0wVQYIKwYBBQUHAQEESTBHMCEGCCsGAQUFBzABhhVodHRwOi8vZTUuby5sZW5jci5vcmcwIgYIKwYBBQUHMAKGFmh0dHA6Ly9lNS5pLmxlbmNyLm9yZy8wNwYDVR0RBDAwLoIsbGFib25uZWFsdGVybmFuY2UuYXBwcmVudGlzc2FnZS5iZXRhLmdvdXYuZnIwEwYDVR0gBAwwCjAIBgZngQwBAgEwggEDBgorBgEEAdZ5AgQCBIH0BIHxAO8AdgBIsONr2qZHNA/lagL6nTDrHFIBy1bdLIHZu7+rOdiEcwAAAZFt1bnKAAAEAwBHMEUCIHLhmcuI+HkfCiPgiogoIFra9UZSHTWybmqM/jOKphXdAiEAqVSIUQjNGzEi5AQisFZbJW9lZuZYIdavqYEPhf/1aT0AdQDuzdBk1dsazsVct520zROiModGfLzs3sNRSFlGcR+1mwAAAZFt1bnKAAAEAwBGMEQCICSgYoizR23n/gETdFhJozBzUH4RGkFdO8SV1vpdWXgtAiAfNzdzza3Ik3Fv/cpxyb3vsemg90dbhVY/+CyRBDJchjAKBggqhkjOPQQDAwNoADBlAjEA1DCIhhxtkOtBCGspFLpo1ld+jelyTgdcvNlvsuiBInMMPC+OPBOSLpC8zM+d7arvAjAW3uibq4dO4p02SKS/Xu4R5so/X+zRO6qbgH66B6oiR1z3SDdLMpHMiZJDglJ/3ok=\n-----END CERTIFICATE-----"
           }
 ,         {
               "id"           : "cert_commonName",
@@ -352,22 +352,22 @@
               "id"           : "cert_expirationStatus",
               "ip"           : "labonnealternance.apprentissage.beta.gouv.fr/149.202.54.205",
               "port"         : "443",
-              "severity"     : "MEDIUM",
-              "finding"      : "expires < 30 days (28)"
+              "severity"     : "OK",
+              "finding"      : "84 >= 30 days"
           }
 ,         {
               "id"           : "cert_notBefore",
               "ip"           : "labonnealternance.apprentissage.beta.gouv.fr/149.202.54.205",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "2024-06-18 02:30"
+              "finding"      : "2024-08-20 02:31"
           }
 ,         {
               "id"           : "cert_notAfter",
               "ip"           : "labonnealternance.apprentissage.beta.gouv.fr/149.202.54.205",
               "port"         : "443",
-              "severity"     : "MEDIUM",
-              "finding"      : "2024-09-16 02:30"
+              "severity"     : "OK",
+              "finding"      : "2024-11-18 02:31"
           }
 ,         {
               "id"           : "cert_extlifeSpan",
@@ -507,14 +507,14 @@
               "ip"           : "labonnealternance.apprentissage.beta.gouv.fr/149.202.54.205",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "-1 seconds from localtime"
+              "finding"      : "0 seconds from localtime"
           }
 ,         {
               "id"           : "HTTP_headerTime",
               "ip"           : "labonnealternance.apprentissage.beta.gouv.fr/149.202.54.205",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1723990385"
+              "finding"      : "1724596311"
           }
 ,         {
               "id"           : "HSTS_multiple",
@@ -1126,6 +1126,6 @@
               "ip"           : "labonnealternance.apprentissage.beta.gouv.fr/149.202.54.205",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "55"
+              "finding"      : "106"
           }
 ]
