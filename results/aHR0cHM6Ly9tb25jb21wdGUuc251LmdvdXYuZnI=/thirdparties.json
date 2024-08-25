@@ -36,11 +36,11 @@
   "cookies": [
     {
       "name": "bln_challengejs",
-      "value": "wuwWaOUI_laBrCN4kI62gDdBueI9lK9AQuW7EchQfwmDKRayyAejHlenerQXoQkD1yKLADyjdBh1FcYPQuHYHzj-kS_O_oDn4uebTN4h5ta-CqwPUJORQbUBG0pPZJ_3mdc1GIOaYboFF7zH6VUsIHgxiIVEYSQ-wH7scM3PIut7kxzsNXpDI9c-R-f3Cfn5lNob7aw2kHiKEbRPRJLFhQG53_LcALvHjEaKUduxXnlCZzMyCG3vEQoYdYwvptb4",
+      "value": "wuwWaOUI_laBrCN4kI62gIe3TvZCzxYYT25l1o7vPFj_Y7SR5g1JOjMP4JkyyGV_mBmyqKbkPEfCIc2cgoRJ6ztjG2c1CQdSPp9sszaiUhtw1G5WUrcl8JFp_dE8-DTLPoZw2zwhcCEYfs1VJUOsu4gZOh0A96676EMScK-XbtYquiWzvb8853HWtQm3PLw7NvSY6_s0qq2oFfrWuJCT_3AtuUFTEVOqTs1T8rS7601nYOiFho8s6GSVqM8T-g-kJbM4ckbFOnmM3IZvFPXvDg",
       "domain": ".snu.gouv.fr",
       "path": "/",
-      "expires": 1723974109.45395,
-      "size": 271,
+      "expires": 1724579679.087225,
+      "size": 293,
       "httpOnly": false,
       "secure": false,
       "session": false,
@@ -52,11 +52,11 @@
   "headers": {
     "content-encoding": "gzip",
     "content-type": "text/html",
-    "date": "Sun, 18 Aug 2024 09:26:49 GMT",
-    "etag": "W/\"66ba01eb-1617\"",
-    "last-modified": "Mon, 12 Aug 2024 12:36:59 GMT",
+    "date": "Sun, 25 Aug 2024 09:39:39 GMT",
+    "etag": "W/\"66c5aefa-1617\"",
+    "last-modified": "Wed, 21 Aug 2024 09:10:18 GMT",
     "referrer-policy": ": no-referrer",
-    "sozu-id": "01J5JCYEWEJDD1SP0E455VGXVP",
+    "sozu-id": "01J64EEZCYMF4JFB6A59D812F6",
     "strict-transport-security": ": max-age=31536000; includeSubDomains; preload",
     "x-content-type-options": ": nosniff",
     "x-download-options": ": noopen",
@@ -66,7 +66,7 @@
   "endpoints": [
     {
       "hostname": "moncompte.snu.gouv.fr",
-      "ip": "185.231.167.148",
+      "ip": "185.179.149.148",
       "geoip": {
         "continent": {
           "code": "EU",
@@ -122,7 +122,7 @@
     },
     {
       "hostname": "fonts.googleapis.com",
-      "ip": "142.250.191.74",
+      "ip": "172.217.1.106",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -176,18 +176,19 @@
     },
     {
       "hostname": "plausible.io",
-      "ip": "169.150.221.147",
+      "ip": "169.150.236.104",
       "geoip": {
         "city": {
-          "geoname_id": 5392171,
+          "geoname_id": 4887398,
           "names": {
-            "de": "San José",
-            "en": "San Jose",
-            "es": "San José",
-            "fr": "San José",
-            "ja": "サンノゼ",
-            "pt-BR": "San José",
-            "ru": "Сан-Хосе"
+            "de": "Chicago",
+            "en": "Chicago",
+            "es": "Chicago",
+            "fr": "Chicago",
+            "ja": "シカゴ",
+            "pt-BR": "Chicago",
+            "ru": "Чикаго",
+            "zh-CN": "芝加哥"
           }
         },
         "continent": {
@@ -220,13 +221,13 @@
         },
         "location": {
           "accuracy_radius": 20,
-          "latitude": 37.1835,
-          "longitude": -121.7714,
-          "metro_code": 807,
-          "time_zone": "America/Los_Angeles"
+          "latitude": 41.8874,
+          "longitude": -87.6318,
+          "metro_code": 602,
+          "time_zone": "America/Chicago"
         },
         "postal": {
-          "code": "95141"
+          "code": "60602"
         },
         "registered_country": {
           "geoname_id": 2635167,
@@ -244,17 +245,17 @@
         },
         "subdivisions": [
           {
-            "geoname_id": 5332921,
-            "iso_code": "CA",
+            "geoname_id": 4896861,
+            "iso_code": "IL",
             "names": {
-              "de": "Kalifornien",
-              "en": "California",
-              "es": "California",
-              "fr": "Californie",
-              "ja": "カリフォルニア州",
-              "pt-BR": "Califórnia",
-              "ru": "Калифорния",
-              "zh-CN": "加州"
+              "de": "Illinois",
+              "en": "Illinois",
+              "es": "Illinois",
+              "fr": "Illinois",
+              "ja": "イリノイ州",
+              "pt-BR": "Ilinóis",
+              "ru": "Иллинойс",
+              "zh-CN": "伊利诺伊州"
             }
           }
         ]
