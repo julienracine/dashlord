@@ -1,26 +1,26 @@
-# Nmap 7.92 scan initiated Sun Aug 18 07:51:08 2024 as: nmap -sV --script vulners --script-args mincvss=5.0 -oA /data/nmapvuln santepsy.etudiant.gouv.fr
+# Nmap 7.92 scan initiated Sun Aug 25 08:03:48 2024 as: nmap -sV --script vulners --script-args mincvss=5.0 -oA /data/nmapvuln santepsy.etudiant.gouv.fr
 Nmap scan report for santepsy.etudiant.gouv.fr (185.75.143.93)
 Host is up (0.10s latency).
 rDNS record for 185.75.143.93: men-tandem-lb-vip.dedie.ate.info
-Not shown: 984 filtered tcp ports (no-response)
+Not shown: 985 filtered tcp ports (no-response)
 PORT      STATE  SERVICE        VERSION
 80/tcp    open   tcpwrapped
 |_http-server-header: nginx
+417/tcp   closed onmux
 443/tcp   open   ssl/tcpwrapped
-911/tcp   closed xact-backup
-1201/tcp  closed nucleus-sand
-2045/tcp  closed cdfunc
-3003/tcp  closed cgms
-4343/tcp  closed unicall
-4443/tcp  closed pharos
-5631/tcp  closed pcanywheredata
-5666/tcp  closed nrpe
-5962/tcp  closed unknown
-6346/tcp  closed gnutella
-7496/tcp  closed unknown
-8001/tcp  closed vcom-tunnel
+|_http-trane-info: Problem with XML parsing of /evox/about
+1119/tcp  closed bnetgame
+2042/tcp  closed isis
+2100/tcp  closed amiganetfs
+2191/tcp  closed tvbus
+3300/tcp  closed ceph
+3367/tcp  closed satvid-datalnk
+3826/tcp  closed wormux
+6002/tcp  closed X11:2
+6668/tcp  closed irc
+8194/tcp  closed sophos
+9666/tcp  closed zoomcp
 10010/tcp closed rxapi
-62078/tcp closed iphone-sync
 
 Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
-# Nmap done at Sun Aug 18 07:51:33 2024 -- 1 IP address (1 host up) scanned in 25.35 seconds
+# Nmap done at Sun Aug 25 08:04:18 2024 -- 1 IP address (1 host up) scanned in 29.62 seconds
