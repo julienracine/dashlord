@@ -22,7 +22,7 @@
     },
     {
       "type": "unknown",
-      "url": "https://analytics.pix.fr/piwik.php?action_name=%2F&idsite=1&rec=1&r=485447&h=6&m=43&s=59&url=https%3A%2F%2Fpix.fr%2F&_id=33c2098e0591e8a5&_idn=1&send_image=0&_refts=0&cookie=1&res=800x600&pv_id=RILGgt&pf_net=0&pf_srv=114&pf_tfr=63&pf_dm1=245&pf_dm2=436&pf_onl=0"
+      "url": "https://analytics.pix.fr/piwik.php?action_name=%2F&idsite=1&rec=1&r=422390&h=6&m=55&s=33&url=https%3A%2F%2Fpix.fr%2F&_id=c6f2766a49a6c52f&_idn=1&send_image=0&_refts=0&cookie=1&res=800x600&pv_id=SQDbD9&pf_net=0&pf_srv=126&pf_tfr=77&pf_dm1=266&pf_dm2=413&pf_onl=0"
     }
   ],
   "cookies": [
@@ -42,11 +42,11 @@
     },
     {
       "name": "challenge",
-      "value": "QHbILtM2iYPT-642lSqlT-NDRa7Y-7_xOYxdL0az6cqVTv27zY50e_5G0xBKYeEGdXnD-Ll7Km5JZhXZf9Gf32sOQd7GuYRXDZLr7e3t7F11SsK_iWFqgbK4rxeiMm_oQBAM3SqkCd3We8-BBsmy8vDWZJf2mPPEcuKvoEReygzq2dfrj2c5z9enA2Mif3yR6l402-cuu5_LVSGV4vguMNVidsP7JnOI2SR7u3jWb42yUi41lOIGmb3csc2uxAM6",
+      "value": "QHbILtM2iYPT-642lSqlT8iQthf9JG9eOYcMJmi-Ue7X033mvbt8XlwPppJDYUe07y-Ymt8sriIL6MDF6fXxIlBlKYa1YZsexXwq6DQ_DkESpql-W0mf8fmwXByu-Rs9A7uL9CMIffCM0Q5Qe_WWLMMfRRlMmaYrqJv3NlZQXVWs8TW2W8L269-5cEe1k2BezGNSEdyziEt4uD9UAjzzNOgjHC2PkpVj0aqowk5-_l3uKkm2luUflO9BX3D2m_7l0Yv0oVSS9zhoKijTQo5oWQ",
       "domain": ".pix.fr",
       "path": "/",
-      "expires": 1723967038.305786,
-      "size": 265,
+      "expires": 1724572532.713371,
+      "size": 287,
       "httpOnly": false,
       "secure": false,
       "session": false,
@@ -60,16 +60,16 @@
     "age": "0",
     "content-encoding": "gzip",
     "content-type": "text/html; charset=utf-8",
-    "date": "Sun, 18 Aug 2024 06:43:58 GMT",
-    "etag": "W/\"66bc82de-2165a\"",
-    "last-modified": "Wed, 14 Aug 2024 10:11:42 GMT",
+    "date": "Sun, 25 Aug 2024 06:55:32 GMT",
+    "etag": "W/\"66c88427-2165a\"",
+    "last-modified": "Fri, 23 Aug 2024 12:44:23 GMT",
     "referrer-policy": "origin-when-cross-origin",
     "strict-transport-security": "max-age=31536000",
     "vary": "Accept-Encoding",
     "x-content-type-options": "nosniff",
     "x-frame-options": "DENY",
-    "x-request-id": "c9ba624aada5ee62a435556891d36deb",
-    "x-varnish": "166664340",
+    "x-request-id": "415e665ab474f2ca079c5cab8abf469a",
+    "x-varnish": "164749987",
     "x-xss-protection": "1; mode=block"
   },
   "endpoints": [
@@ -131,14 +131,8 @@
     },
     {
       "hostname": "fonts.googleapis.com",
-      "ip": "142.251.179.95",
+      "ip": "172.217.4.202",
       "geoip": {
-        "city": {
-          "geoname_id": 5116931,
-          "names": {
-            "en": "Farmingdale"
-          }
-        },
         "continent": {
           "code": "NA",
           "geoname_id": 6255149,
@@ -169,13 +163,9 @@
         },
         "location": {
           "accuracy_radius": 1000,
-          "latitude": 40.7306,
-          "longitude": -73.4313,
-          "metro_code": 501,
-          "time_zone": "America/New_York"
-        },
-        "postal": {
-          "code": "11735"
+          "latitude": 37.751,
+          "longitude": -97.822,
+          "time_zone": "America/Chicago"
         },
         "registered_country": {
           "geoname_id": 6252001,
@@ -190,23 +180,7 @@
             "ru": "США",
             "zh-CN": "美国"
           }
-        },
-        "subdivisions": [
-          {
-            "geoname_id": 5128638,
-            "iso_code": "NY",
-            "names": {
-              "de": "New York",
-              "en": "New York",
-              "es": "Nueva York",
-              "fr": "New York",
-              "ja": "ニューヨーク州",
-              "pt-BR": "Nova Iorque",
-              "ru": "Нью-Йорк",
-              "zh-CN": "纽约州"
-            }
-          }
-        ]
+        }
       }
     },
     {
@@ -308,7 +282,7 @@
     },
     {
       "hostname": "static.cdn.prismic.io",
-      "ip": "99.84.191.33",
+      "ip": "13.32.164.90",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -362,7 +336,7 @@
     },
     {
       "hostname": "pix-site.prismic.io",
-      "ip": "18.233.141.72",
+      "ip": "23.21.59.137",
       "geoip": {
         "city": {
           "geoname_id": 4744870,
@@ -406,7 +380,7 @@
           }
         },
         "location": {
-          "accuracy_radius": 500,
+          "accuracy_radius": 1000,
           "latitude": 39.0469,
           "longitude": -77.4903,
           "metro_code": 511,
