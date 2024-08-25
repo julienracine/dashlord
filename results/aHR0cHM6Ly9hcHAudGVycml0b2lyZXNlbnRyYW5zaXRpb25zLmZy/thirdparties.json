@@ -2,7 +2,7 @@
   "trackers": [
     {
       "type": "unknown",
-      "url": "https://stonly.com/js/widget/v2/version?v=1723988065543"
+      "url": "https://stonly.com/js/widget/v2/version?v=1724593855488"
     },
     {
       "type": "crisp",
@@ -14,7 +14,7 @@
     },
     {
       "type": "unknown",
-      "url": "https://stonly.com/js/widget/v2/stonly-widget.js?v=58ec3f2a"
+      "url": "https://stonly.com/js/widget/v2/stonly-widget.js?v=8d773a6f"
     },
     {
       "type": "unknown",
@@ -22,7 +22,7 @@
     },
     {
       "type": "unknown",
-      "url": "https://stonly.com/js/widget/v2/widget-699cddf4518b62d8ebb2.stonly.js"
+      "url": "https://stonly.com/js/widget/v2/widget-991c5cdf28dc1b4b83f5.stonly.js"
     },
     {
       "type": "unknown",
@@ -38,11 +38,11 @@
     },
     {
       "type": "unknown",
-      "url": "https://api.stonly.com/api/v2/widget/integration?widgetId=1b1b2533-383c-11ef-a9d4-06cb0cb2a85e&stonlyAnonymousId=85f2d9a5-6a67-4ebf-b7cc-897ea1a0d58a&url=https%3A%2F%2Fapp.territoiresentransitions.fr%2F"
+      "url": "https://api.stonly.com/api/v2/widget/integration?widgetId=1b1b2533-383c-11ef-a9d4-06cb0cb2a85e&stonlyAnonymousId=37522943-d223-445e-9628-88e5c09bf933&url=https%3A%2F%2Fapp.territoiresentransitions.fr%2F"
     },
     {
       "type": "unknown",
-      "url": "https://api.stonly.com/api/v2/widget/integration?widgetId=1b1b2533-383c-11ef-a9d4-06cb0cb2a85e&stonlyAnonymousId=85f2d9a5-6a67-4ebf-b7cc-897ea1a0d58a&url=https%3A%2F%2Fapp.territoiresentransitions.fr%2F"
+      "url": "https://api.stonly.com/api/v2/widget/integration?widgetId=1b1b2533-383c-11ef-a9d4-06cb0cb2a85e&stonlyAnonymousId=37522943-d223-445e-9628-88e5c09bf933&url=https%3A%2F%2Fapp.territoiresentransitions.fr%2F"
     },
     {
       "type": "unknown",
@@ -58,12 +58,12 @@
     "alt-svc": "h3=\":443\"; ma=86400",
     "cache-control": "public, max-age=0",
     "cf-cache-status": "DYNAMIC",
-    "cf-ray": "8b5247ff7cc19e5e-SJC",
+    "cf-ray": "8b8c0dcbcb7321a9-ORD",
     "content-encoding": "br",
     "content-type": "text/html; charset=UTF-8",
-    "date": "Sun, 18 Aug 2024 13:34:25 GMT",
-    "etag": "W/\"aff-19151998020\"",
-    "last-modified": "Wed, 14 Aug 2024 15:55:00 GMT",
+    "date": "Sun, 25 Aug 2024 13:50:55 GMT",
+    "etag": "W/\"aff-1917af5f0c0\"",
+    "last-modified": "Thu, 22 Aug 2024 16:40:24 GMT",
     "server": "cloudflare",
     "x-envoy-upstream-service-time": "82",
     "x-koyeb-backend": "par1",
@@ -73,7 +73,7 @@
   "endpoints": [
     {
       "hostname": "app.territoiresentransitions.fr",
-      "ip": "104.22.79.190",
+      "ip": "172.67.24.44",
       "geoip": {
         "registered_country": {
           "geoname_id": 6252001,
@@ -93,7 +93,7 @@
     },
     {
       "hostname": "stonly.com",
-      "ip": "18.173.121.57",
+      "ip": "18.172.122.90",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -125,9 +125,9 @@
         },
         "location": {
           "accuracy_radius": 1000,
-          "latitude": 37.751,
-          "longitude": -97.822,
-          "time_zone": "America/Chicago"
+          "latitude": 34.0544,
+          "longitude": -118.244,
+          "time_zone": "America/Los_Angeles"
         },
         "registered_country": {
           "geoname_id": 6252001,
@@ -142,7 +142,23 @@
             "ru": "США",
             "zh-CN": "美国"
           }
-        }
+        },
+        "subdivisions": [
+          {
+            "geoname_id": 5332921,
+            "iso_code": "CA",
+            "names": {
+              "de": "Kalifornien",
+              "en": "California",
+              "es": "California",
+              "fr": "Californie",
+              "ja": "カリフォルニア州",
+              "pt-BR": "Califórnia",
+              "ru": "Калифорния",
+              "zh-CN": "加州"
+            }
+          }
+        ]
       }
     },
     {
@@ -167,7 +183,7 @@
     },
     {
       "hostname": "s.stonly.com",
-      "ip": "65.8.161.73",
+      "ip": "54.230.18.13",
       "geoip": {
         "continent": {
           "code": "NA",
