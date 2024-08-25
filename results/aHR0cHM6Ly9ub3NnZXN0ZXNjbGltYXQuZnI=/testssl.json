@@ -345,8 +345,8 @@
               "id"           : "cert_expirationStatus",
               "ip"           : "nosgestesclimat.fr/76.76.21.21",
               "port"         : "443",
-              "severity"     : "OK",
-              "finding"      : "35 >= 30 days"
+              "severity"     : "MEDIUM",
+              "finding"      : "expires < 30 days (28)"
           }
 ,         {
               "id"           : "cert_notBefore",
@@ -359,7 +359,7 @@
               "id"           : "cert_notAfter",
               "ip"           : "nosgestesclimat.fr/76.76.21.21",
               "port"         : "443",
-              "severity"     : "OK",
+              "severity"     : "MEDIUM",
               "finding"      : "2024-09-22 23:46"
           }
 ,         {
@@ -507,14 +507,14 @@
               "ip"           : "nosgestesclimat.fr/76.76.21.21",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "0 seconds from localtime"
+              "finding"      : "-1 seconds from localtime"
           }
 ,         {
               "id"           : "HTTP_headerTime",
               "ip"           : "nosgestesclimat.fr/76.76.21.21",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1723959884"
+              "finding"      : "1724565301"
           }
 ,         {
               "id"           : "HTTP_headerAge",
@@ -1084,6 +1084,6 @@
               "ip"           : "nosgestesclimat.fr/76.76.21.21",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "41"
+              "finding"      : "39"
           }
 ]
