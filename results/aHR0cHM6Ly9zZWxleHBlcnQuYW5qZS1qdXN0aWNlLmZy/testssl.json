@@ -353,7 +353,7 @@
               "ip"           : "selexpert.anje-justice.fr/91.208.207.214",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "87 >= 30 days"
+              "finding"      : "80 >= 30 days"
           }
 ,         {
               "id"           : "cert_notBefore",
@@ -514,7 +514,7 @@
               "ip"           : "selexpert.anje-justice.fr/91.208.207.214",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1723996560"
+              "finding"      : "1724602564"
           }
 ,         {
               "id"           : "HSTS",
