@@ -18,7 +18,7 @@
     },
     {
       "name": "__Host-next-auth.csrf-token",
-      "value": "af56a6b0c211a308982b3bf8ef35e3e397ecf2134731c8e5a60e273c241d386a%7C32d17df2863293c4796aed66969cd5604b3aeeced56732c16cb1c4ca7c8c1d9b",
+      "value": "40870f70ba3a8b97478ea3e226ca02cf66d395ddc301ed2363239dc77f70b650%7C09c64a56f221dfc9a407ab5a83e5c42df85019cbaae760263adb212e41f5ecdb",
       "domain": "plusfraichemaville.fr",
       "path": "/",
       "expires": -1,
@@ -35,20 +35,20 @@
   "headers": {
     "cache-control": "private, no-cache, no-store, max-age=0, must-revalidate",
     "content-encoding": "gzip",
-    "content-security-policy": "default-src 'self'; script-src 'self' https://stats.beta.gouv.fr 'nonce-Y2FjZGY5YjUtYTljYy00M2U1LWIwMzMtOTg5YWQ5ZjAwZWNk' 'strict-dynamic' ; style-src 'self' 'unsafe-inline'; img-src 'self' blob: data: https://plusfraichemaville.s3.fr-par.scw.cloud/ ; font-src 'self'; object-src 'none'; base-uri 'self'; form-action 'self'; frame-src https://c33e446d.sibforms.com https://stats.plusfraichemaville.fr; frame-ancestors 'none'; upgrade-insecure-requests; connect-src 'self' https://sentry.incubateur.net/ https://stats.beta.gouv.fr/matomo.php https://api-adresse.data.gouv.fr/search/ ;",
+    "content-security-policy": "default-src 'self'; script-src 'self' https://stats.beta.gouv.fr 'nonce-ODFiZjVkMjEtNjI5My00MzkwLTlhYzktYzcyZDllMzhiZjRh' 'strict-dynamic' ; style-src 'self' 'unsafe-inline'; img-src 'self' blob: data: https://plusfraichemaville.s3.fr-par.scw.cloud/ ; font-src 'self'; object-src 'none'; base-uri 'self'; form-action 'self'; frame-src https://c33e446d.sibforms.com https://stats.plusfraichemaville.fr; frame-ancestors 'none'; upgrade-insecure-requests; connect-src 'self' https://sentry.incubateur.net/ https://stats.beta.gouv.fr/matomo.php https://api-adresse.data.gouv.fr/search/ ;",
     "content-type": "text/html; charset=utf-8",
-    "date": "Sun, 18 Aug 2024 06:59:44 GMT",
+    "date": "Sun, 25 Aug 2024 07:09:54 GMT",
     "strict-transport-security": "max-age=31536000",
     "vary": "RSC, Next-Router-State-Tree, Next-Router-Prefetch, Next-Url, Accept-Encoding",
     "x-content-type-options": "nosniff",
     "x-frame-options": "DENY",
     "x-powered-by": "Next.js",
-    "x-request-id": "e091c77a-19db-4e95-bb56-32e6d3f4ee9b"
+    "x-request-id": "e2c73d99-d314-48f2-8363-12de838210e5"
   },
   "endpoints": [
     {
       "hostname": "plusfraichemaville.fr",
-      "ip": "109.232.233.130",
+      "ip": "5.104.101.30",
       "geoip": {
         "continent": {
           "code": "EU",
