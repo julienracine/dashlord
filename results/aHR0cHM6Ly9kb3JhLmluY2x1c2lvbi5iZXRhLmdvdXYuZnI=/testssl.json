@@ -199,7 +199,7 @@
               "ip"           : "dora.inclusion.beta.gouv.fr/80.247.12.255",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "not supported"
+              "finding"      : "supported"
           }
 ,         {
               "id"           : "sessionresumption_ID",
@@ -346,7 +346,7 @@
               "ip"           : "dora.inclusion.beta.gouv.fr/80.247.12.255",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "68 >= 30 days"
+              "finding"      : "61 >= 30 days"
           }
 ,         {
               "id"           : "cert_notBefore",
@@ -500,14 +500,14 @@
               "ip"           : "dora.inclusion.beta.gouv.fr/80.247.12.255",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "0 seconds from localtime"
+              "finding"      : "-1 seconds from localtime"
           }
 ,         {
               "id"           : "HTTP_headerTime",
               "ip"           : "dora.inclusion.beta.gouv.fr/80.247.12.255",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1723983174"
+              "finding"      : "1724588504"
           }
 ,         {
               "id"           : "HSTS_time",
@@ -577,7 +577,7 @@
               "ip"           : "dora.inclusion.beta.gouv.fr/80.247.12.255",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "child-src https://aide.dora.inclusion.beta.gouv.fr/ https://metabase.dora.inclusion.beta.gouv.fr https://tally.so https://tube.numerique.gouv.fr; default-src 'none'; worker-src 'self' blob:; connect-src 'self' data: https://api.dora.inclusion.beta.gouv.fr https://*.sentry.gip-inclusion.org https://*.sentry.gip-inclusion.cloud-ed.fr https://sentry.gip-inclusion.org https://sentry.gip-inclusion.cloud-ed.fr https://api-adresse.data.gouv.fr/ https://openmaptiles.geo.data.gouv.fr/ https://openmaptiles.github.io/osm-bright-gl-style/ https://matomo.inclusion.beta.gouv.fr https://api.collectivite.fr; font-src 'self'; img-src 'self' data:; script-src 'self' 'strict-dynamic' 'unsafe-inline' https://tally.so/widgets/embed.js 'nonce-u4wjO68Sni58Ept2ckd/pg=='; style-src 'self' https://tally.so/widgets/embed.js 'unsafe-inline'; base-uri 'self'"
+              "finding"      : "child-src https://aide.dora.inclusion.beta.gouv.fr/ https://metabase.dora.inclusion.beta.gouv.fr https://tally.so https://tube.numerique.gouv.fr; default-src 'none'; worker-src 'self' blob:; connect-src 'self' data: https://api.dora.inclusion.beta.gouv.fr https://*.sentry.gip-inclusion.org https://*.sentry.gip-inclusion.cloud-ed.fr https://sentry.gip-inclusion.org https://sentry.gip-inclusion.cloud-ed.fr https://api-adresse.data.gouv.fr/ https://openmaptiles.geo.data.gouv.fr/ https://openmaptiles.github.io/osm-bright-gl-style/ https://matomo.inclusion.beta.gouv.fr https://api.collectivite.fr; font-src 'self'; img-src 'self' data:; script-src 'self' 'strict-dynamic' 'unsafe-inline' https://tally.so/widgets/embed.js 'nonce-RJ5xIbc0qdArztfTBSXxdw=='; style-src 'self' https://tally.so/widgets/embed.js 'unsafe-inline'; base-uri 'self'"
           }
 ,         {
               "id"           : "X-XSS-Protection",
@@ -1440,7 +1440,7 @@
               "ip"           : "dora.inclusion.beta.gouv.fr/185.21.194.105",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "68 >= 30 days"
+              "finding"      : "61 >= 30 days"
           }
 ,         {
               "id"           : "cert_notBefore",
@@ -1601,7 +1601,7 @@
               "ip"           : "dora.inclusion.beta.gouv.fr/185.21.194.105",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1723983275"
+              "finding"      : "1724588556"
           }
 ,         {
               "id"           : "HSTS_time",
@@ -1671,7 +1671,7 @@
               "ip"           : "dora.inclusion.beta.gouv.fr/185.21.194.105",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "child-src https://aide.dora.inclusion.beta.gouv.fr/ https://metabase.dora.inclusion.beta.gouv.fr https://tally.so https://tube.numerique.gouv.fr; default-src 'none'; worker-src 'self' blob:; connect-src 'self' data: https://api.dora.inclusion.beta.gouv.fr https://*.sentry.gip-inclusion.org https://*.sentry.gip-inclusion.cloud-ed.fr https://sentry.gip-inclusion.org https://sentry.gip-inclusion.cloud-ed.fr https://api-adresse.data.gouv.fr/ https://openmaptiles.geo.data.gouv.fr/ https://openmaptiles.github.io/osm-bright-gl-style/ https://matomo.inclusion.beta.gouv.fr https://api.collectivite.fr; font-src 'self'; img-src 'self' data:; script-src 'self' 'strict-dynamic' 'unsafe-inline' https://tally.so/widgets/embed.js 'nonce-nOX2u0j1euyVj9CuHD+Gtw=='; style-src 'self' https://tally.so/widgets/embed.js 'unsafe-inline'; base-uri 'self'"
+              "finding"      : "child-src https://aide.dora.inclusion.beta.gouv.fr/ https://metabase.dora.inclusion.beta.gouv.fr https://tally.so https://tube.numerique.gouv.fr; default-src 'none'; worker-src 'self' blob:; connect-src 'self' data: https://api.dora.inclusion.beta.gouv.fr https://*.sentry.gip-inclusion.org https://*.sentry.gip-inclusion.cloud-ed.fr https://sentry.gip-inclusion.org https://sentry.gip-inclusion.cloud-ed.fr https://api-adresse.data.gouv.fr/ https://openmaptiles.geo.data.gouv.fr/ https://openmaptiles.github.io/osm-bright-gl-style/ https://matomo.inclusion.beta.gouv.fr https://api.collectivite.fr; font-src 'self'; img-src 'self' data:; script-src 'self' 'strict-dynamic' 'unsafe-inline' https://tally.so/widgets/embed.js 'nonce-zl/lCctFsxrpBoQJbPPAwg=='; style-src 'self' https://tally.so/widgets/embed.js 'unsafe-inline'; base-uri 'self'"
           }
 ,         {
               "id"           : "X-XSS-Protection",
@@ -2534,7 +2534,7 @@
               "ip"           : "dora.inclusion.beta.gouv.fr/148.253.96.193",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "68 >= 30 days"
+              "finding"      : "61 >= 30 days"
           }
 ,         {
               "id"           : "cert_notBefore",
@@ -2695,7 +2695,7 @@
               "ip"           : "dora.inclusion.beta.gouv.fr/148.253.96.193",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1723983374"
+              "finding"      : "1724588609"
           }
 ,         {
               "id"           : "HSTS_time",
@@ -2765,7 +2765,7 @@
               "ip"           : "dora.inclusion.beta.gouv.fr/148.253.96.193",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "child-src https://aide.dora.inclusion.beta.gouv.fr/ https://metabase.dora.inclusion.beta.gouv.fr https://tally.so https://tube.numerique.gouv.fr; default-src 'none'; worker-src 'self' blob:; connect-src 'self' data: https://api.dora.inclusion.beta.gouv.fr https://*.sentry.gip-inclusion.org https://*.sentry.gip-inclusion.cloud-ed.fr https://sentry.gip-inclusion.org https://sentry.gip-inclusion.cloud-ed.fr https://api-adresse.data.gouv.fr/ https://openmaptiles.geo.data.gouv.fr/ https://openmaptiles.github.io/osm-bright-gl-style/ https://matomo.inclusion.beta.gouv.fr https://api.collectivite.fr; font-src 'self'; img-src 'self' data:; script-src 'self' 'strict-dynamic' 'unsafe-inline' https://tally.so/widgets/embed.js 'nonce-vvpGJPgXvRoz101GpWVlGg=='; style-src 'self' https://tally.so/widgets/embed.js 'unsafe-inline'; base-uri 'self'"
+              "finding"      : "child-src https://aide.dora.inclusion.beta.gouv.fr/ https://metabase.dora.inclusion.beta.gouv.fr https://tally.so https://tube.numerique.gouv.fr; default-src 'none'; worker-src 'self' blob:; connect-src 'self' data: https://api.dora.inclusion.beta.gouv.fr https://*.sentry.gip-inclusion.org https://*.sentry.gip-inclusion.cloud-ed.fr https://sentry.gip-inclusion.org https://sentry.gip-inclusion.cloud-ed.fr https://api-adresse.data.gouv.fr/ https://openmaptiles.geo.data.gouv.fr/ https://openmaptiles.github.io/osm-bright-gl-style/ https://matomo.inclusion.beta.gouv.fr https://api.collectivite.fr; font-src 'self'; img-src 'self' data:; script-src 'self' 'strict-dynamic' 'unsafe-inline' https://tally.so/widgets/embed.js 'nonce-nb2DjSSluSDHplljIRkdKA=='; style-src 'self' https://tally.so/widgets/embed.js 'unsafe-inline'; base-uri 'self'"
           }
 ,         {
               "id"           : "X-XSS-Protection",
@@ -3628,7 +3628,7 @@
               "ip"           : "dora.inclusion.beta.gouv.fr/80.247.13.145",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "68 >= 30 days"
+              "finding"      : "61 >= 30 days"
           }
 ,         {
               "id"           : "cert_notBefore",
@@ -3782,14 +3782,14 @@
               "ip"           : "dora.inclusion.beta.gouv.fr/80.247.13.145",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "-1 seconds from localtime"
+              "finding"      : "0 seconds from localtime"
           }
 ,         {
               "id"           : "HTTP_headerTime",
               "ip"           : "dora.inclusion.beta.gouv.fr/80.247.13.145",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1723983472"
+              "finding"      : "1724588661"
           }
 ,         {
               "id"           : "HSTS_time",
@@ -3859,7 +3859,7 @@
               "ip"           : "dora.inclusion.beta.gouv.fr/80.247.13.145",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "child-src https://aide.dora.inclusion.beta.gouv.fr/ https://metabase.dora.inclusion.beta.gouv.fr https://tally.so https://tube.numerique.gouv.fr; default-src 'none'; worker-src 'self' blob:; connect-src 'self' data: https://api.dora.inclusion.beta.gouv.fr https://*.sentry.gip-inclusion.org https://*.sentry.gip-inclusion.cloud-ed.fr https://sentry.gip-inclusion.org https://sentry.gip-inclusion.cloud-ed.fr https://api-adresse.data.gouv.fr/ https://openmaptiles.geo.data.gouv.fr/ https://openmaptiles.github.io/osm-bright-gl-style/ https://matomo.inclusion.beta.gouv.fr https://api.collectivite.fr; font-src 'self'; img-src 'self' data:; script-src 'self' 'strict-dynamic' 'unsafe-inline' https://tally.so/widgets/embed.js 'nonce-eYXW6nUQrEtN9wP/88XBog=='; style-src 'self' https://tally.so/widgets/embed.js 'unsafe-inline'; base-uri 'self'"
+              "finding"      : "child-src https://aide.dora.inclusion.beta.gouv.fr/ https://metabase.dora.inclusion.beta.gouv.fr https://tally.so https://tube.numerique.gouv.fr; default-src 'none'; worker-src 'self' blob:; connect-src 'self' data: https://api.dora.inclusion.beta.gouv.fr https://*.sentry.gip-inclusion.org https://*.sentry.gip-inclusion.cloud-ed.fr https://sentry.gip-inclusion.org https://sentry.gip-inclusion.cloud-ed.fr https://api-adresse.data.gouv.fr/ https://openmaptiles.geo.data.gouv.fr/ https://openmaptiles.github.io/osm-bright-gl-style/ https://matomo.inclusion.beta.gouv.fr https://api.collectivite.fr; font-src 'self'; img-src 'self' data:; script-src 'self' 'strict-dynamic' 'unsafe-inline' https://tally.so/widgets/embed.js 'nonce-kfG9jkvSa8iXhmw06gLyPg=='; style-src 'self' https://tally.so/widgets/embed.js 'unsafe-inline'; base-uri 'self'"
           }
 ,         {
               "id"           : "X-XSS-Protection",
@@ -4380,6 +4380,6 @@
               "ip"           : "dora.inclusion.beta.gouv.fr/80.247.13.145",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "400"
+              "finding"      : "212"
           }
 ]
