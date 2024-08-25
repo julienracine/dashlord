@@ -18,14 +18,14 @@
     "content-encoding": "gzip",
     "content-security-policy": "frame-ancestors 'self'; object-src 'none'; img-src 'self' data: https: ; script-src 'self' https://static.userguiding.com https://public.produktly.com https://matomo.fabrique.social.gouv.fr 'unsafe-inline'",
     "content-type": "text/html; charset=utf-8",
-    "date": "Sun, 18 Aug 2024 15:54:00 GMT",
-    "etag": "\"m4quqtd65nlwo\"",
+    "date": "Sun, 25 Aug 2024 16:10:23 GMT",
+    "etag": "\"nuielelmkbhyp\"",
     "strict-transport-security": "max-age=31536000",
     "vary": "Accept-Encoding",
     "x-content-type-options": "nosniff",
     "x-frame-options": "SAMEORIGIN",
     "x-powered-by": "Next.js",
-    "x-request-id": "00b58fa8-b556-4542-8e57-dcbd20b5da5e"
+    "x-request-id": "e4280e4e-45a9-4b0b-b47e-c139b598113f"
   },
   "endpoints": [
     {
@@ -86,7 +86,7 @@
     },
     {
       "hostname": "healing-nature-bb0384846f.media.strapiapp.com",
-      "ip": "104.18.12.192",
+      "ip": "104.18.42.227",
       "geoip": {
         "registered_country": {
           "geoname_id": 6252001,
