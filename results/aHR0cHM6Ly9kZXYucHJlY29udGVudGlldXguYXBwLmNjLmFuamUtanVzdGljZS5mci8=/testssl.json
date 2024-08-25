@@ -352,8 +352,8 @@
               "id"           : "cert_expirationStatus",
               "ip"           : "dev.precontentieux.app.cc.anje-justice.fr/91.208.207.214",
               "port"         : "443",
-              "severity"     : "OK",
-              "finding"      : "33 >= 30 days"
+              "severity"     : "MEDIUM",
+              "finding"      : "expires < 30 days (26)"
           }
 ,         {
               "id"           : "cert_notBefore",
@@ -366,7 +366,7 @@
               "id"           : "cert_notAfter",
               "ip"           : "dev.precontentieux.app.cc.anje-justice.fr/91.208.207.214",
               "port"         : "443",
-              "severity"     : "OK",
+              "severity"     : "MEDIUM",
               "finding"      : "2024-09-21 02:49"
           }
 ,         {
@@ -514,7 +514,7 @@
               "ip"           : "dev.precontentieux.app.cc.anje-justice.fr/91.208.207.214",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1724004151"
+              "finding"      : "1724610435"
           }
 ,         {
               "id"           : "HSTS",
@@ -535,14 +535,14 @@
               "ip"           : "dev.precontentieux.app.cc.anje-justice.fr/91.208.207.214",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "Apache/2.4.61 (Debian)"
+              "finding"      : "Apache"
           }
 ,         {
               "id"           : "banner_application",
               "ip"           : "dev.precontentieux.app.cc.anje-justice.fr/91.208.207.214",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "X-Powered-By: PHP/8.2.22"
+              "finding"      : "No application banner found"
           }
 ,         {
               "id"           : "cookie_count",
@@ -1070,6 +1070,6 @@
               "ip"           : "dev.precontentieux.app.cc.anje-justice.fr/91.208.207.214",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "98"
+              "finding"      : "57"
           }
 ]
