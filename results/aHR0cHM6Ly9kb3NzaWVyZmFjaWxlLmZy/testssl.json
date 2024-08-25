@@ -346,7 +346,7 @@
               "ip"           : "dossierfacile.fr/109.232.236.90",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "79 >= 30 days"
+              "finding"      : "72 >= 30 days"
           }
 ,         {
               "id"           : "cert_notBefore",
@@ -507,7 +507,7 @@
               "ip"           : "dossierfacile.fr/109.232.236.90",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1723951488"
+              "finding"      : "1724556355"
           }
 ,         {
               "id"           : "HSTS",
@@ -1405,7 +1405,7 @@
               "ip"           : "dossierfacile.fr/5.104.101.30",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "79 >= 30 days"
+              "finding"      : "72 >= 30 days"
           }
 ,         {
               "id"           : "cert_notBefore",
@@ -1566,7 +1566,7 @@
               "ip"           : "dossierfacile.fr/5.104.101.30",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1723951582"
+              "finding"      : "1724556449"
           }
 ,         {
               "id"           : "HSTS",
