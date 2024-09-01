@@ -353,7 +353,7 @@
               "ip"           : "labonnealternance.apprentissage.beta.gouv.fr/149.202.54.205",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "84 >= 30 days"
+              "finding"      : "77 >= 30 days"
           }
 ,         {
               "id"           : "cert_notBefore",
@@ -514,7 +514,7 @@
               "ip"           : "labonnealternance.apprentissage.beta.gouv.fr/149.202.54.205",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1724596311"
+              "finding"      : "1725201297"
           }
 ,         {
               "id"           : "HSTS_multiple",
@@ -1126,6 +1126,6 @@
               "ip"           : "labonnealternance.apprentissage.beta.gouv.fr/149.202.54.205",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "106"
+              "finding"      : "54"
           }
 ]
