@@ -105,9 +105,9 @@
               "id"           : "cipherlist_3DES_IDEA",
               "ip"           : "refugies.info/34.120.26.1",
               "port"         : "443",
-              "severity"     : "MEDIUM",
+              "severity"     : "INFO",
               "cwe"          : "CWE-310",
-              "finding"      : "offered"
+              "finding"      : "not offered"
           }
 ,         {
               "id"           : "cipherlist_OBSOLETED",
@@ -212,8 +212,8 @@
               "id"           : "TLS_session_ticket",
               "ip"           : "refugies.info/34.120.26.1",
               "port"         : "443",
-              "severity"     : "LOW",
-              "finding"      : "valid for 100800 seconds (>daily)"
+              "severity"     : "INFO",
+              "finding"      : "valid for 7200 seconds only (<daily)"
           }
 ,         {
               "id"           : "SSL_sessionID_support",
@@ -227,7 +227,7 @@
               "ip"           : "refugies.info/34.120.26.1",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "supported"
+              "finding"      : "not supported"
           }
 ,         {
               "id"           : "sessionresumption_ID",
@@ -374,7 +374,7 @@
               "ip"           : "refugies.info/34.120.26.1",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "72 >= 60 days"
+              "finding"      : "65 >= 60 days"
           }
 ,         {
               "id"           : "cert_notBefore",
@@ -577,7 +577,7 @@
               "ip"           : "refugies.info/34.120.26.1",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1724607567"
+              "finding"      : "1725212235"
           }
 ,         {
               "id"           : "HSTS",
@@ -720,10 +720,10 @@
               "id"           : "SWEET32",
               "ip"           : "refugies.info/34.120.26.1",
               "port"         : "443",
-              "severity"     : "LOW",
+              "severity"     : "OK",
               "cve"          : "CVE-2016-2183 CVE-2016-6329",
               "cwe"          : "CWE-327",
-              "finding"      : "uses 64 bit block ciphers"
+              "finding"      : "not vulnerable"
           }
 ,         {
               "id"           : "FREAK",
@@ -777,7 +777,7 @@
               "severity"     : "MEDIUM",
               "cve"          : "CVE-2011-3389",
               "cwe"          : "CWE-20",
-              "finding"      : "ECDHE-RSA-AES128-SHA ECDHE-RSA-AES256-SHA AES128-SHA AES256-SHA DES-CBC3-SHA"
+              "finding"      : "ECDHE-RSA-AES128-SHA ECDHE-RSA-AES256-SHA AES128-SHA AES256-SHA"
           }
 ,         {
               "id"           : "BEAST",
@@ -911,7 +911,7 @@
               "ip"           : "refugies.info/34.120.26.1",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "TLSv1.0 DES-CBC3-SHA"
+              "finding"      : "No connection"
           }
 ,         {
               "id"           : "clientsimulation-ie_11_win7",
@@ -995,7 +995,7 @@
               "ip"           : "refugies.info/34.120.26.1",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "TLSv1.2 ECDHE-RSA-AES128-GCM-SHA256"
+              "finding"      : "TLSv1.3 TLS_AES_128_GCM_SHA256"
           }
 ,         {
               "id"           : "clientsimulation-java1703",
@@ -1016,7 +1016,7 @@
               "ip"           : "refugies.info/34.120.26.1",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "TLSv1.2 ECDHE-RSA-CHACHA20-POLY1305"
+              "finding"      : "TLSv1.2 ECDHE-RSA-AES128-GCM-SHA256"
           }
 ,         {
               "id"           : "clientsimulation-openssl_102e",
@@ -1030,7 +1030,7 @@
               "ip"           : "refugies.info/34.120.26.1",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "TLSv1.2 ECDHE-RSA-CHACHA20-POLY1305"
+              "finding"      : "TLSv1.2 ECDHE-RSA-AES128-GCM-SHA256"
           }
 ,         {
               "id"           : "clientsimulation-openssl_111d",
@@ -1156,6 +1156,6 @@
               "ip"           : "refugies.info/34.120.26.1",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "55"
+              "finding"      : "54"
           }
 ]

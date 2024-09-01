@@ -57,14 +57,6 @@
       "url": "https://cdn.matomo.cloud/refugies.matomo.cloud/container_ZxAXaEFC.js"
     },
     {
-      "type": "google analytics",
-      "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-0MFNB0ZLJN&gtm=45je48l0v9117900830za200&_p=1724607494199&gcs=G100&gcd=13p3p3p3p5l1&npa=1&dma_cps=-&dma=0&tag_exp=0&cid=1857988866.1724607495&ul=en-us&sr=800x600&uaa=&uab=&uafvl=&uamb=0&uam=&uap=&uapv=&uaw=0&frm=0&pscdl=denied&_s=1&sid=1724607494&sct=1&seg=0&dl=https%3A%2F%2Frefugies.info%2Ffr&dt=Accueil%20-%20R%C3%A9fugi%C3%A9s.info&en=page_view&_fv=1&_nsi=1&_ss=1&_ee=1&tfd=2169",
-      "details": {
-        "id": "google analytics",
-        "message": "Use hosted Matomo instance"
-      }
-    },
-    {
       "type": "google maps",
       "url": "https://maps.googleapis.com/maps/api/mapsjs/gen_204?csp_test=true",
       "details": {
@@ -74,7 +66,7 @@
     },
     {
       "type": "google maps",
-      "url": "https://maps.googleapis.com/maps-api-v3/api/js/58/1a/common.js",
+      "url": "https://maps.googleapis.com/maps-api-v3/api/js/58/2/common.js",
       "details": {
         "id": "google maps",
         "message": "Use OpenStreetMap with https://switch2osm.org/the-basics/"
@@ -82,7 +74,7 @@
     },
     {
       "type": "google maps",
-      "url": "https://maps.googleapis.com/maps-api-v3/api/js/58/1a/util.js",
+      "url": "https://maps.googleapis.com/maps-api-v3/api/js/58/2/util.js",
       "details": {
         "id": "google maps",
         "message": "Use OpenStreetMap with https://switch2osm.org/the-basics/"
@@ -90,7 +82,7 @@
     },
     {
       "type": "google maps",
-      "url": "https://maps.googleapis.com/maps-api-v3/api/js/58/1a/controls.js",
+      "url": "https://maps.googleapis.com/maps-api-v3/api/js/58/2/controls.js",
       "details": {
         "id": "google maps",
         "message": "Use OpenStreetMap with https://switch2osm.org/the-basics/"
@@ -98,10 +90,18 @@
     },
     {
       "type": "google maps",
-      "url": "https://maps.googleapis.com/maps-api-v3/api/js/58/1a/places_impl.js",
+      "url": "https://maps.googleapis.com/maps-api-v3/api/js/58/2/places_impl.js",
       "details": {
         "id": "google maps",
         "message": "Use OpenStreetMap with https://switch2osm.org/the-basics/"
+      }
+    },
+    {
+      "type": "google analytics",
+      "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-0MFNB0ZLJN&gtm=45je48s0v9117900830za200&_p=1725212166367&gcs=G100&gcd=13p3p3p3p5l1&npa=1&dma_cps=-&dma=0&tag_exp=0&cid=894401079.1725212167&ul=en-us&sr=800x600&uaa=&uab=&uafvl=&uamb=0&uam=&uap=&uapv=&uaw=0&frm=0&pscdl=denied&_s=1&sid=1725212166&sct=1&seg=0&dl=https%3A%2F%2Frefugies.info%2Ffr&dt=Accueil%20-%20R%C3%A9fugi%C3%A9s.info&en=page_view&_fv=1&_nsi=1&_ss=1&_ee=1&tfd=1815",
+      "details": {
+        "id": "google analytics",
+        "message": "Use hosted Matomo instance"
       }
     },
     {
@@ -114,7 +114,7 @@
     },
     {
       "type": "google analytics",
-      "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-0MFNB0ZLJN&gtm=45je48l0v9117900830za200&_p=1724607494199&gcs=G100&gcd=13p3p3p3p5l1&npa=1&dma_cps=-&dma=0&tag_exp=0&cid=1857988866.1724607495&ul=en-us&sr=800x600&uaa=&uab=&uafvl=&uamb=0&uam=&uap=&uapv=&uaw=0&frm=0&pscdl=denied&sid=1724607494&sct=1&seg=0&dl=https%3A%2F%2Frefugies.info%2Ffr&dt=Accueil%20-%20R%C3%A9fugi%C3%A9s.info&_s=2&tfd=7180",
+      "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-0MFNB0ZLJN&gtm=45je48s0v9117900830za200&_p=1725212166367&gcs=G100&gcd=13p3p3p3p5l1&npa=1&dma_cps=-&dma=0&tag_exp=0&cid=894401079.1725212167&ul=en-us&sr=800x600&uaa=&uab=&uafvl=&uamb=0&uam=&uap=&uapv=&uaw=0&frm=0&pscdl=denied&sid=1725212166&sct=1&seg=0&dl=https%3A%2F%2Frefugies.info%2Ffr&dt=Accueil%20-%20R%C3%A9fugi%C3%A9s.info&_s=2&tfd=6823",
       "details": {
         "id": "google analytics",
         "message": "Use hosted Matomo instance"
@@ -127,8 +127,8 @@
     "cache-control": "s-maxage=600, stale-while-revalidate",
     "content-encoding": "gzip",
     "content-type": "text/html; charset=utf-8",
-    "date": "Sun, 25 Aug 2024 17:38:13 GMT",
-    "etag": "\"qdr37yrrwh4z4d\"",
+    "date": "Sun, 01 Sep 2024 17:36:05 GMT",
+    "etag": "\"11sny0yjhyz4z57\"",
     "server": "Google Frontend",
     "vary": "Accept-Encoding",
     "via": "1.1 google",
@@ -224,19 +224,19 @@
     },
     {
       "hostname": "plausible.io",
-      "ip": "143.244.50.83",
+      "ip": "195.181.163.196",
       "geoip": {
         "city": {
-          "geoname_id": 5368361,
+          "geoname_id": 4164138,
           "names": {
-            "de": "Los Angeles",
-            "en": "Los Angeles",
-            "es": "Los Ángeles",
-            "fr": "Los Angeles",
-            "ja": "ロサンゼルス",
-            "pt-BR": "Los Angeles",
-            "ru": "Лос-Анджелес",
-            "zh-CN": "洛杉矶"
+            "de": "Miami",
+            "en": "Miami",
+            "es": "Miami",
+            "fr": "Miami",
+            "ja": "マイアミ",
+            "pt-BR": "Miami",
+            "ru": "Майами",
+            "zh-CN": "迈阿密"
           }
         },
         "continent": {
@@ -269,13 +269,13 @@
         },
         "location": {
           "accuracy_radius": 20,
-          "latitude": 34.0544,
-          "longitude": -118.2441,
-          "metro_code": 803,
-          "time_zone": "America/Los_Angeles"
+          "latitude": 25.7838,
+          "longitude": -80.1823,
+          "metro_code": 528,
+          "time_zone": "America/New_York"
         },
         "postal": {
-          "code": "90060"
+          "code": "33132"
         },
         "registered_country": {
           "geoname_id": 2635167,
@@ -293,17 +293,17 @@
         },
         "subdivisions": [
           {
-            "geoname_id": 5332921,
-            "iso_code": "CA",
+            "geoname_id": 4155751,
+            "iso_code": "FL",
             "names": {
-              "de": "Kalifornien",
-              "en": "California",
-              "es": "California",
-              "fr": "Californie",
-              "ja": "カリフォルニア州",
-              "pt-BR": "Califórnia",
-              "ru": "Калифорния",
-              "zh-CN": "加州"
+              "de": "Florida",
+              "en": "Florida",
+              "es": "Florida",
+              "fr": "Floride",
+              "ja": "フロリダ州",
+              "pt-BR": "Flórida",
+              "ru": "Флорида",
+              "zh-CN": "佛罗里达州"
             }
           }
         ]
@@ -311,58 +311,8 @@
     },
     {
       "hostname": "res.cloudinary.com",
-      "ip": "23.194.100.47",
+      "ip": "104.17.201.1",
       "geoip": {
-        "city": {
-          "geoname_id": 5317058,
-          "names": {
-            "de": "Tempe",
-            "en": "Tempe",
-            "fr": "Tempe",
-            "ja": "テンピ",
-            "pt-BR": "Tempe",
-            "ru": "Темпе",
-            "zh-CN": "坦佩"
-          }
-        },
-        "continent": {
-          "code": "NA",
-          "geoname_id": 6255149,
-          "names": {
-            "de": "Nordamerika",
-            "en": "North America",
-            "es": "Norteamérica",
-            "fr": "Amérique du Nord",
-            "ja": "北アメリカ",
-            "pt-BR": "América do Norte",
-            "ru": "Северная Америка",
-            "zh-CN": "北美洲"
-          }
-        },
-        "country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
-          "names": {
-            "de": "USA",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
-          }
-        },
-        "location": {
-          "accuracy_radius": 20,
-          "latitude": 33.42,
-          "longitude": -111.9128,
-          "metro_code": 753,
-          "time_zone": "America/Phoenix"
-        },
-        "postal": {
-          "code": "85285"
-        },
         "registered_country": {
           "geoname_id": 6252001,
           "iso_code": "US",
@@ -376,27 +326,12 @@
             "ru": "США",
             "zh-CN": "美国"
           }
-        },
-        "subdivisions": [
-          {
-            "geoname_id": 5551752,
-            "iso_code": "AZ",
-            "names": {
-              "de": "Arizona",
-              "en": "Arizona",
-              "es": "Arizona",
-              "fr": "Arizona",
-              "ja": "アリゾナ州",
-              "pt-BR": "Arizona",
-              "ru": "Аризона"
-            }
-          }
-        ]
+        }
       }
     },
     {
       "hostname": "storage.googleapis.com",
-      "ip": "142.251.40.59",
+      "ip": "142.251.16.207",
       "geoip": {
         "city": {
           "geoname_id": 5116931,
@@ -476,195 +411,7 @@
     },
     {
       "hostname": "maps.googleapis.com",
-      "ip": "142.250.68.106",
-      "geoip": {
-        "city": {
-          "geoname_id": 5131638,
-          "names": {
-            "en": "Plainview"
-          }
-        },
-        "continent": {
-          "code": "NA",
-          "geoname_id": 6255149,
-          "names": {
-            "de": "Nordamerika",
-            "en": "North America",
-            "es": "Norteamérica",
-            "fr": "Amérique du Nord",
-            "ja": "北アメリカ",
-            "pt-BR": "América do Norte",
-            "ru": "Северная Америка",
-            "zh-CN": "北美洲"
-          }
-        },
-        "country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
-          "names": {
-            "de": "USA",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
-          }
-        },
-        "location": {
-          "accuracy_radius": 100,
-          "latitude": 40.7746,
-          "longitude": -73.4761,
-          "metro_code": 501,
-          "time_zone": "America/New_York"
-        },
-        "postal": {
-          "code": "11803"
-        },
-        "registered_country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
-          "names": {
-            "de": "USA",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
-          }
-        },
-        "subdivisions": [
-          {
-            "geoname_id": 5128638,
-            "iso_code": "NY",
-            "names": {
-              "de": "New York",
-              "en": "New York",
-              "es": "Nueva York",
-              "fr": "New York",
-              "ja": "ニューヨーク州",
-              "pt-BR": "Nova Iorque",
-              "ru": "Нью-Йорк",
-              "zh-CN": "纽约州"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "hostname": "www.googletagmanager.com",
-      "ip": "172.217.14.72",
-      "geoip": {
-        "continent": {
-          "code": "NA",
-          "geoname_id": 6255149,
-          "names": {
-            "de": "Nordamerika",
-            "en": "North America",
-            "es": "Norteamérica",
-            "fr": "Amérique du Nord",
-            "ja": "北アメリカ",
-            "pt-BR": "América do Norte",
-            "ru": "Северная Америка",
-            "zh-CN": "北美洲"
-          }
-        },
-        "country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
-          "names": {
-            "de": "USA",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
-          }
-        },
-        "location": {
-          "accuracy_radius": 1000,
-          "latitude": 37.751,
-          "longitude": -97.822,
-          "time_zone": "America/Chicago"
-        },
-        "registered_country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
-          "names": {
-            "de": "USA",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
-          }
-        }
-      }
-    },
-    {
-      "hostname": "cdn.matomo.cloud",
-      "ip": "18.65.3.82",
-      "geoip": {
-        "continent": {
-          "code": "NA",
-          "geoname_id": 6255149,
-          "names": {
-            "de": "Nordamerika",
-            "en": "North America",
-            "es": "Norteamérica",
-            "fr": "Amérique du Nord",
-            "ja": "北アメリカ",
-            "pt-BR": "América do Norte",
-            "ru": "Северная Америка",
-            "zh-CN": "北美洲"
-          }
-        },
-        "country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
-          "names": {
-            "de": "USA",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
-          }
-        },
-        "location": {
-          "accuracy_radius": 1000,
-          "latitude": 37.751,
-          "longitude": -97.822,
-          "time_zone": "America/Chicago"
-        },
-        "registered_country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
-          "names": {
-            "de": "USA",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
-          }
-        }
-      }
-    },
-    {
-      "hostname": "www.google-analytics.com",
-      "ip": "142.251.40.46",
+      "ip": "142.251.163.95",
       "geoip": {
         "city": {
           "geoname_id": 5116931,
@@ -743,8 +490,170 @@
       }
     },
     {
+      "hostname": "www.googletagmanager.com",
+      "ip": "64.233.180.97",
+      "geoip": {
+        "continent": {
+          "code": "NA",
+          "geoname_id": 6255149,
+          "names": {
+            "de": "Nordamerika",
+            "en": "North America",
+            "es": "Norteamérica",
+            "fr": "Amérique du Nord",
+            "ja": "北アメリカ",
+            "pt-BR": "América do Norte",
+            "ru": "Северная Америка",
+            "zh-CN": "北美洲"
+          }
+        },
+        "country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "USA",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        },
+        "location": {
+          "accuracy_radius": 1000,
+          "latitude": 37.751,
+          "longitude": -97.822,
+          "time_zone": "America/Chicago"
+        },
+        "registered_country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "USA",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        }
+      }
+    },
+    {
+      "hostname": "cdn.matomo.cloud",
+      "ip": "3.162.125.95",
+      "geoip": {
+        "continent": {
+          "code": "NA",
+          "geoname_id": 6255149,
+          "names": {
+            "de": "Nordamerika",
+            "en": "North America",
+            "es": "Norteamérica",
+            "fr": "Amérique du Nord",
+            "ja": "北アメリカ",
+            "pt-BR": "América do Norte",
+            "ru": "Северная Америка",
+            "zh-CN": "北美洲"
+          }
+        },
+        "country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "USA",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        },
+        "location": {
+          "accuracy_radius": 1000,
+          "latitude": 37.751,
+          "longitude": -97.822,
+          "time_zone": "America/Chicago"
+        },
+        "registered_country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "USA",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        }
+      }
+    },
+    {
+      "hostname": "www.google-analytics.com",
+      "ip": "172.253.63.138",
+      "geoip": {
+        "continent": {
+          "code": "NA",
+          "geoname_id": 6255149,
+          "names": {
+            "de": "Nordamerika",
+            "en": "North America",
+            "es": "Norteamérica",
+            "fr": "Amérique du Nord",
+            "ja": "北アメリカ",
+            "pt-BR": "América do Norte",
+            "ru": "Северная Америка",
+            "zh-CN": "北美洲"
+          }
+        },
+        "country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "USA",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        },
+        "location": {
+          "accuracy_radius": 1000,
+          "latitude": 37.751,
+          "longitude": -97.822,
+          "time_zone": "America/Chicago"
+        },
+        "registered_country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "USA",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        }
+      }
+    },
+    {
       "hostname": "client.crisp.chat",
-      "ip": "104.18.28.104",
+      "ip": "104.18.29.104",
       "geoip": {
         "registered_country": {
           "geoname_id": 6252001,
