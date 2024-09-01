@@ -269,7 +269,7 @@
               "ip"           : "nosgestesclimat.fr/76.76.21.21",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "03A3B03A2DF989F57015ED7623C2F9BFEC02"
+              "finding"      : "030EBF5F8399D10F682410046305895F773B"
           }
 ,         {
               "id"           : "cert_serialNumberLen",
@@ -283,21 +283,21 @@
               "ip"           : "nosgestesclimat.fr/76.76.21.21",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "64FC06C11D1A04DA4899B2B4524275937557AD22"
+              "finding"      : "9396101CD770D24562F84237E652A53CE13475B9"
           }
 ,         {
               "id"           : "cert_fingerprintSHA256",
               "ip"           : "nosgestesclimat.fr/76.76.21.21",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "0C127F431113DA42943BDC12E29FC02719601631E281F5C69899EE04B0D80D2E"
+              "finding"      : "E6563E1BB763C4D7F3C057F37621B2A7BA7B7346C8239ADCCE865A6094B1759D"
           }
 ,         {
               "id"           : "cert",
               "ip"           : "nosgestesclimat.fr/76.76.21.21",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "-----BEGIN CERTIFICATE-----\nMIIE9DCCA9ygAwIBAgISA6OwOi35ifVwFe12I8L5v+wCMA0GCSqGSIb3DQEBCwUAMDMxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQwwCgYDVQQDEwNSMTEwHhcNMjQwNjI0MjM0NjE3WhcNMjQwOTIyMjM0NjE2WjAdMRswGQYDVQQDExJub3NnZXN0ZXNjbGltYXQuZnIwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDe/wZJQU+T2KqNFASS4F2x/bHuEGt2Xnr5JWqx67/miy7HhTgD/GSGdbwnN/r+8I4oC9xlfHMytfIG5//W+D/3TS13EzG0SBld3Htj4DIYzdiePsKq60l3mkCipRR8DK1m0m3BM4MfDGlrtvE/oI5CoFOLjyJdjfue/H7w36xLiJCZkCKs2+AUYJOkvVY9l5MdawjrTulKlOuQrutpAJgV9jZbKLPN2+nYG6rvTEl+Vn2ra8uhkl5OtNIpfdVXX1w1tP/CgCCloF4DAqdaAta6VA4mJFlPy9M0bTLqpfmN6bdYydsGlUAgYjHkLmBTLv9Tr7R7Es4asybYJBU+BXnfAgMBAAGjggIWMIICEjAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFNbQwhKGIcMdvPPu2eSZiRj5VL7KMB8GA1UdIwQYMBaAFMXPRqTq9MPAemyVxC2wXpIvJuO5MFcGCCsGAQUFBwEBBEswSTAiBggrBgEFBQcwAYYWaHR0cDovL3IxMS5vLmxlbmNyLm9yZzAjBggrBgEFBQcwAoYXaHR0cDovL3IxMS5pLmxlbmNyLm9yZy8wHQYDVR0RBBYwFIISbm9zZ2VzdGVzY2xpbWF0LmZyMBMGA1UdIAQMMAowCAYGZ4EMAQIBMIIBBAYKKwYBBAHWeQIEAgSB9QSB8gDwAHYAPxdLT9ciR1iUHWUchL4NEu2QN38fhWrrwb8ohez4ZG4AAAGQTNuWnwAABAMARzBFAiEAiqnWlcANPLIOK/ghvvYHCWfitJIs7mTwAF2PkMqj/OcCIFVPG7izCxfV98sLUKI3wN8opMBAJsBs8yKaeiVGzJWgAHYA7s3QZNXbGs7FXLedtM0TojKHRny87N7DUUhZRnEftZsAAAGQTNuWpQAABAMARzBFAiEAjhh3C8QdHbUGfsNmdhnzvme7mdVpcODLqX1WACANHC4CIFqTorYEPk/RnsF50ydAg6dKoIuaVLiUQkaCDwwJPUE+MA0GCSqGSIb3DQEBCwUAA4IBAQAhfTG/NbJzwDP7i4FicCQrstQV+6s/0cxfDjihyy0dsb0kOZ8uxxpNTQVhmy/LnwjuEVH8vFJQtR249VmwRREPB5Rb5Gs/ukFsM7hpNq865KU15f9GKDPwivCl8ESEkMvcCmTPU1W8O6AfLlbT/ldH3VUPuTCiYD1Prd+e7wNVoI3koTPQhdfvafJIRQgPzxE+QbHzF0eMcYiC3SGRUwOv91E0xrdEbVDp+g1b7+iB31TBnseNWh0eVF7fAS0KmzmdM8SAqkc1d2Kl8KpjdhqPy8HawavmG2iB0Hy/KeoLyDe8Nf/cIHKeBQtmDLg2aoE3FBQHUbD6Z2rZSLiJjBD3\n-----END CERTIFICATE-----"
+              "finding"      : "-----BEGIN CERTIFICATE-----\nMIIE9DCCA9ygAwIBAgISAw6/X4OZ0Q9oJBAEYwWJX3c7MA0GCSqGSIb3DQEBCwUAMDMxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQwwCgYDVQQDEwNSMTEwHhcNMjQwODI1MDg1NjU2WhcNMjQxMTIzMDg1NjU1WjAdMRswGQYDVQQDExJub3NnZXN0ZXNjbGltYXQuZnIwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDGrnxhIxyM1H3XvX3cepHE/Mf0PFvV+FH3XN2NkPS5ZgkdcESfvJLAq6qNf2d1TU3GbJVQxXiFOpI7lL71L1OWNJudS3KgGTIAOYfzuxZI5G2INUQqo+RWayv8wlkYaaG1pNrLK9oGcPtJrGBB4VRzH9NKiLmQi+kU+X5Krx7qubr4AC3oHEwxMwdie2g9sNXUnzDyE2Iqbdz9WXlDTLMvGMZ9jZA/hjRopvt3LyOq22f6OngNiO63XGe13qiepu5nxLth5Od6KRYlW/5dKe3z3YIjajpNqCY9BvegTMgg2Qdl7NNBexRJgD9UldiQP+Rb6jMIQ+qfDR3rntuZLlkBAgMBAAGjggIWMIICEjAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFC+unfj0ubXvTDarxEC/I3RCswjuMB8GA1UdIwQYMBaAFMXPRqTq9MPAemyVxC2wXpIvJuO5MFcGCCsGAQUFBwEBBEswSTAiBggrBgEFBQcwAYYWaHR0cDovL3IxMS5vLmxlbmNyLm9yZzAjBggrBgEFBQcwAoYXaHR0cDovL3IxMS5pLmxlbmNyLm9yZy8wHQYDVR0RBBYwFIISbm9zZ2VzdGVzY2xpbWF0LmZyMBMGA1UdIAQMMAowCAYGZ4EMAQIBMIIBBAYKKwYBBAHWeQIEAgSB9QSB8gDwAHYAdv+IPwq2+5VRwmHM9Ye6NLSkzbsp3GhCCp/mZ0xaOnQAAAGRiPZDdAAABAMARzBFAiEA8CnLYJWyGYuFfyM2KgSAgnkxFb1yvy1ZmU+2bnTdqz4CIHxJV4N/JIcTGy/Pl5yzROqKVtC6jPawwkUG+ZC5Z8bHAHYASLDja9qmRzQP5WoC+p0w6xxSActW3SyB2bu/qznYhHMAAAGRiPZDagAABAMARzBFAiBhb/UPGJVVb/9WM3wCqxMa4zTg49QyLWz1T5I9NJTAPAIhAIAODqRzi+FX0VKQ59gntj/QjDL3hzy05/wylqUakom+MA0GCSqGSIb3DQEBCwUAA4IBAQCMV3wvKzWp8pGrXi/kL5qHvAwWTCxRg44vEDJdH85/h1ZPd3t1A7fDoHBKo5BRaiaJUX7ExNgP6/sR1MZStTg2tH4vFq7M7gGYfUVn28L88TpJz4EDJ9fbCyLuXmHZXNzDrHWyogfbY327cPVD34OcSge36VHijPoMME0YvcSZMAx3/PRP6MfiNZekUE631qDwauevTFbUkfDTrx9IfeOVW5z0/dW4XN4T9D/DUuzatVmnJfrz9hP80gbddnNvyplYybDMDTU74uE8rq4lJtKeHGEY5Tw3e8J4myxtKgjRmZljP8TvDm4/c0sr1FeMhHBa4otANmBBoFZ8V8wyhqoX\n-----END CERTIFICATE-----"
           }
 ,         {
               "id"           : "cert_commonName",
@@ -345,22 +345,22 @@
               "id"           : "cert_expirationStatus",
               "ip"           : "nosgestesclimat.fr/76.76.21.21",
               "port"         : "443",
-              "severity"     : "MEDIUM",
-              "finding"      : "expires < 30 days (28)"
+              "severity"     : "OK",
+              "finding"      : "83 >= 30 days"
           }
 ,         {
               "id"           : "cert_notBefore",
               "ip"           : "nosgestesclimat.fr/76.76.21.21",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "2024-06-24 23:46"
+              "finding"      : "2024-08-25 08:56"
           }
 ,         {
               "id"           : "cert_notAfter",
               "ip"           : "nosgestesclimat.fr/76.76.21.21",
               "port"         : "443",
-              "severity"     : "MEDIUM",
-              "finding"      : "2024-09-22 23:46"
+              "severity"     : "OK",
+              "finding"      : "2024-11-23 08:56"
           }
 ,         {
               "id"           : "cert_extlifeSpan",
@@ -507,14 +507,14 @@
               "ip"           : "nosgestesclimat.fr/76.76.21.21",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "-1 seconds from localtime"
+              "finding"      : "0 seconds from localtime"
           }
 ,         {
               "id"           : "HTTP_headerTime",
               "ip"           : "nosgestesclimat.fr/76.76.21.21",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1724565301"
+              "finding"      : "1725170518"
           }
 ,         {
               "id"           : "HTTP_headerAge",
@@ -708,7 +708,7 @@
               "severity"     : "INFO",
               "cve"          : "CVE-2016-0800 CVE-2016-0703",
               "cwe"          : "CWE-310",
-              "finding"      : "Make sure you don't use this certificate elsewhere with SSLv2 enabled services, see https://search.censys.io/search?resource=hosts&virtual_hosts=INCLUDE&q=0C127F431113DA42943BDC12E29FC02719601631E281F5C69899EE04B0D80D2E"
+              "finding"      : "Make sure you don't use this certificate elsewhere with SSLv2 enabled services, see https://search.censys.io/search?resource=hosts&virtual_hosts=INCLUDE&q=E6563E1BB763C4D7F3C057F37621B2A7BA7B7346C8239ADCCE865A6094B1759D"
           }
 ,         {
               "id"           : "LOGJAM",
@@ -1084,6 +1084,6 @@
               "ip"           : "nosgestesclimat.fr/76.76.21.21",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "39"
+              "finding"      : "41"
           }
 ]
