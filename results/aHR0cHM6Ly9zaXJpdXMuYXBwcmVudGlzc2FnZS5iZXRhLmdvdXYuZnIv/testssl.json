@@ -576,8 +576,8 @@
               "id"           : "cert_expirationStatus",
               "ip"           : "sirius.apprentissage.beta.gouv.fr/141.95.167.141",
               "port"         : "443",
-              "severity"     : "OK",
-              "finding"      : "34 >= 30 days"
+              "severity"     : "MEDIUM",
+              "finding"      : "expires < 30 days (27)"
           }
 ,         {
               "id"           : "cert_notBefore",
@@ -590,7 +590,7 @@
               "id"           : "cert_notAfter",
               "ip"           : "sirius.apprentissage.beta.gouv.fr/141.95.167.141",
               "port"         : "443",
-              "severity"     : "OK",
+              "severity"     : "MEDIUM",
               "finding"      : "2024-09-28 23:05"
           }
 ,         {
@@ -738,7 +738,7 @@
               "ip"           : "sirius.apprentissage.beta.gouv.fr/141.95.167.141",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1724608520"
+              "finding"      : "1725213159"
           }
 ,         {
               "id"           : "HSTS_time",
@@ -1352,6 +1352,6 @@
               "ip"           : "sirius.apprentissage.beta.gouv.fr/141.95.167.141",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "159"
+              "finding"      : "154"
           }
 ]
