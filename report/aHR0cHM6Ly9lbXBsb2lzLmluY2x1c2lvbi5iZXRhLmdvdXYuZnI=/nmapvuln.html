@@ -54,7 +54,7 @@
 <h1>Scan Report<br><small>Nmap 7.92</small>
 </h1>
 <pre style="white-space:pre-wrap; word-wrap:break-word;">nmap -sV --script vulners --script-args mincvss=5.0 -oA /data/nmapvuln emplois.inclusion.beta.gouv.fr</pre>
-<p class="lead">Sun Aug 25 03:44:53 2024 – Sun Aug 25 03:47:37 2024<br>1 hosts scanned.
+<p class="lead">Sun Sep  1 03:54:10 2024 – Sun Sep  1 03:56:54 2024<br>1 hosts scanned.
               1 hosts up.
               0 hosts down.
             </p>
@@ -78,7 +78,7 @@
 <td><span class="label label-success">up</span></td>
 <td>91.208.207.221</td>
 <td>emplois.inclusion.beta.gouv.fr</td>
-<td>12</td>
+<td>13</td>
 <td>0</td>
 </tr></tbody>
 </table></div>
@@ -124,12 +124,12 @@
     Cache-Control: no-cache
     Connection: close
     Content-Length: 479
-    Sozu-Id: 01J63T645ZQC5ZM75HGXFG9WRG
+    Sozu-Id: 01J6NVG5WWWYMAPC0H5S32KS19
     &lt;style&gt;pre{background:#EEE;padding:10px;border:1px solid #AAA;border-radius: 5px;}&lt;/style&gt;
     &lt;h1&gt;400 Bad Request&lt;/h1&gt;
     &lt;pre&gt;
     "route": "GET",
-    "request_id": "01J63T645ZQC5ZM75HGXFG9WRG",
+    "request_id": "01J6NVG5WWWYMAPC0H5S32KS19",
     &lt;/pre&gt;
     &lt;p&gt;Request could not be parsed. Parser stopped at phase: Body.&lt;/p&gt;
     &lt;p&gt;Diagnostic: Could not extract the route after connection started, this should not happen.&lt;/p&gt;
@@ -141,12 +141,12 @@
     Cache-Control: no-cache
     Connection: close
     Content-Length: 483
-    Sozu-Id: 01J63T6A6YP99R9QDV2CRDZQ8X
+    Sozu-Id: 01J6NVGBXVZMB28AY7PY88T3TN
     &lt;style&gt;pre{background:#EEE;padding:10px;border:1px solid #AAA;border-radius: 5px;}&lt;/style&gt;
     &lt;h1&gt;400 Bad Request&lt;/h1&gt;
     &lt;pre&gt;
     "route": "OPTIONS",
-    "request_id": "01J63T6A6YP99R9QDV2CRDZQ8X",
+    "request_id": "01J6NVGBXVZMB28AY7PY88T3TN",
     &lt;/pre&gt;
     &lt;p&gt;Request could not be parsed. Parser stopped at phase: Body.&lt;/p&gt;
     &lt;p&gt;Diagnostic: Could not extract the route after connection started, this should not happen.&lt;/p&gt;
@@ -158,12 +158,12 @@
     Cache-Control: no-cache
     Connection: close
     Content-Length: 885
-    Sozu-Id: 01J63T6ACCZZWZ3634QJ5HAV36
+    Sozu-Id: 01J6NVGC39Q94BQKAYQFMQKSER
     &lt;style&gt;pre{background:#EEE;padding:10px;border:1px solid #AAA;border-radius: 5px;}&lt;/style&gt;
     &lt;h1&gt;400 Bad Request&lt;/h1&gt;
     &lt;pre&gt;
     "route": "",
-    "request_id": "01J63T6ACCZZWZ3634QJ5HAV36",
+    "request_id": "01J6NVGC39Q94BQKAYQFMQKSER",
     &lt;/pre&gt;
     &lt;p&gt;Request could not be parsed. Parser stopped at phase: StatusLine.&lt;/p&gt;
     &lt;p&gt;Diagnostic: The request line is invalid. Make sure it is well formated and all characters are LATIN-1 (no UTF-8 allowed).&lt;/p&gt;
@@ -225,22 +225,21 @@
 <a href="https://nvd.nist.gov/vuln/search/results?form_type=Advanced&amp;cves=on&amp;cpe_version="></a><h5>fingerprint-strings</h5>
 <pre style="white-space:pre-wrap; word-wrap:break-word;">
   Kerberos: 
-    O'~el{
-    qFd/I
-    l=.?
-    \x83
-    :;kk
-    \x1a&amp;3
-    f"9O
+    (gL!
+    :27Ax
+    H#t\xc9Tk
+  SMBProgNeg: 
+    !oC]t
+    hW&gt;m
+    ,:-q
+    \xf5
+    :\xbc[
   TLSSessionReq: 
-    /'MM 
-    /3Ym
-    }Le`
-    5HgS
-    :~b]P`
-    @ZlT
-    \x81
-    9en8-</pre>
+    /D7&gt;
+    !j0*@SD:
+    i1(7
+    vw&gt;@
+    \xcbO</pre>
 </td></tr>
 <tr class="success">
 <td title="Port">5002</td>
@@ -256,6 +255,33 @@
 <pre style="white-space:pre-wrap; word-wrap:break-word;">
   NULL: 
     SSH-2.0-SFTPGo_2.4.4-dev</pre>
+</td></tr>
+<tr class="success">
+<td title="Port">5221</td>
+<td title="Protocol">tcp</td>
+<td title="State / Reason">open<br>syn-ack</td>
+<td title="Service">smtp</td>
+<td title="Product"></td>
+<td title="Version"></td>
+<td title="Extra Info"></td>
+</tr>
+<tr><td colspan="7">
+<a href="https://nvd.nist.gov/vuln/search/results?form_type=Advanced&amp;cves=on&amp;cpe_version="></a><h5>fingerprint-strings</h5>
+<pre style="white-space:pre-wrap; word-wrap:break-word;">
+  GenericLines, GetRequest: 
+    220 mailhog.example ESMTP MailHog
+    Unrecognised command
+    Unrecognised command
+  Hello: 
+    220 mailhog.example ESMTP MailHog
+    250-Hello 
+    250-PIPELINING
+    AUTH PLAIN
+  Help: 
+    220 mailhog.example ESMTP MailHog
+    Unrecognised command
+  NULL: 
+    220 mailhog.example ESMTP MailHog</pre>
 </td></tr>
 <tr class="success">
 <td title="Port">5357</td>
@@ -420,6 +446,16 @@
 <td></td>
 <td></td>
 <td>protocol 2.0</td>
+</tr>
+<tr>
+<td>91.208.207.221 - emplois.inclusion.beta.gouv.fr</td>
+<td>5221</td>
+<td>tcp</td>
+<td>smtp</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>91.208.207.221 - emplois.inclusion.beta.gouv.fr</td>
