@@ -297,7 +297,7 @@
               "ip"           : "world.openfoodfacts.org/213.36.253.214",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "0326134C3869E3DEB3B020F9D2B7DE135661"
+              "finding"      : "03CDBCF0AACF5CB9FE19543F428E5C5E54D3"
           }
 ,         {
               "id"           : "cert_serialNumberLen",
@@ -311,21 +311,21 @@
               "ip"           : "world.openfoodfacts.org/213.36.253.214",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "4388DB449DC4F90BEE1D288BCB61F843B7F14DD8"
+              "finding"      : "0DE74C25AB5C9D9E65894E37F8620134677F88C5"
           }
 ,         {
               "id"           : "cert_fingerprintSHA256",
               "ip"           : "world.openfoodfacts.org/213.36.253.214",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "3248ED677B6CE742CE2AAA718010EA8BDB6E5742E3AF251C773021D9086C5522"
+              "finding"      : "43BB627541EA0ABD1D6B471EE658C2C3F36D868E98D3478213F449A1FC1AE8F7"
           }
 ,         {
               "id"           : "cert",
               "ip"           : "world.openfoodfacts.org/213.36.253.214",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "-----BEGIN CERTIFICATE-----\nMIIFBzCCA++gAwIBAgISAyYTTDhp496zsCD50rfeE1ZhMA0GCSqGSIb3DQEBCwUAMDMxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQwwCgYDVQQDEwNSMTAwHhcNMjQwNjI5MDUxMTUzWhcNMjQwOTI3MDUxMTUyWjAcMRowGAYDVQQDExFvcGVuZm9vZGZhY3RzLm9yZzCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBALhRNU89h2BFLbsI2prqnGQj6eWHkii7WcwRzcXQCJasZbPhj3gmigpcegDppa9b1Tr0vhCeCzAOQLKlUu39oYmMhXljMvpGqIO5OEQvAQkRxwB/XbzYBGE/8tvYXpzPRhtasMPgKfaHAaVc73XZXYZBSz/Al5m7CcGZeu/C1vDPOgYEPEnl+zpYlxrirIDiRXG+RwzIi0WkUbiNhnsWLeaz19bmfVaM3QXCL72NrLYFjd0XjD3qJIWjQKMW3kK/qcHbTLPxQOdniSPouwyeLRIgdpk/pJ8EYuhRFzCBDrmg40RxFeNH2HdSfikYys3o2ffQVhDoVpX3H6OgA+sEBgsCAwEAAaOCAiowggImMA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQUpcP/fiIQV+sAeG8rwX+3Fti5Ic8wHwYDVR0jBBgwFoAUu7zDR6XkvKnGw6RyDBCNojXhyOgwVwYIKwYBBQUHAQEESzBJMCIGCCsGAQUFBzABhhZodHRwOi8vcjEwLm8ubGVuY3Iub3JnMCMGCCsGAQUFBzAChhdodHRwOi8vcjEwLmkubGVuY3Iub3JnLzAxBgNVHREEKjAoghMqLm9wZW5mb29kZmFjdHMub3JnghFvcGVuZm9vZGZhY3RzLm9yZzATBgNVHSAEDDAKMAgGBmeBDAECATCCAQQGCisGAQQB1nkCBAIEgfUEgfIA8AB2AEiw42vapkc0D+VqAvqdMOscUgHLVt0sgdm7v6s52IRzAAABkGKfHnYAAAQDAEcwRQIgSB8u3SDjFBKje0zdk1g93QjjTgbF/mzpzCyU+/1/tk8CIQD+dETFjZLi6DbBbv6dZuWEcQYYmeb/uW0WSffzEHvPlgB2AD8XS0/XIkdYlB1lHIS+DRLtkDd/H4Vq68G/KIXs+GRuAAABkGKfHn0AAAQDAEcwRQIhAKIOG2PX0+P1YbbmW5q4/WwaFZQ1SvyoYvY51jB5Dm67AiAs2BBRAOIa/K5QRB3sKHu2h4r3ZhyflTj9xtKZrvncBjANBgkqhkiG9w0BAQsFAAOCAQEAczU9+V4/eLPH6ZGN5LTzcDDw/no0NNaMfb9JGdmylcBHahJG8LTd29X/1Fh1vd1VHGLzHyOOugjQU/2yjzjbRVTZE3vweqfH3vOMcRgfnGVP646OWodsjXM3QS20M3M6XqvjCJ/szzaYwwuU9eFciCPrn9B+ROUFB5hk4LwBqYHmmPGAj6BULjTejnuSY8G5zOIFeQmMMcM/Ht1NL6Fv+T3+8zsIOlE+1SyRu0T+rE1IIp6pXXi5RF6SVBrtHrUvYuedZ7mtzaiEdqmQtsYAwBccRpDHfhDLqbQdmricsLTLfdja7rlvg31stPJ9pA2rBxM1ICi/s+zPOWOqlI1xOg==\n-----END CERTIFICATE-----"
+              "finding"      : "-----BEGIN CERTIFICATE-----\nMIIFBzCCA++gAwIBAgISA8288KrPXLn+GVQ/Qo5cXlTTMA0GCSqGSIb3DQEBCwUAMDMxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQwwCgYDVQQDEwNSMTAwHhcNMjQwODI4MTAyNjEwWhcNMjQxMTI2MTAyNjA5WjAcMRowGAYDVQQDExFvcGVuZm9vZGZhY3RzLm9yZzCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBALNP0zvaXP5loUAEJ7f2b2G4gbFeaNt6vG8ZqFfZGR3Y/agVP6lvvMLJs/9PPUXyRm0EoJvbSCGThTorP4ZXCi+pODrCn4ClYUCrDZ2AEAhEsNWMbSRL1fGM0JdGu56zTJa8s/ddEV2+HLglL28l+3G/Fqh/9NnT9SVFw8My1Fhc5Cx5NnqZpQPAsyBQnVg8+n4VIZ9pu/Py5QHplkxuwBFMCwZuZqk2jiR/k6BOiNEcvqAk8FejdUesLbZKrTGewoJ8Nx2/G6U64syqT/8HAzfkSmR4GI35UO+zL3w20cPCP8UXIxhnmPHwSYpuRwU9p8YlUQj5UsHG+pvV/9QZF6cCAwEAAaOCAiowggImMA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQUUI949D4NYDZKvW7cyL534yjxMg0wHwYDVR0jBBgwFoAUu7zDR6XkvKnGw6RyDBCNojXhyOgwVwYIKwYBBQUHAQEESzBJMCIGCCsGAQUFBzABhhZodHRwOi8vcjEwLm8ubGVuY3Iub3JnMCMGCCsGAQUFBzAChhdodHRwOi8vcjEwLmkubGVuY3Iub3JnLzAxBgNVHREEKjAoghMqLm9wZW5mb29kZmFjdHMub3JnghFvcGVuZm9vZGZhY3RzLm9yZzATBgNVHSAEDDAKMAgGBmeBDAECATCCAQQGCisGAQQB1nkCBAIEgfUEgfIA8AB2AEiw42vapkc0D+VqAvqdMOscUgHLVt0sgdm7v6s52IRzAAABkZi7Cr4AAAQDAEcwRQIgUO1Y64uT72bJN6gqmB4QEAMWOxAXzPCNR1+/Si1u2wECIQCaQ/vYsx/p9d891m9I0OZeZ5wa4teplrI+jHpv9WfOkwB2AD8XS0/XIkdYlB1lHIS+DRLtkDd/H4Vq68G/KIXs+GRuAAABkZi7CsMAAAQDAEcwRQIhAM0vt7EBDpU05GXgqca62MLe4oTfk/hvt/XwnOuX3I1LAiBs9gsswfKl6lXFQmCtmwTyqbw+Ti2vYciBxZZ+mB+xZTANBgkqhkiG9w0BAQsFAAOCAQEAns4ey9rYTI2XMxDlB9sjxSQ0LZUPL754CHtfyt0RYnC+p6DRU0W2XEwM/FGw1nRGW3bGoHV74yQCvu0KSj9hDxIjw3bVcZINwbN/UcAI33KOic98HXI5cxb0YlRUzhROV/vNiIhJiJhAoZuHu2h/fIaP/cdVkvvYNjIvULTYZ4Taaa/bAeFO9yo823kBceByfYvBol3th0XMIZO7PpUo5MJWK2+EDXLplTOS1KYeWIQqha/66hHbQJ5i/JzLrWtlJctQqiEcbj26qQdZDNbJWRgVBRNTY2pWlxhfpwMI6gGlz6gs1w4GVnCqKhmPbnuxA5J2IIpBhiN+jA/B/s2NfA==\n-----END CERTIFICATE-----"
           }
 ,         {
               "id"           : "cert_commonName",
@@ -381,21 +381,21 @@
               "ip"           : "world.openfoodfacts.org/213.36.253.214",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "32 >= 30 days"
+              "finding"      : "85 >= 30 days"
           }
 ,         {
               "id"           : "cert_notBefore",
               "ip"           : "world.openfoodfacts.org/213.36.253.214",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "2024-06-29 05:11"
+              "finding"      : "2024-08-28 10:26"
           }
 ,         {
               "id"           : "cert_notAfter",
               "ip"           : "world.openfoodfacts.org/213.36.253.214",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "2024-09-27 05:11"
+              "finding"      : "2024-11-26 10:26"
           }
 ,         {
               "id"           : "cert_extlifeSpan",
@@ -542,14 +542,14 @@
               "ip"           : "world.openfoodfacts.org/213.36.253.214",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "0 seconds from localtime"
+              "finding"      : "-1 seconds from localtime"
           }
 ,         {
               "id"           : "HTTP_headerTime",
               "ip"           : "world.openfoodfacts.org/213.36.253.214",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1724603240"
+              "finding"      : "1725208618"
           }
 ,         {
               "id"           : "HSTS",
@@ -729,7 +729,7 @@
               "severity"     : "INFO",
               "cve"          : "CVE-2016-0800 CVE-2016-0703",
               "cwe"          : "CWE-310",
-              "finding"      : "Make sure you don't use this certificate elsewhere with SSLv2 enabled services, see https://search.censys.io/search?resource=hosts&virtual_hosts=INCLUDE&q=3248ED677B6CE742CE2AAA718010EA8BDB6E5742E3AF251C773021D9086C5522"
+              "finding"      : "Make sure you don't use this certificate elsewhere with SSLv2 enabled services, see https://search.censys.io/search?resource=hosts&virtual_hosts=INCLUDE&q=43BB627541EA0ABD1D6B471EE658C2C3F36D868E98D3478213F449A1FC1AE8F7"
           }
 ,         {
               "id"           : "LOGJAM",
@@ -1135,6 +1135,6 @@
               "ip"           : "world.openfoodfacts.org/213.36.253.214",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "68"
+              "finding"      : "66"
           }
 ]
