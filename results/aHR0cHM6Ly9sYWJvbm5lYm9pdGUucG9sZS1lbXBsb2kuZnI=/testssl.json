@@ -339,7 +339,7 @@
               "ip"           : "labonneboite.pole-emploi.fr/51.68.82.47",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "261 >= 60 days"
+              "finding"      : "254 >= 60 days"
           }
 ,         {
               "id"           : "cert_notBefore",
@@ -542,7 +542,7 @@
               "ip"           : "labonneboite.pole-emploi.fr/51.68.82.47",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1724596409"
+              "finding"      : "1725201518"
           }
 ,         {
               "id"           : "HSTS_time",
@@ -1133,6 +1133,6 @@
               "ip"           : "labonneboite.pole-emploi.fr/51.68.82.47",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "70"
+              "finding"      : "69"
           }
 ]
