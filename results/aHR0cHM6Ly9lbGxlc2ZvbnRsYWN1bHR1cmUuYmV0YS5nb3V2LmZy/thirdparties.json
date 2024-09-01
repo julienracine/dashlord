@@ -43,6 +43,10 @@
     {
       "type": "unknown",
       "url": "https://res.cloudinary.com/ellesfontlaculture/image/upload/v1/production/o6p1j1edecn8e6pjycc54jhyp8n7"
+    },
+    {
+      "type": "unknown",
+      "url": "https://res.cloudinary.com/ellesfontlaculture/image/upload/v1/production/0wm1584x5d0tdcjpsta98e5wipxj.jpg"
     }
   ],
   "cookies": [
@@ -51,7 +55,7 @@
       "value": "1",
       "domain": "ellesfontla.culture.gouv.fr",
       "path": "/",
-      "expires": 1724593624,
+      "expires": 1725198607,
       "size": 17,
       "httpOnly": false,
       "secure": false,
@@ -63,10 +67,10 @@
     },
     {
       "name": "_pk_id.187.1dd6",
-      "value": "9c07d0972780f667.1724591825.",
+      "value": "ce60a8affb4e338c.1725196808.",
       "domain": "ellesfontla.culture.gouv.fr",
       "path": "/",
-      "expires": 1758547025,
+      "expires": 1759152008,
       "size": 43,
       "httpOnly": false,
       "secure": false,
@@ -78,11 +82,11 @@
     },
     {
       "name": "_ellesfontlaphoto_session",
-      "value": "Uijg5ZpSdpem5x%2BmKZAeHLxZ0exkDHFZtGBRPKWDZp7RBFiXPXP2fz5PoBwfcdcBacYQSANHghw%2F9zmHQXy6sMpHxDIiwnPi98XYySu%2BNUNvcP%2FZlzIw%2BdtDI80NFaNbDCMc3XpFFER3kTInlafp6F2ADoZ1EHKBP2ZeF20i0p5UwPyy6bmU3DD3enEBgrYQBD3MGfbq9kymFvw7oo2B0n%2F9%2BhbdD%2BYvsbpsEhQ2SjcZWyqwKNa0ausxqtk7kLHul1Ph930OW2GwDQH1dq%2Fkw8ejYfUicuA4BUn%2B8NVdt5X9htpfhxOl80tHg0AWUsb20WSRK8GHYYf9hu0RJzMR1ntrq%2BD03MCPRm0YnBoZB8Br8W7UWLZTfq0Ka6Hi9FbzfhJY6iwQVY1A6ZzPe9fvFR3k5Kvg7Yecj8Cn5y6PIvh17vPEOQI1JRd2EVbubJxpTywp%2FWJMWJMzX7JgNWhbMlhhxhRtx2UUBENVetLsQZ%2Fewt2ZHm2ZVw4RmAqdSf5ksA%3D%3D--qsytNUrixG6UcjxA--NhbKQCZPrKlNuW1BBpJ66Q%3D%3D",
+      "value": "klBWAMYSwuiX1tGNrbWWsvwcsezqJsteDWeaaufubUBkRHbgSDpD4DnuOzIKBh5nSMHAixT%2B1%2BYZINDnuAQLXykN6XIjRhoin8gxrYtpS5TUaBqKO92R5ifdX4YFkyLP2ksum0wZhPw6PeTGkiQQvqVTSZ5DmI1Wij%2FGq5yH%2FEiXlFODfq5GP8WeQ8TDAks0pt%2BkfWbeZX4POWt5t6vtp%2FPVBUVuI3bBBYyz4LvohuU%2F1yEdW6qbcWLrJU53AgwcNvE5P6X16l6t9Re9XvulbKMFG5ttHALf3LRyzV8kICh0eN1gpwQGX9T%2FaDGR5dQl4reYTV7g%2BbTPvhZ9TUcB%2FhmsLtEZhpHHADd3NCYxBZj568Lna9NEx3IvgrkygRUeIXKAOGEvajalon2Hfbwj6vY%2BfzL2uj2G9XztAE6pTizf87Z0jlNCdAb%2BT6%2FtQGUaWwuChKC0BZSPoO51bpUJd92nSN2iPqvsbvgIgYUmHlRc0HUTNRy2ZB6joPfiNBkfDQ%3D%3D--VvI4J2oftOjyPx9k--iyyMPfpRtoLOjU%2FqWBC0pA%3D%3D",
       "domain": "ellesfontla.culture.gouv.fr",
       "path": "/",
       "expires": -1,
-      "size": 619,
+      "size": 621,
       "httpOnly": true,
       "secure": true,
       "session": true,
@@ -96,13 +100,13 @@
     "accept-ranges": "bytes",
     "cache-control": "max-age=0, private, must-revalidate",
     "content-type": "text/html; charset=utf-8",
-    "date": "Sun, 25 Aug 2024 13:17:04 GMT",
-    "etag": "W/\"a00da83039fda51a89df3a19404bb996\"",
+    "date": "Sun, 01 Sep 2024 13:20:06 GMT",
+    "etag": "W/\"c6c96f58bd80419dab5a7e882cb675f4\"",
     "link": "</assets/application-528a93768b58fbd9319479309225b69746be032ff66f8e74d3137bebc6409df0.css>; rel=preload; as=style; nopush",
     "referrer-policy": "strict-origin-when-cross-origin",
-    "set-cookie": "_ellesfontlaphoto_session=Uijg5ZpSdpem5x%2BmKZAeHLxZ0exkDHFZtGBRPKWDZp7RBFiXPXP2fz5PoBwfcdcBacYQSANHghw%2F9zmHQXy6sMpHxDIiwnPi98XYySu%2BNUNvcP%2FZlzIw%2BdtDI80NFaNbDCMc3XpFFER3kTInlafp6F2ADoZ1EHKBP2ZeF20i0p5UwPyy6bmU3DD3enEBgrYQBD3MGfbq9kymFvw7oo2B0n%2F9%2BhbdD%2BYvsbpsEhQ2SjcZWyqwKNa0ausxqtk7kLHul1Ph930OW2GwDQH1dq%2Fkw8ejYfUicuA4BUn%2B8NVdt5X9htpfhxOl80tHg0AWUsb20WSRK8GHYYf9hu0RJzMR1ntrq%2BD03MCPRm0YnBoZB8Br8W7UWLZTfq0Ka6Hi9FbzfhJY6iwQVY1A6ZzPe9fvFR3k5Kvg7Yecj8Cn5y6PIvh17vPEOQI1JRd2EVbubJxpTywp%2FWJMWJMzX7JgNWhbMlhhxhRtx2UUBENVetLsQZ%2Fewt2ZHm2ZVw4RmAqdSf5ksA%3D%3D--qsytNUrixG6UcjxA--NhbKQCZPrKlNuW1BBpJ66Q%3D%3D; path=/; secure; HttpOnly; SameSite=Lax",
+    "set-cookie": "_ellesfontlaphoto_session=ux%2FGfBzfdnSAR3pR04aPPne2OzQScsTYEHwLzSptzoLvHXAySdcS%2BIzPd8xMxafIDVwYReda3FIpYohwdrBhNmUrjEkmSg1h1XMjZGeELDPBnkuE%2F24JLiv3cVLYVxmDAvYFaVK9%2BLb9UJrL%2FAhRqM%2FYd0ZPY3n39q%2Fv0zLFlE4uW1YMwCQfsXnqhK9khGwD17cHMq0iS1W8hIHFQ4GeLXuMp5nw9%2F6gCdJ0jIqIFVGcHWPaHAGNudkyyO9zDd1Ed4W%2BfZz%2BHG7GkJ0FVgTSNOnBGaIoBWRiZBGExgOwJKHq0t3%2BUusbJ%2BsZgCas2SSSrtjASQlb1TTJFuUT3ArHLQh93b%2Fq%2FKKjhJtl0MZhKeZPEPrVUgfXiqmOu4IGDrmdynuIrV0nzseUnsalbplYevPMHzY3IMD2vWgUYxDO%2B%2FZLf7VTNq45oi46VYKP4qxxHcJjz%2FGW3%2F9no%2F5Ll8hbuvHSGzHwqoBvavhjMkcVnwEA9g4eTccxGIC927NRdbnfvg%3D%3D--LpP2QixAzT%2F3wm6U--CLt9YV%2Byv4li01W0xQorBw%3D%3D; path=/; secure; HttpOnly; SameSite=Lax",
     "strict-transport-security": "max-age=31557600",
-    "traceresponse": "00-17eefb20633e4c58e6a5b9b16a11ffeb-c7ee49d51a4d75cb-01",
+    "traceresponse": "00-17f1215ae92760686d4b0034fd149edb-4fac87af9e42822d-01",
     "via": "1.1 varnish, 1.1 varnish",
     "x-cache": "MISS, MISS",
     "x-cache-hits": "0, 0",
@@ -115,9 +119,9 @@
     "x-platform-cluster": "tl34jw4qs4bu2-master-7rqtwti",
     "x-platform-processor": "gwzrtyfmq5bg3qickflrztm5jm",
     "x-platform-router": "nthylk4d6puxch5isukqy3sywa",
-    "x-request-id": "696f1190-1fe0-43d7-90f5-a97236384555",
-    "x-runtime": "0.150066",
-    "x-served-by": "cache-par-lfpg1960062-PAR, cache-pao-kpao1770050-PAO",
+    "x-request-id": "13715b7f-d66e-4f3a-b73b-aa5e2fc14fd9",
+    "x-runtime": "0.216126",
+    "x-served-by": "cache-par-lfpg1960032-PAR, cache-sjc10035-SJC",
     "x-xss-protection": "1; mode=block"
   },
   "endpoints": [
@@ -179,7 +183,7 @@
     },
     {
       "hostname": "res.cloudinary.com",
-      "ip": "104.17.201.1",
+      "ip": "104.17.202.1",
       "geoip": {
         "registered_country": {
           "geoname_id": 6252001,
