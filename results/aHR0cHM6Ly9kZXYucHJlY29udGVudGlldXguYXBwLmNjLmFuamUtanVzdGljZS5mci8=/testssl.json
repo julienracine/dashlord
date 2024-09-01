@@ -276,7 +276,7 @@
               "ip"           : "dev.precontentieux.app.cc.anje-justice.fr/91.208.207.214",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "045757CD53EFE4869202C7D0242BB14E1D75"
+              "finding"      : "04387502F1F36A0ADD09CE61F7ED8EADA2CE"
           }
 ,         {
               "id"           : "cert_serialNumberLen",
@@ -290,21 +290,21 @@
               "ip"           : "dev.precontentieux.app.cc.anje-justice.fr/91.208.207.214",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "03163194D53C8517C95E663A230544FA5FE90448"
+              "finding"      : "85A8FD0CEEF197CD889903F37D5D15DAE131633E"
           }
 ,         {
               "id"           : "cert_fingerprintSHA256",
               "ip"           : "dev.precontentieux.app.cc.anje-justice.fr/91.208.207.214",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "2815A95930C1CA9D94CC9B8E149EAC7B76F9586456FB61A5FC30C3CF4BABC511"
+              "finding"      : "84FC150FD8F5458E93FF5D9C50C87A63A3B478AE5C4AC468135E19823A70EA14"
           }
 ,         {
               "id"           : "cert",
               "ip"           : "dev.precontentieux.app.cc.anje-justice.fr/91.208.207.214",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "-----BEGIN CERTIFICATE-----\nMIIFIzCCBAugAwIBAgISBFdXzVPv5IaSAsfQJCuxTh11MA0GCSqGSIb3DQEBCwUAMDMxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQwwCgYDVQQDEwNSMTEwHhcNMjQwNjIzMDI0OTIyWhcNMjQwOTIxMDI0OTIxWjA0MTIwMAYDVQQDEylkZXYucHJlY29udGVudGlldXguYXBwLmNjLmFuamUtanVzdGljZS5mcjCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBALKv9z4k+BHl51anxZZV3MmTyS2/umIFMw/M4IC8BQ+UYmjHfOz+yfji41OFbeu2QLoyCrYlhl0p1zxmtC6tZg680DwcvpQYkK3dqBq6V7Nb9Awj25ph7Y3ZS/pOdWgpkSxUb+Wy0VdxZchnkghWN4xIioA9naJxu3et/iWaL+pnHZd3NuP1BO1m46ZqgLRwV/cit0zKU/4KDvRYkmoaPkrufH/pPwZPREL41Fvh/l84ko/CIWUvO7Jok/PY7ZtQrGCRzt0NldqJMnkR67N7Au1ysB2F1hqEF56QLlB6W6Kb5ZskDohoxlHZbEPXau2m1ZZwuPrfaLosh5p1x8D31i0CAwEAAaOCAi4wggIqMA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQUQbcNBki7hd3L1LyL9QtIeXQfwi4wHwYDVR0jBBgwFoAUxc9GpOr0w8B6bJXELbBeki8m47kwVwYIKwYBBQUHAQEESzBJMCIGCCsGAQUFBzABhhZodHRwOi8vcjExLm8ubGVuY3Iub3JnMCMGCCsGAQUFBzAChhdodHRwOi8vcjExLmkubGVuY3Iub3JnLzA0BgNVHREELTArgilkZXYucHJlY29udGVudGlldXguYXBwLmNjLmFuamUtanVzdGljZS5mcjATBgNVHSAEDDAKMAgGBmeBDAECATCCAQUGCisGAQQB1nkCBAIEgfYEgfMA8QB2AEiw42vapkc0D+VqAvqdMOscUgHLVt0sgdm7v6s52IRzAAABkEM2e08AAAQDAEcwRQIhAJ2PMADSvUiR8849YbIIvfksPGXGrZG1Yt+b1Dewk0WbAiA+VwSfaXyJWJRftClHSDMpksjkB89qmUQiTuCEpw3otAB3AD8XS0/XIkdYlB1lHIS+DRLtkDd/H4Vq68G/KIXs+GRuAAABkEM2e0kAAAQDAEgwRgIhAIacJOeVJzNX1YLCAsurWY1at4MTNvUMkd97/YlzSw8OAiEAgd2H95k7Toi3R1/MUZWr58PRMMS2khUDCod/a5PojgEwDQYJKoZIhvcNAQELBQADggEBAHLA9PM88m0fM8i+qcXXuolRf2ohyEbvhA4CgN0vzaIwVWzfpWOdN73jZcCDQ7q4NIV0vuv1rkM22u1IjOP9mVlelPWjlGYa94659Zhwvkbt0VBut3JikWZLl3NW0/4hH3XX//CJNRMQbsAnSQeMg93DY87Rf5BAnGbQasYjyKZLFld7ctCIpNwDzBUvU7WSeyatY8pvG4Ko4qZ35UPONJwzmMRC8T9/Knd/1MMsdW+mFnbUVF4K0FS4Om2YfZQIFxwoSqw5pYV3d1Y0dYlsNH+DHN4hZZ9jHaIsDxqGr3tTtdyYCWCObIAw6DME3ZclgqlcF7U7cY+nA+hfxICSgBc=\n-----END CERTIFICATE-----"
+              "finding"      : "-----BEGIN CERTIFICATE-----\nMIIFIjCCBAqgAwIBAgISBDh1AvHzagrdCc5h9+2OraLOMA0GCSqGSIb3DQEBCwUAMDMxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQwwCgYDVQQDEwNSMTEwHhcNMjQwODMwMDgxODI0WhcNMjQxMTI4MDgxODIzWjA0MTIwMAYDVQQDEylkZXYucHJlY29udGVudGlldXguYXBwLmNjLmFuamUtanVzdGljZS5mcjCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBALKv9z4k+BHl51anxZZV3MmTyS2/umIFMw/M4IC8BQ+UYmjHfOz+yfji41OFbeu2QLoyCrYlhl0p1zxmtC6tZg680DwcvpQYkK3dqBq6V7Nb9Awj25ph7Y3ZS/pOdWgpkSxUb+Wy0VdxZchnkghWN4xIioA9naJxu3et/iWaL+pnHZd3NuP1BO1m46ZqgLRwV/cit0zKU/4KDvRYkmoaPkrufH/pPwZPREL41Fvh/l84ko/CIWUvO7Jok/PY7ZtQrGCRzt0NldqJMnkR67N7Au1ysB2F1hqEF56QLlB6W6Kb5ZskDohoxlHZbEPXau2m1ZZwuPrfaLosh5p1x8D31i0CAwEAAaOCAi0wggIpMA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQUQbcNBki7hd3L1LyL9QtIeXQfwi4wHwYDVR0jBBgwFoAUxc9GpOr0w8B6bJXELbBeki8m47kwVwYIKwYBBQUHAQEESzBJMCIGCCsGAQUFBzABhhZodHRwOi8vcjExLm8ubGVuY3Iub3JnMCMGCCsGAQUFBzAChhdodHRwOi8vcjExLmkubGVuY3Iub3JnLzA0BgNVHREELTArgilkZXYucHJlY29udGVudGlldXguYXBwLmNjLmFuamUtanVzdGljZS5mcjATBgNVHSAEDDAKMAgGBmeBDAECATCCAQQGCisGAQQB1nkCBAIEgfUEgfIA8AB3AO7N0GTV2xrOxVy3nbTNE6Iyh0Z8vOzew1FIWUZxH7WbAAABkaKSyrMAAAQDAEgwRgIhANt23i07e5v1KxHoYpe+0Y178X716DBojxBoj4Xe3eikAiEAsTwe+rJKcoYK8cbRBSV3tSWbUZDjc86AnmKtkeW/0FcAdQDf4VbrqgWvtZwPhnGNqMAyTq5W2W6n9aVqAdHBO75SXAAAAZGiksuXAAAEAwBGMEQCIGELMb/3sCF/TiSSLqCiYVoXz/riXbPzU1g9G87AzDTiAiAEL81uh2T34JXbzRQZRg6xqMe5k/hz55GXHMzfzhNpzDANBgkqhkiG9w0BAQsFAAOCAQEAco9rK/zOqf6RB8OwD68jTaLpPuVdyj+NiStcaAZXbzXesyZFljxsa8ejZCvIJ4W1/F2whTGXMBTzl66M5GE4nuPNuyY2diC1a1WUxYjZFajtJhnOyDZuY8FIdtjZo+4ZZ4fCoEFRvq/KjkPSktP0H+LAxYAeRwyM2KX1mQ1PObTeDYsXP++tfiWTwePqlaITu2FS6U8S1sm6tA5nWj039nfxGmNjh6NK0xgM2OuC8Gp5SiC3xNQURy710TQKvtmBm0z4rGWMwSwoq+MkWKC0RULadI19rZxvEPnT3P/uUdjO6Mr200+1dkQ1ofb816xH+9KZ+YeXyDgG2VYkiR7MWA==\n-----END CERTIFICATE-----"
           }
 ,         {
               "id"           : "cert_commonName",
@@ -352,22 +352,22 @@
               "id"           : "cert_expirationStatus",
               "ip"           : "dev.precontentieux.app.cc.anje-justice.fr/91.208.207.214",
               "port"         : "443",
-              "severity"     : "MEDIUM",
-              "finding"      : "expires < 30 days (26)"
+              "severity"     : "OK",
+              "finding"      : "87 >= 30 days"
           }
 ,         {
               "id"           : "cert_notBefore",
               "ip"           : "dev.precontentieux.app.cc.anje-justice.fr/91.208.207.214",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "2024-06-23 02:49"
+              "finding"      : "2024-08-30 08:18"
           }
 ,         {
               "id"           : "cert_notAfter",
               "ip"           : "dev.precontentieux.app.cc.anje-justice.fr/91.208.207.214",
               "port"         : "443",
-              "severity"     : "MEDIUM",
-              "finding"      : "2024-09-21 02:49"
+              "severity"     : "OK",
+              "finding"      : "2024-11-28 08:18"
           }
 ,         {
               "id"           : "cert_extlifeSpan",
@@ -514,7 +514,7 @@
               "ip"           : "dev.precontentieux.app.cc.anje-justice.fr/91.208.207.214",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1724610435"
+              "finding"      : "1725215071"
           }
 ,         {
               "id"           : "HSTS",
@@ -687,7 +687,7 @@
               "severity"     : "INFO",
               "cve"          : "CVE-2016-0800 CVE-2016-0703",
               "cwe"          : "CWE-310",
-              "finding"      : "Make sure you don't use this certificate elsewhere with SSLv2 enabled services, see https://search.censys.io/search?resource=hosts&virtual_hosts=INCLUDE&q=2815A95930C1CA9D94CC9B8E149EAC7B76F9586456FB61A5FC30C3CF4BABC511"
+              "finding"      : "Make sure you don't use this certificate elsewhere with SSLv2 enabled services, see https://search.censys.io/search?resource=hosts&virtual_hosts=INCLUDE&q=84FC150FD8F5458E93FF5D9C50C87A63A3B478AE5C4AC468135E19823A70EA14"
           }
 ,         {
               "id"           : "LOGJAM",
@@ -1070,6 +1070,6 @@
               "ip"           : "dev.precontentieux.app.cc.anje-justice.fr/91.208.207.214",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "57"
+              "finding"      : "60"
           }
 ]
