@@ -297,7 +297,7 @@
               "ip"           : "api.exposition.inserjeunes.beta.gouv.fr/141.94.2.159",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "03E1BB4E0305DB84A8431FB57BA71C5AF98E"
+              "finding"      : "038A6C261CAC5BF31CE91539776915B0053F"
           }
 ,         {
               "id"           : "cert_serialNumberLen",
@@ -311,21 +311,21 @@
               "ip"           : "api.exposition.inserjeunes.beta.gouv.fr/141.94.2.159",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "0BE4DB341B1CB81DEF623A45C73799EB4B4BA48B"
+              "finding"      : "4B79FC82320805368B16B988D099876D1E4E8898"
           }
 ,         {
               "id"           : "cert_fingerprintSHA256",
               "ip"           : "api.exposition.inserjeunes.beta.gouv.fr/141.94.2.159",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "284249E94C5A3FF98AEEF7A52E262F92910DB0C6B6C104FE158F5CB958AE3663"
+              "finding"      : "A5E18122FF87DC5CA209542A852A0DA6CB64602E843C5FC4B8DF9223048BEB81"
           }
 ,         {
               "id"           : "cert",
               "ip"           : "api.exposition.inserjeunes.beta.gouv.fr/141.94.2.159",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "-----BEGIN CERTIFICATE-----\n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\n-----END CERTIFICATE-----"
+              "finding"      : "-----BEGIN CERTIFICATE-----\n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\n-----END CERTIFICATE-----"
           }
 ,         {
               "id"           : "cert_commonName",
@@ -373,22 +373,22 @@
               "id"           : "cert_expirationStatus",
               "ip"           : "api.exposition.inserjeunes.beta.gouv.fr/141.94.2.159",
               "port"         : "443",
-              "severity"     : "MEDIUM",
-              "finding"      : "expires < 30 days (27)"
+              "severity"     : "OK",
+              "finding"      : "83 >= 30 days"
           }
 ,         {
               "id"           : "cert_notBefore",
               "ip"           : "api.exposition.inserjeunes.beta.gouv.fr/141.94.2.159",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "2024-06-23 23:07"
+              "finding"      : "2024-08-25 23:07"
           }
 ,         {
               "id"           : "cert_notAfter",
               "ip"           : "api.exposition.inserjeunes.beta.gouv.fr/141.94.2.159",
               "port"         : "443",
-              "severity"     : "MEDIUM",
-              "finding"      : "2024-09-21 23:07"
+              "severity"     : "OK",
+              "finding"      : "2024-11-23 23:07"
           }
 ,         {
               "id"           : "cert_extlifeSpan",
@@ -535,7 +535,7 @@
               "ip"           : "api.exposition.inserjeunes.beta.gouv.fr/141.94.2.159",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1724608727"
+              "finding"      : "1725213437"
           }
 ,         {
               "id"           : "HSTS_time",
@@ -750,7 +750,7 @@
               "severity"     : "INFO",
               "cve"          : "CVE-2016-0800 CVE-2016-0703",
               "cwe"          : "CWE-310",
-              "finding"      : "Make sure you don't use this certificate elsewhere with SSLv2 enabled services, see https://search.censys.io/search?resource=hosts&virtual_hosts=INCLUDE&q=284249E94C5A3FF98AEEF7A52E262F92910DB0C6B6C104FE158F5CB958AE3663"
+              "finding"      : "Make sure you don't use this certificate elsewhere with SSLv2 enabled services, see https://search.censys.io/search?resource=hosts&virtual_hosts=INCLUDE&q=A5E18122FF87DC5CA209542A852A0DA6CB64602E843C5FC4B8DF9223048BEB81"
           }
 ,         {
               "id"           : "LOGJAM-common_primes",
@@ -1126,6 +1126,6 @@
               "ip"           : "api.exposition.inserjeunes.beta.gouv.fr/141.94.2.159",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "50"
+              "finding"      : "51"
           }
 ]
