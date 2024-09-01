@@ -15,7 +15,7 @@
       "value": "1",
       "domain": "acceslibre.beta.gouv.fr",
       "path": "/",
-      "expires": 1724551135,
+      "expires": 1725156866,
       "size": 15,
       "httpOnly": false,
       "secure": false,
@@ -27,10 +27,10 @@
     },
     {
       "name": "_pk_id.3.c7e8",
-      "value": "467fbab494398b45.1724549336.",
+      "value": "03fe11a11a8efe33.1725155067.",
       "domain": "acceslibre.beta.gouv.fr",
       "path": "/",
-      "expires": 1758504536,
+      "expires": 1759110267,
       "size": 41,
       "httpOnly": false,
       "secure": false,
@@ -42,10 +42,10 @@
     },
     {
       "name": "csrftoken",
-      "value": "anun9P5SlE82Y5s8hiMOHDaoSLpdAna6",
+      "value": "p6JvjdqxII13HhVndi2GDn4BADENDwDT",
       "domain": "acceslibre.beta.gouv.fr",
       "path": "/",
-      "expires": 1755998934.229377,
+      "expires": 1756604664.184008,
       "size": 41,
       "httpOnly": false,
       "secure": true,
@@ -59,22 +59,22 @@
   "headers": {
     "content-encoding": "gzip",
     "content-language": "en",
-    "content-security-policy": "default-src 'self' data: *.mapbox.com *.gouv.fr *.incubateur.net acceslibre.matomo.cloud *.tile.openstreetmap.org client.crisp.chat image.crisp.chat storage.crisp.chat game.crisp.chat wss://client.relay.crisp.chat wss://stream.relay.crisp.chat *.acceslibre.info 'nonce-YMfBierVb3agRppGljKhHQ=='",
+    "content-security-policy": "default-src 'self' data: *.mapbox.com *.gouv.fr *.incubateur.net acceslibre.matomo.cloud *.tile.openstreetmap.org client.crisp.chat image.crisp.chat storage.crisp.chat game.crisp.chat wss://client.relay.crisp.chat wss://stream.relay.crisp.chat *.acceslibre.info 'nonce-NMu2D1hXjiL4aFCyy1GK5g=='",
     "content-type": "text/html; charset=utf-8",
     "cross-origin-opener-policy": "same-origin",
-    "date": "Sun, 25 Aug 2024 01:28:54 GMT",
+    "date": "Sun, 01 Sep 2024 01:44:24 GMT",
     "referrer-policy": "same-origin",
-    "set-cookie": "csrftoken=anun9P5SlE82Y5s8hiMOHDaoSLpdAna6; expires=Sun, 24 Aug 2025 01:28:54 GMT; Max-Age=31449600; Path=/; SameSite=Lax; Secure",
+    "set-cookie": "csrftoken=p6JvjdqxII13HhVndi2GDn4BADENDwDT; expires=Sun, 31 Aug 2025 01:44:24 GMT; Max-Age=31449600; Path=/; SameSite=Lax; Secure",
     "strict-transport-security": "max-age=31536000",
     "vary": "Cookie, origin, Accept-Language",
     "x-content-type-options": "nosniff",
     "x-frame-options": "DENY",
-    "x-request-id": "1c48b31e-5a37-4944-bcbf-d4ee1c75919e"
+    "x-request-id": "c0d041b4-34f8-45e7-9a7d-121164e044ae"
   },
   "endpoints": [
     {
       "hostname": "acceslibre.beta.gouv.fr",
-      "ip": "109.232.236.90",
+      "ip": "5.104.101.30",
       "geoip": {
         "continent": {
           "code": "EU",
@@ -130,7 +130,7 @@
     },
     {
       "hostname": "client.crisp.chat",
-      "ip": "104.18.29.104",
+      "ip": "104.18.28.104",
       "geoip": {
         "registered_country": {
           "geoname_id": 6252001,
