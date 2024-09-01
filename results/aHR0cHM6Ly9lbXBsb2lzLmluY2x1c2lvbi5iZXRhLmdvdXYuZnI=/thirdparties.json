@@ -4,23 +4,23 @@
   "headers": {
     "connection": "keep-alive",
     "content-encoding": "gzip",
-    "content-length": "7413",
-    "content-security-policy": "frame-ancestors https://pilotage.inclusion.beta.gouv.fr; connect-src 'self' *.sentry.io *.hotjar.com *.hotjar.io wss://*.hotjar.com https://matomo.inclusion.beta.gouv.fr/ https://api-adresse.data.gouv.fr; script-src-elem 'self' https://stats.inclusion.beta.gouv.fr *.hotjar.com https://tally.so https://matomo.inclusion.beta.gouv.fr/ 'nonce-jBKtsKAcXQPuEoYVxVZa/A=='; frame-src https://app.livestorm.co *.hotjar.com https://tally.so https://stats.inclusion.beta.gouv.fr https://pilotage.inclusion.beta.gouv.fr https://communaute.inclusion.beta.gouv.fr https://inclusion.beta.gouv.fr blob: data:; default-src 'self'; img-src 'self' data: https://tile.openstreetmap.org https://*.tile.openstreetmap.org *.hotjar.com https://cdn.redoc.ly https://matomo.inclusion.beta.gouv.fr/; base-uri 'none'; style-src 'self' 'unsafe-inline'; object-src 'none'; font-src 'self' data:; worker-src 'self' blob:; script-src 'self' https://stats.inclusion.beta.gouv.fr *.hotjar.com https://tally.so https://matomo.inclusion.beta.gouv.fr/ 'nonce-jBKtsKAcXQPuEoYVxVZa/A=='",
+    "content-length": "7738",
+    "content-security-policy": "frame-ancestors https://pilotage.inclusion.beta.gouv.fr; frame-src https://app.livestorm.co *.hotjar.com https://tally.so https://stats.inclusion.beta.gouv.fr https://pilotage.inclusion.beta.gouv.fr https://communaute.inclusion.beta.gouv.fr https://inclusion.beta.gouv.fr blob: data:; connect-src 'self' *.sentry.io *.hotjar.com *.hotjar.io wss://*.hotjar.com https://matomo.inclusion.beta.gouv.fr/ https://api-adresse.data.gouv.fr; worker-src 'self' blob:; base-uri 'none'; object-src 'none'; font-src 'self' data:; img-src 'self' data: https://tile.openstreetmap.org https://*.tile.openstreetmap.org *.hotjar.com https://cdn.redoc.ly https://matomo.inclusion.beta.gouv.fr/; script-src 'self' https://stats.inclusion.beta.gouv.fr *.hotjar.com https://tally.so https://matomo.inclusion.beta.gouv.fr/ 'nonce-43qi0R2oqVu9vcVNoDqeaQ=='; default-src 'self'; script-src-elem 'self' https://stats.inclusion.beta.gouv.fr *.hotjar.com https://tally.so https://matomo.inclusion.beta.gouv.fr/ 'nonce-43qi0R2oqVu9vcVNoDqeaQ=='; style-src 'self' 'unsafe-inline'",
     "content-type": "text/html; charset=utf-8",
     "cross-origin-opener-policy": "same-origin",
-    "date": "Sun, 25 Aug 2024 03:36:26 GMT",
+    "date": "Sun, 01 Sep 2024 03:45:46 GMT",
     "referrer-policy": "same-origin",
-    "sozu-id": "01J63SPJC5ZB3DA1TPZQ07BXFT",
+    "sozu-id": "01J6NV0P27XJWDXQXQC5GM6ZXZ",
     "strict-transport-security": "max-age=31536000; includeSubDomains",
     "vary": "Cookie, Accept-Encoding",
     "x-content-type-options": "nosniff",
     "x-frame-options": "DENY",
-    "x-request-id": "488d2fae-489b-4a3c-bb3c-b44f6e594aab"
+    "x-request-id": "bf701727-5d9f-4e6d-820f-9a8ed7707e59"
   },
   "endpoints": [
     {
       "hostname": "emplois.inclusion.beta.gouv.fr",
-      "ip": "91.208.207.220",
+      "ip": "91.208.207.217",
       "geoip": {
         "continent": {
           "code": "EU",
