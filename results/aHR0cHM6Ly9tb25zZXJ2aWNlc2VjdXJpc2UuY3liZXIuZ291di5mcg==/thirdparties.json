@@ -1,124 +1,59 @@
 {
   "trackers": [
     {
+      "type": "unknown",
+      "url": "https://js.hcaptcha.com/1/api.js?onload=onloadCallback"
+    },
+    {
       "type": "google fonts",
-      "url": "https://fonts.googleapis.com/css2?family=Roboto:wght@100;400;500&display=swap",
+      "url": "https://fonts.googleapis.com/css2?family=Roboto:wght@100;400&display=swap",
       "details": {
         "id": "google fonts",
         "message": "Host the font locally with https://github.com/neverpanic/google-font-download or https://google-webfonts-helper.herokuapp.com/"
       }
+    },
+    {
+      "type": "unknown",
+      "url": "https://newassets.hcaptcha.com/captcha/v1/8fd4e18/static/hcaptcha.html"
+    },
+    {
+      "type": "unknown",
+      "url": "https://newassets.hcaptcha.com/captcha/v1/8fd4e18/static/hcaptcha.html"
+    },
+    {
+      "type": "google fonts",
+      "url": "https://fonts.gstatic.com/s/roboto/v32/KFOmCnqEu92Fr1Mu4mxK.woff2",
+      "details": {
+        "id": "google fonts",
+        "message": "Host the font locally with https://github.com/neverpanic/google-font-download or https://google-webfonts-helper.herokuapp.com/"
+      }
+    },
+    {
+      "type": "google fonts",
+      "url": "https://fonts.gstatic.com/s/roboto/v32/KFOmCnqEu92Fr1Mu4mxK.woff2",
+      "details": {
+        "id": "google fonts",
+        "message": "Host the font locally with https://github.com/neverpanic/google-font-download or https://google-webfonts-helper.herokuapp.com/"
+      }
+    },
+    {
+      "type": "unknown",
+      "url": "https://api.hcaptcha.com/checksiteconfig?v=8fd4e18&host=monservicesecurise.cyber.gouv.fr&sitekey=f6af350b-e1f0-4be9-847a-de731e69489a&sc=1&swa=1&spst=0"
+    },
+    {
+      "type": "unknown",
+      "url": "https://newassets.hcaptcha.com/c/6c2596db2ce08d2f8763801d158624c790db3d34b0235bb33999fd85979fac64/hsw.js"
     }
   ],
-  "cookies": [
-    {
-      "name": "_pk_id.28.a0cf",
-      "value": "dfdab98411c9c41a.1724595479.",
-      "domain": "monservicesecurise.cyber.gouv.fr",
-      "path": "/",
-      "expires": 1758550679,
-      "size": 42,
-      "httpOnly": false,
-      "secure": false,
-      "session": false,
-      "sameSite": "Lax",
-      "sameParty": false,
-      "sourceScheme": "Secure",
-      "sourcePort": 443
-    },
-    {
-      "name": "_pk_ses.28.a0cf",
-      "value": "1",
-      "domain": "monservicesecurise.cyber.gouv.fr",
-      "path": "/",
-      "expires": 1724597278,
-      "size": 16,
-      "httpOnly": false,
-      "secure": false,
-      "session": false,
-      "sameSite": "Lax",
-      "sameParty": false,
-      "sourceScheme": "Secure",
-      "sourcePort": 443
-    },
-    {
-      "name": "sc-sticky-session",
-      "value": "C6TzVfMDrDwD2DiEjXHn3O7ZpRgj1EUMz59fpzLDzo8Uq1NEmEiBhVAsZzemyVBSqJfSPzlIMOo4hUaJtBA/I4MsmemZ1Ek4HzIYvYC22Ko=",
-      "domain": "monservicesecurise.cyber.gouv.fr",
-      "path": "/",
-      "expires": 1724681878.523389,
-      "size": 125,
-      "httpOnly": true,
-      "secure": true,
-      "session": false,
-      "sameSite": "None",
-      "sameParty": false,
-      "sourceScheme": "Secure",
-      "sourcePort": 443
-    },
-    {
-      "name": "bln_challengejs",
-      "value": "Jvn928rcYGR1fFTwFQ82b3OZaKlFX6w6gI0gmspfvoo7_AChq6PoZn83gOszw7jE9S9Qjt_9eBeHVuQsnC6ro8cHMm88yF6UDbGute7pWk-znXT6-ptYSCi7Lgkm0fQ6cLIFa48q5GsYxz0wVYBUyPBF4n2PLF1Qig8ZTEZUkMkqvkggFsGNviZ97VCguJ6wKb9gT6pEEOf9enpBRmArwJpyeQ2klEsaqu0eDZv4-FPtuM4zBkQ8LYCiX0f5vpGF1tFd78VbhM6NnAAbTigrrQ",
-      "domain": ".cyber.gouv.fr",
-      "path": "/",
-      "expires": 1724596377.249817,
-      "size": 293,
-      "httpOnly": false,
-      "secure": false,
-      "session": false,
-      "sameParty": false,
-      "sourceScheme": "Secure",
-      "sourcePort": 443
-    },
-    {
-      "name": "token",
-      "value": "eyJfY3NyZlNlY3JldCI6Ing1OTUvUXlWZEplRGtnPT0iLCJtYWludGVuYW50IjoyODc0MzI1N30=",
-      "domain": "monservicesecurise.cyber.gouv.fr",
-      "path": "/",
-      "expires": 1724599077.419891,
-      "size": 81,
-      "httpOnly": true,
-      "secure": true,
-      "session": false,
-      "sameSite": "Strict",
-      "sameParty": false,
-      "sourceScheme": "Secure",
-      "sourcePort": 443
-    },
-    {
-      "name": "token.sig",
-      "value": "J4WGkCb86wGtdBO16oiUy9H5sSg",
-      "domain": "monservicesecurise.cyber.gouv.fr",
-      "path": "/",
-      "expires": 1724599077.419947,
-      "size": 36,
-      "httpOnly": true,
-      "secure": true,
-      "session": false,
-      "sameSite": "Strict",
-      "sameParty": false,
-      "sourceScheme": "Secure",
-      "sourcePort": 443
-    }
-  ],
+  "cookies": [],
   "headers": {
-    "accept-ranges": "bytes",
-    "age": "0",
-    "content-encoding": "gzip",
-    "content-security-policy": "default-src 'self'; connect-src 'self' https://stats.beta.gouv.fr/matomo.php; img-src 'self' https://storage.crisp.chat data:; media-src 'self' https://monservicesecurise-ressources.cellar-c2.services.clever-cloud.com; script-src 'self'; frame-src https://metabase.monservicesecurise.cyber.gouv.fr/",
-    "content-type": "text/html; charset=utf-8",
-    "date": "Sun, 25 Aug 2024 14:17:57 GMT",
-    "etag": "W/\"6178-DlUomPvPkvT9UcSWyStNmKI7BzU\"",
-    "referrer-policy": "no-referrer",
-    "set-cookie": "token=eyJfY3NyZlNlY3JldCI6Ing1OTUvUXlWZEplRGtnPT0iLCJtYWludGVuYW50IjoyODc0MzI1N30=; path=/; expires=Sun, 25 Aug 2024 15:17:57 GMT; samesite=strict; secure; httponly\ntoken.sig=J4WGkCb86wGtdBO16oiUy9H5sSg; path=/; expires=Sun, 25 Aug 2024 15:17:57 GMT; samesite=strict; secure; httponly\nsc-sticky-session=C6TzVfMDrDwD2DiEjXHn3O7ZpRgj1EUMz59fpzLDzo8Uq1NEmEiBhVAsZzemyVBSqJfSPzlIMOo4hUaJtBA/I4MsmemZ1Ek4HzIYvYC22Ko=; Expires=Mon, 26-Aug-24 14:17:57 GMT; Max-Age=86400; Path=/; Secure; HttpOnly; SameSite=None",
-    "strict-transport-security": "max-age=31536000",
-    "vary": "Accept-Encoding",
+    "cache-control": "no-cache",
+    "content-type": "text/html",
+    "date": "Sun, 01 Sep 2024 14:24:18 GMT",
+    "referrer-policy": "origin-when-cross-origin",
+    "strict-transport-security": "max-age=63072000",
     "x-content-type-options": "nosniff",
-    "x-frame-options": "deny",
-    "x-ratelimit-limit": "600",
-    "x-ratelimit-remaining": "599",
-    "x-ratelimit-reset": "1724595530",
-    "x-request-id": "bc716eb03bd9f9828128a23088d2470f",
-    "x-varnish": "6845133",
+    "x-frame-options": "DENY",
     "x-xss-protection": "1; mode=block"
   },
   "endpoints": [
@@ -179,15 +114,29 @@
       }
     },
     {
-      "hostname": "fonts.googleapis.com",
-      "ip": "142.250.72.170",
+      "hostname": "js.hcaptcha.com",
+      "ip": "104.19.229.21",
       "geoip": {
-        "city": {
-          "geoname_id": 5131638,
+        "registered_country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
           "names": {
-            "en": "Plainview"
+            "de": "USA",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
           }
-        },
+        }
+      }
+    },
+    {
+      "hostname": "fonts.googleapis.com",
+      "ip": "142.250.31.95",
+      "geoip": {
         "continent": {
           "code": "NA",
           "geoname_id": 6255149,
@@ -217,14 +166,10 @@
           }
         },
         "location": {
-          "accuracy_radius": 100,
-          "latitude": 40.7746,
-          "longitude": -73.4761,
-          "metro_code": 501,
-          "time_zone": "America/New_York"
-        },
-        "postal": {
-          "code": "11803"
+          "accuracy_radius": 1000,
+          "latitude": 37.751,
+          "longitude": -97.822,
+          "time_zone": "America/Chicago"
         },
         "registered_country": {
           "geoname_id": 6252001,
@@ -239,23 +184,101 @@
             "ru": "США",
             "zh-CN": "美国"
           }
-        },
-        "subdivisions": [
-          {
-            "geoname_id": 5128638,
-            "iso_code": "NY",
-            "names": {
-              "de": "New York",
-              "en": "New York",
-              "es": "Nueva York",
-              "fr": "New York",
-              "ja": "ニューヨーク州",
-              "pt-BR": "Nova Iorque",
-              "ru": "Нью-Йорк",
-              "zh-CN": "纽约州"
-            }
+        }
+      }
+    },
+    {
+      "hostname": "newassets.hcaptcha.com",
+      "ip": "104.19.230.21",
+      "geoip": {
+        "registered_country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "USA",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
           }
-        ]
+        }
+      }
+    },
+    {
+      "hostname": "fonts.gstatic.com",
+      "ip": "172.253.122.94",
+      "geoip": {
+        "continent": {
+          "code": "NA",
+          "geoname_id": 6255149,
+          "names": {
+            "de": "Nordamerika",
+            "en": "North America",
+            "es": "Norteamérica",
+            "fr": "Amérique du Nord",
+            "ja": "北アメリカ",
+            "pt-BR": "América do Norte",
+            "ru": "Северная Америка",
+            "zh-CN": "北美洲"
+          }
+        },
+        "country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "USA",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        },
+        "location": {
+          "accuracy_radius": 1000,
+          "latitude": 37.751,
+          "longitude": -97.822,
+          "time_zone": "America/Chicago"
+        },
+        "registered_country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "USA",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        }
+      }
+    },
+    {
+      "hostname": "api.hcaptcha.com",
+      "ip": "104.19.230.21",
+      "geoip": {
+        "registered_country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "USA",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        }
       }
     }
   ]
