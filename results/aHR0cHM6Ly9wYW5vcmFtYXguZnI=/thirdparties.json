@@ -22,7 +22,7 @@
     },
     {
       "type": "unknown",
-      "url": "https://matomo.panoramax.xyz//matomo.php?action_name=L%E2%80%99alternative%20libre%20pour%20photo-cartographier%20les%20territoires&idsite=2&rec=1&r=348020&h=16&m=31&s=49&url=https%3A%2F%2Fpanoramax.fr%2F&_id=f5314557777a8470&_idn=1&send_image=0&_refts=0&pv_id=V5didx&pf_net=61&pf_srv=152&pf_tfr=1&pf_dm1=6&uadata=%7B%22fullVersionList%22%3A%5B%5D%2C%22mobile%22%3Afalse%2C%22model%22%3A%22%22%2C%22platform%22%3A%22%22%2C%22platformVersion%22%3A%22%22%7D&cookie=1&res=800x600"
+      "url": "https://matomo.panoramax.xyz//matomo.php?action_name=L%E2%80%99alternative%20libre%20pour%20photo-cartographier%20les%20territoires&idsite=2&rec=1&r=579852&h=16&m=36&s=36&url=https%3A%2F%2Fpanoramax.fr%2F%23speed%3D250&_id=02eecf2e4009daf1&_idn=1&send_image=0&_refts=0&pv_id=2uyxGO&pf_net=168&pf_srv=103&pf_tfr=1&pf_dm1=6&uadata=%7B%22fullVersionList%22%3A%5B%5D%2C%22mobile%22%3Afalse%2C%22model%22%3A%22%22%2C%22platform%22%3A%22%22%2C%22platformVersion%22%3A%22%22%7D&cookie=1&res=800x600"
     },
     {
       "type": "unknown",
@@ -94,23 +94,23 @@
     },
     {
       "type": "unknown",
+      "url": "https://panoramax.openstreetmap.fr/pmtiles/planet.pmtiles"
+    },
+    {
+      "type": "unknown",
+      "url": "https://panoramax.openstreetmap.fr/pmtiles/planet.pmtiles"
+    },
+    {
+      "type": "unknown",
+      "url": "https://panoramax.openstreetmap.fr/pmtiles/planet.pmtiles"
+    },
+    {
+      "type": "unknown",
+      "url": "https://panoramax.openstreetmap.fr/pmtiles/planet.pmtiles"
+    },
+    {
+      "type": "unknown",
       "url": "https://panoramax.openstreetmap.fr/images/7b/de/6d/85/a442-4f1b-bd87-86197157b8f0.jpg"
-    },
-    {
-      "type": "unknown",
-      "url": "https://panoramax.openstreetmap.fr/pmtiles/planet.pmtiles"
-    },
-    {
-      "type": "unknown",
-      "url": "https://panoramax.openstreetmap.fr/pmtiles/planet.pmtiles"
-    },
-    {
-      "type": "unknown",
-      "url": "https://panoramax.openstreetmap.fr/pmtiles/planet.pmtiles"
-    },
-    {
-      "type": "unknown",
-      "url": "https://panoramax.openstreetmap.fr/pmtiles/planet.pmtiles"
     },
     {
       "type": "unknown",
@@ -143,10 +143,6 @@
     {
       "type": "unknown",
       "url": "https://tile-vect.openstreetmap.fr/fonts/Noto%20Sans%20Regular/0-255.pbf"
-    },
-    {
-      "type": "unknown",
-      "url": "https://api.panoramax.xyz/api/collections/a09470ab-e33f-4156-a8be-5bb60ec6b390/items/c15833fb-9bb3-44a8-813e-bef2ed552d14"
     }
   ],
   "cookies": [
@@ -155,7 +151,7 @@
       "value": "1",
       "domain": "panoramax.fr",
       "path": "/",
-      "expires": 1724605309,
+      "expires": 1725210396,
       "size": 15,
       "httpOnly": false,
       "secure": false,
@@ -167,10 +163,10 @@
     },
     {
       "name": "_pk_id.2.8046",
-      "value": "f5314557777a8470.1724603510.",
+      "value": "02eecf2e4009daf1.1725208597.",
       "domain": "panoramax.fr",
       "path": "/",
-      "expires": 1758558710,
+      "expires": 1759163797,
       "size": 41,
       "httpOnly": false,
       "secure": false,
@@ -185,10 +181,10 @@
     "cache-control": "max-age=600",
     "content-length": "1352",
     "content-type": "text/html; charset=utf-8",
-    "date": "Sun, 25 Aug 2024 16:31:48 GMT",
-    "etag": "\"3e0d9cc0da27590fccbc69d626f6e22192f02fc0b288ca569788f002875c1c1c\"",
-    "expires": "Sun, 25 Aug 2024 16:41:48 UTC",
-    "last-modified": "Thu, 22 Aug 2024 09:32:04 GMT",
+    "date": "Sun, 01 Sep 2024 16:36:34 GMT",
+    "etag": "\"48cef9499564d2afe5b1d7f9001970007c42df72a4591b88d4f683adbec284c8\"",
+    "expires": "Sun, 01 Sep 2024 16:46:34 UTC",
+    "last-modified": "Fri, 30 Aug 2024 13:08:13 GMT",
     "permissions-policy": "interest-cohort=()",
     "vary": "Origin"
   },
