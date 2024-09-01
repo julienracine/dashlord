@@ -206,7 +206,7 @@
               "ip"           : "passculture.app/34.111.135.217",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "not supported"
+              "finding"      : "supported"
           }
 ,         {
               "id"           : "TLS_timestamp",
@@ -346,7 +346,7 @@
               "ip"           : "passculture.app/34.111.135.217",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "176 >= 60 days"
+              "finding"      : "169 >= 60 days"
           }
 ,         {
               "id"           : "cert_notBefore",
@@ -500,21 +500,21 @@
               "ip"           : "passculture.app/34.111.135.217",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "+1234 seconds from localtime"
+              "finding"      : "+2439 seconds from localtime"
           }
 ,         {
               "id"           : "HTTP_headerTime",
               "ip"           : "passculture.app/34.111.135.217",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1724567703"
+              "finding"      : "1725173131"
           }
 ,         {
               "id"           : "HTTP_headerAge",
               "ip"           : "passculture.app/34.111.135.217",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1234 seconds"
+              "finding"      : "2450 seconds"
           }
 ,         {
               "id"           : "HSTS",
@@ -1070,6 +1070,6 @@
               "ip"           : "passculture.app/34.111.135.217",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "39"
+              "finding"      : "38"
           }
 ]
