@@ -17,10 +17,10 @@
     "content-type": "text/html; charset=UTF-8",
     "cross-origin-opener-policy": "same-origin",
     "cross-origin-resource-policy": "same-origin",
-    "date": "Sun, 01 Sep 2024 18:25:11 GMT",
-    "etag": "W/\"4f5-1912be850b8\"",
+    "date": "Sun, 08 Sep 2024 14:44:45 GMT",
+    "etag": "W/\"4f4-191c12cf250\"",
     "expect-ct": "max-age=0",
-    "last-modified": "Wed, 07 Aug 2024 08:15:31 GMT",
+    "last-modified": "Thu, 05 Sep 2024 07:53:54 GMT",
     "origin-agent-cluster": "?1",
     "referrer-policy": "no-referrer",
     "strict-transport-security": "max-age=15552000; includeSubDomains",
@@ -30,15 +30,15 @@
     "x-frame-options": "SAMEORIGIN",
     "x-permitted-cross-domain-policies": "none",
     "x-ratelimit-limit": "10000",
-    "x-ratelimit-remaining": "9888",
-    "x-ratelimit-reset": "1725215284",
-    "x-request-id": "118ffed5-5256-4f66-9683-33ef29025175",
+    "x-ratelimit-remaining": "9862",
+    "x-ratelimit-reset": "1725806829",
+    "x-request-id": "cc35c15e-b876-4075-bfa9-fa8adb58c7d1",
     "x-xss-protection": "0"
   },
   "endpoints": [
     {
       "hostname": "maestro.beta.gouv.fr",
-      "ip": "185.21.194.105",
+      "ip": "80.247.12.255",
       "geoip": {
         "continent": {
           "code": "EU",
@@ -94,7 +94,7 @@
     },
     {
       "hostname": "unpkg.com",
-      "ip": "104.17.249.203",
+      "ip": "104.17.246.203",
       "geoip": {
         "registered_country": {
           "geoname_id": 6252001,
