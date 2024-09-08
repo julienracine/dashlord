@@ -162,7 +162,7 @@
     },
     {
       "type": "unknown",
-      "url": "https://hd.pe.fr/event?s=620985&idclient=m0j4wszaukxri3dt"
+      "url": "https://hd.pe.fr/event?s=620985&idclient=m0t30tz1xqg7bxxk"
     },
     {
       "type": "unknown",
@@ -209,8 +209,24 @@
       "url": "https://mesevenementsemploi.francetravail.fr/filters.32d182a7523b3a21.svg"
     },
     {
+      "type": "google fonts",
+      "url": "https://fonts.gstatic.com/s/opensans/v29/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTS-muw.woff2",
+      "details": {
+        "id": "google fonts",
+        "message": "Host the font locally with https://github.com/neverpanic/google-font-download or https://google-webfonts-helper.herokuapp.com/"
+      }
+    },
+    {
       "type": "unknown",
       "url": "https://privacy.trustcommander.net/privacy-consent/"
+    },
+    {
+      "type": "google fonts",
+      "url": "https://fonts.gstatic.com/s/opensans/v29/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTS-muw.woff2",
+      "details": {
+        "id": "google fonts",
+        "message": "Host the font locally with https://github.com/neverpanic/google-font-download or https://google-webfonts-helper.herokuapp.com/"
+      }
     },
     {
       "type": "unknown",
@@ -247,32 +263,12 @@
     {
       "type": "unknown",
       "url": "https://mesevenementsemploi.francetravail.fr/circle-arrow-right_violet.751425cad70d083d.svg"
-    },
-    {
-      "type": "unknown",
-      "url": "https://mesevenementsemploi.francetravail.fr/en-ligne.b439ff6d7d2a00d1.svg"
-    },
-    {
-      "type": "google fonts",
-      "url": "https://fonts.gstatic.com/s/opensans/v29/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTS-muw.woff2",
-      "details": {
-        "id": "google fonts",
-        "message": "Host the font locally with https://github.com/neverpanic/google-font-download or https://google-webfonts-helper.herokuapp.com/"
-      }
-    },
-    {
-      "type": "google fonts",
-      "url": "https://fonts.gstatic.com/s/opensans/v29/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTS-muw.woff2",
-      "details": {
-        "id": "google fonts",
-        "message": "Host the font locally with https://github.com/neverpanic/google-font-download or https://google-webfonts-helper.herokuapp.com/"
-      }
     }
   ],
   "cookies": [
     {
       "name": "TS0108a62c",
-      "value": "01b3abf0a2a6dc4633f5e1401bf81bd0a49eaa231477ec2022bf0680bd148c5ab00f8ad8b64540b11dbbf06ce011fdc4e8ca4efb1044d17bc90527bffc8cd8349286b144944d494e2d5f66e619901d48a5f5b5bd480595c899215863fdabcc9521e6bb98e18bab878417744d43541ec094edde8fc6e23674e82de2c1a375990dd6e012546e23d0552926bd0592a5f221134c2d8a9d",
+      "value": "01b3abf0a2c49f6ea491e67f0715b4ead35098700ce6e094d7d9066b2e2829e4fe3fa1e297cfc75e6785f64eecd3db1f5cf8365077356a5bc43920a4850d5b67547795dd62641770a3a8c52351abe8dc98192ce4c1b9ab9aa3fee4de9cba01172f840b47de4705c96d6ed82759596d2808ab7d99629147f2c1aa6265ef1ac44e769485f51d1ac0b4f441e8ac1f3e91b6edce19ac3b",
       "domain": ".mesevenementsemploi.francetravail.fr",
       "path": "/",
       "expires": -1,
@@ -286,10 +282,10 @@
     },
     {
       "name": "ADRUM_BT1",
-      "value": "R:67|i:2321410|t:1725168716898",
+      "value": "R:67|i:2321410|t:1725770207383",
       "domain": "mesevenementsemploi.francetravail.fr",
       "path": "/",
-      "expires": 1725168748.172728,
+      "expires": 1725770237.708069,
       "size": 39,
       "httpOnly": false,
       "secure": false,
@@ -300,10 +296,10 @@
     },
     {
       "name": "ADRUM_BTa",
-      "value": "R:67|g:1c50cb82-6127-4a71-8d16-f2f759a2f31c|n:pole-emploi_39312bed-46a3-4e23-aac7-07f3e30d3139",
+      "value": "R:67|g:bfb3559c-3acd-4879-a975-e57d414019af|n:pole-emploi_39312bed-46a3-4e23-aac7-07f3e30d3139",
       "domain": "mesevenementsemploi.francetravail.fr",
       "path": "/",
-      "expires": 1725168748.172686,
+      "expires": 1725770237.708036,
       "size": 103,
       "httpOnly": false,
       "secure": false,
@@ -313,12 +309,26 @@
       "sourcePort": 443
     },
     {
+      "name": "ADRUM_BTs",
+      "value": "R:67|s:f",
+      "domain": "mesevenementsemploi.francetravail.fr",
+      "path": "/",
+      "expires": 1725770237.424557,
+      "size": 17,
+      "httpOnly": false,
+      "secure": false,
+      "session": false,
+      "sameParty": false,
+      "sourceScheme": "Secure",
+      "sourcePort": 443
+    },
+    {
       "name": "TCPID",
-      "value": "124905315611375314341",
+      "value": "12490436475440986339",
       "domain": ".francetravail.fr",
       "path": "/",
-      "expires": 1759123916,
-      "size": 26,
+      "expires": 1759725407,
+      "size": 25,
       "httpOnly": false,
       "secure": false,
       "session": false,
@@ -329,11 +339,11 @@
     },
     {
       "name": "_pctx",
-      "value": "%7Bu%7DN4IgrgzgpgThIC4B2YA2qA05owMoBcBDfSREQpAeyRCwgEt8oBJAE0RXSwH18yBbAOYB2AFZhCAIwDWIAL5A",
+      "value": "%7Bu%7DN4IgrgzgpgThIC4B2YA2qA05owMoBcBDfSREQpAeyRCwgEt8oBJAE0RXSwH18yBbAOYALYQE8ARlJABfIA",
       "domain": ".francetravail.fr",
       "path": "/",
-      "expires": 1759296716,
-      "size": 96,
+      "expires": 1759898206,
+      "size": 94,
       "httpOnly": false,
       "secure": true,
       "session": false,
@@ -347,7 +357,7 @@
       "value": "None",
       "domain": "mesevenementsemploi.francetravail.fr",
       "path": "/",
-      "expires": 1725168748.1727,
+      "expires": 1725770237.708047,
       "size": 12,
       "httpOnly": false,
       "secure": true,
@@ -358,10 +368,10 @@
     },
     {
       "name": "_pcid",
-      "value": "%7B%22browserId%22%3A%22m0j4wszaukxri3dt%22%2C%22_t%22%3A%22mg7juabj%22%7D",
+      "value": "%7B%22browserId%22%3A%22m0t30tz1xqg7bxxk%22%2C%22_t%22%3A%22mghhybb9%22%7D",
       "domain": ".francetravail.fr",
       "path": "/",
-      "expires": 1759296716,
+      "expires": 1759898206,
       "size": 79,
       "httpOnly": false,
       "secure": true,
@@ -376,7 +386,7 @@
       "value": "%22optin%22",
       "domain": ".francetravail.fr",
       "path": "/",
-      "expires": 1759296716,
+      "expires": 1759898206,
       "size": 21,
       "httpOnly": false,
       "secure": true,
@@ -390,9 +400,9 @@
   "headers": {
     "content-encoding": "gzip",
     "content-type": "text/html; charset=utf-8",
-    "date": "Sun, 01 Sep 2024 05:31:55 GMT",
-    "etag": "W/\"33096-gX4LsC/+m6YJMEZElgsjzMxejtU\"",
-    "set-cookie": "TS0108a62c=01b3abf0a2ae1ea2af3c011b4ae612cafd3fa04a4f77ec2022bf0680bd148c5ab00f8ad8b668bf11af3884eb1321e005879200b7a9; Path=/; Domain=.mesevenementsemploi.francetravail.fr; Secure; HTTPOnly",
+    "date": "Sun, 08 Sep 2024 04:36:45 GMT",
+    "etag": "W/\"33096-oPwrGsFxDaUP0vI++JQga5OACsg\"",
+    "set-cookie": "TS0108a62c=01b3abf0a271cc82c692c8e866b277b91c2680e425e6e094d7d9066b2e2829e4fe3fa1e29770473de94848175e358ce668c8723925; Path=/; Domain=.mesevenementsemploi.francetravail.fr; Secure; HTTPOnly",
     "transfer-encoding": "chunked",
     "vary": "Accept-Encoding",
     "x-content-type-options": "nosniff'"
@@ -596,7 +606,7 @@
     },
     {
       "hostname": "fonts.googleapis.com",
-      "ip": "172.253.62.95",
+      "ip": "172.253.122.95",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -774,7 +784,7 @@
     },
     {
       "hostname": "tag.aticdn.net",
-      "ip": "18.164.96.113",
+      "ip": "18.164.96.54",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -828,7 +838,7 @@
     },
     {
       "hostname": "hd.pe.fr",
-      "ip": "18.160.18.3",
+      "ip": "18.173.132.21",
       "geoip": {
         "continent": {
           "code": "NA",
