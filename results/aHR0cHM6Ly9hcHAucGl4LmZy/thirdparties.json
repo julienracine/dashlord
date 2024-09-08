@@ -14,7 +14,7 @@
     },
     {
       "type": "unknown",
-      "url": "https://analytics.pix.fr/piwik.php?action_name=%2Fconnexion&idsite=3&rec=1&r=268349&h=2&m=13&s=11&url=https%3A%2F%2Fapp.pix.fr%2Fconnexion&_id=58945f1f80c9566d&_idn=1&send_image=0&_refts=0&cookie=1&res=800x600&pv_id=8efTBy&pf_net=0&pf_srv=89&pf_tfr=1&pf_dm1=570&pf_dm2=523&pf_onl=1"
+      "url": "https://analytics.pix.fr/piwik.php?action_name=%2Fconnexion&idsite=3&rec=1&r=818949&h=2&m=0&s=31&url=https%3A%2F%2Fapp.pix.fr%2Fconnexion&_id=f98b38e757c53a28&_idn=1&send_image=0&_refts=0&cookie=1&res=800x600&pv_id=iXgdy7&pf_net=0&pf_srv=97&pf_tfr=1&pf_dm1=658&pf_dm2=609&pf_onl=0"
     }
   ],
   "cookies": [
@@ -23,7 +23,7 @@
       "value": "fr-FR",
       "domain": ".pix.fr",
       "path": "/",
-      "expires": 1756692790.432825,
+      "expires": 1757296830.219005,
       "size": 11,
       "httpOnly": false,
       "secure": false,
@@ -35,10 +35,10 @@
     },
     {
       "name": "visit_baleen_ACM-655d43",
-      "value": "dUwsydpORq5W1kgJerSoiLAAlonr1BjIrRvEvAebNutJYJI2sOOdJfyodDatQPAO3qePQGmMZsWLGoP51xzE5wYk1I98JNrpKt06bnpS0oK9qyW-o2XahmT-tGUczqKl-Rxp-xb6P5HjgzbXHUGWsSP31s56MZSUwtuLDBNg8uXwZ1uE4GIgGG4AZpgWt0oyQ4dnx0XxKqZJKBcGmRXzgGwe0CDxMOq8rQHkzlywOghvZap5Jd9e7t_ZxNaQU81A",
+      "value": "ZxmpoWKsxC3aL9Fxd8X6UdjFKaFmk2u34-x0qxOU2bHKKv2IyGVoHjC3gn_RVwXyuU51b-Yk8ZBxu39rnUX1nHs9DFy_lHlMSnn9NCb-TkfdH8l-q_YxoQX_LtbqMGIbgMPONkQfGlgkd8i04oH6GsdLG36ZNQiJWQWP3-qMRlAjEQ1RjElmQIJu6g477QjvhGmLXHe_Tp4eYAmu2pdBFB47-HhuXOPSejTdd_ymcOcMw6Kl4oTJNBjBpcYL4gT6",
       "domain": ".pix.fr",
       "path": "/",
-      "expires": 1725157689.459353,
+      "expires": 1725761729.140816,
       "size": 279,
       "httpOnly": false,
       "secure": false,
@@ -55,18 +55,18 @@
     "content-encoding": "gzip",
     "content-security-policy-report-only": "style-src 'self' 'unsafe-inline'; img-src 'self' https: data:; font-src 'self'; frame-src *.pix.fr data:; connect-src 'self' analytics.pix.fr; script-src 'self' analytics.pix.fr 'sha256-zzl6AXEYNbODqut4N1s48ebXWb9C1EcejDmXsYvw5uQ='; report-uri https://pix-report-csp-production.osc-secnum-fr1.scalingo.io",
     "content-type": "text/html; charset=utf-8",
-    "date": "Sun, 01 Sep 2024 02:13:09 GMT",
-    "etag": "W/\"66d1c103-1065\"",
-    "expires": "Sun, 01 Sep 2024 02:13:08 GMT",
-    "last-modified": "Fri, 30 Aug 2024 12:54:27 GMT",
+    "date": "Sun, 08 Sep 2024 02:00:29 GMT",
+    "etag": "W/\"66dac9f9-10a0\"",
+    "expires": "Sun, 08 Sep 2024 02:00:28 GMT",
+    "last-modified": "Fri, 06 Sep 2024 09:23:05 GMT",
     "referrer-policy": "origin-when-cross-origin",
     "strict-transport-security": "max-age=31536000",
     "vary": "Accept-Encoding",
     "x-content-type-options": "nosniff",
     "x-frame-options": "SAMEORIGIN",
-    "x-request-id": "d18bad972bb02ec61f5f390710c45631",
+    "x-request-id": "37a9573de1e2d8980cfd377e39968b5b",
     "x-robots-tag": "noindex",
-    "x-varnish": "473362886",
+    "x-varnish": "465024716",
     "x-xss-protection": "1"
   },
   "endpoints": [
