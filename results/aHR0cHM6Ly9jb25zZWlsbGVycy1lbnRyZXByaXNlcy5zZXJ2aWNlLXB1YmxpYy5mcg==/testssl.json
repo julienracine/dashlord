@@ -346,7 +346,7 @@
               "ip"           : "conseillers-entreprises.service-public.fr/185.231.164.123",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "247 >= 60 days"
+              "finding"      : "240 >= 60 days"
           }
 ,         {
               "id"           : "cert_notBefore",
@@ -507,7 +507,7 @@
               "ip"           : "conseillers-entreprises.service-public.fr/185.231.164.123",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1725175305"
+              "finding"      : "1725774595"
           }
 ,         {
               "id"           : "HSTS",
