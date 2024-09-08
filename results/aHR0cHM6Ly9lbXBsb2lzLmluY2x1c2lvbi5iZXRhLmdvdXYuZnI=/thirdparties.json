@@ -4,23 +4,23 @@
   "headers": {
     "connection": "keep-alive",
     "content-encoding": "gzip",
-    "content-length": "7738",
-    "content-security-policy": "frame-ancestors https://pilotage.inclusion.beta.gouv.fr; frame-src https://app.livestorm.co *.hotjar.com https://tally.so https://stats.inclusion.beta.gouv.fr https://pilotage.inclusion.beta.gouv.fr https://communaute.inclusion.beta.gouv.fr https://inclusion.beta.gouv.fr blob: data:; connect-src 'self' *.sentry.io *.hotjar.com *.hotjar.io wss://*.hotjar.com https://matomo.inclusion.beta.gouv.fr/ https://api-adresse.data.gouv.fr; worker-src 'self' blob:; base-uri 'none'; object-src 'none'; font-src 'self' data:; img-src 'self' data: https://tile.openstreetmap.org https://*.tile.openstreetmap.org *.hotjar.com https://cdn.redoc.ly https://matomo.inclusion.beta.gouv.fr/; script-src 'self' https://stats.inclusion.beta.gouv.fr *.hotjar.com https://tally.so https://matomo.inclusion.beta.gouv.fr/ 'nonce-43qi0R2oqVu9vcVNoDqeaQ=='; default-src 'self'; script-src-elem 'self' https://stats.inclusion.beta.gouv.fr *.hotjar.com https://tally.so https://matomo.inclusion.beta.gouv.fr/ 'nonce-43qi0R2oqVu9vcVNoDqeaQ=='; style-src 'self' 'unsafe-inline'",
+    "content-length": "7782",
+    "content-security-policy": "img-src 'self' data: https://tile.openstreetmap.org https://*.tile.openstreetmap.org *.hotjar.com https://cdn.redoc.ly https://matomo.inclusion.beta.gouv.fr/; connect-src 'self' *.sentry.io *.hotjar.com *.hotjar.io wss://*.hotjar.com https://matomo.inclusion.beta.gouv.fr/ https://api-adresse.data.gouv.fr; object-src 'none'; base-uri 'none'; font-src 'self' data:; style-src 'self' 'unsafe-inline'; script-src 'self' https://stats.inclusion.beta.gouv.fr *.hotjar.com https://tally.so https://matomo.inclusion.beta.gouv.fr/ 'nonce-p/MPSCcL5NB9TXs4MoS4pQ=='; script-src-elem 'self' https://stats.inclusion.beta.gouv.fr *.hotjar.com https://tally.so https://matomo.inclusion.beta.gouv.fr/ 'nonce-p/MPSCcL5NB9TXs4MoS4pQ=='; default-src 'self'; worker-src 'self' blob:; frame-ancestors https://pilotage.inclusion.beta.gouv.fr; frame-src https://app.livestorm.co *.hotjar.com https://tally.so https://stats.inclusion.beta.gouv.fr https://pilotage.inclusion.beta.gouv.fr https://communaute.inclusion.beta.gouv.fr https://inclusion.beta.gouv.fr blob: data:",
     "content-type": "text/html; charset=utf-8",
     "cross-origin-opener-policy": "same-origin",
-    "date": "Sun, 01 Sep 2024 03:45:46 GMT",
+    "date": "Sun, 08 Sep 2024 03:28:54 GMT",
     "referrer-policy": "same-origin",
-    "sozu-id": "01J6NV0P27XJWDXQXQC5GM6ZXZ",
+    "sozu-id": "01J77TTTE77N1C0RK25RB5YA3M",
     "strict-transport-security": "max-age=31536000; includeSubDomains",
     "vary": "Cookie, Accept-Encoding",
     "x-content-type-options": "nosniff",
     "x-frame-options": "DENY",
-    "x-request-id": "bf701727-5d9f-4e6d-820f-9a8ed7707e59"
+    "x-request-id": "245a5dd9-3577-4af4-a4fd-606a08b66c69"
   },
   "endpoints": [
     {
       "hostname": "emplois.inclusion.beta.gouv.fr",
-      "ip": "91.208.207.217",
+      "ip": "91.208.207.223",
       "geoip": {
         "continent": {
           "code": "EU",
