@@ -110,7 +110,7 @@
     },
     {
       "type": "unknown",
-      "url": "https://hd.pe.fr/event?s=475540&idclient=m0jn8owaav6p55qd"
+      "url": "https://hd.pe.fr/event?s=475540&idclient=m0tfjtdncjcxa5tt"
     },
     {
       "type": "unknown",
@@ -126,13 +126,13 @@
     },
     {
       "type": "unknown",
-      "url": "https://hd.pe.fr/event?s=475540&idclient=m0jn8owaav6p55qd"
+      "url": "https://hd.pe.fr/event?s=475540&idclient=m0tfjtdncjcxa5tt"
     }
   ],
   "cookies": [
     {
       "name": "BIGipServerPOOL_TAS_SDDC_HTTP",
-      "value": "1838353162.20480.0000",
+      "value": "1771244298.20480.0000",
       "domain": "candidat.francetravail.fr",
       "path": "/",
       "expires": -1,
@@ -148,14 +148,14 @@
   "headers": {
     "content-encoding": "gzip",
     "content-type": "text/html; charset=utf-8",
-    "date": "Sun, 01 Sep 2024 14:05:02 GMT",
+    "date": "Sun, 08 Sep 2024 10:27:26 GMT",
     "last-modified": "Fri, 19 Jul 2024 14:23:25 GMT",
-    "set-cookie": "BIGipServerPOOL_TAS_SDDC_HTTP=1838353162.20480.0000; path=/; Httponly; Secure\nTS011b8e23=0150c672c32d498acd00764776bbd1f4ab2d4efc5a97d387672b9bf1cd938f65410f720624a880a442d396d0bb9215d0d3c37c3f75; Path=/; Domain=.pn322-portailsimulateurs-prod.apps.tas-prod.pole-emploi.intra",
+    "set-cookie": "BIGipServerPOOL_TAS_SDDC_HTTP=1771244298.20480.0000; path=/; Httponly; Secure\nTS011b8e23=0150c672c30fdb900c6e9936376032fbae60d459bd223659ab726b13e471fa84f78ef8d1cf3d2bc30c622146bdb18ea8c2b308aab1; Path=/; Domain=.pn322-portailsimulateurs-prod.apps.tas-prod.pole-emploi.intra",
     "transfer-encoding": "chunked",
     "vary": "Accept-Encoding",
     "x-content-type-options": "nosniff'",
     "x-robots-tag": "noindex, noarchive, nofollow, nosnippet",
-    "x-vcap-request-id": "0be95312-c191-499f-7331-2d926ac8bb21"
+    "x-vcap-request-id": "8da01bcc-f730-4ffc-5d80-4c8158aca261"
   },
   "endpoints": [
     {
@@ -524,7 +524,7 @@
     },
     {
       "hostname": "tag.aticdn.net",
-      "ip": "18.160.18.104",
+      "ip": "18.164.96.54",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -578,7 +578,7 @@
     },
     {
       "hostname": "hd.pe.fr",
-      "ip": "18.160.18.49",
+      "ip": "18.160.18.42",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -730,7 +730,7 @@
     },
     {
       "hostname": "privacy.trustcommander.net",
-      "ip": "13.36.1.175",
+      "ip": "52.47.53.57",
       "geoip": {
         "city": {
           "geoname_id": 2988507,
