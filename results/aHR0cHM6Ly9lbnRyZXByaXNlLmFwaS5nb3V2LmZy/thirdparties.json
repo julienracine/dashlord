@@ -87,7 +87,7 @@
       "value": "1",
       "domain": "entreprise.api.gouv.fr",
       "path": "/",
-      "expires": 1725164547,
+      "expires": 1725768436,
       "size": 16,
       "httpOnly": false,
       "secure": false,
@@ -99,10 +99,10 @@
     },
     {
       "name": "_pk_id.45.28f1",
-      "value": "825583f5c6111496.1725162748.",
+      "value": "c226ebe08362d164.1725766636.",
       "domain": "entreprise.api.gouv.fr",
       "path": "/",
-      "expires": 1759117948,
+      "expires": 1759721836,
       "size": 42,
       "httpOnly": false,
       "secure": false,
@@ -114,11 +114,11 @@
     },
     {
       "name": "_admin_apientreprise_session",
-      "value": "DmYxAaqhnP7MaWcUl3M8xYkuUT8l971xVr1JFsGPCfXiPckovHERlyzqErV7yIsTDH5C9FE3osaJkykqV31BewwBL2ZJ7OBRcc6Ai5Wa6t3piTAK5U8m7d4iwuokieIrBipOX17m3WbLwW7qWS1%2F2rnBp0w2neX8fwtBdc5ccEiSluSoKmDezuQLlTORGE0A%2BbjuMMjeP9Sbtjcwq3bim7%2FYU7LGCJ4SiQRxJHdlN7b4ZUPj1xarvX9882oJem9%2B0yMCZ0CgiJB4DT3o5GWU0mcF7y6LDgcUn%2BykCkHXF6iSZGb5--%2B3V5rYq17hBvBRhw--ytw81rw3wSIi6nAmAtpl3g%3D%3D",
+      "value": "unC75Pmwe3jAoDzWiJR%2ByFQoNYzauq4WRxEJJnnVF6nxUpQbH1jlY8%2FuxPh%2F%2BvgsrlQKQe8fYHAF8cIZuAf4gcVgvp2gS%2BVP1tfJehhmgioI78U%2B2GkWbzoqbLI3dm9dlT7kWjjk8DGRh2QAbxY2%2FpN04JWTzmcTQ5kOY7pqHmBP2tl2SZ%2FebCNiQdEclTbgGA2nhrAcKBfP54G5KsPoCZnyVQg65NxYaptc42UnhqPfWISuK1MNAWI0Jb1hUiIpkkSl5%2F%2FI6Ht7r0vfeQuJwfJ8SVP%2BN4PaCUkyAUVB%2BujxVZf1--HsFDujNR%2BGUzkvvH--N9v%2BuDzJv5h9ZqIDQXvmRw%3D%3D",
       "domain": "entreprise.api.gouv.fr",
       "path": "/",
       "expires": -1,
-      "size": 392,
+      "size": 408,
       "httpOnly": true,
       "secure": true,
       "session": true,
@@ -130,22 +130,22 @@
   ],
   "headers": {
     "connection": "keep-alive",
-    "content-length": "49141",
+    "content-length": "49317",
     "content-type": "text/html; charset=utf-8",
-    "date": "Sun, 01 Sep 2024 03:52:27 GMT",
+    "date": "Sun, 08 Sep 2024 03:37:15 GMT",
     "server": "nginx",
     "strict-transport-security": "max-age=63072000",
     "cache-control": "max-age=0, private, must-revalidate",
-    "etag": "W/\"e6b1349b0528e9bfefb1e4efe38e6c90\"",
+    "etag": "W/\"9c57a6dadaa4aaab40b1e6906579a5d8\"",
     "link": "</assets/api_entreprise-7ffac7e86e0ca3664c5f2d38f24c5237e032de0c4cd48f30fda19001d90dbdcd.css>; rel=preload; as=style; nopush,</assets/api_entreprise-f1c38127d41d397825b021039e616a7c5331491084c8184c198f432417f600b8.js>; rel=preload; as=script; nopush,</assets/turbo-84e828a0e6f1f9418a277df89df877e9a30524438cf8dc007c066655017a44bc.js>; rel=modulepreload; as=script; nopush",
     "referrer-policy": "strict-origin-when-cross-origin",
-    "set-cookie": "_admin_apientreprise_session=DmYxAaqhnP7MaWcUl3M8xYkuUT8l971xVr1JFsGPCfXiPckovHERlyzqErV7yIsTDH5C9FE3osaJkykqV31BewwBL2ZJ7OBRcc6Ai5Wa6t3piTAK5U8m7d4iwuokieIrBipOX17m3WbLwW7qWS1%2F2rnBp0w2neX8fwtBdc5ccEiSluSoKmDezuQLlTORGE0A%2BbjuMMjeP9Sbtjcwq3bim7%2FYU7LGCJ4SiQRxJHdlN7b4ZUPj1xarvX9882oJem9%2B0yMCZ0CgiJB4DT3o5GWU0mcF7y6LDgcUn%2BykCkHXF6iSZGb5--%2B3V5rYq17hBvBRhw--ytw81rw3wSIi6nAmAtpl3g%3D%3D; path=/; secure; httponly; samesite=lax",
+    "set-cookie": "_admin_apientreprise_session=unC75Pmwe3jAoDzWiJR%2ByFQoNYzauq4WRxEJJnnVF6nxUpQbH1jlY8%2FuxPh%2F%2BvgsrlQKQe8fYHAF8cIZuAf4gcVgvp2gS%2BVP1tfJehhmgioI78U%2B2GkWbzoqbLI3dm9dlT7kWjjk8DGRh2QAbxY2%2FpN04JWTzmcTQ5kOY7pqHmBP2tl2SZ%2FebCNiQdEclTbgGA2nhrAcKBfP54G5KsPoCZnyVQg65NxYaptc42UnhqPfWISuK1MNAWI0Jb1hUiIpkkSl5%2F%2FI6Ht7r0vfeQuJwfJ8SVP%2BN4PaCUkyAUVB%2BujxVZf1--HsFDujNR%2BGUzkvvH--N9v%2BuDzJv5h9ZqIDQXvmRw%3D%3D; path=/; secure; httponly; samesite=lax",
     "vary": "Origin",
     "x-content-type-options": "nosniff",
     "x-frame-options": "SAMEORIGIN",
     "x-permitted-cross-domain-policies": "none",
-    "x-request-id": "d3c604e1-14b8-457c-b950-b078904f78ea",
-    "x-runtime": "0.100730",
+    "x-request-id": "897694a9-4434-40f0-b75d-4ad98f16bdb3",
+    "x-runtime": "0.101434",
     "x-xss-protection": "0"
   },
   "endpoints": [
@@ -207,8 +207,59 @@
     },
     {
       "hostname": "cdn.jsdelivr.net",
-      "ip": "104.18.186.31",
+      "ip": "146.75.37.229",
       "geoip": {
+        "city": {
+          "geoname_id": 4744870,
+          "names": {
+            "de": "Ashburn",
+            "en": "Ashburn",
+            "es": "Ashburn",
+            "fr": "Ashburn",
+            "ja": "アッシュバーン",
+            "pt-BR": "Ashburn",
+            "ru": "Ашберн",
+            "zh-CN": "阿什本"
+          }
+        },
+        "continent": {
+          "code": "NA",
+          "geoname_id": 6255149,
+          "names": {
+            "de": "Nordamerika",
+            "en": "North America",
+            "es": "Norteamérica",
+            "fr": "Amérique du Nord",
+            "ja": "北アメリカ",
+            "pt-BR": "América do Norte",
+            "ru": "Северная Америка",
+            "zh-CN": "北美洲"
+          }
+        },
+        "country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "USA",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        },
+        "location": {
+          "accuracy_radius": 20,
+          "latitude": 39.0469,
+          "longitude": -77.4903,
+          "metro_code": 511,
+          "time_zone": "America/New_York"
+        },
+        "postal": {
+          "code": "20149"
+        },
         "registered_country": {
           "geoname_id": 6252001,
           "iso_code": "US",
@@ -222,12 +273,28 @@
             "ru": "США",
             "zh-CN": "美国"
           }
-        }
+        },
+        "subdivisions": [
+          {
+            "geoname_id": 6254928,
+            "iso_code": "VA",
+            "names": {
+              "de": "Virginia",
+              "en": "Virginia",
+              "es": "Virginia",
+              "fr": "Virginie",
+              "ja": "バージニア州",
+              "pt-BR": "Virgínia",
+              "ru": "Вирджиния",
+              "zh-CN": "弗吉尼亚州"
+            }
+          }
+        ]
       }
     },
     {
       "hostname": "unpkg.com",
-      "ip": "104.17.249.203",
+      "ip": "104.17.247.203",
       "geoip": {
         "registered_country": {
           "geoname_id": 6252001,
@@ -333,7 +400,7 @@
     },
     {
       "hostname": "hyperping.io",
-      "ip": "172.67.220.110",
+      "ip": "104.21.70.54",
       "geoip": {
         "registered_country": {
           "geoname_id": 6252001,
