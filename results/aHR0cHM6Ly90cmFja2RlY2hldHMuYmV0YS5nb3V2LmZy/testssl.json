@@ -199,7 +199,7 @@
               "ip"           : "trackdechets.beta.gouv.fr/109.232.236.90",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "supported"
+              "finding"      : "not supported"
           }
 ,         {
               "id"           : "sessionresumption_ID",
@@ -346,7 +346,7 @@
               "ip"           : "trackdechets.beta.gouv.fr/109.232.236.90",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "57 >= 30 days"
+              "finding"      : "50 >= 30 days"
           }
 ,         {
               "id"           : "cert_notBefore",
@@ -500,14 +500,14 @@
               "ip"           : "trackdechets.beta.gouv.fr/109.232.236.90",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "0 seconds from localtime"
+              "finding"      : "-1 seconds from localtime"
           }
 ,         {
               "id"           : "HTTP_headerTime",
               "ip"           : "trackdechets.beta.gouv.fr/109.232.236.90",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1725178948"
+              "finding"      : "1725777146"
           }
 ,         {
               "id"           : "HSTS_time",
@@ -562,15 +562,15 @@
               "id"           : "cookie_secure",
               "ip"           : "trackdechets.beta.gouv.fr/109.232.236.90",
               "port"         : "443",
-              "severity"     : "OK",
-              "finding"      : "All (1) at '/' marked as secure"
+              "severity"     : "INFO",
+              "finding"      : "0/1 at '/' marked as secure"
           }
 ,         {
               "id"           : "cookie_httponly",
               "ip"           : "trackdechets.beta.gouv.fr/109.232.236.90",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1/1 at '/' marked as HttpOnly"
+              "finding"      : "0/1 at '/' marked as HttpOnly"
           }
 ,         {
               "id"           : "X-Frame-Options",
@@ -591,7 +591,7 @@
               "ip"           : "trackdechets.beta.gouv.fr/109.232.236.90",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "font-src 'self' data: static/; script-src 'self' 'unsafe-inline' static/; default-src 'self' trackdechets.beta.gouv.fr/ blob:; frame-src 'self' https://statistiques.trackdechets.beta.gouv.fr; style-src 'self' 'unsafe-inline' static/; img-src 'self' data: static/; connect-src 'self'"
+              "finding"      : "default-src 'self' trackdechets.beta.gouv.fr/ blob:; img-src 'self' data: static/; style-src 'self' 'unsafe-inline' static/; script-src 'self' 'unsafe-inline' static/; frame-src 'self' https://statistiques.trackdechets.beta.gouv.fr; connect-src 'self'; font-src 'self' data: static/"
           }
 ,         {
               "id"           : "Permissions-Policy",
@@ -1307,14 +1307,14 @@
               "ip"           : "trackdechets.beta.gouv.fr/5.104.101.30",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "not supported"
+              "finding"      : "supported"
           }
 ,         {
               "id"           : "sessionresumption_ID",
               "ip"           : "trackdechets.beta.gouv.fr/5.104.101.30",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "not supported"
+              "finding"      : "supported"
           }
 ,         {
               "id"           : "TLS_timestamp",
@@ -1454,7 +1454,7 @@
               "ip"           : "trackdechets.beta.gouv.fr/5.104.101.30",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "57 >= 30 days"
+              "finding"      : "50 >= 30 days"
           }
 ,         {
               "id"           : "cert_notBefore",
@@ -1615,7 +1615,7 @@
               "ip"           : "trackdechets.beta.gouv.fr/5.104.101.30",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1725179006"
+              "finding"      : "1725777199"
           }
 ,         {
               "id"           : "HSTS_time",
@@ -1670,15 +1670,15 @@
               "id"           : "cookie_secure",
               "ip"           : "trackdechets.beta.gouv.fr/5.104.101.30",
               "port"         : "443",
-              "severity"     : "OK",
-              "finding"      : "All (1) at '/' marked as secure"
+              "severity"     : "INFO",
+              "finding"      : "0/1 at '/' marked as secure"
           }
 ,         {
               "id"           : "cookie_httponly",
               "ip"           : "trackdechets.beta.gouv.fr/5.104.101.30",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1/1 at '/' marked as HttpOnly"
+              "finding"      : "0/1 at '/' marked as HttpOnly"
           }
 ,         {
               "id"           : "X-Frame-Options",
@@ -1699,7 +1699,7 @@
               "ip"           : "trackdechets.beta.gouv.fr/5.104.101.30",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "font-src 'self' data: static/; script-src 'self' 'unsafe-inline' static/; default-src 'self' trackdechets.beta.gouv.fr/ blob:; frame-src 'self' https://statistiques.trackdechets.beta.gouv.fr; style-src 'self' 'unsafe-inline' static/; img-src 'self' data: static/; connect-src 'self'"
+              "finding"      : "default-src 'self' trackdechets.beta.gouv.fr/ blob:; img-src 'self' data: static/; style-src 'self' 'unsafe-inline' static/; script-src 'self' 'unsafe-inline' static/; frame-src 'self' https://statistiques.trackdechets.beta.gouv.fr; connect-src 'self'; font-src 'self' data: static/"
           }
 ,         {
               "id"           : "Permissions-Policy",
@@ -2220,6 +2220,6 @@
               "ip"           : "trackdechets.beta.gouv.fr/5.104.101.30",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "114"
+              "finding"      : "108"
           }
 ]
