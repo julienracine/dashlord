@@ -6,7 +6,7 @@
       "value": "en",
       "domain": "mfc-web-dev.osc-secnum-fr1.scalingo.io",
       "path": "/",
-      "expires": 1756739163.014305,
+      "expires": 1757330976.489997,
       "size": 13,
       "httpOnly": false,
       "secure": false,
@@ -22,19 +22,19 @@
     "content-encoding": "gzip",
     "content-security-policy": "default-src 'self';script-src 'self' *.gouv.fr 'unsafe-eval' 'unsafe-inline';img-src * data:;style-src 'self' 'unsafe-inline';font-src 'self';object-src 'none';base-uri 'self';form-action 'self';frame-ancestors 'none';block-all-mixed-content;upgrade-insecure-requests;",
     "content-type": "text/html; charset=utf-8",
-    "date": "Sun, 01 Sep 2024 15:06:02 GMT",
-    "set-cookie": "NEXT_LOCALE=en; Path=/; Expires=Mon, 01 Sep 2025 15:06:02 GMT; Max-Age=31536000; SameSite=strict",
+    "date": "Sun, 08 Sep 2024 11:29:36 GMT",
+    "set-cookie": "NEXT_LOCALE=en; Path=/; Expires=Mon, 08 Sep 2025 11:29:36 GMT; Max-Age=31536000; SameSite=strict",
     "strict-transport-security": "max-age=31536000\nmax-age=31536000",
     "vary": "RSC, Next-Router-State-Tree, Next-Router-Prefetch, Next-Url, Accept-Encoding",
     "x-frame-options": "DENY",
     "x-middleware-rewrite": "/en",
     "x-powered-by": "Next.js",
-    "x-request-id": "682eca56-31ce-413e-9707-d03d8abe572c"
+    "x-request-id": "6f5953be-86ae-4e1a-9063-835618389543"
   },
   "endpoints": [
     {
       "hostname": "mfc-web-dev.osc-secnum-fr1.scalingo.io",
-      "ip": "80.247.12.255",
+      "ip": "80.247.13.145",
       "geoip": {
         "continent": {
           "code": "EU",
