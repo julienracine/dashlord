@@ -82,6 +82,10 @@
     },
     {
       "type": "unknown",
+      "url": "https://candidat.francetravail.fr/simulation-ressources-formation/roboto-regular-webfont.33cda13c23120bd0.woff"
+    },
+    {
+      "type": "unknown",
       "url": "https://candidat.francetravail.fr/portail-simulateurs/runtime.badd969d8d3f50ad.js"
     },
     {
@@ -111,10 +115,6 @@
     {
       "type": "unknown",
       "url": "https://candidat.francetravail.fr/portail-simulateurs/527.262f7518cb30f11f.js"
-    },
-    {
-      "type": "unknown",
-      "url": "https://cdn.tagcommander.com/4340/tc_PoleEmploi_24.js"
     },
     {
       "type": "unknown",
@@ -153,6 +153,14 @@
       "url": "https://candidat.francetravail.fr/portail-simulateurs/roboto-bold-webfont.f52d56320d58032f.woff2"
     },
     {
+      "type": "at-internet",
+      "url": "https://tag.aticdn.net/js-sdk/piano-analytics-6.8.3.js",
+      "details": {
+        "id": "at-internet",
+        "message": "Ensure your TOS notify the AT internet usage"
+      }
+    },
+    {
       "type": "unknown",
       "url": "https://candidat.francetravail.fr/portail-simulateurs/icons.7ae89a99da6cadce.ttf?wekjvp"
     },
@@ -174,7 +182,7 @@
     },
     {
       "type": "unknown",
-      "url": "https://hd.pe.fr/event?s=475540&idclient=m0jnfdg9szzl7pun"
+      "url": "https://hd.pe.fr/event?s=475540&idclient=m0tfmytwjd1shr5g"
     },
     {
       "type": "unknown",
@@ -182,7 +190,11 @@
     },
     {
       "type": "unknown",
-      "url": "https://hd.pe.fr/event?s=475540&idclient=m0jnfdg9szzl7pun"
+      "url": "https://hd.pe.fr/event?s=475540&idclient=m0tfmytwjd1shr5g"
+    },
+    {
+      "type": "unknown",
+      "url": "https://www.francetravail.fr/files/live/sites/PE/files/images/Logos/header-logo2021-pe-fr.svg"
     },
     {
       "type": "unknown",
@@ -191,10 +203,6 @@
     {
       "type": "unknown",
       "url": "https://www.francetravail.fr/files/live/sites/PE/files/images/Logos/header-logo2023-ft-fr.svg"
-    },
-    {
-      "type": "unknown",
-      "url": "https://www.francetravail.fr/files/live/sites/PE/files/images/Logos/header-logo2021-pe-fr.svg"
     }
   ],
   "cookies": [
@@ -216,14 +224,14 @@
   "headers": {
     "content-encoding": "gzip",
     "content-type": "text/html; charset=utf-8",
-    "date": "Sun, 01 Sep 2024 14:10:12 GMT",
+    "date": "Sun, 08 Sep 2024 10:29:51 GMT",
     "last-modified": "Fri, 19 Jul 2024 14:25:07 GMT",
-    "set-cookie": "BIGipServerPOOL_TAS_SDDC_HTTP=1687358218.20480.0000; path=/; Httponly; Secure\nTS01fca309=0150c672c312d0859cbd7a2a3eeafadc6628369234882e84eb2c8f58827cfddcbe6eaaec38a3b6b582c00857ace69dc4c63c1afcb0; Path=/; Domain=.pn307-estimeformation-prod.apps.tas-prod.pole-emploi.intra",
+    "set-cookie": "BIGipServerPOOL_TAS_SDDC_HTTP=1687358218.20480.0000; path=/; Httponly; Secure\nTS01fca309=0150c672c3928bb0ca5f57524e880f194254c891ecf1ca27a6af337e080432b8b0794de1b5f27298887d5da067b2a60243061bf1f9; Path=/; Domain=.pn307-estimeformation-prod.apps.tas-prod.pole-emploi.intra",
     "transfer-encoding": "chunked",
     "vary": "Accept-Encoding",
     "x-content-type-options": "nosniff'",
     "x-robots-tag": "noindex, nofollow, nosnippet, noarchive",
-    "x-vcap-request-id": "98903229-4fbf-4738-4b6f-bcf550bf6263"
+    "x-vcap-request-id": "2916f24f-3075-49ce-6ba9-49208bc08b95"
   },
   "endpoints": [
     {
@@ -494,7 +502,7 @@
     },
     {
       "hostname": "tag.aticdn.net",
-      "ip": "13.35.122.26",
+      "ip": "108.156.91.113",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -646,7 +654,7 @@
     },
     {
       "hostname": "hd.pe.fr",
-      "ip": "18.173.121.17",
+      "ip": "18.160.213.25",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -700,7 +708,7 @@
     },
     {
       "hostname": "privacy.trustcommander.net",
-      "ip": "13.36.1.175",
+      "ip": "52.47.53.57",
       "geoip": {
         "city": {
           "geoname_id": 2988507,
