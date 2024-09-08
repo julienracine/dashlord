@@ -15,7 +15,7 @@
       "value": "1",
       "domain": "agir.beta.gouv.fr",
       "path": "/",
-      "expires": 1725213396,
+      "expires": 1725805211,
       "size": 16,
       "httpOnly": false,
       "secure": false,
@@ -27,10 +27,10 @@
     },
     {
       "name": "_pk_id.40.c25c",
-      "value": "f7bc687b32625c1e.1725211597.",
+      "value": "94ef9302662cd5ec.1725803412.",
       "domain": "agir.beta.gouv.fr",
       "path": "/",
-      "expires": 1759166797,
+      "expires": 1759758612,
       "size": 42,
       "httpOnly": false,
       "secure": false,
@@ -44,17 +44,17 @@
   "headers": {
     "content-encoding": "gzip",
     "content-type": "text/html; charset=utf-8",
-    "date": "Sun, 01 Sep 2024 17:26:34 GMT",
-    "etag": "W/\"66cc8155-228\"",
-    "last-modified": "Mon, 26 Aug 2024 13:21:25 GMT",
+    "date": "Sun, 08 Sep 2024 13:50:10 GMT",
+    "etag": "W/\"66dad061-228\"",
+    "last-modified": "Fri, 06 Sep 2024 09:50:25 GMT",
     "strict-transport-security": "max-age=31536000",
     "vary": "Accept-Encoding",
-    "x-request-id": "b4746925-8635-4b61-a1d2-cfd0e70d9ff8"
+    "x-request-id": "fdf81928-873a-48ed-9580-d5646e9a5a79"
   },
   "endpoints": [
     {
       "hostname": "agir.beta.gouv.fr",
-      "ip": "80.247.12.255",
+      "ip": "148.253.96.193",
       "geoip": {
         "continent": {
           "code": "EU",
@@ -110,7 +110,7 @@
     },
     {
       "hostname": "static.hotjar.com",
-      "ip": "18.238.192.34",
+      "ip": "18.160.41.49",
       "geoip": {
         "continent": {
           "code": "NA",
