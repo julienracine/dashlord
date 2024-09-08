@@ -465,14 +465,14 @@
               "ip"           : "marcenais-33620.collectivite.fr/51.159.10.161",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "0 seconds from localtime"
+              "finding"      : "-1 seconds from localtime"
           }
 ,         {
               "id"           : "HTTP_headerTime",
               "ip"           : "marcenais-33620.collectivite.fr/51.159.10.161",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1725204834"
+              "finding"      : "1725796103"
           }
 ,         {
               "id"           : "HSTS",
@@ -1049,6 +1049,6 @@
               "ip"           : "marcenais-33620.collectivite.fr/51.159.10.161",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "133"
+              "finding"      : "102"
           }
 ]
