@@ -283,7 +283,7 @@
               "ip"           : "api.apprentissage.beta.gouv.fr/54.38.65.110",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "034E16F9FA47545495F2CE71D1D012AFBEB8"
+              "finding"      : "045614500DB562C7D34EBF64CAF52E237CBF"
           }
 ,         {
               "id"           : "cert_serialNumberLen",
@@ -297,21 +297,21 @@
               "ip"           : "api.apprentissage.beta.gouv.fr/54.38.65.110",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "E794A16A05194473297264950D63EFA754789C7B"
+              "finding"      : "6645A970927A307A02FC29A5B97FA108A77F5FF9"
           }
 ,         {
               "id"           : "cert_fingerprintSHA256",
               "ip"           : "api.apprentissage.beta.gouv.fr/54.38.65.110",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "5F8B4F949F2E50FC183E283E862BB28230466CA84AAAEA8CC31C1F4FBD79C517"
+              "finding"      : "D2F3462344A5973E799B997210B25E5D5C094C806FF0500F8E7C73FD45476515"
           }
 ,         {
               "id"           : "cert",
               "ip"           : "api.apprentissage.beta.gouv.fr/54.38.65.110",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "-----BEGIN CERTIFICATE-----\nMIIDnDCCAyOgAwIBAgISA04W+fpHVFSV8s5x0dASr764MAoGCCqGSM49BAMDMDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQDEwJFNjAeFw0yNDA3MDEwOTAzMTNaFw0yNDA5MjkwOTAzMTJaMCkxJzAlBgNVBAMTHmFwaS5hcHByZW50aXNzYWdlLmJldGEuZ291di5mcjBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABEb5YH/f3jdgqBucMgJuac+/zALJbGESkRxEH/T+t6z6Na7QRJ2x3jazCaF39s4VEHA/HsHH6lkj/sCfEE43NgqjggIgMIICHDAOBgNVHQ8BAf8EBAMCB4AwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFFL3B6WjEFkw72mYH1P1i2SMzy7zMB8GA1UdIwQYMBaAFJMnRpgDqVFojpjWxEJI2yO/WJTSMFUGCCsGAQUFBwEBBEkwRzAhBggrBgEFBQcwAYYVaHR0cDovL2U2Lm8ubGVuY3Iub3JnMCIGCCsGAQUFBzAChhZodHRwOi8vZTYuaS5sZW5jci5vcmcvMCkGA1UdEQQiMCCCHmFwaS5hcHByZW50aXNzYWdlLmJldGEuZ291di5mcjATBgNVHSAEDDAKMAgGBmeBDAECATCCAQQGCisGAQQB1nkCBAIEgfUEgfIA8AB2AD8XS0/XIkdYlB1lHIS+DRLtkDd/H4Vq68G/KIXs+GRuAAABkG2/oj4AAAQDAEcwRQIgG8+Q/pvQX+v+VQmrejJ5oREweJHtAIxHNUp9jUC9Z9kCIQCCXw6P2iGdHAbHgV8X5pfztYnIQaK6J17z/eXLQpfhCwB2AHb/iD8KtvuVUcJhzPWHujS0pM27KdxoQgqf5mdMWjp0AAABkG2/on4AAAQDAEcwRQIgULz3WlcHaHMJ1ifb00uiqbbAgAMu2/Vh2aFpi/D5CmMCIQCKNGn83kjyk8ZuPM0IRpgobklSGuuQZEmxxiKEEDcgFDAKBggqhkjOPQQDAwNnADBkAjA0EOuAQXU5IOpwkSIU0s2WlojTWNXuQlzpLvOMcRbOeg2DWZ3GWW+PrYr2L+kV7tgCMDWwrEkv5TKO6qJ/robVBhHYfJE+1CLsvU3GCbAlHuQXT0oQkAbd+cUxdw++Kgq/cQ==\n-----END CERTIFICATE-----"
+              "finding"      : "-----BEGIN CERTIFICATE-----\nMIIDmzCCAyGgAwIBAgISBFYUUA21YsfTTr9kyvUuI3y/MAoGCCqGSM49BAMDMDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQDEwJFNjAeFw0yNDA5MDIyMTMxNDlaFw0yNDEyMDEyMTMxNDhaMCkxJzAlBgNVBAMTHmFwaS5hcHByZW50aXNzYWdlLmJldGEuZ291di5mcjBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABCB3tXjayOJyvspRHlH1aVwuQYmUavyf4vA/qEFHybZGBmCXTv2yX0VUlnbmEW5w05WNL5dLofXQmE5OThaGjnOjggIeMIICGjAOBgNVHQ8BAf8EBAMCB4AwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFKpab2tDKKLdquulXgqkPAyW8S8JMB8GA1UdIwQYMBaAFJMnRpgDqVFojpjWxEJI2yO/WJTSMFUGCCsGAQUFBwEBBEkwRzAhBggrBgEFBQcwAYYVaHR0cDovL2U2Lm8ubGVuY3Iub3JnMCIGCCsGAQUFBzAChhZodHRwOi8vZTYuaS5sZW5jci5vcmcvMCkGA1UdEQQiMCCCHmFwaS5hcHByZW50aXNzYWdlLmJldGEuZ291di5mcjATBgNVHSAEDDAKMAgGBmeBDAECATCCAQIGCisGAQQB1nkCBAIEgfMEgfAA7gB1AEiw42vapkc0D+VqAvqdMOscUgHLVt0sgdm7v6s52IRzAAABkbTcQz8AAAQDAEYwRAIgW9gKiqlVY6FUPOkW3LAMCZwMWPwCrlwjwYYLia4D1X4CIHpusmZoEUH+SQ8ReVkdpkwNgRQcWMNNA3YhPLSRComFAHUAdv+IPwq2+5VRwmHM9Ye6NLSkzbsp3GhCCp/mZ0xaOnQAAAGRtNxDZQAABAMARjBEAiBg15Q+57P7zqGXSJbbgrSrDk482UFu7Pr1MNnIM5lsTgIgWrGwe8LCkUFkYhbvL2JvZBG5VNGJRcLAOTo8kAQNPfIwCgYIKoZIzj0EAwMDaAAwZQIwf1QkLh79Mxg85IS8uRp4RcrPuUiowqIXs5EF9BL1JcYqR0je9/W+fPPwEM//klWXAjEAp4KEMOnRYRWDu/XuzbtQQMzPVYBIhi8F/HNNeX63b8tSgK7SiiVbj5oDQOGFcJlT\n-----END CERTIFICATE-----"
           }
 ,         {
               "id"           : "cert_commonName",
@@ -359,22 +359,22 @@
               "id"           : "cert_expirationStatus",
               "ip"           : "api.apprentissage.beta.gouv.fr/54.38.65.110",
               "port"         : "443",
-              "severity"     : "MEDIUM",
-              "finding"      : "expires < 30 days (28)"
+              "severity"     : "OK",
+              "finding"      : "84 >= 30 days"
           }
 ,         {
               "id"           : "cert_notBefore",
               "ip"           : "api.apprentissage.beta.gouv.fr/54.38.65.110",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "2024-07-01 09:03"
+              "finding"      : "2024-09-02 21:31"
           }
 ,         {
               "id"           : "cert_notAfter",
               "ip"           : "api.apprentissage.beta.gouv.fr/54.38.65.110",
               "port"         : "443",
-              "severity"     : "MEDIUM",
-              "finding"      : "2024-09-29 09:03"
+              "severity"     : "OK",
+              "finding"      : "2024-12-01 21:31"
           }
 ,         {
               "id"           : "cert_extlifeSpan",
@@ -514,14 +514,14 @@
               "ip"           : "api.apprentissage.beta.gouv.fr/54.38.65.110",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "-1 seconds from localtime"
+              "finding"      : "0 seconds from localtime"
           }
 ,         {
               "id"           : "HTTP_headerTime",
               "ip"           : "api.apprentissage.beta.gouv.fr/54.38.65.110",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1725156105"
+              "finding"      : "1725760185"
           }
 ,         {
               "id"           : "HSTS_time",
@@ -591,7 +591,7 @@
               "ip"           : "api.apprentissage.beta.gouv.fr/54.38.65.110",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "default-src 'self' https://plausible.io; base-uri 'self'; block-all-mixed-content; font-src 'self' https: data:; frame-ancestors 'self'; frame-src 'self' https://plausible.io; img-src 'self' https://www.notion.so data: ; object-src 'none'; script-src 'self' https://plausible.io 'unsafe-inline' ; script-src-attr 'none'; style-src 'self' https: https: *.plausible.io 'unsafe-inline'; connect-src 'self' https://geo.api.gouv.fr/ https://plausible.io https://sentry.apprentissage.beta.gouv.fr ; upgrade-insecure-requests; worker-src 'self' 'nonce-OGRiMWNiYWQtYTEyYS00MzBkLThlZjctNDRiZjllYTNiM2Ni' 'strict-dynamic';"
+              "finding"      : "default-src 'self' https://plausible.io; base-uri 'self'; block-all-mixed-content; font-src 'self' https: data:; frame-ancestors 'self'; frame-src 'self' https://plausible.io; img-src 'self' https://www.notion.so data: ; object-src 'none'; script-src 'self' https://plausible.io 'unsafe-inline' ; script-src-attr 'none'; style-src 'self' https: https: *.plausible.io 'unsafe-inline'; connect-src 'self' https://geo.api.gouv.fr/ https://plausible.io https://sentry.apprentissage.beta.gouv.fr ; upgrade-insecure-requests; worker-src 'self' 'nonce-ZjNlZDUyNjItZTE2MS00YmFjLTlkZWItOThlY2EyNjkxMGY2' 'strict-dynamic';"
           }
 ,         {
               "id"           : "Referrer-Policy",
@@ -1112,6 +1112,6 @@
               "ip"           : "api.apprentissage.beta.gouv.fr/54.38.65.110",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "57"
+              "finding"      : "53"
           }
 ]
