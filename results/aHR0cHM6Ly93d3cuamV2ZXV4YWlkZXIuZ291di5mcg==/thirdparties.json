@@ -14,7 +14,7 @@
     },
     {
       "type": "unknown",
-      "url": "https://jeveuxaider.fra1.digitaloceanspaces.com/public/production/12146/responsive/art-et-culture-pour-tous-6___card_600_286.webp?v=1650537895"
+      "url": "https://jeveuxaider.fra1.digitaloceanspaces.com/public/production/38567/responsive/4PAYs5Pbj3MtBMD8Ti9iO0GS443a1H___card_600_286.webp?v=1687952803"
     },
     {
       "type": "unknown",
@@ -30,11 +30,11 @@
     },
     {
       "type": "unknown",
-      "url": "https://jeveuxaider.fra1.digitaloceanspaces.com/public/production/8498/responsive/kL3U82CKaXASTcL___card_600_286.webp?v=1650544220"
+      "url": "https://jeveuxaider.fra1.digitaloceanspaces.com/public/production/12146/responsive/art-et-culture-pour-tous-6___card_600_286.webp?v=1650537895"
     },
     {
       "type": "unknown",
-      "url": "https://jeveuxaider.fra1.digitaloceanspaces.com/public/production/47580/responsive/wR5yqhqJ9k2XyqeMTHFNieI8hh7iHT___card_600_286.webp?v=1702477732"
+      "url": "https://jeveuxaider.fra1.digitaloceanspaces.com/public/production/8498/responsive/kL3U82CKaXASTcL___card_600_286.webp?v=1650544220"
     },
     {
       "type": "google tag manager",
@@ -89,17 +89,17 @@
   "headers": {
     "cache-control": "max-age=300\npublic, no-transform",
     "cf-cache-status": "DYNAMIC",
-    "cf-ray": "8bc46f136c34cf82-SJC",
+    "cf-ray": "8bfd43a9bf2d61f4-ORD",
     "content-encoding": "br",
-    "content-length": "48635",
+    "content-length": "48921",
     "content-type": "text/html;charset=utf-8",
-    "date": "Sun, 01 Sep 2024 10:04:03 GMT",
-    "expires": "Sun, 01 Sep 2024 10:09:03 GMT",
+    "date": "Sun, 08 Sep 2024 07:35:53 GMT",
+    "expires": "Sun, 08 Sep 2024 07:40:53 GMT",
     "server": "cloudflare",
     "strict-transport-security": "max-age=31536000",
     "vary": "Accept-Encoding",
     "x-powered-by": "Nuxt",
-    "x-request-id": "4df24f37-626b-4d9c-9244-52f8c18a2faf\n4df24f37-626b-4d9c-9244-52f8c18a2faf"
+    "x-request-id": "a58c57ee-d6b1-4684-8f61-24ef880a3eed\na58c57ee-d6b1-4684-8f61-24ef880a3eed"
   },
   "endpoints": [
     {
@@ -211,14 +211,8 @@
     },
     {
       "hostname": "www.googletagmanager.com",
-      "ip": "142.251.46.168",
+      "ip": "142.250.191.168",
       "geoip": {
-        "city": {
-          "geoname_id": 5116931,
-          "names": {
-            "en": "Farmingdale"
-          }
-        },
         "continent": {
           "code": "NA",
           "geoname_id": 6255149,
@@ -249,13 +243,9 @@
         },
         "location": {
           "accuracy_radius": 1000,
-          "latitude": 40.7306,
-          "longitude": -73.4313,
-          "metro_code": 501,
-          "time_zone": "America/New_York"
-        },
-        "postal": {
-          "code": "11735"
+          "latitude": 37.751,
+          "longitude": -97.822,
+          "time_zone": "America/Chicago"
         },
         "registered_country": {
           "geoname_id": 6252001,
@@ -270,23 +260,7 @@
             "ru": "США",
             "zh-CN": "美国"
           }
-        },
-        "subdivisions": [
-          {
-            "geoname_id": 5128638,
-            "iso_code": "NY",
-            "names": {
-              "de": "New York",
-              "en": "New York",
-              "es": "Nueva York",
-              "fr": "New York",
-              "ja": "ニューヨーク州",
-              "pt-BR": "Nova Iorque",
-              "ru": "Нью-Йорк",
-              "zh-CN": "纽约州"
-            }
-          }
-        ]
+        }
       }
     },
     {
@@ -378,18 +352,18 @@
     },
     {
       "hostname": "plausible.io",
-      "ip": "169.150.221.147",
+      "ip": "138.199.40.58",
       "geoip": {
         "city": {
-          "geoname_id": 5392171,
+          "geoname_id": 5128581,
           "names": {
-            "de": "San José",
-            "en": "San Jose",
-            "es": "San José",
-            "fr": "San José",
-            "ja": "サンノゼ",
-            "pt-BR": "San José",
-            "ru": "Сан-Хосе"
+            "de": "New York City",
+            "en": "New York",
+            "es": "Nueva York",
+            "fr": "New York",
+            "ja": "ニューヨーク",
+            "pt-BR": "Nova Iorque",
+            "ru": "Нью-Йорк"
           }
         },
         "continent": {
@@ -422,13 +396,13 @@
         },
         "location": {
           "accuracy_radius": 20,
-          "latitude": 37.1835,
-          "longitude": -121.7714,
-          "metro_code": 807,
-          "time_zone": "America/Los_Angeles"
+          "latitude": 40.7123,
+          "longitude": -74.0068,
+          "metro_code": 501,
+          "time_zone": "America/New_York"
         },
         "postal": {
-          "code": "95141"
+          "code": "10118"
         },
         "registered_country": {
           "geoname_id": 2635167,
@@ -446,17 +420,17 @@
         },
         "subdivisions": [
           {
-            "geoname_id": 5332921,
-            "iso_code": "CA",
+            "geoname_id": 5128638,
+            "iso_code": "NY",
             "names": {
-              "de": "Kalifornien",
-              "en": "California",
-              "es": "California",
-              "fr": "Californie",
-              "ja": "カリフォルニア州",
-              "pt-BR": "Califórnia",
-              "ru": "Калифорния",
-              "zh-CN": "加州"
+              "de": "New York",
+              "en": "New York",
+              "es": "Nueva York",
+              "fr": "New York",
+              "ja": "ニューヨーク州",
+              "pt-BR": "Nova Iorque",
+              "ru": "Нью-Йорк",
+              "zh-CN": "纽约州"
             }
           }
         ]
@@ -464,7 +438,7 @@
     },
     {
       "hostname": "static.axept.io",
-      "ip": "13.227.74.3",
+      "ip": "99.86.229.127",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -518,7 +492,7 @@
     },
     {
       "hostname": "client.axept.io",
-      "ip": "13.35.122.61",
+      "ip": "3.168.51.84",
       "geoip": {
         "continent": {
           "code": "NA",
