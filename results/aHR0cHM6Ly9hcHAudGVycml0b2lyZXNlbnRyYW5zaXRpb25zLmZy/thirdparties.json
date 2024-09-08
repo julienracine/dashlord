@@ -2,7 +2,7 @@
   "trackers": [
     {
       "type": "unknown",
-      "url": "https://stonly.com/js/widget/v2/version?v=1725198887110"
+      "url": "https://stonly.com/js/widget/v2/version?v=1725790874618"
     },
     {
       "type": "crisp",
@@ -14,15 +14,15 @@
     },
     {
       "type": "unknown",
-      "url": "https://stonly.com/js/widget/v2/stonly-widget.js?v=5d89848a"
+      "url": "https://stonly.com/js/widget/v2/stonly-widget.js?v=04cf4d3d"
     },
     {
       "type": "unknown",
-      "url": "https://stonly.com/js/widget/v2/vendors~widget-397d80f0d1810e565153.stonly.js"
+      "url": "https://stonly.com/js/widget/v2/vendors~widget-c4f000301eb6f1245d13.stonly.js"
     },
     {
       "type": "unknown",
-      "url": "https://stonly.com/js/widget/v2/widget-fddebc359738519d0dd7.stonly.js"
+      "url": "https://stonly.com/js/widget/v2/widget-4780b28d19fca44482c6.stonly.js"
     },
     {
       "type": "unknown",
@@ -38,11 +38,11 @@
     },
     {
       "type": "unknown",
-      "url": "https://api.stonly.com/api/v2/widget/integration?widgetId=1b1b2533-383c-11ef-a9d4-06cb0cb2a85e&stonlyAnonymousId=e1fb459a-b7ca-4875-be8f-21761a314071&url=https%3A%2F%2Fapp.territoiresentransitions.fr%2F"
+      "url": "https://api.stonly.com/api/v2/widget/integration?widgetId=1b1b2533-383c-11ef-a9d4-06cb0cb2a85e&stonlyAnonymousId=45313024-e6a5-4714-99b7-025ea37d5992&url=https%3A%2F%2Fapp.territoiresentransitions.fr%2F"
     },
     {
       "type": "unknown",
-      "url": "https://api.stonly.com/api/v2/widget/integration?widgetId=1b1b2533-383c-11ef-a9d4-06cb0cb2a85e&stonlyAnonymousId=e1fb459a-b7ca-4875-be8f-21761a314071&url=https%3A%2F%2Fapp.territoiresentransitions.fr%2F"
+      "url": "https://api.stonly.com/api/v2/widget/integration?widgetId=1b1b2533-383c-11ef-a9d4-06cb0cb2a85e&stonlyAnonymousId=45313024-e6a5-4714-99b7-025ea37d5992&url=https%3A%2F%2Fapp.territoiresentransitions.fr%2F"
     },
     {
       "type": "unknown",
@@ -58,12 +58,12 @@
     "alt-svc": "h3=\":443\"; ma=86400",
     "cache-control": "public, max-age=0",
     "cf-cache-status": "DYNAMIC",
-    "cf-ray": "8bc5c1130e821129-ORD",
+    "cf-ray": "8bfe35e40a327c35-LAX",
     "content-encoding": "br",
     "content-type": "text/html; charset=UTF-8",
-    "date": "Sun, 01 Sep 2024 13:54:47 GMT",
-    "etag": "W/\"aff-191954c0950\"",
-    "last-modified": "Tue, 27 Aug 2024 19:24:34 GMT",
+    "date": "Sun, 08 Sep 2024 10:21:14 GMT",
+    "etag": "W/\"aff-191bdc44410\"",
+    "last-modified": "Wed, 04 Sep 2024 16:00:42 GMT",
     "server": "cloudflare",
     "x-envoy-upstream-service-time": "81",
     "x-koyeb-backend": "par1",
@@ -73,7 +73,7 @@
   "endpoints": [
     {
       "hostname": "app.territoiresentransitions.fr",
-      "ip": "104.22.79.190",
+      "ip": "104.22.78.190",
       "geoip": {
         "registered_country": {
           "geoname_id": 6252001,
@@ -93,7 +93,7 @@
     },
     {
       "hostname": "stonly.com",
-      "ip": "18.172.122.120",
+      "ip": "3.168.147.69",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -125,9 +125,9 @@
         },
         "location": {
           "accuracy_radius": 1000,
-          "latitude": 34.0544,
-          "longitude": -118.244,
-          "time_zone": "America/Los_Angeles"
+          "latitude": 37.751,
+          "longitude": -97.822,
+          "time_zone": "America/Chicago"
         },
         "registered_country": {
           "geoname_id": 6252001,
@@ -142,28 +142,12 @@
             "ru": "США",
             "zh-CN": "美国"
           }
-        },
-        "subdivisions": [
-          {
-            "geoname_id": 5332921,
-            "iso_code": "CA",
-            "names": {
-              "de": "Kalifornien",
-              "en": "California",
-              "es": "California",
-              "fr": "Californie",
-              "ja": "カリフォルニア州",
-              "pt-BR": "Califórnia",
-              "ru": "Калифорния",
-              "zh-CN": "加州"
-            }
-          }
-        ]
+        }
       }
     },
     {
       "hostname": "client.crisp.chat",
-      "ip": "104.18.28.104",
+      "ip": "104.18.29.104",
       "geoip": {
         "registered_country": {
           "geoname_id": 6252001,
@@ -183,7 +167,7 @@
     },
     {
       "hostname": "s.stonly.com",
-      "ip": "54.230.18.3",
+      "ip": "18.164.154.26",
       "geoip": {
         "continent": {
           "code": "NA",
