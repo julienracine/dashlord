@@ -66,7 +66,7 @@
     },
     {
       "type": "google maps",
-      "url": "https://maps.googleapis.com/maps-api-v3/api/js/58/2/common.js",
+      "url": "https://maps.googleapis.com/maps-api-v3/api/js/58/3/common.js",
       "details": {
         "id": "google maps",
         "message": "Use OpenStreetMap with https://switch2osm.org/the-basics/"
@@ -74,7 +74,7 @@
     },
     {
       "type": "google maps",
-      "url": "https://maps.googleapis.com/maps-api-v3/api/js/58/2/util.js",
+      "url": "https://maps.googleapis.com/maps-api-v3/api/js/58/3/util.js",
       "details": {
         "id": "google maps",
         "message": "Use OpenStreetMap with https://switch2osm.org/the-basics/"
@@ -82,7 +82,7 @@
     },
     {
       "type": "google maps",
-      "url": "https://maps.googleapis.com/maps-api-v3/api/js/58/2/controls.js",
+      "url": "https://maps.googleapis.com/maps-api-v3/api/js/58/3/controls.js",
       "details": {
         "id": "google maps",
         "message": "Use OpenStreetMap with https://switch2osm.org/the-basics/"
@@ -90,7 +90,7 @@
     },
     {
       "type": "google maps",
-      "url": "https://maps.googleapis.com/maps-api-v3/api/js/58/2/places_impl.js",
+      "url": "https://maps.googleapis.com/maps-api-v3/api/js/58/3/places_impl.js",
       "details": {
         "id": "google maps",
         "message": "Use OpenStreetMap with https://switch2osm.org/the-basics/"
@@ -98,7 +98,7 @@
     },
     {
       "type": "google analytics",
-      "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-0MFNB0ZLJN&gtm=45je48s0v9117900830za200&_p=1725212166367&gcs=G100&gcd=13p3p3p3p5l1&npa=1&dma_cps=-&dma=0&tag_exp=0&cid=894401079.1725212167&ul=en-us&sr=800x600&uaa=&uab=&uafvl=&uamb=0&uam=&uap=&uapv=&uaw=0&frm=0&pscdl=denied&_s=1&sid=1725212166&sct=1&seg=0&dl=https%3A%2F%2Frefugies.info%2Ffr&dt=Accueil%20-%20R%C3%A9fugi%C3%A9s.info&en=page_view&_fv=1&_nsi=1&_ss=1&_ee=1&tfd=1815",
+      "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-0MFNB0ZLJN&gtm=45je4940v9117900830za200&_p=1725803647617&gcs=G100&gcd=13p3p3p3p5l1&npa=1&dma_cps=-&dma=0&tag_exp=0&cid=705085494.1725803648&ul=en-us&sr=800x600&uaa=&uab=&uafvl=&uamb=0&uam=&uap=&uapv=&uaw=0&frm=0&pscdl=denied&_s=1&sid=1725803648&sct=1&seg=0&dl=https%3A%2F%2Frefugies.info%2Ffr&dt=Accueil%20-%20R%C3%A9fugi%C3%A9s.info&en=page_view&_fv=1&_nsi=1&_ss=1&_ee=1&tfd=1786",
       "details": {
         "id": "google analytics",
         "message": "Use hosted Matomo instance"
@@ -114,7 +114,7 @@
     },
     {
       "type": "google analytics",
-      "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-0MFNB0ZLJN&gtm=45je48s0v9117900830za200&_p=1725212166367&gcs=G100&gcd=13p3p3p3p5l1&npa=1&dma_cps=-&dma=0&tag_exp=0&cid=894401079.1725212167&ul=en-us&sr=800x600&uaa=&uab=&uafvl=&uamb=0&uam=&uap=&uapv=&uaw=0&frm=0&pscdl=denied&sid=1725212166&sct=1&seg=0&dl=https%3A%2F%2Frefugies.info%2Ffr&dt=Accueil%20-%20R%C3%A9fugi%C3%A9s.info&_s=2&tfd=6823",
+      "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-0MFNB0ZLJN&gtm=45je4940v9117900830za200&_p=1725803647617&gcs=G100&gcd=13p3p3p3p5l1&npa=1&dma_cps=-&dma=0&tag_exp=0&cid=705085494.1725803648&ul=en-us&sr=800x600&uaa=&uab=&uafvl=&uamb=0&uam=&uap=&uapv=&uaw=0&frm=0&pscdl=denied&sid=1725803648&sct=1&seg=0&dl=https%3A%2F%2Frefugies.info%2Ffr&dt=Accueil%20-%20R%C3%A9fugi%C3%A9s.info&_s=2&tfd=6794",
       "details": {
         "id": "google analytics",
         "message": "Use hosted Matomo instance"
@@ -127,8 +127,8 @@
     "cache-control": "s-maxage=600, stale-while-revalidate",
     "content-encoding": "gzip",
     "content-type": "text/html; charset=utf-8",
-    "date": "Sun, 01 Sep 2024 17:36:05 GMT",
-    "etag": "\"11sny0yjhyz4z57\"",
+    "date": "Sun, 08 Sep 2024 13:54:06 GMT",
+    "etag": "\"wc2fdhqwxv4z6u\"",
     "server": "Google Frontend",
     "vary": "Accept-Encoding",
     "via": "1.1 google",
@@ -224,19 +224,19 @@
     },
     {
       "hostname": "plausible.io",
-      "ip": "195.181.163.196",
+      "ip": "169.150.236.104",
       "geoip": {
         "city": {
-          "geoname_id": 4164138,
+          "geoname_id": 4887398,
           "names": {
-            "de": "Miami",
-            "en": "Miami",
-            "es": "Miami",
-            "fr": "Miami",
-            "ja": "マイアミ",
-            "pt-BR": "Miami",
-            "ru": "Майами",
-            "zh-CN": "迈阿密"
+            "de": "Chicago",
+            "en": "Chicago",
+            "es": "Chicago",
+            "fr": "Chicago",
+            "ja": "シカゴ",
+            "pt-BR": "Chicago",
+            "ru": "Чикаго",
+            "zh-CN": "芝加哥"
           }
         },
         "continent": {
@@ -269,13 +269,13 @@
         },
         "location": {
           "accuracy_radius": 20,
-          "latitude": 25.7838,
-          "longitude": -80.1823,
-          "metro_code": 528,
-          "time_zone": "America/New_York"
+          "latitude": 41.8874,
+          "longitude": -87.6318,
+          "metro_code": 602,
+          "time_zone": "America/Chicago"
         },
         "postal": {
-          "code": "33132"
+          "code": "60602"
         },
         "registered_country": {
           "geoname_id": 2635167,
@@ -293,17 +293,17 @@
         },
         "subdivisions": [
           {
-            "geoname_id": 4155751,
-            "iso_code": "FL",
+            "geoname_id": 4896861,
+            "iso_code": "IL",
             "names": {
-              "de": "Florida",
-              "en": "Florida",
-              "es": "Florida",
-              "fr": "Floride",
-              "ja": "フロリダ州",
-              "pt-BR": "Flórida",
-              "ru": "Флорида",
-              "zh-CN": "佛罗里达州"
+              "de": "Illinois",
+              "en": "Illinois",
+              "es": "Illinois",
+              "fr": "Illinois",
+              "ja": "イリノイ州",
+              "pt-BR": "Ilinóis",
+              "ru": "Иллинойс",
+              "zh-CN": "伊利诺伊州"
             }
           }
         ]
@@ -311,8 +311,122 @@
     },
     {
       "hostname": "res.cloudinary.com",
-      "ip": "104.17.201.1",
+      "ip": "23.197.16.48",
       "geoip": {
+        "city": {
+          "geoname_id": 4890925,
+          "names": {
+            "en": "Elk Grove Village"
+          }
+        },
+        "continent": {
+          "code": "NA",
+          "geoname_id": 6255149,
+          "names": {
+            "de": "Nordamerika",
+            "en": "North America",
+            "es": "Norteamérica",
+            "fr": "Amérique du Nord",
+            "ja": "北アメリカ",
+            "pt-BR": "América do Norte",
+            "ru": "Северная Америка",
+            "zh-CN": "北美洲"
+          }
+        },
+        "country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "USA",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        },
+        "location": {
+          "accuracy_radius": 20,
+          "latitude": 42.0026,
+          "longitude": -87.9644,
+          "metro_code": 602,
+          "time_zone": "America/Chicago"
+        },
+        "postal": {
+          "code": "60009"
+        },
+        "registered_country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "USA",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        },
+        "subdivisions": [
+          {
+            "geoname_id": 4896861,
+            "iso_code": "IL",
+            "names": {
+              "de": "Illinois",
+              "en": "Illinois",
+              "es": "Illinois",
+              "fr": "Illinois",
+              "ja": "イリノイ州",
+              "pt-BR": "Ilinóis",
+              "ru": "Иллинойс",
+              "zh-CN": "伊利诺伊州"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "hostname": "storage.googleapis.com",
+      "ip": "142.250.190.59",
+      "geoip": {
+        "continent": {
+          "code": "NA",
+          "geoname_id": 6255149,
+          "names": {
+            "de": "Nordamerika",
+            "en": "North America",
+            "es": "Norteamérica",
+            "fr": "Amérique du Nord",
+            "ja": "北アメリカ",
+            "pt-BR": "América do Norte",
+            "ru": "Северная Америка",
+            "zh-CN": "北美洲"
+          }
+        },
+        "country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "USA",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        },
+        "location": {
+          "accuracy_radius": 1000,
+          "latitude": 37.751,
+          "longitude": -97.822,
+          "time_zone": "America/Chicago"
+        },
         "registered_country": {
           "geoname_id": 6252001,
           "iso_code": "US",
@@ -330,95 +444,9 @@
       }
     },
     {
-      "hostname": "storage.googleapis.com",
-      "ip": "142.251.16.207",
-      "geoip": {
-        "city": {
-          "geoname_id": 5116931,
-          "names": {
-            "en": "Farmingdale"
-          }
-        },
-        "continent": {
-          "code": "NA",
-          "geoname_id": 6255149,
-          "names": {
-            "de": "Nordamerika",
-            "en": "North America",
-            "es": "Norteamérica",
-            "fr": "Amérique du Nord",
-            "ja": "北アメリカ",
-            "pt-BR": "América do Norte",
-            "ru": "Северная Америка",
-            "zh-CN": "北美洲"
-          }
-        },
-        "country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
-          "names": {
-            "de": "USA",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
-          }
-        },
-        "location": {
-          "accuracy_radius": 1000,
-          "latitude": 40.7306,
-          "longitude": -73.4313,
-          "metro_code": 501,
-          "time_zone": "America/New_York"
-        },
-        "postal": {
-          "code": "11735"
-        },
-        "registered_country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
-          "names": {
-            "de": "USA",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
-          }
-        },
-        "subdivisions": [
-          {
-            "geoname_id": 5128638,
-            "iso_code": "NY",
-            "names": {
-              "de": "New York",
-              "en": "New York",
-              "es": "Nueva York",
-              "fr": "New York",
-              "ja": "ニューヨーク州",
-              "pt-BR": "Nova Iorque",
-              "ru": "Нью-Йорк",
-              "zh-CN": "纽约州"
-            }
-          }
-        ]
-      }
-    },
-    {
       "hostname": "maps.googleapis.com",
-      "ip": "142.251.163.95",
+      "ip": "172.217.4.42",
       "geoip": {
-        "city": {
-          "geoname_id": 5116931,
-          "names": {
-            "en": "Farmingdale"
-          }
-        },
         "continent": {
           "code": "NA",
           "geoname_id": 6255149,
@@ -449,13 +477,9 @@
         },
         "location": {
           "accuracy_radius": 1000,
-          "latitude": 40.7306,
-          "longitude": -73.4313,
-          "metro_code": 501,
-          "time_zone": "America/New_York"
-        },
-        "postal": {
-          "code": "11735"
+          "latitude": 37.751,
+          "longitude": -97.822,
+          "time_zone": "America/Chicago"
         },
         "registered_country": {
           "geoname_id": 6252001,
@@ -470,28 +494,12 @@
             "ru": "США",
             "zh-CN": "美国"
           }
-        },
-        "subdivisions": [
-          {
-            "geoname_id": 5128638,
-            "iso_code": "NY",
-            "names": {
-              "de": "New York",
-              "en": "New York",
-              "es": "Nueva York",
-              "fr": "New York",
-              "ja": "ニューヨーク州",
-              "pt-BR": "Nova Iorque",
-              "ru": "Нью-Йорк",
-              "zh-CN": "纽约州"
-            }
-          }
-        ]
+        }
       }
     },
     {
       "hostname": "www.googletagmanager.com",
-      "ip": "64.233.180.97",
+      "ip": "142.250.190.40",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -545,7 +553,7 @@
     },
     {
       "hostname": "cdn.matomo.cloud",
-      "ip": "3.162.125.95",
+      "ip": "3.167.152.74",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -599,7 +607,7 @@
     },
     {
       "hostname": "www.google-analytics.com",
-      "ip": "172.253.63.138",
+      "ip": "142.250.190.110",
       "geoip": {
         "continent": {
           "code": "NA",
