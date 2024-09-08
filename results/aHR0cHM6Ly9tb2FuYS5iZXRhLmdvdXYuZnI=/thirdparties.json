@@ -3,10 +3,10 @@
   "cookies": [
     {
       "name": "csrftoken",
-      "value": "tKEXGQ2QTfGySDsVgsluIJNeMNSRqYvW",
+      "value": "Zb7MgC1dYLU6dZV0S3JJFdAH3FFMXTHY",
       "domain": "moana.beta.gouv.fr",
       "path": "/",
-      "expires": 1756646580.921703,
+      "expires": 1757239208.93953,
       "size": 41,
       "httpOnly": false,
       "secure": true,
@@ -19,23 +19,23 @@
   ],
   "headers": {
     "content-encoding": "gzip",
-    "content-security-policy": "style-src 'self' 'sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=' 'sha256-BW8NYdPk+rv9lpNlgLUX1TA/NiHG2tpA6q6KRC//k5c=' 'sha256-dsGP181IqXG75B+r9iF1SiIhPNVTsVx0BJXDFaoQLq4=' 'sha256-Qkou26UJ4mma/LNSpT1/69nlpyu27XJKOUO7n13g5Yk='; default-src 'self'; base-uri 'self'; connect-src 'self' https://sentry.incubateur.net; script-src 'self'; object-src 'self' https://sentry.incubateur.net; img-src 'self' data:; form-action 'self' https://sentry.incubateur.net; font-src 'self' data:",
+    "content-security-policy": "base-uri 'self'; style-src 'self' 'sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=' 'sha256-BW8NYdPk+rv9lpNlgLUX1TA/NiHG2tpA6q6KRC//k5c=' 'sha256-dsGP181IqXG75B+r9iF1SiIhPNVTsVx0BJXDFaoQLq4=' 'sha256-Qkou26UJ4mma/LNSpT1/69nlpyu27XJKOUO7n13g5Yk='; object-src 'self' https://sentry.incubateur.net; script-src 'self'; font-src 'self' data:; img-src 'self' data:; default-src 'self'; connect-src 'self' https://sentry.incubateur.net; form-action 'self' https://sentry.incubateur.net",
     "content-type": "text/html; charset=utf-8",
     "cross-origin-opener-policy": "same-origin",
-    "date": "Sun, 01 Sep 2024 13:23:00 GMT",
+    "date": "Sun, 08 Sep 2024 10:00:08 GMT",
     "permissions-policy": "accelerometer=(), autoplay=(), camera=(), display-capture=(), document-domain=(), encrypted-media=(), fullscreen=(), geolocation=(), gyroscope=(), magnetometer=(), microphone=(), midi=(), payment=(), usb=()",
     "referrer-policy": "same-origin",
-    "set-cookie": "csrftoken=tKEXGQ2QTfGySDsVgsluIJNeMNSRqYvW; expires=Sun, 31 Aug 2025 13:23:00 GMT; Max-Age=31449600; Path=/; SameSite=Lax; Secure",
+    "set-cookie": "csrftoken=Zb7MgC1dYLU6dZV0S3JJFdAH3FFMXTHY; expires=Sun, 07 Sep 2025 10:00:08 GMT; Max-Age=31449600; Path=/; SameSite=Lax; Secure",
     "strict-transport-security": "max-age=31536000",
     "vary": "Cookie, origin",
     "x-content-type-options": "nosniff",
     "x-frame-options": "DENY",
-    "x-request-id": "08d39169-f432-4e12-bbc2-1c3e0892964b"
+    "x-request-id": "9c076233-3588-47d3-8fbf-c7675fb89f5b"
   },
   "endpoints": [
     {
       "hostname": "moana.beta.gouv.fr",
-      "ip": "80.247.12.255",
+      "ip": "185.21.194.105",
       "geoip": {
         "continent": {
           "code": "EU",
