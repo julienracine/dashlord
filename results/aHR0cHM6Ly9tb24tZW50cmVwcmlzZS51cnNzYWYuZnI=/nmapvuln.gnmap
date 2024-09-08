@@ -1,4 +1,4 @@
-# Nmap 7.92 scan initiated Sun Sep  1 05:48:36 2024 as: nmap -sV --script vulners --script-args mincvss=5.0 -oA /data/nmapvuln mon-entreprise.urssaf.fr
-Host: 44.217.161.11 (ec2-44-217-161-11.compute-1.amazonaws.com)	Status: Up
-Host: 44.217.161.11 (ec2-44-217-161-11.compute-1.amazonaws.com)	Ports: 80/open/tcp//http//Netlify/, 443/open/tcp//ssl|https//Netlify/	Ignored State: filtered (998)
-# Nmap done at Sun Sep  1 05:50:19 2024 -- 1 IP address (1 host up) scanned in 102.78 seconds
+# Nmap 7.92 scan initiated Sun Sep  8 04:53:44 2024 as: nmap -sV --script vulners --script-args mincvss=5.0 -oA /data/nmapvuln mon-entreprise.urssaf.fr
+Host: 18.213.222.111 (ec2-18-213-222-111.compute-1.amazonaws.com)	Status: Up
+Host: 18.213.222.111 (ec2-18-213-222-111.compute-1.amazonaws.com)	Ports: 80/open/tcp//http//Netlify/, 443/open/tcp//ssl|https//Netlify/	Ignored State: filtered (998)
+# Nmap done at Sun Sep  8 04:55:29 2024 -- 1 IP address (1 host up) scanned in 104.74 seconds
