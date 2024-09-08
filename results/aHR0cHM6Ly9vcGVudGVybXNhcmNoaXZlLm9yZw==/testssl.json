@@ -206,7 +206,7 @@
               "ip"           : "opentermsarchive.org/185.199.109.153",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "not supported"
+              "finding"      : "supported"
           }
 ,         {
               "id"           : "TLS_timestamp",
@@ -346,7 +346,7 @@
               "ip"           : "opentermsarchive.org/185.199.109.153",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "43 >= 30 days"
+              "finding"      : "36 >= 30 days"
           }
 ,         {
               "id"           : "cert_notBefore",
@@ -507,21 +507,21 @@
               "ip"           : "opentermsarchive.org/185.199.109.153",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "+13 seconds from localtime"
+              "finding"      : "+14 seconds from localtime"
           }
 ,         {
               "id"           : "HTTP_headerTime",
               "ip"           : "opentermsarchive.org/185.199.109.153",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1725194916"
+              "finding"      : "1725788621"
           }
 ,         {
               "id"           : "HTTP_headerAge",
               "ip"           : "opentermsarchive.org/185.199.109.153",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "13 seconds"
+              "finding"      : "14 seconds"
           }
 ,         {
               "id"           : "HSTS",
@@ -570,7 +570,7 @@
               "ip"           : "opentermsarchive.org/185.199.109.153",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "cache-iad-kcgs7200161-IAD"
+              "finding"      : "cache-bur-kbur8200042-BUR"
           }
 ,         {
               "id"           : "Cache-Control",
@@ -1433,7 +1433,7 @@
               "ip"           : "opentermsarchive.org/185.199.110.153",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "43 >= 30 days"
+              "finding"      : "36 >= 30 days"
           }
 ,         {
               "id"           : "cert_notBefore",
@@ -1594,21 +1594,21 @@
               "ip"           : "opentermsarchive.org/185.199.110.153",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "+69 seconds from localtime"
+              "finding"      : "+72 seconds from localtime"
           }
 ,         {
               "id"           : "HTTP_headerTime",
               "ip"           : "opentermsarchive.org/185.199.110.153",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1725194972"
+              "finding"      : "1725788679"
           }
 ,         {
               "id"           : "HTTP_headerAge",
               "ip"           : "opentermsarchive.org/185.199.110.153",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "69 seconds"
+              "finding"      : "72 seconds"
           }
 ,         {
               "id"           : "HSTS",
@@ -1657,7 +1657,7 @@
               "ip"           : "opentermsarchive.org/185.199.110.153",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "cache-iad-kcgs7200066-IAD"
+              "finding"      : "cache-bur-kbur8200127-BUR"
           }
 ,         {
               "id"           : "Cache-Control",
@@ -2520,7 +2520,7 @@
               "ip"           : "opentermsarchive.org/185.199.111.153",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "43 >= 30 days"
+              "finding"      : "36 >= 30 days"
           }
 ,         {
               "id"           : "cert_notBefore",
@@ -2681,21 +2681,21 @@
               "ip"           : "opentermsarchive.org/185.199.111.153",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "+125 seconds from localtime"
+              "finding"      : "+130 seconds from localtime"
           }
 ,         {
               "id"           : "HTTP_headerTime",
               "ip"           : "opentermsarchive.org/185.199.111.153",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1725195028"
+              "finding"      : "1725788737"
           }
 ,         {
               "id"           : "HTTP_headerAge",
               "ip"           : "opentermsarchive.org/185.199.111.153",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "125 seconds"
+              "finding"      : "130 seconds"
           }
 ,         {
               "id"           : "HSTS",
@@ -2744,7 +2744,7 @@
               "ip"           : "opentermsarchive.org/185.199.111.153",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "cache-iad-kcgs7200090-IAD"
+              "finding"      : "cache-bur-kbur8200115-BUR"
           }
 ,         {
               "id"           : "Cache-Control",
@@ -3467,7 +3467,7 @@
               "ip"           : "opentermsarchive.org/185.199.108.153",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "not supported"
+              "finding"      : "supported"
           }
 ,         {
               "id"           : "TLS_timestamp",
@@ -3607,7 +3607,7 @@
               "ip"           : "opentermsarchive.org/185.199.108.153",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "43 >= 30 days"
+              "finding"      : "36 >= 30 days"
           }
 ,         {
               "id"           : "cert_notBefore",
@@ -3768,21 +3768,21 @@
               "ip"           : "opentermsarchive.org/185.199.108.153",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "+181 seconds from localtime"
+              "finding"      : "+188 seconds from localtime"
           }
 ,         {
               "id"           : "HTTP_headerTime",
               "ip"           : "opentermsarchive.org/185.199.108.153",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1725195085"
+              "finding"      : "1725788796"
           }
 ,         {
               "id"           : "HTTP_headerAge",
               "ip"           : "opentermsarchive.org/185.199.108.153",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "181 seconds"
+              "finding"      : "188 seconds"
           }
 ,         {
               "id"           : "HSTS",
@@ -3831,7 +3831,7 @@
               "ip"           : "opentermsarchive.org/185.199.108.153",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "cache-iad-kcgs7200040-IAD"
+              "finding"      : "cache-bur-kbur8200133-BUR"
           }
 ,         {
               "id"           : "Cache-Control",
@@ -4352,6 +4352,6 @@
               "ip"           : "opentermsarchive.org/185.199.108.153",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "228"
+              "finding"      : "236"
           }
 ]
