@@ -1,4 +1,4 @@
-# Nmap 7.92 scan initiated Sun Sep  1 05:35:47 2024 as: nmap -sV --script vulners --script-args mincvss=5.0 -oA /data/nmapvuln mobilic.beta.gouv.fr
+# Nmap 7.92 scan initiated Sun Sep  8 04:48:19 2024 as: nmap -sV --script vulners --script-args mincvss=5.0 -oA /data/nmapvuln mobilic.beta.gouv.fr
 Host: 185.231.164.121 ()	Status: Up
 Host: 185.231.164.121 ()	Ports: 80/open/tcp//http///, 443/open/tcp//ssl|https///	Ignored State: filtered (998)
-# Nmap done at Sun Sep  1 05:36:23 2024 -- 1 IP address (1 host up) scanned in 35.99 seconds
+# Nmap done at Sun Sep  8 04:49:06 2024 -- 1 IP address (1 host up) scanned in 47.25 seconds
