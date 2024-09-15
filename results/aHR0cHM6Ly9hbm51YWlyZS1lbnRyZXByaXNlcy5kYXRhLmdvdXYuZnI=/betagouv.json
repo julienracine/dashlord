@@ -9,7 +9,7 @@
     "link": "https://annuaire-entreprises.data.gouv.fr",
     "repository": "https://github.com/etalab/annuaire-entreprises.data.gouv.fr",
     "contact": "annuaire-entreprises@data.gouv.fr",
-    "content_url_encoded_markdown": "%23%23%20Le%20probl%C3%A8me%20%3A%0A%0AAu%20sein%20de%20l%E2%80%99administration%2C%20la%20donn%C3%A9e%20des%20entreprises%20fran%C3%A7aises%20est%20une%20ressource%20dispers%C3%A9e.%20De%20nombreuses%20directions%2C%20agences%20ou%20instituts%20sont%20responsables%20d%27une%20fraction%20de%20la%20donn%C3%A9es%20et%20en%20assument%20la%20publication.%0A%0AR%C3%A9sultat%2C%20les%20citoyens%2C%20entrepreneurs%20et%20agents%20qui%20ont%20besoin%20d%27y%20acc%C3%A8der%20doivent%20choisir%20entre%20%3A%0A%0A-%20%20%20les%20acteurs%20priv%C3%A9s%20qui%20centralisent%20les%20donn%C3%A9es%2C%20font%20payer%20une%20partie%20des%20donn%C3%A9es%2C%20et%20qui%20ne%20sont%20pas%20garants%20de%20son%20exactitude%0A-%20%20%20les%20acteurs%20publics%20officiels%2C%20chacun%20garant%20de%20certaines%20donn%C3%A9es%2C%20avec%20chacun%20leur%20site%20internet%2C%20entre%20lesquels%20il%20faut%20savoir%20naviguer%20%28INSEE%2C%20INPI%2C%20DILA%2C%20Minist%C3%A8re%20de%20l%E2%80%99Int%C3%A9rieur%29%0A%0A%23%23%20La%20solution%20%3A%0A%0A%5BL%E2%80%99Annuaire%20des%20Entreprises%5D%28https%3A%2F%2Fannuaire-entreprises.data.gouv.fr%29%20est%20un%20site%20internet%20qui%20propose%20%3A%0A%0A-%20%20%20un%20moteur%20de%20recherche%20d%27entreprise%20pour%20retrouver%20facilement%20n%E2%80%99importe%20quelle%20entreprise%2C%20association%20ou%20administration%20dot%C3%A9e%20d%27un%20num%C3%A9ro%20siren%0A-%20%20%20pour%20chaque%20entreprise%2C%20une%20page%20identit%C3%A9%20avec%20les%20donn%C3%A9es%20r%C3%A9cup%C3%A9r%C3%A9es%20en%20temps%20r%C3%A9el%20aupr%C3%A8s%20des%20diff%C3%A9rentes%20sources%20de%20donn%C3%A9es%20%22officielles%22%0A%0AMais%20l%E2%80%99Annuaire%20souhaite%20aller%20encore%20plus%20loin%20et%20devenir%20le%20site%20de%20r%C3%A9f%C3%A9rence%20de%20la%20donn%C3%A9e%20des%20entreprises%20%3A%20exhaustif%2C%20officiel%2C%20fiable%20et%20ergonomique",
+    "content_url_encoded_markdown": "%23%23%20Le%20probl%C3%A8me%20%3A%0A%0AAu%20sein%20de%20l%E2%80%99administration%2C%20la%20donn%C3%A9e%20des%20entreprises%20est%20une%20ressource%20dispers%C3%A9e.%20De%20nombreuses%20directions%2C%20agences%20ou%20instituts%20sont%20responsables%20d%27une%20fraction%20de%20cette%20donn%C3%A9e%20et%20en%20assurent%20la%20publication.%0A%0AR%C3%A9sultat%2C%20les%20citoyens%2C%20entrepreneurs%20et%20agents%20publics%20doivent%20choisir%20entre%20%3A%0A%0A-%20%20%20les%20acteurs%20priv%C3%A9s%20qui%20centralisent%20les%20donn%C3%A9es%20et%20qui%20en%20facturent%20une%20partie%20sans%20pouvoir%20en%20garantir%20l%E2%80%99exactitude%0A-%20%20%20les%20acteurs%20publics%20officiels%2C%20chacun%20garant%20d%E2%80%99une%20ou%20plusieurs%20bases%20de%20donn%C3%A9es%2C%20avec%20ses%20propres%20modalit%C3%A9s%20d%E2%80%99acc%C3%A8s%20%28sites%2C%20jeux%20de%20donn%C3%A9es%2C%20API%29%0A%0ACette%20complexit%C3%A9%20est%20une%20perte%20de%20temps%20et%20d%E2%80%99efficacit%C3%A9%20pour%20les%20relations%20entre%20les%20entreprises%20et%20l%E2%80%99administration.%0A%0A%23%23%20La%20solution%20%3A%0A%0A%5BL%E2%80%99Annuaire%20des%20Entreprises%5D%28https%3A%2F%2Fannuaire-entreprises.data.gouv.fr%29%20est%20un%20site%20internet%20qui%20propose%20%3A%0A%0A-%20%20%20un%20moteur%20de%20recherche%20d%27entreprises%20pour%20retrouver%20facilement%20n%E2%80%99importe%20quelle%20entreprise%2C%20association%20ou%20administration%20dot%C3%A9e%20d%27un%20num%C3%A9ro%20siren%0A-%20%20%20pour%20chaque%20entreprise%2C%20une%20page%20d%E2%80%99identit%C3%A9%20avec%20les%20donn%C3%A9es%20r%C3%A9cup%C3%A9r%C3%A9es%20en%20temps%20r%C3%A9el%20aupr%C3%A8s%20des%20diff%C3%A9rentes%20sources%20de%20donn%C3%A9es%20officielles%0A%0AL%E2%80%99Annuaire%20des%20Entreprises%20propose%20un%20%5Bacc%C3%A8s%20d%C3%A9di%C3%A9%20pour%20les%20agents%20publics%5D%28https%3A%2F%2Fannuaire-entreprises.data.gouv.fr%2Flp%2Fagent-public%29.%20En%20s%E2%80%99identifiant%2C%20les%20agents%20b%C3%A9n%C3%A9ficient%20d%E2%80%99un%20acc%C3%A8s%20complet%20aux%20informations%20des%20entreprises%2C%20et%20pas%20uniquement%20aux%20informations%20publiques.%20%0A%0A%23%23%20L%E2%80%99impact%20%3A%0A%0AConsultez%20notre%20%5Bpage%20de%20statistiques%5D%28https%3A%2F%2Fannuaire-entreprises.data.gouv.fr%2Fstats%29.%0A",
     "events": [],
     "phases": [
       {
@@ -21,6 +21,11 @@
         "name": "construction",
         "start": "2021-04-01",
         "end": ""
+      },
+      {
+        "name": "acceleration",
+        "start": "2024-01-01",
+        "end": ""
       }
     ],
     "sponsors": [
@@ -28,7 +33,9 @@
     ],
     "thematiques": [
       "Open-Data",
-      "Entreprises"
+      "Entreprises",
+      "Collectivités",
+      "Administratif"
     ],
     "dashlord_url": "https://dashlord.incubateur.net/url/annuaire-entreprises-data-gouv-fr/"
   },
