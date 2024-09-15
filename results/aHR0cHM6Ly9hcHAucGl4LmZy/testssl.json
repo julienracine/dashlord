@@ -345,8 +345,8 @@
               "id"           : "cert_expirationStatus",
               "ip"           : "app.pix.fr/185.179.149.158",
               "port"         : "443",
-              "severity"     : "OK",
-              "finding"      : "64 >= 60 days"
+              "severity"     : "MEDIUM",
+              "finding"      : "expires < 60 days (57)"
           }
 ,         {
               "id"           : "cert_notBefore",
@@ -359,7 +359,7 @@
               "id"           : "cert_notAfter",
               "ip"           : "app.pix.fr/185.179.149.158",
               "port"         : "443",
-              "severity"     : "OK",
+              "severity"     : "MEDIUM",
               "finding"      : "2024-11-11 22:59"
           }
 ,         {
@@ -409,7 +409,7 @@
               "ip"           : "app.pix.fr/185.179.149.158",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "iodef=mailto:security@pix.fr, issue=amazontrust.com, issue=certigna.fr, issue=letsencrypt.org, issue=sectigo.com, issuewild=letsencrypt.org"
+              "finding"      : "iodef=mailto:security@pix.fr, issue=amazontrust.com, issue=certigna.com, issue=certigna.fr, issue=letsencrypt.org, issue=sectigo.com, issuewild=letsencrypt.org"
           }
 ,         {
               "id"           : "certificate_transparency",
@@ -507,7 +507,7 @@
               "ip"           : "app.pix.fr/185.179.149.158",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1725760877"
+              "finding"      : "1726366348"
           }
 ,         {
               "id"           : "HSTS_time",
