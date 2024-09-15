@@ -14,7 +14,7 @@
     },
     {
       "type": "unknown",
-      "url": "https://matomo-datasubvention.osc-secnum-fr1.scalingo.io/matomo.php?action_name=Data.subvention&idsite=1&rec=1&r=372841&h=15&m=46&s=51&url=https%3A%2F%2Fapp.datasubvention.beta.gouv.fr%2F&_id=&_idn=1&send_image=0&_refts=0&pv_id=OGb5ZY&pf_net=219&pf_srv=109&pf_tfr=1&pf_dm1=11&pf_dm2=340&pf_onl=0&uadata=%7B%22fullVersionList%22%3A%5B%5D%2C%22mobile%22%3Afalse%2C%22model%22%3A%22%22%2C%22platform%22%3A%22%22%2C%22platformVersion%22%3A%22%22%7D&cookie=1&res=800x600"
+      "url": "https://matomo-datasubvention.osc-secnum-fr1.scalingo.io/matomo.php?action_name=Data.subvention&idsite=1&rec=1&r=814172&h=11&m=53&s=39&url=https%3A%2F%2Fapp.datasubvention.beta.gouv.fr%2F&_id=&_idn=1&send_image=0&_refts=0&pv_id=jllHl1&pf_net=321&pf_srv=157&pf_tfr=1&pf_dm1=14&pf_dm2=466&pf_onl=0&uadata=%7B%22fullVersionList%22%3A%5B%5D%2C%22mobile%22%3Afalse%2C%22model%22%3A%22%22%2C%22platform%22%3A%22%22%2C%22platformVersion%22%3A%22%22%7D&cookie=1&res=800x600"
     }
   ],
   "cookies": [],
@@ -22,21 +22,21 @@
     "access-control-allow-origin": "*",
     "cache-control": "max-age 1800",
     "content-encoding": "gzip",
-    "content-security-policy": "default-src 'self'; frame-src 'self' https://game.crisp.chat https://datasubvention.crisp.help; worker-src blob:; connect-src 'self' https://api.datasubvention.beta.gouv.fr https://client.crisp.chat wss://client.relay.crisp.chat https://storage.crisp.chat wss://stream.relay.crisp.chat https://matomo-datasubvention.osc-secnum-fr1.scalingo.io https://geo.api.gouv.fr https://sentry.incubateur.net; font-src 'self' https://client.crisp.chat; img-src 'self' data: https://image.crisp.chat https://client.crisp.chat https://storage.crisp.chat; script-src 'unsafe-inline' 'unsafe-eval' 'self' https://client.crisp.chat https://settings.crisp.chat https://matomo-datasubvention.osc-secnum-fr1.scalingo.io https://sentry.incubateur.net 'sha256-+X7Z1KW2Vcl9pendYbp0FYL6F0HZek43aBP/14cwq+U=' 'nonce-sHx5l9qDBX9VSPoNI271sg=='; style-src 'self' https://client.crisp.chat 'unsafe-inline'; report-uri https://sentry.incubateur.net; report-to 'csp-endpoint'",
+    "content-security-policy": "default-src 'self'; frame-src 'self' https://game.crisp.chat https://datasubvention.crisp.help; worker-src blob:; connect-src 'self' https://api.datasubvention.beta.gouv.fr https://client.crisp.chat wss://client.relay.crisp.chat https://storage.crisp.chat wss://stream.relay.crisp.chat https://matomo-datasubvention.osc-secnum-fr1.scalingo.io https://geo.api.gouv.fr https://sentry.incubateur.net; font-src 'self' https://client.crisp.chat; img-src 'self' data: https://image.crisp.chat https://client.crisp.chat https://storage.crisp.chat; script-src 'unsafe-inline' 'unsafe-eval' 'self' https://client.crisp.chat https://settings.crisp.chat https://matomo-datasubvention.osc-secnum-fr1.scalingo.io https://sentry.incubateur.net 'sha256-+X7Z1KW2Vcl9pendYbp0FYL6F0HZek43aBP/14cwq+U=' 'nonce-Uuo7uAR96jC9zQ1XAWHmdQ=='; style-src 'self' https://client.crisp.chat 'unsafe-inline'; report-uri https://sentry.incubateur.net; report-to 'csp-endpoint'",
     "content-type": "text/html",
-    "date": "Sun, 01 Sep 2024 15:46:50 GMT",
-    "etag": "W/\"e78xjk\"",
+    "date": "Sun, 15 Sep 2024 11:53:37 GMT",
+    "etag": "W/\"p55drv\"",
     "link": "<./_app/immutable/entry/start.04d4f316.js>; rel=\"modulepreload\"; nopush, <./_app/immutable/chunks/scheduler.7184b185.js>; rel=\"modulepreload\"; nopush, <./_app/immutable/chunks/singletons.ef26d090.js>; rel=\"modulepreload\"; nopush, <./_app/immutable/chunks/index.d680a20e.js>; rel=\"modulepreload\"; nopush, <./_app/immutable/chunks/paths.7214777a.js>; rel=\"modulepreload\"; nopush, <./_app/immutable/entry/app.2f8c13cd.js>; rel=\"modulepreload\"; nopush, <./_app/immutable/chunks/hasTracingEnabled.14e4e196.js>; rel=\"modulepreload\"; nopush, <./_app/immutable/chunks/stores.c16e2073.js>; rel=\"modulepreload\"; nopush, <./_app/immutable/chunks/public.c09f889a.js>; rel=\"modulepreload\"; nopush, <./_app/immutable/chunks/index.15e3fd4b.js>; rel=\"modulepreload\"; nopush",
     "strict-transport-security": "max-age=31536000\nmax-age=63072000; includeSubDomains; preload",
     "x-content-type-options": "nosniff",
     "x-frame-options": "SAMEORIGIN",
-    "x-request-id": "345593ec-ad96-4225-bfaa-cb530977ad0b",
+    "x-request-id": "6f8136c7-d64b-45a6-b125-3f4eff708b55",
     "x-sveltekit-page": "true"
   },
   "endpoints": [
     {
       "hostname": "app.datasubvention.beta.gouv.fr",
-      "ip": "80.247.12.255",
+      "ip": "148.253.96.193",
       "geoip": {
         "continent": {
           "code": "EU",
@@ -92,7 +92,7 @@
     },
     {
       "hostname": "client.crisp.chat",
-      "ip": "104.18.28.104",
+      "ip": "104.18.29.104",
       "geoip": {
         "registered_country": {
           "geoname_id": 6252001,
