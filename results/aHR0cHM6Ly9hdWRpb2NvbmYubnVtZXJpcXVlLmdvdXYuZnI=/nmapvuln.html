@@ -54,7 +54,7 @@
 <h1>Scan Report<br><small>Nmap 7.92</small>
 </h1>
 <pre style="white-space:pre-wrap; word-wrap:break-word;">nmap -sV --script vulners --script-args mincvss=5.0 -oA /data/nmapvuln audioconf.numerique.gouv.fr</pre>
-<p class="lead">Sun Sep  8 02:03:59 2024 – Sun Sep  8 02:04:47 2024<br>1 hosts scanned.
+<p class="lead">Sun Sep 15 02:13:37 2024 – Sun Sep 15 02:14:12 2024<br>1 hosts scanned.
               1 hosts up.
               0 hosts down.
             </p>
@@ -121,7 +121,7 @@
 <pre style="white-space:pre-wrap; word-wrap:break-word;">
   FourOhFourRequest: 
     HTTP/1.1 301 Moved Permanently
-    Date: Sun, 08 Sep 2024 02:04:17 GMT
+    Date: Sun, 15 Sep 2024 02:13:51 GMT
     Content-Type: text/html
     Content-Length: 166
     Connection: close
@@ -135,7 +135,7 @@
     &lt;/html&gt;
   GetRequest, HTTPOptions: 
     HTTP/1.1 301 Moved Permanently
-    Date: Sun, 08 Sep 2024 02:04:16 GMT
+    Date: Sun, 15 Sep 2024 02:13:50 GMT
     Content-Type: text/html
     Content-Length: 166
     Connection: close
@@ -147,22 +147,9 @@
     &lt;hr&gt;&lt;center&gt;openresty&lt;/center&gt;
     &lt;/body&gt;
     &lt;/html&gt;
-  RTSPRequest: 
+  RTSPRequest, X11Probe: 
     HTTP/1.1 400 Bad Request
-    Date: Sun, 08 Sep 2024 02:04:16 GMT
-    Content-Type: text/html
-    Content-Length: 154
-    Connection: close
-    &lt;html&gt;
-    &lt;head&gt;&lt;title&gt;400 Bad Request&lt;/title&gt;&lt;/head&gt;
-    &lt;body&gt;
-    &lt;center&gt;&lt;h1&gt;400 Bad Request&lt;/h1&gt;&lt;/center&gt;
-    &lt;hr&gt;&lt;center&gt;openresty&lt;/center&gt;
-    &lt;/body&gt;
-    &lt;/html&gt;
-  X11Probe: 
-    HTTP/1.1 400 Bad Request
-    Date: Sun, 08 Sep 2024 02:04:17 GMT
+    Date: Sun, 15 Sep 2024 02:13:51 GMT
     Content-Type: text/html
     Content-Length: 154
     Connection: close
@@ -184,11 +171,13 @@
 <td title="Extra Info"></td>
 </tr>
 <tr><td colspan="7">
-<a href="https://nvd.nist.gov/vuln/search/results?form_type=Advanced&amp;cves=on&amp;cpe_version="></a><h5>fingerprint-strings</h5>
+<a href="https://nvd.nist.gov/vuln/search/results?form_type=Advanced&amp;cves=on&amp;cpe_version="></a><h5>http-trane-info</h5>
+<pre style="white-space:pre-wrap; word-wrap:break-word;">Problem with XML parsing of /evox/about</pre>
+<h5>fingerprint-strings</h5>
 <pre style="white-space:pre-wrap; word-wrap:break-word;">
   GetRequest: 
     HTTP/1.1 200 OK
-    Date: Sun, 08 Sep 2024 02:04:22 GMT
+    Date: Sun, 15 Sep 2024 02:13:56 GMT
     Content-Type: text/html
     Content-Length: 3884
     Connection: close
@@ -198,15 +187,15 @@
     X-Frame-Options: DENY
     X-Content-Type-Options: nosniff
     X-XSS-Protection: 1; mode=block
-    &lt;!doctypehtml&gt;&lt;meta name="viewport"content="width=device-width"&gt;&lt;meta charset="utf-8"&gt;&lt;script&gt;&lt;/script&gt;&lt;script&gt;var __blnChallengeStore={"domain":".numerique.gouv.fr","unregisterServiceWorker":false,"checkChallengeParams":{"bot_category":"unknown","tracking_id":"","request_fate":"challengejs","rule_id":""},"cookie":{"path":"/","value":"7voxJnDj7024KmT9BE1n728rJ0v8b9_ywft0Laxng-steds1F6LFVeR87S2NF9SWq0kz8XMr3KyDR9tgyURbSFSZmHx21YI1HK1Qd64J9LQ","name":"bln_challengejs","maxAge":900}};(()=&gt;{"use strict";const e=function*({domain:e,maxAge:n,name:o,path:a,secure:t,value:i}){yield`${o}=${
+    &lt;!doctypehtml&gt;&lt;meta name="viewport"content="width=device-width"&gt;&lt;meta charset="utf-8"&gt;&lt;script&gt;&lt;/script&gt;&lt;script&gt;var __blnChallengeStore={"unregisterServiceWorker":false,"checkChallengeParams":{"request_fate":"challengejs","tracking_id":"","bot_category":"unknown","rule_id":""},"domain":".numerique.gouv.fr","cookie":{"name":"bln_challengejs","value":"UhgGkZT3RdL5gk6KQ4COdLbyyK8uyfK0DMYuw0EORjtyG3JI0DQ1-YPOaBp-apIMODv30xsaZM3KwYA3Ug3uH1Pwi7dP0YbmQe5XpaDZk6Q","maxAge":900,"path":"/"}};(()=&gt;{"use strict";const e=function*({domain:e,maxAge:n,name:o,path:a,secure:t,value:i}){yield`${o}=${
   HTTPOptions: 
     HTTP/1.1 404 Not Found
-    Date: Sun, 08 Sep 2024 02:04:23 GMT
+    Date: Sun, 15 Sep 2024 02:13:57 GMT
     Content-Type: text/html
     Content-Length: 15532
     Connection: close
     ETag: "66d086dd-3cac"
-    X-Varnish: 6396409
+    X-Varnish: 3368193
     Age: 0
     Strict-Transport-Security: max-age=63072000
     X-Frame-Options: DENY
@@ -229,8 +218,6 @@
     class="error-title"&gt;Error 404&lt;/h1&gt;
     &lt;div class="error-message"&gt;Krill not found&lt;/div&gt;
     &lt;div class="error-illustration"&gt;</pre>
-<h5>http-trane-info</h5>
-<pre style="white-space:pre-wrap; word-wrap:break-word;">Problem with XML parsing of /evox/about</pre>
 </td></tr>
 </tbody>
 </table></div>
