@@ -54,7 +54,7 @@
 <h1>Scan Report<br><small>Nmap 7.92</small>
 </h1>
 <pre style="white-space:pre-wrap; word-wrap:break-word;">nmap -sV --script vulners --script-args mincvss=5.0 -oA /data/nmapvuln mes-adresses.data.gouv.fr</pre>
-<p class="lead">Sun Sep  8 08:53:53 2024 – Sun Sep  8 08:54:15 2024<br>1 hosts scanned.
+<p class="lead">Sun Sep 15 08:58:40 2024 – Sun Sep 15 08:59:29 2024<br>1 hosts scanned.
               1 hosts up.
               0 hosts down.
             </p>
@@ -76,9 +76,9 @@
 </tr></thead>
 <tbody><tr>
 <td><span class="label label-success">up</span></td>
-<td>162.19.30.139</td>
+<td>80.247.12.255</td>
 <td>mes-adresses.data.gouv.fr</td>
-<td>3</td>
+<td>2</td>
 <td>0</td>
 </tr></tbody>
 </table></div>
@@ -91,12 +91,12 @@
             });
           </script><h2 id="onlinehosts" class="target">Online Hosts</h2>
 <div class="panel panel-default">
-<div class="panel-heading clickable" data-toggle="collapse" data-target="#162-19-30-139"><h3 class="panel-title">162.19.30.139 - mes-adresses.data.gouv.fr</h3></div>
-<div class="panel-body collapse in" id="162-19-30-139">
+<div class="panel-heading clickable" data-toggle="collapse" data-target="#80-247-12-255"><h3 class="panel-title">80.247.12.255 - mes-adresses.data.gouv.fr</h3></div>
+<div class="panel-body collapse in" id="80-247-12-255">
 <h4>Hostnames</h4>
 <ul>
 <li>mes-adresses.data.gouv.fr (user)</li>
-<li>bal-1.infra.adresse.data.gouv.fr (PTR)</li>
+<li>ows-80-247-12-255.cloudgouv-eu-west-1.compute.outscale.com (PTR)</li>
 </ul>
 <h4>Ports</h4>
 <div class="table-responsive"><table class="table table-bordered">
@@ -111,60 +111,54 @@
 </tr></thead>
 <tbody>
 <tr class="success">
-<td title="Port">22</td>
-<td title="Protocol">tcp</td>
-<td title="State / Reason">open<br>syn-ack</td>
-<td title="Service">ssh</td>
-<td title="Product">OpenSSH</td>
-<td title="Version">8.4p1 Debian 5+deb11u3</td>
-<td title="Extra Info">protocol 2.0</td>
-</tr>
-<tr><td colspan="7">
-<a href="https://nvd.nist.gov/vuln/search/results?form_type=Advanced&amp;cves=on&amp;cpe_version=cpe:/a:openbsd:openssh:8.4p1">cpe:/a:openbsd:openssh:8.4p1</a><h5>vulners</h5>
-<pre style="white-space:pre-wrap; word-wrap:break-word;">
-  cpe:/a:openbsd:openssh:8.4p1: 
-    	CVE-2023-38408	9.8	https://vulners.com/cve/CVE-2023-38408
-    	B8190CDB-3EB9-5631-9828-8064A1575B23	9.8	https://vulners.com/githubexploit/B8190CDB-3EB9-5631-9828-8064A1575B23	*EXPLOIT*
-    	8FC9C5AB-3968-5F3C-825E-E8DB5379A623	9.8	https://vulners.com/githubexploit/8FC9C5AB-3968-5F3C-825E-E8DB5379A623	*EXPLOIT*
-    	8AD01159-548E-546E-AA87-2DE89F3927EC	9.8	https://vulners.com/githubexploit/8AD01159-548E-546E-AA87-2DE89F3927EC	*EXPLOIT*
-    	5E6968B4-DBD6-57FA-BF6E-D9B2219DB27A	9.8	https://vulners.com/githubexploit/5E6968B4-DBD6-57FA-BF6E-D9B2219DB27A	*EXPLOIT*
-    	SSV:92579	7.5	https://vulners.com/seebug/SSV:92579	*EXPLOIT*
-    	PACKETSTORM:173661	7.5	https://vulners.com/packetstorm/PACKETSTORM:173661	*EXPLOIT*
-    	F0979183-AE88-53B4-86CF-3AF0523F3807	7.5	https://vulners.com/githubexploit/F0979183-AE88-53B4-86CF-3AF0523F3807	*EXPLOIT*
-    	1337DAY-ID-26576	7.5	https://vulners.com/zdt/1337DAY-ID-26576	*EXPLOIT*
-    	CVE-2021-28041	7.1	https://vulners.com/cve/CVE-2021-28041
-    	CVE-2021-41617	7.0	https://vulners.com/cve/CVE-2021-41617
-    	CVE-2023-51385	6.5	https://vulners.com/cve/CVE-2023-51385
-    	CVE-2023-48795	5.9	https://vulners.com/cve/CVE-2023-48795
-    	CVE-2020-14145	5.9	https://vulners.com/cve/CVE-2020-14145
-    	CVE-2016-20012	5.3	https://vulners.com/cve/CVE-2016-20012
-    	PACKETSTORM:140261	0.0	https://vulners.com/packetstorm/PACKETSTORM:140261	*EXPLOIT*</pre>
-</td></tr>
-<tr class="success">
 <td title="Port">80</td>
 <td title="Protocol">tcp</td>
 <td title="State / Reason">open<br>syn-ack</td>
 <td title="Service">http</td>
-<td title="Product">nginx</td>
-<td title="Version">1.23.4</td>
+<td title="Product"></td>
+<td title="Version"></td>
 <td title="Extra Info"></td>
 </tr>
 <tr><td colspan="7">
-<a href="https://nvd.nist.gov/vuln/search/results?form_type=Advanced&amp;cves=on&amp;cpe_version=cpe:/a:igor_sysoev:nginx:1.23.4">cpe:/a:igor_sysoev:nginx:1.23.4</a><h5>http-server-header</h5>
-<pre style="white-space:pre-wrap; word-wrap:break-word;">nginx/1.23.4</pre>
+<a href="https://nvd.nist.gov/vuln/search/results?form_type=Advanced&amp;cves=on&amp;cpe_version="></a><h5>fingerprint-strings</h5>
+<pre style="white-space:pre-wrap; word-wrap:break-word;">
+  GetRequest, HTTPOptions: 
+    HTTP/1.1 404 Not Found
+    Date: Sun, 15 Sep 2024 08:58:58 GMT
+    Content-Type: text/html
+    Content-Length: 15436
+    Connection: close
+    Content-Encoding: identity
+    &lt;!DOCTYPE html&gt;&lt;html&gt;&lt;head&gt;&lt;meta http-equiv="content-type" content="text/html; charset=UTF-8"&gt;&lt;meta charset="utf-8"&gt;&lt;meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible"&gt;&lt;meta content="width=device-width, initial-scale=1.0" name="viewport"&gt;&lt;title&gt;Application doesn't exist - Scalingo&lt;/title&gt;&lt;style&gt;html { height: 100%;}body { -webkit-transform-style: preserve-3d; transform-style: preserve-3d; text-align: center; height: 100%; margin: 0; padding: 0; background: -webkit-gradient(linear, left top, left bottom, from(#1864ab), to(#099ec9)) left top/100% 100% no-repeat #1864ab; background: linear-gradient(to bottom, #1864ab, #099ec9) left top/100% 100% no-repeat #1864ab; color: white;}#wrapper { position: relative; top: 40%; -webkit</pre>
 </td></tr>
 <tr class="success">
 <td title="Port">443</td>
 <td title="Protocol">tcp</td>
 <td title="State / Reason">open<br>syn-ack</td>
-<td title="Service">http</td>
-<td title="Product">nginx</td>
-<td title="Version">1.23.4</td>
+<td title="Service">https</td>
+<td title="Product"></td>
+<td title="Version"></td>
 <td title="Extra Info"></td>
 </tr>
 <tr><td colspan="7">
-<a href="https://nvd.nist.gov/vuln/search/results?form_type=Advanced&amp;cves=on&amp;cpe_version=cpe:/a:igor_sysoev:nginx:1.23.4">cpe:/a:igor_sysoev:nginx:1.23.4</a><h5>http-server-header</h5>
-<pre style="white-space:pre-wrap; word-wrap:break-word;">nginx/1.23.4</pre>
+<a href="https://nvd.nist.gov/vuln/search/results?form_type=Advanced&amp;cves=on&amp;cpe_version="></a><h5>fingerprint-strings</h5>
+<pre style="white-space:pre-wrap; word-wrap:break-word;">
+  GetRequest: 
+    HTTP/1.1 404 Not Found
+    Date: Sun, 15 Sep 2024 08:59:04 GMT
+    Content-Type: text/html
+    Content-Length: 15436
+    Connection: close
+    Content-Encoding: identity
+    &lt;!DOCTYPE html&gt;&lt;html&gt;&lt;head&gt;&lt;meta http-equiv="content-type" content="text/html; charset=UTF-8"&gt;&lt;meta charset="utf-8"&gt;&lt;meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible"&gt;&lt;meta content="width=device-width, initial-scale=1.0" name="viewport"&gt;&lt;title&gt;Application doesn't exist - Scalingo&lt;/title&gt;&lt;style&gt;html { height: 100%;}body { -webkit-transform-style: preserve-3d; transform-style: preserve-3d; text-align: center; height: 100%; margin: 0; padding: 0; background: -webkit-gradient(linear, left top, left bottom, from(#1864ab), to(#099ec9)) left top/100% 100% no-repeat #1864ab; background: linear-gradient(to bottom, #1864ab, #099ec9) left top/100% 100% no-repeat #1864ab; color: white;}#wrapper { position: relative; top: 40%; -webkit
+  HTTPOptions: 
+    HTTP/1.1 404 Not Found
+    Date: Sun, 15 Sep 2024 08:59:05 GMT
+    Content-Type: text/html
+    Content-Length: 15436
+    Connection: close
+    Content-Encoding: identity
+    &lt;!DOCTYPE html&gt;&lt;html&gt;&lt;head&gt;&lt;meta http-equiv="content-type" content="text/html; charset=UTF-8"&gt;&lt;meta charset="utf-8"&gt;&lt;meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible"&gt;&lt;meta content="width=device-width, initial-scale=1.0" name="viewport"&gt;&lt;title&gt;Application doesn't exist - Scalingo&lt;/title&gt;&lt;style&gt;html { height: 100%;}body { -webkit-transform-style: preserve-3d; transform-style: preserve-3d; text-align: center; height: 100%; margin: 0; padding: 0; background: -webkit-gradient(linear, left top, left bottom, from(#1864ab), to(#099ec9)) left top/100% 100% no-repeat #1864ab; background: linear-gradient(to bottom, #1864ab, #099ec9) left top/100% 100% no-repeat #1864ab; color: white;}#wrapper { position: relative; top: 40%; -webkit</pre>
 </td></tr>
 </tbody>
 </table></div>
@@ -184,33 +178,23 @@
 </tr></thead>
 <tbody>
 <tr>
-<td>162.19.30.139 - mes-adresses.data.gouv.fr</td>
-<td>22</td>
-<td>tcp</td>
-<td>ssh</td>
-<td>OpenSSH</td>
-<td>8.4p1 Debian 5+deb11u3</td>
-<td>cpe:/a:openbsd:openssh:8.4p1</td>
-<td>protocol 2.0</td>
-</tr>
-<tr>
-<td>162.19.30.139 - mes-adresses.data.gouv.fr</td>
+<td>80.247.12.255 - mes-adresses.data.gouv.fr</td>
 <td>80</td>
 <td>tcp</td>
 <td>http</td>
-<td>nginx</td>
-<td>1.23.4</td>
-<td>cpe:/a:igor_sysoev:nginx:1.23.4</td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr>
-<td>162.19.30.139 - mes-adresses.data.gouv.fr</td>
+<td>80.247.12.255 - mes-adresses.data.gouv.fr</td>
 <td>443</td>
 <td>tcp</td>
-<td>http</td>
-<td>nginx</td>
-<td>1.23.4</td>
-<td>cpe:/a:igor_sysoev:nginx:1.23.4</td>
+<td>https</td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 </tbody>
