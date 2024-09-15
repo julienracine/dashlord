@@ -42,7 +42,7 @@
     },
     {
       "type": "unknown",
-      "url": "https://sentry.passculture.team/api/2/envelope/?sentry_key=50f5694849704813b4154c5868b73365&sentry_version=7&sentry_client=sentry.javascript.browser%2F8.27.0"
+      "url": "https://sentry.passculture.team/api/2/envelope/?sentry_key=50f5694849704813b4154c5868b73365&sentry_version=7&sentry_client=sentry.javascript.browser%2F8.28.0"
     },
     {
       "type": "google",
@@ -62,7 +62,7 @@
     },
     {
       "type": "google",
-      "url": "https://www.google.com/recaptcha/api2/anchor?ar=1&k=6LdQAK0ZAAAAABAW9T4lfAtxrJp9DtnPYIZ7Qd7p&co=aHR0cHM6Ly9wYXNzY3VsdHVyZS5wcm86NDQz&hl=en&v=EGbODne6buzpTnWrrBprcfAY&size=invisible&cb=hsb78ac0xkp9",
+      "url": "https://www.google.com/recaptcha/api2/anchor?ar=1&k=6LdQAK0ZAAAAABAW9T4lfAtxrJp9DtnPYIZ7Qd7p&co=aHR0cHM6Ly9wYXNzY3VsdHVyZS5wcm86NDQz&hl=en&v=EGbODne6buzpTnWrrBprcfAY&size=invisible&cb=7i7lremw5hcu",
       "details": {
         "id": "google",
         "message": "Use hosted Matomo instance"
@@ -86,7 +86,7 @@
     },
     {
       "type": "google",
-      "url": "https://www.google.com/js/bg/LdkrfvGznG7C1HMIvZeXpqeQHj2pK-25iJPmRAnKECo.js",
+      "url": "https://www.google.com/js/bg/KuonJpl7yUD78DjwC5ar9PHtNDn7SQ8Czqum3EZ6J2k.js",
       "details": {
         "id": "google",
         "message": "Use hosted Matomo instance"
@@ -150,16 +150,16 @@
     "content-length": "609",
     "content-security-policy-report-only": "style-src 'self' https://app.getbeamer.com 'unsafe-inline'; img-src 'self' blob: data: https://*.getbeamer.com https://storage.googleapis.com https://www.googletagmanager.com; object-src 'none'; frame-src https://*.getbeamer.com https://www.google.com https://data-analytics.passculture.team; script-src 'self' 'nonce-recaptcha' https://www.gstatic.com https://*.getbeamer.com https://*.hotjar.com https://www.googletagmanager.com https://firebaseinstallations.googleapis.com https://firebaseremoteconfig.googleapis.com https://api-adresse.data.gouv.fr https://*.hotjar.io; connect-src 'self' https://*.algolianet.com https://www.googletagmanager.com https://www.google-analytics.com wss://ws.hotjar.com https://*.hotjar.com https://*.hotjar.io https://api-adresse.data.gouv.fr https://storage.googleapis.com https://backend.getbeamer.com https://firebaseremoteconfig.googleapis.com https://firebase.googleapis.com https://firebaseinstallations.googleapis.com https://sentry.passculture.team https://backend.integration.passculture.pro https://backend.testing.passculture.team https://backend.staging.passculture.team https://backend.passculture.pro https://region1.google-analytics.com https://*.algolia.net https://insights.algolia.io; base-uri; report-uri https://sentry.passculture.team/api/2/security/?sentry_key=50f5694849704813b4154c5868b73365;",
     "content-type": "text/html; charset=utf-8",
-    "date": "Sun, 08 Sep 2024 05:35:19 GMT",
-    "etag": "\"bf08cec34fba1fd5ff65b91799d2d0a99b0b80b322501773dbe2aa0323d17be2-br\"",
-    "last-modified": "Wed, 04 Sep 2024 15:39:04 GMT",
+    "date": "Sun, 15 Sep 2024 05:46:30 GMT",
+    "etag": "\"de3f8f77015cd0415df78311e4e1e4caa631a4d83a8194582b21693e2289a70b-br\"",
+    "last-modified": "Thu, 12 Sep 2024 15:46:32 GMT",
     "strict-transport-security": "max-age=31556926; includeSubDomains; preload",
     "vary": "x-fh-requested-host, accept-encoding",
     "via": "1.1 google",
     "x-cache": "HIT",
     "x-cache-hits": "1",
-    "x-served-by": "cache-iad-kcgs7200110-IAD",
-    "x-timer": "S1725773719.290071,VS0,VE1"
+    "x-served-by": "cache-chi-kigq8000170-CHI",
+    "x-timer": "S1726379191.959301,VS0,VE4"
   },
   "endpoints": [
     {
@@ -250,7 +250,7 @@
     },
     {
       "hostname": "fonts.gstatic.com",
-      "ip": "172.253.115.94",
+      "ip": "142.250.191.195",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -390,7 +390,7 @@
     },
     {
       "hostname": "www.google.com",
-      "ip": "172.253.122.104",
+      "ip": "172.217.2.36",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -444,7 +444,7 @@
     },
     {
       "hostname": "www.gstatic.com",
-      "ip": "142.251.167.94",
+      "ip": "172.217.5.3",
       "geoip": {
         "continent": {
           "code": "NA",
