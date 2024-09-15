@@ -69,10 +69,6 @@
       }
     },
     {
-      "type": "unknown",
-      "url": "https://cdn.contentful.com/spaces/2bg01iqy0isv/environments/master/entries?include=3&content_type=homepageNatif&access_token=oqkcaGmPpBLYASc-Tl2yTC1Jg6sK5_LviP0yrmUG8ug"
-    },
-    {
       "type": "google",
       "url": "https://firebaseinstallations.googleapis.com/v1/projects/passculture-native/installations",
       "details": {
@@ -87,6 +83,10 @@
         "id": "google",
         "message": "Use hosted Matomo instance"
       }
+    },
+    {
+      "type": "unknown",
+      "url": "https://cdn.contentful.com/spaces/2bg01iqy0isv/environments/master/entries?include=3&content_type=homepageNatif&access_token=oqkcaGmPpBLYASc-Tl2yTC1Jg6sK5_LviP0yrmUG8ug"
     },
     {
       "type": "google",
@@ -106,15 +106,7 @@
     },
     {
       "type": "google",
-      "url": "https://firebaseremoteconfig.googleapis.com/v1/projects/passculture-native/namespaces/firebase:fetch?key=AIzaSyA-SYp01R2ikq_y116N5wew5vcwy36NFrk",
-      "details": {
-        "id": "google",
-        "message": "Use hosted Matomo instance"
-      }
-    },
-    {
-      "type": "google",
-      "url": "https://firestore.googleapis.com/google.firestore.v1.Firestore/Listen/channel?database=projects%2Fpassculture-native%2Fdatabases%2F(default)&VER=8&RID=56216&CVER=22&X-HTTP-Session-Id=gsessionid&%24httpHeaders=X-Goog-Api-Client%3Agl-js%2F%20fire%2F9.6.11%0D%0AContent-Type%3Atext%2Fplain%0D%0AX-Firebase-GMPID%3A1%3A605788939445%3Aweb%3Abb7dbdae56cd6eed29cafc%0D%0A&zx=tplq9p7e4c3q&t=1",
+      "url": "https://firestore.googleapis.com/google.firestore.v1.Firestore/Listen/channel?database=projects%2Fpassculture-native%2Fdatabases%2F(default)&VER=8&RID=74018&CVER=22&X-HTTP-Session-Id=gsessionid&%24httpHeaders=X-Goog-Api-Client%3Agl-js%2F%20fire%2F9.6.11%0D%0AContent-Type%3Atext%2Fplain%0D%0AX-Firebase-GMPID%3A1%3A605788939445%3Aweb%3Abb7dbdae56cd6eed29cafc%0D%0A&zx=d9o75frzdyt0&t=1",
       "details": {
         "id": "google",
         "message": "Use hosted Matomo instance"
@@ -130,7 +122,7 @@
     },
     {
       "type": "google",
-      "url": "https://firestore.googleapis.com/google.firestore.v1.Firestore/Listen/channel?database=projects%2Fpassculture-native%2Fdatabases%2F(default)&gsessionid=4oZU8nMq-af6ZiLhIk2PpZawtvy-qvmFjCqr0s-YJ_k&VER=8&RID=rpc&SID=AGYDzNZ4Jhd1_R6N9K8kwA&CI=0&AID=0&TYPE=xmlhttp&zx=jmghapk24i8e&t=1",
+      "url": "https://firebaseremoteconfig.googleapis.com/v1/projects/passculture-native/namespaces/firebase:fetch?key=AIzaSyA-SYp01R2ikq_y116N5wew5vcwy36NFrk",
       "details": {
         "id": "google",
         "message": "Use hosted Matomo instance"
@@ -138,7 +130,15 @@
     },
     {
       "type": "google",
-      "url": "https://firestore.googleapis.com/google.firestore.v1.Firestore/Listen/channel?database=projects%2Fpassculture-native%2Fdatabases%2F(default)&VER=8&gsessionid=4oZU8nMq-af6ZiLhIk2PpZawtvy-qvmFjCqr0s-YJ_k&SID=AGYDzNZ4Jhd1_R6N9K8kwA&RID=56217&AID=4&zx=rvgkr4ld9jnx&t=1",
+      "url": "https://firestore.googleapis.com/google.firestore.v1.Firestore/Listen/channel?database=projects%2Fpassculture-native%2Fdatabases%2F(default)&gsessionid=ndn8uzHJ_NbhFpRweaII0ZhxH8jnaovK2jCpT8e2KLM&VER=8&RID=rpc&SID=L4SbzXs-Uz1_Z_6xAKZLOA&CI=0&AID=0&TYPE=xmlhttp&zx=d6d5e6n76f7q&t=1",
+      "details": {
+        "id": "google",
+        "message": "Use hosted Matomo instance"
+      }
+    },
+    {
+      "type": "google",
+      "url": "https://firestore.googleapis.com/google.firestore.v1.Firestore/Listen/channel?database=projects%2Fpassculture-native%2Fdatabases%2F(default)&VER=8&gsessionid=ndn8uzHJ_NbhFpRweaII0ZhxH8jnaovK2jCpT8e2KLM&SID=L4SbzXs-Uz1_Z_6xAKZLOA&RID=74019&AID=4&zx=3a5776b112n0&t=1",
       "details": {
         "id": "google",
         "message": "Use hosted Matomo instance"
@@ -147,27 +147,27 @@
   ],
   "cookies": [],
   "headers": {
-    "age": "2433",
+    "age": "1856",
     "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000\nh3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
     "cache-control": "public, max-age=3600",
     "content-encoding": "gzip",
-    "content-length": "8224",
+    "content-length": "8222",
     "content-type": "text/html",
-    "date": "Sun, 08 Sep 2024 05:23:53 GMT",
+    "date": "Sun, 15 Sep 2024 05:12:02 GMT",
     "etag": "W/\"7019d8f90cd04a0567049cc74cda17ee\"",
-    "expires": "Sun, 08 Sep 2024 05:43:20 GMT",
+    "expires": "Sun, 15 Sep 2024 05:59:14 GMT",
     "last-modified": "Wed, 04 Sep 2024 12:36:38 GMT",
     "server": "Google Frontend",
     "vary": "Accept-Encoding",
     "via": "1.1 google",
-    "x-cloud-trace-context": "953f460075505d16f94469da78c0535e",
+    "x-cloud-trace-context": "5aac8d99695e71d73fbcf47ad5430c22",
     "x-goog-generation": "1725453398098031",
     "x-goog-hash": "crc32c=1dGu3A==, md5=cBnY+QzQSgVnBJzHTNoX7g==",
     "x-goog-metageneration": "1",
     "x-goog-storage-class": "STANDARD",
     "x-goog-stored-content-encoding": "identity",
     "x-goog-stored-content-length": "21460",
-    "x-guploader-uploadid": "AD-8ljuBnWn5iv_IZLQOWEEaeA1pgXW-r9iiC99MIDT2J4bigVPu7f9HlRvT-dMeKY-vkpxRcjGLw5_NYA",
+    "x-guploader-uploadid": "AD-8ljtlVtBhxUSq2wn_CuhhyHJXnDg6GbGeb8w0IKOnYuEerVoVz7fXFmeTpJji0FpRX60EwdQ",
     "x-powered-by": "Express"
   },
   "endpoints": [
@@ -259,7 +259,7 @@
     },
     {
       "hostname": "websdk.appsflyer.com",
-      "ip": "18.160.10.126",
+      "ip": "18.160.10.75",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -313,7 +313,7 @@
     },
     {
       "hostname": "firebase.googleapis.com",
-      "ip": "142.250.31.95",
+      "ip": "64.233.180.95",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -367,7 +367,7 @@
     },
     {
       "hostname": "fonts.gstatic.com",
-      "ip": "142.251.179.94",
+      "ip": "172.253.62.94",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -421,19 +421,18 @@
     },
     {
       "hostname": "cdn.contentful.com",
-      "ip": "146.75.38.49",
+      "ip": "199.232.90.49",
       "geoip": {
         "city": {
-          "geoname_id": 4744870,
+          "geoname_id": 5101798,
           "names": {
-            "de": "Ashburn",
-            "en": "Ashburn",
-            "es": "Ashburn",
-            "fr": "Ashburn",
-            "ja": "アッシュバーン",
-            "pt-BR": "Ashburn",
-            "ru": "Ашберн",
-            "zh-CN": "阿什本"
+            "de": "Newark",
+            "en": "Newark",
+            "es": "Newark",
+            "fr": "Newark",
+            "ja": "ニューアーク",
+            "pt-BR": "Newark",
+            "ru": "Ньюарк"
           }
         },
         "continent": {
@@ -466,13 +465,13 @@
         },
         "location": {
           "accuracy_radius": 20,
-          "latitude": 39.0469,
-          "longitude": -77.4903,
-          "metro_code": 511,
+          "latitude": 40.738,
+          "longitude": -74.1634,
+          "metro_code": 501,
           "time_zone": "America/New_York"
         },
         "postal": {
-          "code": "20149"
+          "code": "07193"
         },
         "registered_country": {
           "geoname_id": 6252001,
@@ -490,17 +489,17 @@
         },
         "subdivisions": [
           {
-            "geoname_id": 6254928,
-            "iso_code": "VA",
+            "geoname_id": 5101760,
+            "iso_code": "NJ",
             "names": {
-              "de": "Virginia",
-              "en": "Virginia",
-              "es": "Virginia",
-              "fr": "Virginie",
-              "ja": "バージニア州",
-              "pt-BR": "Virgínia",
-              "ru": "Вирджиния",
-              "zh-CN": "弗吉尼亚州"
+              "de": "New Jersey",
+              "en": "New Jersey",
+              "es": "Nueva Jersey",
+              "fr": "New Jersey",
+              "ja": "ニュージャージー州",
+              "pt-BR": "Nova Jérsei",
+              "ru": "Нью-Джерси",
+              "zh-CN": "新泽西州"
             }
           }
         ]
@@ -594,7 +593,7 @@
     },
     {
       "hostname": "firebaseinstallations.googleapis.com",
-      "ip": "142.251.111.95",
+      "ip": "142.250.31.95",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -648,61 +647,7 @@
     },
     {
       "hostname": "www.googletagmanager.com",
-      "ip": "142.251.16.97",
-      "geoip": {
-        "continent": {
-          "code": "NA",
-          "geoname_id": 6255149,
-          "names": {
-            "de": "Nordamerika",
-            "en": "North America",
-            "es": "Norteamérica",
-            "fr": "Amérique du Nord",
-            "ja": "北アメリカ",
-            "pt-BR": "América do Norte",
-            "ru": "Северная Америка",
-            "zh-CN": "北美洲"
-          }
-        },
-        "country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
-          "names": {
-            "de": "USA",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
-          }
-        },
-        "location": {
-          "accuracy_radius": 1000,
-          "latitude": 37.751,
-          "longitude": -97.822,
-          "time_zone": "America/Chicago"
-        },
-        "registered_country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
-          "names": {
-            "de": "USA",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
-          }
-        }
-      }
-    },
-    {
-      "hostname": "firebaseremoteconfig.googleapis.com",
-      "ip": "142.251.111.95",
+      "ip": "172.253.63.97",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -756,7 +701,61 @@
     },
     {
       "hostname": "firestore.googleapis.com",
-      "ip": "142.251.179.95",
+      "ip": "142.251.167.95",
+      "geoip": {
+        "continent": {
+          "code": "NA",
+          "geoname_id": 6255149,
+          "names": {
+            "de": "Nordamerika",
+            "en": "North America",
+            "es": "Norteamérica",
+            "fr": "Amérique du Nord",
+            "ja": "北アメリカ",
+            "pt-BR": "América do Norte",
+            "ru": "Северная Америка",
+            "zh-CN": "北美洲"
+          }
+        },
+        "country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "USA",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        },
+        "location": {
+          "accuracy_radius": 1000,
+          "latitude": 37.751,
+          "longitude": -97.822,
+          "time_zone": "America/Chicago"
+        },
+        "registered_country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "USA",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        }
+      }
+    },
+    {
+      "hostname": "firebaseremoteconfig.googleapis.com",
+      "ip": "142.251.16.95",
       "geoip": {
         "continent": {
           "code": "NA",
