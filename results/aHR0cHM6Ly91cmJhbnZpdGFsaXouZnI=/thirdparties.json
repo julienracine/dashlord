@@ -1,10 +1,6 @@
 {
   "trackers": [
     {
-      "type": "unknown",
-      "url": "https://browser.sentry-cdn.com/6.19.4/bundle.min.js"
-    },
-    {
       "type": "jsdelivr",
       "url": "https://cdn.jsdelivr.net/npm/js-cookie@3.0.1/dist/js.cookie.min.js",
       "details": {
@@ -18,7 +14,7 @@
     },
     {
       "type": "unknown",
-      "url": "https://stats.recoconseil.fr/matomo.php?action_name=R%C3%A9habiliter%20une%20friche%20-%20UrbanVitaliz&idsite=2&rec=1&r=095662&h=13&m=7&s=42&url=https%3A%2F%2Furbanvitaliz.fr%2F&_id=01a1155ba4d8098c&_idn=1&send_image=0&_refts=0&pv_id=jzADCb&pf_net=225&pf_srv=139&pf_tfr=103&pf_dm1=883&uadata=%7B%22fullVersionList%22%3A%5B%5D%2C%22mobile%22%3Afalse%2C%22model%22%3A%22%22%2C%22platform%22%3A%22%22%2C%22platformVersion%22%3A%22%22%7D&cookie=1&res=800x600"
+      "url": "https://stats.recoconseil.fr/matomo.php?action_name=R%C3%A9habiliter%20une%20friche%20-%20UrbanVitaliz&idsite=2&rec=1&r=848663&h=12&m=55&s=51&url=https%3A%2F%2Furbanvitaliz.fr%2F&_id=12797fc1a4a203a9&_idn=1&send_image=0&_refts=0&pv_id=CPhAvw&pf_net=179&pf_srv=120&pf_tfr=82&pf_dm1=882&uadata=%7B%22fullVersionList%22%3A%5B%5D%2C%22mobile%22%3Afalse%2C%22model%22%3A%22%22%2C%22platform%22%3A%22%22%2C%22platformVersion%22%3A%22%22%7D&cookie=1&res=800x600"
     }
   ],
   "cookies": [
@@ -27,7 +23,7 @@
       "value": "1",
       "domain": "urbanvitaliz.fr",
       "path": "/",
-      "expires": 1725802662,
+      "expires": 1726406751,
       "size": 15,
       "httpOnly": false,
       "secure": false,
@@ -39,10 +35,10 @@
     },
     {
       "name": "_pk_id.2.30f1",
-      "value": "01a1155ba4d8098c.1725800862.",
+      "value": "12797fc1a4a203a9.1726404952.",
       "domain": "urbanvitaliz.fr",
       "path": "/",
-      "expires": 1759756062,
+      "expires": 1760360152,
       "size": 41,
       "httpOnly": false,
       "secure": false,
@@ -54,10 +50,10 @@
     },
     {
       "name": "csrftoken",
-      "value": "JCvGSe2Yl0zoFGgxVj8KDpMEXNzNjTcM",
+      "value": "8j8XPHxkWrFzNVUKhnVkfrHh7eHi442T",
       "domain": "urbanvitaliz.fr",
       "path": "/",
-      "expires": 1757250461.035937,
+      "expires": 1757854550.673567,
       "size": 41,
       "httpOnly": false,
       "secure": true,
@@ -69,12 +65,12 @@
     }
   ],
   "headers": {
-    "content-length": "37959",
+    "content-length": "37552",
     "content-type": "text/html; charset=utf-8",
     "cross-origin-opener-policy": "same-origin",
-    "date": "Sun, 08 Sep 2024 13:07:40 GMT",
+    "date": "Sun, 15 Sep 2024 12:55:50 GMT",
     "referrer-policy": "same-origin",
-    "set-cookie": "csrftoken=JCvGSe2Yl0zoFGgxVj8KDpMEXNzNjTcM; expires=Sun, 07 Sep 2025 13:07:40 GMT; Max-Age=31449600; Path=/; SameSite=None; Secure",
+    "set-cookie": "csrftoken=8j8XPHxkWrFzNVUKhnVkfrHh7eHi442T; expires=Sun, 14 Sep 2025 12:55:50 GMT; Max-Age=31449600; Path=/; SameSite=None; Secure",
     "strict-transport-security": "max-age=31536000; includeSubDomains",
     "vary": "Cookie",
     "via": "2.0 alproxy",
@@ -139,20 +135,20 @@
       }
     },
     {
-      "hostname": "browser.sentry-cdn.com",
-      "ip": "151.101.66.217",
+      "hostname": "cdn.jsdelivr.net",
+      "ip": "146.75.37.229",
       "geoip": {
         "city": {
-          "geoname_id": 5391959,
+          "geoname_id": 4744870,
           "names": {
-            "de": "San Francisco",
-            "en": "San Francisco",
-            "es": "San Francisco",
-            "fr": "San Francisco",
-            "ja": "サンフランシスコ",
-            "pt-BR": "São Francisco",
-            "ru": "Сан-Франциско",
-            "zh-CN": "旧金山"
+            "de": "Ashburn",
+            "en": "Ashburn",
+            "es": "Ashburn",
+            "fr": "Ashburn",
+            "ja": "アッシュバーン",
+            "pt-BR": "Ashburn",
+            "ru": "Ашберн",
+            "zh-CN": "阿什本"
           }
         },
         "continent": {
@@ -184,14 +180,14 @@
           }
         },
         "location": {
-          "accuracy_radius": 1000,
-          "latitude": 37.7642,
-          "longitude": -122.3993,
-          "metro_code": 807,
-          "time_zone": "America/Los_Angeles"
+          "accuracy_radius": 20,
+          "latitude": 39.0469,
+          "longitude": -77.4903,
+          "metro_code": 511,
+          "time_zone": "America/New_York"
         },
         "postal": {
-          "code": "94107"
+          "code": "20149"
         },
         "registered_country": {
           "geoname_id": 6252001,
@@ -209,40 +205,20 @@
         },
         "subdivisions": [
           {
-            "geoname_id": 5332921,
-            "iso_code": "CA",
+            "geoname_id": 6254928,
+            "iso_code": "VA",
             "names": {
-              "de": "Kalifornien",
-              "en": "California",
-              "es": "California",
-              "fr": "Californie",
-              "ja": "カリフォルニア州",
-              "pt-BR": "Califórnia",
-              "ru": "Калифорния",
-              "zh-CN": "加州"
+              "de": "Virginia",
+              "en": "Virginia",
+              "es": "Virginia",
+              "fr": "Virginie",
+              "ja": "バージニア州",
+              "pt-BR": "Virgínia",
+              "ru": "Вирджиния",
+              "zh-CN": "弗吉尼亚州"
             }
           }
         ]
-      }
-    },
-    {
-      "hostname": "cdn.jsdelivr.net",
-      "ip": "104.18.186.31",
-      "geoip": {
-        "registered_country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
-          "names": {
-            "de": "USA",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
-          }
-        }
       }
     },
     {
