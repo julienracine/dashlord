@@ -6,7 +6,7 @@
       "value": "1",
       "domain": "mission-transition-ecologique.beta.gouv.fr",
       "path": "/",
-      "expires": 1725777149,
+      "expires": 1726382653,
       "size": 16,
       "httpOnly": false,
       "secure": false,
@@ -18,10 +18,10 @@
     },
     {
       "name": "_pk_id.23.0a23",
-      "value": "b7d5fa1ef222ce74.1725775350.",
+      "value": "7aa0f417ab3bab93.1726380853.",
       "domain": "mission-transition-ecologique.beta.gouv.fr",
       "path": "/",
-      "expires": 1759471350,
+      "expires": 1760076853,
       "size": 42,
       "httpOnly": false,
       "secure": false,
@@ -38,13 +38,13 @@
     "content-encoding": "gzip",
     "content-security-policy": "script-src 'self'; default-src 'none';base-uri 'self';form-action 'self';script-src-elem 'self' 'unsafe-inline' https://stats.beta.gouv.fr  https://embed.typeform.com;style-src 'self' 'unsafe-inline' https://embed.typeform.com;font-src 'self';img-src 'self' data:;object-src 'self';connect-src 'self' https://conseillers-entreprises.service-public.fr https://stats.beta.gouv.fr https://sentry.incubateur.net https://embed.typeform.com https://api.typeform.com;worker-src 'self' blob:;frame-src 'self' https://conseillers-entreprises.service-public.fr https://form.typeform.com;frame-ancestors 'self' https://conseillers-entreprises.service-public.fr;",
     "content-type": "text/html",
-    "date": "Sun, 08 Sep 2024 06:02:28 GMT",
-    "etag": "W/\"90f-I/TNXasSp5EiJVVQi09VZ8+CiaQ\"",
+    "date": "Sun, 15 Sep 2024 06:14:11 GMT",
+    "etag": "W/\"90f-7mUALJ7se3Lr3n2EukaVmVUZyNQ\"",
     "expect-ct": "default-src 'self' https://sentry.incubateur.net;report-uri https://sentry.incubateur.net/api/137/security/?sentry_key=caf416235f164b448d0ca6369f2053e5;",
     "strict-transport-security": "max-age=31536000",
     "x-content-type-options": "nosniff",
     "x-frame-options": "ALLOW-FROM https://conseillers-entreprises.service-public.fr",
-    "x-request-id": "e74728a4-f2cc-434e-bc8a-076c00aeaf54"
+    "x-request-id": "8db1a55f-2bf1-424f-8f0a-911af78a1d48"
   },
   "endpoints": [
     {
