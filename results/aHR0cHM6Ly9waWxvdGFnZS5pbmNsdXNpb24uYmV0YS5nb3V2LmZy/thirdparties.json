@@ -50,15 +50,15 @@
     },
     {
       "type": "unknown",
-      "url": "https://cdn.livestorm.co/dist/js/chunk-style.0f433d87.js"
+      "url": "https://cdn.livestorm.co/dist/js/chunk-style.ae24af0c.js"
     },
     {
       "type": "unknown",
-      "url": "https://cdn.livestorm.co/dist/js/chunk-vendors.dcab36dd.js"
+      "url": "https://cdn.livestorm.co/dist/js/chunk-vendors.53a8a79a.js"
     },
     {
       "type": "unknown",
-      "url": "https://cdn.livestorm.co/dist/js/chunk-vendors-group-registration.8cb39f08.js"
+      "url": "https://cdn.livestorm.co/dist/js/chunk-vendors-group-registration.a9226be9.js"
     },
     {
       "type": "unknown",
@@ -66,19 +66,35 @@
     },
     {
       "type": "unknown",
-      "url": "https://cdn.livestorm.co/dist/js/chunk-common.6fb3302b.js"
+      "url": "https://cdn.livestorm.co/dist/js/chunk-common.b5327cba.js"
     },
     {
       "type": "unknown",
-      "url": "https://cdn.livestorm.co/dist/js/runtime-company.ba5587e1.js"
+      "url": "https://cdn.livestorm.co/dist/js/runtime-company.fee2be6d.js"
     },
     {
       "type": "unknown",
-      "url": "https://cdn.livestorm.co/dist/js/company.d80721b3.js"
+      "url": "https://cdn.livestorm.co/dist/js/company.a4e60037.js"
     },
     {
       "type": "google fonts",
       "url": "https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap",
+      "details": {
+        "id": "google fonts",
+        "message": "Host the font locally with https://github.com/neverpanic/google-font-download or https://google-webfonts-helper.herokuapp.com/"
+      }
+    },
+    {
+      "type": "unknown",
+      "url": "https://cdn.livestorm.co/uploads/identity/avatar/dee08c8c-640f-47e6-8bd3-f97bf8cb16bb/size_120x120_c082d650-c84a-44a3-be09-235de589a40c.jpg?v=1709284339"
+    },
+    {
+      "type": "unknown",
+      "url": "https://cdn.livestorm.co/dist/img/chevron-down-dark.8668fd32.svg"
+    },
+    {
+      "type": "google fonts",
+      "url": "https://fonts.gstatic.com/s/inter/v18/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1ZL7.woff2",
       "details": {
         "id": "google fonts",
         "message": "Host the font locally with https://github.com/neverpanic/google-font-download or https://google-webfonts-helper.herokuapp.com/"
@@ -91,22 +107,6 @@
     {
       "type": "unknown",
       "url": "https://cdn.livestorm.co/dist/js/chunk-locale-en.a57c10b3.js"
-    },
-    {
-      "type": "unknown",
-      "url": "https://cdn.livestorm.co/dist/img/chevron-down-dark.8668fd32.svg"
-    },
-    {
-      "type": "unknown",
-      "url": "https://cdn.livestorm.co/uploads/identity/avatar/dee08c8c-640f-47e6-8bd3-f97bf8cb16bb/size_120x120_c082d650-c84a-44a3-be09-235de589a40c.jpg?v=1709284339"
-    },
-    {
-      "type": "google fonts",
-      "url": "https://fonts.gstatic.com/s/inter/v18/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1ZL7.woff2",
-      "details": {
-        "id": "google fonts",
-        "message": "Host the font locally with https://github.com/neverpanic/google-font-download or https://google-webfonts-helper.herokuapp.com/"
-      }
     },
     {
       "type": "google fonts",
@@ -148,10 +148,10 @@
   "cookies": [
     {
       "name": "csrftoken",
-      "value": "hIKn6ebaYqUGLx8Cf5af38zFWsQaSyUg",
+      "value": "xeRq2qnuQofc9baqVz6uyT1piYtq54Hf",
       "domain": "pilotage.inclusion.beta.gouv.fr",
       "path": "/",
-      "expires": 1757223807.972119,
+      "expires": 1757829281.303062,
       "size": 41,
       "httpOnly": false,
       "secure": true,
@@ -164,13 +164,13 @@
   ],
   "headers": {
     "connection": "keep-alive",
-    "content-length": "54299",
+    "content-length": "54300",
     "content-type": "text/html; charset=utf-8",
     "cross-origin-opener-policy": "same-origin",
-    "date": "Sun, 08 Sep 2024 05:43:27 GMT",
+    "date": "Sun, 15 Sep 2024 05:54:41 GMT",
     "referrer-policy": "same-origin",
-    "set-cookie": "csrftoken=hIKn6ebaYqUGLx8Cf5af38zFWsQaSyUg; expires=Sun, 07 Sep 2025 05:43:27 GMT; Max-Age=31449600; Path=/; SameSite=Lax; Secure",
-    "sozu-id": "01J782H6JTN616S0CJR92FZPY2",
+    "set-cookie": "csrftoken=xeRq2qnuQofc9baqVz6uyT1piYtq54Hf; expires=Sun, 14 Sep 2025 05:54:41 GMT; Max-Age=31449600; Path=/; SameSite=Lax; Secure",
+    "sozu-id": "01J7T3YS86FH9XV4XDSD6QHV6C",
     "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
     "vary": "Cookie",
     "x-content-type-options": "nosniff",
@@ -179,7 +179,7 @@
   "endpoints": [
     {
       "hostname": "pilotage.inclusion.beta.gouv.fr",
-      "ip": "91.208.207.217",
+      "ip": "91.208.207.221",
       "geoip": {
         "continent": {
           "code": "EU",
@@ -318,8 +318,59 @@
     },
     {
       "hostname": "cdn.jsdelivr.net",
-      "ip": "104.18.187.31",
+      "ip": "146.75.77.229",
       "geoip": {
+        "city": {
+          "geoname_id": 4887398,
+          "names": {
+            "de": "Chicago",
+            "en": "Chicago",
+            "es": "Chicago",
+            "fr": "Chicago",
+            "ja": "シカゴ",
+            "pt-BR": "Chicago",
+            "ru": "Чикаго",
+            "zh-CN": "芝加哥"
+          }
+        },
+        "continent": {
+          "code": "NA",
+          "geoname_id": 6255149,
+          "names": {
+            "de": "Nordamerika",
+            "en": "North America",
+            "es": "Norteamérica",
+            "fr": "Amérique du Nord",
+            "ja": "北アメリカ",
+            "pt-BR": "América do Norte",
+            "ru": "Северная Америка",
+            "zh-CN": "北美洲"
+          }
+        },
+        "country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "USA",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        },
+        "location": {
+          "accuracy_radius": 20,
+          "latitude": 41.8874,
+          "longitude": -87.6318,
+          "metro_code": 602,
+          "time_zone": "America/Chicago"
+        },
+        "postal": {
+          "code": "60602"
+        },
         "registered_country": {
           "geoname_id": 6252001,
           "iso_code": "US",
@@ -333,12 +384,28 @@
             "ru": "США",
             "zh-CN": "美国"
           }
-        }
+        },
+        "subdivisions": [
+          {
+            "geoname_id": 4896861,
+            "iso_code": "IL",
+            "names": {
+              "de": "Illinois",
+              "en": "Illinois",
+              "es": "Illinois",
+              "fr": "Illinois",
+              "ja": "イリノイ州",
+              "pt-BR": "Ilinóis",
+              "ru": "Иллинойс",
+              "zh-CN": "伊利诺伊州"
+            }
+          }
+        ]
       }
     },
     {
       "hostname": "fonts.googleapis.com",
-      "ip": "142.251.46.170",
+      "ip": "172.217.4.202",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -392,7 +459,7 @@
     },
     {
       "hostname": "cdn.livestorm.co",
-      "ip": "204.246.191.108",
+      "ip": "52.85.247.95",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -446,7 +513,7 @@
     },
     {
       "hostname": "fonts.gstatic.com",
-      "ip": "142.251.46.195",
+      "ip": "142.250.191.131",
       "geoip": {
         "continent": {
           "code": "NA",
