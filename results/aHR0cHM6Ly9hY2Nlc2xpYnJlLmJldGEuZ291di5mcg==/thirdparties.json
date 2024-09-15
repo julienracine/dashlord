@@ -15,7 +15,7 @@
       "value": "1",
       "domain": "acceslibre.beta.gouv.fr",
       "path": "/",
-      "expires": 1725760958,
+      "expires": 1726366329,
       "size": 15,
       "httpOnly": false,
       "secure": false,
@@ -27,10 +27,10 @@
     },
     {
       "name": "_pk_id.3.c7e8",
-      "value": "e165f20df08a1620.1725759158.",
+      "value": "ce290cd1ed7c1bbb.1726364530.",
       "domain": "acceslibre.beta.gouv.fr",
       "path": "/",
-      "expires": 1759714358,
+      "expires": 1760319730,
       "size": 41,
       "httpOnly": false,
       "secure": false,
@@ -42,10 +42,10 @@
     },
     {
       "name": "csrftoken",
-      "value": "fDo0ex6DsFvqh82C8POgn6t9wOPS8r5Y",
+      "value": "2jPmizsUtI7xKQP7ys4Qng2bBRwbz8Wr",
       "domain": "acceslibre.beta.gouv.fr",
       "path": "/",
-      "expires": 1757208756.621099,
+      "expires": 1757814128.266524,
       "size": 41,
       "httpOnly": false,
       "secure": true,
@@ -59,17 +59,17 @@
   "headers": {
     "content-encoding": "gzip",
     "content-language": "en",
-    "content-security-policy": "default-src 'self' data: *.mapbox.com *.gouv.fr *.incubateur.net acceslibre.matomo.cloud *.tile.openstreetmap.org client.crisp.chat image.crisp.chat storage.crisp.chat game.crisp.chat wss://client.relay.crisp.chat wss://stream.relay.crisp.chat *.acceslibre.info 'nonce-oyXqeRJ5wigP8GXvJ0I0Ew=='",
+    "content-security-policy": "default-src 'self' data: *.mapbox.com *.gouv.fr *.incubateur.net acceslibre.matomo.cloud *.tile.openstreetmap.org client.crisp.chat image.crisp.chat storage.crisp.chat game.crisp.chat wss://client.relay.crisp.chat wss://stream.relay.crisp.chat *.acceslibre.info 'nonce-zEVuP0b3u3ybnFN7MaFoaw=='",
     "content-type": "text/html; charset=utf-8",
     "cross-origin-opener-policy": "same-origin",
-    "date": "Sun, 08 Sep 2024 01:32:36 GMT",
+    "date": "Sun, 15 Sep 2024 01:42:08 GMT",
     "referrer-policy": "same-origin",
-    "set-cookie": "csrftoken=fDo0ex6DsFvqh82C8POgn6t9wOPS8r5Y; expires=Sun, 07 Sep 2025 01:32:36 GMT; Max-Age=31449600; Path=/; SameSite=Lax; Secure",
+    "set-cookie": "csrftoken=2jPmizsUtI7xKQP7ys4Qng2bBRwbz8Wr; expires=Sun, 14 Sep 2025 01:42:08 GMT; Max-Age=31449600; Path=/; SameSite=Lax; Secure",
     "strict-transport-security": "max-age=31536000",
     "vary": "Cookie, origin, Accept-Language",
     "x-content-type-options": "nosniff",
     "x-frame-options": "DENY",
-    "x-request-id": "4258828e-f7ff-43ac-92d9-5fb0a7f63b98"
+    "x-request-id": "47dfcd4d-7453-4a19-948b-8655c050ebe2"
   },
   "endpoints": [
     {
