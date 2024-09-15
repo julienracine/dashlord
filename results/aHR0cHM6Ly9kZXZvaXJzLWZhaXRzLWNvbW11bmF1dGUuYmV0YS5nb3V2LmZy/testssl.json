@@ -346,7 +346,7 @@
               "ip"           : "devoirs-faits-communaute.beta.gouv.fr/185.31.40.21",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "88 >= 30 days"
+              "finding"      : "81 >= 30 days"
           }
 ,         {
               "id"           : "cert_notBefore",
@@ -500,14 +500,14 @@
               "ip"           : "devoirs-faits-communaute.beta.gouv.fr/185.31.40.21",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "0 seconds from localtime"
+              "finding"      : "-1 seconds from localtime"
           }
 ,         {
               "id"           : "HTTP_headerTime",
               "ip"           : "devoirs-faits-communaute.beta.gouv.fr/185.31.40.21",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1725801089"
+              "finding"      : "1726405431"
           }
 ,         {
               "id"           : "HSTS",
@@ -1063,6 +1063,6 @@
               "ip"           : "devoirs-faits-communaute.beta.gouv.fr/185.31.40.21",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "55"
+              "finding"      : "99"
           }
 ]
