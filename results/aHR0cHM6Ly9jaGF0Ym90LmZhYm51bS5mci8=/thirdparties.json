@@ -6,7 +6,7 @@
       "value": "1",
       "domain": "chatbot.fabnum.fr",
       "path": "/",
-      "expires": 1725786278,
+      "expires": 1726391270,
       "size": 17,
       "httpOnly": false,
       "secure": false,
@@ -18,10 +18,10 @@
     },
     {
       "name": "_pk_id.130.2535",
-      "value": "9f6343730e47764d.1725784479.",
+      "value": "f40ecf33610a9fc0.1726389470.",
       "domain": "chatbot.fabnum.fr",
       "path": "/",
-      "expires": 1759739679,
+      "expires": 1760344670,
       "size": 43,
       "httpOnly": false,
       "secure": false,
@@ -37,7 +37,7 @@
     "content-encoding": "gzip",
     "content-security-policy": "default-src 'self'; script-src-elem 'self' 'unsafe-inline' stats.data.gouv.fr dev.chatbot.fabnum.fr; img-src * data:; script-src 'self' dev.chatbot.fabnum.fr 'unsafe-inline'; style-src 'self' 'unsafe-inline'; frame-src dev.chatbot.fabnum.fr",
     "content-type": "text/html",
-    "date": "Sun, 08 Sep 2024 08:34:37 GMT",
+    "date": "Sun, 15 Sep 2024 08:37:49 GMT",
     "etag": "W/\"65d5ce38-abc\"",
     "expires": "Thu, 01 Jan 1970 00:00:01 GMT",
     "last-modified": "Wed, 21 Feb 2024 10:19:36 GMT",
@@ -68,25 +68,24 @@
           }
         },
         "country": {
-          "geoname_id": 3017382,
-          "is_in_european_union": true,
-          "iso_code": "FR",
+          "geoname_id": 2635167,
+          "iso_code": "GB",
           "names": {
-            "de": "Frankreich",
-            "en": "France",
-            "es": "Francia",
-            "fr": "France",
-            "ja": "フランス共和国",
-            "pt-BR": "França",
-            "ru": "Франция",
-            "zh-CN": "法国"
+            "de": "UK",
+            "en": "United Kingdom",
+            "es": "Reino Unido",
+            "fr": "Royaume-Uni",
+            "ja": "英国",
+            "pt-BR": "Reino Unido",
+            "ru": "Британия",
+            "zh-CN": "英国"
           }
         },
         "location": {
           "accuracy_radius": 200,
-          "latitude": 48.8582,
-          "longitude": 2.3387,
-          "time_zone": "Europe/Paris"
+          "latitude": 51.4964,
+          "longitude": -0.1224,
+          "time_zone": "Europe/London"
         },
         "registered_country": {
           "geoname_id": 3017382,
