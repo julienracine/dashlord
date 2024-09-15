@@ -346,7 +346,7 @@
               "ip"           : "dossierfacile.fr/5.104.101.30",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "58 >= 30 days"
+              "finding"      : "51 >= 30 days"
           }
 ,         {
               "id"           : "cert_notBefore",
@@ -507,7 +507,7 @@
               "ip"           : "dossierfacile.fr/5.104.101.30",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1725765967"
+              "finding"      : "1726371465"
           }
 ,         {
               "id"           : "HSTS",
@@ -1265,7 +1265,7 @@
               "ip"           : "dossierfacile.fr/109.232.236.90",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "not supported"
+              "finding"      : "supported"
           }
 ,         {
               "id"           : "TLS_timestamp",
@@ -1405,7 +1405,7 @@
               "ip"           : "dossierfacile.fr/109.232.236.90",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "58 >= 30 days"
+              "finding"      : "51 >= 30 days"
           }
 ,         {
               "id"           : "cert_notBefore",
@@ -1566,7 +1566,7 @@
               "ip"           : "dossierfacile.fr/109.232.236.90",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1725766016"
+              "finding"      : "1726371513"
           }
 ,         {
               "id"           : "HSTS",
@@ -2122,6 +2122,6 @@
               "ip"           : "dossierfacile.fr/109.232.236.90",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "100"
+              "finding"      : "101"
           }
 ]
