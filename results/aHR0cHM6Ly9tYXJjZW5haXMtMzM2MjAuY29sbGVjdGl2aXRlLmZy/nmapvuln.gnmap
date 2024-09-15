@@ -1,4 +1,2 @@
-# Nmap 7.92 scan initiated Sun Sep  8 11:49:27 2024 as: nmap -sV --script vulners --script-args mincvss=5.0 -oA /data/nmapvuln marcenais-33620.collectivite.fr
-Host: 51.159.10.161 (51-159-10-161.lb.fr-par.scw.cloud)	Status: Up
-Host: 51.159.10.161 (51-159-10-161.lb.fr-par.scw.cloud)	Ports: 80/open/tcp//http///, 443/open/tcp//ssl|https///	Ignored State: closed (998)
-# Nmap done at Sun Sep  8 11:50:00 2024 -- 1 IP address (1 host up) scanned in 32.53 seconds
+# Nmap 7.92 scan initiated Sun Sep 15 11:34:41 2024 as: nmap -sV --script vulners --script-args mincvss=5.0 -oA /data/nmapvuln marcenais-33620.collectivite.fr
+# Nmap done at Sun Sep 15 11:34:42 2024 -- 0 IP addresses (0 hosts up) scanned in 0.27 seconds
