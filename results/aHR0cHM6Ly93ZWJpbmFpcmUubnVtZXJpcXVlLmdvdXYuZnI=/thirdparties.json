@@ -6,7 +6,7 @@
       "value": "1",
       "domain": "webinaire.numerique.gouv.fr",
       "path": "/",
-      "expires": 1725779723,
+      "expires": 1726385406,
       "size": 16,
       "httpOnly": false,
       "secure": false,
@@ -18,10 +18,10 @@
     },
     {
       "name": "_pk_id.15.66ef",
-      "value": "604159b18ee60dbe.1725777924.",
+      "value": "b0c09968886f3f90.1726383607.",
       "domain": "webinaire.numerique.gouv.fr",
       "path": "/",
-      "expires": 1759733124,
+      "expires": 1760338807,
       "size": 42,
       "httpOnly": false,
       "secure": false,
@@ -36,7 +36,7 @@
     "connection": "keep-alive",
     "content-encoding": "gzip",
     "content-type": "text/html; charset=utf-8",
-    "date": "Sun, 08 Sep 2024 06:45:22 GMT",
+    "date": "Sun, 15 Sep 2024 07:00:05 GMT",
     "server": "nginx",
     "strict-transport-security": "max-age=15552000;preload",
     "transfer-encoding": "chunked",
@@ -83,7 +83,7 @@
           }
         },
         "location": {
-          "accuracy_radius": 1000,
+          "accuracy_radius": 500,
           "latitude": 48.8582,
           "longitude": 2.3387,
           "time_zone": "Europe/Paris"
