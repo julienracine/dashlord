@@ -6,7 +6,7 @@
       "value": "1",
       "domain": ".aplus.beta.gouv.fr",
       "path": "/",
-      "expires": 1725762059,
+      "expires": 1726367294,
       "size": 17,
       "httpOnly": false,
       "secure": false,
@@ -18,10 +18,10 @@
     },
     {
       "name": "_pk_id.111.c207",
-      "value": "07ca055900e4ad3d.1725760260.",
+      "value": "594d6606748e219e.1726365495.",
       "domain": ".aplus.beta.gouv.fr",
       "path": "/",
-      "expires": 1759715460,
+      "expires": 1760320695,
       "size": 43,
       "httpOnly": false,
       "secure": false,
@@ -33,10 +33,10 @@
     },
     {
       "name": "PLAY_SESSION",
-      "value": "eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7ImNzcmZUb2tlbiI6IjgxYTM1MGYzNzE0MTJmNjNkMzQ1YTAxYmMxMmM1YzgxZTdjMjE5MzYtMTcyNTc2MDI1ODE5MS00Y2U4OWE1YTkwYjBlZDZhYjk3YmViZGEifSwiZXhwIjoxNzI4MzUyMjU4LCJuYmYiOjE3MjU3NjAyNTgsImlhdCI6MTcyNTc2MDI1OH0.CbF1L58CZWq8EOXPDUCfKRTiX6C_TIQ0vUD72soXlO8",
+      "value": "eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7ImNzcmZUb2tlbiI6IjFjZmYyM2Q3YTU1NzZiNDVkMjkwZDYzZjdhMDM4ZDE4NmZiMDliNTItMTcyNjM2NTQ5MzM5Ny1lNzBiMmI4MmFiNTliMjAzOGUxOWY0NTIifSwiZXhwIjoxNzI4OTU3NDkzLCJuYmYiOjE3MjYzNjU0OTMsImlhdCI6MTcyNjM2NTQ5M30.39A5XUbMQOXrshWJJP5Cax9acGSk1NsC3_ofX21toaU",
       "domain": "aplus.beta.gouv.fr",
       "path": "/",
-      "expires": 1728352258.265572,
+      "expires": 1728957493.451675,
       "size": 284,
       "httpOnly": true,
       "secure": true,
@@ -51,10 +51,10 @@
     "content-length": "20088",
     "content-security-policy": "base-uri 'none'; img-src 'self' data: stats.beta.gouv.fr; frame-src 'self' blob: *.aplus.beta.gouv.fr https://www.dailymotion.com; form-action 'self'; style-src 'self' 'unsafe-inline' stats.beta.gouv.fr; script-src 'self' stats.beta.gouv.fr; connect-src 'self' https://stats.beta.gouv.fr; object-src 'none'; default-src 'none'; font-src 'self'; frame-ancestors 'self'",
     "content-type": "text/html; charset=UTF-8",
-    "date": "Sun, 08 Sep 2024 01:50:58 GMT",
+    "date": "Sun, 15 Sep 2024 01:58:13 GMT",
     "referrer-policy": "origin-when-cross-origin, strict-origin-when-cross-origin",
-    "set-cookie": "PLAY_SESSION=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7ImNzcmZUb2tlbiI6IjgxYTM1MGYzNzE0MTJmNjNkMzQ1YTAxYmMxMmM1YzgxZTdjMjE5MzYtMTcyNTc2MDI1ODE5MS00Y2U4OWE1YTkwYjBlZDZhYjk3YmViZGEifSwiZXhwIjoxNzI4MzUyMjU4LCJuYmYiOjE3MjU3NjAyNTgsImlhdCI6MTcyNTc2MDI1OH0.CbF1L58CZWq8EOXPDUCfKRTiX6C_TIQ0vUD72soXlO8; Max-Age=2592000; Expires=Tue, 08 Oct 2024 01:50:58 GMT; SameSite=Lax; Path=/; Secure; HTTPOnly",
-    "strict-transport-security": "max-age=15724800; includeSubDomains",
+    "set-cookie": "PLAY_SESSION=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7ImNzcmZUb2tlbiI6IjFjZmYyM2Q3YTU1NzZiNDVkMjkwZDYzZjdhMDM4ZDE4NmZiMDliNTItMTcyNjM2NTQ5MzM5Ny1lNzBiMmI4MmFiNTliMjAzOGUxOWY0NTIifSwiZXhwIjoxNzI4OTU3NDkzLCJuYmYiOjE3MjYzNjU0OTMsImlhdCI6MTcyNjM2NTQ5M30.39A5XUbMQOXrshWJJP5Cax9acGSk1NsC3_ofX21toaU; Max-Age=2592000; Expires=Tue, 15 Oct 2024 01:58:13 GMT; SameSite=Lax; Path=/; Secure; HTTPOnly",
+    "strict-transport-security": "max-age=31536000; includeSubDomains",
     "x-content-type-options": "nosniff",
     "x-frame-options": "DENY",
     "x-permitted-cross-domain-policies": "master-only",
@@ -63,7 +63,7 @@
   "endpoints": [
     {
       "hostname": "aplus.beta.gouv.fr",
-      "ip": "162.19.17.54",
+      "ip": "162.19.110.237",
       "geoip": {
         "continent": {
           "code": "EU",
@@ -95,7 +95,7 @@
           }
         },
         "location": {
-          "accuracy_radius": 1000,
+          "accuracy_radius": 500,
           "latitude": 48.8582,
           "longitude": 2.3387,
           "time_zone": "Europe/Paris"
