@@ -2,7 +2,7 @@
   "trackers": [
     {
       "type": "unknown",
-      "url": "https://stonly.com/js/widget/v2/version?v=1725790874618"
+      "url": "https://stonly.com/js/widget/v2/version?v=1726395640895"
     },
     {
       "type": "crisp",
@@ -14,7 +14,7 @@
     },
     {
       "type": "unknown",
-      "url": "https://stonly.com/js/widget/v2/stonly-widget.js?v=04cf4d3d"
+      "url": "https://stonly.com/js/widget/v2/stonly-widget.js?v=11ca60a3"
     },
     {
       "type": "unknown",
@@ -22,7 +22,7 @@
     },
     {
       "type": "unknown",
-      "url": "https://stonly.com/js/widget/v2/widget-4780b28d19fca44482c6.stonly.js"
+      "url": "https://stonly.com/js/widget/v2/widget-01dc927eac823646b9bd.stonly.js"
     },
     {
       "type": "unknown",
@@ -38,11 +38,11 @@
     },
     {
       "type": "unknown",
-      "url": "https://api.stonly.com/api/v2/widget/integration?widgetId=1b1b2533-383c-11ef-a9d4-06cb0cb2a85e&stonlyAnonymousId=45313024-e6a5-4714-99b7-025ea37d5992&url=https%3A%2F%2Fapp.territoiresentransitions.fr%2F"
+      "url": "https://api.stonly.com/api/v2/widget/integration?widgetId=1b1b2533-383c-11ef-a9d4-06cb0cb2a85e&stonlyAnonymousId=8bc804a0-fd9e-479c-a8d4-1e641e4bb678&url=https%3A%2F%2Fapp.territoiresentransitions.fr%2F"
     },
     {
       "type": "unknown",
-      "url": "https://api.stonly.com/api/v2/widget/integration?widgetId=1b1b2533-383c-11ef-a9d4-06cb0cb2a85e&stonlyAnonymousId=45313024-e6a5-4714-99b7-025ea37d5992&url=https%3A%2F%2Fapp.territoiresentransitions.fr%2F"
+      "url": "https://api.stonly.com/api/v2/widget/integration?widgetId=1b1b2533-383c-11ef-a9d4-06cb0cb2a85e&stonlyAnonymousId=8bc804a0-fd9e-479c-a8d4-1e641e4bb678&url=https%3A%2F%2Fapp.territoiresentransitions.fr%2F"
     },
     {
       "type": "unknown",
@@ -58,14 +58,14 @@
     "alt-svc": "h3=\":443\"; ma=86400",
     "cache-control": "public, max-age=0",
     "cf-cache-status": "DYNAMIC",
-    "cf-ray": "8bfe35e40a327c35-LAX",
+    "cf-ray": "8c37e2b1ffaa1134-ORD",
     "content-encoding": "br",
     "content-type": "text/html; charset=UTF-8",
-    "date": "Sun, 08 Sep 2024 10:21:14 GMT",
-    "etag": "W/\"aff-191bdc44410\"",
-    "last-modified": "Wed, 04 Sep 2024 16:00:42 GMT",
+    "date": "Sun, 15 Sep 2024 10:20:40 GMT",
+    "etag": "W/\"aff-191e63dd690\"",
+    "last-modified": "Thu, 12 Sep 2024 12:38:18 GMT",
     "server": "cloudflare",
-    "x-envoy-upstream-service-time": "81",
+    "x-envoy-upstream-service-time": "80",
     "x-koyeb-backend": "par1",
     "x-koyeb-glb": "par1",
     "x-powered-by": "Express"
@@ -93,7 +93,7 @@
     },
     {
       "hostname": "stonly.com",
-      "ip": "3.168.147.69",
+      "ip": "18.172.122.90",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -125,9 +125,9 @@
         },
         "location": {
           "accuracy_radius": 1000,
-          "latitude": 37.751,
-          "longitude": -97.822,
-          "time_zone": "America/Chicago"
+          "latitude": 34.0544,
+          "longitude": -118.244,
+          "time_zone": "America/Los_Angeles"
         },
         "registered_country": {
           "geoname_id": 6252001,
@@ -142,12 +142,28 @@
             "ru": "США",
             "zh-CN": "美国"
           }
-        }
+        },
+        "subdivisions": [
+          {
+            "geoname_id": 5332921,
+            "iso_code": "CA",
+            "names": {
+              "de": "Kalifornien",
+              "en": "California",
+              "es": "California",
+              "fr": "Californie",
+              "ja": "カリフォルニア州",
+              "pt-BR": "Califórnia",
+              "ru": "Калифорния",
+              "zh-CN": "加州"
+            }
+          }
+        ]
       }
     },
     {
       "hostname": "client.crisp.chat",
-      "ip": "104.18.29.104",
+      "ip": "104.18.28.104",
       "geoip": {
         "registered_country": {
           "geoname_id": 6252001,
@@ -167,7 +183,7 @@
     },
     {
       "hostname": "s.stonly.com",
-      "ip": "18.164.154.26",
+      "ip": "54.230.18.70",
       "geoip": {
         "continent": {
           "code": "NA",
