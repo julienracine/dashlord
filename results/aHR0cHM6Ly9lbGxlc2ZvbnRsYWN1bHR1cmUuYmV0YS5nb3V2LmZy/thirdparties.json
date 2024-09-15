@@ -1,6 +1,14 @@
 {
   "trackers": [
     {
+      "type": "cloudflare",
+      "url": "https://cdnjs.cloudflare.com/ajax/libs/tarteaucitronjs/1.13.0/tarteaucitron.js",
+      "details": {
+        "id": "cloudflare",
+        "message": "Host files locally"
+      }
+    },
+    {
       "type": "unknown",
       "url": "https://res.cloudinary.com/ellesfontlaculture/image/upload/v1/production/4zz2kuavbfuevkdov74le0niu5j7"
     },
@@ -46,11 +54,11 @@
     },
     {
       "type": "unknown",
-      "url": "https://res.cloudinary.com/ellesfontlaculture/image/upload/v1/production/oxc2y8q7v8hnsfw6lsiiy6fdnp3w.jpg"
+      "url": "https://res.cloudinary.com/ellesfontlaculture/image/upload/v1/production/0wm1584x5d0tdcjpsta98e5wipxj.jpg"
     },
     {
       "type": "unknown",
-      "url": "https://res.cloudinary.com/ellesfontlaculture/image/upload/v1/production/0wm1584x5d0tdcjpsta98e5wipxj.jpg"
+      "url": "https://res.cloudinary.com/ellesfontlaculture/image/upload/v1/production/oxc2y8q7v8hnsfw6lsiiy6fdnp3w.jpg"
     }
   ],
   "cookies": [
@@ -59,7 +67,7 @@
       "value": "1",
       "domain": "ellesfontla.culture.gouv.fr",
       "path": "/",
-      "expires": 1725791370,
+      "expires": 1726395977,
       "size": 17,
       "httpOnly": false,
       "secure": false,
@@ -71,10 +79,10 @@
     },
     {
       "name": "_pk_id.187.1dd6",
-      "value": "6617f9b7b68dc98f.1725789570.",
+      "value": "766118bdcdb59daa.1726394177.",
       "domain": "ellesfontla.culture.gouv.fr",
       "path": "/",
-      "expires": 1759744770,
+      "expires": 1760349377,
       "size": 43,
       "httpOnly": false,
       "secure": false,
@@ -86,11 +94,11 @@
     },
     {
       "name": "_ellesfontlaphoto_session",
-      "value": "ySo1zSgwn8vMfM8ZzLP%2B%2F75MOTiUwEZHBCMz6hUQGI6%2Fk%2BakhZCdLeOr0APraeDHFYC0tTiF9uJBCyc%2BSo50CJtWG7ib35ndz7YrebWMZls5P7JWhXBBT8XR%2Fc7KK%2BvkYBTV7hvUBmJeylIJ3oRWViw6DLrDiZtSF9MLAaCpR6UVB6yXOcPS7m0KIBQ3GgC%2FykbD4NePyU8kSePcif2nk%2FL0G5bLyBg8FBSFpLsEvIqxoe4y64LtgTTdxmEfLDs66m4zyhw0YFjeQlsUgPEOjXQBmcxa90lfTWxX%2F6E88OXnDdV97SFVI0SZ%2FOxrZwSOrbiTKg%2FHMrrd9brmNA%2BJRsbaV768DGUVkbmssH4HXhJtrXwDWJT8y6gMHtwCeUpG0DxbaoILo3V4CBN7cM4GounDYk75SqZc4DtuEUFSzY6EFUybQpMXTZNg87wqQRGSSHWH9lrFGJ4%2B%2B5aMVEP5elBJZzeV67QgkrHq9MPWLMpPL0Xk%2FrSsNQ2K6oH8jFXmyw%3D%3D--0uSp1mUf60bUvBIt--X2rJQcFCzZjjJvPjpqVhbQ%3D%3D",
+      "value": "2GnQiWtoZxt%2BLMWnggLUOl5jw30pmzU2kdhBsR%2BC%2FcjlT33sK%2F%2Ffgo0S1E7kT0ZLkzKI%2FMfW0sH%2BKL84I%2B0fcefYBrhY4zY15HdA%2BwTiHvw4NuxJ5FL653rpkLff7WrJlG4cguu6B61Yv%2Bz9fO5OeEmFILosc0e%2BXCBX%2BDkZ%2FD5QKeL1Nn6%2FN0H93J1nSa4cQonDqDpIsgtwqh%2Bb2ELqhT3cCAx3iU5MwCLKSy%2FXORwaUmuDQlrW5HilUE0r4xG8BkbQwcLWIAxS1OtyGiHFLe2ZXKImozTzJXPAChybdGUZwaMynEPFi7IrQJQ7hNP%2BLtpTreGPWxnxETme%2BpVE2M5xTcFwzQ85y5VOwqGy49L%2FkO84P1kPGM3Wd09LnqsJ1mKj6cVtW6sTbozWX98tndR1kT8e30KcpCqAXLSaPmp%2B1qnkfliAzpgpsimnN7jz0ImoijCq1Mdl0jxPDGrh95kOgQM18I6UKMQg7gP8q%2FH6%2FPSwhxUpOa8YJAZ%2FJThLug%3D%3D--oAYpWUbudnD40a6i--TGXvgqTY5DerzomKfskocQ%3D%3D",
       "domain": "ellesfontla.culture.gouv.fr",
       "path": "/",
       "expires": -1,
-      "size": 625,
+      "size": 639,
       "httpOnly": true,
       "secure": true,
       "session": true,
@@ -104,13 +112,13 @@
     "accept-ranges": "bytes",
     "cache-control": "max-age=0, private, must-revalidate",
     "content-type": "text/html; charset=utf-8",
-    "date": "Sun, 08 Sep 2024 09:59:29 GMT",
-    "etag": "W/\"4a96a7c2d3970257d12c5afc3aa55509\"",
+    "date": "Sun, 15 Sep 2024 09:56:15 GMT",
+    "etag": "W/\"18c10e85f0076201709f67ced726aea3\"",
     "link": "</assets/application-528a93768b58fbd9319479309225b69746be032ff66f8e74d3137bebc6409df0.css>; rel=preload; as=style; nopush",
     "referrer-policy": "strict-origin-when-cross-origin",
-    "set-cookie": "_ellesfontlaphoto_session=srUq9coYMmrdiJh%2Ftxmg0z4l6wPgwYTCD5fV4piKu5Ueq%2BH4n1RBcb3SWeZDZYRgcnt6LWtSZpXcYOvKmmthJ4roShUVYxGWbbZnD76%2BUa0URjJ6RGX6KiKRpm0XZoO2Q7OMBBBw00pUWP8HEm%2BalWxMEqGgcyhZ8HYvXtv5fSwVcXHBYNP%2F2ktJKza9NhmPSqpZlOhpWfPbdowB9lnh85nN%2BlSVla2t5VIt4SSOsL%2FXNBmiuw%2BGmdqpegel2u7%2B6pnxI93HZKklM908mvxgvJZGiq07PYjx19qgBqbOqFQJ7vEAAhjwZgd2zAoL6jQ6nrAqGIvtR19B9oIo1UOHqKxv496ZBd8CzXmdKVVMOJYnM0Mt0ujTTdApzmA65tnLL4jKasFrCGxi8cwHH90NXHKn1WEJjHIoKqPx6GtjUfB6G8wWmtlZKvlNEU7mhYbxUjsxxwBltmf802R4x2box3IfXfxpa2UISqMzu4kukROZ3tW%2FldvWSgaV7mWI8Z9Rxg%3D%3D--46EtX2q9RqvT4Yh4--0hqgJyuRi7i%2BAa9rYWy%2FYg%3D%3D; path=/; secure; HttpOnly; SameSite=Lax",
+    "set-cookie": "_ellesfontlaphoto_session=U5holGIUaCgIRTa9PybPc2SBWUqTzm%2Bu7o8lA9kkZlxQyyTQFRkIIphqOFpPmTViZOzV%2B2G4ibKWxEp%2FqsofqTJm9UVIF5Ss6e3AjZdavDTNfR4f58WOZ66nisA8ILhuyZAz9wgbKWhMVrH8EhRvwkMAqBt6%2BenKbimQAxo2qmzmnCqIjevj4hj8p2yZek8ut0tsX0lTDqecI7RtCaWkmQogqyk22Ncn97kUxR8jyNipHl%2B1nTVw01CAM83uP5SKCmyj%2FFmldWhhHa4Jleo2JZ%2FRW51TFbROOy4Y1bR446wuUy7D6xAPH0nCLFvcA94cFJtCzdpfHv1qcnUXXypu9w0R%2B2bDVGeHkz6IKejgRmQEZT12wHEa%2B3TFoqGb5Kr4i0ywBzETBiu4KmZsiit5KOwjYHseAE3bDKyH2HpQWJL9nYue7%2FUHXsLo8rZY66S3q79Sls24aIW%2BjU10gWsxhStGWfrktbw1oFvFhKkXQiM%2BXiNIrQ4lZzxZJr5g95yxUA%3D%3D--EqKy86JVqC9NuSEw--bvXS2EYBUmMcXZDua47Jqw%3D%3D; path=/; secure; HttpOnly; SameSite=Lax",
     "strict-transport-security": "max-age=31557600",
-    "traceresponse": "00-17f33c7839bc93a60c4cb9eab282f96b-fd89d65ba6e92097-01",
+    "traceresponse": "00-17f5625b16990812d8c8212d9c4578f4-d906b28ec8144699-01",
     "via": "1.1 varnish, 1.1 varnish",
     "x-cache": "MISS, MISS",
     "x-cache-hits": "0, 0",
@@ -123,9 +131,9 @@
     "x-platform-cluster": "tl34jw4qs4bu2-master-7rqtwti",
     "x-platform-processor": "gwzrtyfmq5bg3qickflrztm5jm",
     "x-platform-router": "nthylk4d6puxch5isukqy3sywa",
-    "x-request-id": "2237a476-9463-42db-a4cf-b325d9839320",
-    "x-runtime": "0.149033",
-    "x-served-by": "cache-par-lfpg1960090-PAR, cache-chi-kigq8000128-CHI",
+    "x-request-id": "cb632c49-b567-4704-b7a9-fd27b1e4857d",
+    "x-runtime": "0.218039",
+    "x-served-by": "cache-par-lfpg1960022-PAR, cache-bur-kbur8200107-BUR",
     "x-xss-protection": "1; mode=block"
   },
   "endpoints": [
@@ -186,60 +194,9 @@
       }
     },
     {
-      "hostname": "res.cloudinary.com",
-      "ip": "23.198.32.46",
+      "hostname": "cdnjs.cloudflare.com",
+      "ip": "104.17.25.14",
       "geoip": {
-        "city": {
-          "geoname_id": 4887398,
-          "names": {
-            "de": "Chicago",
-            "en": "Chicago",
-            "es": "Chicago",
-            "fr": "Chicago",
-            "ja": "シカゴ",
-            "pt-BR": "Chicago",
-            "ru": "Чикаго",
-            "zh-CN": "芝加哥"
-          }
-        },
-        "continent": {
-          "code": "NA",
-          "geoname_id": 6255149,
-          "names": {
-            "de": "Nordamerika",
-            "en": "North America",
-            "es": "Norteamérica",
-            "fr": "Amérique du Nord",
-            "ja": "北アメリカ",
-            "pt-BR": "América do Norte",
-            "ru": "Северная Америка",
-            "zh-CN": "北美洲"
-          }
-        },
-        "country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
-          "names": {
-            "de": "USA",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
-          }
-        },
-        "location": {
-          "accuracy_radius": 20,
-          "latitude": 41.8874,
-          "longitude": -87.6318,
-          "metro_code": 602,
-          "time_zone": "America/Chicago"
-        },
-        "postal": {
-          "code": "60602"
-        },
         "registered_country": {
           "geoname_id": 6252001,
           "iso_code": "US",
@@ -253,23 +210,27 @@
             "ru": "США",
             "zh-CN": "美国"
           }
-        },
-        "subdivisions": [
-          {
-            "geoname_id": 4896861,
-            "iso_code": "IL",
-            "names": {
-              "de": "Illinois",
-              "en": "Illinois",
-              "es": "Illinois",
-              "fr": "Illinois",
-              "ja": "イリノイ州",
-              "pt-BR": "Ilinóis",
-              "ru": "Иллинойс",
-              "zh-CN": "伊利诺伊州"
-            }
+        }
+      }
+    },
+    {
+      "hostname": "res.cloudinary.com",
+      "ip": "104.17.202.1",
+      "geoip": {
+        "registered_country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "USA",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
           }
-        ]
+        }
       }
     }
   ]
