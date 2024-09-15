@@ -14,7 +14,7 @@
     },
     {
       "type": "unknown",
-      "url": "https://jeveuxaider.fra1.digitaloceanspaces.com/public/production/38567/responsive/4PAYs5Pbj3MtBMD8Ti9iO0GS443a1H___card_600_286.webp?v=1687952803"
+      "url": "https://jeveuxaider.fra1.digitaloceanspaces.com/public/production/12183/responsive/education-pour-tous-7___card_600_286.webp?v=1650543734"
     },
     {
       "type": "unknown",
@@ -46,31 +46,27 @@
     },
     {
       "type": "unknown",
-      "url": "https://gqlg3qh7po-dsn.algolia.net/1/indexes/prod_scalingo_covid_missions/query?x-algolia-agent=Algolia%20for%20JavaScript%20(4.20.0)%3B%20Browser"
+      "url": "https://gqlg3qh7po-dsn.algolia.net/1/indexes/prod_scalingo_covid_missions/query?x-algolia-agent=Algolia%20for%20JavaScript%20(4.24.0)%3B%20Browser"
     },
     {
       "type": "unknown",
-      "url": "https://gqlg3qh7po-dsn.algolia.net/1/indexes/prod_scalingo_covid_missions/query?x-algolia-agent=Algolia%20for%20JavaScript%20(4.20.0)%3B%20Browser"
+      "url": "https://gqlg3qh7po-dsn.algolia.net/1/indexes/prod_scalingo_covid_missions/query?x-algolia-agent=Algolia%20for%20JavaScript%20(4.24.0)%3B%20Browser"
     },
     {
       "type": "unknown",
-      "url": "https://gqlg3qh7po-dsn.algolia.net/1/indexes/prod_scalingo_covid_missions/query?x-algolia-agent=Algolia%20for%20JavaScript%20(4.20.0)%3B%20Browser"
+      "url": "https://gqlg3qh7po-dsn.algolia.net/1/indexes/prod_scalingo_covid_missions/query?x-algolia-agent=Algolia%20for%20JavaScript%20(4.24.0)%3B%20Browser"
     },
     {
       "type": "unknown",
-      "url": "https://gqlg3qh7po-dsn.algolia.net/1/indexes/prod_scalingo_covid_missions/query?x-algolia-agent=Algolia%20for%20JavaScript%20(4.20.0)%3B%20Browser"
-    },
-    {
-      "type": "unknown",
-      "url": "https://gqlg3qh7po-dsn.algolia.net/1/indexes/prod_scalingo_covid_missions/query?x-algolia-agent=Algolia%20for%20JavaScript%20(4.20.0)%3B%20Browser"
-    },
-    {
-      "type": "unknown",
-      "url": "https://gqlg3qh7po-dsn.algolia.net/1/indexes/prod_scalingo_covid_missions/query?x-algolia-agent=Algolia%20for%20JavaScript%20(4.20.0)%3B%20Browser"
+      "url": "https://gqlg3qh7po-dsn.algolia.net/1/indexes/prod_scalingo_covid_missions/query?x-algolia-agent=Algolia%20for%20JavaScript%20(4.24.0)%3B%20Browser"
     },
     {
       "type": "unknown",
       "url": "https://plausible.io/api/event"
+    },
+    {
+      "type": "unknown",
+      "url": "https://gqlg3qh7po-dsn.algolia.net/1/indexes/prod_scalingo_covid_missions/query?x-algolia-agent=Algolia%20for%20JavaScript%20(4.24.0)%3B%20Browser"
     },
     {
       "type": "unknown",
@@ -89,17 +85,17 @@
   "headers": {
     "cache-control": "max-age=300\npublic, no-transform",
     "cf-cache-status": "DYNAMIC",
-    "cf-ray": "8bfd43a9bf2d61f4-ORD",
+    "cf-ray": "8c3701f3c9498708-ORD",
     "content-encoding": "br",
-    "content-length": "48921",
+    "content-length": "50047",
     "content-type": "text/html;charset=utf-8",
-    "date": "Sun, 08 Sep 2024 07:35:53 GMT",
-    "expires": "Sun, 08 Sep 2024 07:40:53 GMT",
+    "date": "Sun, 15 Sep 2024 07:47:16 GMT",
+    "expires": "Sun, 15 Sep 2024 07:52:16 GMT",
     "server": "cloudflare",
     "strict-transport-security": "max-age=31536000",
     "vary": "Accept-Encoding",
     "x-powered-by": "Nuxt",
-    "x-request-id": "a58c57ee-d6b1-4684-8f61-24ef880a3eed\na58c57ee-d6b1-4684-8f61-24ef880a3eed"
+    "x-request-id": "40f937a5-5442-4f28-b239-95518884c850\n40f937a5-5442-4f28-b239-95518884c850"
   },
   "endpoints": [
     {
@@ -211,7 +207,7 @@
     },
     {
       "hostname": "www.googletagmanager.com",
-      "ip": "142.250.191.168",
+      "ip": "142.250.191.200",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -268,16 +264,10 @@
       "ip": "95.211.18.123",
       "geoip": {
         "city": {
-          "geoname_id": 2747891,
+          "geoname_id": 2754635,
           "names": {
-            "de": "Rotterdam",
-            "en": "Rotterdam",
-            "es": "Rotterdam",
-            "fr": "Rotterdam",
-            "ja": "ロッテルダム",
-            "pt-BR": "Roterdão",
-            "ru": "Роттердам",
-            "zh-CN": "鹿特丹"
+            "en": "Heesch",
+            "ru": "Хес"
           }
         },
         "continent": {
@@ -311,12 +301,12 @@
         },
         "location": {
           "accuracy_radius": 50,
-          "latitude": 51.9281,
-          "longitude": 4.5052,
+          "latitude": 51.7278,
+          "longitude": 5.5319,
           "time_zone": "Europe/Amsterdam"
         },
         "postal": {
-          "code": "3061"
+          "code": "5384"
         },
         "registered_country": {
           "geoname_id": 2750405,
@@ -335,16 +325,17 @@
         },
         "subdivisions": [
           {
-            "geoname_id": 2743698,
-            "iso_code": "ZH",
+            "geoname_id": 2749990,
+            "iso_code": "NB",
             "names": {
-              "de": "Südholland",
-              "en": "South Holland",
-              "es": "Holanda Meridional",
-              "fr": "Hollande-Méridionale",
-              "ja": "南ホラント州",
-              "pt-BR": "Holanda do Sul",
-              "ru": "Южная Голландия"
+              "de": "Nordbrabant",
+              "en": "North Brabant",
+              "es": "Brabante Septentrional",
+              "fr": "Brabant-Septentrional",
+              "ja": "北ブラバント州",
+              "pt-BR": "Brabante do Norte",
+              "ru": "Северный Брабант",
+              "zh-CN": "北布拉班特省"
             }
           }
         ]
@@ -352,18 +343,19 @@
     },
     {
       "hostname": "plausible.io",
-      "ip": "138.199.40.58",
+      "ip": "169.150.236.104",
       "geoip": {
         "city": {
-          "geoname_id": 5128581,
+          "geoname_id": 4887398,
           "names": {
-            "de": "New York City",
-            "en": "New York",
-            "es": "Nueva York",
-            "fr": "New York",
-            "ja": "ニューヨーク",
-            "pt-BR": "Nova Iorque",
-            "ru": "Нью-Йорк"
+            "de": "Chicago",
+            "en": "Chicago",
+            "es": "Chicago",
+            "fr": "Chicago",
+            "ja": "シカゴ",
+            "pt-BR": "Chicago",
+            "ru": "Чикаго",
+            "zh-CN": "芝加哥"
           }
         },
         "continent": {
@@ -396,13 +388,13 @@
         },
         "location": {
           "accuracy_radius": 20,
-          "latitude": 40.7123,
-          "longitude": -74.0068,
-          "metro_code": 501,
-          "time_zone": "America/New_York"
+          "latitude": 41.8874,
+          "longitude": -87.6318,
+          "metro_code": 602,
+          "time_zone": "America/Chicago"
         },
         "postal": {
-          "code": "10118"
+          "code": "60602"
         },
         "registered_country": {
           "geoname_id": 2635167,
@@ -420,17 +412,17 @@
         },
         "subdivisions": [
           {
-            "geoname_id": 5128638,
-            "iso_code": "NY",
+            "geoname_id": 4896861,
+            "iso_code": "IL",
             "names": {
-              "de": "New York",
-              "en": "New York",
-              "es": "Nueva York",
-              "fr": "New York",
-              "ja": "ニューヨーク州",
-              "pt-BR": "Nova Iorque",
-              "ru": "Нью-Йорк",
-              "zh-CN": "纽约州"
+              "de": "Illinois",
+              "en": "Illinois",
+              "es": "Illinois",
+              "fr": "Illinois",
+              "ja": "イリノイ州",
+              "pt-BR": "Ilinóis",
+              "ru": "Иллинойс",
+              "zh-CN": "伊利诺伊州"
             }
           }
         ]
@@ -438,7 +430,7 @@
     },
     {
       "hostname": "static.axept.io",
-      "ip": "99.86.229.127",
+      "ip": "18.160.225.30",
       "geoip": {
         "continent": {
           "code": "NA",
