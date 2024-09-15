@@ -1,10 +1,6 @@
 {
   "trackers": [
     {
-      "type": "unknown",
-      "url": "https://browser.sentry-cdn.com/6.19.4/bundle.min.js"
-    },
-    {
       "type": "jsdelivr",
       "url": "https://cdn.jsdelivr.net/npm/js-cookie@3.0.1/dist/js.cookie.min.js",
       "details": {
@@ -16,10 +12,10 @@
   "cookies": [
     {
       "name": "csrftoken",
-      "value": "Talq18h7fq2GXfswzQ0CQ6mvQXGlaFsY",
+      "value": "5dHFNyd6m6EDxwcdPVYoorDdrnqVcR69",
       "domain": "bacasable.recoconseil.fr",
       "path": "/",
-      "expires": 1757251273.863583,
+      "expires": 1757855359.995974,
       "size": 41,
       "httpOnly": false,
       "secure": true,
@@ -31,12 +27,12 @@
     }
   ],
   "headers": {
-    "content-length": "24019",
+    "content-length": "23612",
     "content-type": "text/html; charset=utf-8",
     "cross-origin-opener-policy": "same-origin",
-    "date": "Sun, 08 Sep 2024 13:21:13 GMT",
+    "date": "Sun, 15 Sep 2024 13:09:19 GMT",
     "referrer-policy": "same-origin",
-    "set-cookie": "csrftoken=Talq18h7fq2GXfswzQ0CQ6mvQXGlaFsY; expires=Sun, 07 Sep 2025 13:21:13 GMT; Max-Age=31449600; Path=/; SameSite=None; Secure",
+    "set-cookie": "csrftoken=5dHFNyd6m6EDxwcdPVYoorDdrnqVcR69; expires=Sun, 14 Sep 2025 13:09:19 GMT; Max-Age=31449600; Path=/; SameSite=None; Secure",
     "strict-transport-security": "max-age=31536000; includeSubDomains",
     "vary": "Cookie",
     "via": "2.0 alproxy",
@@ -101,95 +97,8 @@
       }
     },
     {
-      "hostname": "browser.sentry-cdn.com",
-      "ip": "151.101.66.217",
-      "geoip": {
-        "city": {
-          "geoname_id": 5391959,
-          "names": {
-            "de": "San Francisco",
-            "en": "San Francisco",
-            "es": "San Francisco",
-            "fr": "San Francisco",
-            "ja": "サンフランシスコ",
-            "pt-BR": "São Francisco",
-            "ru": "Сан-Франциско",
-            "zh-CN": "旧金山"
-          }
-        },
-        "continent": {
-          "code": "NA",
-          "geoname_id": 6255149,
-          "names": {
-            "de": "Nordamerika",
-            "en": "North America",
-            "es": "Norteamérica",
-            "fr": "Amérique du Nord",
-            "ja": "北アメリカ",
-            "pt-BR": "América do Norte",
-            "ru": "Северная Америка",
-            "zh-CN": "北美洲"
-          }
-        },
-        "country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
-          "names": {
-            "de": "USA",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
-          }
-        },
-        "location": {
-          "accuracy_radius": 1000,
-          "latitude": 37.7642,
-          "longitude": -122.3993,
-          "metro_code": 807,
-          "time_zone": "America/Los_Angeles"
-        },
-        "postal": {
-          "code": "94107"
-        },
-        "registered_country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
-          "names": {
-            "de": "USA",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
-          }
-        },
-        "subdivisions": [
-          {
-            "geoname_id": 5332921,
-            "iso_code": "CA",
-            "names": {
-              "de": "Kalifornien",
-              "en": "California",
-              "es": "California",
-              "fr": "Californie",
-              "ja": "カリフォルニア州",
-              "pt-BR": "Califórnia",
-              "ru": "Калифорния",
-              "zh-CN": "加州"
-            }
-          }
-        ]
-      }
-    },
-    {
       "hostname": "cdn.jsdelivr.net",
-      "ip": "104.18.187.31",
+      "ip": "104.18.186.31",
       "geoip": {
         "registered_country": {
           "geoname_id": 6252001,
