@@ -28,10 +28,10 @@
   "cookies": [
     {
       "name": "bln_challengejs",
-      "value": "wuwWaOUI_laBrCN4kI62gJVsuuBCl0lO_uSO9SBZ4mKTSKOt20yVaUOkSuSOQAJAPXao0KV3cKIQfW0c-y6KOCOGeIW0514tyQcCHjNK7J_ijaX-nnMhz-s8YDyqkdTAVnrkdIo1_l39_lKa_HaGOAYsSx9c9OQhsV60BpNA7G265gnG1VaoOuBiZmR5LHwSebYEQ8xTfhOA9GaGUrcPXrJtIP6CCnDukzGWG5cQoztU9y1ivy3zYoi7MOD774rlRkgdVLb5sevihtv_1ll6Kw",
+      "value": "jMDBtR9TC6lSgqQ0CMOhef4fhss1pjBJtbe1zzevVklk_j3gEDUfoxrsOYZAo8Oho3Zs4rVj_pQJVNAm9PjgnqhMDcBkkLYeEW7OGtEf-UQBaqAWoPkBUC51SyQbAEG_5zY2-FEDBjSG8s7FKGL1YH4EkT9vqQTrfwZDW7ltawxP-zUsY3jNZXApIs75ExCr9iMVhpz2hh855My0orG9LCftTR0Aqs9kAhQQZEJkZb2CNOvJoueWF4WSP_YJR6AStOOfECFQXW6e6cKzIatJgQ",
       "domain": ".snu.gouv.fr",
       "path": "/",
-      "expires": 1725781076.710682,
+      "expires": 1726386492.669918,
       "size": 293,
       "httpOnly": false,
       "secure": false,
@@ -44,11 +44,11 @@
   "headers": {
     "content-encoding": "gzip",
     "content-type": "text/html",
-    "date": "Sun, 08 Sep 2024 07:22:56 GMT",
-    "etag": "W/\"66db1598-889\"",
-    "last-modified": "Fri, 06 Sep 2024 14:45:44 GMT",
+    "date": "Sun, 15 Sep 2024 07:33:12 GMT",
+    "etag": "W/\"66e2f36a-889\"",
+    "last-modified": "Thu, 12 Sep 2024 13:58:02 GMT",
     "referrer-policy": ": no-referrer",
-    "sozu-id": "01J7886QCTC60YS7E3HR1HJNSR",
+    "sozu-id": "01J7T9JDKJS058GZKXQ8TC1QB0",
     "strict-transport-security": ": max-age=31536000; includeSubDomains; preload",
     "x-content-type-options": ": nosniff",
     "x-download-options": ": noopen",
@@ -114,7 +114,7 @@
     },
     {
       "hostname": "fonts.googleapis.com",
-      "ip": "142.251.16.95",
+      "ip": "142.251.32.42",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -168,18 +168,18 @@
     },
     {
       "hostname": "plausible.io",
-      "ip": "138.199.40.58",
+      "ip": "169.150.221.147",
       "geoip": {
         "city": {
-          "geoname_id": 5128581,
+          "geoname_id": 5392171,
           "names": {
-            "de": "New York City",
-            "en": "New York",
-            "es": "Nueva York",
-            "fr": "New York",
-            "ja": "ニューヨーク",
-            "pt-BR": "Nova Iorque",
-            "ru": "Нью-Йорк"
+            "de": "San José",
+            "en": "San Jose",
+            "es": "San José",
+            "fr": "San José",
+            "ja": "サンノゼ",
+            "pt-BR": "San José",
+            "ru": "Сан-Хосе"
           }
         },
         "continent": {
@@ -212,13 +212,13 @@
         },
         "location": {
           "accuracy_radius": 20,
-          "latitude": 40.7123,
-          "longitude": -74.0068,
-          "metro_code": 501,
-          "time_zone": "America/New_York"
+          "latitude": 37.1835,
+          "longitude": -121.7714,
+          "metro_code": 807,
+          "time_zone": "America/Los_Angeles"
         },
         "postal": {
-          "code": "10118"
+          "code": "95141"
         },
         "registered_country": {
           "geoname_id": 2635167,
@@ -236,17 +236,17 @@
         },
         "subdivisions": [
           {
-            "geoname_id": 5128638,
-            "iso_code": "NY",
+            "geoname_id": 5332921,
+            "iso_code": "CA",
             "names": {
-              "de": "New York",
-              "en": "New York",
-              "es": "Nueva York",
-              "fr": "New York",
-              "ja": "ニューヨーク州",
-              "pt-BR": "Nova Iorque",
-              "ru": "Нью-Йорк",
-              "zh-CN": "纽约州"
+              "de": "Kalifornien",
+              "en": "California",
+              "es": "California",
+              "fr": "Californie",
+              "ja": "カリフォルニア州",
+              "pt-BR": "Califórnia",
+              "ru": "Калифорния",
+              "zh-CN": "加州"
             }
           }
         ]
