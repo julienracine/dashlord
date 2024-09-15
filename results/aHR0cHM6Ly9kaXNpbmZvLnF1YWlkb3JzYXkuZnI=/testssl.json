@@ -346,7 +346,7 @@
               "ip"           : "disinfo.quaidorsay.fr/198.244.157.26",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "72 >= 30 days"
+              "finding"      : "65 >= 30 days"
           }
 ,         {
               "id"           : "cert_notBefore",
@@ -500,21 +500,21 @@
               "ip"           : "disinfo.quaidorsay.fr/198.244.157.26",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "+476 seconds from localtime"
+              "finding"      : "+593 seconds from localtime"
           }
 ,         {
               "id"           : "HTTP_headerTime",
               "ip"           : "disinfo.quaidorsay.fr/198.244.157.26",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1725787949"
+              "finding"      : "1726392741"
           }
 ,         {
               "id"           : "HTTP_headerAge",
               "ip"           : "disinfo.quaidorsay.fr/198.244.157.26",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "476 seconds"
+              "finding"      : "593 seconds"
           }
 ,         {
               "id"           : "HSTS_time",
@@ -584,7 +584,7 @@
               "ip"           : "disinfo.quaidorsay.fr/198.244.157.26",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "cache-lcy-eglc8600039-LCY"
+              "finding"      : "cache-lcy-eglc8600048-LCY"
           }
 ,         {
               "id"           : "Cache-Control",
