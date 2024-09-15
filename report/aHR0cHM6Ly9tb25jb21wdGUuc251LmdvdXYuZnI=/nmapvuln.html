@@ -54,7 +54,7 @@
 <h1>Scan Report<br><small>Nmap 7.92</small>
 </h1>
 <pre style="white-space:pre-wrap; word-wrap:break-word;">nmap -sV --script vulners --script-args mincvss=5.0 -oA /data/nmapvuln moncompte.snu.gouv.fr</pre>
-<p class="lead">Sun Sep  8 07:24:06 2024 – Sun Sep  8 07:24:43 2024<br>1 hosts scanned.
+<p class="lead">Sun Sep 15 07:35:06 2024 – Sun Sep 15 07:35:54 2024<br>1 hosts scanned.
               1 hosts up.
               0 hosts down.
             </p>
@@ -76,7 +76,7 @@
 </tr></thead>
 <tbody><tr>
 <td><span class="label label-success">up</span></td>
-<td>185.231.167.148</td>
+<td>185.179.148.148</td>
 <td>moncompte.snu.gouv.fr</td>
 <td>2</td>
 <td>0</td>
@@ -91,8 +91,8 @@
             });
           </script><h2 id="onlinehosts" class="target">Online Hosts</h2>
 <div class="panel panel-default">
-<div class="panel-heading clickable" data-toggle="collapse" data-target="#185-231-167-148"><h3 class="panel-title">185.231.167.148 - moncompte.snu.gouv.fr</h3></div>
-<div class="panel-body collapse in" id="185-231-167-148">
+<div class="panel-heading clickable" data-toggle="collapse" data-target="#185-179-148-148"><h3 class="panel-title">185.179.148.148 - moncompte.snu.gouv.fr</h3></div>
+<div class="panel-body collapse in" id="185-179-148-148">
 <h4>Hostnames</h4>
 <ul><li>moncompte.snu.gouv.fr (user)</li></ul>
 <h4>Ports</h4>
@@ -121,7 +121,7 @@
 <pre style="white-space:pre-wrap; word-wrap:break-word;">
   FourOhFourRequest: 
     HTTP/1.1 301 Moved Permanently
-    Date: Sun, 08 Sep 2024 07:24:21 GMT
+    Date: Sun, 15 Sep 2024 07:35:24 GMT
     Content-Type: text/html
     Content-Length: 166
     Connection: close
@@ -135,7 +135,7 @@
     &lt;/html&gt;
   GetRequest, HTTPOptions: 
     HTTP/1.1 301 Moved Permanently
-    Date: Sun, 08 Sep 2024 07:24:20 GMT
+    Date: Sun, 15 Sep 2024 07:35:23 GMT
     Content-Type: text/html
     Content-Length: 166
     Connection: close
@@ -147,9 +147,22 @@
     &lt;hr&gt;&lt;center&gt;openresty&lt;/center&gt;
     &lt;/body&gt;
     &lt;/html&gt;
-  RTSPRequest, X11Probe: 
+  RTSPRequest: 
     HTTP/1.1 400 Bad Request
-    Date: Sun, 08 Sep 2024 07:24:20 GMT
+    Date: Sun, 15 Sep 2024 07:35:23 GMT
+    Content-Type: text/html
+    Content-Length: 154
+    Connection: close
+    &lt;html&gt;
+    &lt;head&gt;&lt;title&gt;400 Bad Request&lt;/title&gt;&lt;/head&gt;
+    &lt;body&gt;
+    &lt;center&gt;&lt;h1&gt;400 Bad Request&lt;/h1&gt;&lt;/center&gt;
+    &lt;hr&gt;&lt;center&gt;openresty&lt;/center&gt;
+    &lt;/body&gt;
+    &lt;/html&gt;
+  X11Probe: 
+    HTTP/1.1 400 Bad Request
+    Date: Sun, 15 Sep 2024 07:35:24 GMT
     Content-Type: text/html
     Content-Length: 154
     Connection: close
@@ -175,7 +188,7 @@
 <pre style="white-space:pre-wrap; word-wrap:break-word;">
   GetRequest: 
     HTTP/1.1 200 OK
-    Date: Sun, 08 Sep 2024 07:24:26 GMT
+    Date: Sun, 15 Sep 2024 07:35:29 GMT
     Content-Type: text/html
     Content-Length: 3878
     Connection: close
@@ -185,10 +198,10 @@
     X-Frame-Options: DENY
     X-Content-Type-Options: nosniff
     X-XSS-Protection: 1; mode=block
-    &lt;!doctypehtml&gt;&lt;meta name="viewport"content="width=device-width"&gt;&lt;meta charset="utf-8"&gt;&lt;script&gt;&lt;/script&gt;&lt;script&gt;var __blnChallengeStore={"unregisterServiceWorker":false,"checkChallengeParams":{"request_fate":"challengejs","tracking_id":"","bot_category":"unknown","rule_id":""},"domain":".snu.gouv.fr","cookie":{"path":"/","value":"wuwWaOUI_laBrCN4kI62gJVsuuBCl0lO_uSO9SBZ4mJdpr-CLXfSVWxRpVZo2RXEBmlwhFDl0Kz2QDZq6Re2OgskZiLtPeBWZzhQ3Twp3S8","name":"bln_challengejs","maxAge":900}};(()=&gt;{"use strict";const e=function*({domain:e,maxAge:n,name:o,path:a,secure:t,value:i}){yield`${o}=${i}`,vo
+    &lt;!doctypehtml&gt;&lt;meta name="viewport"content="width=device-width"&gt;&lt;meta charset="utf-8"&gt;&lt;script&gt;&lt;/script&gt;&lt;script&gt;var __blnChallengeStore={"checkChallengeParams":{"tracking_id":"","bot_category":"unknown","request_fate":"challengejs","rule_id":""},"domain":".snu.gouv.fr","cookie":{"maxAge":900,"name":"bln_challengejs","path":"/","value":"OSLerFRlns5GBDgkqRQcrrZemqzCAtzLDWvJI11VBsZU7g0kF8e3HqQ-ooVVxoF_UfGCZ_0CHqxDY-SQz7NBb9oVNnByibWftF16zb-LPGs"},"unregisterServiceWorker":false};(()=&gt;{"use strict";const e=function*({domain:e,maxAge:n,name:o,path:a,secure:t,value:i}){yield`${o}=${i}`,vo
   HTTPOptions: 
     HTTP/1.1 200 OK
-    Date: Sun, 08 Sep 2024 07:24:27 GMT
+    Date: Sun, 15 Sep 2024 07:35:30 GMT
     Content-Type: text/html
     Content-Length: 3878
     Connection: close
@@ -198,7 +211,7 @@
     X-Frame-Options: DENY
     X-Content-Type-Options: nosniff
     X-XSS-Protection: 1; mode=block
-    &lt;!doctypehtml&gt;&lt;meta name="viewport"content="width=device-width"&gt;&lt;meta charset="utf-8"&gt;&lt;script&gt;&lt;/script&gt;&lt;script&gt;var __blnChallengeStore={"unregisterServiceWorker":false,"cookie":{"path":"/","value":"hZ5xT7_-Eqx139ftolcptfL33m9wv-BeYf_nZ0d8_S7I1Ww0i4-Xbj8ta0f-5UFBf4fGCKHFH5fp0LSxuRX9gBQ0zbcweTdY4QV6qfkYIZE","maxAge":900,"name":"bln_challengejs"},"checkChallengeParams":{"tracking_id":"","rule_id":"","bot_category":"unknown","request_fate":"challengejs"},"domain":".snu.gouv.fr"};(()=&gt;{"use strict";const e=function*({domain:e,maxAge:n,name:o,path:a,secure:t,value:i}){yield`${o}=${i}`,vo</pre>
+    &lt;!doctypehtml&gt;&lt;meta name="viewport"content="width=device-width"&gt;&lt;meta charset="utf-8"&gt;&lt;script&gt;&lt;/script&gt;&lt;script&gt;var __blnChallengeStore={"checkChallengeParams":{"tracking_id":"","request_fate":"challengejs","bot_category":"unknown","rule_id":""},"cookie":{"name":"bln_challengejs","value":"jMDBtR9TC6lSgqQ0CMOhef4fhss1pjBJtbe1zzevVklk_j3gEDUfoxrsOYZAo8OhaeOEx7vfQSC4bXlYTaScAg9QQlbLHFfryl9MxCj-YCg","path":"/","maxAge":900},"unregisterServiceWorker":false,"domain":".snu.gouv.fr"};(()=&gt;{"use strict";const e=function*({domain:e,maxAge:n,name:o,path:a,secure:t,value:i}){yield`${o}=${i}`,vo</pre>
 </td></tr>
 </tbody>
 </table></div>
@@ -218,7 +231,7 @@
 </tr></thead>
 <tbody>
 <tr>
-<td>185.231.167.148 - moncompte.snu.gouv.fr</td>
+<td>185.179.148.148 - moncompte.snu.gouv.fr</td>
 <td>80</td>
 <td>tcp</td>
 <td>http</td>
@@ -228,7 +241,7 @@
 <td></td>
 </tr>
 <tr>
-<td>185.231.167.148 - moncompte.snu.gouv.fr</td>
+<td>185.179.148.148 - moncompte.snu.gouv.fr</td>
 <td>443</td>
 <td>tcp</td>
 <td>https</td>
