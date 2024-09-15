@@ -15,7 +15,7 @@
     "content-encoding": "gzip",
     "content-security-policy": "default-src 'self'; base-uri 'self' https://stats.beta.gouv.fr; script-src 'self' 'unsafe-inline' https://plausible.io http://localhost:3000 https://stats.beta.gouv.fr https://stats.data.gouv.fr blob:; script-src-attr 'none'; connect-src 'self' https://catalogue-apprentissage.intercariforef.org https://api-adresse.data.gouv.fr https://api.mapbox.com https://stats.beta.gouv.fr https://stats.data.gouv.fr https://events.mapbox.com https://plausible.io http://localhost:5000 https://exposition-recette.inserjeunes.beta.gouv.fr https://exposition.inserjeunes.beta.gouv.fr https://sentry.apprentissage.beta.gouv.fr https://recherche-entreprises.api.gouv.fr ; img-src 'self' data: blob: https://www.notion.so https://www.google.com https://www.google.fr https://stats.beta.gouv.fr; object-src 'self' data:; font-src 'self' https: data:; style-src 'self' https: 'unsafe-inline'; frame-src 'self' https://plausible.io; child-src 'self' blob:; block-all-mixed-content; upgrade-insecure-requests; frame-ancestors 'none';",
     "content-type": "text/html; charset=utf-8",
-    "date": "Sun, 08 Sep 2024 10:50:29 GMT",
+    "date": "Sun, 15 Sep 2024 10:47:50 GMT",
     "etag": "\"gysl8c5u3c1zps\"",
     "referrer-policy": "unsafe-url\nno-referrer-when-downgrade",
     "strict-transport-security": "max-age=31536000; includeSubDomains\nmax-age=31536000; includeSubdomains",
@@ -84,19 +84,19 @@
     },
     {
       "hostname": "plausible.io",
-      "ip": "38.104.169.186",
+      "ip": "156.146.43.65",
       "geoip": {
         "city": {
-          "geoname_id": 4460243,
+          "geoname_id": 4164138,
           "names": {
-            "de": "Charlotte",
-            "en": "Charlotte",
-            "es": "Charlotte",
-            "fr": "Charlotte",
-            "ja": "シャーロット",
-            "pt-BR": "Charlotte",
-            "ru": "Шарлотт",
-            "zh-CN": "夏洛特"
+            "de": "Miami",
+            "en": "Miami",
+            "es": "Miami",
+            "fr": "Miami",
+            "ja": "マイアミ",
+            "pt-BR": "Miami",
+            "ru": "Майами",
+            "zh-CN": "迈阿密"
           }
         },
         "continent": {
@@ -129,41 +129,41 @@
         },
         "location": {
           "accuracy_radius": 20,
-          "latitude": 35.2316,
-          "longitude": -80.8428,
-          "metro_code": 517,
+          "latitude": 25.7689,
+          "longitude": -80.1946,
+          "metro_code": 528,
           "time_zone": "America/New_York"
         },
         "postal": {
-          "code": "28202"
+          "code": "33192"
         },
         "registered_country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
+          "geoname_id": 2635167,
+          "iso_code": "GB",
           "names": {
-            "de": "USA",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
+            "de": "UK",
+            "en": "United Kingdom",
+            "es": "Reino Unido",
+            "fr": "Royaume-Uni",
+            "ja": "英国",
+            "pt-BR": "Reino Unido",
+            "ru": "Британия",
+            "zh-CN": "英国"
           }
         },
         "subdivisions": [
           {
-            "geoname_id": 4482348,
-            "iso_code": "NC",
+            "geoname_id": 4155751,
+            "iso_code": "FL",
             "names": {
-              "de": "North Carolina",
-              "en": "North Carolina",
-              "es": "Carolina del Norte",
-              "fr": "Caroline du Nord",
-              "ja": "ノースカロライナ州",
-              "pt-BR": "Carolina do Norte",
-              "ru": "Северная Каролина",
-              "zh-CN": "北卡罗来纳州"
+              "de": "Florida",
+              "en": "Florida",
+              "es": "Florida",
+              "fr": "Floride",
+              "ja": "フロリダ州",
+              "pt-BR": "Flórida",
+              "ru": "Флорида",
+              "zh-CN": "佛罗里达州"
             }
           }
         ]
