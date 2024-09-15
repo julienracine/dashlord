@@ -381,7 +381,7 @@
               "ip"           : "world.openfoodfacts.org/213.36.253.214",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "78 >= 30 days"
+              "finding"      : "71 >= 30 days"
           }
 ,         {
               "id"           : "cert_notBefore",
@@ -549,7 +549,7 @@
               "ip"           : "world.openfoodfacts.org/213.36.253.214",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1725799925"
+              "finding"      : "1726404219"
           }
 ,         {
               "id"           : "HSTS",
@@ -1135,6 +1135,6 @@
               "ip"           : "world.openfoodfacts.org/213.36.253.214",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "62"
+              "finding"      : "71"
           }
 ]
