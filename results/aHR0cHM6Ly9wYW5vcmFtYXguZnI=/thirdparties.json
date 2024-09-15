@@ -22,11 +22,11 @@
     },
     {
       "type": "unknown",
-      "url": "https://matomo.panoramax.xyz//matomo.php?action_name=L%E2%80%99alternative%20libre%20pour%20photo-cartographier%20les%20territoires&idsite=2&rec=1&r=622198&h=12&m=53&s=54&url=https%3A%2F%2Fpanoramax.fr%2F&_id=22bf90dd49f8edf4&_idn=1&send_image=0&_refts=0&pv_id=Nfac9k&pf_net=180&pf_srv=234&pf_tfr=1&pf_dm1=7&uadata=%7B%22fullVersionList%22%3A%5B%5D%2C%22mobile%22%3Afalse%2C%22model%22%3A%22%22%2C%22platform%22%3A%22%22%2C%22platformVersion%22%3A%22%22%7D&cookie=1&res=800x600"
+      "url": "https://panoramax.openstreetmap.fr/pmtiles/basic.json"
     },
     {
       "type": "unknown",
-      "url": "https://panoramax.openstreetmap.fr/pmtiles/basic.json"
+      "url": "https://matomo.panoramax.xyz//matomo.php?action_name=L%E2%80%99alternative%20libre%20pour%20photo-cartographier%20les%20territoires&idsite=2&rec=1&r=693259&h=12&m=43&s=17&url=https%3A%2F%2Fpanoramax.fr%2F&_id=d986784bcd474b25&_idn=1&send_image=0&_refts=0&pv_id=kEmtPH&pf_net=76&pf_srv=78&pf_tfr=1&pf_dm1=6&uadata=%7B%22fullVersionList%22%3A%5B%5D%2C%22mobile%22%3Afalse%2C%22model%22%3A%22%22%2C%22platform%22%3A%22%22%2C%22platformVersion%22%3A%22%22%7D&cookie=1&res=800x600"
     },
     {
       "type": "unknown",
@@ -119,7 +119,7 @@
       "value": "1",
       "domain": "panoramax.fr",
       "path": "/",
-      "expires": 1725801834,
+      "expires": 1726405997,
       "size": 15,
       "httpOnly": false,
       "secure": false,
@@ -131,10 +131,10 @@
     },
     {
       "name": "_pk_id.2.8046",
-      "value": "22bf90dd49f8edf4.1725800035.",
+      "value": "d986784bcd474b25.1726404198.",
       "domain": "panoramax.fr",
       "path": "/",
-      "expires": 1759755235,
+      "expires": 1760359398,
       "size": 41,
       "httpOnly": false,
       "secure": false,
@@ -149,10 +149,10 @@
     "cache-control": "max-age=600",
     "content-length": "1352",
     "content-type": "text/html; charset=utf-8",
-    "date": "Sun, 08 Sep 2024 12:53:52 GMT",
-    "etag": "\"e9107df072afe25337529efcc54c75bc36a856059a0116d7f13275c22d478cb1\"",
-    "expires": "Sun, 08 Sep 2024 13:03:52 UTC",
-    "last-modified": "Mon, 02 Sep 2024 16:39:16 GMT",
+    "date": "Sun, 15 Sep 2024 12:43:16 GMT",
+    "etag": "\"0e08b1cd3b5b93b04e9e9453c4db7e870b6486d664950354678e4d08d021d39e\"",
+    "expires": "Sun, 15 Sep 2024 12:53:16 UTC",
+    "last-modified": "Wed, 11 Sep 2024 09:39:08 GMT",
     "permissions-policy": "interest-cohort=()",
     "vary": "Origin"
   },
@@ -414,16 +414,14 @@
       "ip": "213.36.253.212",
       "geoip": {
         "city": {
-          "geoname_id": 2988507,
+          "geoname_id": 3027883,
           "names": {
-            "de": "Paris",
-            "en": "Paris",
-            "es": "París",
-            "fr": "Paris",
-            "ja": "パリ",
-            "pt-BR": "Paris",
-            "ru": "Париж",
-            "zh-CN": "巴黎"
+            "de": "Cergy",
+            "en": "Cergy",
+            "fr": "Cergy",
+            "ja": "セルジー",
+            "ru": "Сержи",
+            "zh-CN": "塞尔吉"
           }
         },
         "continent": {
@@ -457,12 +455,12 @@
         },
         "location": {
           "accuracy_radius": 20,
-          "latitude": 48.8323,
-          "longitude": 2.4075,
+          "latitude": 49.0291,
+          "longitude": 2.0601,
           "time_zone": "Europe/Paris"
         },
         "postal": {
-          "code": "75008"
+          "code": "95800"
         },
         "registered_country": {
           "geoname_id": 3017382,
@@ -495,13 +493,17 @@
             }
           },
           {
-            "geoname_id": 2968815,
-            "iso_code": "75",
+            "geoname_id": 2971071,
+            "iso_code": "95",
             "names": {
-              "de": "Paris",
-              "en": "Paris",
-              "es": "Paris",
-              "fr": "Paris"
+              "de": "Val d'Oise",
+              "en": "Val d'Oise",
+              "es": "Valle de Oise",
+              "fr": "Val-d'Oise",
+              "ja": "ヴァル＝ドワーズ県",
+              "pt-BR": "Val-d'Oise",
+              "ru": "Валь-д’Уаз",
+              "zh-CN": "瓦兹河谷省"
             }
           }
         ]
