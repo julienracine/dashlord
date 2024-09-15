@@ -1,41 +1,96 @@
 {
   "trackers": [
     {
-      "type": "unpkg",
-      "url": "https://unpkg.com/maplibre-gl@2.4.0/dist/maplibre-gl.css",
-      "details": {
-        "id": "unpkg",
-        "message": "Host files locally"
-      }
+      "type": "unknown",
+      "url": "https://oos.cloudgouv-eu-west-1.outscale.com/wagtail-zlv/images/logo_ZLV_header-website.original.svg?AWSAccessKeyId=IIABDQQ1TNOJM01L6ED9&Signature=Z%2F8t2YKACyJc2op9KJa31SIF04Y%3D&Expires=1726400660"
     },
     {
-      "type": "crisp",
-      "url": "https://client.crisp.chat/l.js",
-      "details": {
-        "id": "crisp",
-        "message": "Ensure your TOS notify the CRISP usage"
-      }
+      "type": "unknown",
+      "url": "https://oos.cloudgouv-eu-west-1.outscale.com/wagtail-zlv/images/photo_accueil_avant_apres.original.png?AWSAccessKeyId=IIABDQQ1TNOJM01L6ED9&Signature=Q%2Fkh59FNQT3x6%2BPPG3XIrz%2F%2Bm24%3D&Expires=1726400660"
+    },
+    {
+      "type": "unknown",
+      "url": "https://oos.cloudgouv-eu-west-1.outscale.com/wagtail-zlv/images/statistic_chart.3b2a717c3bc810228dfb5eb49dc33b.width-800.svg?AWSAccessKeyId=IIABDQQ1TNOJM01L6ED9&Signature=eW%2BbXihPMpfzXSlc3GdZ%2FJUNHN0%3D&Expires=1726400660"
+    },
+    {
+      "type": "unknown",
+      "url": "https://oos.cloudgouv-eu-west-1.outscale.com/wagtail-zlv/images/location_review.3855ea620bd4c595a77d087ceaae6f.width-800.svg?AWSAccessKeyId=IIABDQQ1TNOJM01L6ED9&Signature=%2BKKwKYRIjHPVAZ5sLJ7VgTF%2BF4k%3D&Expires=1726400660"
+    },
+    {
+      "type": "unknown",
+      "url": "https://oos.cloudgouv-eu-west-1.outscale.com/wagtail-zlv/images/collaboration.b7d540aec8cb66da8b0473eba30a6502.width-800.svg?AWSAccessKeyId=IIABDQQ1TNOJM01L6ED9&Signature=2NYCe3Osjd1Ir6eyun%2BMlisV3F0%3D&Expires=1726400660"
+    },
+    {
+      "type": "unknown",
+      "url": "https://oos.cloudgouv-eu-west-1.outscale.com/wagtail-zlv/images/real_time_collaboration.9f1e4e6abe5ea6c9fd17f9.width-800.svg?AWSAccessKeyId=IIABDQQ1TNOJM01L6ED9&Signature=cP7dB%2BfWYSWzatk9SioF881Bxdg%3D&Expires=1726400660"
+    },
+    {
+      "type": "unknown",
+      "url": "https://oos.cloudgouv-eu-west-1.outscale.com/wagtail-zlv/images/antonin-carvalho-Jq1u4OOfI0M-unsplash_1.width-1200.jpg?AWSAccessKeyId=IIABDQQ1TNOJM01L6ED9&Signature=wK8uhokfCJ85LQ0PGumZIwm6FW8%3D&Expires=1726400660"
+    },
+    {
+      "type": "unknown",
+      "url": "https://oos.cloudgouv-eu-west-1.outscale.com/wagtail-zlv/images/cecile-musy-TTEkReP50x4-unsplash_2_1.width-1200.jpg?AWSAccessKeyId=IIABDQQ1TNOJM01L6ED9&Signature=LoIwuz9Ye2QWmWeFMueI3tq5BHM%3D&Expires=1726400660"
+    },
+    {
+      "type": "unknown",
+      "url": "https://oos.cloudgouv-eu-west-1.outscale.com/wagtail-zlv/images/pedro-lastra-XlSgaYMWsZ8-unsplash_1.width-1200.jpg?AWSAccessKeyId=IIABDQQ1TNOJM01L6ED9&Signature=3d67mA4hnt9S7ktSVuhNLSrBArw%3D&Expires=1726400660"
+    },
+    {
+      "type": "unknown",
+      "url": "https://oos.cloudgouv-eu-west-1.outscale.com/wagtail-zlv/images/LV_photo.width-1200.jpg?AWSAccessKeyId=IIABDQQ1TNOJM01L6ED9&Signature=kGISt%2B6mg8shdYqVGObMUzIopNQ%3D&Expires=1726400660"
+    },
+    {
+      "type": "unknown",
+      "url": "https://oos.cloudgouv-eu-west-1.outscale.com/wagtail-zlv/images/roubaix_pp.original.png?AWSAccessKeyId=IIABDQQ1TNOJM01L6ED9&Signature=Bun2REBH%2BZQDCUVbezEymMaqHfo%3D&Expires=1726400660"
+    },
+    {
+      "type": "unknown",
+      "url": "https://oos.cloudgouv-eu-west-1.outscale.com/wagtail-zlv/images/strasbourg_pp.original.png?AWSAccessKeyId=IIABDQQ1TNOJM01L6ED9&Signature=C5pYNQFgBqMSaFHLTxnmnQEak%2FU%3D&Expires=1726400660"
+    },
+    {
+      "type": "unknown",
+      "url": "https://oos.cloudgouv-eu-west-1.outscale.com/wagtail-zlv/images/cahors_pp.original.png?AWSAccessKeyId=IIABDQQ1TNOJM01L6ED9&Signature=D1kctjXFqAyO5HE1aJWvQ2M%2Fo28%3D&Expires=1726400660"
+    },
+    {
+      "type": "unknown",
+      "url": "https://oos.cloudgouv-eu-west-1.outscale.com/wagtail-zlv/images/rennes_pp.original.png?AWSAccessKeyId=IIABDQQ1TNOJM01L6ED9&Signature=LqvDLUI8PrbbOnwov7mP3%2BvKGb0%3D&Expires=1726400660"
+    },
+    {
+      "type": "unknown",
+      "url": "https://oos.cloudgouv-eu-west-1.outscale.com/wagtail-zlv/images/Logo_CA_Chateauroux_Metropole.original.png?AWSAccessKeyId=IIABDQQ1TNOJM01L6ED9&Signature=i%2FdeouJC2QGt8tZrVSyMFB10iw0%3D&Expires=1726400660"
+    },
+    {
+      "type": "unknown",
+      "url": "https://oos.cloudgouv-eu-west-1.outscale.com/wagtail-zlv/images/lyon_pp.original.png?AWSAccessKeyId=IIABDQQ1TNOJM01L6ED9&Signature=S9Pg2RT7EFOPAdThCOwJplMqPYw%3D&Expires=1726400660"
+    },
+    {
+      "type": "unknown",
+      "url": "https://oos.cloudgouv-eu-west-1.outscale.com/wagtail-zlv/images/logo_saint_log_agglo.original.png?AWSAccessKeyId=IIABDQQ1TNOJM01L6ED9&Signature=Vqwof0tbNv1RoLN91wSo9or5IOc%3D&Expires=1726400660"
+    },
+    {
+      "type": "unknown",
+      "url": "https://oos.cloudgouv-eu-west-1.outscale.com/wagtail-zlv/images/Logo-CCKB-A.original.jpg?AWSAccessKeyId=IIABDQQ1TNOJM01L6ED9&Signature=jPwGxnB%2Fb%2BRzH75IGGjCSDdPJm0%3D&Expires=1726400660"
     }
   ],
   "cookies": [],
   "headers": {
-    "accept-ranges": "bytes",
-    "connection": "Keep-Alive",
     "content-encoding": "gzip",
-    "content-length": "791",
-    "content-type": "text/html",
-    "date": "Sun, 08 Sep 2024 10:44:41 GMT",
-    "etag": "\"5ca-61e9edd20fec2-gzip\"",
-    "keep-alive": "timeout=5, max=100",
-    "last-modified": "Thu, 01 Aug 2024 13:05:23 GMT",
-    "server": "Apache",
-    "sozu-id": "01J78KRR9JR185MW8CB51JY0GS",
-    "vary": "Accept-Encoding"
+    "content-language": "fr",
+    "content-type": "text/html; charset=utf-8",
+    "cross-origin-opener-policy": "same-origin",
+    "date": "Sun, 15 Sep 2024 10:44:20 GMT",
+    "referrer-policy": "same-origin",
+    "strict-transport-security": "max-age=31536000",
+    "vary": "Accept-Language, Cookie",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "DENY",
+    "x-request-id": "f6db1bb7-558e-41fb-ba64-82c1d5214bd3"
   },
   "endpoints": [
     {
       "hostname": "zerologementvacant.beta.gouv.fr",
-      "ip": "91.208.207.215",
+      "ip": "5.104.101.30",
       "geoip": {
         "continent": {
           "code": "EU",
@@ -90,41 +145,57 @@
       }
     },
     {
-      "hostname": "unpkg.com",
-      "ip": "104.17.247.203",
+      "hostname": "oos.cloudgouv-eu-west-1.outscale.com",
+      "ip": "148.253.96.5",
       "geoip": {
-        "registered_country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
+        "continent": {
+          "code": "EU",
+          "geoname_id": 6255148,
           "names": {
-            "de": "USA",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
+            "de": "Europa",
+            "en": "Europe",
+            "es": "Europa",
+            "fr": "Europe",
+            "ja": "ヨーロッパ",
+            "pt-BR": "Europa",
+            "ru": "Европа",
+            "zh-CN": "欧洲"
           }
-        }
-      }
-    },
-    {
-      "hostname": "client.crisp.chat",
-      "ip": "104.18.29.104",
-      "geoip": {
-        "registered_country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
+        },
+        "country": {
+          "geoname_id": 3017382,
+          "is_in_european_union": true,
+          "iso_code": "FR",
           "names": {
-            "de": "USA",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
+            "de": "Frankreich",
+            "en": "France",
+            "es": "Francia",
+            "fr": "France",
+            "ja": "フランス共和国",
+            "pt-BR": "França",
+            "ru": "Франция",
+            "zh-CN": "法国"
+          }
+        },
+        "location": {
+          "accuracy_radius": 500,
+          "latitude": 48.8582,
+          "longitude": 2.3387,
+          "time_zone": "Europe/Paris"
+        },
+        "registered_country": {
+          "geoname_id": 3017382,
+          "is_in_european_union": true,
+          "iso_code": "FR",
+          "names": {
+            "de": "Frankreich",
+            "en": "France",
+            "es": "Francia",
+            "fr": "France",
+            "ja": "フランス共和国",
+            "pt-BR": "França",
+            "ru": "Франция",
+            "zh-CN": "法国"
           }
         }
       }
