@@ -811,4 +811,5 @@ urls:
     repositories:
       - betagouv/maestro
   - url: https://www.dataregion.fr
-  title: Homepage Data Etat
+    title: Homepage Data Etat
+    betaId: data.etat
