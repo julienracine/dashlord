@@ -14,7 +14,7 @@
     },
     {
       "type": "unknown",
-      "url": "https://labonneboite.francetravail.fr/runtime.27cdf28e5cda2ec8.js"
+      "url": "https://labonneboite.francetravail.fr/runtime.91cd2f46a742c8fa.js"
     },
     {
       "type": "unknown",
@@ -22,7 +22,7 @@
     },
     {
       "type": "unknown",
-      "url": "https://labonneboite.francetravail.fr/main.af9f9d3e9ac46866.js"
+      "url": "https://labonneboite.francetravail.fr/main.d497e2b1ec9530b8.js"
     },
     {
       "type": "unknown",
@@ -42,7 +42,11 @@
     },
     {
       "type": "unknown",
-      "url": "https://labonneboite.francetravail.fr/styles.91062c32f4a1570d.css"
+      "url": "https://labonneboite.francetravail.fr/styles.dac7b92acad7d3e0.css"
+    },
+    {
+      "type": "unknown",
+      "url": "https://labonneboite.francetravail.fr/Roboto-Regular.d0bc87a819730d23.ttf"
     },
     {
       "type": "unknown",
@@ -51,10 +55,6 @@
     {
       "type": "unknown",
       "url": "https://labonneboite.francetravail.fr/icons.f6dee6c2ab6b1c8a.ttf?wekjvp"
-    },
-    {
-      "type": "unknown",
-      "url": "https://labonneboite.francetravail.fr/Roboto-Regular.d0bc87a819730d23.ttf"
     },
     {
       "type": "unknown",
@@ -66,15 +66,15 @@
     },
     {
       "type": "unknown",
+      "url": "https://labonneboite.francetravail.fr/Roboto-Regular.d0bc87a819730d23.ttf"
+    },
+    {
+      "type": "unknown",
       "url": "https://labonneboite.francetravail.fr/Roboto-Bold.c36a3fe042b96dc3.ttf"
     },
     {
       "type": "unknown",
       "url": "https://labonneboite.francetravail.fr/icons.f6dee6c2ab6b1c8a.ttf?wekjvp"
-    },
-    {
-      "type": "unknown",
-      "url": "https://labonneboite.francetravail.fr/Roboto-Regular.d0bc87a819730d23.ttf"
     },
     {
       "type": "unknown",
@@ -94,15 +94,7 @@
     },
     {
       "type": "unknown",
-      "url": "https://hd.pe.fr/event?s=475540&idclient=m13gnla08j1jhg7a"
-    },
-    {
-      "type": "google fonts",
-      "url": "https://fonts.gstatic.com/s/opensans/v29/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTS-muw.woff2",
-      "details": {
-        "id": "google fonts",
-        "message": "Host the font locally with https://github.com/neverpanic/google-font-download or https://google-webfonts-helper.herokuapp.com/"
-      }
+      "url": "https://hd.pe.fr/event?s=475540&idclient=m1dgcsp53320xlae"
     },
     {
       "type": "unknown",
@@ -117,12 +109,20 @@
       }
     },
     {
-      "type": "unknown",
-      "url": "https://labonneboite.francetravail.fr/common.d277eab1d7c5155e.js"
+      "type": "google fonts",
+      "url": "https://fonts.gstatic.com/s/opensans/v29/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTS-muw.woff2",
+      "details": {
+        "id": "google fonts",
+        "message": "Host the font locally with https://github.com/neverpanic/google-font-download or https://google-webfonts-helper.herokuapp.com/"
+      }
     },
     {
       "type": "unknown",
-      "url": "https://labonneboite.francetravail.fr/47.0fb06d71bf16bce7.js"
+      "url": "https://labonneboite.francetravail.fr/common.bcfd4858f6699d4b.js"
+    },
+    {
+      "type": "unknown",
+      "url": "https://labonneboite.francetravail.fr/47.4bcf133da7c934ec.js"
     },
     {
       "type": "unknown",
@@ -144,11 +144,11 @@
   "cookies": [
     {
       "name": "_pctx",
-      "value": "%7Bu%7DN4IgrgzgpgThIC4B2YA2qA05owMoBcBDfSREQpAeyRCwgEt8oBJAE0RXSwH18yBbAOYwAbqgBM-QiAC%2BQA",
+      "value": "%7Bu%7DN4IgrgzgpgThIC4B2YA2qA05owMoBcBDfSREQpAeyRCwgEt8oBJAE0RXSwH18yBbABYBGAG6FCwgGYgAvkA",
       "domain": ".francetravail.fr",
       "path": "/",
-      "expires": 1760525765,
-      "size": 96,
+      "expires": 1761129923,
+      "size": 95,
       "httpOnly": false,
       "secure": true,
       "session": false,
@@ -159,10 +159,10 @@
     },
     {
       "name": "_pcid",
-      "value": "%7B%22browserId%22%3A%22m13gnla08j1jhg7a%22%2C%22_t%22%3A%22mgrvl2m9%22%7D",
+      "value": "%7B%22browserId%22%3A%22m1dgcsp53320xlae%22%2C%22_t%22%3A%22mh1vaa1d%22%7D",
       "domain": ".francetravail.fr",
       "path": "/",
-      "expires": 1760525765,
+      "expires": 1761129923,
       "size": 79,
       "httpOnly": false,
       "secure": true,
@@ -174,11 +174,11 @@
     },
     {
       "name": "TCPID",
-      "value": "12490105652027424959",
+      "value": "124901045243378838805",
       "domain": ".francetravail.fr",
       "path": "/",
-      "expires": 1760352965,
-      "size": 25,
+      "expires": 1760957124,
+      "size": 26,
       "httpOnly": false,
       "secure": true,
       "session": false,
@@ -192,7 +192,7 @@
       "value": "%22exempt%22",
       "domain": ".francetravail.fr",
       "path": "/",
-      "expires": 1760525765,
+      "expires": 1761129923,
       "size": 22,
       "httpOnly": false,
       "secure": true,
@@ -208,8 +208,8 @@
     "content-encoding": "gzip",
     "content-security-policy": "script-src 'self' 'unsafe-inline' 'unsafe-eval' blob: maps.pole-emploi.fr cdn.trustcommander.net cdn.tagcommander.com tag.aticdn.net guidances-applicatives.pole-emploi.fr https://*.mopinion.com/ composants-pe-communs.pole-emploi.fr;",
     "content-type": "text/html; charset=utf-8",
-    "date": "Sun, 15 Sep 2024 10:56:05 GMT",
-    "etag": "W/\"1deea-EYjxvscHttggpQ6sMius9uvTfd0\"",
+    "date": "Sun, 22 Sep 2024 10:45:23 GMT",
+    "etag": "W/\"1dc5e-IrDvf3oHVNrAMd2PubUpWYzides\"",
     "referrer-policy": "strict-origin",
     "strict-transport-security": "max-age=31536000; includeSubDomains",
     "transfer-encoding": "chunked",
@@ -404,7 +404,7 @@
     },
     {
       "hostname": "tag.aticdn.net",
-      "ip": "18.160.18.104",
+      "ip": "18.160.18.10",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -458,61 +458,7 @@
     },
     {
       "hostname": "hd.pe.fr",
-      "ip": "18.160.18.7",
-      "geoip": {
-        "continent": {
-          "code": "NA",
-          "geoname_id": 6255149,
-          "names": {
-            "de": "Nordamerika",
-            "en": "North America",
-            "es": "Norteamérica",
-            "fr": "Amérique du Nord",
-            "ja": "北アメリカ",
-            "pt-BR": "América do Norte",
-            "ru": "Северная Америка",
-            "zh-CN": "北美洲"
-          }
-        },
-        "country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
-          "names": {
-            "de": "USA",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
-          }
-        },
-        "location": {
-          "accuracy_radius": 1000,
-          "latitude": 37.751,
-          "longitude": -97.822,
-          "time_zone": "America/Chicago"
-        },
-        "registered_country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
-          "names": {
-            "de": "USA",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
-          }
-        }
-      }
-    },
-    {
-      "hostname": "fonts.gstatic.com",
-      "ip": "172.253.122.94",
+      "ip": "18.160.18.3",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -566,7 +512,7 @@
     },
     {
       "hostname": "privacy.trustcommander.net",
-      "ip": "35.181.181.136",
+      "ip": "15.236.117.103",
       "geoip": {
         "city": {
           "geoname_id": 2988507,
@@ -659,6 +605,60 @@
             }
           }
         ]
+      }
+    },
+    {
+      "hostname": "fonts.gstatic.com",
+      "ip": "142.251.111.94",
+      "geoip": {
+        "continent": {
+          "code": "NA",
+          "geoname_id": 6255149,
+          "names": {
+            "de": "Nordamerika",
+            "en": "North America",
+            "es": "Norteamérica",
+            "fr": "Amérique du Nord",
+            "ja": "北アメリカ",
+            "pt-BR": "América do Norte",
+            "ru": "Северная Америка",
+            "zh-CN": "北美洲"
+          }
+        },
+        "country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "USA",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        },
+        "location": {
+          "accuracy_radius": 1000,
+          "latitude": 37.751,
+          "longitude": -97.822,
+          "time_zone": "America/Chicago"
+        },
+        "registered_country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "USA",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        }
       }
     }
   ]
