@@ -381,7 +381,7 @@
               "ip"           : "world.openfoodfacts.org/213.36.253.214",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "71 >= 30 days"
+              "finding"      : "64 >= 30 days"
           }
 ,         {
               "id"           : "cert_notBefore",
@@ -549,7 +549,7 @@
               "ip"           : "world.openfoodfacts.org/213.36.253.214",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1726404219"
+              "finding"      : "1727008992"
           }
 ,         {
               "id"           : "HSTS",
@@ -748,24 +748,6 @@
               "cve"          : "CVE-2015-4000",
               "cwe"          : "CWE-310",
               "finding"      : "no DH key with <= TLS 1.2"
-          }
-,         {
-              "id"           : "BEAST_CBC_TLS1",
-              "ip"           : "world.openfoodfacts.org/213.36.253.214",
-              "port"         : "443",
-              "severity"     : "MEDIUM",
-              "cve"          : "CVE-2011-3389",
-              "cwe"          : "CWE-20",
-              "finding"      : "ECDHE-RSA-AES256-SHA"
-          }
-,         {
-              "id"           : "BEAST",
-              "ip"           : "world.openfoodfacts.org/213.36.253.214",
-              "port"         : "443",
-              "severity"     : "LOW",
-              "cve"          : "CVE-2011-3389",
-              "cwe"          : "CWE-20",
-              "finding"      : "VULNERABLE -- but also supports higher protocols  TLSv1.1 TLSv1.2 (likely mitigated)"
           }
 ,         {
               "id"           : "LUCKY13",
@@ -1135,6 +1117,6 @@
               "ip"           : "world.openfoodfacts.org/213.36.253.214",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "71"
+              "finding"      : "193"
           }
 ]
