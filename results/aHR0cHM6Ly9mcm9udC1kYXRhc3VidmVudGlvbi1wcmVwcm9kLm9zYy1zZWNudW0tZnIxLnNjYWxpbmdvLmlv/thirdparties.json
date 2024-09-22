@@ -14,21 +14,21 @@
     "access-control-allow-origin": "*",
     "cache-control": "max-age 1800",
     "content-encoding": "gzip",
-    "content-security-policy": "default-src 'self'; frame-src 'self' https://game.crisp.chat https://datasubvention.crisp.help; worker-src blob:; connect-src 'self' https://api-datasubvention-preprod.osc-secnum-fr1.scalingo.io https://client.crisp.chat wss://client.relay.crisp.chat https://storage.crisp.chat wss://stream.relay.crisp.chat https://matomo-datasubvention.osc-secnum-fr1.scalingo.io https://geo.api.gouv.fr https://sentry.incubateur.net; font-src 'self' https://client.crisp.chat; img-src 'self' data: https://image.crisp.chat https://client.crisp.chat https://storage.crisp.chat; script-src 'unsafe-inline' 'unsafe-eval' 'self' https://client.crisp.chat https://settings.crisp.chat https://matomo-datasubvention.osc-secnum-fr1.scalingo.io https://sentry.incubateur.net 'sha256-+X7Z1KW2Vcl9pendYbp0FYL6F0HZek43aBP/14cwq+U=' 'nonce-Joa6goADrbMmpOvERAYE0A=='; style-src 'self' https://client.crisp.chat 'unsafe-inline'; report-uri https://sentry.incubateur.net; report-to 'csp-endpoint'",
+    "content-security-policy": "default-src 'self'; frame-src 'self' https://game.crisp.chat https://datasubvention.crisp.help; worker-src blob:; connect-src 'self' https://api-datasubvention-preprod.osc-secnum-fr1.scalingo.io https://client.crisp.chat wss://client.relay.crisp.chat https://storage.crisp.chat wss://stream.relay.crisp.chat https://matomo-datasubvention.osc-secnum-fr1.scalingo.io https://geo.api.gouv.fr https://sentry.incubateur.net; font-src 'self' https://client.crisp.chat; img-src 'self' data: https://image.crisp.chat https://client.crisp.chat https://storage.crisp.chat; script-src 'unsafe-inline' 'unsafe-eval' 'self' https://client.crisp.chat https://settings.crisp.chat https://matomo-datasubvention.osc-secnum-fr1.scalingo.io https://sentry.incubateur.net 'sha256-+X7Z1KW2Vcl9pendYbp0FYL6F0HZek43aBP/14cwq+U=' 'nonce-hO84gKrafmCNUQ9nbKeUKQ=='; style-src 'self' https://client.crisp.chat 'unsafe-inline'; report-uri https://sentry.incubateur.net; report-to 'csp-endpoint'",
     "content-type": "text/html",
-    "date": "Sun, 15 Sep 2024 11:45:37 GMT",
-    "etag": "W/\"9jbtfj\"",
+    "date": "Sun, 22 Sep 2024 11:45:16 GMT",
+    "etag": "W/\"17m92fs\"",
     "link": "<./_app/immutable/entry/start.fd1af60c.js>; rel=\"modulepreload\"; nopush, <./_app/immutable/chunks/scheduler.7184b185.js>; rel=\"modulepreload\"; nopush, <./_app/immutable/chunks/singletons.9b14d70e.js>; rel=\"modulepreload\"; nopush, <./_app/immutable/chunks/index.d680a20e.js>; rel=\"modulepreload\"; nopush, <./_app/immutable/chunks/paths.ad19be4a.js>; rel=\"modulepreload\"; nopush, <./_app/immutable/entry/app.a3450d95.js>; rel=\"modulepreload\"; nopush, <./_app/immutable/chunks/hasTracingEnabled.14e4e196.js>; rel=\"modulepreload\"; nopush, <./_app/immutable/chunks/stores.bcbc0d50.js>; rel=\"modulepreload\"; nopush, <./_app/immutable/chunks/public.afdab472.js>; rel=\"modulepreload\"; nopush, <./_app/immutable/chunks/index.4b368aa2.js>; rel=\"modulepreload\"; nopush",
-    "strict-transport-security": "max-age=31536000\nmax-age=63072000; includeSubDomains; preload",
+    "strict-transport-security": "max-age=63072000; includeSubDomains; preload",
     "x-content-type-options": "nosniff",
     "x-frame-options": "SAMEORIGIN",
-    "x-request-id": "601170d8-74cd-4387-9615-ec80d23f2793",
+    "x-request-id": "8394b74a-6cd9-4784-8ddf-901859d89765",
     "x-sveltekit-page": "true"
   },
   "endpoints": [
     {
       "hostname": "front-datasubvention-preprod.osc-secnum-fr1.scalingo.io",
-      "ip": "185.21.194.105",
+      "ip": "80.247.12.255",
       "geoip": {
         "continent": {
           "code": "EU",
