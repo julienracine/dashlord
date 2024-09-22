@@ -206,7 +206,7 @@
               "ip"           : "pix.fr/185.179.149.141",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "supported"
+              "finding"      : "not supported"
           }
 ,         {
               "id"           : "TLS_timestamp",
@@ -346,7 +346,7 @@
               "ip"           : "pix.fr/185.179.149.141",
               "port"         : "443",
               "severity"     : "MEDIUM",
-              "finding"      : "expires < 60 days (57)"
+              "finding"      : "expires < 60 days (50)"
           }
 ,         {
               "id"           : "cert_notBefore",
@@ -507,7 +507,7 @@
               "ip"           : "pix.fr/185.179.149.141",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1726379843"
+              "finding"      : "1726984468"
           }
 ,         {
               "id"           : "HSTS_time",
@@ -1098,6 +1098,6 @@
               "ip"           : "pix.fr/185.179.149.141",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "55"
+              "finding"      : "54"
           }
 ]
