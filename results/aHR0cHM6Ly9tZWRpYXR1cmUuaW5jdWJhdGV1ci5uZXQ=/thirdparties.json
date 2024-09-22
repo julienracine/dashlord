@@ -9,11 +9,11 @@
     "cross-origin-embedder-policy": "require-corp",
     "cross-origin-opener-policy": "same-origin",
     "cross-origin-resource-policy": "same-origin",
-    "date": "Sun, 15 Sep 2024 04:43:26 GMT",
+    "date": "Sun, 22 Sep 2024 04:44:41 GMT",
     "etag": "\"oymsqsx037dnf\"",
     "origin-agent-cluster": "?1",
     "referrer-policy": "no-referrer",
-    "strict-transport-security": "max-age=31536000\nmax-age=15552000; includeSubDomains",
+    "strict-transport-security": "max-age=15552000; includeSubDomains",
     "vary": "RSC, Next-Router-State-Tree, Next-Router-Prefetch, Accept-Encoding",
     "x-content-type-options": "nosniff",
     "x-dns-prefetch-control": "off",
@@ -21,7 +21,7 @@
     "x-frame-options": "SAMEORIGIN",
     "x-nextjs-cache": "HIT",
     "x-permitted-cross-domain-policies": "none",
-    "x-request-id": "d0a98930-a195-4525-a632-54f68be495b7",
+    "x-request-id": "af520e5b-7f21-476e-b83e-6da94dac62a5",
     "x-xss-protection": "0"
   },
   "endpoints": [
