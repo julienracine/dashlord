@@ -346,7 +346,7 @@
               "ip"           : "passculture.pro/34.107.224.170",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "155 >= 60 days"
+              "finding"      : "148 >= 60 days"
           }
 ,         {
               "id"           : "cert_notBefore",
@@ -507,7 +507,7 @@
               "ip"           : "passculture.pro/34.107.224.170",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1726379239"
+              "finding"      : "1726984022"
           }
 ,         {
               "id"           : "HSTS_time",
@@ -570,7 +570,7 @@
               "ip"           : "passculture.pro/34.107.224.170",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "cache-chi-kigq8000100-CHI"
+              "finding"      : "cache-bur-kbur8200067-BUR"
           }
 ,         {
               "id"           : "Cache-Control",
@@ -1084,6 +1084,6 @@
               "ip"           : "passculture.pro/34.107.224.170",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "38"
+              "finding"      : "40"
           }
 ]
