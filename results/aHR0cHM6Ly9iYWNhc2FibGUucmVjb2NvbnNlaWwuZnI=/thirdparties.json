@@ -12,10 +12,10 @@
   "cookies": [
     {
       "name": "csrftoken",
-      "value": "5dHFNyd6m6EDxwcdPVYoorDdrnqVcR69",
+      "value": "BTlu5nXPUNswsJLcbxSzwrFtDk0OXoqO",
       "domain": "bacasable.recoconseil.fr",
       "path": "/",
-      "expires": 1757855359.995974,
+      "expires": 1758460205.134111,
       "size": 41,
       "httpOnly": false,
       "secure": true,
@@ -27,12 +27,12 @@
     }
   ],
   "headers": {
-    "content-length": "23612",
+    "content-length": "24186",
     "content-type": "text/html; charset=utf-8",
     "cross-origin-opener-policy": "same-origin",
-    "date": "Sun, 15 Sep 2024 13:09:19 GMT",
+    "date": "Sun, 22 Sep 2024 13:10:05 GMT",
     "referrer-policy": "same-origin",
-    "set-cookie": "csrftoken=5dHFNyd6m6EDxwcdPVYoorDdrnqVcR69; expires=Sun, 14 Sep 2025 13:09:19 GMT; Max-Age=31449600; Path=/; SameSite=None; Secure",
+    "set-cookie": "csrftoken=BTlu5nXPUNswsJLcbxSzwrFtDk0OXoqO; expires=Sun, 21 Sep 2025 13:10:05 GMT; Max-Age=31449600; Path=/; SameSite=None; Secure",
     "strict-transport-security": "max-age=31536000; includeSubDomains",
     "vary": "Cookie",
     "via": "2.0 alproxy",
@@ -98,7 +98,7 @@
     },
     {
       "hostname": "cdn.jsdelivr.net",
-      "ip": "104.18.186.31",
+      "ip": "104.18.187.31",
       "geoip": {
         "registered_country": {
           "geoname_id": 6252001,
