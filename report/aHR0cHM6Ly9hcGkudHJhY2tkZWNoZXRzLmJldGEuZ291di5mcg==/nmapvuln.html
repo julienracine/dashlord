@@ -54,7 +54,7 @@
 <h1>Scan Report<br><small>Nmap 7.92</small>
 </h1>
 <pre style="white-space:pre-wrap; word-wrap:break-word;">nmap -sV --script vulners --script-args mincvss=5.0 -oA /data/nmapvuln api.trackdechets.beta.gouv.fr</pre>
-<p class="lead">Sun Sep 15 13:14:08 2024 – Sun Sep 15 13:14:56 2024<br>1 hosts scanned.
+<p class="lead">Sun Sep 22 13:15:06 2024 – Sun Sep 22 13:15:42 2024<br>1 hosts scanned.
               1 hosts up.
               0 hosts down.
             </p>
@@ -121,7 +121,7 @@
 <pre style="white-space:pre-wrap; word-wrap:break-word;">
   FourOhFourRequest: 
     HTTP/1.1 301 Moved Permanently
-    Date: Sun, 15 Sep 2024 13:14:26 GMT
+    Date: Sun, 22 Sep 2024 13:15:20 GMT
     Content-Type: text/html
     Content-Length: 166
     Connection: close
@@ -135,7 +135,7 @@
     &lt;/html&gt;
   GetRequest, HTTPOptions: 
     HTTP/1.1 301 Moved Permanently
-    Date: Sun, 15 Sep 2024 13:14:25 GMT
+    Date: Sun, 22 Sep 2024 13:15:19 GMT
     Content-Type: text/html
     Content-Length: 166
     Connection: close
@@ -149,7 +149,7 @@
     &lt;/html&gt;
   RTSPRequest, X11Probe: 
     HTTP/1.1 400 Bad Request
-    Date: Sun, 15 Sep 2024 13:14:26 GMT
+    Date: Sun, 22 Sep 2024 13:15:20 GMT
     Content-Type: text/html
     Content-Length: 154
     Connection: close
@@ -173,9 +173,9 @@
 <tr><td colspan="7">
 <a href="https://nvd.nist.gov/vuln/search/results?form_type=Advanced&amp;cves=on&amp;cpe_version="></a><h5>fingerprint-strings</h5>
 <pre style="white-space:pre-wrap; word-wrap:break-word;">
-  FourOhFourRequest, tor-versions: 
+  FourOhFourRequest, GetRequest, HTTPOptions: 
     HTTP/1.1 400 Bad Request
-    Date: Sun, 15 Sep 2024 13:14:33 GMT
+    Date: Sun, 22 Sep 2024 13:15:26 GMT
     Content-Type: text/html
     Content-Length: 154
     Connection: close
@@ -189,25 +189,9 @@
     &lt;hr&gt;&lt;center&gt;openresty&lt;/center&gt;
     &lt;/body&gt;
     &lt;/html&gt;
-  GetRequest: 
+  tor-versions: 
     HTTP/1.1 400 Bad Request
-    Date: Sun, 15 Sep 2024 13:14:31 GMT
-    Content-Type: text/html
-    Content-Length: 154
-    Connection: close
-    Strict-Transport-Security: max-age=63072000
-    Referrer-Policy: origin-when-cross-origin
-    X-XSS-Protection: 1; mode=block
-    &lt;html&gt;
-    &lt;head&gt;&lt;title&gt;400 Bad Request&lt;/title&gt;&lt;/head&gt;
-    &lt;body&gt;
-    &lt;center&gt;&lt;h1&gt;400 Bad Request&lt;/h1&gt;&lt;/center&gt;
-    &lt;hr&gt;&lt;center&gt;openresty&lt;/center&gt;
-    &lt;/body&gt;
-    &lt;/html&gt;
-  HTTPOptions: 
-    HTTP/1.1 400 Bad Request
-    Date: Sun, 15 Sep 2024 13:14:32 GMT
+    Date: Sun, 22 Sep 2024 13:15:27 GMT
     Content-Type: text/html
     Content-Length: 154
     Connection: close

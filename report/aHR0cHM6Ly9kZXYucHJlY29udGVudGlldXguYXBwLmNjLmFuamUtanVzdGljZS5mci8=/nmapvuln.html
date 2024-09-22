@@ -54,7 +54,7 @@
 <h1>Scan Report<br><small>Nmap 7.92</small>
 </h1>
 <pre style="white-space:pre-wrap; word-wrap:break-word;">nmap -sV --script vulners --script-args mincvss=5.0 -oA /data/nmapvuln dev.precontentieux.app.cc.anje-justice.fr</pre>
-<p class="lead">Sun Sep 15 14:34:41 2024 – Sun Sep 15 14:37:25 2024<br>1 hosts scanned.
+<p class="lead">Sun Sep 22 14:30:36 2024 – Sun Sep 22 14:33:24 2024<br>1 hosts scanned.
               1 hosts up.
               0 hosts down.
             </p>
@@ -124,12 +124,12 @@
     Cache-Control: no-cache
     Connection: close
     Content-Length: 479
-    Sozu-Id: 01J7V1Q1QH9CCC977BRG5SZ3Q2
+    Sozu-Id: 01J8D28NEG0R5DB0K6G1ST3GV0
     &lt;style&gt;pre{background:#EEE;padding:10px;border:1px solid #AAA;border-radius: 5px;}&lt;/style&gt;
     &lt;h1&gt;400 Bad Request&lt;/h1&gt;
     &lt;pre&gt;
     "route": "GET",
-    "request_id": "01J7V1Q1QH9CCC977BRG5SZ3Q2",
+    "request_id": "01J8D28NEG0R5DB0K6G1ST3GV0",
     &lt;/pre&gt;
     &lt;p&gt;Request could not be parsed. Parser stopped at phase: Body.&lt;/p&gt;
     &lt;p&gt;Diagnostic: Could not extract the route after connection started, this should not happen.&lt;/p&gt;
@@ -141,12 +141,12 @@
     Cache-Control: no-cache
     Connection: close
     Content-Length: 483
-    Sozu-Id: 01J7V1Q7R7KG8QTA2QSKRNF2HP
+    Sozu-Id: 01J8D28VKJYX6M4J06MSQG9BH9
     &lt;style&gt;pre{background:#EEE;padding:10px;border:1px solid #AAA;border-radius: 5px;}&lt;/style&gt;
     &lt;h1&gt;400 Bad Request&lt;/h1&gt;
     &lt;pre&gt;
     "route": "OPTIONS",
-    "request_id": "01J7V1Q7R7KG8QTA2QSKRNF2HP",
+    "request_id": "01J8D28VKJYX6M4J06MSQG9BH9",
     &lt;/pre&gt;
     &lt;p&gt;Request could not be parsed. Parser stopped at phase: Body.&lt;/p&gt;
     &lt;p&gt;Diagnostic: Could not extract the route after connection started, this should not happen.&lt;/p&gt;
@@ -158,12 +158,12 @@
     Cache-Control: no-cache
     Connection: close
     Content-Length: 885
-    Sozu-Id: 01J7V1Q7XEWD56WXMS6MJMP2KZ
+    Sozu-Id: 01J8D28VX3AKGMW87ZRMQNW0N6
     &lt;style&gt;pre{background:#EEE;padding:10px;border:1px solid #AAA;border-radius: 5px;}&lt;/style&gt;
     &lt;h1&gt;400 Bad Request&lt;/h1&gt;
     &lt;pre&gt;
     "route": "",
-    "request_id": "01J7V1Q7XEWD56WXMS6MJMP2KZ",
+    "request_id": "01J8D28VX3AKGMW87ZRMQNW0N6",
     &lt;/pre&gt;
     &lt;p&gt;Request could not be parsed. Parser stopped at phase: StatusLine.&lt;/p&gt;
     &lt;p&gt;Diagnostic: The request line is invalid. Make sure it is well formated and all characters are LATIN-1 (no UTF-8 allowed).&lt;/p&gt;
@@ -191,10 +191,7 @@
 <td title="Version"></td>
 <td title="Extra Info"></td>
 </tr>
-<tr><td colspan="7">
-<a href="https://nvd.nist.gov/vuln/search/results?form_type=Advanced&amp;cves=on&amp;cpe_version="></a><h5>http-server-header</h5>
-<pre style="white-space:pre-wrap; word-wrap:break-word;">Apache</pre>
-</td></tr>
+<tr><td colspan="7"><a href="https://nvd.nist.gov/vuln/search/results?form_type=Advanced&amp;cves=on&amp;cpe_version="></a></td></tr>
 <tr class="success">
 <td title="Port">1080</td>
 <td title="Protocol">tcp</td>
@@ -228,13 +225,25 @@
 <a href="https://nvd.nist.gov/vuln/search/results?form_type=Advanced&amp;cves=on&amp;cpe_version="></a><h5>fingerprint-strings</h5>
 <pre style="white-space:pre-wrap; word-wrap:break-word;">
   Kerberos: 
-    `6pu
-    1VpV5&lt;$
+    {hVePG1(%n
+    \xb3
+    q\xdc
+    W2y|
+  SIPOptions: 
+    DcV/
+    Gjs]
+    eK:9(&lt;
+    ~bz/^
+    \x84R
+  SMBProgNeg: 
+    {(Pbk
+    lc*@
+    Z|t-7Q
+    y2d`
   TLSSessionReq: 
-    /HZ_o
-    uw|Z
-    Yq/c
-    ]3|)Ww-</pre>
+    (%6t
+    4u%q
+    &lt;![2</pre>
 </td></tr>
 <tr class="success">
 <td title="Port">5002</td>
@@ -256,28 +265,11 @@
 <td title="Protocol">tcp</td>
 <td title="State / Reason">open<br>syn-ack</td>
 <td title="Service">smtp</td>
-<td title="Product"></td>
+<td title="Product">Postfix smtpd</td>
 <td title="Version"></td>
 <td title="Extra Info"></td>
 </tr>
-<tr><td colspan="7">
-<a href="https://nvd.nist.gov/vuln/search/results?form_type=Advanced&amp;cves=on&amp;cpe_version="></a><h5>fingerprint-strings</h5>
-<pre style="white-space:pre-wrap; word-wrap:break-word;">
-  GenericLines, GetRequest: 
-    220 mailhog.example ESMTP MailHog
-    Unrecognised command
-    Unrecognised command
-  Hello: 
-    220 mailhog.example ESMTP MailHog
-    250-Hello 
-    250-PIPELINING
-    AUTH PLAIN
-  Help: 
-    220 mailhog.example ESMTP MailHog
-    Unrecognised command
-  NULL: 
-    220 mailhog.example ESMTP MailHog</pre>
-</td></tr>
+<tr><td colspan="7"><a href="https://nvd.nist.gov/vuln/search/results?form_type=Advanced&amp;cves=on&amp;cpe_version=cpe:/a:postfix:postfix">cpe:/a:postfix:postfix</a></td></tr>
 <tr class="success">
 <td title="Port">5357</td>
 <td title="Protocol">tcp</td>
@@ -325,10 +317,10 @@
     authentication_failure_close: YES
     per_consumer_qos: YES
     direct_reply_to: YES
-  cluster_name: rabbit@6d882ae0fd7b
+  cluster_name: rabbit@0ec619ad5fb7
   copyright: Copyright (c) 2007-2024 Broadcom Inc and/or its subsidiaries
   information: Licensed under the MPL 2.0. Website: https://rabbitmq.com
-  platform: Erlang/OTP 25.3.2.13
+  platform: Erlang/OTP 25.3.2.14
   product: RabbitMQ
   version: 3.12.14
   mechanisms: AMQPLAIN PLAIN
@@ -437,9 +429,9 @@
 <td>5221</td>
 <td>tcp</td>
 <td>smtp</td>
+<td>Postfix smtpd</td>
 <td></td>
-<td></td>
-<td></td>
+<td>cpe:/a:postfix:postfix</td>
 <td></td>
 </tr>
 <tr>
