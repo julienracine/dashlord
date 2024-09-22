@@ -66,7 +66,7 @@
     },
     {
       "type": "google maps",
-      "url": "https://maps.googleapis.com/maps-api-v3/api/js/58/4a/common.js",
+      "url": "https://maps.googleapis.com/maps-api-v3/api/js/58/5a/common.js",
       "details": {
         "id": "google maps",
         "message": "Use OpenStreetMap with https://switch2osm.org/the-basics/"
@@ -74,7 +74,7 @@
     },
     {
       "type": "google maps",
-      "url": "https://maps.googleapis.com/maps-api-v3/api/js/58/4a/util.js",
+      "url": "https://maps.googleapis.com/maps-api-v3/api/js/58/5a/util.js",
       "details": {
         "id": "google maps",
         "message": "Use OpenStreetMap with https://switch2osm.org/the-basics/"
@@ -82,7 +82,7 @@
     },
     {
       "type": "google maps",
-      "url": "https://maps.googleapis.com/maps-api-v3/api/js/58/4a/controls.js",
+      "url": "https://maps.googleapis.com/maps-api-v3/api/js/58/5a/controls.js",
       "details": {
         "id": "google maps",
         "message": "Use OpenStreetMap with https://switch2osm.org/the-basics/"
@@ -90,7 +90,7 @@
     },
     {
       "type": "google maps",
-      "url": "https://maps.googleapis.com/maps-api-v3/api/js/58/4a/places_impl.js",
+      "url": "https://maps.googleapis.com/maps-api-v3/api/js/58/5a/places_impl.js",
       "details": {
         "id": "google maps",
         "message": "Use OpenStreetMap with https://switch2osm.org/the-basics/"
@@ -98,7 +98,7 @@
     },
     {
       "type": "google analytics",
-      "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-0MFNB0ZLJN&gtm=45je4990v9117900830za200&_p=1726407957774&gcs=G100&gcd=13p3p3p3p5l1&npa=1&dma_cps=-&dma=0&tag_exp=0&cid=163067922.1726407958&ul=en-us&sr=800x600&uaa=&uab=&uafvl=&uamb=0&uam=&uap=&uapv=&uaw=0&frm=0&pscdl=denied&_s=1&sid=1726407958&sct=1&seg=0&dl=https%3A%2F%2Frefugies.info%2Ffr&dt=Accueil%20-%20R%C3%A9fugi%C3%A9s.info&en=page_view&_fv=1&_nsi=1&_ss=1&_ee=1&tfd=1860",
+      "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-0MFNB0ZLJN&gtm=45je49j0v9117900830za200&_p=1727012557536&gcs=G100&gcd=13p3p3p3p5l1&npa=1&dma_cps=-&dma=0&tag_exp=0&cid=1796813269.1727012558&ul=en-us&sr=800x600&uaa=&uab=&uafvl=&uamb=0&uam=&uap=&uapv=&uaw=0&frm=0&pscdl=denied&_s=1&sid=1727012558&sct=1&seg=0&dl=https%3A%2F%2Frefugies.info%2Ffr&dt=Accueil%20-%20R%C3%A9fugi%C3%A9s.info&en=page_view&_fv=1&_nsi=1&_ss=1&_ee=1&tfd=1778",
       "details": {
         "id": "google analytics",
         "message": "Use hosted Matomo instance"
@@ -114,7 +114,7 @@
     },
     {
       "type": "google analytics",
-      "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-0MFNB0ZLJN&gtm=45je4990v9117900830za200&_p=1726407957774&gcs=G100&gcd=13p3p3p3p5l1&npa=1&dma_cps=-&dma=0&tag_exp=0&cid=163067922.1726407958&ul=en-us&sr=800x600&uaa=&uab=&uafvl=&uamb=0&uam=&uap=&uapv=&uaw=0&frm=0&pscdl=denied&sid=1726407958&sct=1&seg=0&dl=https%3A%2F%2Frefugies.info%2Ffr&dt=Accueil%20-%20R%C3%A9fugi%C3%A9s.info&_s=2&tfd=6866",
+      "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-0MFNB0ZLJN&gtm=45je49j0v9117900830za200&_p=1727012557536&gcs=G100&gcd=13p3p3p3p5l1&npa=1&dma_cps=-&dma=0&tag_exp=0&cid=1796813269.1727012558&ul=en-us&sr=800x600&uaa=&uab=&uafvl=&uamb=0&uam=&uap=&uapv=&uaw=0&frm=0&pscdl=denied&sid=1727012558&sct=1&seg=0&dl=https%3A%2F%2Frefugies.info%2Ffr&dt=Accueil%20-%20R%C3%A9fugi%C3%A9s.info&_s=2&tfd=6786",
       "details": {
         "id": "google analytics",
         "message": "Use hosted Matomo instance"
@@ -127,8 +127,8 @@
     "cache-control": "s-maxage=600, stale-while-revalidate",
     "content-encoding": "gzip",
     "content-type": "text/html; charset=utf-8",
-    "date": "Sun, 15 Sep 2024 13:45:56 GMT",
-    "etag": "\"fb6s6hx5gp4z7h\"",
+    "date": "Sun, 22 Sep 2024 13:42:36 GMT",
+    "etag": "\"1710kmwbwhg4z5i\"",
     "server": "Google Frontend",
     "vary": "Accept-Encoding",
     "via": "1.1 google",
@@ -310,59 +310,8 @@
     },
     {
       "hostname": "res.cloudinary.com",
-      "ip": "23.39.184.46",
+      "ip": "104.17.201.1",
       "geoip": {
-        "city": {
-          "geoname_id": 4744870,
-          "names": {
-            "de": "Ashburn",
-            "en": "Ashburn",
-            "es": "Ashburn",
-            "fr": "Ashburn",
-            "ja": "アッシュバーン",
-            "pt-BR": "Ashburn",
-            "ru": "Ашберн",
-            "zh-CN": "阿什本"
-          }
-        },
-        "continent": {
-          "code": "NA",
-          "geoname_id": 6255149,
-          "names": {
-            "de": "Nordamerika",
-            "en": "North America",
-            "es": "Norteamérica",
-            "fr": "Amérique du Nord",
-            "ja": "北アメリカ",
-            "pt-BR": "América do Norte",
-            "ru": "Северная Америка",
-            "zh-CN": "北美洲"
-          }
-        },
-        "country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
-          "names": {
-            "de": "USA",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
-          }
-        },
-        "location": {
-          "accuracy_radius": 20,
-          "latitude": 39.0469,
-          "longitude": -77.4903,
-          "metro_code": 511,
-          "time_zone": "America/New_York"
-        },
-        "postal": {
-          "code": "20149"
-        },
         "registered_country": {
           "geoname_id": 6252001,
           "iso_code": "US",
@@ -376,28 +325,12 @@
             "ru": "США",
             "zh-CN": "美国"
           }
-        },
-        "subdivisions": [
-          {
-            "geoname_id": 6254928,
-            "iso_code": "VA",
-            "names": {
-              "de": "Virginia",
-              "en": "Virginia",
-              "es": "Virginia",
-              "fr": "Virginie",
-              "ja": "バージニア州",
-              "pt-BR": "Virgínia",
-              "ru": "Вирджиния",
-              "zh-CN": "弗吉尼亚州"
-            }
-          }
-        ]
+        }
       }
     },
     {
       "hostname": "storage.googleapis.com",
-      "ip": "172.253.122.207",
+      "ip": "172.217.0.187",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -451,7 +384,7 @@
     },
     {
       "hostname": "maps.googleapis.com",
-      "ip": "142.251.179.95",
+      "ip": "142.250.191.170",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -505,7 +438,7 @@
     },
     {
       "hostname": "www.googletagmanager.com",
-      "ip": "172.253.63.97",
+      "ip": "142.250.190.136",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -559,7 +492,7 @@
     },
     {
       "hostname": "cdn.matomo.cloud",
-      "ip": "3.162.125.38",
+      "ip": "3.167.152.124",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -613,7 +546,7 @@
     },
     {
       "hostname": "www.google-analytics.com",
-      "ip": "172.253.63.139",
+      "ip": "142.250.190.142",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -667,7 +600,7 @@
     },
     {
       "hostname": "client.crisp.chat",
-      "ip": "104.18.29.104",
+      "ip": "104.18.28.104",
       "geoip": {
         "registered_country": {
           "geoname_id": 6252001,
