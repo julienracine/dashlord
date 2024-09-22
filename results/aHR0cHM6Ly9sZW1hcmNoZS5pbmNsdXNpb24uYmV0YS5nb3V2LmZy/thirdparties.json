@@ -10,30 +10,6 @@
     },
     {
       "type": "jsdelivr",
-      "url": "https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.bundle.min.js",
-      "details": {
-        "id": "jsdelivr",
-        "message": "Host files locally"
-      }
-    },
-    {
-      "type": "jsdelivr",
-      "url": "https://cdn.jsdelivr.net/npm/tarteaucitronjs@1.11.0/tarteaucitron.min.js",
-      "details": {
-        "id": "jsdelivr",
-        "message": "Host files locally"
-      }
-    },
-    {
-      "type": "google fonts",
-      "url": "https://fonts.googleapis.com/css2?family=Covered+By+Your+Grace&display=swap",
-      "details": {
-        "id": "google fonts",
-        "message": "Host the font locally with https://github.com/neverpanic/google-font-download or https://google-webfonts-helper.herokuapp.com/"
-      }
-    },
-    {
-      "type": "jsdelivr",
       "url": "https://cdn.jsdelivr.net/npm/tarteaucitronjs@1.11.0/tarteaucitron.min.js",
       "details": {
         "id": "jsdelivr",
@@ -60,10 +36,10 @@
   "cookies": [
     {
       "name": "csrftoken",
-      "value": "sM6IZEoPyyNMJnYTjOmfUeor1BrLzHJD",
+      "value": "yosUMSnQ9Il9vv7JFQTdVmBgfT26VPNR",
       "domain": "lemarche.inclusion.beta.gouv.fr",
       "path": "/",
-      "expires": 1757823623.36122,
+      "expires": 1758428545.430118,
       "size": 41,
       "httpOnly": true,
       "secure": true,
@@ -76,22 +52,23 @@
   ],
   "headers": {
     "connection": "keep-alive",
-    "content-length": "64224",
+    "content-language": "en",
+    "content-length": "59993",
     "content-type": "text/html; charset=utf-8",
     "cross-origin-opener-policy": "same-origin",
-    "date": "Sun, 15 Sep 2024 04:20:23 GMT",
+    "date": "Sun, 22 Sep 2024 04:22:25 GMT",
     "referrer-policy": "same-origin",
-    "set-cookie": "csrftoken=sM6IZEoPyyNMJnYTjOmfUeor1BrLzHJD; expires=Sun, 14 Sep 2025 04:20:23 GMT; HttpOnly; Max-Age=31449600; Path=/; SameSite=Lax; Secure",
-    "sozu-id": "01J7SYJ3S8R6D2X22118H1B4TK",
+    "set-cookie": "csrftoken=yosUMSnQ9Il9vv7JFQTdVmBgfT26VPNR; expires=Sun, 21 Sep 2025 04:22:25 GMT; HttpOnly; Max-Age=31449600; Path=/; SameSite=Lax; Secure",
+    "sozu-id": "01J8BZEVZG0XGH3SAYQ4MFKWPR",
     "strict-transport-security": "max-age=30",
-    "vary": "Cookie, Origin",
+    "vary": "Accept-Language, Cookie, Origin",
     "x-content-type-options": "nosniff",
     "x-frame-options": "DENY"
   },
   "endpoints": [
     {
       "hostname": "lemarche.inclusion.beta.gouv.fr",
-      "ip": "91.208.207.217",
+      "ip": "91.208.207.221",
       "geoip": {
         "continent": {
           "code": "EU",
@@ -147,28 +124,21 @@
     },
     {
       "hostname": "cdn.jsdelivr.net",
-      "ip": "104.18.187.31",
+      "ip": "146.75.77.229",
       "geoip": {
-        "registered_country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
+        "city": {
+          "geoname_id": 4887398,
           "names": {
-            "de": "USA",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
+            "de": "Chicago",
+            "en": "Chicago",
+            "es": "Chicago",
+            "fr": "Chicago",
+            "ja": "シカゴ",
+            "pt-BR": "Chicago",
+            "ru": "Чикаго",
+            "zh-CN": "芝加哥"
           }
-        }
-      }
-    },
-    {
-      "hostname": "fonts.googleapis.com",
-      "ip": "142.250.191.138",
-      "geoip": {
+        },
         "continent": {
           "code": "NA",
           "geoname_id": 6255149,
@@ -198,10 +168,14 @@
           }
         },
         "location": {
-          "accuracy_radius": 1000,
-          "latitude": 37.751,
-          "longitude": -97.822,
+          "accuracy_radius": 20,
+          "latitude": 41.8874,
+          "longitude": -87.6318,
+          "metro_code": 602,
           "time_zone": "America/Chicago"
+        },
+        "postal": {
+          "code": "60602"
         },
         "registered_country": {
           "geoname_id": 6252001,
@@ -216,7 +190,23 @@
             "ru": "США",
             "zh-CN": "美国"
           }
-        }
+        },
+        "subdivisions": [
+          {
+            "geoname_id": 4896861,
+            "iso_code": "IL",
+            "names": {
+              "de": "Illinois",
+              "en": "Illinois",
+              "es": "Illinois",
+              "fr": "Illinois",
+              "ja": "イリノイ州",
+              "pt-BR": "Ilinóis",
+              "ru": "Иллинойс",
+              "zh-CN": "伊利诺伊州"
+            }
+          }
+        ]
       }
     }
   ]
