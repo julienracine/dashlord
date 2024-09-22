@@ -1,6 +1,6 @@
-# Nmap 7.92 scan initiated Sun Sep 15 11:11:28 2024 as: nmap -sV --script vulners --script-args mincvss=5.0 -oA /data/nmapvuln donnees.incubateur.anct.gouv.fr
+# Nmap 7.92 scan initiated Sun Sep 22 11:00:21 2024 as: nmap -sV --script vulners --script-args mincvss=5.0 -oA /data/nmapvuln donnees.incubateur.anct.gouv.fr
 Nmap scan report for donnees.incubateur.anct.gouv.fr (51.159.153.132)
-Host is up (0.15s latency).
+Host is up (0.088s latency).
 rDNS record for 51.159.153.132: 132-153-159-51.instances.scw.cloud
 Not shown: 994 closed tcp ports (reset)
 PORT     STATE SERVICE    VERSION
@@ -33,9 +33,6 @@ PORT     STATE SERVICE    VERSION
 |_http-server-header: nginx/1.18.0 (Ubuntu)
 5050/tcp open  ssl/http   nginx
 5432/tcp open  postgresql PostgreSQL DB 9.6.0 or later
-| vulners: 
-|   PostgreSQL DB 9.6.0 or later: 
-|_    	CVE-2019-3466	7.8	https://vulners.com/cve/CVE-2019-3466
 | fingerprint-strings: 
 |   SMBProgNeg: 
 |     SFATAL
@@ -45,13 +42,16 @@ PORT     STATE SERVICE    VERSION
 |     Fpostmaster.c
 |     L2120
 |_    RProcessStartupPacket
+| vulners: 
+|   PostgreSQL DB 9.6.0 or later: 
+|_    	CVE-2019-3466	7.8	https://vulners.com/cve/CVE-2019-3466
 8000/tcp open  http       nginx
 1 service unrecognized despite returning data. If you know the service/version, please submit the following fingerprint at https://nmap.org/cgi-bin/submit.cgi?new-service :
-SF-Port5432-TCP:V=7.92%I=7%D=9/15%Time=66E6C0EA%P=x86_64-alpine-linux-musl
+SF-Port5432-TCP:V=7.92%I=7%D=9/22%Time=66EFF8CD%P=x86_64-alpine-linux-musl
 SF:%r(SMBProgNeg,8C,"E\0\0\0\x8bSFATAL\0VFATAL\0C0A000\0Munsupported\x20fr
 SF:ontend\x20protocol\x2065363\.19778:\x20server\x20supports\x202\.0\x20to
 SF:\x203\.0\0Fpostmaster\.c\0L2120\0RProcessStartupPacket\0\0");
 Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
 
 Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
-# Nmap done at Sun Sep 15 11:11:47 2024 -- 1 IP address (1 host up) scanned in 19.68 seconds
+# Nmap done at Sun Sep 22 11:00:37 2024 -- 1 IP address (1 host up) scanned in 16.65 seconds
