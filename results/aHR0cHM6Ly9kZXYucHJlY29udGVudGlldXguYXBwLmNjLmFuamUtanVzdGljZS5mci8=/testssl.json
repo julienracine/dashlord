@@ -353,7 +353,7 @@
               "ip"           : "dev.precontentieux.app.cc.anje-justice.fr/91.208.207.214",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "73 >= 30 days"
+              "finding"      : "66 >= 30 days"
           }
 ,         {
               "id"           : "cert_notBefore",
@@ -500,21 +500,14 @@
               "ip"           : "dev.precontentieux.app.cc.anje-justice.fr/91.208.207.214",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "200 OK ('/')"
+              "finding"      : "404 Not Found ('/')"
           }
 ,         {
               "id"           : "HTTP_clock_skew",
               "ip"           : "dev.precontentieux.app.cc.anje-justice.fr/91.208.207.214",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "0 seconds from localtime"
-          }
-,         {
-              "id"           : "HTTP_headerTime",
-              "ip"           : "dev.precontentieux.app.cc.anje-justice.fr/91.208.207.214",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "1726410848"
+              "finding"      : "Got no HTTP time, maybe try different URL?"
           }
 ,         {
               "id"           : "HSTS",
@@ -535,7 +528,7 @@
               "ip"           : "dev.precontentieux.app.cc.anje-justice.fr/91.208.207.214",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "Apache"
+              "finding"      : "No Server banner line in header, interesting!"
           }
 ,         {
               "id"           : "banner_application",
@@ -549,14 +542,14 @@
               "ip"           : "dev.precontentieux.app.cc.anje-justice.fr/91.208.207.214",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "0 at '/'"
+              "finding"      : "0 at '/' (30x detected, better try target URL of 30x)"
           }
 ,         {
               "id"           : "Cache-Control",
               "ip"           : "dev.precontentieux.app.cc.anje-justice.fr/91.208.207.214",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "max-age=0, must-revalidate, private"
+              "finding"      : "no-cache"
           }
 ,         {
               "id"           : "banner_reverseproxy",
@@ -632,10 +625,10 @@
               "id"           : "BREACH",
               "ip"           : "dev.precontentieux.app.cc.anje-justice.fr/91.208.207.214",
               "port"         : "443",
-              "severity"     : "MEDIUM",
+              "severity"     : "OK",
               "cve"          : "CVE-2013-3587",
               "cwe"          : "CWE-310",
-              "finding"      : "potentially VULNERABLE, gzip HTTP compression detected  - only supplied '/' tested"
+              "finding"      : "not vulnerable, no gzip/deflate/compress/br HTTP compression  - only supplied '/' tested"
           }
 ,         {
               "id"           : "POODLE_SSL",
@@ -1070,6 +1063,6 @@
               "ip"           : "dev.precontentieux.app.cc.anje-justice.fr/91.208.207.214",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "57"
+              "finding"      : "99"
           }
 ]
