@@ -28,10 +28,10 @@
   "cookies": [
     {
       "name": "bln_challengejs",
-      "value": "jMDBtR9TC6lSgqQ0CMOhef4fhss1pjBJtbe1zzevVklk_j3gEDUfoxrsOYZAo8Oho3Zs4rVj_pQJVNAm9PjgnqhMDcBkkLYeEW7OGtEf-UQBaqAWoPkBUC51SyQbAEG_5zY2-FEDBjSG8s7FKGL1YH4EkT9vqQTrfwZDW7ltawxP-zUsY3jNZXApIs75ExCr9iMVhpz2hh855My0orG9LCftTR0Aqs9kAhQQZEJkZb2CNOvJoueWF4WSP_YJR6AStOOfECFQXW6e6cKzIatJgQ",
+      "value": "wuwWaOUI_laBrCN4kI62gEr4cRHdWt61Mnv1RztrIRzBA4HPEGodhU8-rpH12wnM-OYi23UOAW06DKCV-CC35r09-5vQcU2s9KX6EbqqJblReao0KO_QHgixKxGWCCR13OcdNbaLyVkzY54okYpWJ8t7ldQgdWytgUdCmiHal1IIGtp7TKlnFuvZPUwd3xpGthjdekDt98rEAUKIyRbfy4z5LRuoeXw2XSRgM4xFsQ2SxvMq4ML8IzWKGVApzxn4pOSoEMmwHeb4_I4OsWM7-A",
       "domain": ".snu.gouv.fr",
       "path": "/",
-      "expires": 1726386492.669918,
+      "expires": 1726991131.307139,
       "size": 293,
       "httpOnly": false,
       "secure": false,
@@ -44,11 +44,11 @@
   "headers": {
     "content-encoding": "gzip",
     "content-type": "text/html",
-    "date": "Sun, 15 Sep 2024 07:33:12 GMT",
-    "etag": "W/\"66e2f36a-889\"",
-    "last-modified": "Thu, 12 Sep 2024 13:58:02 GMT",
+    "date": "Sun, 22 Sep 2024 07:30:31 GMT",
+    "etag": "W/\"66ec6401-889\"",
+    "last-modified": "Thu, 19 Sep 2024 17:48:49 GMT",
     "referrer-policy": ": no-referrer",
-    "sozu-id": "01J7T9JDKJS058GZKXQ8TC1QB0",
+    "sozu-id": "01J8CA6QEYC9SBRDZEBQK66VJM",
     "strict-transport-security": ": max-age=31536000; includeSubDomains; preload",
     "x-content-type-options": ": nosniff",
     "x-download-options": ": noopen",
@@ -114,7 +114,7 @@
     },
     {
       "hostname": "fonts.googleapis.com",
-      "ip": "142.251.32.42",
+      "ip": "172.253.122.95",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -168,18 +168,19 @@
     },
     {
       "hostname": "plausible.io",
-      "ip": "169.150.221.147",
+      "ip": "37.19.207.34",
       "geoip": {
         "city": {
-          "geoname_id": 5392171,
+          "geoname_id": 4744870,
           "names": {
-            "de": "San José",
-            "en": "San Jose",
-            "es": "San José",
-            "fr": "San José",
-            "ja": "サンノゼ",
-            "pt-BR": "San José",
-            "ru": "Сан-Хосе"
+            "de": "Ashburn",
+            "en": "Ashburn",
+            "es": "Ashburn",
+            "fr": "Ashburn",
+            "ja": "アッシュバーン",
+            "pt-BR": "Ashburn",
+            "ru": "Ашберн",
+            "zh-CN": "阿什本"
           }
         },
         "continent": {
@@ -212,13 +213,13 @@
         },
         "location": {
           "accuracy_radius": 20,
-          "latitude": 37.1835,
-          "longitude": -121.7714,
-          "metro_code": 807,
-          "time_zone": "America/Los_Angeles"
+          "latitude": 39.0469,
+          "longitude": -77.4903,
+          "metro_code": 511,
+          "time_zone": "America/New_York"
         },
         "postal": {
-          "code": "95141"
+          "code": "20149"
         },
         "registered_country": {
           "geoname_id": 2635167,
@@ -236,17 +237,17 @@
         },
         "subdivisions": [
           {
-            "geoname_id": 5332921,
-            "iso_code": "CA",
+            "geoname_id": 6254928,
+            "iso_code": "VA",
             "names": {
-              "de": "Kalifornien",
-              "en": "California",
-              "es": "California",
-              "fr": "Californie",
-              "ja": "カリフォルニア州",
-              "pt-BR": "Califórnia",
-              "ru": "Калифорния",
-              "zh-CN": "加州"
+              "de": "Virginia",
+              "en": "Virginia",
+              "es": "Virginia",
+              "fr": "Virginie",
+              "ja": "バージニア州",
+              "pt-BR": "Virgínia",
+              "ru": "Вирджиния",
+              "zh-CN": "弗吉尼亚州"
             }
           }
         ]
