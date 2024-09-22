@@ -2,24 +2,24 @@
   "trackers": [],
   "cookies": [],
   "headers": {
-    "alt-svc": "h3=\":443\"; ma=86400",
     "cache-control": "no-cache",
     "cf-cache-status": "DYNAMIC",
-    "cf-ray": "8c353ccdafd861e5-ORD",
+    "cf-ray": "8c6ee9266ae68199-IAD",
     "content-encoding": "br",
     "content-type": "text/html; charset=utf-8",
-    "date": "Sun, 15 Sep 2024 02:37:54 GMT",
+    "date": "Sun, 22 Sep 2024 02:37:01 GMT",
     "expires": "Thu, 01 Jan 1970 00:00:01 GMT",
     "last-modified": "Tue, 27 Aug 2024 11:43:54 GMT",
     "nel": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}",
-    "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=q8aSkTBJZ9UkdFteEgbqSc4VUBnXJJXtWAYo2C2QjurQMLr4EUaQXsf8BRx3jdPr1eCwf0%2BV%2FxI%2FyeUgI6zCft2wk6UgGUQ%2B1xW%2Bo4DwBIfsaONY4xeQDKAJeW43mspPXGdutoVPhrLl\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
+    "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=%2F9L5WtrzJLtKNX7V5TgLxAnLLdxMW6qZS5H5CUCvQL5Z%2Bwo%2FPDccsUsx6laLTEpGpEfEl9uyK9brn0fX7mo7iVvckb7D4mVfm%2Bx70ZQAiYign53HPfdHzw9rY9iFjaUFqkgkS%2BhF9YXc\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
     "server": "cloudflare",
+    "speculation-rules": "\"/cdn-cgi/speculation\"",
     "vary": "Accept-Encoding"
   },
   "endpoints": [
     {
       "hostname": "cartobio.agencebio.org",
-      "ip": "104.21.16.54",
+      "ip": "172.64.80.1",
       "geoip": {
         "registered_country": {
           "geoname_id": 6252001,
