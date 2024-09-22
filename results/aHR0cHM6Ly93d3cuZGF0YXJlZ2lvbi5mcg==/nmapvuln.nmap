@@ -1,0 +1,180 @@
+# Nmap 7.92 scan initiated Sun Sep 22 14:40:24 2024 as: nmap -sV --script vulners --script-args mincvss=5.0 -oA /data/nmapvuln www.dataregion.fr
+Nmap scan report for www.dataregion.fr (44.242.99.40)
+Host is up (0.021s latency).
+Other addresses for www.dataregion.fr (not scanned): 54.68.171.176 52.42.122.102
+rDNS record for 44.242.99.40: ec2-44-242-99-40.us-west-2.compute.amazonaws.com
+Not shown: 998 filtered tcp ports (no-response)
+PORT    STATE SERVICE   VERSION
+80/tcp  open  http
+| fingerprint-strings: 
+|   FourOhFourRequest: 
+|     HTTP/1.1 301 Moved Permanently
+|     Date: Sun, 22 Sep 2024 14:40:33 GMT
+|     Content-Type: text/html
+|     Content-Length: 166
+|     Connection: close
+|     Location: https:///nice%20ports%2C/Tri%6Eity.txt%2ebak
+|     <html>
+|     <head><title>301 Moved Permanently</title></head>
+|     <body>
+|     <center><h1>301 Moved Permanently</h1></center>
+|     <hr><center>openresty</center>
+|     </body>
+|     </html>
+|   GetRequest, HTTPOptions: 
+|     HTTP/1.1 301 Moved Permanently
+|     Date: Sun, 22 Sep 2024 14:40:33 GMT
+|     Content-Type: text/html
+|     Content-Length: 166
+|     Connection: close
+|     Location: https:///
+|     <html>
+|     <head><title>301 Moved Permanently</title></head>
+|     <body>
+|     <center><h1>301 Moved Permanently</h1></center>
+|     <hr><center>openresty</center>
+|     </body>
+|     </html>
+|   RPCCheck: 
+|     HTTP/1.1 400 Bad Request
+|     Date: Sun, 22 Sep 2024 14:40:36 GMT
+|     Content-Type: text/html
+|     Content-Length: 154
+|     Connection: close
+|     <html>
+|     <head><title>400 Bad Request</title></head>
+|     <body>
+|     <center><h1>400 Bad Request</h1></center>
+|     <hr><center>openresty</center>
+|     </body>
+|     </html>
+|   RTSPRequest: 
+|     <html>
+|     <head><title>400 Bad Request</title></head>
+|     <body>
+|     <center><h1>400 Bad Request</h1></center>
+|     <hr><center>openresty</center>
+|     </body>
+|     </html>
+|   X11Probe: 
+|     HTTP/1.1 400 Bad Request
+|     Date: Sun, 22 Sep 2024 14:40:33 GMT
+|     Content-Type: text/html
+|     Content-Length: 154
+|     Connection: close
+|     <html>
+|     <head><title>400 Bad Request</title></head>
+|     <body>
+|     <center><h1>400 Bad Request</h1></center>
+|     <hr><center>openresty</center>
+|     </body>
+|_    </html>
+443/tcp open  ssl/https
+| fingerprint-strings: 
+|   GetRequest: 
+|     HTTP/1.1 200 OK
+|     Date: Sun, 22 Sep 2024 14:40:36 GMT
+|     Content-Type: text/html
+|     Content-Length: 29333
+|     Connection: close
+|     strict-transport-security: max-age=31536000
+|     x-lambda-id: d15b7515-849a-4c35-822c-9a5dbe3ffad5
+|     Accept-Ranges: bytes
+|     Age: 360629
+|     X-Served-By: cache-bfi-krnt7300058-BFI
+|     X-Cache: HIT
+|     X-Cache-Hits: 1
+|     X-Timer: S1727016036.218906,VS0,VE1
+|     Vary: x-wf-forwarded-proto, Accept-Encoding
+|     X-Cluster-Name: us-west-2-prod-hosting-red
+|     <!DOCTYPE html><!-- This site was created in Webflow. https://webflow.com --><!-- Last Published: Tue Sep 10 2024 13:07:42 GMT+0000 (Coordinated Universal Time) --><html data-wf-domain="www.dataregion.fr" data-wf-page="6543525d4f0cd7975442db91" data-wf-site="6543525d4f0cd7975442db8d"><head><meta charset="utf-8"/><title>Accueil</title><meta content="width=device-width, initial-scale=1" name="viewport"/><meta content="Webflow" name="generator"/><l
+|   HTTPOptions: 
+|     HTTP/1.1 200 OK
+|     Date: Sun, 22 Sep 2024 14:40:36 GMT
+|     Content-Type: text/html
+|     Content-Length: 29333
+|     Connection: close
+|     strict-transport-security: max-age=31536000
+|     x-lambda-id: 5f5da479-f155-4d85-a256-85ccb13ecd24
+|     Accept-Ranges: bytes
+|     Age: 0
+|     X-Served-By: cache-bfi-krnt7300027-BFI
+|     X-Cache: MISS
+|     X-Cache-Hits: 0
+|     X-Timer: S1727016036.395791,VS0,VE307
+|     Vary: x-wf-forwarded-proto, Accept-Encoding
+|     X-Cluster-Name: us-west-2-prod-hosting-red
+|_    <!DOCTYPE html><!-- This site was created in Webflow. https://webflow.com --><!-- Last Published: Tue Sep 10 2024 13:07:42 GMT+0000 (Coordinated Universal Time) --><html data-wf-domain="www.dataregion.fr" data-wf-page="6543525d4f0cd7975442db91" data-wf-site="6543525d4f0cd7975442db8d"><head><meta charset="utf-8"/><title>Accueil</title><meta content="width=device-width, initial-scale=1" name="viewport"/><meta content="Webflow" name="generator"/><lin
+2 services unrecognized despite returning data. If you know the service/version, please submit the following fingerprints at https://nmap.org/cgi-bin/submit.cgi?new-service :
+==============NEXT SERVICE FINGERPRINT (SUBMIT INDIVIDUALLY)==============
+SF-Port80-TCP:V=7.92%I=7%D=9/22%Time=66F02C61%P=x86_64-alpine-linux-musl%r
+SF:(GetRequest,143,"HTTP/1\.1\x20301\x20Moved\x20Permanently\r\nDate:\x20S
+SF:un,\x2022\x20Sep\x202024\x2014:40:33\x20GMT\r\nContent-Type:\x20text/ht
+SF:ml\r\nContent-Length:\x20166\r\nConnection:\x20close\r\nLocation:\x20ht
+SF:tps:///\r\n\r\n<html>\r\n<head><title>301\x20Moved\x20Permanently</titl
+SF:e></head>\r\n<body>\r\n<center><h1>301\x20Moved\x20Permanently</h1></ce
+SF:nter>\r\n<hr><center>openresty</center>\r\n</body>\r\n</html>\r\n")%r(H
+SF:TTPOptions,143,"HTTP/1\.1\x20301\x20Moved\x20Permanently\r\nDate:\x20Su
+SF:n,\x2022\x20Sep\x202024\x2014:40:33\x20GMT\r\nContent-Type:\x20text/htm
+SF:l\r\nContent-Length:\x20166\r\nConnection:\x20close\r\nLocation:\x20htt
+SF:ps:///\r\n\r\n<html>\r\n<head><title>301\x20Moved\x20Permanently</title
+SF:></head>\r\n<body>\r\n<center><h1>301\x20Moved\x20Permanently</h1></cen
+SF:ter>\r\n<hr><center>openresty</center>\r\n</body>\r\n</html>\r\n")%r(RT
+SF:SPRequest,9A,"<html>\r\n<head><title>400\x20Bad\x20Request</title></hea
+SF:d>\r\n<body>\r\n<center><h1>400\x20Bad\x20Request</h1></center>\r\n<hr>
+SF:<center>openresty</center>\r\n</body>\r\n</html>\r\n")%r(X11Probe,11C,"
+SF:HTTP/1\.1\x20400\x20Bad\x20Request\r\nDate:\x20Sun,\x2022\x20Sep\x20202
+SF:4\x2014:40:33\x20GMT\r\nContent-Type:\x20text/html\r\nContent-Length:\x
+SF:20154\r\nConnection:\x20close\r\n\r\n<html>\r\n<head><title>400\x20Bad\
+SF:x20Request</title></head>\r\n<body>\r\n<center><h1>400\x20Bad\x20Reques
+SF:t</h1></center>\r\n<hr><center>openresty</center>\r\n</body>\r\n</html>
+SF:\r\n")%r(FourOhFourRequest,166,"HTTP/1\.1\x20301\x20Moved\x20Permanentl
+SF:y\r\nDate:\x20Sun,\x2022\x20Sep\x202024\x2014:40:33\x20GMT\r\nContent-T
+SF:ype:\x20text/html\r\nContent-Length:\x20166\r\nConnection:\x20close\r\n
+SF:Location:\x20https:///nice%20ports%2C/Tri%6Eity\.txt%2ebak\r\n\r\n<html
+SF:>\r\n<head><title>301\x20Moved\x20Permanently</title></head>\r\n<body>\
+SF:r\n<center><h1>301\x20Moved\x20Permanently</h1></center>\r\n<hr><center
+SF:>openresty</center>\r\n</body>\r\n</html>\r\n")%r(RPCCheck,11C,"HTTP/1\
+SF:.1\x20400\x20Bad\x20Request\r\nDate:\x20Sun,\x2022\x20Sep\x202024\x2014
+SF::40:36\x20GMT\r\nContent-Type:\x20text/html\r\nContent-Length:\x20154\r
+SF:\nConnection:\x20close\r\n\r\n<html>\r\n<head><title>400\x20Bad\x20Requ
+SF:est</title></head>\r\n<body>\r\n<center><h1>400\x20Bad\x20Request</h1><
+SF:/center>\r\n<hr><center>openresty</center>\r\n</body>\r\n</html>\r\n");
+==============NEXT SERVICE FINGERPRINT (SUBMIT INDIVIDUALLY)==============
+SF-Port443-TCP:V=7.92%T=SSL%I=7%D=9/22%Time=66F02C64%P=x86_64-alpine-linux
+SF:-musl%r(GetRequest,7458,"HTTP/1\.1\x20200\x20OK\r\nDate:\x20Sun,\x2022\
+SF:x20Sep\x202024\x2014:40:36\x20GMT\r\nContent-Type:\x20text/html\r\nCont
+SF:ent-Length:\x2029333\r\nConnection:\x20close\r\nstrict-transport-securi
+SF:ty:\x20max-age=31536000\r\nx-lambda-id:\x20d15b7515-849a-4c35-822c-9a5d
+SF:be3ffad5\r\nAccept-Ranges:\x20bytes\r\nAge:\x20360629\r\nX-Served-By:\x
+SF:20cache-bfi-krnt7300058-BFI\r\nX-Cache:\x20HIT\r\nX-Cache-Hits:\x201\r\
+SF:nX-Timer:\x20S1727016036\.218906,VS0,VE1\r\nVary:\x20x-wf-forwarded-pro
+SF:to,\x20Accept-Encoding\r\nX-Cluster-Name:\x20us-west-2-prod-hosting-red
+SF:\r\n\r\n<!DOCTYPE\x20html><!--\x20This\x20site\x20was\x20created\x20in\
+SF:x20Webflow\.\x20https://webflow\.com\x20--><!--\x20Last\x20Published:\x
+SF:20Tue\x20Sep\x2010\x202024\x2013:07:42\x20GMT\+0000\x20\(Coordinated\x2
+SF:0Universal\x20Time\)\x20--><html\x20data-wf-domain=\"www\.dataregion\.f
+SF:r\"\x20data-wf-page=\"6543525d4f0cd7975442db91\"\x20data-wf-site=\"6543
+SF:525d4f0cd7975442db8d\"><head><meta\x20charset=\"utf-8\"/><title>Accueil
+SF:</title><meta\x20content=\"width=device-width,\x20initial-scale=1\"\x20
+SF:name=\"viewport\"/><meta\x20content=\"Webflow\"\x20name=\"generator\"/>
+SF:<l")%r(HTTPOptions,7456,"HTTP/1\.1\x20200\x20OK\r\nDate:\x20Sun,\x2022\
+SF:x20Sep\x202024\x2014:40:36\x20GMT\r\nContent-Type:\x20text/html\r\nCont
+SF:ent-Length:\x2029333\r\nConnection:\x20close\r\nstrict-transport-securi
+SF:ty:\x20max-age=31536000\r\nx-lambda-id:\x205f5da479-f155-4d85-a256-85cc
+SF:b13ecd24\r\nAccept-Ranges:\x20bytes\r\nAge:\x200\r\nX-Served-By:\x20cac
+SF:he-bfi-krnt7300027-BFI\r\nX-Cache:\x20MISS\r\nX-Cache-Hits:\x200\r\nX-T
+SF:imer:\x20S1727016036\.395791,VS0,VE307\r\nVary:\x20x-wf-forwarded-proto
+SF:,\x20Accept-Encoding\r\nX-Cluster-Name:\x20us-west-2-prod-hosting-red\r
+SF:\n\r\n<!DOCTYPE\x20html><!--\x20This\x20site\x20was\x20created\x20in\x2
+SF:0Webflow\.\x20https://webflow\.com\x20--><!--\x20Last\x20Published:\x20
+SF:Tue\x20Sep\x2010\x202024\x2013:07:42\x20GMT\+0000\x20\(Coordinated\x20U
+SF:niversal\x20Time\)\x20--><html\x20data-wf-domain=\"www\.dataregion\.fr\
+SF:"\x20data-wf-page=\"6543525d4f0cd7975442db91\"\x20data-wf-site=\"654352
+SF:5d4f0cd7975442db8d\"><head><meta\x20charset=\"utf-8\"/><title>Accueil</
+SF:title><meta\x20content=\"width=device-width,\x20initial-scale=1\"\x20na
+SF:me=\"viewport\"/><meta\x20content=\"Webflow\"\x20name=\"generator\"/><l
+SF:in");
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Sun Sep 22 14:40:43 2024 -- 1 IP address (1 host up) scanned in 18.65 seconds
