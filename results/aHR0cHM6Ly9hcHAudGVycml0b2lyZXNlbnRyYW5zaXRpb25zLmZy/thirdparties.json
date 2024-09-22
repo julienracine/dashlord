@@ -2,7 +2,7 @@
   "trackers": [
     {
       "type": "unknown",
-      "url": "https://stonly.com/js/widget/v2/version?v=1726395640895"
+      "url": "https://stonly.com/js/widget/v2/version?v=1727000050524"
     },
     {
       "type": "crisp",
@@ -14,7 +14,7 @@
     },
     {
       "type": "unknown",
-      "url": "https://stonly.com/js/widget/v2/stonly-widget.js?v=11ca60a3"
+      "url": "https://stonly.com/js/widget/v2/stonly-widget.js?v=593f8c7f"
     },
     {
       "type": "unknown",
@@ -38,11 +38,11 @@
     },
     {
       "type": "unknown",
-      "url": "https://api.stonly.com/api/v2/widget/integration?widgetId=1b1b2533-383c-11ef-a9d4-06cb0cb2a85e&stonlyAnonymousId=8bc804a0-fd9e-479c-a8d4-1e641e4bb678&url=https%3A%2F%2Fapp.territoiresentransitions.fr%2F"
+      "url": "https://api.stonly.com/api/v2/widget/integration?widgetId=1b1b2533-383c-11ef-a9d4-06cb0cb2a85e&stonlyAnonymousId=b7b8b2e3-47e1-4acc-ac14-b30f5d908439&url=https%3A%2F%2Fapp.territoiresentransitions.fr%2F"
     },
     {
       "type": "unknown",
-      "url": "https://api.stonly.com/api/v2/widget/integration?widgetId=1b1b2533-383c-11ef-a9d4-06cb0cb2a85e&stonlyAnonymousId=8bc804a0-fd9e-479c-a8d4-1e641e4bb678&url=https%3A%2F%2Fapp.territoiresentransitions.fr%2F"
+      "url": "https://api.stonly.com/api/v2/widget/integration?widgetId=1b1b2533-383c-11ef-a9d4-06cb0cb2a85e&stonlyAnonymousId=b7b8b2e3-47e1-4acc-ac14-b30f5d908439&url=https%3A%2F%2Fapp.territoiresentransitions.fr%2F"
     },
     {
       "type": "unknown",
@@ -55,17 +55,16 @@
   ],
   "cookies": [],
   "headers": {
-    "alt-svc": "h3=\":443\"; ma=86400",
     "cache-control": "public, max-age=0",
     "cf-cache-status": "DYNAMIC",
-    "cf-ray": "8c37e2b1ffaa1134-ORD",
+    "cf-ray": "8c7186caad6d1136-ORD",
     "content-encoding": "br",
     "content-type": "text/html; charset=UTF-8",
-    "date": "Sun, 15 Sep 2024 10:20:40 GMT",
-    "etag": "W/\"aff-191e63dd690\"",
-    "last-modified": "Thu, 12 Sep 2024 12:38:18 GMT",
+    "date": "Sun, 22 Sep 2024 10:14:10 GMT",
+    "etag": "W/\"aff-19200631350\"",
+    "last-modified": "Tue, 17 Sep 2024 14:29:06 GMT",
     "server": "cloudflare",
-    "x-envoy-upstream-service-time": "80",
+    "x-envoy-upstream-service-time": "81",
     "x-koyeb-backend": "par1",
     "x-koyeb-glb": "par1",
     "x-powered-by": "Express"
@@ -73,7 +72,7 @@
   "endpoints": [
     {
       "hostname": "app.territoiresentransitions.fr",
-      "ip": "104.22.78.190",
+      "ip": "104.22.79.190",
       "geoip": {
         "registered_country": {
           "geoname_id": 6252001,
@@ -93,7 +92,7 @@
     },
     {
       "hostname": "stonly.com",
-      "ip": "18.172.122.90",
+      "ip": "18.172.122.120",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -163,7 +162,7 @@
     },
     {
       "hostname": "client.crisp.chat",
-      "ip": "104.18.28.104",
+      "ip": "104.18.29.104",
       "geoip": {
         "registered_country": {
           "geoname_id": 6252001,
@@ -183,7 +182,7 @@
     },
     {
       "hostname": "s.stonly.com",
-      "ip": "54.230.18.70",
+      "ip": "54.230.18.3",
       "geoip": {
         "continent": {
           "code": "NA",
