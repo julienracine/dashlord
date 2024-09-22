@@ -78,7 +78,7 @@
     },
     {
       "type": "unknown",
-      "url": "https://hd.pe.fr/event?s=475540&idclient=m13fw98dfj0plkv9"
+      "url": "https://hd.pe.fr/event?s=475540&idclient=m1dfqy9pu96zy8qd"
     },
     {
       "type": "unknown",
@@ -86,7 +86,7 @@
     },
     {
       "type": "unknown",
-      "url": "https://hd.pe.fr/event?s=475540&idclient=m13fw98dfj0plkv9"
+      "url": "https://hd.pe.fr/event?s=475540&idclient=m1dfqy9pu96zy8qd"
     },
     {
       "type": "unknown",
@@ -134,7 +134,7 @@
     },
     {
       "type": "unknown",
-      "url": "https://candidat.francetravail.fr/mobiville/api/helps/get-previews"
+      "url": "https://candidat.francetravail.fr/mobiville/static/media/guide-banner-mobile.b55883ebdb202a57031f.png"
     },
     {
       "type": "unknown",
@@ -150,11 +150,7 @@
     },
     {
       "type": "unknown",
-      "url": "https://cdn.francetravail.fr/studio/design-system/fonts/roboto-v30-latin-700italic.woff2"
-    },
-    {
-      "type": "unknown",
-      "url": "https://cdn.francetravail.fr/studio/design-system/fonts/roboto-v30-latin-500italic.woff2"
+      "url": "https://candidat.francetravail.fr/mobiville/api/helps/get-previews"
     },
     {
       "type": "unknown",
@@ -178,7 +174,11 @@
     },
     {
       "type": "unknown",
-      "url": "https://candidat.francetravail.fr/mobiville/static/media/guide-banner-mobile.b55883ebdb202a57031f.png"
+      "url": "https://cdn.francetravail.fr/studio/design-system/fonts/roboto-v30-latin-700italic.woff2"
+    },
+    {
+      "type": "unknown",
+      "url": "https://cdn.francetravail.fr/studio/design-system/fonts/roboto-v30-latin-500italic.woff2"
     },
     {
       "type": "unknown",
@@ -198,17 +198,17 @@
     },
     {
       "type": "unknown",
-      "url": "https://candidat.francetravail.fr/mobiville/static/media/icons.49c4346a09bcfae30639.ttf"
+      "url": "https://candidat.francetravail.fr/mobiville/api/cities/autocomplete"
     },
     {
       "type": "unknown",
-      "url": "https://candidat.francetravail.fr/mobiville/api/cities/autocomplete"
+      "url": "https://candidat.francetravail.fr/mobiville/static/media/icons.49c4346a09bcfae30639.ttf"
     }
   ],
   "cookies": [
     {
       "name": "TS016fc3b0",
-      "value": "0150c672c3ddd678faaa8be8249e0beb6bd3615b82610f56f515e2f58ded0bf00ed585196fd1da0506b6bd7d661824bb2a1e85c00f",
+      "value": "0150c672c3a2bb20467b6b022fe42ab9d84c600336274429302fb7a95359f4f9a8cb7f5e2162bb7748d1fd5bf130af22101aa2ef57",
       "domain": ".candidat.francetravail.fr",
       "path": "/",
       "expires": -1,
@@ -253,10 +253,10 @@
     "cache-control": "no-store, no-cache, must-revalidate, proxy-revalidate, max-age=0",
     "content-encoding": "gzip",
     "content-type": "text/html",
-    "date": "Sun, 15 Sep 2024 10:34:49 GMT",
+    "date": "Sun, 22 Sep 2024 10:28:23 GMT",
     "last-modified": "Tue, 16 Jul 2024 16:59:33 GMT",
     "referrer-policy": "no-referrer-when-downgrade",
-    "set-cookie": "Path=/; HttpOnly; Secure\nBIGipServerPOOL_Z2_PROD_MOP_HTTP=2023492362.20480.0000; path=/; Httponly; Secure\nTS016fc3b0=0150c672c3ddd678faaa8be8249e0beb6bd3615b82610f56f515e2f58ded0bf00ed585196fd1da0506b6bd7d661824bb2a1e85c00f; Path=/; Domain=.candidat.francetravail.fr",
+    "set-cookie": "Path=/; HttpOnly; Secure\nBIGipServerPOOL_Z2_PROD_MOP_HTTP=2023492362.20480.0000; path=/; Httponly; Secure\nTS016fc3b0=0150c672c3a2bb20467b6b022fe42ab9d84c600336274429302fb7a95359f4f9a8cb7f5e2162bb7748d1fd5bf130af22101aa2ef57; Path=/; Domain=.candidat.francetravail.fr",
     "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
     "transfer-encoding": "chunked",
     "vary": "Accept-Encoding",
@@ -418,7 +418,7 @@
     },
     {
       "hostname": "fonts.googleapis.com",
-      "ip": "142.251.167.95",
+      "ip": "142.250.191.202",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -637,7 +637,7 @@
     },
     {
       "hostname": "tag.aticdn.net",
-      "ip": "18.160.18.16",
+      "ip": "108.156.91.114",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -745,7 +745,7 @@
     },
     {
       "hostname": "privacy.trustcommander.net",
-      "ip": "13.36.202.100",
+      "ip": "13.39.245.49",
       "geoip": {
         "city": {
           "geoname_id": 2988507,
