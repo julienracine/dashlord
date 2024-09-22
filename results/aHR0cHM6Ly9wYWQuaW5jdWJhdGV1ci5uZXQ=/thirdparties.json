@@ -3,11 +3,11 @@
   "cookies": [
     {
       "name": "connect.sid",
-      "value": "s%3AB-ewcosyScDYtXLk6Pu6GDU31rInnPWB.wMlNUvfSUWi5pwzHY3IovhqeUVPL%2FbEVIb8CI8TOaG4",
+      "value": "s%3ATp4GNlrtkiDakzebSWbAjDZMafij1Q8J.jJcS42ZcThkyn60OC8BXrvd9iVw3fIW9VmAGLAj9aBo",
       "domain": "pad.incubateur.net",
       "path": "/",
-      "expires": 1727587819.978592,
-      "size": 93,
+      "expires": 1728192463.744346,
+      "size": 91,
       "httpOnly": true,
       "secure": true,
       "session": false,
@@ -19,22 +19,22 @@
   ],
   "headers": {
     "content-encoding": "gzip",
-    "content-security-policy": "default-src 'self';script-src 'self' vimeo.com https://gist.github.com www.slideshare.net 'unsafe-eval' https://disqus.com https://*.disqus.com https://*.disquscdn.com https://www.google-analytics.com 'nonce-27d45599-d688-4123-8b38-eaa2f6297ede' 'sha256-81acLZNZISnyGYZrSuoYhpzwDTTxi7vC1YM4uNxqWaM=';img-src *;style-src 'self' 'unsafe-inline' https://github.githubassets.com https://*.disquscdn.com;font-src 'self' data: https://public.slidesharecdn.com https://*.disquscdn.com;object-src *;media-src *;child-src *;connect-src *",
+    "content-security-policy": "default-src 'self';script-src 'self' vimeo.com https://gist.github.com www.slideshare.net 'unsafe-eval' https://disqus.com https://*.disqus.com https://*.disquscdn.com https://www.google-analytics.com 'nonce-e66f0747-ce2c-44d8-bf1b-a8da0f2c2c40' 'sha256-81acLZNZISnyGYZrSuoYhpzwDTTxi7vC1YM4uNxqWaM=';img-src *;style-src 'self' 'unsafe-inline' https://github.githubassets.com https://*.disquscdn.com;font-src 'self' data: https://public.slidesharecdn.com https://*.disquscdn.com;object-src *;media-src *;child-src *;connect-src *",
     "content-type": "text/html; charset=utf-8",
-    "date": "Sun, 15 Sep 2024 05:30:19 GMT",
+    "date": "Sun, 22 Sep 2024 05:27:42 GMT",
     "etag": "W/\"38c5-cO2pHfqjC9Mqrc3iDYMvVnqOPTU\"",
     "hedgedoc-version": "1.8.2",
     "referrer-policy": "same-origin",
-    "set-cookie": "connect.sid=s%3AB-ewcosyScDYtXLk6Pu6GDU31rInnPWB.wMlNUvfSUWi5pwzHY3IovhqeUVPL%2FbEVIb8CI8TOaG4; Path=/; Expires=Sun, 29 Sep 2024 05:30:19 GMT; HttpOnly; Secure; SameSite=Lax",
-    "strict-transport-security": "max-age=31536000\nmax-age=31536000; includeSubDomains; preload",
+    "set-cookie": "connect.sid=s%3ATp4GNlrtkiDakzebSWbAjDZMafij1Q8J.jJcS42ZcThkyn60OC8BXrvd9iVw3fIW9VmAGLAj9aBo; Path=/; Expires=Sun, 06 Oct 2024 05:27:42 GMT; HttpOnly; Secure; SameSite=Lax",
+    "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
     "vary": "Accept-Encoding",
     "x-powered-by": "Express",
-    "x-request-id": "810992bf-e85f-4463-b8c7-503ffd26421b"
+    "x-request-id": "7e7c8984-0540-4698-a7b6-ff8f4622b4f3"
   },
   "endpoints": [
     {
       "hostname": "pad.incubateur.net",
-      "ip": "148.253.75.120",
+      "ip": "109.232.236.90",
       "geoip": {
         "continent": {
           "code": "EU",
