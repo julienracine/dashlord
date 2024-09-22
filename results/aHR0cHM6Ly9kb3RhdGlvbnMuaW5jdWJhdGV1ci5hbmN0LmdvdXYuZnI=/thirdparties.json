@@ -37,11 +37,11 @@
   "headers": {
     "content-encoding": "gzip",
     "content-type": "text/html; charset=utf-8",
-    "date": "Sun, 15 Sep 2024 11:39:30 GMT",
+    "date": "Sun, 22 Sep 2024 11:41:53 GMT",
     "etag": "\"onywqj55lh1nr\"",
     "vary": "Accept-Encoding",
     "x-powered-by": "Next.js",
-    "x-request-id": "71780a7d-dd23-40a2-94bb-ad6f497ca17a"
+    "x-request-id": "4aec7c7a-06a1-4d78-8801-2a1268e4f1a9"
   },
   "endpoints": [
     {
@@ -102,7 +102,7 @@
     },
     {
       "hostname": "cdn.jsdelivr.net",
-      "ip": "104.18.187.31",
+      "ip": "104.18.186.31",
       "geoip": {
         "registered_country": {
           "geoname_id": 6252001,
