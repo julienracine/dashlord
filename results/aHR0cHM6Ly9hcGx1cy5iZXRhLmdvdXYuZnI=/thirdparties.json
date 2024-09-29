@@ -6,7 +6,7 @@
       "value": "1",
       "domain": ".aplus.beta.gouv.fr",
       "path": "/",
-      "expires": 1726972079,
+      "expires": 1727577056,
       "size": 17,
       "httpOnly": false,
       "secure": false,
@@ -18,10 +18,10 @@
     },
     {
       "name": "_pk_id.111.c207",
-      "value": "049b518b9db0a66e.1726970280.",
+      "value": "cc2227bd22148458.1727575256.",
       "domain": ".aplus.beta.gouv.fr",
       "path": "/",
-      "expires": 1760925480,
+      "expires": 1761530456,
       "size": 43,
       "httpOnly": false,
       "secure": false,
@@ -33,10 +33,10 @@
     },
     {
       "name": "PLAY_SESSION",
-      "value": "eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7ImNzcmZUb2tlbiI6IjI2OGRjZDM3YTk0OGE4NjdiNWFlYTYxZTJkMDNjN2RjNWJlNDY4NDAtMTcyNjk3MDI3ODMwNi1jODNkN2M2NDIwOTcyODQ1OWRjMGQyMGMifSwiZXhwIjoxNzI5NTYyMjc4LCJuYmYiOjE3MjY5NzAyNzgsImlhdCI6MTcyNjk3MDI3OH0.ejgm2W6vB6qyTibpMsSGG-Fv6QLuklNOBPRwvKmBCKA",
+      "value": "eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7ImNzcmZUb2tlbiI6Ijk0YTBhNTM5OTg0Njk3MDdiMDFlZWUyOTA3NDRmYTNiNGUwNzU3ODAtMTcyNzU3NTI1NDc5Mi0zOTEyYTFmMTExODVlZTgzODYxNTUzOTcifSwiZXhwIjoxNzMwMTY3MjU0LCJuYmYiOjE3Mjc1NzUyNTQsImlhdCI6MTcyNzU3NTI1NH0.0Mchuxo6fJVXOj8hYdqxDNoevb9lpoKC58y7gJlpGe0",
       "domain": "aplus.beta.gouv.fr",
       "path": "/",
-      "expires": 1729562278.360143,
+      "expires": 1730167254.84596,
       "size": 284,
       "httpOnly": true,
       "secure": true,
@@ -51,9 +51,9 @@
     "content-length": "20088",
     "content-security-policy": "base-uri 'none'; img-src 'self' data: stats.beta.gouv.fr; frame-src 'self' blob: *.aplus.beta.gouv.fr https://www.dailymotion.com; form-action 'self'; style-src 'self' 'unsafe-inline' stats.beta.gouv.fr; script-src 'self' stats.beta.gouv.fr; connect-src 'self' https://stats.beta.gouv.fr; object-src 'none'; default-src 'none'; font-src 'self'; frame-ancestors 'self'",
     "content-type": "text/html; charset=UTF-8",
-    "date": "Sun, 22 Sep 2024 01:57:58 GMT",
+    "date": "Sun, 29 Sep 2024 02:00:54 GMT",
     "referrer-policy": "origin-when-cross-origin, strict-origin-when-cross-origin",
-    "set-cookie": "PLAY_SESSION=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7ImNzcmZUb2tlbiI6IjI2OGRjZDM3YTk0OGE4NjdiNWFlYTYxZTJkMDNjN2RjNWJlNDY4NDAtMTcyNjk3MDI3ODMwNi1jODNkN2M2NDIwOTcyODQ1OWRjMGQyMGMifSwiZXhwIjoxNzI5NTYyMjc4LCJuYmYiOjE3MjY5NzAyNzgsImlhdCI6MTcyNjk3MDI3OH0.ejgm2W6vB6qyTibpMsSGG-Fv6QLuklNOBPRwvKmBCKA; Max-Age=2592000; Expires=Tue, 22 Oct 2024 01:57:58 GMT; SameSite=Lax; Path=/; Secure; HTTPOnly",
+    "set-cookie": "PLAY_SESSION=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7ImNzcmZUb2tlbiI6Ijk0YTBhNTM5OTg0Njk3MDdiMDFlZWUyOTA3NDRmYTNiNGUwNzU3ODAtMTcyNzU3NTI1NDc5Mi0zOTEyYTFmMTExODVlZTgzODYxNTUzOTcifSwiZXhwIjoxNzMwMTY3MjU0LCJuYmYiOjE3Mjc1NzUyNTQsImlhdCI6MTcyNzU3NTI1NH0.0Mchuxo6fJVXOj8hYdqxDNoevb9lpoKC58y7gJlpGe0; Max-Age=2592000; Expires=Tue, 29 Oct 2024 02:00:54 GMT; SameSite=Lax; Path=/; Secure; HTTPOnly",
     "strict-transport-security": "max-age=31536000; includeSubDomains",
     "x-content-type-options": "nosniff",
     "x-frame-options": "DENY",
@@ -80,25 +80,24 @@
           }
         },
         "country": {
-          "geoname_id": 3017382,
-          "is_in_european_union": true,
-          "iso_code": "FR",
+          "geoname_id": 2635167,
+          "iso_code": "GB",
           "names": {
-            "de": "Frankreich",
-            "en": "France",
-            "es": "Francia",
-            "fr": "France",
-            "ja": "フランス共和国",
-            "pt-BR": "França",
-            "ru": "Франция",
-            "zh-CN": "法国"
+            "de": "UK",
+            "en": "United Kingdom",
+            "es": "Reino Unido",
+            "fr": "Royaume-Uni",
+            "ja": "英国",
+            "pt-BR": "Reino Unido",
+            "ru": "Британия",
+            "zh-CN": "英国"
           }
         },
         "location": {
           "accuracy_radius": 500,
-          "latitude": 48.8582,
-          "longitude": 2.3387,
-          "time_zone": "Europe/Paris"
+          "latitude": 51.4964,
+          "longitude": -0.1224,
+          "time_zone": "Europe/London"
         },
         "registered_country": {
           "geoname_id": 3017382,
