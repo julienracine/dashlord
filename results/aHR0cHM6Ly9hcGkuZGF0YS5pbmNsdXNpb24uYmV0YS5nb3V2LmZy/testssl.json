@@ -1,1065 +1,6 @@
 [
          {
               "id"           : "service",
-              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "HTTP"
-          }
-,         {
-              "id"           : "pre_128cipher",
-              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "No 128 cipher limit bug"
-          }
-,         {
-              "id"           : "SSLv2",
-              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
-              "port"         : "443",
-              "severity"     : "OK",
-              "finding"      : "not offered"
-          }
-,         {
-              "id"           : "SSLv3",
-              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
-              "port"         : "443",
-              "severity"     : "OK",
-              "finding"      : "not offered"
-          }
-,         {
-              "id"           : "TLS1",
-              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "not offered"
-          }
-,         {
-              "id"           : "TLS1_1",
-              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "not offered"
-          }
-,         {
-              "id"           : "TLS1_2",
-              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
-              "port"         : "443",
-              "severity"     : "OK",
-              "finding"      : "offered"
-          }
-,         {
-              "id"           : "TLS1_3",
-              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
-              "port"         : "443",
-              "severity"     : "OK",
-              "finding"      : "offered with final"
-          }
-,         {
-              "id"           : "ALPN_HTTP2",
-              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
-              "port"         : "443",
-              "severity"     : "OK",
-              "finding"      : "h2"
-          }
-,         {
-              "id"           : "ALPN",
-              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "http/1.1"
-          }
-,         {
-              "id"           : "cipherlist_NULL",
-              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
-              "port"         : "443",
-              "severity"     : "OK",
-              "cwe"          : "CWE-327",
-              "finding"      : "not offered"
-          }
-,         {
-              "id"           : "cipherlist_aNULL",
-              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
-              "port"         : "443",
-              "severity"     : "OK",
-              "cwe"          : "CWE-327",
-              "finding"      : "not offered"
-          }
-,         {
-              "id"           : "cipherlist_EXPORT",
-              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
-              "port"         : "443",
-              "severity"     : "OK",
-              "cwe"          : "CWE-327",
-              "finding"      : "not offered"
-          }
-,         {
-              "id"           : "cipherlist_LOW",
-              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
-              "port"         : "443",
-              "severity"     : "OK",
-              "cwe"          : "CWE-327",
-              "finding"      : "not offered"
-          }
-,         {
-              "id"           : "cipherlist_3DES_IDEA",
-              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "cwe"          : "CWE-310",
-              "finding"      : "not offered"
-          }
-,         {
-              "id"           : "cipherlist_OBSOLETED",
-              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "cwe"          : "CWE-310",
-              "finding"      : "not offered"
-          }
-,         {
-              "id"           : "cipherlist_STRONG_NOFS",
-              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "not offered"
-          }
-,         {
-              "id"           : "cipherlist_STRONG_FS",
-              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
-              "port"         : "443",
-              "severity"     : "OK",
-              "finding"      : "offered"
-          }
-,         {
-              "id"           : "cipher_order-tls1_2",
-              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
-              "port"         : "443",
-              "severity"     : "OK",
-              "finding"      : "server"
-          }
-,         {
-              "id"           : "cipherorder_TLSv1_2",
-              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "ECDHE-RSA-AES256-GCM-SHA384"
-          }
-,         {
-              "id"           : "cipher_order",
-              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
-              "port"         : "443",
-              "severity"     : "OK",
-              "finding"      : "server"
-          }
-,         {
-              "id"           : "FS",
-              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
-              "port"         : "443",
-              "severity"     : "OK",
-              "finding"      : "offered"
-          }
-,         {
-              "id"           : "FS_ciphers",
-              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "DHE-RSA-AES256-GCM-SHA384 ECDHE-RSA-AES128-GCM-SHA256 ECDHE-RSA-AES256-GCM-SHA384"
-          }
-,         {
-              "id"           : "FS_ECDHE_curves",
-              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
-              "port"         : "443",
-              "severity"     : "OK",
-              "finding"      : "prime256v1 secp384r1 secp521r1"
-          }
-,         {
-              "id"           : "TLS_extensions",
-              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "'renegotiation info/#65281' 'server name/#0' 'EC point formats/#11' 'session ticket/#35' 'supported versions/#43' 'key share/#51' 'supported_groups/#10' 'max fragment length/#1' 'application layer protocol negotiation/#16' 'extended master secret/#23'"
-          }
-,         {
-              "id"           : "TLS_session_ticket",
-              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "valid for 300 seconds only (<daily)"
-          }
-,         {
-              "id"           : "SSL_sessionID_support",
-              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "yes"
-          }
-,         {
-              "id"           : "sessionresumption_ticket",
-              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "not supported"
-          }
-,         {
-              "id"           : "sessionresumption_ID",
-              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "not supported"
-          }
-,         {
-              "id"           : "TLS_timestamp",
-              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "random"
-          }
-,         {
-              "id"           : "certificate_compression",
-              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "none"
-          }
-,         {
-              "id"           : "clientAuth",
-              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "none"
-          }
-,         {
-              "id"           : "cert_numbers",
-              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "1"
-          }
-,         {
-              "id"           : "cert_signatureAlgorithm",
-              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
-              "port"         : "443",
-              "severity"     : "OK",
-              "finding"      : "SHA256 with RSA"
-          }
-,         {
-              "id"           : "cert_keySize",
-              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "RSA 2048 bits (exponent is 65537)"
-          }
-,         {
-              "id"           : "cert_keyUsage",
-              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "Digital Signature, Key Encipherment"
-          }
-,         {
-              "id"           : "cert_extKeyUsage",
-              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "TLS Web Server Authentication, TLS Web Client Authentication"
-          }
-,         {
-              "id"           : "cert_serialNumber",
-              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "03B596486DE14226080BCB12FA1E2E6C617B"
-          }
-,         {
-              "id"           : "cert_serialNumberLen",
-              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "18"
-          }
-,         {
-              "id"           : "cert_fingerprintSHA1",
-              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "BC30FD20D0C8158770EF355B953CE190A2D9F05D"
-          }
-,         {
-              "id"           : "cert_fingerprintSHA256",
-              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "447C89778CF6439ECFDD74A296B9631E56D5754D5FE85BD9869FE4183B497FD3"
-          }
-,         {
-              "id"           : "cert",
-              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "-----BEGIN CERTIFICATE-----\nMIIFDTCCA/WgAwIBAgISA7WWSG3hQiYIC8sS+h4ubGF7MA0GCSqGSIb3DQEBCwUAMDMxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQwwCgYDVQQDEwNSMTAwHhcNMjQwNzI2MDU1MTA1WhcNMjQxMDI0MDU1MTA0WjAqMSgwJgYDVQQDEx9hcGkuZGF0YS5pbmNsdXNpb24uYmV0YS5nb3V2LmZyMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA5Vdgu9BXwR2Og4JHIXFXjkKjQbssn41Dj1a5ZYL2x6ffDtE8m+o+4wWcasljn4P00KMWxH6uJBgsew4urcvdIMYccAt1LsRtZTVPrUlDt91R4F0MH73h3ppTlBgy1q3kQJdChlr2d0yDPmI22joDeDS2Q3yFnWo8VSEzKWBcqBQSUpt5o9/j2HEaOx5ZkrSNBF2hyxQ3HNNILEAH1z/zpzhciIs0/J0naOe8yn3qeDEdyeB0emA61GbCixtR1F8/1rjwcKZaxbjuKCzceL0xTlL2flR1GhhrX0Z0cc05aPPf/LhI4t2YHCK1ShWrA6gkwtBI0V4SGHXB2crR8dvY8wIDAQABo4ICIjCCAh4wDgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBQ7yQZg5ZiyI8UcsSnSHb+icseDAjAfBgNVHSMEGDAWgBS7vMNHpeS8qcbDpHIMEI2iNeHI6DBXBggrBgEFBQcBAQRLMEkwIgYIKwYBBQUHMAGGFmh0dHA6Ly9yMTAuby5sZW5jci5vcmcwIwYIKwYBBQUHMAKGF2h0dHA6Ly9yMTAuaS5sZW5jci5vcmcvMCoGA1UdEQQjMCGCH2FwaS5kYXRhLmluY2x1c2lvbi5iZXRhLmdvdXYuZnIwEwYDVR0gBAwwCjAIBgZngQwBAgEwggEDBgorBgEEAdZ5AgQCBIH0BIHxAO8AdgA/F0tP1yJHWJQdZRyEvg0S7ZA3fx+FauvBvyiF7PhkbgAAAZDtzrX5AAAEAwBHMEUCIQDopCxbMp5AhIFPbHvGee6Y5SreVYTMc2182oYYHoXCawIgISE/9Xhb8bjYL1BnYRgW4+L8JFesPKEfpXoLmCP5+9kAdQDuzdBk1dsazsVct520zROiModGfLzs3sNRSFlGcR+1mwAAAZDtzrX1AAAEAwBGMEQCIHbfar0O72Lp3zjOaUNa4A3frdY+dBJieaD1LA3fZNK+AiAec+CVbnMWxN9hGFaPvTKmA9ceGcYgZx1JQgL0i/5+ODANBgkqhkiG9w0BAQsFAAOCAQEAVVAxk8z8fItgqJOiOmcX3kyj42qyblrQLaXP6lNKoMJ8xAnJge2LqOqXRWDM20inwnzR/JAuprv/leOQrp0ZrfPNx3ahczsxnw1zLCizNxFQlxLvauRxfcCvWgITE01Qc1ZDPH0xZUQ9PKRwy2HNLBGt2gTsShohn6/P91AFUmovqHktfHQzRwNe5GslOUTmSe7IhMTtlgavC2tDR9ejiy6D7lD6Pl6noTqfOAiZbiwMKKUXhQT5Qc44KTGpXG3izMXO5X6h+LOkp41SVd46L6XjVDdsYa3gQ03NzOVIrs7Oe4789IxLHbHLIfU7X/ahvZCkNG113vOisKuN9ppDwg==\n-----END CERTIFICATE-----"
-          }
-,         {
-              "id"           : "cert_commonName",
-              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
-              "port"         : "443",
-              "severity"     : "OK",
-              "finding"      : "api.data.inclusion.beta.gouv.fr"
-          }
-,         {
-              "id"           : "cert_commonName_wo_SNI",
-              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "*.osc-secnum-fr1.scalingo.io"
-          }
-,         {
-              "id"           : "cert_subjectAltName",
-              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "api.data.inclusion.beta.gouv.fr"
-          }
-,         {
-              "id"           : "cert_trust",
-              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
-              "port"         : "443",
-              "severity"     : "OK",
-              "finding"      : "Ok via SAN and CN (SNI mandatory)"
-          }
-,         {
-              "id"           : "cert_chain_of_trust",
-              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
-              "port"         : "443",
-              "severity"     : "OK",
-              "finding"      : "passed."
-          }
-,         {
-              "id"           : "cert_certificatePolicies_EV",
-              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "no"
-          }
-,         {
-              "id"           : "cert_expirationStatus",
-              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
-              "port"         : "443",
-              "severity"     : "OK",
-              "finding"      : "31 >= 30 days"
-          }
-,         {
-              "id"           : "cert_notBefore",
-              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "2024-07-26 05:51"
-          }
-,         {
-              "id"           : "cert_notAfter",
-              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
-              "port"         : "443",
-              "severity"     : "OK",
-              "finding"      : "2024-10-24 05:51"
-          }
-,         {
-              "id"           : "cert_extlifeSpan",
-              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
-              "port"         : "443",
-              "severity"     : "OK",
-              "finding"      : "certificate has no extended life time according to browser forum"
-          }
-,         {
-              "id"           : "cert_eTLS",
-              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "not present"
-          }
-,         {
-              "id"           : "cert_crlDistributionPoints",
-              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "--"
-          }
-,         {
-              "id"           : "cert_ocspURL",
-              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "http://r10.o.lencr.org"
-          }
-,         {
-              "id"           : "OCSP_stapling",
-              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
-              "port"         : "443",
-              "severity"     : "LOW",
-              "finding"      : "not offered"
-          }
-,         {
-              "id"           : "cert_mustStapleExtension",
-              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "--"
-          }
-,         {
-              "id"           : "DNS_CAArecord",
-              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
-              "port"         : "443",
-              "severity"     : "LOW",
-              "finding"      : "--"
-          }
-,         {
-              "id"           : "certificate_transparency",
-              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
-              "port"         : "443",
-              "severity"     : "OK",
-              "finding"      : "yes (certificate extension)"
-          }
-,         {
-              "id"           : "certs_countServer",
-              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "2"
-          }
-,         {
-              "id"           : "certs_list_ordering_problem",
-              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "no"
-          }
-,         {
-              "id"           : "cert_caIssuers",
-              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "R10 (Let's Encrypt from US)"
-          }
-,         {
-              "id"           : "intermediate_cert <#1>",
-              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "-----BEGIN CERTIFICATE-----\nMIIFBTCCAu2gAwIBAgIQS6hSk/eaL6JzBkuoBI110DANBgkqhkiG9w0BAQsFADBPMQswCQYDVQQGEwJVUzEpMCcGA1UEChMgSW50ZXJuZXQgU2VjdXJpdHkgUmVzZWFyY2ggR3JvdXAxFTATBgNVBAMTDElTUkcgUm9vdCBYMTAeFw0yNDAzMTMwMDAwMDBaFw0yNzAzMTIyMzU5NTlaMDMxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQwwCgYDVQQDEwNSMTAwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDPV+XmxFQS7bRH/sknWHZGUCiMHT6I3wWd1bUYKb3dtVq/+vbOo76vACFLYlpaPAEvxVgD9on/jhFD68G14BQHlo9vH9fnuoE5CXVlt8KvGFs3Jijno/QHK20a/6tYvJWuQP/py1fEtVt/eA0YYbwX51TGu0mRzW4Y0YCF7qZlNrx06rxQTOr8IfM4FpOUurDTazgGzRYSespSdcitdrLCnF2YRVxvYXvGLe48E1KGAdlX5jgc3421H5KRmudKHMxFqHJV8LDmowfs/acbZp4/SItxhHFYyTr6717yW0QrPHTnj7JHwQdqzZq3DZb3EoEmUVQK7GH29/Xi8orIlQ2NAgMBAAGjgfgwgfUwDgYDVR0PAQH/BAQDAgGGMB0GA1UdJQQWMBQGCCsGAQUFBwMCBggrBgEFBQcDATASBgNVHRMBAf8ECDAGAQH/AgEAMB0GA1UdDgQWBBS7vMNHpeS8qcbDpHIMEI2iNeHI6DAfBgNVHSMEGDAWgBR5tFnme7bl5AFzgAiIyBpY9umbbjAyBggrBgEFBQcBAQQmMCQwIgYIKwYBBQUHMAKGFmh0dHA6Ly94MS5pLmxlbmNyLm9yZy8wEwYDVR0gBAwwCjAIBgZngQwBAgEwJwYDVR0fBCAwHjAcoBqgGIYWaHR0cDovL3gxLmMubGVuY3Iub3JnLzANBgkqhkiG9w0BAQsFAAOCAgEAkrHnQTfreZ2B5s3iJeE6IOmQRJWjgVzPw139vaBw1bGWKCIL0vIozwzn1OZDjCQiHcFCktEJr59L9MhwTyAWsVrdAfYf+B9haxQnsHKNY67u4s5Lzzfdu6PUzeetUK29v+PsPmI2cJkxp+iN3epi4hKu9ZzUPSwMqtCceb7qPVxEbpYxY1p91n5PJKBLBX9eb9LU6l8zSxPWV7bK3lG4XaMJgnT9x3ies7msFtpKK5bDtotij/l0GaKeA97pb5uwD9KgWvaFXMIEt8jVTjLEvwRdvCn294GPDF08U8lAkIv7tghluaQh1QnlE4SEN4LOECj8dsIGJXpGUk3aU3KkJz9icKy+aUgA+2cP21uh6NcDIS3XyfaZQjmDQ993ChII8SXWupQZVBiIpcWO4RqZk3lr7Bz5MUCwzDIA359e57SSq5CCkY0N4B6Vulk7LktfwrdGNVI5BsC9qqxSwSKgRJeZ9wygIaehbHFHFhcBaMDKpiZlBHyzrsnnlFXCb5s8HKn5LsUgGvB24L7sGNZP2CX7dhHov+YhD+jozLW2p9W4959Bz2EiRmqDtmiXLnzqTpXbI+suyCsohKRg6Un0RC47+cpiVwHiXZAW+cn8eiNIjqbVgXLxKPpdzvvtTnOPlC7SQZSYmdunr3Bf9b77AiC/ZidstK36dRILKz7OA54=\n-----END CERTIFICATE-----"
-          }
-,         {
-              "id"           : "intermediate_cert_fingerprintSHA256 <#1>",
-              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "9D7C3F1AA6AD2B2EC0D5CF1E246F8D9AE6CBC9FD0755AD37BB974B1F2FB603F3"
-          }
-,         {
-              "id"           : "intermediate_cert_notBefore <#1>",
-              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "2024-03-13 00:00"
-          }
-,         {
-              "id"           : "intermediate_cert_notAfter <#1>",
-              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
-              "port"         : "443",
-              "severity"     : "OK",
-              "finding"      : "2027-03-12 23:59"
-          }
-,         {
-              "id"           : "intermediate_cert_expiration <#1>",
-              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
-              "port"         : "443",
-              "severity"     : "OK",
-              "finding"      : "ok > 40 days"
-          }
-,         {
-              "id"           : "intermediate_cert_chain <#1>",
-              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "R10 <-- ISRG Root X1"
-          }
-,         {
-              "id"           : "intermediate_cert_badOCSP",
-              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
-              "port"         : "443",
-              "severity"     : "OK",
-              "finding"      : "intermediate certificate(s) is/are ok"
-          }
-,         {
-              "id"           : "HTTP_status_code",
-              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "404 Not Found ('/')"
-          }
-,         {
-              "id"           : "HTTP_clock_skew",
-              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "0 seconds from localtime"
-          }
-,         {
-              "id"           : "HTTP_headerTime",
-              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "1727013461"
-          }
-,         {
-              "id"           : "HSTS",
-              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
-              "port"         : "443",
-              "severity"     : "LOW",
-              "finding"      : "not offered"
-          }
-,         {
-              "id"           : "HPKP",
-              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "No support for HTTP Public Key Pinning"
-          }
-,         {
-              "id"           : "banner_server",
-              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "No Server banner line in header, interesting!"
-          }
-,         {
-              "id"           : "banner_application",
-              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "No application banner found"
-          }
-,         {
-              "id"           : "cookie_count",
-              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "0 at '/' (30x detected, better try target URL of 30x)"
-          }
-,         {
-              "id"           : "security_headers",
-              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
-              "port"         : "443",
-              "severity"     : "MEDIUM",
-              "finding"      : "--"
-          }
-,         {
-              "id"           : "banner_reverseproxy",
-              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "cwe"          : "CWE-200",
-              "finding"      : "--"
-          }
-,         {
-              "id"           : "heartbleed",
-              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
-              "port"         : "443",
-              "severity"     : "OK",
-              "cve"          : "CVE-2014-0160",
-              "cwe"          : "CWE-119",
-              "finding"      : "not vulnerable, no heartbeat extension"
-          }
-,         {
-              "id"           : "CCS",
-              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
-              "port"         : "443",
-              "severity"     : "OK",
-              "cve"          : "CVE-2014-0224",
-              "cwe"          : "CWE-310",
-              "finding"      : "not vulnerable"
-          }
-,         {
-              "id"           : "ticketbleed",
-              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
-              "port"         : "443",
-              "severity"     : "OK",
-              "cve"          : "CVE-2016-9244",
-              "cwe"          : "CWE-200",
-              "finding"      : "not vulnerable"
-          }
-,         {
-              "id"           : "ROBOT",
-              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
-              "port"         : "443",
-              "severity"     : "OK",
-              "cve"          : "CVE-2017-17382 CVE-2017-17427 CVE-2017-17428 CVE-2017-13098 CVE-2017-1000385 CVE-2017-13099 CVE-2016-6883 CVE-2012-5081 CVE-2017-6168",
-              "cwe"          : "CWE-203",
-              "finding"      : "not vulnerable, no RSA key transport cipher"
-          }
-,         {
-              "id"           : "secure_renego",
-              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
-              "port"         : "443",
-              "severity"     : "OK",
-              "cwe"          : "CWE-310",
-              "finding"      : "supported"
-          }
-,         {
-              "id"           : "secure_client_renego",
-              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
-              "port"         : "443",
-              "severity"     : "OK",
-              "cve"          : "CVE-2011-1473",
-              "cwe"          : "CWE-310",
-              "finding"      : "not vulnerable"
-          }
-,         {
-              "id"           : "CRIME_TLS",
-              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
-              "port"         : "443",
-              "severity"     : "OK",
-              "cve"          : "CVE-2012-4929",
-              "cwe"          : "CWE-310",
-              "finding"      : "not vulnerable"
-          }
-,         {
-              "id"           : "BREACH",
-              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
-              "port"         : "443",
-              "severity"     : "OK",
-              "cve"          : "CVE-2013-3587",
-              "cwe"          : "CWE-310",
-              "finding"      : "not vulnerable, no gzip/deflate/compress/br HTTP compression  - only supplied '/' tested"
-          }
-,         {
-              "id"           : "POODLE_SSL",
-              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
-              "port"         : "443",
-              "severity"     : "OK",
-              "cve"          : "CVE-2014-3566",
-              "cwe"          : "CWE-310",
-              "finding"      : "not vulnerable, no SSLv3"
-          }
-,         {
-              "id"           : "fallback_SCSV",
-              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
-              "port"         : "443",
-              "severity"     : "OK",
-              "finding"      : "no protocol below TLS 1.2 offered"
-          }
-,         {
-              "id"           : "SWEET32",
-              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
-              "port"         : "443",
-              "severity"     : "OK",
-              "cve"          : "CVE-2016-2183 CVE-2016-6329",
-              "cwe"          : "CWE-327",
-              "finding"      : "not vulnerable"
-          }
-,         {
-              "id"           : "FREAK",
-              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
-              "port"         : "443",
-              "severity"     : "OK",
-              "cve"          : "CVE-2015-0204",
-              "cwe"          : "CWE-310",
-              "finding"      : "not vulnerable"
-          }
-,         {
-              "id"           : "DROWN",
-              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
-              "port"         : "443",
-              "severity"     : "OK",
-              "cve"          : "CVE-2016-0800 CVE-2016-0703",
-              "cwe"          : "CWE-310",
-              "finding"      : "not vulnerable on this host and port"
-          }
-,         {
-              "id"           : "DROWN_hint",
-              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "cve"          : "CVE-2016-0800 CVE-2016-0703",
-              "cwe"          : "CWE-310",
-              "finding"      : "Make sure you don't use this certificate elsewhere with SSLv2 enabled services, see https://search.censys.io/search?resource=hosts&virtual_hosts=INCLUDE&q=447C89778CF6439ECFDD74A296B9631E56D5754D5FE85BD9869FE4183B497FD3"
-          }
-,         {
-              "id"           : "LOGJAM",
-              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
-              "port"         : "443",
-              "severity"     : "OK",
-              "cve"          : "CVE-2015-4000",
-              "cwe"          : "CWE-310",
-              "finding"      : "not vulnerable, no DH EXPORT ciphers,"
-          }
-,         {
-              "id"           : "LOGJAM-common_primes",
-              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
-              "port"         : "443",
-              "severity"     : "OK",
-              "cve"          : "CVE-2015-4000",
-              "cwe"          : "CWE-310",
-              "finding"      : "--"
-          }
-,         {
-              "id"           : "BEAST",
-              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
-              "port"         : "443",
-              "severity"     : "OK",
-              "cve"          : "CVE-2011-3389",
-              "cwe"          : "CWE-20",
-              "finding"      : "not vulnerable, no SSL3 or TLS1"
-          }
-,         {
-              "id"           : "LUCKY13",
-              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
-              "port"         : "443",
-              "severity"     : "OK",
-              "cve"          : "CVE-2013-0169",
-              "cwe"          : "CWE-310",
-              "finding"      : "not vulnerable"
-          }
-,         {
-              "id"           : "winshock",
-              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
-              "port"         : "443",
-              "severity"     : "OK",
-              "cve"          : "CVE-2014-6321",
-              "cwe"          : "CWE-94",
-              "finding"      : "not vulnerable"
-          }
-,         {
-              "id"           : "RC4",
-              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
-              "port"         : "443",
-              "severity"     : "OK",
-              "cve"          : "CVE-2013-2566 CVE-2015-2808",
-              "cwe"          : "CWE-310",
-              "finding"      : "not vulnerable"
-          }
-,         {
-              "id"           : "clientsimulation-android_60",
-              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "TLSv1.2 ECDHE-RSA-AES128-GCM-SHA256"
-          }
-,         {
-              "id"           : "clientsimulation-android_70",
-              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "TLSv1.2 ECDHE-RSA-AES256-GCM-SHA384"
-          }
-,         {
-              "id"           : "clientsimulation-android_81",
-              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "TLSv1.2 ECDHE-RSA-AES256-GCM-SHA384"
-          }
-,         {
-              "id"           : "clientsimulation-android_90",
-              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "TLSv1.3 TLS_AES_256_GCM_SHA384"
-          }
-,         {
-              "id"           : "clientsimulation-android_X",
-              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "TLSv1.3 TLS_AES_256_GCM_SHA384"
-          }
-,         {
-              "id"           : "clientsimulation-android_11",
-              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "TLSv1.3 TLS_AES_256_GCM_SHA384"
-          }
-,         {
-              "id"           : "clientsimulation-android_12",
-              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "TLSv1.3 TLS_AES_256_GCM_SHA384"
-          }
-,         {
-              "id"           : "clientsimulation-chrome_79_win10",
-              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "TLSv1.3 TLS_AES_256_GCM_SHA384"
-          }
-,         {
-              "id"           : "clientsimulation-chrome_101_win10",
-              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "TLSv1.3 TLS_AES_256_GCM_SHA384"
-          }
-,         {
-              "id"           : "clientsimulation-firefox_66_win81",
-              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "TLSv1.3 TLS_AES_256_GCM_SHA384"
-          }
-,         {
-              "id"           : "clientsimulation-firefox_100_win10",
-              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "TLSv1.3 TLS_AES_256_GCM_SHA384"
-          }
-,         {
-              "id"           : "clientsimulation-ie_6_xp",
-              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "No connection"
-          }
-,         {
-              "id"           : "clientsimulation-ie_8_win7",
-              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "No connection"
-          }
-,         {
-              "id"           : "clientsimulation-ie_8_xp",
-              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "No connection"
-          }
-,         {
-              "id"           : "clientsimulation-ie_11_win7",
-              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "TLSv1.2 DHE-RSA-AES256-GCM-SHA384"
-          }
-,         {
-              "id"           : "clientsimulation-ie_11_win81",
-              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "TLSv1.2 DHE-RSA-AES256-GCM-SHA384"
-          }
-,         {
-              "id"           : "clientsimulation-ie_11_winphone81",
-              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "No connection"
-          }
-,         {
-              "id"           : "clientsimulation-ie_11_win10",
-              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "TLSv1.2 ECDHE-RSA-AES256-GCM-SHA384"
-          }
-,         {
-              "id"           : "clientsimulation-edge_15_win10",
-              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "TLSv1.2 ECDHE-RSA-AES256-GCM-SHA384"
-          }
-,         {
-              "id"           : "clientsimulation-edge_101_win10_21h2",
-              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "TLSv1.3 TLS_AES_256_GCM_SHA384"
-          }
-,         {
-              "id"           : "clientsimulation-safari_121_ios_122",
-              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "TLSv1.3 TLS_AES_256_GCM_SHA384"
-          }
-,         {
-              "id"           : "clientsimulation-safari_130_osx_10146",
-              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "TLSv1.3 TLS_AES_256_GCM_SHA384"
-          }
-,         {
-              "id"           : "clientsimulation-safari_154_osx_1231",
-              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "TLSv1.3 TLS_AES_256_GCM_SHA384"
-          }
-,         {
-              "id"           : "clientsimulation-java_7u25",
-              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "No connection"
-          }
-,         {
-              "id"           : "clientsimulation-java_8u161",
-              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "TLSv1.2 ECDHE-RSA-AES256-GCM-SHA384"
-          }
-,         {
-              "id"           : "clientsimulation-java1102",
-              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "TLSv1.3 TLS_AES_256_GCM_SHA384"
-          }
-,         {
-              "id"           : "clientsimulation-java1703",
-              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "TLSv1.3 TLS_AES_256_GCM_SHA384"
-          }
-,         {
-              "id"           : "clientsimulation-go_1178",
-              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "TLSv1.3 TLS_AES_256_GCM_SHA384"
-          }
-,         {
-              "id"           : "clientsimulation-libressl_283",
-              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "TLSv1.2 ECDHE-RSA-AES256-GCM-SHA384"
-          }
-,         {
-              "id"           : "clientsimulation-openssl_102e",
-              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "TLSv1.2 ECDHE-RSA-AES256-GCM-SHA384"
-          }
-,         {
-              "id"           : "clientsimulation-openssl_110l",
-              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "TLSv1.2 ECDHE-RSA-AES256-GCM-SHA384"
-          }
-,         {
-              "id"           : "clientsimulation-openssl_111d",
-              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "TLSv1.3 TLS_AES_256_GCM_SHA384"
-          }
-,         {
-              "id"           : "clientsimulation-openssl_303",
-              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "TLSv1.3 TLS_AES_256_GCM_SHA384"
-          }
-,         {
-              "id"           : "clientsimulation-apple_mail_16_0",
-              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "TLSv1.2 ECDHE-RSA-AES256-GCM-SHA384"
-          }
-,         {
-              "id"           : "clientsimulation-thunderbird_91_9",
-              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "TLSv1.3 TLS_AES_256_GCM_SHA384"
-          }
-,         {
-              "id"           : "rating_spec",
-              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "SSL Labs's 'SSL Server Rating Guide' (version 2009q from 2020-01-30)"
-          }
-,         {
-              "id"           : "rating_doc",
-              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "https://github.com/ssllabs/research/wiki/SSL-Server-Rating-Guide"
-          }
-,         {
-              "id"           : "protocol_support_score",
-              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "100"
-          }
-,         {
-              "id"           : "protocol_support_score_weighted",
-              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "30"
-          }
-,         {
-              "id"           : "key_exchange_score",
-              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "90"
-          }
-,         {
-              "id"           : "key_exchange_score_weighted",
-              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "27"
-          }
-,         {
-              "id"           : "cipher_strength_score",
-              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "60"
-          }
-,         {
-              "id"           : "cipher_strength_score_weighted",
-              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "24"
-          }
-,         {
-              "id"           : "final_score",
-              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "81"
-          }
-,         {
-              "id"           : "overall_grade",
-              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
-              "port"         : "443",
-              "severity"     : "OK",
-              "finding"      : "A"
-          }
-,         {
-              "id"           : "grade_cap_reason_1",
-              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "Grade capped to A. HSTS is not offered"
-          }
-,         {
-              "id"           : "service",
               "ip"           : "api.data.inclusion.beta.gouv.fr/185.21.194.105",
               "port"         : "443",
               "severity"     : "INFO",
@@ -1265,7 +206,7 @@
               "ip"           : "api.data.inclusion.beta.gouv.fr/185.21.194.105",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "not supported"
+              "finding"      : "supported"
           }
 ,         {
               "id"           : "TLS_timestamp",
@@ -1328,7 +269,7 @@
               "ip"           : "api.data.inclusion.beta.gouv.fr/185.21.194.105",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "03B596486DE14226080BCB12FA1E2E6C617B"
+              "finding"      : "0310F6F573EE0127941070974BC2D74D3CA9"
           }
 ,         {
               "id"           : "cert_serialNumberLen",
@@ -1342,21 +283,21 @@
               "ip"           : "api.data.inclusion.beta.gouv.fr/185.21.194.105",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "BC30FD20D0C8158770EF355B953CE190A2D9F05D"
+              "finding"      : "02EF391AF46C9CC2A942218407F6A4ED9C78935E"
           }
 ,         {
               "id"           : "cert_fingerprintSHA256",
               "ip"           : "api.data.inclusion.beta.gouv.fr/185.21.194.105",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "447C89778CF6439ECFDD74A296B9631E56D5754D5FE85BD9869FE4183B497FD3"
+              "finding"      : "751928EEFE6D05DE85EE11E7F75F7DF4D4755AE97ABB22C8229E4A6FED4FFBD3"
           }
 ,         {
               "id"           : "cert",
               "ip"           : "api.data.inclusion.beta.gouv.fr/185.21.194.105",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "-----BEGIN CERTIFICATE-----\nMIIFDTCCA/WgAwIBAgISA7WWSG3hQiYIC8sS+h4ubGF7MA0GCSqGSIb3DQEBCwUAMDMxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQwwCgYDVQQDEwNSMTAwHhcNMjQwNzI2MDU1MTA1WhcNMjQxMDI0MDU1MTA0WjAqMSgwJgYDVQQDEx9hcGkuZGF0YS5pbmNsdXNpb24uYmV0YS5nb3V2LmZyMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA5Vdgu9BXwR2Og4JHIXFXjkKjQbssn41Dj1a5ZYL2x6ffDtE8m+o+4wWcasljn4P00KMWxH6uJBgsew4urcvdIMYccAt1LsRtZTVPrUlDt91R4F0MH73h3ppTlBgy1q3kQJdChlr2d0yDPmI22joDeDS2Q3yFnWo8VSEzKWBcqBQSUpt5o9/j2HEaOx5ZkrSNBF2hyxQ3HNNILEAH1z/zpzhciIs0/J0naOe8yn3qeDEdyeB0emA61GbCixtR1F8/1rjwcKZaxbjuKCzceL0xTlL2flR1GhhrX0Z0cc05aPPf/LhI4t2YHCK1ShWrA6gkwtBI0V4SGHXB2crR8dvY8wIDAQABo4ICIjCCAh4wDgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBQ7yQZg5ZiyI8UcsSnSHb+icseDAjAfBgNVHSMEGDAWgBS7vMNHpeS8qcbDpHIMEI2iNeHI6DBXBggrBgEFBQcBAQRLMEkwIgYIKwYBBQUHMAGGFmh0dHA6Ly9yMTAuby5sZW5jci5vcmcwIwYIKwYBBQUHMAKGF2h0dHA6Ly9yMTAuaS5sZW5jci5vcmcvMCoGA1UdEQQjMCGCH2FwaS5kYXRhLmluY2x1c2lvbi5iZXRhLmdvdXYuZnIwEwYDVR0gBAwwCjAIBgZngQwBAgEwggEDBgorBgEEAdZ5AgQCBIH0BIHxAO8AdgA/F0tP1yJHWJQdZRyEvg0S7ZA3fx+FauvBvyiF7PhkbgAAAZDtzrX5AAAEAwBHMEUCIQDopCxbMp5AhIFPbHvGee6Y5SreVYTMc2182oYYHoXCawIgISE/9Xhb8bjYL1BnYRgW4+L8JFesPKEfpXoLmCP5+9kAdQDuzdBk1dsazsVct520zROiModGfLzs3sNRSFlGcR+1mwAAAZDtzrX1AAAEAwBGMEQCIHbfar0O72Lp3zjOaUNa4A3frdY+dBJieaD1LA3fZNK+AiAec+CVbnMWxN9hGFaPvTKmA9ceGcYgZx1JQgL0i/5+ODANBgkqhkiG9w0BAQsFAAOCAQEAVVAxk8z8fItgqJOiOmcX3kyj42qyblrQLaXP6lNKoMJ8xAnJge2LqOqXRWDM20inwnzR/JAuprv/leOQrp0ZrfPNx3ahczsxnw1zLCizNxFQlxLvauRxfcCvWgITE01Qc1ZDPH0xZUQ9PKRwy2HNLBGt2gTsShohn6/P91AFUmovqHktfHQzRwNe5GslOUTmSe7IhMTtlgavC2tDR9ejiy6D7lD6Pl6noTqfOAiZbiwMKKUXhQT5Qc44KTGpXG3izMXO5X6h+LOkp41SVd46L6XjVDdsYa3gQ03NzOVIrs7Oe4789IxLHbHLIfU7X/ahvZCkNG113vOisKuN9ppDwg==\n-----END CERTIFICATE-----"
+              "finding"      : "-----BEGIN CERTIFICATE-----\nMIIFDzCCA/egAwIBAgISAxD29XPuASeUEHCXS8LXTTypMA0GCSqGSIb3DQEBCwUAMDMxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQwwCgYDVQQDEwNSMTEwHhcNMjQwOTI0MDU1MzQ3WhcNMjQxMjIzMDU1MzQ2WjAqMSgwJgYDVQQDEx9hcGkuZGF0YS5pbmNsdXNpb24uYmV0YS5nb3V2LmZyMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAruSWKRkNvBHbmjp010eBRxAc1JmZYqHGsk/M1qaSxAiN+DctUWIFLcPbBGcJSNCrSlIswPa2pm6+wX6x/UdKAcQuOZk/x0r2P/cjQN6G3kLnoxqr/I/qz1M4Cc1lEWnS/CGtuIrWvOXqQt/5wOIs3tZ0u14xdRQ5wGEc0riahs8QwXpqF86mMTkPG6dUQEfBEVSzqL06teTMBQVpx76Fm7m5LrxDNqVraMiXygcCxcyrWCySg0z2W6piwpapwiRnblAW46SszbHHlt4+myjPEcknovYykRVVsX2JLqINLkRO318SDqZlKAqsYZL6gThZBGuAaEP9Zi5gTiFEy4zvKQIDAQABo4ICJDCCAiAwDgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBSxmyX5R+MFtW04LcPC+t3f/3rHODAfBgNVHSMEGDAWgBTFz0ak6vTDwHpslcQtsF6SLybjuTBXBggrBgEFBQcBAQRLMEkwIgYIKwYBBQUHMAGGFmh0dHA6Ly9yMTEuby5sZW5jci5vcmcwIwYIKwYBBQUHMAKGF2h0dHA6Ly9yMTEuaS5sZW5jci5vcmcvMCoGA1UdEQQjMCGCH2FwaS5kYXRhLmluY2x1c2lvbi5iZXRhLmdvdXYuZnIwEwYDVR0gBAwwCjAIBgZngQwBAgEwggEFBgorBgEEAdZ5AgQCBIH2BIHzAPEAdgAZmBBxCfDWUi4wgNKeP2S7g24ozPkPUo7u385KPxa0ygAAAZIizV9WAAAEAwBHMEUCIDTq/DjPXGNAKmzPemssMLzwrtg/AGC1kZyWpame3eNXAiEAj5X3LH8ctcaYfyFHeTWjIB5gGd9U+4aoyfrZKpSoYtIAdwA/F0tP1yJHWJQdZRyEvg0S7ZA3fx+FauvBvyiF7PhkbgAAAZIizV9NAAAEAwBIMEYCIQDLyWysHB5HYz6VLwU2DbWzYL3kTHSd4N7Yxu0Of70uRwIhAO2F7wQFiABSGNxbDQGBIEnzMiNeA6RL4DzEvA4Q9dx4MA0GCSqGSIb3DQEBCwUAA4IBAQB3rQEdMwmYBxo9EVIwWrNtaZLM5SjvboPZVVg/8RMF6WMaIoOKQ9yvOeAOklslc0Q95YmxD0Ryr6HK+7fuNZQV/KXNL6ztnFHEDPIVrdRmOwwof8pdvhmAAWmibvmdPad1Dds/vBwDAz07PrsohKk7463m4UG4kRq9npU2/A4tNSBBM/MXmxgf0zwI6SSqWYD32foPrHA6Qb0HJhuZVzCXU858exASq6dLeTJNa1gu5lQDa9cUj1eydqQgvA9pNjntuIpsqUfhYxitG974sjV4UE6zj1B2N6L8znxuw4CQEIl6kXl08uTRYWjx8wSb9XBtmAYGW0gRnrFGdtwRABUw\n-----END CERTIFICATE-----"
           }
 ,         {
               "id"           : "cert_commonName",
@@ -1405,21 +346,21 @@
               "ip"           : "api.data.inclusion.beta.gouv.fr/185.21.194.105",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "31 >= 30 days"
+              "finding"      : "84 >= 30 days"
           }
 ,         {
               "id"           : "cert_notBefore",
               "ip"           : "api.data.inclusion.beta.gouv.fr/185.21.194.105",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "2024-07-26 05:51"
+              "finding"      : "2024-09-24 05:53"
           }
 ,         {
               "id"           : "cert_notAfter",
               "ip"           : "api.data.inclusion.beta.gouv.fr/185.21.194.105",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "2024-10-24 05:51"
+              "finding"      : "2024-12-23 05:53"
           }
 ,         {
               "id"           : "cert_extlifeSpan",
@@ -1447,7 +388,7 @@
               "ip"           : "api.data.inclusion.beta.gouv.fr/185.21.194.105",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "http://r10.o.lencr.org"
+              "finding"      : "http://r11.o.lencr.org"
           }
 ,         {
               "id"           : "OCSP_stapling",
@@ -1496,21 +437,21 @@
               "ip"           : "api.data.inclusion.beta.gouv.fr/185.21.194.105",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "R10 (Let's Encrypt from US)"
+              "finding"      : "R11 (Let's Encrypt from US)"
           }
 ,         {
               "id"           : "intermediate_cert <#1>",
               "ip"           : "api.data.inclusion.beta.gouv.fr/185.21.194.105",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "-----BEGIN CERTIFICATE-----\nMIIFBTCCAu2gAwIBAgIQS6hSk/eaL6JzBkuoBI110DANBgkqhkiG9w0BAQsFADBPMQswCQYDVQQGEwJVUzEpMCcGA1UEChMgSW50ZXJuZXQgU2VjdXJpdHkgUmVzZWFyY2ggR3JvdXAxFTATBgNVBAMTDElTUkcgUm9vdCBYMTAeFw0yNDAzMTMwMDAwMDBaFw0yNzAzMTIyMzU5NTlaMDMxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQwwCgYDVQQDEwNSMTAwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDPV+XmxFQS7bRH/sknWHZGUCiMHT6I3wWd1bUYKb3dtVq/+vbOo76vACFLYlpaPAEvxVgD9on/jhFD68G14BQHlo9vH9fnuoE5CXVlt8KvGFs3Jijno/QHK20a/6tYvJWuQP/py1fEtVt/eA0YYbwX51TGu0mRzW4Y0YCF7qZlNrx06rxQTOr8IfM4FpOUurDTazgGzRYSespSdcitdrLCnF2YRVxvYXvGLe48E1KGAdlX5jgc3421H5KRmudKHMxFqHJV8LDmowfs/acbZp4/SItxhHFYyTr6717yW0QrPHTnj7JHwQdqzZq3DZb3EoEmUVQK7GH29/Xi8orIlQ2NAgMBAAGjgfgwgfUwDgYDVR0PAQH/BAQDAgGGMB0GA1UdJQQWMBQGCCsGAQUFBwMCBggrBgEFBQcDATASBgNVHRMBAf8ECDAGAQH/AgEAMB0GA1UdDgQWBBS7vMNHpeS8qcbDpHIMEI2iNeHI6DAfBgNVHSMEGDAWgBR5tFnme7bl5AFzgAiIyBpY9umbbjAyBggrBgEFBQcBAQQmMCQwIgYIKwYBBQUHMAKGFmh0dHA6Ly94MS5pLmxlbmNyLm9yZy8wEwYDVR0gBAwwCjAIBgZngQwBAgEwJwYDVR0fBCAwHjAcoBqgGIYWaHR0cDovL3gxLmMubGVuY3Iub3JnLzANBgkqhkiG9w0BAQsFAAOCAgEAkrHnQTfreZ2B5s3iJeE6IOmQRJWjgVzPw139vaBw1bGWKCIL0vIozwzn1OZDjCQiHcFCktEJr59L9MhwTyAWsVrdAfYf+B9haxQnsHKNY67u4s5Lzzfdu6PUzeetUK29v+PsPmI2cJkxp+iN3epi4hKu9ZzUPSwMqtCceb7qPVxEbpYxY1p91n5PJKBLBX9eb9LU6l8zSxPWV7bK3lG4XaMJgnT9x3ies7msFtpKK5bDtotij/l0GaKeA97pb5uwD9KgWvaFXMIEt8jVTjLEvwRdvCn294GPDF08U8lAkIv7tghluaQh1QnlE4SEN4LOECj8dsIGJXpGUk3aU3KkJz9icKy+aUgA+2cP21uh6NcDIS3XyfaZQjmDQ993ChII8SXWupQZVBiIpcWO4RqZk3lr7Bz5MUCwzDIA359e57SSq5CCkY0N4B6Vulk7LktfwrdGNVI5BsC9qqxSwSKgRJeZ9wygIaehbHFHFhcBaMDKpiZlBHyzrsnnlFXCb5s8HKn5LsUgGvB24L7sGNZP2CX7dhHov+YhD+jozLW2p9W4959Bz2EiRmqDtmiXLnzqTpXbI+suyCsohKRg6Un0RC47+cpiVwHiXZAW+cn8eiNIjqbVgXLxKPpdzvvtTnOPlC7SQZSYmdunr3Bf9b77AiC/ZidstK36dRILKz7OA54=\n-----END CERTIFICATE-----"
+              "finding"      : "-----BEGIN CERTIFICATE-----\nMIIFBjCCAu6gAwIBAgIRAIp9PhPWLzDvI4a9KQdrNPgwDQYJKoZIhvcNAQELBQAwTzELMAkGA1UEBhMCVVMxKTAnBgNVBAoTIEludGVybmV0IFNlY3VyaXR5IFJlc2VhcmNoIEdyb3VwMRUwEwYDVQQDEwxJU1JHIFJvb3QgWDEwHhcNMjQwMzEzMDAwMDAwWhcNMjcwMzEyMjM1OTU5WjAzMQswCQYDVQQGEwJVUzEWMBQGA1UEChMNTGV0J3MgRW5jcnlwdDEMMAoGA1UEAxMDUjExMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAuoe8XBsAOcvKCs3UZxD5ATylTqVhyybKUvsVAbe5KPUoHu0nsyQYOWcJDAjs4DqwO3cOvfPlOVRBDE6uQdaZdN5R2+97/1i9qLcT9t4x1fJyyXJqC4N0lZxGAGQUmfOx2SLZzaiSqhwmej/+71gFewiVgdtxD4774zEJuwm+UE1fj5F2PVqdnoPy6cRms+EGZkNIGIBloDcYmpuEMpexsr3E+BUAnSeI++JjF5ZsmydnS8TbKF5pwnnwSVzgJFDhxLyhBax7QG0AtMJBP6dYuC/FXJuluwme8f7rsIU5/agK70XEeOtlKsLPXzze41xNG/cLJyuqC0J3U095ah2H2QIDAQABo4H4MIH1MA4GA1UdDwEB/wQEAwIBhjAdBgNVHSUEFjAUBggrBgEFBQcDAgYIKwYBBQUHAwEwEgYDVR0TAQH/BAgwBgEB/wIBADAdBgNVHQ4EFgQUxc9GpOr0w8B6bJXELbBeki8m47kwHwYDVR0jBBgwFoAUebRZ5nu25eQBc4AIiMgaWPbpm24wMgYIKwYBBQUHAQEEJjAkMCIGCCsGAQUFBzAChhZodHRwOi8veDEuaS5sZW5jci5vcmcvMBMGA1UdIAQMMAowCAYGZ4EMAQIBMCcGA1UdHwQgMB4wHKAaoBiGFmh0dHA6Ly94MS5jLmxlbmNyLm9yZy8wDQYJKoZIhvcNAQELBQADggIBAE7iiV0KAxyQOND1H/lxXPjDj7I3iHpvsCUf7b632IYGjukJhM1yv4Hz/MrPU0jtvfZpQtSlET41yBOykh0FX+ou1Nj4ScOt9ZmWnO8m2OG0JAtIIE3801S0qcYhyOE2G/93ZCkXufBL713qzXnQv5C/viOykNpKqUgxdKlEC+Hi9i2DcaR1e9KUwQUZRhy5j/PEdEglKg3l9dtD4tuTm7kZtB8v32oOjzHTYw+7KdzdZiw/sBtnUfhBPORNuay4pJxmY/WrhSMdzFO2q3Gu3MUBcdo27goYKjL9CTF8j/Zz55yctUoVaneCWs/ajUX+HypkBTA+c8LGDLnWO2NKq0YD/pnARkAnYGPfUDoHR9gVSp/qRx+ZWghiDLZsMwhN1zjtSC0uBWiugF3vTNzYIEFfaPG7Ws3jDrAMMYebQ95JQ+HIBD/RPBuHRTBpqKlyDnkSHDHYPiNX3adPoPAcgdF3H2/W0rmoswMWgTlLn1Wu0mrks7/qpdWfS6PJ1jty80r2VKsM/Dj3YIDfbjXKdaFU5C+8bhfJGqU3taKauuz0wHVGT3eo6FlWkWYtbt4pgdamlwVeZEW+LM7qZEJEsMNPrfC03APKmZsJgpWCDWOKZvkZcvjVuYkQ4omYCTX5ohy+knMjdOmdH9c7SpqEWBDC86fiNex+O0XOMEZSa8DA\n-----END CERTIFICATE-----"
           }
 ,         {
               "id"           : "intermediate_cert_fingerprintSHA256 <#1>",
               "ip"           : "api.data.inclusion.beta.gouv.fr/185.21.194.105",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "9D7C3F1AA6AD2B2EC0D5CF1E246F8D9AE6CBC9FD0755AD37BB974B1F2FB603F3"
+              "finding"      : "591E9CE6C863D3A079E9FABE1478C7339A26B21269DDE795211361024AE31A44"
           }
 ,         {
               "id"           : "intermediate_cert_notBefore <#1>",
@@ -1538,7 +479,7 @@
               "ip"           : "api.data.inclusion.beta.gouv.fr/185.21.194.105",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "R10 <-- ISRG Root X1"
+              "finding"      : "R11 <-- ISRG Root X1"
           }
 ,         {
               "id"           : "intermediate_cert_badOCSP",
@@ -1566,14 +507,28 @@
               "ip"           : "api.data.inclusion.beta.gouv.fr/185.21.194.105",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1727013510"
+              "finding"      : "1727619265"
           }
 ,         {
-              "id"           : "HSTS",
+              "id"           : "HSTS_time",
               "ip"           : "api.data.inclusion.beta.gouv.fr/185.21.194.105",
               "port"         : "443",
-              "severity"     : "LOW",
-              "finding"      : "not offered"
+              "severity"     : "OK",
+              "finding"      : "365 days (=31536000 seconds) > 15552000 seconds"
+          }
+,         {
+              "id"           : "HSTS_subdomains",
+              "ip"           : "api.data.inclusion.beta.gouv.fr/185.21.194.105",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "only for this domain"
+          }
+,         {
+              "id"           : "HSTS_preload",
+              "ip"           : "api.data.inclusion.beta.gouv.fr/185.21.194.105",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "domain is NOT marked for preloading"
           }
 ,         {
               "id"           : "HPKP",
@@ -1739,7 +694,7 @@
               "severity"     : "INFO",
               "cve"          : "CVE-2016-0800 CVE-2016-0703",
               "cwe"          : "CWE-310",
-              "finding"      : "Make sure you don't use this certificate elsewhere with SSLv2 enabled services, see https://search.censys.io/search?resource=hosts&virtual_hosts=INCLUDE&q=447C89778CF6439ECFDD74A296B9631E56D5754D5FE85BD9869FE4183B497FD3"
+              "finding"      : "Make sure you don't use this certificate elsewhere with SSLv2 enabled services, see https://search.censys.io/search?resource=hosts&virtual_hosts=INCLUDE&q=751928EEFE6D05DE85EE11E7F75F7DF4D4755AE97ABB22C8229E4A6FED4FFBD3"
           }
 ,         {
               "id"           : "LOGJAM",
@@ -2108,14 +1063,7 @@
               "ip"           : "api.data.inclusion.beta.gouv.fr/185.21.194.105",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "A"
-          }
-,         {
-              "id"           : "grade_cap_reason_1",
-              "ip"           : "api.data.inclusion.beta.gouv.fr/185.21.194.105",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "Grade capped to A. HSTS is not offered"
+              "finding"      : "A+"
           }
 ,         {
               "id"           : "service",
@@ -2317,7 +1265,7 @@
               "ip"           : "api.data.inclusion.beta.gouv.fr/80.247.12.255",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "not supported"
+              "finding"      : "supported"
           }
 ,         {
               "id"           : "sessionresumption_ID",
@@ -2387,7 +1335,7 @@
               "ip"           : "api.data.inclusion.beta.gouv.fr/80.247.12.255",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "03B596486DE14226080BCB12FA1E2E6C617B"
+              "finding"      : "0310F6F573EE0127941070974BC2D74D3CA9"
           }
 ,         {
               "id"           : "cert_serialNumberLen",
@@ -2401,21 +1349,21 @@
               "ip"           : "api.data.inclusion.beta.gouv.fr/80.247.12.255",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "BC30FD20D0C8158770EF355B953CE190A2D9F05D"
+              "finding"      : "02EF391AF46C9CC2A942218407F6A4ED9C78935E"
           }
 ,         {
               "id"           : "cert_fingerprintSHA256",
               "ip"           : "api.data.inclusion.beta.gouv.fr/80.247.12.255",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "447C89778CF6439ECFDD74A296B9631E56D5754D5FE85BD9869FE4183B497FD3"
+              "finding"      : "751928EEFE6D05DE85EE11E7F75F7DF4D4755AE97ABB22C8229E4A6FED4FFBD3"
           }
 ,         {
               "id"           : "cert",
               "ip"           : "api.data.inclusion.beta.gouv.fr/80.247.12.255",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "-----BEGIN CERTIFICATE-----\nMIIFDTCCA/WgAwIBAgISA7WWSG3hQiYIC8sS+h4ubGF7MA0GCSqGSIb3DQEBCwUAMDMxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQwwCgYDVQQDEwNSMTAwHhcNMjQwNzI2MDU1MTA1WhcNMjQxMDI0MDU1MTA0WjAqMSgwJgYDVQQDEx9hcGkuZGF0YS5pbmNsdXNpb24uYmV0YS5nb3V2LmZyMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA5Vdgu9BXwR2Og4JHIXFXjkKjQbssn41Dj1a5ZYL2x6ffDtE8m+o+4wWcasljn4P00KMWxH6uJBgsew4urcvdIMYccAt1LsRtZTVPrUlDt91R4F0MH73h3ppTlBgy1q3kQJdChlr2d0yDPmI22joDeDS2Q3yFnWo8VSEzKWBcqBQSUpt5o9/j2HEaOx5ZkrSNBF2hyxQ3HNNILEAH1z/zpzhciIs0/J0naOe8yn3qeDEdyeB0emA61GbCixtR1F8/1rjwcKZaxbjuKCzceL0xTlL2flR1GhhrX0Z0cc05aPPf/LhI4t2YHCK1ShWrA6gkwtBI0V4SGHXB2crR8dvY8wIDAQABo4ICIjCCAh4wDgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBQ7yQZg5ZiyI8UcsSnSHb+icseDAjAfBgNVHSMEGDAWgBS7vMNHpeS8qcbDpHIMEI2iNeHI6DBXBggrBgEFBQcBAQRLMEkwIgYIKwYBBQUHMAGGFmh0dHA6Ly9yMTAuby5sZW5jci5vcmcwIwYIKwYBBQUHMAKGF2h0dHA6Ly9yMTAuaS5sZW5jci5vcmcvMCoGA1UdEQQjMCGCH2FwaS5kYXRhLmluY2x1c2lvbi5iZXRhLmdvdXYuZnIwEwYDVR0gBAwwCjAIBgZngQwBAgEwggEDBgorBgEEAdZ5AgQCBIH0BIHxAO8AdgA/F0tP1yJHWJQdZRyEvg0S7ZA3fx+FauvBvyiF7PhkbgAAAZDtzrX5AAAEAwBHMEUCIQDopCxbMp5AhIFPbHvGee6Y5SreVYTMc2182oYYHoXCawIgISE/9Xhb8bjYL1BnYRgW4+L8JFesPKEfpXoLmCP5+9kAdQDuzdBk1dsazsVct520zROiModGfLzs3sNRSFlGcR+1mwAAAZDtzrX1AAAEAwBGMEQCIHbfar0O72Lp3zjOaUNa4A3frdY+dBJieaD1LA3fZNK+AiAec+CVbnMWxN9hGFaPvTKmA9ceGcYgZx1JQgL0i/5+ODANBgkqhkiG9w0BAQsFAAOCAQEAVVAxk8z8fItgqJOiOmcX3kyj42qyblrQLaXP6lNKoMJ8xAnJge2LqOqXRWDM20inwnzR/JAuprv/leOQrp0ZrfPNx3ahczsxnw1zLCizNxFQlxLvauRxfcCvWgITE01Qc1ZDPH0xZUQ9PKRwy2HNLBGt2gTsShohn6/P91AFUmovqHktfHQzRwNe5GslOUTmSe7IhMTtlgavC2tDR9ejiy6D7lD6Pl6noTqfOAiZbiwMKKUXhQT5Qc44KTGpXG3izMXO5X6h+LOkp41SVd46L6XjVDdsYa3gQ03NzOVIrs7Oe4789IxLHbHLIfU7X/ahvZCkNG113vOisKuN9ppDwg==\n-----END CERTIFICATE-----"
+              "finding"      : "-----BEGIN CERTIFICATE-----\nMIIFDzCCA/egAwIBAgISAxD29XPuASeUEHCXS8LXTTypMA0GCSqGSIb3DQEBCwUAMDMxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQwwCgYDVQQDEwNSMTEwHhcNMjQwOTI0MDU1MzQ3WhcNMjQxMjIzMDU1MzQ2WjAqMSgwJgYDVQQDEx9hcGkuZGF0YS5pbmNsdXNpb24uYmV0YS5nb3V2LmZyMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAruSWKRkNvBHbmjp010eBRxAc1JmZYqHGsk/M1qaSxAiN+DctUWIFLcPbBGcJSNCrSlIswPa2pm6+wX6x/UdKAcQuOZk/x0r2P/cjQN6G3kLnoxqr/I/qz1M4Cc1lEWnS/CGtuIrWvOXqQt/5wOIs3tZ0u14xdRQ5wGEc0riahs8QwXpqF86mMTkPG6dUQEfBEVSzqL06teTMBQVpx76Fm7m5LrxDNqVraMiXygcCxcyrWCySg0z2W6piwpapwiRnblAW46SszbHHlt4+myjPEcknovYykRVVsX2JLqINLkRO318SDqZlKAqsYZL6gThZBGuAaEP9Zi5gTiFEy4zvKQIDAQABo4ICJDCCAiAwDgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBSxmyX5R+MFtW04LcPC+t3f/3rHODAfBgNVHSMEGDAWgBTFz0ak6vTDwHpslcQtsF6SLybjuTBXBggrBgEFBQcBAQRLMEkwIgYIKwYBBQUHMAGGFmh0dHA6Ly9yMTEuby5sZW5jci5vcmcwIwYIKwYBBQUHMAKGF2h0dHA6Ly9yMTEuaS5sZW5jci5vcmcvMCoGA1UdEQQjMCGCH2FwaS5kYXRhLmluY2x1c2lvbi5iZXRhLmdvdXYuZnIwEwYDVR0gBAwwCjAIBgZngQwBAgEwggEFBgorBgEEAdZ5AgQCBIH2BIHzAPEAdgAZmBBxCfDWUi4wgNKeP2S7g24ozPkPUo7u385KPxa0ygAAAZIizV9WAAAEAwBHMEUCIDTq/DjPXGNAKmzPemssMLzwrtg/AGC1kZyWpame3eNXAiEAj5X3LH8ctcaYfyFHeTWjIB5gGd9U+4aoyfrZKpSoYtIAdwA/F0tP1yJHWJQdZRyEvg0S7ZA3fx+FauvBvyiF7PhkbgAAAZIizV9NAAAEAwBIMEYCIQDLyWysHB5HYz6VLwU2DbWzYL3kTHSd4N7Yxu0Of70uRwIhAO2F7wQFiABSGNxbDQGBIEnzMiNeA6RL4DzEvA4Q9dx4MA0GCSqGSIb3DQEBCwUAA4IBAQB3rQEdMwmYBxo9EVIwWrNtaZLM5SjvboPZVVg/8RMF6WMaIoOKQ9yvOeAOklslc0Q95YmxD0Ryr6HK+7fuNZQV/KXNL6ztnFHEDPIVrdRmOwwof8pdvhmAAWmibvmdPad1Dds/vBwDAz07PrsohKk7463m4UG4kRq9npU2/A4tNSBBM/MXmxgf0zwI6SSqWYD32foPrHA6Qb0HJhuZVzCXU858exASq6dLeTJNa1gu5lQDa9cUj1eydqQgvA9pNjntuIpsqUfhYxitG974sjV4UE6zj1B2N6L8znxuw4CQEIl6kXl08uTRYWjx8wSb9XBtmAYGW0gRnrFGdtwRABUw\n-----END CERTIFICATE-----"
           }
 ,         {
               "id"           : "cert_commonName",
@@ -2464,21 +1412,21 @@
               "ip"           : "api.data.inclusion.beta.gouv.fr/80.247.12.255",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "31 >= 30 days"
+              "finding"      : "84 >= 30 days"
           }
 ,         {
               "id"           : "cert_notBefore",
               "ip"           : "api.data.inclusion.beta.gouv.fr/80.247.12.255",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "2024-07-26 05:51"
+              "finding"      : "2024-09-24 05:53"
           }
 ,         {
               "id"           : "cert_notAfter",
               "ip"           : "api.data.inclusion.beta.gouv.fr/80.247.12.255",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "2024-10-24 05:51"
+              "finding"      : "2024-12-23 05:53"
           }
 ,         {
               "id"           : "cert_extlifeSpan",
@@ -2506,7 +1454,7 @@
               "ip"           : "api.data.inclusion.beta.gouv.fr/80.247.12.255",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "http://r10.o.lencr.org"
+              "finding"      : "http://r11.o.lencr.org"
           }
 ,         {
               "id"           : "OCSP_stapling",
@@ -2555,21 +1503,21 @@
               "ip"           : "api.data.inclusion.beta.gouv.fr/80.247.12.255",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "R10 (Let's Encrypt from US)"
+              "finding"      : "R11 (Let's Encrypt from US)"
           }
 ,         {
               "id"           : "intermediate_cert <#1>",
               "ip"           : "api.data.inclusion.beta.gouv.fr/80.247.12.255",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "-----BEGIN CERTIFICATE-----\nMIIFBTCCAu2gAwIBAgIQS6hSk/eaL6JzBkuoBI110DANBgkqhkiG9w0BAQsFADBPMQswCQYDVQQGEwJVUzEpMCcGA1UEChMgSW50ZXJuZXQgU2VjdXJpdHkgUmVzZWFyY2ggR3JvdXAxFTATBgNVBAMTDElTUkcgUm9vdCBYMTAeFw0yNDAzMTMwMDAwMDBaFw0yNzAzMTIyMzU5NTlaMDMxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQwwCgYDVQQDEwNSMTAwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDPV+XmxFQS7bRH/sknWHZGUCiMHT6I3wWd1bUYKb3dtVq/+vbOo76vACFLYlpaPAEvxVgD9on/jhFD68G14BQHlo9vH9fnuoE5CXVlt8KvGFs3Jijno/QHK20a/6tYvJWuQP/py1fEtVt/eA0YYbwX51TGu0mRzW4Y0YCF7qZlNrx06rxQTOr8IfM4FpOUurDTazgGzRYSespSdcitdrLCnF2YRVxvYXvGLe48E1KGAdlX5jgc3421H5KRmudKHMxFqHJV8LDmowfs/acbZp4/SItxhHFYyTr6717yW0QrPHTnj7JHwQdqzZq3DZb3EoEmUVQK7GH29/Xi8orIlQ2NAgMBAAGjgfgwgfUwDgYDVR0PAQH/BAQDAgGGMB0GA1UdJQQWMBQGCCsGAQUFBwMCBggrBgEFBQcDATASBgNVHRMBAf8ECDAGAQH/AgEAMB0GA1UdDgQWBBS7vMNHpeS8qcbDpHIMEI2iNeHI6DAfBgNVHSMEGDAWgBR5tFnme7bl5AFzgAiIyBpY9umbbjAyBggrBgEFBQcBAQQmMCQwIgYIKwYBBQUHMAKGFmh0dHA6Ly94MS5pLmxlbmNyLm9yZy8wEwYDVR0gBAwwCjAIBgZngQwBAgEwJwYDVR0fBCAwHjAcoBqgGIYWaHR0cDovL3gxLmMubGVuY3Iub3JnLzANBgkqhkiG9w0BAQsFAAOCAgEAkrHnQTfreZ2B5s3iJeE6IOmQRJWjgVzPw139vaBw1bGWKCIL0vIozwzn1OZDjCQiHcFCktEJr59L9MhwTyAWsVrdAfYf+B9haxQnsHKNY67u4s5Lzzfdu6PUzeetUK29v+PsPmI2cJkxp+iN3epi4hKu9ZzUPSwMqtCceb7qPVxEbpYxY1p91n5PJKBLBX9eb9LU6l8zSxPWV7bK3lG4XaMJgnT9x3ies7msFtpKK5bDtotij/l0GaKeA97pb5uwD9KgWvaFXMIEt8jVTjLEvwRdvCn294GPDF08U8lAkIv7tghluaQh1QnlE4SEN4LOECj8dsIGJXpGUk3aU3KkJz9icKy+aUgA+2cP21uh6NcDIS3XyfaZQjmDQ993ChII8SXWupQZVBiIpcWO4RqZk3lr7Bz5MUCwzDIA359e57SSq5CCkY0N4B6Vulk7LktfwrdGNVI5BsC9qqxSwSKgRJeZ9wygIaehbHFHFhcBaMDKpiZlBHyzrsnnlFXCb5s8HKn5LsUgGvB24L7sGNZP2CX7dhHov+YhD+jozLW2p9W4959Bz2EiRmqDtmiXLnzqTpXbI+suyCsohKRg6Un0RC47+cpiVwHiXZAW+cn8eiNIjqbVgXLxKPpdzvvtTnOPlC7SQZSYmdunr3Bf9b77AiC/ZidstK36dRILKz7OA54=\n-----END CERTIFICATE-----"
+              "finding"      : "-----BEGIN CERTIFICATE-----\nMIIFBjCCAu6gAwIBAgIRAIp9PhPWLzDvI4a9KQdrNPgwDQYJKoZIhvcNAQELBQAwTzELMAkGA1UEBhMCVVMxKTAnBgNVBAoTIEludGVybmV0IFNlY3VyaXR5IFJlc2VhcmNoIEdyb3VwMRUwEwYDVQQDEwxJU1JHIFJvb3QgWDEwHhcNMjQwMzEzMDAwMDAwWhcNMjcwMzEyMjM1OTU5WjAzMQswCQYDVQQGEwJVUzEWMBQGA1UEChMNTGV0J3MgRW5jcnlwdDEMMAoGA1UEAxMDUjExMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAuoe8XBsAOcvKCs3UZxD5ATylTqVhyybKUvsVAbe5KPUoHu0nsyQYOWcJDAjs4DqwO3cOvfPlOVRBDE6uQdaZdN5R2+97/1i9qLcT9t4x1fJyyXJqC4N0lZxGAGQUmfOx2SLZzaiSqhwmej/+71gFewiVgdtxD4774zEJuwm+UE1fj5F2PVqdnoPy6cRms+EGZkNIGIBloDcYmpuEMpexsr3E+BUAnSeI++JjF5ZsmydnS8TbKF5pwnnwSVzgJFDhxLyhBax7QG0AtMJBP6dYuC/FXJuluwme8f7rsIU5/agK70XEeOtlKsLPXzze41xNG/cLJyuqC0J3U095ah2H2QIDAQABo4H4MIH1MA4GA1UdDwEB/wQEAwIBhjAdBgNVHSUEFjAUBggrBgEFBQcDAgYIKwYBBQUHAwEwEgYDVR0TAQH/BAgwBgEB/wIBADAdBgNVHQ4EFgQUxc9GpOr0w8B6bJXELbBeki8m47kwHwYDVR0jBBgwFoAUebRZ5nu25eQBc4AIiMgaWPbpm24wMgYIKwYBBQUHAQEEJjAkMCIGCCsGAQUFBzAChhZodHRwOi8veDEuaS5sZW5jci5vcmcvMBMGA1UdIAQMMAowCAYGZ4EMAQIBMCcGA1UdHwQgMB4wHKAaoBiGFmh0dHA6Ly94MS5jLmxlbmNyLm9yZy8wDQYJKoZIhvcNAQELBQADggIBAE7iiV0KAxyQOND1H/lxXPjDj7I3iHpvsCUf7b632IYGjukJhM1yv4Hz/MrPU0jtvfZpQtSlET41yBOykh0FX+ou1Nj4ScOt9ZmWnO8m2OG0JAtIIE3801S0qcYhyOE2G/93ZCkXufBL713qzXnQv5C/viOykNpKqUgxdKlEC+Hi9i2DcaR1e9KUwQUZRhy5j/PEdEglKg3l9dtD4tuTm7kZtB8v32oOjzHTYw+7KdzdZiw/sBtnUfhBPORNuay4pJxmY/WrhSMdzFO2q3Gu3MUBcdo27goYKjL9CTF8j/Zz55yctUoVaneCWs/ajUX+HypkBTA+c8LGDLnWO2NKq0YD/pnARkAnYGPfUDoHR9gVSp/qRx+ZWghiDLZsMwhN1zjtSC0uBWiugF3vTNzYIEFfaPG7Ws3jDrAMMYebQ95JQ+HIBD/RPBuHRTBpqKlyDnkSHDHYPiNX3adPoPAcgdF3H2/W0rmoswMWgTlLn1Wu0mrks7/qpdWfS6PJ1jty80r2VKsM/Dj3YIDfbjXKdaFU5C+8bhfJGqU3taKauuz0wHVGT3eo6FlWkWYtbt4pgdamlwVeZEW+LM7qZEJEsMNPrfC03APKmZsJgpWCDWOKZvkZcvjVuYkQ4omYCTX5ohy+knMjdOmdH9c7SpqEWBDC86fiNex+O0XOMEZSa8DA\n-----END CERTIFICATE-----"
           }
 ,         {
               "id"           : "intermediate_cert_fingerprintSHA256 <#1>",
               "ip"           : "api.data.inclusion.beta.gouv.fr/80.247.12.255",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "9D7C3F1AA6AD2B2EC0D5CF1E246F8D9AE6CBC9FD0755AD37BB974B1F2FB603F3"
+              "finding"      : "591E9CE6C863D3A079E9FABE1478C7339A26B21269DDE795211361024AE31A44"
           }
 ,         {
               "id"           : "intermediate_cert_notBefore <#1>",
@@ -2597,7 +1545,7 @@
               "ip"           : "api.data.inclusion.beta.gouv.fr/80.247.12.255",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "R10 <-- ISRG Root X1"
+              "finding"      : "R11 <-- ISRG Root X1"
           }
 ,         {
               "id"           : "intermediate_cert_badOCSP",
@@ -2625,14 +1573,28 @@
               "ip"           : "api.data.inclusion.beta.gouv.fr/80.247.12.255",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1727013559"
+              "finding"      : "1727619314"
           }
 ,         {
-              "id"           : "HSTS",
+              "id"           : "HSTS_time",
               "ip"           : "api.data.inclusion.beta.gouv.fr/80.247.12.255",
               "port"         : "443",
-              "severity"     : "LOW",
-              "finding"      : "not offered"
+              "severity"     : "OK",
+              "finding"      : "365 days (=31536000 seconds) > 15552000 seconds"
+          }
+,         {
+              "id"           : "HSTS_subdomains",
+              "ip"           : "api.data.inclusion.beta.gouv.fr/80.247.12.255",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "only for this domain"
+          }
+,         {
+              "id"           : "HSTS_preload",
+              "ip"           : "api.data.inclusion.beta.gouv.fr/80.247.12.255",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "domain is NOT marked for preloading"
           }
 ,         {
               "id"           : "HPKP",
@@ -2798,7 +1760,7 @@
               "severity"     : "INFO",
               "cve"          : "CVE-2016-0800 CVE-2016-0703",
               "cwe"          : "CWE-310",
-              "finding"      : "Make sure you don't use this certificate elsewhere with SSLv2 enabled services, see https://search.censys.io/search?resource=hosts&virtual_hosts=INCLUDE&q=447C89778CF6439ECFDD74A296B9631E56D5754D5FE85BD9869FE4183B497FD3"
+              "finding"      : "Make sure you don't use this certificate elsewhere with SSLv2 enabled services, see https://search.censys.io/search?resource=hosts&virtual_hosts=INCLUDE&q=751928EEFE6D05DE85EE11E7F75F7DF4D4755AE97ABB22C8229E4A6FED4FFBD3"
           }
 ,         {
               "id"           : "LOGJAM",
@@ -3167,14 +2129,7 @@
               "ip"           : "api.data.inclusion.beta.gouv.fr/80.247.12.255",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "A"
-          }
-,         {
-              "id"           : "grade_cap_reason_1",
-              "ip"           : "api.data.inclusion.beta.gouv.fr/80.247.12.255",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "Grade capped to A. HSTS is not offered"
+              "finding"      : "A+"
           }
 ,         {
               "id"           : "service",
@@ -3446,7 +2401,7 @@
               "ip"           : "api.data.inclusion.beta.gouv.fr/80.247.13.145",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "03B596486DE14226080BCB12FA1E2E6C617B"
+              "finding"      : "0310F6F573EE0127941070974BC2D74D3CA9"
           }
 ,         {
               "id"           : "cert_serialNumberLen",
@@ -3460,21 +2415,21 @@
               "ip"           : "api.data.inclusion.beta.gouv.fr/80.247.13.145",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "BC30FD20D0C8158770EF355B953CE190A2D9F05D"
+              "finding"      : "02EF391AF46C9CC2A942218407F6A4ED9C78935E"
           }
 ,         {
               "id"           : "cert_fingerprintSHA256",
               "ip"           : "api.data.inclusion.beta.gouv.fr/80.247.13.145",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "447C89778CF6439ECFDD74A296B9631E56D5754D5FE85BD9869FE4183B497FD3"
+              "finding"      : "751928EEFE6D05DE85EE11E7F75F7DF4D4755AE97ABB22C8229E4A6FED4FFBD3"
           }
 ,         {
               "id"           : "cert",
               "ip"           : "api.data.inclusion.beta.gouv.fr/80.247.13.145",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "-----BEGIN CERTIFICATE-----\nMIIFDTCCA/WgAwIBAgISA7WWSG3hQiYIC8sS+h4ubGF7MA0GCSqGSIb3DQEBCwUAMDMxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQwwCgYDVQQDEwNSMTAwHhcNMjQwNzI2MDU1MTA1WhcNMjQxMDI0MDU1MTA0WjAqMSgwJgYDVQQDEx9hcGkuZGF0YS5pbmNsdXNpb24uYmV0YS5nb3V2LmZyMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA5Vdgu9BXwR2Og4JHIXFXjkKjQbssn41Dj1a5ZYL2x6ffDtE8m+o+4wWcasljn4P00KMWxH6uJBgsew4urcvdIMYccAt1LsRtZTVPrUlDt91R4F0MH73h3ppTlBgy1q3kQJdChlr2d0yDPmI22joDeDS2Q3yFnWo8VSEzKWBcqBQSUpt5o9/j2HEaOx5ZkrSNBF2hyxQ3HNNILEAH1z/zpzhciIs0/J0naOe8yn3qeDEdyeB0emA61GbCixtR1F8/1rjwcKZaxbjuKCzceL0xTlL2flR1GhhrX0Z0cc05aPPf/LhI4t2YHCK1ShWrA6gkwtBI0V4SGHXB2crR8dvY8wIDAQABo4ICIjCCAh4wDgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBQ7yQZg5ZiyI8UcsSnSHb+icseDAjAfBgNVHSMEGDAWgBS7vMNHpeS8qcbDpHIMEI2iNeHI6DBXBggrBgEFBQcBAQRLMEkwIgYIKwYBBQUHMAGGFmh0dHA6Ly9yMTAuby5sZW5jci5vcmcwIwYIKwYBBQUHMAKGF2h0dHA6Ly9yMTAuaS5sZW5jci5vcmcvMCoGA1UdEQQjMCGCH2FwaS5kYXRhLmluY2x1c2lvbi5iZXRhLmdvdXYuZnIwEwYDVR0gBAwwCjAIBgZngQwBAgEwggEDBgorBgEEAdZ5AgQCBIH0BIHxAO8AdgA/F0tP1yJHWJQdZRyEvg0S7ZA3fx+FauvBvyiF7PhkbgAAAZDtzrX5AAAEAwBHMEUCIQDopCxbMp5AhIFPbHvGee6Y5SreVYTMc2182oYYHoXCawIgISE/9Xhb8bjYL1BnYRgW4+L8JFesPKEfpXoLmCP5+9kAdQDuzdBk1dsazsVct520zROiModGfLzs3sNRSFlGcR+1mwAAAZDtzrX1AAAEAwBGMEQCIHbfar0O72Lp3zjOaUNa4A3frdY+dBJieaD1LA3fZNK+AiAec+CVbnMWxN9hGFaPvTKmA9ceGcYgZx1JQgL0i/5+ODANBgkqhkiG9w0BAQsFAAOCAQEAVVAxk8z8fItgqJOiOmcX3kyj42qyblrQLaXP6lNKoMJ8xAnJge2LqOqXRWDM20inwnzR/JAuprv/leOQrp0ZrfPNx3ahczsxnw1zLCizNxFQlxLvauRxfcCvWgITE01Qc1ZDPH0xZUQ9PKRwy2HNLBGt2gTsShohn6/P91AFUmovqHktfHQzRwNe5GslOUTmSe7IhMTtlgavC2tDR9ejiy6D7lD6Pl6noTqfOAiZbiwMKKUXhQT5Qc44KTGpXG3izMXO5X6h+LOkp41SVd46L6XjVDdsYa3gQ03NzOVIrs7Oe4789IxLHbHLIfU7X/ahvZCkNG113vOisKuN9ppDwg==\n-----END CERTIFICATE-----"
+              "finding"      : "-----BEGIN CERTIFICATE-----\nMIIFDzCCA/egAwIBAgISAxD29XPuASeUEHCXS8LXTTypMA0GCSqGSIb3DQEBCwUAMDMxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQwwCgYDVQQDEwNSMTEwHhcNMjQwOTI0MDU1MzQ3WhcNMjQxMjIzMDU1MzQ2WjAqMSgwJgYDVQQDEx9hcGkuZGF0YS5pbmNsdXNpb24uYmV0YS5nb3V2LmZyMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAruSWKRkNvBHbmjp010eBRxAc1JmZYqHGsk/M1qaSxAiN+DctUWIFLcPbBGcJSNCrSlIswPa2pm6+wX6x/UdKAcQuOZk/x0r2P/cjQN6G3kLnoxqr/I/qz1M4Cc1lEWnS/CGtuIrWvOXqQt/5wOIs3tZ0u14xdRQ5wGEc0riahs8QwXpqF86mMTkPG6dUQEfBEVSzqL06teTMBQVpx76Fm7m5LrxDNqVraMiXygcCxcyrWCySg0z2W6piwpapwiRnblAW46SszbHHlt4+myjPEcknovYykRVVsX2JLqINLkRO318SDqZlKAqsYZL6gThZBGuAaEP9Zi5gTiFEy4zvKQIDAQABo4ICJDCCAiAwDgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBSxmyX5R+MFtW04LcPC+t3f/3rHODAfBgNVHSMEGDAWgBTFz0ak6vTDwHpslcQtsF6SLybjuTBXBggrBgEFBQcBAQRLMEkwIgYIKwYBBQUHMAGGFmh0dHA6Ly9yMTEuby5sZW5jci5vcmcwIwYIKwYBBQUHMAKGF2h0dHA6Ly9yMTEuaS5sZW5jci5vcmcvMCoGA1UdEQQjMCGCH2FwaS5kYXRhLmluY2x1c2lvbi5iZXRhLmdvdXYuZnIwEwYDVR0gBAwwCjAIBgZngQwBAgEwggEFBgorBgEEAdZ5AgQCBIH2BIHzAPEAdgAZmBBxCfDWUi4wgNKeP2S7g24ozPkPUo7u385KPxa0ygAAAZIizV9WAAAEAwBHMEUCIDTq/DjPXGNAKmzPemssMLzwrtg/AGC1kZyWpame3eNXAiEAj5X3LH8ctcaYfyFHeTWjIB5gGd9U+4aoyfrZKpSoYtIAdwA/F0tP1yJHWJQdZRyEvg0S7ZA3fx+FauvBvyiF7PhkbgAAAZIizV9NAAAEAwBIMEYCIQDLyWysHB5HYz6VLwU2DbWzYL3kTHSd4N7Yxu0Of70uRwIhAO2F7wQFiABSGNxbDQGBIEnzMiNeA6RL4DzEvA4Q9dx4MA0GCSqGSIb3DQEBCwUAA4IBAQB3rQEdMwmYBxo9EVIwWrNtaZLM5SjvboPZVVg/8RMF6WMaIoOKQ9yvOeAOklslc0Q95YmxD0Ryr6HK+7fuNZQV/KXNL6ztnFHEDPIVrdRmOwwof8pdvhmAAWmibvmdPad1Dds/vBwDAz07PrsohKk7463m4UG4kRq9npU2/A4tNSBBM/MXmxgf0zwI6SSqWYD32foPrHA6Qb0HJhuZVzCXU858exASq6dLeTJNa1gu5lQDa9cUj1eydqQgvA9pNjntuIpsqUfhYxitG974sjV4UE6zj1B2N6L8znxuw4CQEIl6kXl08uTRYWjx8wSb9XBtmAYGW0gRnrFGdtwRABUw\n-----END CERTIFICATE-----"
           }
 ,         {
               "id"           : "cert_commonName",
@@ -3523,21 +2478,21 @@
               "ip"           : "api.data.inclusion.beta.gouv.fr/80.247.13.145",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "31 >= 30 days"
+              "finding"      : "84 >= 30 days"
           }
 ,         {
               "id"           : "cert_notBefore",
               "ip"           : "api.data.inclusion.beta.gouv.fr/80.247.13.145",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "2024-07-26 05:51"
+              "finding"      : "2024-09-24 05:53"
           }
 ,         {
               "id"           : "cert_notAfter",
               "ip"           : "api.data.inclusion.beta.gouv.fr/80.247.13.145",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "2024-10-24 05:51"
+              "finding"      : "2024-12-23 05:53"
           }
 ,         {
               "id"           : "cert_extlifeSpan",
@@ -3565,7 +2520,7 @@
               "ip"           : "api.data.inclusion.beta.gouv.fr/80.247.13.145",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "http://r10.o.lencr.org"
+              "finding"      : "http://r11.o.lencr.org"
           }
 ,         {
               "id"           : "OCSP_stapling",
@@ -3614,21 +2569,21 @@
               "ip"           : "api.data.inclusion.beta.gouv.fr/80.247.13.145",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "R10 (Let's Encrypt from US)"
+              "finding"      : "R11 (Let's Encrypt from US)"
           }
 ,         {
               "id"           : "intermediate_cert <#1>",
               "ip"           : "api.data.inclusion.beta.gouv.fr/80.247.13.145",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "-----BEGIN CERTIFICATE-----\nMIIFBTCCAu2gAwIBAgIQS6hSk/eaL6JzBkuoBI110DANBgkqhkiG9w0BAQsFADBPMQswCQYDVQQGEwJVUzEpMCcGA1UEChMgSW50ZXJuZXQgU2VjdXJpdHkgUmVzZWFyY2ggR3JvdXAxFTATBgNVBAMTDElTUkcgUm9vdCBYMTAeFw0yNDAzMTMwMDAwMDBaFw0yNzAzMTIyMzU5NTlaMDMxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQwwCgYDVQQDEwNSMTAwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDPV+XmxFQS7bRH/sknWHZGUCiMHT6I3wWd1bUYKb3dtVq/+vbOo76vACFLYlpaPAEvxVgD9on/jhFD68G14BQHlo9vH9fnuoE5CXVlt8KvGFs3Jijno/QHK20a/6tYvJWuQP/py1fEtVt/eA0YYbwX51TGu0mRzW4Y0YCF7qZlNrx06rxQTOr8IfM4FpOUurDTazgGzRYSespSdcitdrLCnF2YRVxvYXvGLe48E1KGAdlX5jgc3421H5KRmudKHMxFqHJV8LDmowfs/acbZp4/SItxhHFYyTr6717yW0QrPHTnj7JHwQdqzZq3DZb3EoEmUVQK7GH29/Xi8orIlQ2NAgMBAAGjgfgwgfUwDgYDVR0PAQH/BAQDAgGGMB0GA1UdJQQWMBQGCCsGAQUFBwMCBggrBgEFBQcDATASBgNVHRMBAf8ECDAGAQH/AgEAMB0GA1UdDgQWBBS7vMNHpeS8qcbDpHIMEI2iNeHI6DAfBgNVHSMEGDAWgBR5tFnme7bl5AFzgAiIyBpY9umbbjAyBggrBgEFBQcBAQQmMCQwIgYIKwYBBQUHMAKGFmh0dHA6Ly94MS5pLmxlbmNyLm9yZy8wEwYDVR0gBAwwCjAIBgZngQwBAgEwJwYDVR0fBCAwHjAcoBqgGIYWaHR0cDovL3gxLmMubGVuY3Iub3JnLzANBgkqhkiG9w0BAQsFAAOCAgEAkrHnQTfreZ2B5s3iJeE6IOmQRJWjgVzPw139vaBw1bGWKCIL0vIozwzn1OZDjCQiHcFCktEJr59L9MhwTyAWsVrdAfYf+B9haxQnsHKNY67u4s5Lzzfdu6PUzeetUK29v+PsPmI2cJkxp+iN3epi4hKu9ZzUPSwMqtCceb7qPVxEbpYxY1p91n5PJKBLBX9eb9LU6l8zSxPWV7bK3lG4XaMJgnT9x3ies7msFtpKK5bDtotij/l0GaKeA97pb5uwD9KgWvaFXMIEt8jVTjLEvwRdvCn294GPDF08U8lAkIv7tghluaQh1QnlE4SEN4LOECj8dsIGJXpGUk3aU3KkJz9icKy+aUgA+2cP21uh6NcDIS3XyfaZQjmDQ993ChII8SXWupQZVBiIpcWO4RqZk3lr7Bz5MUCwzDIA359e57SSq5CCkY0N4B6Vulk7LktfwrdGNVI5BsC9qqxSwSKgRJeZ9wygIaehbHFHFhcBaMDKpiZlBHyzrsnnlFXCb5s8HKn5LsUgGvB24L7sGNZP2CX7dhHov+YhD+jozLW2p9W4959Bz2EiRmqDtmiXLnzqTpXbI+suyCsohKRg6Un0RC47+cpiVwHiXZAW+cn8eiNIjqbVgXLxKPpdzvvtTnOPlC7SQZSYmdunr3Bf9b77AiC/ZidstK36dRILKz7OA54=\n-----END CERTIFICATE-----"
+              "finding"      : "-----BEGIN CERTIFICATE-----\nMIIFBjCCAu6gAwIBAgIRAIp9PhPWLzDvI4a9KQdrNPgwDQYJKoZIhvcNAQELBQAwTzELMAkGA1UEBhMCVVMxKTAnBgNVBAoTIEludGVybmV0IFNlY3VyaXR5IFJlc2VhcmNoIEdyb3VwMRUwEwYDVQQDEwxJU1JHIFJvb3QgWDEwHhcNMjQwMzEzMDAwMDAwWhcNMjcwMzEyMjM1OTU5WjAzMQswCQYDVQQGEwJVUzEWMBQGA1UEChMNTGV0J3MgRW5jcnlwdDEMMAoGA1UEAxMDUjExMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAuoe8XBsAOcvKCs3UZxD5ATylTqVhyybKUvsVAbe5KPUoHu0nsyQYOWcJDAjs4DqwO3cOvfPlOVRBDE6uQdaZdN5R2+97/1i9qLcT9t4x1fJyyXJqC4N0lZxGAGQUmfOx2SLZzaiSqhwmej/+71gFewiVgdtxD4774zEJuwm+UE1fj5F2PVqdnoPy6cRms+EGZkNIGIBloDcYmpuEMpexsr3E+BUAnSeI++JjF5ZsmydnS8TbKF5pwnnwSVzgJFDhxLyhBax7QG0AtMJBP6dYuC/FXJuluwme8f7rsIU5/agK70XEeOtlKsLPXzze41xNG/cLJyuqC0J3U095ah2H2QIDAQABo4H4MIH1MA4GA1UdDwEB/wQEAwIBhjAdBgNVHSUEFjAUBggrBgEFBQcDAgYIKwYBBQUHAwEwEgYDVR0TAQH/BAgwBgEB/wIBADAdBgNVHQ4EFgQUxc9GpOr0w8B6bJXELbBeki8m47kwHwYDVR0jBBgwFoAUebRZ5nu25eQBc4AIiMgaWPbpm24wMgYIKwYBBQUHAQEEJjAkMCIGCCsGAQUFBzAChhZodHRwOi8veDEuaS5sZW5jci5vcmcvMBMGA1UdIAQMMAowCAYGZ4EMAQIBMCcGA1UdHwQgMB4wHKAaoBiGFmh0dHA6Ly94MS5jLmxlbmNyLm9yZy8wDQYJKoZIhvcNAQELBQADggIBAE7iiV0KAxyQOND1H/lxXPjDj7I3iHpvsCUf7b632IYGjukJhM1yv4Hz/MrPU0jtvfZpQtSlET41yBOykh0FX+ou1Nj4ScOt9ZmWnO8m2OG0JAtIIE3801S0qcYhyOE2G/93ZCkXufBL713qzXnQv5C/viOykNpKqUgxdKlEC+Hi9i2DcaR1e9KUwQUZRhy5j/PEdEglKg3l9dtD4tuTm7kZtB8v32oOjzHTYw+7KdzdZiw/sBtnUfhBPORNuay4pJxmY/WrhSMdzFO2q3Gu3MUBcdo27goYKjL9CTF8j/Zz55yctUoVaneCWs/ajUX+HypkBTA+c8LGDLnWO2NKq0YD/pnARkAnYGPfUDoHR9gVSp/qRx+ZWghiDLZsMwhN1zjtSC0uBWiugF3vTNzYIEFfaPG7Ws3jDrAMMYebQ95JQ+HIBD/RPBuHRTBpqKlyDnkSHDHYPiNX3adPoPAcgdF3H2/W0rmoswMWgTlLn1Wu0mrks7/qpdWfS6PJ1jty80r2VKsM/Dj3YIDfbjXKdaFU5C+8bhfJGqU3taKauuz0wHVGT3eo6FlWkWYtbt4pgdamlwVeZEW+LM7qZEJEsMNPrfC03APKmZsJgpWCDWOKZvkZcvjVuYkQ4omYCTX5ohy+knMjdOmdH9c7SpqEWBDC86fiNex+O0XOMEZSa8DA\n-----END CERTIFICATE-----"
           }
 ,         {
               "id"           : "intermediate_cert_fingerprintSHA256 <#1>",
               "ip"           : "api.data.inclusion.beta.gouv.fr/80.247.13.145",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "9D7C3F1AA6AD2B2EC0D5CF1E246F8D9AE6CBC9FD0755AD37BB974B1F2FB603F3"
+              "finding"      : "591E9CE6C863D3A079E9FABE1478C7339A26B21269DDE795211361024AE31A44"
           }
 ,         {
               "id"           : "intermediate_cert_notBefore <#1>",
@@ -3656,7 +2611,7 @@
               "ip"           : "api.data.inclusion.beta.gouv.fr/80.247.13.145",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "R10 <-- ISRG Root X1"
+              "finding"      : "R11 <-- ISRG Root X1"
           }
 ,         {
               "id"           : "intermediate_cert_badOCSP",
@@ -3684,14 +2639,28 @@
               "ip"           : "api.data.inclusion.beta.gouv.fr/80.247.13.145",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1727013609"
+              "finding"      : "1727619364"
           }
 ,         {
-              "id"           : "HSTS",
+              "id"           : "HSTS_time",
               "ip"           : "api.data.inclusion.beta.gouv.fr/80.247.13.145",
               "port"         : "443",
-              "severity"     : "LOW",
-              "finding"      : "not offered"
+              "severity"     : "OK",
+              "finding"      : "365 days (=31536000 seconds) > 15552000 seconds"
+          }
+,         {
+              "id"           : "HSTS_subdomains",
+              "ip"           : "api.data.inclusion.beta.gouv.fr/80.247.13.145",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "only for this domain"
+          }
+,         {
+              "id"           : "HSTS_preload",
+              "ip"           : "api.data.inclusion.beta.gouv.fr/80.247.13.145",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "domain is NOT marked for preloading"
           }
 ,         {
               "id"           : "HPKP",
@@ -3857,7 +2826,7 @@
               "severity"     : "INFO",
               "cve"          : "CVE-2016-0800 CVE-2016-0703",
               "cwe"          : "CWE-310",
-              "finding"      : "Make sure you don't use this certificate elsewhere with SSLv2 enabled services, see https://search.censys.io/search?resource=hosts&virtual_hosts=INCLUDE&q=447C89778CF6439ECFDD74A296B9631E56D5754D5FE85BD9869FE4183B497FD3"
+              "finding"      : "Make sure you don't use this certificate elsewhere with SSLv2 enabled services, see https://search.censys.io/search?resource=hosts&virtual_hosts=INCLUDE&q=751928EEFE6D05DE85EE11E7F75F7DF4D4755AE97ABB22C8229E4A6FED4FFBD3"
           }
 ,         {
               "id"           : "LOGJAM",
@@ -4226,18 +3195,1077 @@
               "ip"           : "api.data.inclusion.beta.gouv.fr/80.247.13.145",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "A"
+              "finding"      : "A+"
           }
 ,         {
-              "id"           : "grade_cap_reason_1",
-              "ip"           : "api.data.inclusion.beta.gouv.fr/80.247.13.145",
+              "id"           : "service",
+              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "Grade capped to A. HSTS is not offered"
+              "finding"      : "HTTP"
+          }
+,         {
+              "id"           : "pre_128cipher",
+              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "No 128 cipher limit bug"
+          }
+,         {
+              "id"           : "SSLv2",
+              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
+              "port"         : "443",
+              "severity"     : "OK",
+              "finding"      : "not offered"
+          }
+,         {
+              "id"           : "SSLv3",
+              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
+              "port"         : "443",
+              "severity"     : "OK",
+              "finding"      : "not offered"
+          }
+,         {
+              "id"           : "TLS1",
+              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "not offered"
+          }
+,         {
+              "id"           : "TLS1_1",
+              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "not offered"
+          }
+,         {
+              "id"           : "TLS1_2",
+              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
+              "port"         : "443",
+              "severity"     : "OK",
+              "finding"      : "offered"
+          }
+,         {
+              "id"           : "TLS1_3",
+              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
+              "port"         : "443",
+              "severity"     : "OK",
+              "finding"      : "offered with final"
+          }
+,         {
+              "id"           : "ALPN_HTTP2",
+              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
+              "port"         : "443",
+              "severity"     : "OK",
+              "finding"      : "h2"
+          }
+,         {
+              "id"           : "ALPN",
+              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "http/1.1"
+          }
+,         {
+              "id"           : "cipherlist_NULL",
+              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
+              "port"         : "443",
+              "severity"     : "OK",
+              "cwe"          : "CWE-327",
+              "finding"      : "not offered"
+          }
+,         {
+              "id"           : "cipherlist_aNULL",
+              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
+              "port"         : "443",
+              "severity"     : "OK",
+              "cwe"          : "CWE-327",
+              "finding"      : "not offered"
+          }
+,         {
+              "id"           : "cipherlist_EXPORT",
+              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
+              "port"         : "443",
+              "severity"     : "OK",
+              "cwe"          : "CWE-327",
+              "finding"      : "not offered"
+          }
+,         {
+              "id"           : "cipherlist_LOW",
+              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
+              "port"         : "443",
+              "severity"     : "OK",
+              "cwe"          : "CWE-327",
+              "finding"      : "not offered"
+          }
+,         {
+              "id"           : "cipherlist_3DES_IDEA",
+              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "cwe"          : "CWE-310",
+              "finding"      : "not offered"
+          }
+,         {
+              "id"           : "cipherlist_OBSOLETED",
+              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "cwe"          : "CWE-310",
+              "finding"      : "not offered"
+          }
+,         {
+              "id"           : "cipherlist_STRONG_NOFS",
+              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "not offered"
+          }
+,         {
+              "id"           : "cipherlist_STRONG_FS",
+              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
+              "port"         : "443",
+              "severity"     : "OK",
+              "finding"      : "offered"
+          }
+,         {
+              "id"           : "cipher_order-tls1_2",
+              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
+              "port"         : "443",
+              "severity"     : "OK",
+              "finding"      : "server"
+          }
+,         {
+              "id"           : "cipherorder_TLSv1_2",
+              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "ECDHE-RSA-AES256-GCM-SHA384"
+          }
+,         {
+              "id"           : "cipher_order",
+              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
+              "port"         : "443",
+              "severity"     : "OK",
+              "finding"      : "server"
+          }
+,         {
+              "id"           : "FS",
+              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
+              "port"         : "443",
+              "severity"     : "OK",
+              "finding"      : "offered"
+          }
+,         {
+              "id"           : "FS_ciphers",
+              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "DHE-RSA-AES256-GCM-SHA384 ECDHE-RSA-AES128-GCM-SHA256 ECDHE-RSA-AES256-GCM-SHA384"
+          }
+,         {
+              "id"           : "FS_ECDHE_curves",
+              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
+              "port"         : "443",
+              "severity"     : "OK",
+              "finding"      : "prime256v1 secp384r1 secp521r1"
+          }
+,         {
+              "id"           : "TLS_extensions",
+              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "'renegotiation info/#65281' 'server name/#0' 'EC point formats/#11' 'session ticket/#35' 'supported versions/#43' 'key share/#51' 'supported_groups/#10' 'max fragment length/#1' 'application layer protocol negotiation/#16' 'extended master secret/#23'"
+          }
+,         {
+              "id"           : "TLS_session_ticket",
+              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "valid for 300 seconds only (<daily)"
+          }
+,         {
+              "id"           : "SSL_sessionID_support",
+              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "yes"
+          }
+,         {
+              "id"           : "sessionresumption_ticket",
+              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "not supported"
+          }
+,         {
+              "id"           : "sessionresumption_ID",
+              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "not supported"
+          }
+,         {
+              "id"           : "TLS_timestamp",
+              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "random"
+          }
+,         {
+              "id"           : "certificate_compression",
+              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "none"
+          }
+,         {
+              "id"           : "clientAuth",
+              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "none"
+          }
+,         {
+              "id"           : "cert_numbers",
+              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "1"
+          }
+,         {
+              "id"           : "cert_signatureAlgorithm",
+              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
+              "port"         : "443",
+              "severity"     : "OK",
+              "finding"      : "SHA256 with RSA"
+          }
+,         {
+              "id"           : "cert_keySize",
+              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "RSA 2048 bits (exponent is 65537)"
+          }
+,         {
+              "id"           : "cert_keyUsage",
+              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "Digital Signature, Key Encipherment"
+          }
+,         {
+              "id"           : "cert_extKeyUsage",
+              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "TLS Web Server Authentication, TLS Web Client Authentication"
+          }
+,         {
+              "id"           : "cert_serialNumber",
+              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "0310F6F573EE0127941070974BC2D74D3CA9"
+          }
+,         {
+              "id"           : "cert_serialNumberLen",
+              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "18"
+          }
+,         {
+              "id"           : "cert_fingerprintSHA1",
+              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "02EF391AF46C9CC2A942218407F6A4ED9C78935E"
+          }
+,         {
+              "id"           : "cert_fingerprintSHA256",
+              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "751928EEFE6D05DE85EE11E7F75F7DF4D4755AE97ABB22C8229E4A6FED4FFBD3"
+          }
+,         {
+              "id"           : "cert",
+              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "-----BEGIN CERTIFICATE-----\nMIIFDzCCA/egAwIBAgISAxD29XPuASeUEHCXS8LXTTypMA0GCSqGSIb3DQEBCwUAMDMxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQwwCgYDVQQDEwNSMTEwHhcNMjQwOTI0MDU1MzQ3WhcNMjQxMjIzMDU1MzQ2WjAqMSgwJgYDVQQDEx9hcGkuZGF0YS5pbmNsdXNpb24uYmV0YS5nb3V2LmZyMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAruSWKRkNvBHbmjp010eBRxAc1JmZYqHGsk/M1qaSxAiN+DctUWIFLcPbBGcJSNCrSlIswPa2pm6+wX6x/UdKAcQuOZk/x0r2P/cjQN6G3kLnoxqr/I/qz1M4Cc1lEWnS/CGtuIrWvOXqQt/5wOIs3tZ0u14xdRQ5wGEc0riahs8QwXpqF86mMTkPG6dUQEfBEVSzqL06teTMBQVpx76Fm7m5LrxDNqVraMiXygcCxcyrWCySg0z2W6piwpapwiRnblAW46SszbHHlt4+myjPEcknovYykRVVsX2JLqINLkRO318SDqZlKAqsYZL6gThZBGuAaEP9Zi5gTiFEy4zvKQIDAQABo4ICJDCCAiAwDgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBSxmyX5R+MFtW04LcPC+t3f/3rHODAfBgNVHSMEGDAWgBTFz0ak6vTDwHpslcQtsF6SLybjuTBXBggrBgEFBQcBAQRLMEkwIgYIKwYBBQUHMAGGFmh0dHA6Ly9yMTEuby5sZW5jci5vcmcwIwYIKwYBBQUHMAKGF2h0dHA6Ly9yMTEuaS5sZW5jci5vcmcvMCoGA1UdEQQjMCGCH2FwaS5kYXRhLmluY2x1c2lvbi5iZXRhLmdvdXYuZnIwEwYDVR0gBAwwCjAIBgZngQwBAgEwggEFBgorBgEEAdZ5AgQCBIH2BIHzAPEAdgAZmBBxCfDWUi4wgNKeP2S7g24ozPkPUo7u385KPxa0ygAAAZIizV9WAAAEAwBHMEUCIDTq/DjPXGNAKmzPemssMLzwrtg/AGC1kZyWpame3eNXAiEAj5X3LH8ctcaYfyFHeTWjIB5gGd9U+4aoyfrZKpSoYtIAdwA/F0tP1yJHWJQdZRyEvg0S7ZA3fx+FauvBvyiF7PhkbgAAAZIizV9NAAAEAwBIMEYCIQDLyWysHB5HYz6VLwU2DbWzYL3kTHSd4N7Yxu0Of70uRwIhAO2F7wQFiABSGNxbDQGBIEnzMiNeA6RL4DzEvA4Q9dx4MA0GCSqGSIb3DQEBCwUAA4IBAQB3rQEdMwmYBxo9EVIwWrNtaZLM5SjvboPZVVg/8RMF6WMaIoOKQ9yvOeAOklslc0Q95YmxD0Ryr6HK+7fuNZQV/KXNL6ztnFHEDPIVrdRmOwwof8pdvhmAAWmibvmdPad1Dds/vBwDAz07PrsohKk7463m4UG4kRq9npU2/A4tNSBBM/MXmxgf0zwI6SSqWYD32foPrHA6Qb0HJhuZVzCXU858exASq6dLeTJNa1gu5lQDa9cUj1eydqQgvA9pNjntuIpsqUfhYxitG974sjV4UE6zj1B2N6L8znxuw4CQEIl6kXl08uTRYWjx8wSb9XBtmAYGW0gRnrFGdtwRABUw\n-----END CERTIFICATE-----"
+          }
+,         {
+              "id"           : "cert_commonName",
+              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
+              "port"         : "443",
+              "severity"     : "OK",
+              "finding"      : "api.data.inclusion.beta.gouv.fr"
+          }
+,         {
+              "id"           : "cert_commonName_wo_SNI",
+              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "*.osc-secnum-fr1.scalingo.io"
+          }
+,         {
+              "id"           : "cert_subjectAltName",
+              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "api.data.inclusion.beta.gouv.fr"
+          }
+,         {
+              "id"           : "cert_trust",
+              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
+              "port"         : "443",
+              "severity"     : "OK",
+              "finding"      : "Ok via SAN and CN (SNI mandatory)"
+          }
+,         {
+              "id"           : "cert_chain_of_trust",
+              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
+              "port"         : "443",
+              "severity"     : "OK",
+              "finding"      : "passed."
+          }
+,         {
+              "id"           : "cert_certificatePolicies_EV",
+              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "no"
+          }
+,         {
+              "id"           : "cert_expirationStatus",
+              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
+              "port"         : "443",
+              "severity"     : "OK",
+              "finding"      : "84 >= 30 days"
+          }
+,         {
+              "id"           : "cert_notBefore",
+              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "2024-09-24 05:53"
+          }
+,         {
+              "id"           : "cert_notAfter",
+              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
+              "port"         : "443",
+              "severity"     : "OK",
+              "finding"      : "2024-12-23 05:53"
+          }
+,         {
+              "id"           : "cert_extlifeSpan",
+              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
+              "port"         : "443",
+              "severity"     : "OK",
+              "finding"      : "certificate has no extended life time according to browser forum"
+          }
+,         {
+              "id"           : "cert_eTLS",
+              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "not present"
+          }
+,         {
+              "id"           : "cert_crlDistributionPoints",
+              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "--"
+          }
+,         {
+              "id"           : "cert_ocspURL",
+              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "http://r11.o.lencr.org"
+          }
+,         {
+              "id"           : "OCSP_stapling",
+              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
+              "port"         : "443",
+              "severity"     : "LOW",
+              "finding"      : "not offered"
+          }
+,         {
+              "id"           : "cert_mustStapleExtension",
+              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "--"
+          }
+,         {
+              "id"           : "DNS_CAArecord",
+              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
+              "port"         : "443",
+              "severity"     : "LOW",
+              "finding"      : "--"
+          }
+,         {
+              "id"           : "certificate_transparency",
+              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
+              "port"         : "443",
+              "severity"     : "OK",
+              "finding"      : "yes (certificate extension)"
+          }
+,         {
+              "id"           : "certs_countServer",
+              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "2"
+          }
+,         {
+              "id"           : "certs_list_ordering_problem",
+              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "no"
+          }
+,         {
+              "id"           : "cert_caIssuers",
+              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "R11 (Let's Encrypt from US)"
+          }
+,         {
+              "id"           : "intermediate_cert <#1>",
+              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "-----BEGIN CERTIFICATE-----\nMIIFBjCCAu6gAwIBAgIRAIp9PhPWLzDvI4a9KQdrNPgwDQYJKoZIhvcNAQELBQAwTzELMAkGA1UEBhMCVVMxKTAnBgNVBAoTIEludGVybmV0IFNlY3VyaXR5IFJlc2VhcmNoIEdyb3VwMRUwEwYDVQQDEwxJU1JHIFJvb3QgWDEwHhcNMjQwMzEzMDAwMDAwWhcNMjcwMzEyMjM1OTU5WjAzMQswCQYDVQQGEwJVUzEWMBQGA1UEChMNTGV0J3MgRW5jcnlwdDEMMAoGA1UEAxMDUjExMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAuoe8XBsAOcvKCs3UZxD5ATylTqVhyybKUvsVAbe5KPUoHu0nsyQYOWcJDAjs4DqwO3cOvfPlOVRBDE6uQdaZdN5R2+97/1i9qLcT9t4x1fJyyXJqC4N0lZxGAGQUmfOx2SLZzaiSqhwmej/+71gFewiVgdtxD4774zEJuwm+UE1fj5F2PVqdnoPy6cRms+EGZkNIGIBloDcYmpuEMpexsr3E+BUAnSeI++JjF5ZsmydnS8TbKF5pwnnwSVzgJFDhxLyhBax7QG0AtMJBP6dYuC/FXJuluwme8f7rsIU5/agK70XEeOtlKsLPXzze41xNG/cLJyuqC0J3U095ah2H2QIDAQABo4H4MIH1MA4GA1UdDwEB/wQEAwIBhjAdBgNVHSUEFjAUBggrBgEFBQcDAgYIKwYBBQUHAwEwEgYDVR0TAQH/BAgwBgEB/wIBADAdBgNVHQ4EFgQUxc9GpOr0w8B6bJXELbBeki8m47kwHwYDVR0jBBgwFoAUebRZ5nu25eQBc4AIiMgaWPbpm24wMgYIKwYBBQUHAQEEJjAkMCIGCCsGAQUFBzAChhZodHRwOi8veDEuaS5sZW5jci5vcmcvMBMGA1UdIAQMMAowCAYGZ4EMAQIBMCcGA1UdHwQgMB4wHKAaoBiGFmh0dHA6Ly94MS5jLmxlbmNyLm9yZy8wDQYJKoZIhvcNAQELBQADggIBAE7iiV0KAxyQOND1H/lxXPjDj7I3iHpvsCUf7b632IYGjukJhM1yv4Hz/MrPU0jtvfZpQtSlET41yBOykh0FX+ou1Nj4ScOt9ZmWnO8m2OG0JAtIIE3801S0qcYhyOE2G/93ZCkXufBL713qzXnQv5C/viOykNpKqUgxdKlEC+Hi9i2DcaR1e9KUwQUZRhy5j/PEdEglKg3l9dtD4tuTm7kZtB8v32oOjzHTYw+7KdzdZiw/sBtnUfhBPORNuay4pJxmY/WrhSMdzFO2q3Gu3MUBcdo27goYKjL9CTF8j/Zz55yctUoVaneCWs/ajUX+HypkBTA+c8LGDLnWO2NKq0YD/pnARkAnYGPfUDoHR9gVSp/qRx+ZWghiDLZsMwhN1zjtSC0uBWiugF3vTNzYIEFfaPG7Ws3jDrAMMYebQ95JQ+HIBD/RPBuHRTBpqKlyDnkSHDHYPiNX3adPoPAcgdF3H2/W0rmoswMWgTlLn1Wu0mrks7/qpdWfS6PJ1jty80r2VKsM/Dj3YIDfbjXKdaFU5C+8bhfJGqU3taKauuz0wHVGT3eo6FlWkWYtbt4pgdamlwVeZEW+LM7qZEJEsMNPrfC03APKmZsJgpWCDWOKZvkZcvjVuYkQ4omYCTX5ohy+knMjdOmdH9c7SpqEWBDC86fiNex+O0XOMEZSa8DA\n-----END CERTIFICATE-----"
+          }
+,         {
+              "id"           : "intermediate_cert_fingerprintSHA256 <#1>",
+              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "591E9CE6C863D3A079E9FABE1478C7339A26B21269DDE795211361024AE31A44"
+          }
+,         {
+              "id"           : "intermediate_cert_notBefore <#1>",
+              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "2024-03-13 00:00"
+          }
+,         {
+              "id"           : "intermediate_cert_notAfter <#1>",
+              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
+              "port"         : "443",
+              "severity"     : "OK",
+              "finding"      : "2027-03-12 23:59"
+          }
+,         {
+              "id"           : "intermediate_cert_expiration <#1>",
+              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
+              "port"         : "443",
+              "severity"     : "OK",
+              "finding"      : "ok > 40 days"
+          }
+,         {
+              "id"           : "intermediate_cert_chain <#1>",
+              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "R11 <-- ISRG Root X1"
+          }
+,         {
+              "id"           : "intermediate_cert_badOCSP",
+              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
+              "port"         : "443",
+              "severity"     : "OK",
+              "finding"      : "intermediate certificate(s) is/are ok"
+          }
+,         {
+              "id"           : "HTTP_status_code",
+              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "404 Not Found ('/')"
+          }
+,         {
+              "id"           : "HTTP_clock_skew",
+              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "0 seconds from localtime"
+          }
+,         {
+              "id"           : "HTTP_headerTime",
+              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "1727619413"
+          }
+,         {
+              "id"           : "HSTS_time",
+              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
+              "port"         : "443",
+              "severity"     : "OK",
+              "finding"      : "365 days (=31536000 seconds) > 15552000 seconds"
+          }
+,         {
+              "id"           : "HSTS_subdomains",
+              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "only for this domain"
+          }
+,         {
+              "id"           : "HSTS_preload",
+              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "domain is NOT marked for preloading"
+          }
+,         {
+              "id"           : "HPKP",
+              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "No support for HTTP Public Key Pinning"
+          }
+,         {
+              "id"           : "banner_server",
+              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "No Server banner line in header, interesting!"
+          }
+,         {
+              "id"           : "banner_application",
+              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "No application banner found"
+          }
+,         {
+              "id"           : "cookie_count",
+              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "0 at '/' (30x detected, better try target URL of 30x)"
+          }
+,         {
+              "id"           : "security_headers",
+              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
+              "port"         : "443",
+              "severity"     : "MEDIUM",
+              "finding"      : "--"
+          }
+,         {
+              "id"           : "banner_reverseproxy",
+              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "cwe"          : "CWE-200",
+              "finding"      : "--"
+          }
+,         {
+              "id"           : "heartbleed",
+              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
+              "port"         : "443",
+              "severity"     : "OK",
+              "cve"          : "CVE-2014-0160",
+              "cwe"          : "CWE-119",
+              "finding"      : "not vulnerable, no heartbeat extension"
+          }
+,         {
+              "id"           : "CCS",
+              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
+              "port"         : "443",
+              "severity"     : "OK",
+              "cve"          : "CVE-2014-0224",
+              "cwe"          : "CWE-310",
+              "finding"      : "not vulnerable"
+          }
+,         {
+              "id"           : "ticketbleed",
+              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
+              "port"         : "443",
+              "severity"     : "OK",
+              "cve"          : "CVE-2016-9244",
+              "cwe"          : "CWE-200",
+              "finding"      : "not vulnerable"
+          }
+,         {
+              "id"           : "ROBOT",
+              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
+              "port"         : "443",
+              "severity"     : "OK",
+              "cve"          : "CVE-2017-17382 CVE-2017-17427 CVE-2017-17428 CVE-2017-13098 CVE-2017-1000385 CVE-2017-13099 CVE-2016-6883 CVE-2012-5081 CVE-2017-6168",
+              "cwe"          : "CWE-203",
+              "finding"      : "not vulnerable, no RSA key transport cipher"
+          }
+,         {
+              "id"           : "secure_renego",
+              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
+              "port"         : "443",
+              "severity"     : "OK",
+              "cwe"          : "CWE-310",
+              "finding"      : "supported"
+          }
+,         {
+              "id"           : "secure_client_renego",
+              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
+              "port"         : "443",
+              "severity"     : "OK",
+              "cve"          : "CVE-2011-1473",
+              "cwe"          : "CWE-310",
+              "finding"      : "not vulnerable"
+          }
+,         {
+              "id"           : "CRIME_TLS",
+              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
+              "port"         : "443",
+              "severity"     : "OK",
+              "cve"          : "CVE-2012-4929",
+              "cwe"          : "CWE-310",
+              "finding"      : "not vulnerable"
+          }
+,         {
+              "id"           : "BREACH",
+              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
+              "port"         : "443",
+              "severity"     : "OK",
+              "cve"          : "CVE-2013-3587",
+              "cwe"          : "CWE-310",
+              "finding"      : "not vulnerable, no gzip/deflate/compress/br HTTP compression  - only supplied '/' tested"
+          }
+,         {
+              "id"           : "POODLE_SSL",
+              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
+              "port"         : "443",
+              "severity"     : "OK",
+              "cve"          : "CVE-2014-3566",
+              "cwe"          : "CWE-310",
+              "finding"      : "not vulnerable, no SSLv3"
+          }
+,         {
+              "id"           : "fallback_SCSV",
+              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
+              "port"         : "443",
+              "severity"     : "OK",
+              "finding"      : "no protocol below TLS 1.2 offered"
+          }
+,         {
+              "id"           : "SWEET32",
+              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
+              "port"         : "443",
+              "severity"     : "OK",
+              "cve"          : "CVE-2016-2183 CVE-2016-6329",
+              "cwe"          : "CWE-327",
+              "finding"      : "not vulnerable"
+          }
+,         {
+              "id"           : "FREAK",
+              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
+              "port"         : "443",
+              "severity"     : "OK",
+              "cve"          : "CVE-2015-0204",
+              "cwe"          : "CWE-310",
+              "finding"      : "not vulnerable"
+          }
+,         {
+              "id"           : "DROWN",
+              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
+              "port"         : "443",
+              "severity"     : "OK",
+              "cve"          : "CVE-2016-0800 CVE-2016-0703",
+              "cwe"          : "CWE-310",
+              "finding"      : "not vulnerable on this host and port"
+          }
+,         {
+              "id"           : "DROWN_hint",
+              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "cve"          : "CVE-2016-0800 CVE-2016-0703",
+              "cwe"          : "CWE-310",
+              "finding"      : "Make sure you don't use this certificate elsewhere with SSLv2 enabled services, see https://search.censys.io/search?resource=hosts&virtual_hosts=INCLUDE&q=751928EEFE6D05DE85EE11E7F75F7DF4D4755AE97ABB22C8229E4A6FED4FFBD3"
+          }
+,         {
+              "id"           : "LOGJAM",
+              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
+              "port"         : "443",
+              "severity"     : "OK",
+              "cve"          : "CVE-2015-4000",
+              "cwe"          : "CWE-310",
+              "finding"      : "not vulnerable, no DH EXPORT ciphers,"
+          }
+,         {
+              "id"           : "LOGJAM-common_primes",
+              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
+              "port"         : "443",
+              "severity"     : "OK",
+              "cve"          : "CVE-2015-4000",
+              "cwe"          : "CWE-310",
+              "finding"      : "--"
+          }
+,         {
+              "id"           : "BEAST",
+              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
+              "port"         : "443",
+              "severity"     : "OK",
+              "cve"          : "CVE-2011-3389",
+              "cwe"          : "CWE-20",
+              "finding"      : "not vulnerable, no SSL3 or TLS1"
+          }
+,         {
+              "id"           : "LUCKY13",
+              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
+              "port"         : "443",
+              "severity"     : "OK",
+              "cve"          : "CVE-2013-0169",
+              "cwe"          : "CWE-310",
+              "finding"      : "not vulnerable"
+          }
+,         {
+              "id"           : "winshock",
+              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
+              "port"         : "443",
+              "severity"     : "OK",
+              "cve"          : "CVE-2014-6321",
+              "cwe"          : "CWE-94",
+              "finding"      : "not vulnerable"
+          }
+,         {
+              "id"           : "RC4",
+              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
+              "port"         : "443",
+              "severity"     : "OK",
+              "cve"          : "CVE-2013-2566 CVE-2015-2808",
+              "cwe"          : "CWE-310",
+              "finding"      : "not vulnerable"
+          }
+,         {
+              "id"           : "clientsimulation-android_60",
+              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "TLSv1.2 ECDHE-RSA-AES128-GCM-SHA256"
+          }
+,         {
+              "id"           : "clientsimulation-android_70",
+              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "TLSv1.2 ECDHE-RSA-AES256-GCM-SHA384"
+          }
+,         {
+              "id"           : "clientsimulation-android_81",
+              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "TLSv1.2 ECDHE-RSA-AES256-GCM-SHA384"
+          }
+,         {
+              "id"           : "clientsimulation-android_90",
+              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "TLSv1.3 TLS_AES_256_GCM_SHA384"
+          }
+,         {
+              "id"           : "clientsimulation-android_X",
+              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "TLSv1.3 TLS_AES_256_GCM_SHA384"
+          }
+,         {
+              "id"           : "clientsimulation-android_11",
+              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "TLSv1.3 TLS_AES_256_GCM_SHA384"
+          }
+,         {
+              "id"           : "clientsimulation-android_12",
+              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "TLSv1.3 TLS_AES_256_GCM_SHA384"
+          }
+,         {
+              "id"           : "clientsimulation-chrome_79_win10",
+              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "TLSv1.3 TLS_AES_256_GCM_SHA384"
+          }
+,         {
+              "id"           : "clientsimulation-chrome_101_win10",
+              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "TLSv1.3 TLS_AES_256_GCM_SHA384"
+          }
+,         {
+              "id"           : "clientsimulation-firefox_66_win81",
+              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "TLSv1.3 TLS_AES_256_GCM_SHA384"
+          }
+,         {
+              "id"           : "clientsimulation-firefox_100_win10",
+              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "TLSv1.3 TLS_AES_256_GCM_SHA384"
+          }
+,         {
+              "id"           : "clientsimulation-ie_6_xp",
+              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "No connection"
+          }
+,         {
+              "id"           : "clientsimulation-ie_8_win7",
+              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "No connection"
+          }
+,         {
+              "id"           : "clientsimulation-ie_8_xp",
+              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "No connection"
+          }
+,         {
+              "id"           : "clientsimulation-ie_11_win7",
+              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "TLSv1.2 DHE-RSA-AES256-GCM-SHA384"
+          }
+,         {
+              "id"           : "clientsimulation-ie_11_win81",
+              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "TLSv1.2 DHE-RSA-AES256-GCM-SHA384"
+          }
+,         {
+              "id"           : "clientsimulation-ie_11_winphone81",
+              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "No connection"
+          }
+,         {
+              "id"           : "clientsimulation-ie_11_win10",
+              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "TLSv1.2 ECDHE-RSA-AES256-GCM-SHA384"
+          }
+,         {
+              "id"           : "clientsimulation-edge_15_win10",
+              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "TLSv1.2 ECDHE-RSA-AES256-GCM-SHA384"
+          }
+,         {
+              "id"           : "clientsimulation-edge_101_win10_21h2",
+              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "TLSv1.3 TLS_AES_256_GCM_SHA384"
+          }
+,         {
+              "id"           : "clientsimulation-safari_121_ios_122",
+              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "TLSv1.3 TLS_AES_256_GCM_SHA384"
+          }
+,         {
+              "id"           : "clientsimulation-safari_130_osx_10146",
+              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "TLSv1.3 TLS_AES_256_GCM_SHA384"
+          }
+,         {
+              "id"           : "clientsimulation-safari_154_osx_1231",
+              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "TLSv1.3 TLS_AES_256_GCM_SHA384"
+          }
+,         {
+              "id"           : "clientsimulation-java_7u25",
+              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "No connection"
+          }
+,         {
+              "id"           : "clientsimulation-java_8u161",
+              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "TLSv1.2 ECDHE-RSA-AES256-GCM-SHA384"
+          }
+,         {
+              "id"           : "clientsimulation-java1102",
+              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "TLSv1.3 TLS_AES_256_GCM_SHA384"
+          }
+,         {
+              "id"           : "clientsimulation-java1703",
+              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "TLSv1.3 TLS_AES_256_GCM_SHA384"
+          }
+,         {
+              "id"           : "clientsimulation-go_1178",
+              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "TLSv1.3 TLS_AES_256_GCM_SHA384"
+          }
+,         {
+              "id"           : "clientsimulation-libressl_283",
+              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "TLSv1.2 ECDHE-RSA-AES256-GCM-SHA384"
+          }
+,         {
+              "id"           : "clientsimulation-openssl_102e",
+              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "TLSv1.2 ECDHE-RSA-AES256-GCM-SHA384"
+          }
+,         {
+              "id"           : "clientsimulation-openssl_110l",
+              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "TLSv1.2 ECDHE-RSA-AES256-GCM-SHA384"
+          }
+,         {
+              "id"           : "clientsimulation-openssl_111d",
+              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "TLSv1.3 TLS_AES_256_GCM_SHA384"
+          }
+,         {
+              "id"           : "clientsimulation-openssl_303",
+              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "TLSv1.3 TLS_AES_256_GCM_SHA384"
+          }
+,         {
+              "id"           : "clientsimulation-apple_mail_16_0",
+              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "TLSv1.2 ECDHE-RSA-AES256-GCM-SHA384"
+          }
+,         {
+              "id"           : "clientsimulation-thunderbird_91_9",
+              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "TLSv1.3 TLS_AES_256_GCM_SHA384"
+          }
+,         {
+              "id"           : "rating_spec",
+              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "SSL Labs's 'SSL Server Rating Guide' (version 2009q from 2020-01-30)"
+          }
+,         {
+              "id"           : "rating_doc",
+              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "https://github.com/ssllabs/research/wiki/SSL-Server-Rating-Guide"
+          }
+,         {
+              "id"           : "protocol_support_score",
+              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "100"
+          }
+,         {
+              "id"           : "protocol_support_score_weighted",
+              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "30"
+          }
+,         {
+              "id"           : "key_exchange_score",
+              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "90"
+          }
+,         {
+              "id"           : "key_exchange_score_weighted",
+              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "27"
+          }
+,         {
+              "id"           : "cipher_strength_score",
+              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "60"
+          }
+,         {
+              "id"           : "cipher_strength_score_weighted",
+              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "24"
+          }
+,         {
+              "id"           : "final_score",
+              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "81"
+          }
+,         {
+              "id"           : "overall_grade",
+              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
+              "port"         : "443",
+              "severity"     : "OK",
+              "finding"      : "A+"
           }
 ,         {
               "id"           : "scanTime",
-              "ip"           : "api.data.inclusion.beta.gouv.fr/80.247.13.145",
+              "ip"           : "api.data.inclusion.beta.gouv.fr/148.253.96.193",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "200"
