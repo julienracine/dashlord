@@ -10,7 +10,7 @@
     },
     {
       "type": "unknown",
-      "url": "https://candidat.francetravail.fr/portail-simulateurs/runtime.badd969d8d3f50ad.js"
+      "url": "https://candidat.francetravail.fr/portail-simulateurs/runtime.e9d20f8cfba29fb4.js"
     },
     {
       "type": "unknown",
@@ -18,7 +18,7 @@
     },
     {
       "type": "unknown",
-      "url": "https://candidat.francetravail.fr/portail-simulateurs/main.199540311448bb4e.js"
+      "url": "https://candidat.francetravail.fr/portail-simulateurs/main.f4deb42acdce9e78.js"
     },
     {
       "type": "unknown",
@@ -26,7 +26,7 @@
     },
     {
       "type": "unknown",
-      "url": "https://candidat.francetravail.fr/portail-simulateurs/styles.1aa7c8f17b529b92.css"
+      "url": "https://candidat.francetravail.fr/portail-simulateurs/styles.a8a6fdb7d0f30ee2.css"
     },
     {
       "type": "unknown",
@@ -38,7 +38,7 @@
     },
     {
       "type": "unknown",
-      "url": "https://candidat.francetravail.fr/portail-simulateurs/527.262f7518cb30f11f.js"
+      "url": "https://candidat.francetravail.fr/portail-simulateurs/527.3b2c0859a6f74c4a.js"
     },
     {
       "type": "unknown",
@@ -55,10 +55,6 @@
     {
       "type": "unknown",
       "url": "https://api.francetravail.fr/json/footer"
-    },
-    {
-      "type": "unknown",
-      "url": "https://candidat.francetravail.fr/portail-simulateurs/assets/gfx/map.svg"
     },
     {
       "type": "unknown",
@@ -110,7 +106,7 @@
     },
     {
       "type": "unknown",
-      "url": "https://hd.pe.fr/event?s=475540&idclient=m1dffeaqjmdrh59v"
+      "url": "https://hd.pe.fr/event?s=475540&idclient=m1ng2wf93dl28zpt"
     },
     {
       "type": "unknown",
@@ -126,13 +122,13 @@
     },
     {
       "type": "unknown",
-      "url": "https://hd.pe.fr/event?s=475540&idclient=m1dffeaqjmdrh59v"
+      "url": "https://hd.pe.fr/event?s=475540&idclient=m1ng2wf93dl28zpt"
     }
   ],
   "cookies": [
     {
       "name": "BIGipServerPOOL_TAS_SDDC_HTTP",
-      "value": "1754467082.20480.0000",
+      "value": "1771244298.20480.0000",
       "domain": "candidat.francetravail.fr",
       "path": "/",
       "expires": -1,
@@ -148,14 +144,14 @@
   "headers": {
     "content-encoding": "gzip",
     "content-type": "text/html; charset=utf-8",
-    "date": "Sun, 22 Sep 2024 10:19:22 GMT",
-    "last-modified": "Fri, 19 Jul 2024 14:23:25 GMT",
-    "set-cookie": "BIGipServerPOOL_TAS_SDDC_HTTP=1754467082.20480.0000; path=/; Httponly; Secure\nTS011b8e23=0150c672c3ea5d61eb96e982794a5bf3484c392be13ccdd996fded33c9fb5619b46170edc37a2ba83b2ba5b0dbfa5279f97170c486; Path=/; Domain=.pn322-portailsimulateurs-prod.apps.tas-prod.pole-emploi.intra",
+    "date": "Sun, 29 Sep 2024 10:35:21 GMT",
+    "last-modified": "Mon, 23 Sep 2024 13:35:40 GMT",
+    "set-cookie": "BIGipServerPOOL_TAS_SDDC_HTTP=1771244298.20480.0000; path=/; Httponly; Secure\nTS011b8e23=0150c672c3b1873c4e0504c4101228535d96005ea03c36aae7681b8aba8a19956426feb1bd0e66c44cf82cd725d86dc1941b7da99b; Path=/; Domain=.pn322-portailsimulateurs-prod.apps.tas-prod.pole-emploi.intra",
     "transfer-encoding": "chunked",
     "vary": "Accept-Encoding",
     "x-content-type-options": "nosniff'",
     "x-robots-tag": "noindex, noarchive, nofollow, nosnippet",
-    "x-vcap-request-id": "61929fc9-dfb9-46cc-4e44-470d177caf37"
+    "x-vcap-request-id": "d3445d0e-420f-4919-7538-08cb0103d387"
   },
   "endpoints": [
     {
@@ -515,7 +511,7 @@
     },
     {
       "hostname": "tag.aticdn.net",
-      "ip": "3.168.132.36",
+      "ip": "3.168.132.48",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -569,7 +565,7 @@
     },
     {
       "hostname": "hd.pe.fr",
-      "ip": "18.164.174.22",
+      "ip": "18.164.174.102",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -718,7 +714,7 @@
     },
     {
       "hostname": "privacy.trustcommander.net",
-      "ip": "15.236.117.103",
+      "ip": "15.236.119.223",
       "geoip": {
         "city": {
           "geoname_id": 2988507,
