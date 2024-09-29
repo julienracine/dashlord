@@ -2,69 +2,42 @@
   "trackers": [
     {
       "type": "unknown",
-      "url": "https://tm.urssaf.fr/tm.ur?s=617190&idclient=3aca8ce2-8858-452d-a84e-474313eacd0f&vc=false&vm=exempt&ts=1726981284006&vtag=5.29.4&ptag=js&env_language=fr&n:simulateur_embarque=0&events=%5B%7B%22name%22%3A%22page.display%22%2C%22data%22%3A%7B%22page%22%3A%7B%22chapter1%22%3A%22informations%22%2C%22chapter2%22%3A%22%22%2C%22chapter3%22%3A%22%22%2C%22%24%22%3A%22accueil%22%7D%7D%7D%5D&ref="
+      "url": "https://tm.urssaf.fr/tm.ur?s=617190&idclient=3ee3d9d5-6e1d-43ee-975e-190210d09fd8&vc=false&vm=exempt&ts=1727586471567&vtag=5.29.4&ptag=js&env_language=fr&n:simulateur_embarque=0&events=%5B%7B%22name%22%3A%22page.display%22%2C%22data%22%3A%7B%22page%22%3A%7B%22chapter1%22%3A%22informations%22%2C%22chapter2%22%3A%22%22%2C%22chapter3%22%3A%22%22%2C%22%24%22%3A%22accueil%22%7D%7D%7D%5D&ref="
     }
   ],
-  "cookies": [
-    {
-      "name": "atauthority",
-      "value": "%7B%22name%22%3A%22atauthority%22%2C%22val%22%3A%7B%22authority_name%22%3A%22cnil%22%2C%22visitor_mode%22%3A%22exempt%22%7D%2C%22options%22%3A%7B%22end%22%3A%222025-10-24T05%3A01%3A23.821Z%22%2C%22path%22%3A%22%2F%22%7D%7D",
-      "domain": ".urssaf.fr",
-      "path": "/",
-      "expires": 1761282083,
-      "size": 233,
-      "httpOnly": false,
-      "secure": true,
-      "session": false,
-      "sameParty": false,
-      "sourceScheme": "Secure",
-      "sourcePort": 443
-    },
-    {
-      "name": "atuserid",
-      "value": "%7B%22name%22%3A%22atuserid%22%2C%22val%22%3A%223aca8ce2-8858-452d-a84e-474313eacd0f%22%2C%22options%22%3A%7B%22end%22%3A%222025-10-24T05%3A01%3A23.818Z%22%2C%22path%22%3A%22%2F%22%7D%7D",
-      "domain": ".urssaf.fr",
-      "path": "/",
-      "expires": 1761282083,
-      "size": 194,
-      "httpOnly": false,
-      "secure": true,
-      "session": false,
-      "sameParty": false,
-      "sourceScheme": "Secure",
-      "sourcePort": 443
-    }
-  ],
+  "cookies": [],
   "headers": {
     "accept-ranges": "bytes",
-    "age": "0",
+    "age": "2253",
     "cache-control": "public,max-age=0,must-revalidate",
-    "cache-status": "\"Netlify Edge\"; fwd=stale",
+    "cache-status": "\"Netlify Edge\"; hit",
     "content-encoding": "br",
+    "content-length": "10902",
     "content-security-policy": "default-src 'self' mon-entreprise.fr; style-src 'self' 'unsafe-inline'; connect-src 'self' *.incubateur.net raw.githubusercontent.com github.com tm.urssaf.fr recherche-entreprises.api.gouv.fr api.recherche-entreprises.fabrique.social.gouv.fr geo.api.gouv.fr *.algolia.net *.algolianet.com polyfill.io jedonnemonavis.numerique.gouv.fr user-images.githubusercontent.com; form-action 'self' *.sibforms.com *.incubateur.net; script-src 'self' 'unsafe-inline' 'unsafe-eval' tm.urssaf.fr *.incubateur.net stonly.com code.jquery.com polyfill.io; img-src 'self' data: mon-entreprise.urssaf.fr tm.urssaf.fr user-images.githubusercontent.com github.com *.s3.amazonaws.com jedonnemonavis.numerique.gouv.fr; frame-src 'self' https://www.youtube-nocookie.com https://codesandbox.io https://place-des-entreprises.beta.gouv.fr https://reso-staging.osc-fr1.scalingo.io https://stackblitz.com https://conseillers-entreprises.service-public.fr",
     "content-type": "text/html; charset=UTF-8",
-    "date": "Sun, 22 Sep 2024 05:01:22 GMT",
-    "etag": "\"e85b0cf0a781c7d46058465aaf6e7841-ssl-df\"",
+    "date": "Sun, 29 Sep 2024 05:07:50 GMT",
+    "etag": "\"c8e1a8bb600b3449f7d6a82da6662917-ssl-df\"",
     "server": "Netlify",
     "strict-transport-security": "max-age=31536000",
     "vary": "Accept-Encoding",
-    "x-nf-request-id": "01J8C1P6WF4PF6MZJVQJ85RS7G"
+    "x-nf-request-id": "01J8Y2V2G5GCT4XG51M1DBNR58"
   },
   "endpoints": [
     {
       "hostname": "mon-entreprise.urssaf.fr",
-      "ip": "52.9.166.110",
+      "ip": "35.169.59.174",
       "geoip": {
         "city": {
-          "geoname_id": 5392171,
+          "geoname_id": 4744870,
           "names": {
-            "de": "San José",
-            "en": "San Jose",
-            "es": "San José",
-            "fr": "San José",
-            "ja": "サンノゼ",
-            "pt-BR": "San José",
-            "ru": "Сан-Хосе"
+            "de": "Ashburn",
+            "en": "Ashburn",
+            "es": "Ashburn",
+            "fr": "Ashburn",
+            "ja": "アッシュバーン",
+            "pt-BR": "Ashburn",
+            "ru": "Ашберн",
+            "zh-CN": "阿什本"
           }
         },
         "continent": {
@@ -97,13 +70,13 @@
         },
         "location": {
           "accuracy_radius": 1000,
-          "latitude": 37.1835,
-          "longitude": -121.7714,
-          "metro_code": 807,
-          "time_zone": "America/Los_Angeles"
+          "latitude": 39.0469,
+          "longitude": -77.4903,
+          "metro_code": 511,
+          "time_zone": "America/New_York"
         },
         "postal": {
-          "code": "95141"
+          "code": "20149"
         },
         "registered_country": {
           "geoname_id": 6252001,
@@ -121,17 +94,17 @@
         },
         "subdivisions": [
           {
-            "geoname_id": 5332921,
-            "iso_code": "CA",
+            "geoname_id": 6254928,
+            "iso_code": "VA",
             "names": {
-              "de": "Kalifornien",
-              "en": "California",
-              "es": "California",
-              "fr": "Californie",
-              "ja": "カリフォルニア州",
-              "pt-BR": "Califórnia",
-              "ru": "Калифорния",
-              "zh-CN": "加州"
+              "de": "Virginia",
+              "en": "Virginia",
+              "es": "Virginia",
+              "fr": "Virginie",
+              "ja": "バージニア州",
+              "pt-BR": "Virgínia",
+              "ru": "Вирджиния",
+              "zh-CN": "弗吉尼亚州"
             }
           }
         ]
@@ -139,7 +112,7 @@
     },
     {
       "hostname": "tm.urssaf.fr",
-      "ip": "108.139.10.103",
+      "ip": "99.84.191.47",
       "geoip": {
         "continent": {
           "code": "NA",
