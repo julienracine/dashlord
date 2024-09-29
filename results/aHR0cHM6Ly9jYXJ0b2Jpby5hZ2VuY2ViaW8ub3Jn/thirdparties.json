@@ -1,17 +1,48 @@
 {
   "trackers": [],
-  "cookies": [],
+  "cookies": [
+    {
+      "name": "_pk_ses.10.3e0d",
+      "value": "1",
+      "domain": "cartobio.agencebio.org",
+      "path": "/",
+      "expires": 1727579455,
+      "size": 16,
+      "httpOnly": false,
+      "secure": false,
+      "session": false,
+      "sameSite": "Lax",
+      "sameParty": false,
+      "sourceScheme": "Secure",
+      "sourcePort": 443
+    },
+    {
+      "name": "_pk_id.10.3e0d",
+      "value": "4b37b31e9774f3de.1727577655.",
+      "domain": "cartobio.agencebio.org",
+      "path": "/",
+      "expires": 1761532855,
+      "size": 42,
+      "httpOnly": false,
+      "secure": false,
+      "session": false,
+      "sameSite": "Lax",
+      "sameParty": false,
+      "sourceScheme": "Secure",
+      "sourcePort": 443
+    }
+  ],
   "headers": {
     "cache-control": "no-cache",
     "cf-cache-status": "DYNAMIC",
-    "cf-ray": "8c6ee9266ae68199-IAD",
+    "cf-ray": "8ca89c731d18e257-ORD",
     "content-encoding": "br",
     "content-type": "text/html; charset=utf-8",
-    "date": "Sun, 22 Sep 2024 02:37:01 GMT",
+    "date": "Sun, 29 Sep 2024 02:40:54 GMT",
     "expires": "Thu, 01 Jan 1970 00:00:01 GMT",
     "last-modified": "Tue, 27 Aug 2024 11:43:54 GMT",
     "nel": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}",
-    "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=%2F9L5WtrzJLtKNX7V5TgLxAnLLdxMW6qZS5H5CUCvQL5Z%2Bwo%2FPDccsUsx6laLTEpGpEfEl9uyK9brn0fX7mo7iVvckb7D4mVfm%2Bx70ZQAiYign53HPfdHzw9rY9iFjaUFqkgkS%2BhF9YXc\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
+    "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=48oZf%2Bqa5%2BidiYgJEBHprcjNI8x8%2F4uNvwuH84DilkRd2oV2m2VP0LC%2FiJWZ99Mhyg5Jsfu967ZpkM3EiLBEg0mZqP1HQVBC%2B06gQn%2BfVKyfvd%2ByFK5QbRDBXpdrQ3u7ZAP7nksQG0Lw\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
     "server": "cloudflare",
     "speculation-rules": "\"/cdn-cgi/speculation\"",
     "vary": "Accept-Encoding"
@@ -19,7 +50,7 @@
   "endpoints": [
     {
       "hostname": "cartobio.agencebio.org",
-      "ip": "172.64.80.1",
+      "ip": "172.67.210.31",
       "geoip": {
         "registered_country": {
           "geoname_id": 6252001,
