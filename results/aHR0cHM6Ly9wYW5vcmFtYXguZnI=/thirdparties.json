@@ -26,7 +26,7 @@
     },
     {
       "type": "unknown",
-      "url": "https://matomo.panoramax.xyz//matomo.php?action_name=L%E2%80%99alternative%20libre%20pour%20photo-cartographier%20les%20territoires&idsite=2&rec=1&r=582653&h=12&m=43&s=6&url=https%3A%2F%2Fpanoramax.fr%2F&_id=cfd04a724c076bd8&_idn=1&send_image=0&_refts=0&pv_id=D0CUoN&pf_net=58&pf_srv=47&pf_tfr=1&pf_dm1=6&uadata=%7B%22fullVersionList%22%3A%5B%5D%2C%22mobile%22%3Afalse%2C%22model%22%3A%22%22%2C%22platform%22%3A%22%22%2C%22platformVersion%22%3A%22%22%7D&cookie=1&res=800x600"
+      "url": "https://matomo.panoramax.xyz//matomo.php?action_name=L%E2%80%99alternative%20libre%20pour%20photo-cartographier%20les%20territoires&idsite=2&rec=1&r=272791&h=13&m=0&s=55&url=https%3A%2F%2Fpanoramax.fr%2F&_id=5f5289fc55c775a7&_idn=1&send_image=0&_refts=0&pv_id=vAckCv&pf_net=74&pf_srv=56&pf_tfr=1&pf_dm1=6&uadata=%7B%22fullVersionList%22%3A%5B%5D%2C%22mobile%22%3Afalse%2C%22model%22%3A%22%22%2C%22platform%22%3A%22%22%2C%22platformVersion%22%3A%22%22%7D&cookie=1&res=800x600"
     },
     {
       "type": "unknown",
@@ -119,7 +119,7 @@
       "value": "1",
       "domain": "panoramax.fr",
       "path": "/",
-      "expires": 1727010786,
+      "expires": 1727616655,
       "size": 15,
       "httpOnly": false,
       "secure": false,
@@ -131,10 +131,10 @@
     },
     {
       "name": "_pk_id.2.8046",
-      "value": "cfd04a724c076bd8.1727008986.",
+      "value": "5f5289fc55c775a7.1727614855.",
       "domain": "panoramax.fr",
       "path": "/",
-      "expires": 1760964186,
+      "expires": 1761570055,
       "size": 41,
       "httpOnly": false,
       "secure": false,
@@ -149,9 +149,9 @@
     "cache-control": "max-age=600",
     "content-length": "1352",
     "content-type": "text/html; charset=utf-8",
-    "date": "Sun, 22 Sep 2024 12:43:04 GMT",
+    "date": "Sun, 29 Sep 2024 13:00:54 GMT",
     "etag": "\"540fb9190d25df48988843966d5fa168e20700c1b8370ee70f3dd389d9aac611\"",
-    "expires": "Sun, 22 Sep 2024 12:53:04 UTC",
+    "expires": "Sun, 29 Sep 2024 13:10:54 UTC",
     "last-modified": "Tue, 17 Sep 2024 13:35:10 GMT",
     "permissions-policy": "interest-cohort=()",
     "vary": "Origin"
