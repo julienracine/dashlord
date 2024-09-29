@@ -54,7 +54,7 @@
 <h1>Scan Report<br><small>Nmap 7.92</small>
 </h1>
 <pre style="white-space:pre-wrap; word-wrap:break-word;">nmap -sV --script vulners --script-args mincvss=5.0 -oA /data/nmapvuln mon-entreprise.urssaf.fr</pre>
-<p class="lead">Sun Sep 22 05:03:03 2024 – Sun Sep 22 05:04:45 2024<br>1 hosts scanned.
+<p class="lead">Sun Sep 29 05:09:30 2024 – Sun Sep 29 05:11:12 2024<br>1 hosts scanned.
               1 hosts up.
               0 hosts down.
             </p>
@@ -76,7 +76,7 @@
 </tr></thead>
 <tbody><tr>
 <td><span class="label label-success">up</span></td>
-<td>50.18.215.94</td>
+<td>44.219.53.183</td>
 <td>mon-entreprise.urssaf.fr</td>
 <td>2</td>
 <td>0</td>
@@ -91,12 +91,12 @@
             });
           </script><h2 id="onlinehosts" class="target">Online Hosts</h2>
 <div class="panel panel-default">
-<div class="panel-heading clickable" data-toggle="collapse" data-target="#50-18-215-94"><h3 class="panel-title">50.18.215.94 - mon-entreprise.urssaf.fr</h3></div>
-<div class="panel-body collapse in" id="50-18-215-94">
+<div class="panel-heading clickable" data-toggle="collapse" data-target="#44-219-53-183"><h3 class="panel-title">44.219.53.183 - mon-entreprise.urssaf.fr</h3></div>
+<div class="panel-body collapse in" id="44-219-53-183">
 <h4>Hostnames</h4>
 <ul>
 <li>mon-entreprise.urssaf.fr (user)</li>
-<li>ec2-50-18-215-94.us-west-1.compute.amazonaws.com (PTR)</li>
+<li>ec2-44-219-53-183.compute-1.amazonaws.com (PTR)</li>
 </ul>
 <h4>Ports</h4>
 <div class="table-responsive"><table class="table table-bordered">
@@ -124,28 +124,28 @@
 <pre style="white-space:pre-wrap; word-wrap:break-word;">Netlify</pre>
 <h5>fingerprint-strings</h5>
 <pre style="white-space:pre-wrap; word-wrap:break-word;">
-  DNSStatusRequestTCP, DNSVersionBindReqTCP, GenericLines, Help, RPCCheck, RTSPRequest, SSLSessionReq, TLSSessionReq, TerminalServerCookie: 
+  FourOhFourRequest: 
+    HTTP/1.0 400 Bad Request
+    Date: Sun, 29 Sep 2024 05:09:45 GMT
+    Server: Netlify
+    X-Nf-Request-Id: 01J8Y2YJENBW71W5GQ0JS4B6AS
+    Content-Length: 0
+  GenericLines, Help, Kerberos, LDAPSearchReq, LPDString, RTSPRequest, SSLSessionReq, TLSSessionReq, TerminalServerCookie: 
     HTTP/1.1 400 Bad Request
     Content-Type: text/plain; charset=utf-8
     Connection: close
     Request
-  FourOhFourRequest: 
-    HTTP/1.0 400 Bad Request
-    Date: Sun, 22 Sep 2024 05:03:18 GMT
-    Server: Netlify
-    X-Nf-Request-Id: 01J8C1SQSJ4KWRW9134JG89JK4
-    Content-Length: 0
   GetRequest: 
     HTTP/1.0 400 Bad Request
-    Date: Sun, 22 Sep 2024 05:03:13 GMT
+    Date: Sun, 29 Sep 2024 05:09:39 GMT
     Server: Netlify
-    X-Nf-Request-Id: 01J8C1SJWQFY3KJXA9830J8R1K
+    X-Nf-Request-Id: 01J8Y2YDGRDECYE3GDJ1AF3B9R
     Content-Length: 0
   HTTPOptions: 
     HTTP/1.0 400 Bad Request
-    Date: Sun, 22 Sep 2024 05:03:13 GMT
+    Date: Sun, 29 Sep 2024 05:09:40 GMT
     Server: Netlify
-    X-Nf-Request-Id: 01J8C1SJWX906WJRXH5JE0C3CH
+    X-Nf-Request-Id: 01J8Y2YDH892XQG90RWPWVC17N
     Content-Length: 0</pre>
 </td></tr>
 <tr class="success">
@@ -164,9 +164,9 @@
 <pre style="white-space:pre-wrap; word-wrap:break-word;">
   FourOhFourRequest: 
     HTTP/1.0 400 Bad Request
-    Date: Sun, 22 Sep 2024 05:03:18 GMT
+    Date: Sun, 29 Sep 2024 05:09:45 GMT
     Server: Netlify
-    X-Nf-Request-Id: 01J8C1SQY926H7ZASS519YMNBF
+    X-Nf-Request-Id: 01J8Y2YJMFFPGNXB3Y97Z4PWX3
     Content-Length: 0
   GenericLines, Help, Kerberos, LDAPSearchReq, LPDString, RTSPRequest, SSLSessionReq, TLSSessionReq, TerminalServerCookie: 
     HTTP/1.1 400 Bad Request
@@ -175,15 +175,15 @@
     Request
   GetRequest: 
     HTTP/1.0 400 Bad Request
-    Date: Sun, 22 Sep 2024 05:03:18 GMT
+    Date: Sun, 29 Sep 2024 05:09:45 GMT
     Server: Netlify
-    X-Nf-Request-Id: 01J8C1SQV0GY7E2NJ9VMTGAADC
+    X-Nf-Request-Id: 01J8Y2YJFZHTW0NMB049DZ5ASX
     Content-Length: 0
   HTTPOptions: 
     HTTP/1.0 400 Bad Request
-    Date: Sun, 22 Sep 2024 05:03:18 GMT
+    Date: Sun, 29 Sep 2024 05:09:45 GMT
     Server: Netlify
-    X-Nf-Request-Id: 01J8C1SQWNTT0X6YDTK3NZ754D
+    X-Nf-Request-Id: 01J8Y2YJJ5MBFFEVX9HK5N5PFA
     Content-Length: 0</pre>
 </td></tr>
 </tbody>
@@ -204,7 +204,7 @@
 </tr></thead>
 <tbody>
 <tr>
-<td>50.18.215.94 - mon-entreprise.urssaf.fr</td>
+<td>44.219.53.183 - mon-entreprise.urssaf.fr</td>
 <td>80</td>
 <td>tcp</td>
 <td>http</td>
@@ -214,7 +214,7 @@
 <td></td>
 </tr>
 <tr>
-<td>50.18.215.94 - mon-entreprise.urssaf.fr</td>
+<td>44.219.53.183 - mon-entreprise.urssaf.fr</td>
 <td>443</td>
 <td>tcp</td>
 <td>https</td>
