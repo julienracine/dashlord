@@ -1,4 +1,2 @@
-# Nmap 7.92 scan initiated Sun Sep 22 12:36:31 2024 as: nmap -sV --script vulners --script-args mincvss=5.0 -oA /data/nmapvuln element.preprod.eimis.incubateur.net
-Host: 37.59.26.93 ()	Status: Up
-Host: 37.59.26.93 ()	Ports: 80/closed/tcp//http///, 443/closed/tcp//https///, 1025/closed/tcp//NFS-or-IIS///, 1026/closed/tcp//LSA-or-nterm///	Ignored State: filtered (996)
-# Nmap done at Sun Sep 22 12:36:42 2024 -- 1 IP address (1 host up) scanned in 10.78 seconds
+# Nmap 7.92 scan initiated Sun Sep 29 12:51:39 2024 as: nmap -sV --script vulners --script-args mincvss=5.0 -oA /data/nmapvuln element.preprod.eimis.incubateur.net
+# Nmap done at Sun Sep 29 12:51:39 2024 -- 0 IP addresses (0 hosts up) scanned in 0.27 seconds
