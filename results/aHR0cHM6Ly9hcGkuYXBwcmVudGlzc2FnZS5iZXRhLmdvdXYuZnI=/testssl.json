@@ -360,7 +360,7 @@
               "ip"           : "api.apprentissage.beta.gouv.fr/54.38.65.110",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "70 >= 30 days"
+              "finding"      : "63 >= 30 days"
           }
 ,         {
               "id"           : "cert_notBefore",
@@ -507,7 +507,7 @@
               "ip"           : "api.apprentissage.beta.gouv.fr/54.38.65.110",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "200 OK ('/')"
+              "finding"      : "307 Temporary Redirect ('/')"
           }
 ,         {
               "id"           : "HTTP_clock_skew",
@@ -521,7 +521,7 @@
               "ip"           : "api.apprentissage.beta.gouv.fr/54.38.65.110",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1726970351"
+              "finding"      : "1727575313"
           }
 ,         {
               "id"           : "HSTS_time",
@@ -570,7 +570,7 @@
               "ip"           : "api.apprentissage.beta.gouv.fr/54.38.65.110",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "0 at '/'"
+              "finding"      : "0 at '/' (30x detected, better try target URL of 30x)"
           }
 ,         {
               "id"           : "X-Frame-Options",
@@ -587,25 +587,11 @@
               "finding"      : "nosniff"
           }
 ,         {
-              "id"           : "Content-Security-Policy",
-              "ip"           : "api.apprentissage.beta.gouv.fr/54.38.65.110",
-              "port"         : "443",
-              "severity"     : "OK",
-              "finding"      : "default-src 'self' https://plausible.io; base-uri 'self'; block-all-mixed-content; font-src 'self' https: data:; frame-ancestors 'self'; frame-src 'self' https://plausible.io; img-src 'self' https://www.notion.so data: ; object-src 'none'; script-src 'self' https://plausible.io 'unsafe-inline' ; script-src-attr 'none'; style-src 'self' https: https: *.plausible.io 'unsafe-inline'; connect-src 'self' https://geo.api.gouv.fr/ https://plausible.io https://sentry.apprentissage.beta.gouv.fr ; upgrade-insecure-requests; worker-src 'self' 'nonce-ZWJiZjY3MTItNzUzNy00MjViLWIzNzAtMDRjM2RiZjZhYzNi' 'strict-dynamic';"
-          }
-,         {
               "id"           : "Referrer-Policy",
               "ip"           : "api.apprentissage.beta.gouv.fr/54.38.65.110",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "no-referrer-when-downgrade"
-          }
-,         {
-              "id"           : "Cache-Control",
-              "ip"           : "api.apprentissage.beta.gouv.fr/54.38.65.110",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "private, no-cache, no-store, max-age=0, must-revalidate"
           }
 ,         {
               "id"           : "banner_reverseproxy",
@@ -681,10 +667,10 @@
               "id"           : "BREACH",
               "ip"           : "api.apprentissage.beta.gouv.fr/54.38.65.110",
               "port"         : "443",
-              "severity"     : "MEDIUM",
+              "severity"     : "OK",
               "cve"          : "CVE-2013-3587",
               "cwe"          : "CWE-310",
-              "finding"      : "potentially VULNERABLE, gzip deflate HTTP compression detected  - only supplied '/' tested"
+              "finding"      : "not vulnerable, no gzip/deflate/compress/br HTTP compression  - only supplied '/' tested"
           }
 ,         {
               "id"           : "POODLE_SSL",
@@ -1112,6 +1098,6 @@
               "ip"           : "api.apprentissage.beta.gouv.fr/54.38.65.110",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "52"
+              "finding"      : "95"
           }
 ]

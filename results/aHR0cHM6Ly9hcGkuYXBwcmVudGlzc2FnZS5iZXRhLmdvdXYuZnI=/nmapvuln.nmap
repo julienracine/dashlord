@@ -1,6 +1,6 @@
-# Nmap 7.92 scan initiated Sun Sep 22 01:59:41 2024 as: nmap -sV --script vulners --script-args mincvss=5.0 -oA /data/nmapvuln api.apprentissage.beta.gouv.fr
+# Nmap 7.92 scan initiated Sun Sep 29 02:02:33 2024 as: nmap -sV --script vulners --script-args mincvss=5.0 -oA /data/nmapvuln api.apprentissage.beta.gouv.fr
 Nmap scan report for api.apprentissage.beta.gouv.fr (54.38.65.110)
-Host is up (0.083s latency).
+Host is up (0.15s latency).
 rDNS record for 54.38.65.110: vps-13a387f1.vps.ovh.net
 Not shown: 997 filtered tcp ports (no-response)
 PORT    STATE SERVICE  VERSION
@@ -99,7 +99,8 @@ PORT    STATE SERVICE  VERSION
 |_    	39E70D1A-F5D8-59D5-A0CF-E73D9BAA3118	0.0	https://vulners.com/githubexploit/39E70D1A-F5D8-59D5-A0CF-E73D9BAA3118	*EXPLOIT*
 80/tcp  open  http     nginx (reverse proxy)
 443/tcp open  ssl/http nginx (reverse proxy)
+|_http-trane-info: Problem with XML parsing of /evox/about
 Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
 
 Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
-# Nmap done at Sun Sep 22 02:00:12 2024 -- 1 IP address (1 host up) scanned in 30.90 seconds
+# Nmap done at Sun Sep 29 02:03:13 2024 -- 1 IP address (1 host up) scanned in 40.59 seconds
