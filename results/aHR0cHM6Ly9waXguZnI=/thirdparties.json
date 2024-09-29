@@ -22,7 +22,7 @@
     },
     {
       "type": "unknown",
-      "url": "https://analytics.pix.fr/piwik.php?action_name=%2F&idsite=1&rec=1&r=723246&h=5&m=53&s=28&url=https%3A%2F%2Fpix.fr%2F&_id=d1e92c438359eca2&_idn=1&send_image=0&_refts=0&cookie=1&res=800x600&pv_id=iePbLm&pf_net=0&pf_srv=92&pf_tfr=62&pf_dm1=233&pf_dm2=342&pf_onl=0"
+      "url": "https://analytics.pix.fr/piwik.php?action_name=%2F&idsite=1&rec=1&r=779690&h=6&m=1&s=1&url=https%3A%2F%2Fpix.fr%2F&_id=8086710455bdfbe2&_idn=1&send_image=0&_refts=0&cookie=1&res=800x600&pv_id=GpOwY0&pf_net=0&pf_srv=95&pf_tfr=69&pf_dm1=229&pf_dm2=396&pf_onl=0"
     }
   ],
   "cookies": [
@@ -42,10 +42,10 @@
     },
     {
       "name": "challenge",
-      "value": "OrJnFulThd51IoOBsI_inZ1Dzp7CQJM7xRBVWgp7p_PXrX2Cy_XyJd_7hBd6xv6xrYcO2ieIqyj9oQxYib2eG1Dibudfshw8DjF-f_6m2e-tcf3ejZ-PR5AL0ie4Ci5nvKw_fmIjBFZr1SMGEUg6hdACWL-UAXLzvObBcCCOur5XDjACST4OoM4g4_Dp3XVu9j8aTEebCRqv2mrwoz7X00JQ2jd_QNV-luQ4BbESeZKTJDbGGynkjOIcIafNdZ35",
+      "value": "UbGJQdEiThQ1UBhJrrswU9GeB5LyHG8OU0Y57tvTkjZNJoXBO9jD6cTFMz29g75eMFQYcnB-iaYKybs4RquNKQ9WFea7NHnfmbY9AqS4UmFS9gfIHbIGHNlrGlin93EPZvHHF0QGjQ6GvqBDAMUqdEtaNmoWnmFC1uUWqx6OgZQrdde7uSZeBIT1XP-80ZrDvYizVDPsMEt8FbCiDR30dPHJEuFJdVrcjguAQgDNhE-72JqZxgNn4GDr7Dj4oP54",
       "domain": ".pix.fr",
       "path": "/",
-      "expires": 1726988007.427946,
+      "expires": 1727593261.006973,
       "size": 265,
       "httpOnly": false,
       "secure": false,
@@ -60,16 +60,16 @@
     "age": "0",
     "content-encoding": "gzip",
     "content-type": "text/html; charset=utf-8",
-    "date": "Sun, 22 Sep 2024 05:53:27 GMT",
-    "etag": "W/\"66ed36e8-2151d\"",
-    "last-modified": "Fri, 20 Sep 2024 08:48:40 GMT",
+    "date": "Sun, 29 Sep 2024 06:01:01 GMT",
+    "etag": "W/\"66f6bffb-214c3\"",
+    "last-modified": "Fri, 27 Sep 2024 14:23:55 GMT",
     "referrer-policy": "origin-when-cross-origin",
     "strict-transport-security": "max-age=31536000",
     "vary": "Accept-Encoding",
     "x-content-type-options": "nosniff",
     "x-frame-options": "DENY",
-    "x-request-id": "6d0cd0440ab326fa41ad5e051ab7553f",
-    "x-varnish": "20035364",
+    "x-request-id": "f7b9210ce8ded3c8c6e180b58765254a",
+    "x-varnish": "24095667",
     "x-xss-protection": "1; mode=block"
   },
   "endpoints": [
@@ -131,7 +131,7 @@
     },
     {
       "hostname": "fonts.googleapis.com",
-      "ip": "142.251.167.95",
+      "ip": "172.253.63.95",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -282,7 +282,7 @@
     },
     {
       "hostname": "static.cdn.prismic.io",
-      "ip": "99.84.191.33",
+      "ip": "99.84.191.5",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -336,7 +336,7 @@
     },
     {
       "hostname": "pix-site.prismic.io",
-      "ip": "54.85.155.204",
+      "ip": "34.199.21.233",
       "geoip": {
         "city": {
           "geoname_id": 4744870,
