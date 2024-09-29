@@ -62,7 +62,7 @@
     },
     {
       "type": "google",
-      "url": "https://www.google.com/recaptcha/api2/anchor?ar=1&k=6LdQAK0ZAAAAABAW9T4lfAtxrJp9DtnPYIZ7Qd7p&co=aHR0cHM6Ly9wYXNzY3VsdHVyZS5wcm86NDQz&hl=en&v=EGbODne6buzpTnWrrBprcfAY&size=invisible&cb=5l2nc6qobp3t",
+      "url": "https://www.google.com/recaptcha/api2/anchor?ar=1&k=6LdQAK0ZAAAAABAW9T4lfAtxrJp9DtnPYIZ7Qd7p&co=aHR0cHM6Ly9wYXNzY3VsdHVyZS5wcm86NDQz&hl=en&v=EGbODne6buzpTnWrrBprcfAY&size=invisible&cb=xd8m4ehlc9nu",
       "details": {
         "id": "google",
         "message": "Use hosted Matomo instance"
@@ -86,7 +86,7 @@
     },
     {
       "type": "google",
-      "url": "https://www.google.com/js/bg/iEboSLOEGWLfUwE4vWMJoC4GcDs_D5t26QLNgGwKBCM.js",
+      "url": "https://www.google.com/js/bg/dubcxWuhhbqw8uaLSFFGvELnk5WmffD3wjoYeQZ33gk.js",
       "details": {
         "id": "google",
         "message": "Use hosted Matomo instance"
@@ -147,19 +147,19 @@
     "alt-svc": "h3=\":443\";ma=86400,h3-29=\":443\";ma=86400,h3-27=\":443\";ma=86400\nh3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
     "cache-control": "max-age=3600",
     "content-encoding": "br",
-    "content-length": "606",
+    "content-length": "610",
     "content-security-policy-report-only": "style-src 'self' https://app.getbeamer.com 'unsafe-inline'; img-src 'self' blob: data: https://*.getbeamer.com https://storage.googleapis.com https://www.googletagmanager.com; object-src 'none'; frame-src https://*.getbeamer.com https://www.google.com https://data-analytics.passculture.team; script-src 'self' 'nonce-recaptcha' https://www.gstatic.com https://*.getbeamer.com https://*.hotjar.com https://www.googletagmanager.com https://firebaseinstallations.googleapis.com https://firebaseremoteconfig.googleapis.com https://api-adresse.data.gouv.fr https://*.hotjar.io; connect-src 'self' https://*.algolianet.com https://www.googletagmanager.com https://www.google-analytics.com wss://ws.hotjar.com https://*.hotjar.com https://*.hotjar.io https://api-adresse.data.gouv.fr https://storage.googleapis.com https://backend.getbeamer.com https://firebaseremoteconfig.googleapis.com https://firebase.googleapis.com https://firebaseinstallations.googleapis.com https://sentry.passculture.team https://backend.integration.passculture.pro https://backend.testing.passculture.team https://backend.staging.passculture.team https://backend.passculture.pro https://region1.google-analytics.com https://*.algolia.net https://insights.algolia.io; base-uri; report-uri https://sentry.passculture.team/api/2/security/?sentry_key=50f5694849704813b4154c5868b73365;",
     "content-type": "text/html; charset=utf-8",
-    "date": "Sun, 22 Sep 2024 05:46:08 GMT",
-    "etag": "\"a91b773d05746f319e0db628157a794d9a873a9a3140712ed83c985f63272ddc-br\"",
-    "last-modified": "Fri, 20 Sep 2024 12:40:38 GMT",
+    "date": "Sun, 29 Sep 2024 05:55:07 GMT",
+    "etag": "\"ccf1eb785e7f5ee49b6f1f9bfe978e4288407204c34f83a73a0dfc30c7c3a335-br\"",
+    "last-modified": "Fri, 27 Sep 2024 12:31:40 GMT",
     "strict-transport-security": "max-age=31556926; includeSubDomains; preload",
     "vary": "x-fh-requested-host, accept-encoding",
     "via": "1.1 google",
     "x-cache": "HIT",
-    "x-cache-hits": "0",
-    "x-served-by": "cache-lax-kwhp1940033-LAX",
-    "x-timer": "S1726983969.756562,VS0,VE1"
+    "x-cache-hits": "1",
+    "x-served-by": "cache-iad-kcgs7200157-IAD",
+    "x-timer": "S1727589308.524072,VS0,VE1"
   },
   "endpoints": [
     {
@@ -250,7 +250,7 @@
     },
     {
       "hostname": "fonts.gstatic.com",
-      "ip": "142.250.176.3",
+      "ip": "142.251.167.94",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -390,7 +390,7 @@
     },
     {
       "hostname": "www.google.com",
-      "ip": "142.250.68.36",
+      "ip": "172.253.62.103",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -444,7 +444,7 @@
     },
     {
       "hostname": "www.gstatic.com",
-      "ip": "142.250.176.3",
+      "ip": "142.251.16.94",
       "geoip": {
         "continent": {
           "code": "NA",
