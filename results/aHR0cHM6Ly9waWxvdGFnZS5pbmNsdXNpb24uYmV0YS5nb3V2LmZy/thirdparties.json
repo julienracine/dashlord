@@ -38,7 +38,7 @@
     },
     {
       "type": "unknown",
-      "url": "https://cdn.livestorm.co/dist/css/chunk-style.21f02550.css"
+      "url": "https://cdn.livestorm.co/dist/css/chunk-style.84ae544a.css"
     },
     {
       "type": "unknown",
@@ -46,19 +46,19 @@
     },
     {
       "type": "unknown",
-      "url": "https://cdn.livestorm.co/dist/css/company.c85fda1b.css"
+      "url": "https://cdn.livestorm.co/dist/css/company.19dd717f.css"
     },
     {
       "type": "unknown",
-      "url": "https://cdn.livestorm.co/dist/js/chunk-style.ae24af0c.js"
+      "url": "https://cdn.livestorm.co/dist/js/chunk-style.79e7def3.js"
     },
     {
       "type": "unknown",
-      "url": "https://cdn.livestorm.co/dist/js/chunk-vendors.53a8a79a.js"
+      "url": "https://cdn.livestorm.co/dist/js/chunk-vendors.159b5471.js"
     },
     {
       "type": "unknown",
-      "url": "https://cdn.livestorm.co/dist/js/chunk-vendors-group-registration.a9226be9.js"
+      "url": "https://cdn.livestorm.co/dist/js/chunk-vendors-group-registration.7e59d44f.js"
     },
     {
       "type": "unknown",
@@ -66,15 +66,15 @@
     },
     {
       "type": "unknown",
-      "url": "https://cdn.livestorm.co/dist/js/chunk-common.9a232c7a.js"
+      "url": "https://cdn.livestorm.co/dist/js/chunk-common.909dee70.js"
     },
     {
       "type": "unknown",
-      "url": "https://cdn.livestorm.co/dist/js/runtime-company.fee2be6d.js"
+      "url": "https://cdn.livestorm.co/dist/js/runtime-company.1aa6c3ac.js"
     },
     {
       "type": "unknown",
-      "url": "https://cdn.livestorm.co/dist/js/company.a4e60037.js"
+      "url": "https://cdn.livestorm.co/dist/js/company.1052867e.js"
     },
     {
       "type": "google fonts",
@@ -90,7 +90,15 @@
     },
     {
       "type": "unknown",
-      "url": "https://cdn.livestorm.co/dist/js/chunk-locale-en.a57c10b3.js"
+      "url": "https://cdn.livestorm.co/dist/js/chunk-locale-en.d71b4e17.js"
+    },
+    {
+      "type": "unknown",
+      "url": "https://cdn.livestorm.co/uploads/identity/avatar/f7d2e066-3d66-471e-818a-d7099e4d3dea/size_120x120_48b51e75-d945-42aa-9c9b-ca99f220ba90.jpeg?v=1594201471"
+    },
+    {
+      "type": "unknown",
+      "url": "https://cdn.livestorm.co/dist/img/chevron-down-dark.8668fd32.svg"
     },
     {
       "type": "unknown",
@@ -118,7 +126,7 @@
     },
     {
       "type": "unknown",
-      "url": "https://cdn.livestorm.co/dist/js/84025.392ac1dd.js"
+      "url": "https://cdn.livestorm.co/dist/js/84025.3244fada.js"
     },
     {
       "type": "unknown",
@@ -144,10 +152,10 @@
   "cookies": [
     {
       "name": "csrftoken",
-      "value": "8eSCB9YL4Rgpzi3OkCbRa3EBoSFPO6jC",
+      "value": "orf8bNsEE2xKw4UxAhfR8R6jaUDrCte9",
       "domain": "pilotage.inclusion.beta.gouv.fr",
       "path": "/",
-      "expires": 1758433935.970296,
+      "expires": 1759039133.102042,
       "size": 41,
       "httpOnly": false,
       "secure": true,
@@ -163,10 +171,10 @@
     "content-length": "54300",
     "content-type": "text/html; charset=utf-8",
     "cross-origin-opener-policy": "same-origin",
-    "date": "Sun, 22 Sep 2024 05:52:15 GMT",
+    "date": "Sun, 29 Sep 2024 05:58:53 GMT",
     "referrer-policy": "same-origin",
-    "set-cookie": "csrftoken=8eSCB9YL4Rgpzi3OkCbRa3EBoSFPO6jC; expires=Sun, 21 Sep 2025 05:52:15 GMT; Max-Age=31449600; Path=/; SameSite=Lax; Secure",
-    "sozu-id": "01J8C4KCAQ3RMWJZG04Y3TRJJK",
+    "set-cookie": "csrftoken=orf8bNsEE2xKw4UxAhfR8R6jaUDrCte9; expires=Sun, 28 Sep 2025 05:58:53 GMT; Max-Age=31449600; Path=/; SameSite=Lax; Secure",
+    "sozu-id": "01J8Y5RH5TSV1XWBMNCH534V6N",
     "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
     "vary": "Cookie",
     "x-content-type-options": "nosniff",
@@ -175,7 +183,7 @@
   "endpoints": [
     {
       "hostname": "pilotage.inclusion.beta.gouv.fr",
-      "ip": "91.208.207.222",
+      "ip": "91.208.207.223",
       "geoip": {
         "continent": {
           "code": "EU",
@@ -231,7 +239,7 @@
     },
     {
       "hostname": "app.livestorm.co",
-      "ip": "54.155.223.238",
+      "ip": "52.51.74.43",
       "geoip": {
         "city": {
           "geoname_id": 2964574,
@@ -314,59 +322,8 @@
     },
     {
       "hostname": "cdn.jsdelivr.net",
-      "ip": "146.75.77.229",
+      "ip": "104.18.186.31",
       "geoip": {
-        "city": {
-          "geoname_id": 4887398,
-          "names": {
-            "de": "Chicago",
-            "en": "Chicago",
-            "es": "Chicago",
-            "fr": "Chicago",
-            "ja": "シカゴ",
-            "pt-BR": "Chicago",
-            "ru": "Чикаго",
-            "zh-CN": "芝加哥"
-          }
-        },
-        "continent": {
-          "code": "NA",
-          "geoname_id": 6255149,
-          "names": {
-            "de": "Nordamerika",
-            "en": "North America",
-            "es": "Norteamérica",
-            "fr": "Amérique du Nord",
-            "ja": "北アメリカ",
-            "pt-BR": "América do Norte",
-            "ru": "Северная Америка",
-            "zh-CN": "北美洲"
-          }
-        },
-        "country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
-          "names": {
-            "de": "USA",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
-          }
-        },
-        "location": {
-          "accuracy_radius": 20,
-          "latitude": 41.8874,
-          "longitude": -87.6318,
-          "metro_code": 602,
-          "time_zone": "America/Chicago"
-        },
-        "postal": {
-          "code": "60602"
-        },
         "registered_country": {
           "geoname_id": 6252001,
           "iso_code": "US",
@@ -380,28 +337,12 @@
             "ru": "США",
             "zh-CN": "美国"
           }
-        },
-        "subdivisions": [
-          {
-            "geoname_id": 4896861,
-            "iso_code": "IL",
-            "names": {
-              "de": "Illinois",
-              "en": "Illinois",
-              "es": "Illinois",
-              "fr": "Illinois",
-              "ja": "イリノイ州",
-              "pt-BR": "Ilinóis",
-              "ru": "Иллинойс",
-              "zh-CN": "伊利诺伊州"
-            }
-          }
-        ]
+        }
       }
     },
     {
       "hostname": "fonts.googleapis.com",
-      "ip": "142.250.190.10",
+      "ip": "142.250.191.74",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -455,7 +396,7 @@
     },
     {
       "hostname": "cdn.livestorm.co",
-      "ip": "52.85.247.94",
+      "ip": "65.8.161.31",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -486,7 +427,7 @@
           }
         },
         "location": {
-          "accuracy_radius": 1000,
+          "accuracy_radius": 200,
           "latitude": 37.751,
           "longitude": -97.822,
           "time_zone": "America/Chicago"
@@ -509,7 +450,7 @@
     },
     {
       "hostname": "fonts.gstatic.com",
-      "ip": "142.250.190.35",
+      "ip": "142.251.32.35",
       "geoip": {
         "continent": {
           "code": "NA",
