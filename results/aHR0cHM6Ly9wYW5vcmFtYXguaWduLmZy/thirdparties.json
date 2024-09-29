@@ -10,7 +10,7 @@
     },
     {
       "type": "unknown",
-      "url": "https://matomo.panoramax.xyz//matomo.php?action_name=Panoramax%20IGN%20%3A%20photo-cartographier%20les%20territoires&idsite=4&rec=1&r=659217&h=12&m=48&s=15&url=https%3A%2F%2Fpanoramax.ign.fr%2F&_id=33a077e3e8a712fe&_idn=1&send_image=0&_refts=0&pv_id=vejEcO&pf_net=188&pf_srv=98&pf_tfr=1&pf_dm1=7&pf_dm2=790&pf_onl=0&uadata=%7B%22fullVersionList%22%3A%5B%5D%2C%22mobile%22%3Afalse%2C%22model%22%3A%22%22%2C%22platform%22%3A%22%22%2C%22platformVersion%22%3A%22%22%7D&cookie=1&res=800x600"
+      "url": "https://matomo.panoramax.xyz//matomo.php?action_name=Panoramax%20IGN%20%3A%20photo-cartographier%20les%20territoires&idsite=4&rec=1&r=948219&h=13&m=1&s=54&url=https%3A%2F%2Fpanoramax.ign.fr%2F&_id=e321861f1fa86c1e&_idn=1&send_image=0&_refts=0&pv_id=eaxlGg&pf_net=224&pf_srv=119&pf_tfr=1&pf_dm1=6&pf_dm2=933&pf_onl=0&uadata=%7B%22fullVersionList%22%3A%5B%5D%2C%22mobile%22%3Afalse%2C%22model%22%3A%22%22%2C%22platform%22%3A%22%22%2C%22platformVersion%22%3A%22%22%7D&cookie=1&res=800x600"
     },
     {
       "type": "unknown",
@@ -26,17 +26,17 @@
     "cache-control": "public, max-age=0",
     "content-encoding": "gzip",
     "content-type": "text/html; charset=UTF-8",
-    "date": "Sun, 22 Sep 2024 12:48:14 GMT",
+    "date": "Sun, 29 Sep 2024 13:01:52 GMT",
     "etag": "W/\"56a-1915078b288\"",
     "last-modified": "Wed, 14 Aug 2024 10:39:33 GMT",
     "strict-transport-security": "max-age=31536000",
     "x-powered-by": "Express",
-    "x-request-id": "747eeb1f-0ce5-46e5-94a0-fa70dcf9962e\n747eeb1f-0ce5-46e5-94a0-fa70dcf9962e"
+    "x-request-id": "8ea353bf-c199-4486-aaf0-2997131359b0\n8ea353bf-c199-4486-aaf0-2997131359b0"
   },
   "endpoints": [
     {
       "hostname": "panoramax.ign.fr",
-      "ip": "109.232.236.90",
+      "ip": "109.232.233.130",
       "geoip": {
         "continent": {
           "code": "EU",
