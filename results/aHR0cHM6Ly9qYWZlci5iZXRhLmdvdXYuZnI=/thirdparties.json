@@ -70,7 +70,7 @@
     },
     {
       "type": "unpkg",
-      "url": "https://unpkg.com/@lottiefiles/lottie-player@2.0.4/dist/lottie-player.js",
+      "url": "https://unpkg.com/@lottiefiles/lottie-interactivity@1.6.2/dist/lottie-interactivity.min.js",
       "details": {
         "id": "unpkg",
         "message": "Host files locally"
@@ -78,11 +78,19 @@
     },
     {
       "type": "unpkg",
-      "url": "https://unpkg.com/@lottiefiles/lottie-interactivity@1.6.2/dist/lottie-interactivity.min.js",
+      "url": "https://unpkg.com/@lottiefiles/lottie-player@2.0.4/dist/lottie-player.js",
       "details": {
         "id": "unpkg",
         "message": "Host files locally"
       }
+    },
+    {
+      "type": "unknown",
+      "url": "https://s3.amazonaws.com/appforest_uf/f1678206650950x598128875872265300/Marianne-Bold.otf"
+    },
+    {
+      "type": "unknown",
+      "url": "https://s3.amazonaws.com/appforest_uf/f1678206794930x218136516585784700/Marianne-Medium.otf"
     },
     {
       "type": "unknown",
@@ -95,14 +103,6 @@
     {
       "type": "unknown",
       "url": "https://s3.amazonaws.com/appforest_uf/f1678206600203x993608576952853400/Marianne-Regular.otf"
-    },
-    {
-      "type": "unknown",
-      "url": "https://s3.amazonaws.com/appforest_uf/f1678206650950x598128875872265300/Marianne-Bold.otf"
-    },
-    {
-      "type": "unknown",
-      "url": "https://s3.amazonaws.com/appforest_uf/f1678206794930x218136516585784700/Marianne-Medium.otf"
     },
     {
       "type": "unknown",
@@ -128,7 +128,7 @@
   "cookies": [
     {
       "name": "jafer-beta-gouv_u1main",
-      "value": "1727015010847x986522146954892400",
+      "value": "1727620914346x919123448660198300",
       "domain": ".jafer.beta.gouv.fr",
       "path": "/",
       "expires": -1,
@@ -142,10 +142,10 @@
     },
     {
       "name": "jafer-beta-gouv_live_u2main.sig",
-      "value": "vxcAIKIZwMMTHj32ZcK7IKEQ8b0",
+      "value": "HY8K0BViz073i14tp6MejHT8X1s",
       "domain": ".jafer.beta.gouv.fr",
       "path": "/",
-      "expires": 1727274210.938139,
+      "expires": 1727880114.445782,
       "size": 58,
       "httpOnly": true,
       "secure": true,
@@ -156,10 +156,10 @@
     },
     {
       "name": "jafer-beta-gouv_live_u2main",
-      "value": "bus|1727015010847x986522146954892400|1727015010856x251377586165846270",
+      "value": "bus|1727620914346x919123448660198300|1727620914357x582260027286761700",
       "domain": ".jafer.beta.gouv.fr",
       "path": "/",
-      "expires": 1727274210.938015,
+      "expires": 1727880114.44559,
       "size": 96,
       "httpOnly": true,
       "secure": true,
@@ -172,18 +172,18 @@
   "headers": {
     "cache-control": "no-store",
     "cf-cache-status": "DYNAMIC",
-    "cf-ray": "8c72f40a690c728f-EWR",
+    "cf-ray": "8cacbc9b5a96c948-IAD",
     "content-encoding": "br",
     "content-security-policy": "frame-ancestors 'none';",
     "content-type": "text/html",
-    "date": "Sun, 22 Sep 2024 14:23:31 GMT",
+    "date": "Sun, 29 Sep 2024 14:41:54 GMT",
     "referrer-policy": "origin",
     "server": "cloudflare",
-    "set-cookie": "jafer-beta-gouv_u1main=1727015010847x986522146954892400; path=/; domain=jafer.beta.gouv.fr; secure",
+    "set-cookie": "jafer-beta-gouv_u1main=1727620914346x919123448660198300; path=/; domain=jafer.beta.gouv.fr; secure",
     "vary": "Accept-Encoding",
     "x-bubble-capacity-limit": "0 ms slower",
-    "x-bubble-capacity-used": "0.177 unit-seconds used",
-    "x-bubble-perf": "{\"total\":125.6,\"percents\":{\"top\":{\"bubble_cpu\":29.2,\"block\":70.3,\"capacity_rl\":0,\"other_pause\":0,\"pre_fiber\":0.5},\"sub\":{\"pp_userdb\":2.4,\"pp_wait_userdb\":0,\"http_request\":0,\"serverjson\":52.4,\"appserver_cache_misses_time\":0,\"redis\":71.1,\"fiber_queue\":2.8,\"capacity_wait\":5.4}},\"counts\":{\"pp_userdb\":1,\"http_request\":0,\"derived_build\":0,\"derived_cache_attempts\":9,\"derived_cache_memory_misses\":9,\"serverjson\":35,\"appserver_cache_attempts\":1,\"appserver_mem_cache_hits\":0,\"appserver_cache_hits\":1,\"appserver_cache_misses\":0,\"redis\":77,\"fiber_queue\":65,\"blocks\":64},\"misc\":{\"userdb_results\":0,\"userdb_data\":0,\"spent_time\":11506435}}",
+    "x-bubble-capacity-used": "0.167 unit-seconds used",
+    "x-bubble-perf": "{\"total\":111.2,\"percents\":{\"top\":{\"bubble_cpu\":35.2,\"block\":64.6,\"capacity_rl\":0,\"other_pause\":0,\"pre_fiber\":0.6},\"sub\":{\"pp_userdb\":1.8,\"pp_wait_userdb\":0,\"http_request\":0,\"serverjson\":37.2,\"appserver_cache_misses_time\":0,\"redis\":72.4,\"fiber_queue\":4.1,\"capacity_wait\":7.1}},\"counts\":{\"pp_userdb\":1,\"http_request\":0,\"derived_build\":0,\"derived_cache_attempts\":9,\"derived_cache_memory_misses\":9,\"serverjson\":35,\"appserver_cache_attempts\":1,\"appserver_mem_cache_hits\":0,\"appserver_cache_hits\":1,\"appserver_cache_misses\":0,\"redis\":73,\"fiber_queue\":90,\"blocks\":89},\"misc\":{\"userdb_results\":0,\"userdb_data\":0,\"spent_time\":10869539}}",
     "x-frame-options": "DENY",
     "x-powered-by": "Express"
   },
@@ -210,7 +210,7 @@
     },
     {
       "hostname": "eba3cd73b26da308c33fac00f2897fc9.cdn.bubble.io",
-      "ip": "104.17.123.183",
+      "ip": "104.17.124.183",
       "geoip": {
         "registered_country": {
           "geoname_id": 6252001,
@@ -230,7 +230,7 @@
     },
     {
       "hostname": "cdnjs.cloudflare.com",
-      "ip": "104.17.24.14",
+      "ip": "104.17.25.14",
       "geoip": {
         "registered_country": {
           "geoname_id": 6252001,
@@ -250,7 +250,7 @@
     },
     {
       "hostname": "d2tf8y1b8kxrzw.cloudfront.net",
-      "ip": "52.85.150.202",
+      "ip": "99.84.216.116",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -304,7 +304,7 @@
     },
     {
       "hostname": "unpkg.com",
-      "ip": "104.17.249.203",
+      "ip": "104.17.246.203",
       "geoip": {
         "registered_country": {
           "geoname_id": 6252001,
@@ -324,7 +324,7 @@
     },
     {
       "hostname": "s3.amazonaws.com",
-      "ip": "52.217.200.104",
+      "ip": "52.217.202.88",
       "geoip": {
         "city": {
           "geoname_id": 4744870,
@@ -411,7 +411,7 @@
     },
     {
       "hostname": "plst237.s3.amazonaws.com",
-      "ip": "52.217.200.97",
+      "ip": "3.5.0.201",
       "geoip": {
         "city": {
           "geoname_id": 4744870,
@@ -455,7 +455,7 @@
           }
         },
         "location": {
-          "accuracy_radius": 1000,
+          "accuracy_radius": 20,
           "latitude": 39.0469,
           "longitude": -77.4903,
           "metro_code": 511,
