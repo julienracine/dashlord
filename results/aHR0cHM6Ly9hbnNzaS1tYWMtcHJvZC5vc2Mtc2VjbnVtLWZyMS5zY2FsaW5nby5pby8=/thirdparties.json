@@ -6,7 +6,7 @@
       "value": "1",
       "domain": "anssi-mac-prod.osc-secnum-fr1.scalingo.io",
       "path": "/",
-      "expires": 1727008983,
+      "expires": 1727614699,
       "size": 17,
       "httpOnly": false,
       "secure": false,
@@ -18,10 +18,10 @@
     },
     {
       "name": "_pk_id.116.e5db",
-      "value": "d6213c8bcf3d4e9e.1727007184.",
+      "value": "0990ec0ab13b5b43.1727612899.",
       "domain": "anssi-mac-prod.osc-secnum-fr1.scalingo.io",
       "path": "/",
-      "expires": 1760962384,
+      "expires": 1761568099,
       "size": 43,
       "httpOnly": false,
       "secure": false,
@@ -37,15 +37,15 @@
     "content-encoding": "gzip",
     "content-security-policy": "default-src 'self'; script-src 'report-sample' 'self' https://stats.beta.gouv.fr/matomo.js https://stats.beta.gouv.fr/js/container_5FRF0Y8m.js https://stats.beta.gouv.fr/plugins/HeatmapSessionRecording/; style-src 'report-sample' 'self'; object-src 'none'; base-uri 'self'; connect-src 'self' https://stats.beta.gouv.fr; font-src 'self'; frame-src 'self'; img-src 'self' data: https; manifest-src 'self'; media-src 'self'; frame-ancestors 'none'; form-action 'self';",
     "content-type": "text/html; charset=UTF-8",
-    "date": "Sun, 22 Sep 2024 12:13:02 GMT",
-    "etag": "W/\"422-1920f7ea4f8\"",
-    "last-modified": "Fri, 20 Sep 2024 12:53:31 GMT",
+    "date": "Sun, 29 Sep 2024 12:28:18 GMT",
+    "etag": "W/\"422-19228469ba8\"",
+    "last-modified": "Wed, 25 Sep 2024 08:22:49 GMT",
     "ratelimit-limit": "100",
-    "ratelimit-remaining": "83",
-    "ratelimit-reset": "203",
+    "ratelimit-remaining": "80",
+    "ratelimit-reset": "137",
     "strict-transport-security": "max-age=63072000; includeSubDomains; preload",
     "x-content-type-options": "nosniff",
-    "x-request-id": "2fdbbb8b-5541-44ab-8e97-03ce4a1bdd4f"
+    "x-request-id": "061fafa6-01f8-4019-ada8-48534766a134"
   },
   "endpoints": [
     {
