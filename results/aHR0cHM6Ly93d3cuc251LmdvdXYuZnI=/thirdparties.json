@@ -30,27 +30,27 @@
     },
     {
       "type": "unknown",
-      "url": "https://tarteaucitron.io/log/?account=116fc2aaf9a8e635ee3bd10f2d6999d8b768651a&domain=www.snu.gouv.fr&status=!adformsnu%3Dfalse!facebookpixel%3Dfalse!snapchat%3Dfalse!googletagmanager%3Dfalse&_time=1726990184892"
+      "url": "https://tarteaucitron.io/log/?account=116fc2aaf9a8e635ee3bd10f2d6999d8b768651a&domain=www.snu.gouv.fr&status=!adformsnu%3Dfalse!facebookpixel%3Dfalse!snapchat%3Dfalse!googletagmanager%3Dfalse&_time=1727595366592"
     }
   ],
   "cookies": [],
   "headers": {
     "cache-control": "max-age=0",
     "cf-cache-status": "DYNAMIC",
-    "cf-ray": "8c7095df5dcb10b2-ORD",
+    "cf-ray": "8caa4ccf1bb58f51-ORD",
     "content-encoding": "br",
     "content-type": "text/html; charset=UTF-8",
-    "date": "Sun, 22 Sep 2024 07:29:42 GMT",
-    "expires": "Sun, 22 Sep 2024 07:29:42 GMT",
-    "last-modified": "Sun, 22 Sep 2024 04:41:29 GMT",
+    "date": "Sun, 29 Sep 2024 07:36:03 GMT",
+    "expires": "Sun, 29 Sep 2024 07:36:03 GMT",
+    "last-modified": "Sat, 28 Sep 2024 21:41:24 GMT",
     "server": "cloudflare",
-    "sozu-id": "01J8CA4BXRWFR6M1KC7SPFNX8R",
+    "sozu-id": "01J8YB901S237Z9HJC2WEBTZMS",
     "vary": "Accept-Encoding"
   },
   "endpoints": [
     {
       "hostname": "www.snu.gouv.fr",
-      "ip": "104.22.16.136",
+      "ip": "172.67.4.138",
       "geoip": {
         "registered_country": {
           "geoname_id": 6252001,
@@ -72,6 +72,14 @@
       "hostname": "tarteaucitron.io",
       "ip": "51.68.111.231",
       "geoip": {
+        "city": {
+          "geoname_id": 3002401,
+          "names": {
+            "en": "Le Raincy",
+            "fr": "Le Raincy",
+            "ja": "ル・ランシー"
+          }
+        },
         "continent": {
           "code": "EU",
           "geoname_id": 6255148,
@@ -103,9 +111,12 @@
         },
         "location": {
           "accuracy_radius": 500,
-          "latitude": 48.8582,
-          "longitude": 2.3387,
+          "latitude": 48.9029,
+          "longitude": 2.529,
           "time_zone": "Europe/Paris"
+        },
+        "postal": {
+          "code": "93340"
         },
         "registered_country": {
           "geoname_id": 3017382,
@@ -121,7 +132,37 @@
             "ru": "Франция",
             "zh-CN": "法国"
           }
-        }
+        },
+        "subdivisions": [
+          {
+            "geoname_id": 3012874,
+            "iso_code": "IDF",
+            "names": {
+              "de": "Île-de-France",
+              "en": "Île-de-France",
+              "es": "Isla de Francia",
+              "fr": "Île-de-France",
+              "ja": "イル・ド・フランス",
+              "pt-BR": "Ilha de França",
+              "ru": "Иль-де-Франс",
+              "zh-CN": "法兰西岛"
+            }
+          },
+          {
+            "geoname_id": 2975246,
+            "iso_code": "93",
+            "names": {
+              "de": "Seine-Saint-Denis",
+              "en": "Seine-Saint-Denis",
+              "es": "Sena Saint Denis",
+              "fr": "Seine-Saint-Denis",
+              "ja": "セーヌ＝サン＝ドニ県",
+              "pt-BR": "Seine-Saint-Denis",
+              "ru": "Сен-Сен-Дени",
+              "zh-CN": "塞纳-圣但尼省"
+            }
+          }
+        ]
       }
     },
     {
@@ -235,6 +276,14 @@
       "hostname": "cdn.tarteaucitron.io",
       "ip": "51.68.111.234",
       "geoip": {
+        "city": {
+          "geoname_id": 3002401,
+          "names": {
+            "en": "Le Raincy",
+            "fr": "Le Raincy",
+            "ja": "ル・ランシー"
+          }
+        },
         "continent": {
           "code": "EU",
           "geoname_id": 6255148,
@@ -266,9 +315,12 @@
         },
         "location": {
           "accuracy_radius": 500,
-          "latitude": 48.8582,
-          "longitude": 2.3387,
+          "latitude": 48.9029,
+          "longitude": 2.529,
           "time_zone": "Europe/Paris"
+        },
+        "postal": {
+          "code": "93340"
         },
         "registered_country": {
           "geoname_id": 3017382,
@@ -284,7 +336,37 @@
             "ru": "Франция",
             "zh-CN": "法国"
           }
-        }
+        },
+        "subdivisions": [
+          {
+            "geoname_id": 3012874,
+            "iso_code": "IDF",
+            "names": {
+              "de": "Île-de-France",
+              "en": "Île-de-France",
+              "es": "Isla de Francia",
+              "fr": "Île-de-France",
+              "ja": "イル・ド・フランス",
+              "pt-BR": "Ilha de França",
+              "ru": "Иль-де-Франс",
+              "zh-CN": "法兰西岛"
+            }
+          },
+          {
+            "geoname_id": 2975246,
+            "iso_code": "93",
+            "names": {
+              "de": "Seine-Saint-Denis",
+              "en": "Seine-Saint-Denis",
+              "es": "Sena Saint Denis",
+              "fr": "Seine-Saint-Denis",
+              "ja": "セーヌ＝サン＝ドニ県",
+              "pt-BR": "Seine-Saint-Denis",
+              "ru": "Сен-Сен-Дени",
+              "zh-CN": "塞纳-圣但尼省"
+            }
+          }
+        ]
       }
     }
   ]
