@@ -11,7 +11,7 @@
       "value": "1",
       "domain": "covoiturage.beta.gouv.fr",
       "path": "/",
-      "expires": 1726976493,
+      "expires": 1727582054,
       "size": 15,
       "httpOnly": false,
       "secure": false,
@@ -23,10 +23,10 @@
     },
     {
       "name": "_pk_id.1.aba8",
-      "value": "b7b16fbb72b2d67d.1726974694.",
+      "value": "e0beccb92c2e9b0e.1727580254.",
       "domain": "covoiturage.beta.gouv.fr",
       "path": "/",
-      "expires": 1760929894,
+      "expires": 1761535454,
       "size": 41,
       "httpOnly": false,
       "secure": false,
@@ -38,14 +38,14 @@
     }
   ],
   "headers": {
-    "content-length": "85390",
+    "content-length": "85379",
     "content-type": "text/html",
-    "date": "Sun, 22 Sep 2024 03:11:29 GMT",
-    "etag": "\"ae589df1fb51da8f77cbe32c4b8bb192\"",
-    "last-modified": "Fri, 20 Sep 2024 08:17:00 GMT",
+    "date": "Sun, 29 Sep 2024 03:24:11 GMT",
+    "etag": "\"65e1499649002d5c1a172c2e9798b6a4\"",
+    "last-modified": "Fri, 27 Sep 2024 07:09:20 GMT",
     "strict-transport-security": "max-age=31536000; includeSubDomains",
-    "x-amz-id-2": "txgad890cf038044e4b8801-0066ef8ae1",
-    "x-amz-request-id": "txgad890cf038044e4b8801-0066ef8ae1"
+    "x-amz-id-2": "txgd1ec8c0ab4c04b4f9bd2-0066f8c85b",
+    "x-amz-request-id": "txgd1ec8c0ab4c04b4f9bd2-0066f8c85b"
   },
   "endpoints": [
     {
