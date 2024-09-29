@@ -62,11 +62,11 @@
     },
     {
       "type": "unknown",
-      "url": "https://gqlg3qh7po-dsn.algolia.net/1/indexes/prod_scalingo_covid_missions/query?x-algolia-agent=Algolia%20for%20JavaScript%20(4.24.0)%3B%20Browser"
+      "url": "https://plausible.io/api/event"
     },
     {
       "type": "unknown",
-      "url": "https://plausible.io/api/event"
+      "url": "https://gqlg3qh7po-dsn.algolia.net/1/indexes/prod_scalingo_covid_missions/query?x-algolia-agent=Algolia%20for%20JavaScript%20(4.24.0)%3B%20Browser"
     },
     {
       "type": "unknown",
@@ -85,17 +85,17 @@
   "headers": {
     "cache-control": "max-age=300\npublic, no-transform",
     "cf-cache-status": "DYNAMIC",
-    "cf-ray": "8c70a9b0ec168018-IAD",
+    "cf-ray": "8caa62c12b2b5848-IAD",
     "content-encoding": "br",
-    "content-length": "50008",
+    "content-length": "50081",
     "content-type": "text/html;charset=utf-8",
-    "date": "Sun, 22 Sep 2024 07:43:14 GMT",
-    "expires": "Sun, 22 Sep 2024 07:48:14 GMT",
+    "date": "Sun, 29 Sep 2024 07:51:03 GMT",
+    "expires": "Sun, 29 Sep 2024 07:56:03 GMT",
     "server": "cloudflare",
     "strict-transport-security": "max-age=31536000",
     "vary": "Accept-Encoding",
     "x-powered-by": "Nuxt",
-    "x-request-id": "fda3a61f-adf7-46a5-9888-e32a0ea75f07\nfda3a61f-adf7-46a5-9888-e32a0ea75f07"
+    "x-request-id": "9a6fc467-6d57-4067-9a06-eba76be9da5e\n9a6fc467-6d57-4067-9a06-eba76be9da5e"
   },
   "endpoints": [
     {
@@ -207,7 +207,7 @@
     },
     {
       "hostname": "www.googletagmanager.com",
-      "ip": "142.251.179.97",
+      "ip": "172.253.63.97",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -261,8 +261,15 @@
     },
     {
       "hostname": "gqlg3qh7po-dsn.algolia.net",
-      "ip": "37.187.157.100",
+      "ip": "95.211.18.123",
       "geoip": {
+        "city": {
+          "geoname_id": 2754635,
+          "names": {
+            "en": "Heesch",
+            "ru": "Хес"
+          }
+        },
         "continent": {
           "code": "EU",
           "geoname_id": 6255148,
@@ -278,57 +285,77 @@
           }
         },
         "country": {
-          "geoname_id": 3017382,
+          "geoname_id": 2750405,
           "is_in_european_union": true,
-          "iso_code": "FR",
+          "iso_code": "NL",
           "names": {
-            "de": "Frankreich",
-            "en": "France",
-            "es": "Francia",
-            "fr": "France",
-            "ja": "フランス共和国",
-            "pt-BR": "França",
-            "ru": "Франция",
-            "zh-CN": "法国"
+            "de": "Niederlande",
+            "en": "The Netherlands",
+            "es": "Holanda",
+            "fr": "Pays-Bas",
+            "ja": "オランダ王国",
+            "pt-BR": "Holanda",
+            "ru": "Нидерланды",
+            "zh-CN": "荷兰"
           }
         },
         "location": {
-          "accuracy_radius": 500,
-          "latitude": 48.8582,
-          "longitude": 2.3387,
-          "time_zone": "Europe/Paris"
+          "accuracy_radius": 50,
+          "latitude": 51.7278,
+          "longitude": 5.5319,
+          "time_zone": "Europe/Amsterdam"
+        },
+        "postal": {
+          "code": "5384"
         },
         "registered_country": {
-          "geoname_id": 3017382,
+          "geoname_id": 2750405,
           "is_in_european_union": true,
-          "iso_code": "FR",
+          "iso_code": "NL",
           "names": {
-            "de": "Frankreich",
-            "en": "France",
-            "es": "Francia",
-            "fr": "France",
-            "ja": "フランス共和国",
-            "pt-BR": "França",
-            "ru": "Франция",
-            "zh-CN": "法国"
+            "de": "Niederlande",
+            "en": "The Netherlands",
+            "es": "Holanda",
+            "fr": "Pays-Bas",
+            "ja": "オランダ王国",
+            "pt-BR": "Holanda",
+            "ru": "Нидерланды",
+            "zh-CN": "荷兰"
           }
-        }
+        },
+        "subdivisions": [
+          {
+            "geoname_id": 2749990,
+            "iso_code": "NB",
+            "names": {
+              "de": "Nordbrabant",
+              "en": "North Brabant",
+              "es": "Brabante Septentrional",
+              "fr": "Brabant-Septentrional",
+              "ja": "北ブラバント州",
+              "pt-BR": "Brabante do Norte",
+              "ru": "Северный Брабант",
+              "zh-CN": "北布拉班特省"
+            }
+          }
+        ]
       }
     },
     {
       "hostname": "plausible.io",
-      "ip": "138.199.40.58",
+      "ip": "38.104.169.186",
       "geoip": {
         "city": {
-          "geoname_id": 5128581,
+          "geoname_id": 4460243,
           "names": {
-            "de": "New York City",
-            "en": "New York",
-            "es": "Nueva York",
-            "fr": "New York",
-            "ja": "ニューヨーク",
-            "pt-BR": "Nova Iorque",
-            "ru": "Нью-Йорк"
+            "de": "Charlotte",
+            "en": "Charlotte",
+            "es": "Charlotte",
+            "fr": "Charlotte",
+            "ja": "シャーロット",
+            "pt-BR": "Charlotte",
+            "ru": "Шарлотт",
+            "zh-CN": "夏洛特"
           }
         },
         "continent": {
@@ -361,41 +388,41 @@
         },
         "location": {
           "accuracy_radius": 20,
-          "latitude": 40.7123,
-          "longitude": -74.0068,
-          "metro_code": 501,
+          "latitude": 35.2316,
+          "longitude": -80.8428,
+          "metro_code": 517,
           "time_zone": "America/New_York"
         },
         "postal": {
-          "code": "10118"
+          "code": "28202"
         },
         "registered_country": {
-          "geoname_id": 2635167,
-          "iso_code": "GB",
+          "geoname_id": 6252001,
+          "iso_code": "US",
           "names": {
-            "de": "UK",
-            "en": "United Kingdom",
-            "es": "Reino Unido",
-            "fr": "Royaume-Uni",
-            "ja": "英国",
-            "pt-BR": "Reino Unido",
-            "ru": "Британия",
-            "zh-CN": "英国"
+            "de": "USA",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
           }
         },
         "subdivisions": [
           {
-            "geoname_id": 5128638,
-            "iso_code": "NY",
+            "geoname_id": 4482348,
+            "iso_code": "NC",
             "names": {
-              "de": "New York",
-              "en": "New York",
-              "es": "Nueva York",
-              "fr": "New York",
-              "ja": "ニューヨーク州",
-              "pt-BR": "Nova Iorque",
-              "ru": "Нью-Йорк",
-              "zh-CN": "纽约州"
+              "de": "North Carolina",
+              "en": "North Carolina",
+              "es": "Carolina del Norte",
+              "fr": "Caroline du Nord",
+              "ja": "ノースカロライナ州",
+              "pt-BR": "Carolina do Norte",
+              "ru": "Северная Каролина",
+              "zh-CN": "北卡罗来纳州"
             }
           }
         ]
@@ -403,7 +430,7 @@
     },
     {
       "hostname": "static.axept.io",
-      "ip": "13.32.208.82",
+      "ip": "3.167.112.56",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -457,7 +484,7 @@
     },
     {
       "hostname": "client.axept.io",
-      "ip": "18.160.18.80",
+      "ip": "18.160.18.43",
       "geoip": {
         "continent": {
           "code": "NA",
