@@ -199,7 +199,7 @@
               "ip"           : "catalogue.apprentissage.beta.gouv.fr/185.31.40.11",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "not supported"
+              "finding"      : "supported"
           }
 ,         {
               "id"           : "sessionresumption_ID",
@@ -269,7 +269,7 @@
               "ip"           : "catalogue.apprentissage.beta.gouv.fr/185.31.40.11",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "04D1C2AA109D3217D8E3A1CED922EE6E9EC9"
+              "finding"      : "036CD9D292F894CF4732D61894CF71C25893"
           }
 ,         {
               "id"           : "cert_serialNumberLen",
@@ -283,21 +283,21 @@
               "ip"           : "catalogue.apprentissage.beta.gouv.fr/185.31.40.11",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1263678FB0CDB05EC4C0E0048CFF59A72A7C2DBB"
+              "finding"      : "32F225C7BE9E365232E75F5BD56AFB5F86EEBAD0"
           }
 ,         {
               "id"           : "cert_fingerprintSHA256",
               "ip"           : "catalogue.apprentissage.beta.gouv.fr/185.31.40.11",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "06C931993F18F13125FD08DB55303150AF9B2F201CFADA2667ACDF806E5E6765"
+              "finding"      : "DD24F4EA69756F4CA8871C005377A181FEAB1BD90B714908133E08EF37BBF950"
           }
 ,         {
               "id"           : "cert",
               "ip"           : "catalogue.apprentissage.beta.gouv.fr/185.31.40.11",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "-----BEGIN CERTIFICATE-----\nMIIFGTCCBAGgAwIBAgISBNHCqhCdMhfY46HO2SLubp7JMA0GCSqGSIb3DQEBCwUAMDMxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQwwCgYDVQQDEwNSMTEwHhcNMjQwNzI1MDY0MzI5WhcNMjQxMDIzMDY0MzI4WjAvMS0wKwYDVQQDEyRjYXRhbG9ndWUuYXBwcmVudGlzc2FnZS5iZXRhLmdvdXYuZnIwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDrvz7fPry5QteIh6EUomhBwMpvZ/NjiTSkI52A3PZfuq39MGkmQfux5p3zJXf9psvlQEfAzBP7yCdn0MY/+FI2TyMZ7u7IvUMZcnD5I+K+7SIsITRoJv+IyZAklK6H+Ls3RfknQmlnKGKY4eEAuOUcYeSXnUN6OcW1/T/8WdCH7ckSMZT9lDnxfCyZsUyIZM1PX5mbkNf6p/7ROVD+oQBrPFGEE52/PmQ6QzOqS1O6PSgJngqwS/G3vqYgLAQ6XnGRrOgdniFJaKofrsvrRPxBN3H60XsmZ4uMPtIU45l3h3FcrYzHkMQiowGjmobYX5QT1OwTVmyALdTHDMyyts0ZAgMBAAGjggIpMIICJTAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFOftENhCFx6yaOuA95fmiEFXKsc7MB8GA1UdIwQYMBaAFMXPRqTq9MPAemyVxC2wXpIvJuO5MFcGCCsGAQUFBwEBBEswSTAiBggrBgEFBQcwAYYWaHR0cDovL3IxMS5vLmxlbmNyLm9yZzAjBggrBgEFBQcwAoYXaHR0cDovL3IxMS5pLmxlbmNyLm9yZy8wLwYDVR0RBCgwJoIkY2F0YWxvZ3VlLmFwcHJlbnRpc3NhZ2UuYmV0YS5nb3V2LmZyMBMGA1UdIAQMMAowCAYGZ4EMAQIBMIIBBQYKKwYBBAHWeQIEAgSB9gSB8wDxAHcASLDja9qmRzQP5WoC+p0w6xxSActW3SyB2bu/qznYhHMAAAGQ6NhUVQAABAMASDBGAiEAgdrP4FZ8qBl2dzpTweAVGglXrTYp1u5l0409Gl2AfdACIQDQIvq+AeK2OBuqs05rQfVvjdj9JdKRUvybgBGgzBz4HQB2AHb/iD8KtvuVUcJhzPWHujS0pM27KdxoQgqf5mdMWjp0AAABkOjYVJEAAAQDAEcwRQIgGDVMcNM+uE1IRQ9NX2zsK9U3uhrdQsuJe2tweUzD5C0CIQCjmWcl/S66Ao91TRpVyNeHAlhWce9UK2eWHrBpPIVQYzANBgkqhkiG9w0BAQsFAAOCAQEAgnDwiksd1xBenJaXPPsaObsZZO2y+x+W+DnJ6odm84cLhp9l4yCzbrSRdlh2s0dkOeJ6ZO8tWmyp8koa8LbxXuGbdKg77FJkskMP6VgU52Xw9sX8DGG8CDykggl8Bu21AjqZybh0HGbtv6ZJ72I3HXtTvuo7g0Kl2SZ3ad3AkRzAZ81HqhAWGLQhGTTWkgxo6hU/ZaZY0pOmYLULdrDSTh13fv+vTZO04jB68VRbgzI+FpxK+hAKET+m6py68B1MqP4Km7ktL0Yq78ws2SVaGP2eM2XBmwi79yKplq/EdIO6zMgFkSLTT8lhLKcxuXGI91NFuJ8rOGaFRkKrJjaLLw==\n-----END CERTIFICATE-----"
+              "finding"      : "-----BEGIN CERTIFICATE-----\nMIIFGDCCBACgAwIBAgISA2zZ0pL4lM9HMtYYlM9xwliTMA0GCSqGSIb3DQEBCwUAMDMxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQwwCgYDVQQDEwNSMTEwHhcNMjQwOTIzMDY0NjAxWhcNMjQxMjIyMDY0NjAwWjAvMS0wKwYDVQQDEyRjYXRhbG9ndWUuYXBwcmVudGlzc2FnZS5iZXRhLmdvdXYuZnIwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDrvz7fPry5QteIh6EUomhBwMpvZ/NjiTSkI52A3PZfuq39MGkmQfux5p3zJXf9psvlQEfAzBP7yCdn0MY/+FI2TyMZ7u7IvUMZcnD5I+K+7SIsITRoJv+IyZAklK6H+Ls3RfknQmlnKGKY4eEAuOUcYeSXnUN6OcW1/T/8WdCH7ckSMZT9lDnxfCyZsUyIZM1PX5mbkNf6p/7ROVD+oQBrPFGEE52/PmQ6QzOqS1O6PSgJngqwS/G3vqYgLAQ6XnGRrOgdniFJaKofrsvrRPxBN3H60XsmZ4uMPtIU45l3h3FcrYzHkMQiowGjmobYX5QT1OwTVmyALdTHDMyyts0ZAgMBAAGjggIoMIICJDAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFOftENhCFx6yaOuA95fmiEFXKsc7MB8GA1UdIwQYMBaAFMXPRqTq9MPAemyVxC2wXpIvJuO5MFcGCCsGAQUFBwEBBEswSTAiBggrBgEFBQcwAYYWaHR0cDovL3IxMS5vLmxlbmNyLm9yZzAjBggrBgEFBQcwAoYXaHR0cDovL3IxMS5pLmxlbmNyLm9yZy8wLwYDVR0RBCgwJoIkY2F0YWxvZ3VlLmFwcHJlbnRpc3NhZ2UuYmV0YS5nb3V2LmZyMBMGA1UdIAQMMAowCAYGZ4EMAQIBMIIBBAYKKwYBBAHWeQIEAgSB9QSB8gDwAHUAouMK5EXvva2bfjjtR2d3U9eCW4SU1yteGyzEuVCkR+cAAAGSHdbUxAAABAMARjBEAiBXXyQSHFm5PQAoDAQ0iUvtAVUQXCs1RDWxbT3GsK8wYAIgG4rDy5ZyxJf899Ju/mTJGCEz/LeQ0glqzgXuq4flmtgAdwAZmBBxCfDWUi4wgNKeP2S7g24ozPkPUo7u385KPxa0ygAAAZId1tTnAAAEAwBIMEYCIQDhoNcvGlr6FPGx4/V5eCmSw4QETYPfoPeMySpr5s7wZAIhALGoNqcU55ySHbG8ngyhxq6yprG6pxw7eRe8u0EsP6KFMA0GCSqGSIb3DQEBCwUAA4IBAQCFPub1n69YIrc1CGcme/NHxW5LMDZSrgQRCzwiSbacvk68cQciiKbGIvgYcvqGrDDKxXy6OpXtYduVyajjajXUU3mTPrGm0cx5fSP8ekoOI7i91w9wpU8fosXq3cw2KVUYGf5Be3a/hnhX9AxsHopgV/ovfcvyP2zyv6hIyMh6hUMTa3Xlur0Dov/DdYCk1BxyBspdWH7/Qp0iRUOuEWf5GnqxQDSh2F+bZ8aEF+a5Rs7j2laR5Ff805PkFjyelWfjMRlJKOGtng7J8umSnyw/R13mCYipxlFGnzyRWUVEMCFuBD3dcsHj4Un0rQgfbPM5ClR8e53Hj8DctQGNlPEn\n-----END CERTIFICATE-----"
           }
 ,         {
               "id"           : "cert_commonName",
@@ -346,21 +346,21 @@
               "ip"           : "catalogue.apprentissage.beta.gouv.fr/185.31.40.11",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "31 >= 30 days"
+              "finding"      : "84 >= 30 days"
           }
 ,         {
               "id"           : "cert_notBefore",
               "ip"           : "catalogue.apprentissage.beta.gouv.fr/185.31.40.11",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "2024-07-25 06:43"
+              "finding"      : "2024-09-23 06:46"
           }
 ,         {
               "id"           : "cert_notAfter",
               "ip"           : "catalogue.apprentissage.beta.gouv.fr/185.31.40.11",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "2024-10-23 06:43"
+              "finding"      : "2024-12-22 06:46"
           }
 ,         {
               "id"           : "cert_extlifeSpan",
@@ -507,7 +507,7 @@
               "ip"           : "catalogue.apprentissage.beta.gouv.fr/185.31.40.11",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1726973037"
+              "finding"      : "1727578628"
           }
 ,         {
               "id"           : "HSTS",
@@ -680,7 +680,7 @@
               "severity"     : "INFO",
               "cve"          : "CVE-2016-0800 CVE-2016-0703",
               "cwe"          : "CWE-310",
-              "finding"      : "Make sure you don't use this certificate elsewhere with SSLv2 enabled services, see https://search.censys.io/search?resource=hosts&virtual_hosts=INCLUDE&q=06C931993F18F13125FD08DB55303150AF9B2F201CFADA2667ACDF806E5E6765"
+              "finding"      : "Make sure you don't use this certificate elsewhere with SSLv2 enabled services, see https://search.censys.io/search?resource=hosts&virtual_hosts=INCLUDE&q=DD24F4EA69756F4CA8871C005377A181FEAB1BD90B714908133E08EF37BBF950"
           }
 ,         {
               "id"           : "LOGJAM",
@@ -1063,6 +1063,6 @@
               "ip"           : "catalogue.apprentissage.beta.gouv.fr/185.31.40.11",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "55"
+              "finding"      : "53"
           }
 ]
