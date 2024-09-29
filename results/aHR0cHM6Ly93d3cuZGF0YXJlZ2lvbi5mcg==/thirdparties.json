@@ -82,6 +82,10 @@
     },
     {
       "type": "unknown",
+      "url": "https://cdn.prod.website-files.com/6543525d4f0cd7975442db8d/6554c150c8bb542548c4a5d7_Marianne-Regular.otf"
+    },
+    {
+      "type": "unknown",
       "url": "https://cdn.prod.website-files.com/6543525d4f0cd7975442db8d/6554c150a1e44748ee004d36_Marianne-Bold.otf"
     },
     {
@@ -95,44 +99,41 @@
     {
       "type": "unknown",
       "url": "https://cdn.prod.website-files.com/6543525d4f0cd7975442db8d/6554c150c8bb542548c4a5d7_Marianne-Regular.otf"
-    },
-    {
-      "type": "unknown",
-      "url": "https://cdn.prod.website-files.com/6543525d4f0cd7975442db8d/6554c150c8bb542548c4a5d7_Marianne-Regular.otf"
     }
   ],
   "cookies": [],
   "headers": {
     "accept-ranges": "bytes",
-    "age": "39",
+    "age": "38",
     "content-encoding": "gzip",
     "content-length": "6551",
     "content-type": "text/html",
-    "date": "Sun, 22 Sep 2024 14:37:54 GMT",
+    "date": "Sun, 29 Sep 2024 14:56:03 GMT",
     "strict-transport-security": "max-age=31536000",
     "vary": "x-wf-forwarded-proto, Accept-Encoding",
     "x-cache": "HIT",
     "x-cache-hits": "1",
-    "x-cluster-name": "us-west-2-prod-hosting-red",
-    "x-lambda-id": "8270b8e0-306d-4f37-b5d3-379023256674",
-    "x-served-by": "cache-bfi-krnt7300084-BFI",
-    "x-timer": "S1727015875.749076,VS0,VE1"
+    "x-cluster-name": "us-east-1-prod-hosting-red",
+    "x-lambda-id": "93f4a2ba-4cba-407e-9870-2a326e68cbc6",
+    "x-served-by": "cache-iad-kiad7000073-IAD",
+    "x-timer": "S1727621764.867897,VS0,VE1"
   },
   "endpoints": [
     {
       "hostname": "www.dataregion.fr",
-      "ip": "44.242.99.40",
+      "ip": "52.206.163.162",
       "geoip": {
         "city": {
-          "geoname_id": 5714964,
+          "geoname_id": 4744870,
           "names": {
-            "de": "Boardman",
-            "en": "Boardman",
-            "es": "Boardman",
-            "fr": "Boardman",
-            "ja": "ボードマン",
-            "pt-BR": "Boardman",
-            "ru": "Бордман"
+            "de": "Ashburn",
+            "en": "Ashburn",
+            "es": "Ashburn",
+            "fr": "Ashburn",
+            "ja": "アッシュバーン",
+            "pt-BR": "Ashburn",
+            "ru": "Ашберн",
+            "zh-CN": "阿什本"
           }
         },
         "continent": {
@@ -165,13 +166,13 @@
         },
         "location": {
           "accuracy_radius": 1000,
-          "latitude": 45.8234,
-          "longitude": -119.7257,
-          "metro_code": 810,
-          "time_zone": "America/Los_Angeles"
+          "latitude": 39.0469,
+          "longitude": -77.4903,
+          "metro_code": 511,
+          "time_zone": "America/New_York"
         },
         "postal": {
-          "code": "97818"
+          "code": "20149"
         },
         "registered_country": {
           "geoname_id": 6252001,
@@ -189,17 +190,17 @@
         },
         "subdivisions": [
           {
-            "geoname_id": 5744337,
-            "iso_code": "OR",
+            "geoname_id": 6254928,
+            "iso_code": "VA",
             "names": {
-              "de": "Oregon",
-              "en": "Oregon",
-              "es": "Oregón",
-              "fr": "Oregon",
-              "ja": "オレゴン州",
-              "pt-BR": "Oregon",
-              "ru": "Орегон",
-              "zh-CN": "俄勒冈州"
+              "de": "Virginia",
+              "en": "Virginia",
+              "es": "Virginia",
+              "fr": "Virginie",
+              "ja": "バージニア州",
+              "pt-BR": "Virgínia",
+              "ru": "Вирджиния",
+              "zh-CN": "弗吉尼亚州"
             }
           }
         ]
@@ -227,7 +228,7 @@
     },
     {
       "hostname": "d3e54v103j8qbb.cloudfront.net",
-      "ip": "108.138.245.213",
+      "ip": "108.156.105.203",
       "geoip": {
         "continent": {
           "code": "NA",
