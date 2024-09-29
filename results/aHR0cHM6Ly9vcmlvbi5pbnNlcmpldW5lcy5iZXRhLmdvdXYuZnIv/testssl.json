@@ -366,8 +366,8 @@
               "id"           : "cert_expirationStatus",
               "ip"           : "orion.inserjeunes.beta.gouv.fr/135.125.66.137",
               "port"         : "443",
-              "severity"     : "OK",
-              "finding"      : "34 >= 30 days"
+              "severity"     : "MEDIUM",
+              "finding"      : "expires < 30 days (27)"
           }
 ,         {
               "id"           : "cert_notBefore",
@@ -380,7 +380,7 @@
               "id"           : "cert_notAfter",
               "ip"           : "orion.inserjeunes.beta.gouv.fr/135.125.66.137",
               "port"         : "443",
-              "severity"     : "OK",
+              "severity"     : "MEDIUM",
               "finding"      : "2024-10-26 23:01"
           }
 ,         {
@@ -528,7 +528,7 @@
               "ip"           : "orion.inserjeunes.beta.gouv.fr/135.125.66.137",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1727013456"
+              "finding"      : "1727619191"
           }
 ,         {
               "id"           : "HSTS_time",
@@ -1112,6 +1112,6 @@
               "ip"           : "orion.inserjeunes.beta.gouv.fr/135.125.66.137",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "64"
+              "finding"      : "67"
           }
 ]
