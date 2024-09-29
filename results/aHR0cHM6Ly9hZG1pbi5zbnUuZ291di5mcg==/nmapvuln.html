@@ -54,7 +54,7 @@
 <h1>Scan Report<br><small>Nmap 7.92</small>
 </h1>
 <pre style="white-space:pre-wrap; word-wrap:break-word;">nmap -sV --script vulners --script-args mincvss=5.0 -oA /data/nmapvuln admin.snu.gouv.fr</pre>
-<p class="lead">Sun Sep 22 07:39:50 2024 – Sun Sep 22 07:40:26 2024<br>1 hosts scanned.
+<p class="lead">Sun Sep 29 07:46:51 2024 – Sun Sep 29 07:47:27 2024<br>1 hosts scanned.
               1 hosts up.
               0 hosts down.
             </p>
@@ -76,7 +76,7 @@
 </tr></thead>
 <tbody><tr>
 <td><span class="label label-success">up</span></td>
-<td>185.179.148.149</td>
+<td>185.231.167.165</td>
 <td>admin.snu.gouv.fr</td>
 <td>2</td>
 <td>0</td>
@@ -91,8 +91,8 @@
             });
           </script><h2 id="onlinehosts" class="target">Online Hosts</h2>
 <div class="panel panel-default">
-<div class="panel-heading clickable" data-toggle="collapse" data-target="#185-179-148-149"><h3 class="panel-title">185.179.148.149 - admin.snu.gouv.fr</h3></div>
-<div class="panel-body collapse in" id="185-179-148-149">
+<div class="panel-heading clickable" data-toggle="collapse" data-target="#185-231-167-165"><h3 class="panel-title">185.231.167.165 - admin.snu.gouv.fr</h3></div>
+<div class="panel-body collapse in" id="185-231-167-165">
 <h4>Hostnames</h4>
 <ul><li>admin.snu.gouv.fr (user)</li></ul>
 <h4>Ports</h4>
@@ -121,7 +121,7 @@
 <pre style="white-space:pre-wrap; word-wrap:break-word;">
   FourOhFourRequest: 
     HTTP/1.1 301 Moved Permanently
-    Date: Sun, 22 Sep 2024 07:40:04 GMT
+    Date: Sun, 29 Sep 2024 07:47:05 GMT
     Content-Type: text/html
     Content-Length: 166
     Connection: close
@@ -135,7 +135,7 @@
     &lt;/html&gt;
   GetRequest, HTTPOptions: 
     HTTP/1.1 301 Moved Permanently
-    Date: Sun, 22 Sep 2024 07:40:04 GMT
+    Date: Sun, 29 Sep 2024 07:47:05 GMT
     Content-Type: text/html
     Content-Length: 166
     Connection: close
@@ -149,7 +149,7 @@
     &lt;/html&gt;
   RTSPRequest, X11Probe: 
     HTTP/1.1 400 Bad Request
-    Date: Sun, 22 Sep 2024 07:40:04 GMT
+    Date: Sun, 29 Sep 2024 07:47:05 GMT
     Content-Type: text/html
     Content-Length: 154
     Connection: close
@@ -171,11 +171,13 @@
 <td title="Extra Info"></td>
 </tr>
 <tr><td colspan="7">
-<a href="https://nvd.nist.gov/vuln/search/results?form_type=Advanced&amp;cves=on&amp;cpe_version="></a><h5>fingerprint-strings</h5>
+<a href="https://nvd.nist.gov/vuln/search/results?form_type=Advanced&amp;cves=on&amp;cpe_version="></a><h5>http-trane-info</h5>
+<pre style="white-space:pre-wrap; word-wrap:break-word;">Problem with XML parsing of /evox/about</pre>
+<h5>fingerprint-strings</h5>
 <pre style="white-space:pre-wrap; word-wrap:break-word;">
   GetRequest: 
     HTTP/1.1 200 OK
-    Date: Sun, 22 Sep 2024 07:40:10 GMT
+    Date: Sun, 29 Sep 2024 07:47:11 GMT
     Content-Type: text/html
     Content-Length: 3878
     Connection: close
@@ -185,10 +187,10 @@
     X-Frame-Options: DENY
     X-Content-Type-Options: nosniff
     X-XSS-Protection: 1; mode=block
-    &lt;!doctypehtml&gt;&lt;meta name="viewport"content="width=device-width"&gt;&lt;meta charset="utf-8"&gt;&lt;script&gt;&lt;/script&gt;&lt;script&gt;var __blnChallengeStore={"unregisterServiceWorker":false,"checkChallengeParams":{"request_fate":"challengejs","tracking_id":"","bot_category":"unknown","rule_id":""},"cookie":{"maxAge":900,"value":"EOw8OCIhz5eN3JrF2bjMRqyDv6fm0cAj-XZrcTZcnfkjEXRncKQDyWmQj8RV5maUT5u93FLGGQ5UhwJWVEL2ZTEu_Ou0M_NxHVl9Th68ttM","path":"/","name":"bln_challengejs"},"domain":".snu.gouv.fr"};(()=&gt;{"use strict";const e=function*({domain:e,maxAge:n,name:o,path:a,secure:t,value:i}){yield`${o}=${i}`,vo
+    &lt;!doctypehtml&gt;&lt;meta name="viewport"content="width=device-width"&gt;&lt;meta charset="utf-8"&gt;&lt;script&gt;&lt;/script&gt;&lt;script&gt;var __blnChallengeStore={"domain":".snu.gouv.fr","cookie":{"name":"bln_challengejs","maxAge":900,"value":"xFlD3qOtJCbKh2DJsu8cJ4JFR2f-UyWLlBhqAwW2KdymQLlhfLxkNyW5yRsjQxiSaEgH6m9C0qoRgnB1gHga501ACewVFgb_Xl7nf3U2Ih4","path":"/"},"unregisterServiceWorker":false,"checkChallengeParams":{"request_fate":"challengejs","tracking_id":"","rule_id":"","bot_category":"unknown"}};(()=&gt;{"use strict";const e=function*({domain:e,maxAge:n,name:o,path:a,secure:t,value:i}){yield`${o}=${i}`,vo
   HTTPOptions: 
     HTTP/1.1 200 OK
-    Date: Sun, 22 Sep 2024 07:40:10 GMT
+    Date: Sun, 29 Sep 2024 07:47:11 GMT
     Content-Type: text/html
     Content-Length: 3878
     Connection: close
@@ -198,9 +200,7 @@
     X-Frame-Options: DENY
     X-Content-Type-Options: nosniff
     X-XSS-Protection: 1; mode=block
-    &lt;!doctypehtml&gt;&lt;meta name="viewport"content="width=device-width"&gt;&lt;meta charset="utf-8"&gt;&lt;script&gt;&lt;/script&gt;&lt;script&gt;var __blnChallengeStore={"unregisterServiceWorker":false,"checkChallengeParams":{"request_fate":"challengejs","tracking_id":"","rule_id":"","bot_category":"unknown"},"domain":".snu.gouv.fr","cookie":{"maxAge":900,"name":"bln_challengejs","path":"/","value":"EOw8OCIhz5eN3JrF2bjMRrrlz4XKwwwvT1BGUvemzrJOLZWuFP3L3_OU7piQUwXpDorunLpsmf3tXtnl9o65u7ONKOea5J8XZWqOacXf5t8"}};(()=&gt;{"use strict";const e=function*({domain:e,maxAge:n,name:o,path:a,secure:t,value:i}){yield`${o}=${i}`,vo</pre>
-<h5>http-trane-info</h5>
-<pre style="white-space:pre-wrap; word-wrap:break-word;">Problem with XML parsing of /evox/about</pre>
+    &lt;!doctypehtml&gt;&lt;meta name="viewport"content="width=device-width"&gt;&lt;meta charset="utf-8"&gt;&lt;script&gt;&lt;/script&gt;&lt;script&gt;var __blnChallengeStore={"unregisterServiceWorker":false,"cookie":{"value":"xFlD3qOtJCbKh2DJsu8cJyBhGtXwvTmbPiU_m5VWiOlSKVLvGW--bUWUXabW6MaHfxvS9J3MRWdptVujRDyoITnmgqhCB1kTzVW6_taSXu4","maxAge":900,"name":"bln_challengejs","path":"/"},"checkChallengeParams":{"bot_category":"unknown","rule_id":"","tracking_id":"","request_fate":"challengejs"},"domain":".snu.gouv.fr"};(()=&gt;{"use strict";const e=function*({domain:e,maxAge:n,name:o,path:a,secure:t,value:i}){yield`${o}=${i}`,vo</pre>
 </td></tr>
 </tbody>
 </table></div>
@@ -220,7 +220,7 @@
 </tr></thead>
 <tbody>
 <tr>
-<td>185.179.148.149 - admin.snu.gouv.fr</td>
+<td>185.231.167.165 - admin.snu.gouv.fr</td>
 <td>80</td>
 <td>tcp</td>
 <td>http</td>
@@ -230,7 +230,7 @@
 <td></td>
 </tr>
 <tr>
-<td>185.179.148.149 - admin.snu.gouv.fr</td>
+<td>185.231.167.165 - admin.snu.gouv.fr</td>
 <td>443</td>
 <td>tcp</td>
 <td>https</td>
