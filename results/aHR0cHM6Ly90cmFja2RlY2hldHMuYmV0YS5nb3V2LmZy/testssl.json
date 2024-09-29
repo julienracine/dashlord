@@ -269,7 +269,7 @@
               "ip"           : "trackdechets.beta.gouv.fr/5.104.101.30",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "0470EAD47882989D2BFAFCD95A2C8CD0946C"
+              "finding"      : "033E7462003A659C2606209F0028C307F4C8"
           }
 ,         {
               "id"           : "cert_serialNumberLen",
@@ -283,21 +283,21 @@
               "ip"           : "trackdechets.beta.gouv.fr/5.104.101.30",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "B27DFA286F9A8D6684AE86E494803ACA22AD3108"
+              "finding"      : "C00E0F99487A217EBF489C30A1D899D2F0ED4D3E"
           }
 ,         {
               "id"           : "cert_fingerprintSHA256",
               "ip"           : "trackdechets.beta.gouv.fr/5.104.101.30",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "9C5D489AF1AE630053E301B076C9658DD37DA30E9379B2114109E13E41024651"
+              "finding"      : "7DE69BDAD107873439A466A28B386BE57DB402B250B25237A960B74C7861E87B"
           }
 ,         {
               "id"           : "cert",
               "ip"           : "trackdechets.beta.gouv.fr/5.104.101.30",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "-----BEGIN CERTIFICATE-----\nMIIFAjCCA+qgAwIBAgISBHDq1HiCmJ0r+vzZWiyM0JRsMA0GCSqGSIb3DQEBCwUAMDMxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQwwCgYDVQQDEwNSMTAwHhcNMjQwNzMwMTU1MzA4WhcNMjQxMDI4MTU1MzA3WjAkMSIwIAYDVQQDExl0cmFja2RlY2hldHMuYmV0YS5nb3V2LmZyMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAq5fUfGWRlA9JTp9HgiuYClMyi0d0aE2yOoulSyxOi0mHErD3qMcmUtoXaN5rWn6haJdRF3pINf1LDF1B2ylindXgQfaoyDt7DT7YFj88X+LrvEkdylmn5ljvIzpC8CI19CYAx9kADvhGqSxLe1mtgfYxc2/I5IsglXhhMyH8TySoMe1IJw38j/+3YF43EOb7fzTLqnyf5qg0xv0znkjQebIv+lVHatddcqR/IAb5VS9bUJ4Er7OGNPtcSPvy0JyDmcb0Nx18lT5kt4Qw5/Y+LXe/8GV5uGrOro844QSug9QAYkcxkqKd8ctac7bHkPz+HOgrWlXNyBXZmYZd174PcwIDAQABo4ICHTCCAhkwDgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBS2kH79e8FDO9TpG5fUt+6O3YPVCDAfBgNVHSMEGDAWgBS7vMNHpeS8qcbDpHIMEI2iNeHI6DBXBggrBgEFBQcBAQRLMEkwIgYIKwYBBQUHMAGGFmh0dHA6Ly9yMTAuby5sZW5jci5vcmcwIwYIKwYBBQUHMAKGF2h0dHA6Ly9yMTAuaS5sZW5jci5vcmcvMCQGA1UdEQQdMBuCGXRyYWNrZGVjaGV0cy5iZXRhLmdvdXYuZnIwEwYDVR0gBAwwCjAIBgZngQwBAgEwggEEBgorBgEEAdZ5AgQCBIH1BIHyAPAAdgDuzdBk1dsazsVct520zROiModGfLzs3sNRSFlGcR+1mwAAAZEEj1aOAAAEAwBHMEUCIQD8MJOVvwATi2KsgD+i9BG4t+pFHgbNeHkX6k/a2/ctYAIgV48ErwhR3AyxyJetQJnxtvNYDdyb9qq5GpJj6laKC/UAdgDf4VbrqgWvtZwPhnGNqMAyTq5W2W6n9aVqAdHBO75SXAAAAZEEj1dJAAAEAwBHMEUCIF0Jny5G2Q0qRyUmXmEtKoS+Ro9TqESBzGS2b3lTey/cAiEAukdukodhw29i/J9D8jtpRSuLfOoLBGBLWwaLgtO/47AwDQYJKoZIhvcNAQELBQADggEBALXqIsvP9SBaYMU+vF2E8F+9LG5FBm8xnn77FO3VzJ1Nu2bRSYIt/tN2rcUKNdAtHNCrnP7cRSHWGqeIz4wa7OcL4Ts3yk4ECz7BTVfX2Y19aErARUEatqrhxJVe8i1J5QA8/BtPH5izBmHE7BEBAGIAxv70PgttBrdnf4DMKqr0rOMs8eNm/qdQUkL7HRDODE2IwLrBoEhnCynTimsMnDkja55LQV0apV72j0cOJb3/d1FUC4ayDWNGmK8CMWpC/0UrpEzMaJkTTcpQFpSDw932LAIE8QeAOlPof+hSdUPkEUb0X76FgxDQjLM+nC3yZkDhkbCtMCh8rl8bXMek0wQ=\n-----END CERTIFICATE-----"
+              "finding"      : "-----BEGIN CERTIFICATE-----\nMIIFAjCCA+qgAwIBAgISAz50YgA6ZZwmBiCfACjDB/TIMA0GCSqGSIb3DQEBCwUAMDMxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQwwCgYDVQQDEwNSMTAwHhcNMjQwOTI4MTU1NTQyWhcNMjQxMjI3MTU1NTQxWjAkMSIwIAYDVQQDExl0cmFja2RlY2hldHMuYmV0YS5nb3V2LmZyMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA7os+U+HbpOIaNrkbwzQh79GhVnRdJpVp+P4PbdLj3q3513rPmESU4JKan4fu4yoFp2UXS2IPeKMEbD1dB5NMqKHAwf9LNoTcDCzq3BSAcoK71Hsbu4EPyvLMB+1yrzJQGBwBBnr/T+AXVt2kmwRzri12wbAePVTwSRjiwcUsLbJdPE5K38hL8KvfFpDndjz/kqGNJJOt9czIhGchjO74av82Ec8lZXuskPKbF7/sgpTL3fTCzWlgIijGho/tF6mR3kSYw6QNQocMQQlmeAs+Aq0zC+zsOmWUfxCTc0fK1XVyuIfc1eDkFf+bEBpncJuOjVPrwTOelLFumTkyCKO27QIDAQABo4ICHTCCAhkwDgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBRSRIAcRCVp9sbv0NktCb5TiKU+tzAfBgNVHSMEGDAWgBS7vMNHpeS8qcbDpHIMEI2iNeHI6DBXBggrBgEFBQcBAQRLMEkwIgYIKwYBBQUHMAGGFmh0dHA6Ly9yMTAuby5sZW5jci5vcmcwIwYIKwYBBQUHMAKGF2h0dHA6Ly9yMTAuaS5sZW5jci5vcmcvMCQGA1UdEQQdMBuCGXRyYWNrZGVjaGV0cy5iZXRhLmdvdXYuZnIwEwYDVR0gBAwwCjAIBgZngQwBAgEwggEEBgorBgEEAdZ5AgQCBIH1BIHyAPAAdgB2/4g/Crb7lVHCYcz1h7o0tKTNuyncaEIKn+ZnTFo6dAAAAZI5jeA+AAAEAwBHMEUCIQDwvn8Kb3bPOH9X6hikw+gr+pVMguyshUPC0qXygprZbAIgRz+eRHuLJuZAQNGXg++P7BdB0YbXBJTS8XHQm8aoxJ8AdgDf4VbrqgWvtZwPhnGNqMAyTq5W2W6n9aVqAdHBO75SXAAAAZI5jeC7AAAEAwBHMEUCIFlYx8IDBYy9owh/QWQFmD5hH6+ebbnW7ts2ZgEl4e7eAiEA1yWXYVbL0o6d+FBZ3glv+eIY/eJItle2LWSa9QkgAzkwDQYJKoZIhvcNAQELBQADggEBAM6jaM8u4kXRtCnO34Q4L0Mea60+oFl3OKU07Qk0EBWq9vVpIVZxaCuYZ1s+TunXin/Fv68idwJW7XpHJtfZAxsfHdR2KyMRJms+godX8dPtZvdNyMPmgNcqMC+IqVLtUewKj5QZc1oBM7xfHzYaVYhIs4XiLVmPvRj4lEofdzwHhun7VkLpQzeR8GKyMJKZtGvST/IF5qSPuQG/tsvmeXNesJhAxSl0xZ7E9b9z4m/MGbKyvUf61Se2Eo7o+r10TU+XV8AMmGadf7x/SqXHbhXDA2Z8+qCtMrzIBnDvGTx1MhrdIRfec1pVqfeKi7Bnc7+fdXFd21+mRM8VZOg3+xc=\n-----END CERTIFICATE-----"
           }
 ,         {
               "id"           : "cert_commonName",
@@ -346,21 +346,21 @@
               "ip"           : "trackdechets.beta.gouv.fr/5.104.101.30",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "36 >= 30 days"
+              "finding"      : "89 >= 30 days"
           }
 ,         {
               "id"           : "cert_notBefore",
               "ip"           : "trackdechets.beta.gouv.fr/5.104.101.30",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "2024-07-30 15:53"
+              "finding"      : "2024-09-28 15:55"
           }
 ,         {
               "id"           : "cert_notAfter",
               "ip"           : "trackdechets.beta.gouv.fr/5.104.101.30",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "2024-10-28 15:53"
+              "finding"      : "2024-12-27 15:55"
           }
 ,         {
               "id"           : "cert_extlifeSpan",
@@ -507,7 +507,7 @@
               "ip"           : "trackdechets.beta.gouv.fr/5.104.101.30",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1726987392"
+              "finding"      : "1727592790"
           }
 ,         {
               "id"           : "HSTS_time",
@@ -591,7 +591,7 @@
               "ip"           : "trackdechets.beta.gouv.fr/5.104.101.30",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "default-src 'self' trackdechets.beta.gouv.fr/ blob:; img-src 'self' data: static/; style-src 'self' 'unsafe-inline' static/; script-src 'self' 'unsafe-inline' static/; frame-src 'self' https://statistiques.trackdechets.beta.gouv.fr; connect-src 'self'; font-src 'self' data: static/"
+              "finding"      : "default-src 'self' trackdechets.beta.gouv.fr/ blob:; style-src 'self' 'unsafe-inline' static/; connect-src 'self'; frame-src 'self' https://statistiques.trackdechets.beta.gouv.fr; script-src 'self' 'unsafe-inline' static/; font-src 'self' data: static/; img-src 'self' data: static/"
           }
 ,         {
               "id"           : "Permissions-Policy",
@@ -736,7 +736,7 @@
               "severity"     : "INFO",
               "cve"          : "CVE-2016-0800 CVE-2016-0703",
               "cwe"          : "CWE-310",
-              "finding"      : "Make sure you don't use this certificate elsewhere with SSLv2 enabled services, see https://search.censys.io/search?resource=hosts&virtual_hosts=INCLUDE&q=9C5D489AF1AE630053E301B076C9658DD37DA30E9379B2114109E13E41024651"
+              "finding"      : "Make sure you don't use this certificate elsewhere with SSLv2 enabled services, see https://search.censys.io/search?resource=hosts&virtual_hosts=INCLUDE&q=7DE69BDAD107873439A466A28B386BE57DB402B250B25237A960B74C7861E87B"
           }
 ,         {
               "id"           : "LOGJAM",
@@ -1377,7 +1377,7 @@
               "ip"           : "trackdechets.beta.gouv.fr/109.232.236.90",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "0470EAD47882989D2BFAFCD95A2C8CD0946C"
+              "finding"      : "033E7462003A659C2606209F0028C307F4C8"
           }
 ,         {
               "id"           : "cert_serialNumberLen",
@@ -1391,21 +1391,21 @@
               "ip"           : "trackdechets.beta.gouv.fr/109.232.236.90",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "B27DFA286F9A8D6684AE86E494803ACA22AD3108"
+              "finding"      : "C00E0F99487A217EBF489C30A1D899D2F0ED4D3E"
           }
 ,         {
               "id"           : "cert_fingerprintSHA256",
               "ip"           : "trackdechets.beta.gouv.fr/109.232.236.90",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "9C5D489AF1AE630053E301B076C9658DD37DA30E9379B2114109E13E41024651"
+              "finding"      : "7DE69BDAD107873439A466A28B386BE57DB402B250B25237A960B74C7861E87B"
           }
 ,         {
               "id"           : "cert",
               "ip"           : "trackdechets.beta.gouv.fr/109.232.236.90",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "-----BEGIN CERTIFICATE-----\nMIIFAjCCA+qgAwIBAgISBHDq1HiCmJ0r+vzZWiyM0JRsMA0GCSqGSIb3DQEBCwUAMDMxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQwwCgYDVQQDEwNSMTAwHhcNMjQwNzMwMTU1MzA4WhcNMjQxMDI4MTU1MzA3WjAkMSIwIAYDVQQDExl0cmFja2RlY2hldHMuYmV0YS5nb3V2LmZyMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAq5fUfGWRlA9JTp9HgiuYClMyi0d0aE2yOoulSyxOi0mHErD3qMcmUtoXaN5rWn6haJdRF3pINf1LDF1B2ylindXgQfaoyDt7DT7YFj88X+LrvEkdylmn5ljvIzpC8CI19CYAx9kADvhGqSxLe1mtgfYxc2/I5IsglXhhMyH8TySoMe1IJw38j/+3YF43EOb7fzTLqnyf5qg0xv0znkjQebIv+lVHatddcqR/IAb5VS9bUJ4Er7OGNPtcSPvy0JyDmcb0Nx18lT5kt4Qw5/Y+LXe/8GV5uGrOro844QSug9QAYkcxkqKd8ctac7bHkPz+HOgrWlXNyBXZmYZd174PcwIDAQABo4ICHTCCAhkwDgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBS2kH79e8FDO9TpG5fUt+6O3YPVCDAfBgNVHSMEGDAWgBS7vMNHpeS8qcbDpHIMEI2iNeHI6DBXBggrBgEFBQcBAQRLMEkwIgYIKwYBBQUHMAGGFmh0dHA6Ly9yMTAuby5sZW5jci5vcmcwIwYIKwYBBQUHMAKGF2h0dHA6Ly9yMTAuaS5sZW5jci5vcmcvMCQGA1UdEQQdMBuCGXRyYWNrZGVjaGV0cy5iZXRhLmdvdXYuZnIwEwYDVR0gBAwwCjAIBgZngQwBAgEwggEEBgorBgEEAdZ5AgQCBIH1BIHyAPAAdgDuzdBk1dsazsVct520zROiModGfLzs3sNRSFlGcR+1mwAAAZEEj1aOAAAEAwBHMEUCIQD8MJOVvwATi2KsgD+i9BG4t+pFHgbNeHkX6k/a2/ctYAIgV48ErwhR3AyxyJetQJnxtvNYDdyb9qq5GpJj6laKC/UAdgDf4VbrqgWvtZwPhnGNqMAyTq5W2W6n9aVqAdHBO75SXAAAAZEEj1dJAAAEAwBHMEUCIF0Jny5G2Q0qRyUmXmEtKoS+Ro9TqESBzGS2b3lTey/cAiEAukdukodhw29i/J9D8jtpRSuLfOoLBGBLWwaLgtO/47AwDQYJKoZIhvcNAQELBQADggEBALXqIsvP9SBaYMU+vF2E8F+9LG5FBm8xnn77FO3VzJ1Nu2bRSYIt/tN2rcUKNdAtHNCrnP7cRSHWGqeIz4wa7OcL4Ts3yk4ECz7BTVfX2Y19aErARUEatqrhxJVe8i1J5QA8/BtPH5izBmHE7BEBAGIAxv70PgttBrdnf4DMKqr0rOMs8eNm/qdQUkL7HRDODE2IwLrBoEhnCynTimsMnDkja55LQV0apV72j0cOJb3/d1FUC4ayDWNGmK8CMWpC/0UrpEzMaJkTTcpQFpSDw932LAIE8QeAOlPof+hSdUPkEUb0X76FgxDQjLM+nC3yZkDhkbCtMCh8rl8bXMek0wQ=\n-----END CERTIFICATE-----"
+              "finding"      : "-----BEGIN CERTIFICATE-----\nMIIFAjCCA+qgAwIBAgISAz50YgA6ZZwmBiCfACjDB/TIMA0GCSqGSIb3DQEBCwUAMDMxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQwwCgYDVQQDEwNSMTAwHhcNMjQwOTI4MTU1NTQyWhcNMjQxMjI3MTU1NTQxWjAkMSIwIAYDVQQDExl0cmFja2RlY2hldHMuYmV0YS5nb3V2LmZyMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA7os+U+HbpOIaNrkbwzQh79GhVnRdJpVp+P4PbdLj3q3513rPmESU4JKan4fu4yoFp2UXS2IPeKMEbD1dB5NMqKHAwf9LNoTcDCzq3BSAcoK71Hsbu4EPyvLMB+1yrzJQGBwBBnr/T+AXVt2kmwRzri12wbAePVTwSRjiwcUsLbJdPE5K38hL8KvfFpDndjz/kqGNJJOt9czIhGchjO74av82Ec8lZXuskPKbF7/sgpTL3fTCzWlgIijGho/tF6mR3kSYw6QNQocMQQlmeAs+Aq0zC+zsOmWUfxCTc0fK1XVyuIfc1eDkFf+bEBpncJuOjVPrwTOelLFumTkyCKO27QIDAQABo4ICHTCCAhkwDgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBRSRIAcRCVp9sbv0NktCb5TiKU+tzAfBgNVHSMEGDAWgBS7vMNHpeS8qcbDpHIMEI2iNeHI6DBXBggrBgEFBQcBAQRLMEkwIgYIKwYBBQUHMAGGFmh0dHA6Ly9yMTAuby5sZW5jci5vcmcwIwYIKwYBBQUHMAKGF2h0dHA6Ly9yMTAuaS5sZW5jci5vcmcvMCQGA1UdEQQdMBuCGXRyYWNrZGVjaGV0cy5iZXRhLmdvdXYuZnIwEwYDVR0gBAwwCjAIBgZngQwBAgEwggEEBgorBgEEAdZ5AgQCBIH1BIHyAPAAdgB2/4g/Crb7lVHCYcz1h7o0tKTNuyncaEIKn+ZnTFo6dAAAAZI5jeA+AAAEAwBHMEUCIQDwvn8Kb3bPOH9X6hikw+gr+pVMguyshUPC0qXygprZbAIgRz+eRHuLJuZAQNGXg++P7BdB0YbXBJTS8XHQm8aoxJ8AdgDf4VbrqgWvtZwPhnGNqMAyTq5W2W6n9aVqAdHBO75SXAAAAZI5jeC7AAAEAwBHMEUCIFlYx8IDBYy9owh/QWQFmD5hH6+ebbnW7ts2ZgEl4e7eAiEA1yWXYVbL0o6d+FBZ3glv+eIY/eJItle2LWSa9QkgAzkwDQYJKoZIhvcNAQELBQADggEBAM6jaM8u4kXRtCnO34Q4L0Mea60+oFl3OKU07Qk0EBWq9vVpIVZxaCuYZ1s+TunXin/Fv68idwJW7XpHJtfZAxsfHdR2KyMRJms+godX8dPtZvdNyMPmgNcqMC+IqVLtUewKj5QZc1oBM7xfHzYaVYhIs4XiLVmPvRj4lEofdzwHhun7VkLpQzeR8GKyMJKZtGvST/IF5qSPuQG/tsvmeXNesJhAxSl0xZ7E9b9z4m/MGbKyvUf61Se2Eo7o+r10TU+XV8AMmGadf7x/SqXHbhXDA2Z8+qCtMrzIBnDvGTx1MhrdIRfec1pVqfeKi7Bnc7+fdXFd21+mRM8VZOg3+xc=\n-----END CERTIFICATE-----"
           }
 ,         {
               "id"           : "cert_commonName",
@@ -1454,21 +1454,21 @@
               "ip"           : "trackdechets.beta.gouv.fr/109.232.236.90",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "36 >= 30 days"
+              "finding"      : "89 >= 30 days"
           }
 ,         {
               "id"           : "cert_notBefore",
               "ip"           : "trackdechets.beta.gouv.fr/109.232.236.90",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "2024-07-30 15:53"
+              "finding"      : "2024-09-28 15:55"
           }
 ,         {
               "id"           : "cert_notAfter",
               "ip"           : "trackdechets.beta.gouv.fr/109.232.236.90",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "2024-10-28 15:53"
+              "finding"      : "2024-12-27 15:55"
           }
 ,         {
               "id"           : "cert_extlifeSpan",
@@ -1608,14 +1608,14 @@
               "ip"           : "trackdechets.beta.gouv.fr/109.232.236.90",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "-1 seconds from localtime"
+              "finding"      : "0 seconds from localtime"
           }
 ,         {
               "id"           : "HTTP_headerTime",
               "ip"           : "trackdechets.beta.gouv.fr/109.232.236.90",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1726987444"
+              "finding"      : "1727592851"
           }
 ,         {
               "id"           : "HSTS_time",
@@ -1699,7 +1699,7 @@
               "ip"           : "trackdechets.beta.gouv.fr/109.232.236.90",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "default-src 'self' trackdechets.beta.gouv.fr/ blob:; img-src 'self' data: static/; style-src 'self' 'unsafe-inline' static/; script-src 'self' 'unsafe-inline' static/; frame-src 'self' https://statistiques.trackdechets.beta.gouv.fr; connect-src 'self'; font-src 'self' data: static/"
+              "finding"      : "default-src 'self' trackdechets.beta.gouv.fr/ blob:; style-src 'self' 'unsafe-inline' static/; connect-src 'self'; frame-src 'self' https://statistiques.trackdechets.beta.gouv.fr; script-src 'self' 'unsafe-inline' static/; font-src 'self' data: static/; img-src 'self' data: static/"
           }
 ,         {
               "id"           : "Permissions-Policy",
@@ -1844,7 +1844,7 @@
               "severity"     : "INFO",
               "cve"          : "CVE-2016-0800 CVE-2016-0703",
               "cwe"          : "CWE-310",
-              "finding"      : "Make sure you don't use this certificate elsewhere with SSLv2 enabled services, see https://search.censys.io/search?resource=hosts&virtual_hosts=INCLUDE&q=9C5D489AF1AE630053E301B076C9658DD37DA30E9379B2114109E13E41024651"
+              "finding"      : "Make sure you don't use this certificate elsewhere with SSLv2 enabled services, see https://search.censys.io/search?resource=hosts&virtual_hosts=INCLUDE&q=7DE69BDAD107873439A466A28B386BE57DB402B250B25237A960B74C7861E87B"
           }
 ,         {
               "id"           : "LOGJAM",
@@ -2220,6 +2220,6 @@
               "ip"           : "trackdechets.beta.gouv.fr/109.232.236.90",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "109"
+              "finding"      : "124"
           }
 ]
