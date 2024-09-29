@@ -94,7 +94,7 @@
     },
     {
       "type": "unknown",
-      "url": "https://hd.pe.fr/event?s=475540&idclient=m1dgcsp53320xlae"
+      "url": "https://hd.pe.fr/event?s=475540&idclient=m1nh3ur63y3fgjec"
     },
     {
       "type": "unknown",
@@ -144,11 +144,11 @@
   "cookies": [
     {
       "name": "_pctx",
-      "value": "%7Bu%7DN4IgrgzgpgThIC4B2YA2qA05owMoBcBDfSREQpAeyRCwgEt8oBJAE0RXSwH18yBbABYBGAG6FCwgGYgAvkA",
+      "value": "%7Bu%7DN4IgrgzgpgThIC4B2YA2qA05owMoBcBDfSREQpAeyRCwgEt8oBJAE0RXSwH18yBbABYAjAO4BGAMYBmAOYgAvkA",
       "domain": ".francetravail.fr",
       "path": "/",
-      "expires": 1761129923,
-      "size": 95,
+      "expires": 1761735847,
+      "size": 99,
       "httpOnly": false,
       "secure": true,
       "session": false,
@@ -159,10 +159,10 @@
     },
     {
       "name": "_pcid",
-      "value": "%7B%22browserId%22%3A%22m1dgcsp53320xlae%22%2C%22_t%22%3A%22mh1vaa1d%22%7D",
+      "value": "%7B%22browserId%22%3A%22m1nh3ur63y3fgjec%22%2C%22_t%22%3A%22mhbw1c3f%22%7D",
       "domain": ".francetravail.fr",
       "path": "/",
-      "expires": 1761129923,
+      "expires": 1761735847,
       "size": 79,
       "httpOnly": false,
       "secure": true,
@@ -174,11 +174,11 @@
     },
     {
       "name": "TCPID",
-      "value": "124901045243378838805",
+      "value": "1249011484973583883",
       "domain": ".francetravail.fr",
       "path": "/",
-      "expires": 1760957124,
-      "size": 26,
+      "expires": 1761563048,
+      "size": 24,
       "httpOnly": false,
       "secure": true,
       "session": false,
@@ -192,7 +192,7 @@
       "value": "%22exempt%22",
       "domain": ".francetravail.fr",
       "path": "/",
-      "expires": 1761129923,
+      "expires": 1761735847,
       "size": 22,
       "httpOnly": false,
       "secure": true,
@@ -208,8 +208,8 @@
     "content-encoding": "gzip",
     "content-security-policy": "script-src 'self' 'unsafe-inline' 'unsafe-eval' blob: maps.pole-emploi.fr cdn.trustcommander.net cdn.tagcommander.com tag.aticdn.net guidances-applicatives.pole-emploi.fr https://*.mopinion.com/ composants-pe-communs.pole-emploi.fr;",
     "content-type": "text/html; charset=utf-8",
-    "date": "Sun, 22 Sep 2024 10:45:23 GMT",
-    "etag": "W/\"1dc5e-IrDvf3oHVNrAMd2PubUpWYzides\"",
+    "date": "Sun, 29 Sep 2024 11:04:07 GMT",
+    "etag": "W/\"1dc5f-vZ58uMuUR8ZqWQ/pi1J+l5e5Ntg\"",
     "referrer-policy": "strict-origin",
     "strict-transport-security": "max-age=31536000; includeSubDomains",
     "transfer-encoding": "chunked",
@@ -224,6 +224,14 @@
       "hostname": "labonneboite.pole-emploi.fr",
       "ip": "51.68.82.47",
       "geoip": {
+        "city": {
+          "geoname_id": 3002401,
+          "names": {
+            "en": "Le Raincy",
+            "fr": "Le Raincy",
+            "ja": "ル・ランシー"
+          }
+        },
         "continent": {
           "code": "EU",
           "geoname_id": 6255148,
@@ -255,9 +263,12 @@
         },
         "location": {
           "accuracy_radius": 500,
-          "latitude": 48.8582,
-          "longitude": 2.3387,
+          "latitude": 48.9029,
+          "longitude": 2.529,
           "time_zone": "Europe/Paris"
+        },
+        "postal": {
+          "code": "93340"
         },
         "registered_country": {
           "geoname_id": 3017382,
@@ -273,13 +284,51 @@
             "ru": "Франция",
             "zh-CN": "法国"
           }
-        }
+        },
+        "subdivisions": [
+          {
+            "geoname_id": 3012874,
+            "iso_code": "IDF",
+            "names": {
+              "de": "Île-de-France",
+              "en": "Île-de-France",
+              "es": "Isla de Francia",
+              "fr": "Île-de-France",
+              "ja": "イル・ド・フランス",
+              "pt-BR": "Ilha de França",
+              "ru": "Иль-де-Франс",
+              "zh-CN": "法兰西岛"
+            }
+          },
+          {
+            "geoname_id": 2975246,
+            "iso_code": "93",
+            "names": {
+              "de": "Seine-Saint-Denis",
+              "en": "Seine-Saint-Denis",
+              "es": "Sena Saint Denis",
+              "fr": "Seine-Saint-Denis",
+              "ja": "セーヌ＝サン＝ドニ県",
+              "pt-BR": "Seine-Saint-Denis",
+              "ru": "Сен-Сен-Дени",
+              "zh-CN": "塞纳-圣但尼省"
+            }
+          }
+        ]
       }
     },
     {
       "hostname": "labonneboite.francetravail.fr",
       "ip": "51.68.82.47",
       "geoip": {
+        "city": {
+          "geoname_id": 3002401,
+          "names": {
+            "en": "Le Raincy",
+            "fr": "Le Raincy",
+            "ja": "ル・ランシー"
+          }
+        },
         "continent": {
           "code": "EU",
           "geoname_id": 6255148,
@@ -311,9 +360,12 @@
         },
         "location": {
           "accuracy_radius": 500,
-          "latitude": 48.8582,
-          "longitude": 2.3387,
+          "latitude": 48.9029,
+          "longitude": 2.529,
           "time_zone": "Europe/Paris"
+        },
+        "postal": {
+          "code": "93340"
         },
         "registered_country": {
           "geoname_id": 3017382,
@@ -329,7 +381,37 @@
             "ru": "Франция",
             "zh-CN": "法国"
           }
-        }
+        },
+        "subdivisions": [
+          {
+            "geoname_id": 3012874,
+            "iso_code": "IDF",
+            "names": {
+              "de": "Île-de-France",
+              "en": "Île-de-France",
+              "es": "Isla de Francia",
+              "fr": "Île-de-France",
+              "ja": "イル・ド・フランス",
+              "pt-BR": "Ilha de França",
+              "ru": "Иль-де-Франс",
+              "zh-CN": "法兰西岛"
+            }
+          },
+          {
+            "geoname_id": 2975246,
+            "iso_code": "93",
+            "names": {
+              "de": "Seine-Saint-Denis",
+              "en": "Seine-Saint-Denis",
+              "es": "Sena Saint Denis",
+              "fr": "Seine-Saint-Denis",
+              "ja": "セーヌ＝サン＝ドニ県",
+              "pt-BR": "Seine-Saint-Denis",
+              "ru": "Сен-Сен-Дени",
+              "zh-CN": "塞纳-圣但尼省"
+            }
+          }
+        ]
       }
     },
     {
@@ -404,7 +486,7 @@
     },
     {
       "hostname": "tag.aticdn.net",
-      "ip": "18.160.18.10",
+      "ip": "13.35.122.17",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -458,7 +540,7 @@
     },
     {
       "hostname": "hd.pe.fr",
-      "ip": "18.160.18.3",
+      "ip": "18.173.121.122",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -512,7 +594,7 @@
     },
     {
       "hostname": "privacy.trustcommander.net",
-      "ip": "15.236.117.103",
+      "ip": "15.236.119.223",
       "geoip": {
         "city": {
           "geoname_id": 2988507,
@@ -609,7 +691,7 @@
     },
     {
       "hostname": "fonts.gstatic.com",
-      "ip": "142.251.111.94",
+      "ip": "142.251.46.163",
       "geoip": {
         "continent": {
           "code": "NA",
