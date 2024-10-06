@@ -36,10 +36,10 @@
   "cookies": [
     {
       "name": "sessionid",
-      "value": "056ybbgnb77xmwp0d0efnqhc90aa0rvj",
+      "value": "tv0e9jhqr4xr826bwkevbzew1h7zdixs",
       "domain": "communaute.inclusion.beta.gouv.fr",
       "path": "/",
-      "expires": 1728791747.789499,
+      "expires": 1729396673.572998,
       "size": 41,
       "httpOnly": true,
       "secure": true,
@@ -51,10 +51,10 @@
     },
     {
       "name": "csrftoken",
-      "value": "hUl88Fs3qLPtetbItrPqKrBHvW5YZ5Ul",
+      "value": "EQMUS4yHYniY0rAOaZzG08tiwbRH4LJE",
       "domain": "communaute.inclusion.beta.gouv.fr",
       "path": "/",
-      "expires": 1759031747.789404,
+      "expires": 1759636673.572898,
       "size": 41,
       "httpOnly": false,
       "secure": true,
@@ -68,15 +68,15 @@
   "headers": {
     "connection": "keep-alive",
     "content-encoding": "gzip",
-    "content-length": "8800",
-    "content-security-policy": "script-src-elem 'self' https://cdn.jsdelivr.net/npm/chart.js@4.0.1 https://cdn.jsdelivr.net/npm/jquery@3.6.1/dist/jquery.min.js https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.min.js https://browser.sentry-cdn.com https://js.sentry-cdn.com https://tally.so https://www.youtube.com/iframe_api https://www.youtube.com/s/player/ https://matomo.inclusion.beta.gouv.fr/ 'nonce-cT2FQFpGJhkd699kG25tjA=='; script-src 'self' https://cdn.jsdelivr.net/npm/chart.js@4.0.1 https://cdn.jsdelivr.net/npm/jquery@3.6.1/dist/jquery.min.js https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.min.js https://browser.sentry-cdn.com https://js.sentry-cdn.com https://tally.so https://www.youtube.com/iframe_api https://www.youtube.com/s/player/ https://matomo.inclusion.beta.gouv.fr/ 'nonce-cT2FQFpGJhkd699kG25tjA=='; connect-src 'self' *.sentry.io https://api-adresse.data.gouv.fr https://matomo.inclusion.beta.gouv.fr/; frame-src 'self' https://tally.so https://www.youtube.com/embed/; font-src 'self' https://fonts.gstatic.com/ data:; style-src-elem 'self' https://fonts.googleapis.com 'unsafe-inline'; style-src 'self' https://fonts.googleapis.com 'unsafe-inline'; img-src 'self' data: cellar-c2.services.clever-cloud.com https://matomo.inclusion.beta.gouv.fr/; default-src 'self'",
+    "content-length": "8838",
+    "content-security-policy": "frame-src 'self' https://tally.so https://www.youtube.com/embed/; default-src 'self'; style-src 'self' https://fonts.googleapis.com 'unsafe-inline'; script-src 'self' https://cdn.jsdelivr.net/npm/chart.js@4.0.1 https://cdn.jsdelivr.net/npm/jquery@3.6.1/dist/jquery.min.js https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.min.js https://browser.sentry-cdn.com https://js.sentry-cdn.com https://tally.so https://www.youtube.com/iframe_api https://www.youtube.com/s/player/ https://matomo.inclusion.beta.gouv.fr/ 'nonce-E3zGPZnkMNqOyu1GUYIQWg=='; script-src-elem 'self' https://cdn.jsdelivr.net/npm/chart.js@4.0.1 https://cdn.jsdelivr.net/npm/jquery@3.6.1/dist/jquery.min.js https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.min.js https://browser.sentry-cdn.com https://js.sentry-cdn.com https://tally.so https://www.youtube.com/iframe_api https://www.youtube.com/s/player/ https://matomo.inclusion.beta.gouv.fr/ 'nonce-E3zGPZnkMNqOyu1GUYIQWg=='; img-src 'self' data: cellar-c2.services.clever-cloud.com https://matomo.inclusion.beta.gouv.fr/; style-src-elem 'self' https://fonts.googleapis.com 'unsafe-inline'; font-src 'self' https://fonts.gstatic.com/ data:; connect-src 'self' *.sentry.io https://api-adresse.data.gouv.fr https://matomo.inclusion.beta.gouv.fr/",
     "content-type": "text/html; charset=utf-8",
     "cross-origin-opener-policy": "same-origin",
-    "date": "Sun, 29 Sep 2024 03:55:47 GMT",
+    "date": "Sun, 06 Oct 2024 03:57:53 GMT",
     "permissions-policy": "accelerometer=(), autoplay=(), camera=(), encrypted-media=(), fullscreen=(), geolocation=(), gyroscope=(), magnetometer=(), microphone=(), midi=(), payment=(), picture-in-picture=(), sync-xhr=(), usb=()",
     "referrer-policy": "same-origin",
-    "set-cookie": "csrftoken=hUl88Fs3qLPtetbItrPqKrBHvW5YZ5Ul; expires=Sun, 28 Sep 2025 03:55:47 GMT; Max-Age=31449600; Path=/; SameSite=Lax; Secure\nsessionid=056ybbgnb77xmwp0d0efnqhc90aa0rvj; expires=Sun, 13 Oct 2024 03:55:47 GMT; HttpOnly; Max-Age=1209600; Path=/; SameSite=Lax; Secure",
-    "sozu-id": "01J8XYQ4X8K4P4XMFHRT5V1SRG",
+    "set-cookie": "csrftoken=EQMUS4yHYniY0rAOaZzG08tiwbRH4LJE; expires=Sun, 05 Oct 2025 03:57:53 GMT; Max-Age=31449600; Path=/; SameSite=Lax; Secure\nsessionid=tv0e9jhqr4xr826bwkevbzew1h7zdixs; expires=Sun, 20 Oct 2024 03:57:53 GMT; HttpOnly; Max-Age=1209600; Path=/; SameSite=Lax; Secure",
+    "sozu-id": "01J9FZM0QVKQD0R3DMBSVF0E5Q",
     "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
     "vary": "Cookie, Accept-Encoding",
     "x-content-type-options": "nosniff",
@@ -141,7 +141,7 @@
     },
     {
       "hostname": "js.sentry-cdn.com",
-      "ip": "151.101.2.217",
+      "ip": "151.101.66.217",
       "geoip": {
         "city": {
           "geoname_id": 5391959,
@@ -228,58 +228,8 @@
     },
     {
       "hostname": "cdn.jsdelivr.net",
-      "ip": "151.101.201.229",
+      "ip": "104.18.186.31",
       "geoip": {
-        "city": {
-          "geoname_id": 5380748,
-          "names": {
-            "de": "Palo Alto",
-            "en": "Palo Alto",
-            "es": "Palo Alto",
-            "fr": "Palo Alto",
-            "ja": "パロアルト",
-            "pt-BR": "Palo Alto",
-            "ru": "Пало Альто"
-          }
-        },
-        "continent": {
-          "code": "NA",
-          "geoname_id": 6255149,
-          "names": {
-            "de": "Nordamerika",
-            "en": "North America",
-            "es": "Norteamérica",
-            "fr": "Amérique du Nord",
-            "ja": "北アメリカ",
-            "pt-BR": "América do Norte",
-            "ru": "Северная Америка",
-            "zh-CN": "北美洲"
-          }
-        },
-        "country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
-          "names": {
-            "de": "USA",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
-          }
-        },
-        "location": {
-          "accuracy_radius": 20,
-          "latitude": 37.4433,
-          "longitude": -122.141,
-          "metro_code": 807,
-          "time_zone": "America/Los_Angeles"
-        },
-        "postal": {
-          "code": "94302"
-        },
         "registered_country": {
           "geoname_id": 6252001,
           "iso_code": "US",
@@ -293,23 +243,7 @@
             "ru": "США",
             "zh-CN": "美国"
           }
-        },
-        "subdivisions": [
-          {
-            "geoname_id": 5332921,
-            "iso_code": "CA",
-            "names": {
-              "de": "Kalifornien",
-              "en": "California",
-              "es": "California",
-              "fr": "Californie",
-              "ja": "カリフォルニア州",
-              "pt-BR": "Califórnia",
-              "ru": "Калифорния",
-              "zh-CN": "加州"
-            }
-          }
-        ]
+        }
       }
     },
     {
