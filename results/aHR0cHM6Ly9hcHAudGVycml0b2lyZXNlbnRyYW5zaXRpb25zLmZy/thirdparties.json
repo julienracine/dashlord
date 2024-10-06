@@ -2,7 +2,7 @@
   "trackers": [
     {
       "type": "unknown",
-      "url": "https://stonly.com/js/widget/v2/version?v=1727605743381"
+      "url": "https://stonly.com/js/widget/v2/version?v=1728210118152"
     },
     {
       "type": "crisp",
@@ -14,7 +14,7 @@
     },
     {
       "type": "unknown",
-      "url": "https://stonly.com/js/widget/v2/stonly-widget.js?v=a43a970c"
+      "url": "https://stonly.com/js/widget/v2/stonly-widget.js?v=cdd2a455"
     },
     {
       "type": "unknown",
@@ -22,7 +22,7 @@
     },
     {
       "type": "unknown",
-      "url": "https://stonly.com/js/widget/v2/widget-01dc927eac823646b9bd.stonly.js"
+      "url": "https://stonly.com/js/widget/v2/widget-f7e4e0f60c48e2447f0b.stonly.js"
     },
     {
       "type": "unknown",
@@ -34,15 +34,23 @@
     },
     {
       "type": "unknown",
+      "url": "https://rlarzronkgoyvtdkltqy.supabase.co/rest/v1/ongoing_maintenance?select=*"
+    },
+    {
+      "type": "unknown",
+      "url": "https://rlarzronkgoyvtdkltqy.supabase.co/rest/v1/ongoing_maintenance?select=*"
+    },
+    {
+      "type": "unknown",
       "url": "https://api.stonly.com/api/v1/targeting/identify"
     },
     {
       "type": "unknown",
-      "url": "https://api.stonly.com/api/v2/widget/integration?widgetId=1b1b2533-383c-11ef-a9d4-06cb0cb2a85e&stonlyAnonymousId=80d88bff-a118-4c5e-b91f-39f1185475d1&url=https%3A%2F%2Fapp.territoiresentransitions.fr%2F"
+      "url": "https://api.stonly.com/api/v2/widget/integration?widgetId=1b1b2533-383c-11ef-a9d4-06cb0cb2a85e&stonlyAnonymousId=25a9f9b4-b40e-41c9-94bb-97bface05607&url=https%3A%2F%2Fapp.territoiresentransitions.fr%2F"
     },
     {
       "type": "unknown",
-      "url": "https://api.stonly.com/api/v2/widget/integration?widgetId=1b1b2533-383c-11ef-a9d4-06cb0cb2a85e&stonlyAnonymousId=80d88bff-a118-4c5e-b91f-39f1185475d1&url=https%3A%2F%2Fapp.territoiresentransitions.fr%2F"
+      "url": "https://api.stonly.com/api/v2/widget/integration?widgetId=1b1b2533-383c-11ef-a9d4-06cb0cb2a85e&stonlyAnonymousId=25a9f9b4-b40e-41c9-94bb-97bface05607&url=https%3A%2F%2Fapp.territoiresentransitions.fr%2F"
     },
     {
       "type": "unknown",
@@ -63,16 +71,17 @@
   ],
   "cookies": [],
   "headers": {
+    "alt-svc": "h3=\":443\"; ma=86400",
     "cache-control": "public, max-age=0",
     "cf-cache-status": "DYNAMIC",
-    "cf-ray": "8cab4a3758d6025e-ORD",
+    "cf-ray": "8ce4ed745d297ad9-SJC",
     "content-encoding": "br",
     "content-type": "text/html; charset=UTF-8",
-    "date": "Sun, 29 Sep 2024 10:29:03 GMT",
-    "etag": "W/\"aff-192252b6188\"",
-    "last-modified": "Tue, 24 Sep 2024 17:54:13 GMT",
+    "date": "Sun, 06 Oct 2024 10:21:58 GMT",
+    "etag": "W/\"fb5-19248137e10\"",
+    "last-modified": "Tue, 01 Oct 2024 12:34:50 GMT",
     "server": "cloudflare",
-    "x-envoy-upstream-service-time": "81",
+    "x-envoy-upstream-service-time": "301",
     "x-koyeb-backend": "par1",
     "x-koyeb-glb": "par1",
     "x-powered-by": "Express"
@@ -100,7 +109,7 @@
     },
     {
       "hostname": "stonly.com",
-      "ip": "18.172.122.120",
+      "ip": "18.173.121.57",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -132,9 +141,9 @@
         },
         "location": {
           "accuracy_radius": 1000,
-          "latitude": 34.0544,
-          "longitude": -118.244,
-          "time_zone": "America/Los_Angeles"
+          "latitude": 37.751,
+          "longitude": -97.822,
+          "time_zone": "America/Chicago"
         },
         "registered_country": {
           "geoname_id": 6252001,
@@ -149,23 +158,7 @@
             "ru": "США",
             "zh-CN": "美国"
           }
-        },
-        "subdivisions": [
-          {
-            "geoname_id": 5332921,
-            "iso_code": "CA",
-            "names": {
-              "de": "Kalifornien",
-              "en": "California",
-              "es": "California",
-              "fr": "Californie",
-              "ja": "カリフォルニア州",
-              "pt-BR": "Califórnia",
-              "ru": "Калифорния",
-              "zh-CN": "加州"
-            }
-          }
-        ]
+        }
       }
     },
     {
@@ -190,7 +183,7 @@
     },
     {
       "hostname": "s.stonly.com",
-      "ip": "54.230.18.70",
+      "ip": "18.164.154.78",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -337,6 +330,26 @@
             }
           }
         ]
+      }
+    },
+    {
+      "hostname": "rlarzronkgoyvtdkltqy.supabase.co",
+      "ip": "172.64.149.246",
+      "geoip": {
+        "registered_country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "USA",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        }
       }
     }
   ]
