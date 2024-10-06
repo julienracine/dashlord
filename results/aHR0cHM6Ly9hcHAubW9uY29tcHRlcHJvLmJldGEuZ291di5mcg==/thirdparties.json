@@ -1,12 +1,21 @@
 {
-  "trackers": [],
+  "trackers": [
+    {
+      "type": "crisp",
+      "url": "https://client.crisp.chat/l.js",
+      "details": {
+        "id": "crisp",
+        "message": "Ensure your TOS notify the CRISP usage"
+      }
+    }
+  ],
   "cookies": [
     {
       "name": "_pk_ses.85.5d49",
       "value": "1",
       "domain": "app.moncomptepro.beta.gouv.fr",
       "path": "/",
-      "expires": 1727588131,
+      "expires": 1728192870,
       "size": 16,
       "httpOnly": false,
       "secure": false,
@@ -18,10 +27,10 @@
     },
     {
       "name": "_pk_id.85.5d49",
-      "value": "38c7d9b632735325.1727586331.",
+      "value": "327ff5184b59f14f.1728191071.",
       "domain": "app.moncomptepro.beta.gouv.fr",
       "path": "/",
-      "expires": 1761541531,
+      "expires": 1762146271,
       "size": 42,
       "httpOnly": false,
       "secure": false,
@@ -33,11 +42,11 @@
     },
     {
       "name": "session",
-      "value": "s%3Ai0W3_KJ-4-Vh6nqlAWwLrZ0JYhJCvGxP.AbD3Cs9lK7ZSpBveM%2BeHNZfqJyurr4Xkfugp6bWInbg",
+      "value": "s%3A9UAnjHBdPzuztBAVknlTVPuTVHKGYBgQ.cfQrK3%2BRnN%2BGAQPJOqRzqqYrnYvYIK%2BNpOl98lD1NtY",
       "domain": "app.moncomptepro.beta.gouv.fr",
       "path": "/",
-      "expires": 1727672730.068254,
-      "size": 89,
+      "expires": 1728277469.98881,
+      "size": 93,
       "httpOnly": true,
       "secure": true,
       "session": false,
@@ -50,28 +59,28 @@
   "headers": {
     "cache-control": "no-store, no-cache, must-revalidate, proxy-revalidate",
     "content-encoding": "gzip",
-    "content-security-policy": "default-src 'self';img-src 'self' data: stats.data.gouv.fr;connect-src 'self' stats.data.gouv.fr;script-src 'self' stats.data.gouv.fr;style-src 'self';font-src 'self' data:;form-action 'self' *;base-uri 'self';frame-ancestors 'self';object-src 'none';script-src-attr 'none';upgrade-insecure-requests",
+    "content-security-policy": "default-src 'self';img-src 'self' data: stats.data.gouv.fr *.crisp.chat;connect-src 'self' stats.data.gouv.fr *.crisp.chat wss://*.crisp.chat;frame-src 'self' agentconnect.crisp.help;script-src 'self' stats.data.gouv.fr *.crisp.chat;style-src 'self' *.crisp.chat 'sha256-MKASWYfd3dGFQes9nQT5XnslE3xYlnUb4cHpxhk4fag=' 'sha256-Ks+4bfA56EzWbsVt5/a+A7rCibdXWRQVb7y2dkDLIZM=';font-src 'self' data: *.crisp.chat;form-action 'self' *;base-uri 'self';frame-ancestors 'self';object-src 'none';script-src-attr 'none';upgrade-insecure-requests",
     "content-type": "text/html; charset=utf-8",
     "cross-origin-opener-policy": "same-origin",
     "cross-origin-resource-policy": "same-origin",
-    "date": "Sun, 29 Sep 2024 05:05:29 GMT",
+    "date": "Sun, 06 Oct 2024 05:04:29 GMT",
     "expires": "0",
     "origin-agent-cluster": "?1",
     "referrer-policy": "no-referrer",
-    "set-cookie": "session=s%3Ai0W3_KJ-4-Vh6nqlAWwLrZ0JYhJCvGxP.AbD3Cs9lK7ZSpBveM%2BeHNZfqJyurr4Xkfugp6bWInbg; Path=/; Expires=Mon, 30 Sep 2024 05:05:29 GMT; HttpOnly; Secure; SameSite=Lax",
+    "set-cookie": "session=s%3A9UAnjHBdPzuztBAVknlTVPuTVHKGYBgQ.cfQrK3%2BRnN%2BGAQPJOqRzqqYrnYvYIK%2BNpOl98lD1NtY; Path=/; Expires=Mon, 07 Oct 2024 05:04:29 GMT; HttpOnly; Secure; SameSite=Lax",
     "strict-transport-security": "max-age=31536000",
     "surrogate-control": "no-store",
     "x-content-type-options": "nosniff",
     "x-dns-prefetch-control": "off",
     "x-download-options": "noopen",
     "x-permitted-cross-domain-policies": "none",
-    "x-request-id": "dc9157db-313d-48b6-ab82-f80c2a884743",
+    "x-request-id": "bf9a2aea-8c25-45d2-afa8-313b34aba545",
     "x-xss-protection": "0"
   },
   "endpoints": [
     {
       "hostname": "app.moncomptepro.beta.gouv.fr",
-      "ip": "80.247.12.255",
+      "ip": "185.21.194.105",
       "geoip": {
         "continent": {
           "code": "EU",
@@ -121,6 +130,26 @@
             "pt-BR": "França",
             "ru": "Франция",
             "zh-CN": "法国"
+          }
+        }
+      }
+    },
+    {
+      "hostname": "client.crisp.chat",
+      "ip": "104.18.28.104",
+      "geoip": {
+        "registered_country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "USA",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
           }
         }
       }
