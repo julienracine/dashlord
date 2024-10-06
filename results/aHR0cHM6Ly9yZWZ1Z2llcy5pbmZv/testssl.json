@@ -234,7 +234,7 @@
               "ip"           : "refugies.info/34.120.26.1",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "not supported"
+              "finding"      : "supported"
           }
 ,         {
               "id"           : "TLS_timestamp",
@@ -297,7 +297,7 @@
               "ip"           : "refugies.info/34.120.26.1",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1726301F6B423D5C0A3FDEFB882FB4EF"
+              "finding"      : "C7C2B6AF463CC45E125BDD903C807025"
           }
 ,         {
               "id"           : "cert_serialNumberLen",
@@ -311,21 +311,21 @@
               "ip"           : "refugies.info/34.120.26.1",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "D54D5AF59DBD9CF31A71A6B3EE832586C4675C23"
+              "finding"      : "B8E373A44FA75ECA6352A3C87693C2EAC63FF26C"
           }
 ,         {
               "id"           : "cert_fingerprintSHA256",
               "ip"           : "refugies.info/34.120.26.1",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "AAA59027F08876F3899C835650CD9F38EA209E4B8A009095319DDFEA8CAA5245"
+              "finding"      : "D9CF7A4D0E7C3AC0D7E6F5FFE33117FCDFB670A19F71AD99A6A6B9CD277051E0"
           }
 ,         {
               "id"           : "cert",
               "ip"           : "refugies.info/34.120.26.1",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "-----BEGIN CERTIFICATE-----\nMIIFNzCCBB+gAwIBAgIQFyYwH2tCPVwKP977iC+07zANBgkqhkiG9w0BAQsFADA7MQswCQYDVQQGEwJVUzEeMBwGA1UEChMVR29vZ2xlIFRydXN0IFNlcnZpY2VzMQwwCgYDVQQDEwNXUjMwHhcNMjQwODA4MTE1MzEzWhcNMjQxMTA2MTI0NjI2WjAYMRYwFAYDVQQDEw1yZWZ1Z2llcy5pbmZvMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAn3o+Uqp3wp3dISCi2wx584VWDTfRmFPSKWU3lg+yanXLgsEDiCwXpi1e1oluwjXHCKH6zMvzjAMy6LcEO749LNChkihimtjeP+V37d7evK4M6+3FfDsFEDXxQC0ujfv5YLdyEKSb+i2a/IMPhG4vpuRx0wxHMO5446FYFXqa0pdHyh0cOCuyEVzWj8t5GQl2dYcXr5Jk1TnbNf3MwjtSy6l0I1W89/q40Nr08uFETBch7YnJ8/2HMeDYWOKsI51rZ88Y8XuB4IdVX5YnwgsCatvtHweKWQelFqGazLTfYu0CkMF77gRPb7NXfJJm5TYYm6ZdH0dZC4rpeVzvr3yn7wIDAQABo4ICWDCCAlQwDgYDVR0PAQH/BAQDAgWgMBMGA1UdJQQMMAoGCCsGAQUFBwMBMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFEwE+nHAxZUE4mCEG3E5QqzTbl3mMB8GA1UdIwQYMBaAFMeB9f2OiNkAPE1jolAxJKDOI/4jMF4GCCsGAQUFBwEBBFIwUDAnBggrBgEFBQcwAYYbaHR0cDovL28ucGtpLmdvb2cvcy93cjMvRnlZMCUGCCsGAQUFBzAChhlodHRwOi8vaS5wa2kuZ29vZy93cjMuY3J0MCsGA1UdEQQkMCKCDXJlZnVnaWVzLmluZm+CEXd3dy5yZWZ1Z2llcy5pbmZvMBMGA1UdIAQMMAowCAYGZ4EMAQIBMDYGA1UdHwQvMC0wK6ApoCeGJWh0dHA6Ly9jLnBraS5nb29nL3dyMy81T0h2SVZGRXl0Zy5jcmwwggEDBgorBgEEAdZ5AgQCBIH0BIHxAO8AdQB2/4g/Crb7lVHCYcz1h7o0tKTNuyncaEIKn+ZnTFo6dAAAAZEyDO2+AAAEAwBGMEQCIHioq21BwUxRdp12HcFoS6W4xYSNwAUx4I3nZUeq6hSrAiBVTL2uuBiqPTGlesXGhBYHyj41DUn5zUJa6qjfMRNVfwB2AN/hVuuqBa+1nA+GcY2owDJOrlbZbqf1pWoB0cE7vlJcAAABkTIM7mIAAAQDAEcwRQIhAOg18XgbCgbpnyr16bsRw7pQnll4tOvVGWE+V4Ck+zSZAiAqUvPoSP2xLua0wyOThToSFUp/5nFe2k4uuBq/DlKSmjANBgkqhkiG9w0BAQsFAAOCAQEAKFp5DIKzVshDtXRZyMBSCPPYcsNJsd983U8LpWTfDPutp9Abzx35HMYKq+3KhBjoTknlkTORdrpgalQrL5aAuY/OppQdut+CYLKf+Sm/Hopt0+k26gNOL87vvjmad3ZGkZNv91w4TA88u7VbwnGHjiS3AOc8hTaWjLGXGfp7jODZETbQf1DsWasa7ya+bbgcxsWDX+uxHaNIUVEfdmcRiLZVl20RhnbsofwVdZnolQp/NWEClx4H+xUsb5wKjqBjkC/u9a7xs1E/ovrsGD0ggQ2dPl5W3GIwjUk7BEQEE0ID6pGz9a0/kN7YILhalKdtpJ/YHIb2H/rv3m54uY+X/Q==\n-----END CERTIFICATE-----"
+              "finding"      : "-----BEGIN CERTIFICATE-----\nMIIFOTCCBCGgAwIBAgIRAMfCtq9GPMReElvdkDyAcCUwDQYJKoZIhvcNAQELBQAwOzELMAkGA1UEBhMCVVMxHjAcBgNVBAoTFUdvb2dsZSBUcnVzdCBTZXJ2aWNlczEMMAoGA1UEAxMDV1IzMB4XDTI0MTAwNTA1MTIwN1oXDTI1MDEwMzA2MDQ0MFowGDEWMBQGA1UEAxMNcmVmdWdpZXMuaW5mbzCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBALDX/qp9wKDI3ItimU3H65sYRNKGfB6P3roqGH8miKO6tqHzoV9ckiv3YGI9RVI9v9F6lf1gu/GOZnevupVns0g4gJaXJFfxe095vieSoVI1V5o2ZZMkz/kn83f/IO3uRr9jSiHlk0DcSK7O1EYxRnl/G6YdtDcyuYXBrRqYV9fdBmtlswdozfANCIG2jG+5TdCvevzYjkMDw8LJNu43Q5DAz0hHaqFS3841MNf6PGxozf+UeFPOKnolprQkulXN+FLzHOwoAEJXhs4slZDgfynS16alxai0qrb9jU4GpgcS8sXOmbwNwptM+OrfisvADDrvt+w7bFwY9vY8TOLuFz8CAwEAAaOCAlkwggJVMA4GA1UdDwEB/wQEAwIFoDATBgNVHSUEDDAKBggrBgEFBQcDATAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBRjFL8MVndoHaeq54n/u9KDTPNLXzAfBgNVHSMEGDAWgBTHgfX9jojZADxNY6JQMSSgziP+IzBeBggrBgEFBQcBAQRSMFAwJwYIKwYBBQUHMAGGG2h0dHA6Ly9vLnBraS5nb29nL3Mvd3IzL3g4STAlBggrBgEFBQcwAoYZaHR0cDovL2kucGtpLmdvb2cvd3IzLmNydDArBgNVHREEJDAigg1yZWZ1Z2llcy5pbmZvghF3d3cucmVmdWdpZXMuaW5mbzATBgNVHSAEDDAKMAgGBmeBDAECATA2BgNVHR8ELzAtMCugKaAnhiVodHRwOi8vYy5wa2kuZ29vZy93cjMvbk1JN3JhbUdLY3MuY3JsMIIBBAYKKwYBBAHWeQIEAgSB9QSB8gDwAHcAzxFW7tUufK/zh1vZaS6b6RpxZ0qwF+ysAdJbd87MOwgAAAGSW06PXwAABAMASDBGAiEAq6bzWIhZmSDPVscBUt+BN+A7DpMWfqcdGAtFCDxGF5ICIQCckRb4gUJUO4MAqUl+p9Lajit5qGu9WzB1mW0GIUTYCQB1AObSMWNAd4zBEEEG13G5zsHSQPaWhIb7uocyHf0eN45QAAABkltOj0QAAAQDAEYwRAIgXFzY2fIcVyW6X2w5Ri7Z+Wox4dyUnhiu4vwsIfaDhIICIELCbGNGoageHDqvYUZcanFoU7Ier2GlgBq2oSHn0jH5MA0GCSqGSIb3DQEBCwUAA4IBAQBtdHF1n1Ux+d6LrjHs/HgTIk+rDtivrVvLCzkQy06pYSkn9HUu6em4XZPnF50jo77eKWjA6AJtnc5Ri1CEAYwaW1c2H11MZGuxmfC/lxvG9Xpz+1bOGlxGJlkApaBgsbCy5n8Of3+MU4Y+LyoAm82+v7OeS4COqhC3Qh9+9Bw62ke0epp3i7vGXwY1rm9QJMWtI49xwkystLar4/mfdKDEdQL2SqMbSZnmVw4DmQiwXRSvuS6SHMpHxhKjm4iX4qhr3rDAKDQcGt/cNd1tvsE4zkNam9qDbWdoOb2XrhuHHHOBMKjKuy3kFEXQkboPiGL1A91jqwYmoUJ0WSGElnXt\n-----END CERTIFICATE-----"
           }
 ,         {
               "id"           : "cert_commonName",
@@ -373,22 +373,22 @@
               "id"           : "cert_expirationStatus",
               "ip"           : "refugies.info/34.120.26.1",
               "port"         : "443",
-              "severity"     : "MEDIUM",
-              "finding"      : "expires < 60 days (37)"
+              "severity"     : "OK",
+              "finding"      : "88 >= 60 days"
           }
 ,         {
               "id"           : "cert_notBefore",
               "ip"           : "refugies.info/34.120.26.1",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "2024-08-08 11:53"
+              "finding"      : "2024-10-05 05:12"
           }
 ,         {
               "id"           : "cert_notAfter",
               "ip"           : "refugies.info/34.120.26.1",
               "port"         : "443",
-              "severity"     : "MEDIUM",
-              "finding"      : "2024-11-06 12:46"
+              "severity"     : "OK",
+              "finding"      : "2025-01-03 06:04"
           }
 ,         {
               "id"           : "cert_extlifeSpan",
@@ -409,14 +409,14 @@
               "ip"           : "refugies.info/34.120.26.1",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "http://c.pki.goog/wr3/5OHvIVFEytg.crl"
+              "finding"      : "http://c.pki.goog/wr3/nMI7ramGKcs.crl"
           }
 ,         {
               "id"           : "cert_ocspURL",
               "ip"           : "refugies.info/34.120.26.1",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "http://o.pki.goog/s/wr3/FyY"
+              "finding"      : "http://o.pki.goog/s/wr3/x8I"
           }
 ,         {
               "id"           : "OCSP_stapling",
@@ -577,7 +577,7 @@
               "ip"           : "refugies.info/34.120.26.1",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1727618335"
+              "finding"      : "1728222675"
           }
 ,         {
               "id"           : "HSTS",
@@ -750,7 +750,7 @@
               "severity"     : "INFO",
               "cve"          : "CVE-2016-0800 CVE-2016-0703",
               "cwe"          : "CWE-310",
-              "finding"      : "Make sure you don't use this certificate elsewhere with SSLv2 enabled services, see https://search.censys.io/search?resource=hosts&virtual_hosts=INCLUDE&q=AAA59027F08876F3899C835650CD9F38EA209E4B8A009095319DDFEA8CAA5245"
+              "finding"      : "Make sure you don't use this certificate elsewhere with SSLv2 enabled services, see https://search.censys.io/search?resource=hosts&virtual_hosts=INCLUDE&q=D9CF7A4D0E7C3AC0D7E6F5FFE33117FCDFB670A19F71AD99A6A6B9CD277051E0"
           }
 ,         {
               "id"           : "LOGJAM",
