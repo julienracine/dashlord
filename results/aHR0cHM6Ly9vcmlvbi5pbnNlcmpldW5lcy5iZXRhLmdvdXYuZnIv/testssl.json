@@ -290,7 +290,7 @@
               "ip"           : "orion.inserjeunes.beta.gouv.fr/135.125.66.137",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "03A59FF0828BB1BB295700AA74FD9EB9EE3E"
+              "finding"      : "035018E17A227D51F9B6019B4CE0AF0278D8"
           }
 ,         {
               "id"           : "cert_serialNumberLen",
@@ -304,21 +304,21 @@
               "ip"           : "orion.inserjeunes.beta.gouv.fr/135.125.66.137",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "40B3B444F24F299BBB0FCD46820304FF0AFC165D"
+              "finding"      : "741BD3DAE704F72BA5A30EC13D326C0B018E6725"
           }
 ,         {
               "id"           : "cert_fingerprintSHA256",
               "ip"           : "orion.inserjeunes.beta.gouv.fr/135.125.66.137",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "CBC843AE4E7E240956829AE300B9AFF000D2238C37DD719236D4FDD1DF78C7DF"
+              "finding"      : "D8E337F83D03B9539613D838844E2D24E13575C00DE5CB528500AB2301D020DF"
           }
 ,         {
               "id"           : "cert",
               "ip"           : "orion.inserjeunes.beta.gouv.fr/135.125.66.137",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "-----BEGIN CERTIFICATE-----\nMIIFDTCCA/WgAwIBAgISA6Wf8IKLsbspVwCqdP2eue4+MA0GCSqGSIb3DQEBCwUAMDMxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQwwCgYDVQQDEwNSMTEwHhcNMjQwNzI4MjMwMTE5WhcNMjQxMDI2MjMwMTE4WjApMScwJQYDVQQDEx5vcmlvbi5pbnNlcmpldW5lcy5iZXRhLmdvdXYuZnIwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDo4M2gQ7lVlcLp5YshYMXSCCcKppfBAcPuEwEWE5rynh+VAYn5z4Vx4O7QLOK+LEtHZmKfzrRwtlFEw26ZEoKgRewx3jl4T36FC4ncMEU1Zi7TlLku8uLqjYEZg6VAh7Hel/J8MgJobb1/EavNUf1UKR2AloeVKekY3LTvPQTmksF5eontfDwTQ+Ffmcx8TUiDR7VHbiwAftlyrKjDpFOHUKEi17sTq8Ig3OTZRh/sIPwKQLAPIHQrsCAU2YrvbEGpplE0mBmYH+p7btsevuLg8o5dGVqPjcZzi2aG8sZeq2k/wSmQnrW6vhiuCRZp7o+4R8qkK0htJVXm26DQf3txAgMBAAGjggIjMIICHzAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFNZUim9kwWUTHfg7GALXyPAC9mVaMB8GA1UdIwQYMBaAFMXPRqTq9MPAemyVxC2wXpIvJuO5MFcGCCsGAQUFBwEBBEswSTAiBggrBgEFBQcwAYYWaHR0cDovL3IxMS5vLmxlbmNyLm9yZzAjBggrBgEFBQcwAoYXaHR0cDovL3IxMS5pLmxlbmNyLm9yZy8wKQYDVR0RBCIwIIIeb3Jpb24uaW5zZXJqZXVuZXMuYmV0YS5nb3V2LmZyMBMGA1UdIAQMMAowCAYGZ4EMAQIBMIIBBQYKKwYBBAHWeQIEAgSB9gSB8wDxAHYA7s3QZNXbGs7FXLedtM0TojKHRny87N7DUUhZRnEftZsAAAGQ+8qiiAAABAMARzBFAiEAw0nB9W+nsbX1SFvG5Dghq9VXhAbADuAk1o4nd7NTcuICIHDE61n25N30W3XXWJpUCzMvDXXUQIueVVhugQsPcEu6AHcAGZgQcQnw1lIuMIDSnj9ku4NuKMz5D1KO7t/OSj8WtMoAAAGQ+8qi4QAABAMASDBGAiEA8J2GinLqQkwZjPYUwVFuJIqJYhKKe185x2Bjhm6Fk7sCIQDK/JxGdokE5Ah7MNcugPUQuNgqWtiEmtKE5e9pAzZc0jANBgkqhkiG9w0BAQsFAAOCAQEAguw6Z0sXOstGVgONFNo+M8i6Y6QzRtF6m1JLnXyL+vKTGgSpYEbVB1wyKAq3OpeFfXsuym3xKtTRtnmqIfa43bZnuQhQNz0fQAOzfkLFwmKRiSgC7mqDhS+FrpiMvkr7eYN/wNvmSW2GLaHos2+9js3DKiuN6RNLJAf2GY9h8sOe2Pl0qV6B92Vf7OYM69137coyx/C+Bjeo0aLiIa9GcdFP0AkRuRkuHCDI2q1gj55EPg0OuLp4USWgsN/IJk0sVo53lP/8ZTapd4/VSfCuq99NQyNUoBm0swWWmqB7QyzW93cG9rHPW7kErzl5uqIhBpQOuVmVS1vi1Zs4eB/FcA==\n-----END CERTIFICATE-----"
+              "finding"      : "-----BEGIN CERTIFICATE-----\nMIIFDTCCA/WgAwIBAgISA1AY4XoifVH5tgGbTOCvAnjYMA0GCSqGSIb3DQEBCwUAMDMxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQwwCgYDVQQDEwNSMTEwHhcNMjQwOTI5MjMwNDI3WhcNMjQxMjI4MjMwNDI2WjApMScwJQYDVQQDEx5vcmlvbi5pbnNlcmpldW5lcy5iZXRhLmdvdXYuZnIwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDJaK54XINMCfDJuOTmOTbwvRNhdmUjz3ONAWUAtKHCQK8QrPNb4Qp5zE3uV5v+E3CnW09AcWYFcWYXpXvdVmbkLUpXNTp7UriODo3sInAp4lug5WQ9KRYxF+LqkSRrLPIdXbARVrbrs//Gtg5DnJvbJTWsTw75f3c2nX5IuQwA1ctTbICApmC1Br5xmSpPuRYOLsqGKCeTCj3yqEX4Qpx/3YnQK/Q4RgYH/ZA+D0+96lLMDa0kHw/QRIyQbUf0rl1pcI52Vz9Fq39pwyPmVxDQz0htxRq8sEnMy/+EmLpYYa2XbOIBIKy+wKfCgTl/LnB8g+xu0X7OZVWuiSkBxG/LAgMBAAGjggIjMIICHzAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFPoyFZ2MTtwKjC7Vqkc8gDn5jrPgMB8GA1UdIwQYMBaAFMXPRqTq9MPAemyVxC2wXpIvJuO5MFcGCCsGAQUFBwEBBEswSTAiBggrBgEFBQcwAYYWaHR0cDovL3IxMS5vLmxlbmNyLm9yZzAjBggrBgEFBQcwAoYXaHR0cDovL3IxMS5pLmxlbmNyLm9yZy8wKQYDVR0RBCIwIIIeb3Jpb24uaW5zZXJqZXVuZXMuYmV0YS5nb3V2LmZyMBMGA1UdIAQMMAowCAYGZ4EMAQIBMIIBBQYKKwYBBAHWeQIEAgSB9gSB8wDxAHcASLDja9qmRzQP5WoC+p0w6xxSActW3SyB2bu/qznYhHMAAAGSQDzHdwAABAMASDBGAiEAhgJ9QmDVhp8Aqrmr3W08Op2WYZPwwmzfPo/eXNvLdEUCIQCoo5Tvy42C1BhuEetKt8nPeuj2vQqxjjXRBbPzLIinuAB2AKLjCuRF772tm3447Udnd1PXgluElNcrXhssxLlQpEfnAAABkkA8x34AAAQDAEcwRQIhAKSFKk3iZNBqOvZabklUBvWG1WL/v7YdbJz0raEUAiLyAiBCNmjhTNnoueb1nDqIjcCPQHzC9A/aH+lEi7EsxppzpzANBgkqhkiG9w0BAQsFAAOCAQEALNtDqlEJ1UNvstcitUx/xtxQyfnwF11jr3D/EB3NF8h2TZtmmt3Y6kWd5mRYDjaWLrw3e2fQfPYJT+HyW9a0C3rKSIuCsgPWDKeFQ0K6RG9h4suNDUjzWH4Ol+NQMgDroDwYi7/SSfM3GG2IRwEutHFXRbU6g1/36k4RRZZtVm4TjD5qm7C4lppemHV6IcO2PpeVuJmKNHaskOCsq3VVdPAdLdPYtY9sQ+sJRY3ZMEaHWz32tIJmwTp7Cq4hPeB0svsyFmyA16/feq4Chwzp5OayevoHp2JQhoKXDqQufvjvzI+4W7UzsmSmsp2RucCwC/Z5lcHTB9fIa+CJV12O4Q==\n-----END CERTIFICATE-----"
           }
 ,         {
               "id"           : "cert_commonName",
@@ -366,22 +366,22 @@
               "id"           : "cert_expirationStatus",
               "ip"           : "orion.inserjeunes.beta.gouv.fr/135.125.66.137",
               "port"         : "443",
-              "severity"     : "MEDIUM",
-              "finding"      : "expires < 30 days (27)"
+              "severity"     : "OK",
+              "finding"      : "83 >= 30 days"
           }
 ,         {
               "id"           : "cert_notBefore",
               "ip"           : "orion.inserjeunes.beta.gouv.fr/135.125.66.137",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "2024-07-28 23:01"
+              "finding"      : "2024-09-29 23:04"
           }
 ,         {
               "id"           : "cert_notAfter",
               "ip"           : "orion.inserjeunes.beta.gouv.fr/135.125.66.137",
               "port"         : "443",
-              "severity"     : "MEDIUM",
-              "finding"      : "2024-10-26 23:01"
+              "severity"     : "OK",
+              "finding"      : "2024-12-28 23:04"
           }
 ,         {
               "id"           : "cert_extlifeSpan",
@@ -513,107 +513,15 @@
               "id"           : "HTTP_status_code",
               "ip"           : "orion.inserjeunes.beta.gouv.fr/135.125.66.137",
               "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "200 OK ('/')"
+              "severity"     : "WARN",
+              "finding"      : "HTTP header request failed"
           }
 ,         {
-              "id"           : "HTTP_clock_skew",
+              "id"           : "scanProblem",
               "ip"           : "orion.inserjeunes.beta.gouv.fr/135.125.66.137",
               "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "0 seconds from localtime"
-          }
-,         {
-              "id"           : "HTTP_headerTime",
-              "ip"           : "orion.inserjeunes.beta.gouv.fr/135.125.66.137",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "1727619191"
-          }
-,         {
-              "id"           : "HSTS_time",
-              "ip"           : "orion.inserjeunes.beta.gouv.fr/135.125.66.137",
-              "port"         : "443",
-              "severity"     : "OK",
-              "finding"      : "365 days (=31536000 seconds) > 15552000 seconds"
-          }
-,         {
-              "id"           : "HSTS_subdomains",
-              "ip"           : "orion.inserjeunes.beta.gouv.fr/135.125.66.137",
-              "port"         : "443",
-              "severity"     : "OK",
-              "finding"      : "includes subdomains"
-          }
-,         {
-              "id"           : "HSTS_preload",
-              "ip"           : "orion.inserjeunes.beta.gouv.fr/135.125.66.137",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "domain is NOT marked for preloading"
-          }
-,         {
-              "id"           : "HPKP",
-              "ip"           : "orion.inserjeunes.beta.gouv.fr/135.125.66.137",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "No support for HTTP Public Key Pinning"
-          }
-,         {
-              "id"           : "banner_server",
-              "ip"           : "orion.inserjeunes.beta.gouv.fr/135.125.66.137",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "No Server banner line in header, interesting!"
-          }
-,         {
-              "id"           : "banner_application",
-              "ip"           : "orion.inserjeunes.beta.gouv.fr/135.125.66.137",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "No application banner found"
-          }
-,         {
-              "id"           : "cookie_count",
-              "ip"           : "orion.inserjeunes.beta.gouv.fr/135.125.66.137",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "0 at '/'"
-          }
-,         {
-              "id"           : "X-Frame-Options",
-              "ip"           : "orion.inserjeunes.beta.gouv.fr/135.125.66.137",
-              "port"         : "443",
-              "severity"     : "OK",
-              "finding"      : "SAMEORIGIN"
-          }
-,         {
-              "id"           : "X-Content-Type-Options",
-              "ip"           : "orion.inserjeunes.beta.gouv.fr/135.125.66.137",
-              "port"         : "443",
-              "severity"     : "OK",
-              "finding"      : "nosniff"
-          }
-,         {
-              "id"           : "Referrer-Policy",
-              "ip"           : "orion.inserjeunes.beta.gouv.fr/135.125.66.137",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "no-referrer-when-downgrade"
-          }
-,         {
-              "id"           : "Cache-Control",
-              "ip"           : "orion.inserjeunes.beta.gouv.fr/135.125.66.137",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "private, no-cache, no-store, max-age=0, must-revalidate"
-          }
-,         {
-              "id"           : "banner_reverseproxy",
-              "ip"           : "orion.inserjeunes.beta.gouv.fr/135.125.66.137",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "cwe"          : "CWE-200",
-              "finding"      : "--"
+              "severity"     : "WARN",
+              "finding"      : "HTTP header was repeatedly zero."
           }
 ,         {
               "id"           : "heartbleed",
@@ -736,7 +644,7 @@
               "severity"     : "INFO",
               "cve"          : "CVE-2016-0800 CVE-2016-0703",
               "cwe"          : "CWE-310",
-              "finding"      : "Make sure you don't use this certificate elsewhere with SSLv2 enabled services, see https://search.censys.io/search?resource=hosts&virtual_hosts=INCLUDE&q=CBC843AE4E7E240956829AE300B9AFF000D2238C37DD719236D4FDD1DF78C7DF"
+              "finding"      : "Make sure you don't use this certificate elsewhere with SSLv2 enabled services, see https://search.censys.io/search?resource=hosts&virtual_hosts=INCLUDE&q=D8E337F83D03B9539613D838844E2D24E13575C00DE5CB528500AB2301D020DF"
           }
 ,         {
               "id"           : "LOGJAM-common_primes",
@@ -1112,6 +1020,6 @@
               "ip"           : "orion.inserjeunes.beta.gouv.fr/135.125.66.137",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "67"
+              "finding"      : "68"
           }
 ]
