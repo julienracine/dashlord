@@ -30,27 +30,27 @@
     },
     {
       "type": "unknown",
-      "url": "https://tarteaucitron.io/log/?account=116fc2aaf9a8e635ee3bd10f2d6999d8b768651a&domain=www.snu.gouv.fr&status=!adformsnu%3Dfalse!facebookpixel%3Dfalse!snapchat%3Dfalse!googletagmanager%3Dfalse&_time=1727595366592"
+      "url": "https://tarteaucitron.io/log/?account=116fc2aaf9a8e635ee3bd10f2d6999d8b768651a&domain=www.snu.gouv.fr&status=!adformsnu%3Dfalse!facebookpixel%3Dfalse!snapchat%3Dfalse!googletagmanager%3Dfalse&_time=1728200081420"
     }
   ],
   "cookies": [],
   "headers": {
     "cache-control": "max-age=0",
     "cf-cache-status": "DYNAMIC",
-    "cf-ray": "8caa4ccf1bb58f51-ORD",
+    "cf-ray": "8ce3f856dc8baab1-SJC",
     "content-encoding": "br",
     "content-type": "text/html; charset=UTF-8",
-    "date": "Sun, 29 Sep 2024 07:36:03 GMT",
-    "expires": "Sun, 29 Sep 2024 07:36:03 GMT",
-    "last-modified": "Sat, 28 Sep 2024 21:41:24 GMT",
+    "date": "Sun, 06 Oct 2024 07:34:38 GMT",
+    "expires": "Sun, 06 Oct 2024 07:34:38 GMT",
+    "last-modified": "Sun, 06 Oct 2024 03:41:22 GMT",
     "server": "cloudflare",
-    "sozu-id": "01J8YB901S237Z9HJC2WEBTZMS",
+    "sozu-id": "01J9GC0WSSQ1WYXY7JDVTJSHRK",
     "vary": "Accept-Encoding"
   },
   "endpoints": [
     {
       "hostname": "www.snu.gouv.fr",
-      "ip": "172.67.4.138",
+      "ip": "104.22.16.136",
       "geoip": {
         "registered_country": {
           "geoname_id": 6252001,
@@ -167,19 +167,18 @@
     },
     {
       "hostname": "plausible.io",
-      "ip": "169.150.236.105",
+      "ip": "169.150.221.147",
       "geoip": {
         "city": {
-          "geoname_id": 4887398,
+          "geoname_id": 5392171,
           "names": {
-            "de": "Chicago",
-            "en": "Chicago",
-            "es": "Chicago",
-            "fr": "Chicago",
-            "ja": "シカゴ",
-            "pt-BR": "Chicago",
-            "ru": "Чикаго",
-            "zh-CN": "芝加哥"
+            "de": "San José",
+            "en": "San Jose",
+            "es": "San José",
+            "fr": "San José",
+            "ja": "サンノゼ",
+            "pt-BR": "San José",
+            "ru": "Сан-Хосе"
           }
         },
         "continent": {
@@ -212,13 +211,13 @@
         },
         "location": {
           "accuracy_radius": 20,
-          "latitude": 41.8874,
-          "longitude": -87.6318,
-          "metro_code": 602,
-          "time_zone": "America/Chicago"
+          "latitude": 37.1835,
+          "longitude": -121.7714,
+          "metro_code": 807,
+          "time_zone": "America/Los_Angeles"
         },
         "postal": {
-          "code": "60602"
+          "code": "95141"
         },
         "registered_country": {
           "geoname_id": 2635167,
@@ -236,17 +235,17 @@
         },
         "subdivisions": [
           {
-            "geoname_id": 4896861,
-            "iso_code": "IL",
+            "geoname_id": 5332921,
+            "iso_code": "CA",
             "names": {
-              "de": "Illinois",
-              "en": "Illinois",
-              "es": "Illinois",
-              "fr": "Illinois",
-              "ja": "イリノイ州",
-              "pt-BR": "Ilinóis",
-              "ru": "Иллинойс",
-              "zh-CN": "伊利诺伊州"
+              "de": "Kalifornien",
+              "en": "California",
+              "es": "California",
+              "fr": "Californie",
+              "ja": "カリフォルニア州",
+              "pt-BR": "Califórnia",
+              "ru": "Калифорния",
+              "zh-CN": "加州"
             }
           }
         ]
@@ -254,7 +253,7 @@
     },
     {
       "hostname": "static.cloudflareinsights.com",
-      "ip": "104.16.80.73",
+      "ip": "104.16.79.73",
       "geoip": {
         "registered_country": {
           "geoname_id": 6252001,
