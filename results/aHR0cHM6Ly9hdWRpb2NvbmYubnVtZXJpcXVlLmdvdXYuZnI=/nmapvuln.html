@@ -54,7 +54,7 @@
 <h1>Scan Report<br><small>Nmap 7.92</small>
 </h1>
 <pre style="white-space:pre-wrap; word-wrap:break-word;">nmap -sV --script vulners --script-args mincvss=5.0 -oA /data/nmapvuln audioconf.numerique.gouv.fr</pre>
-<p class="lead">Sun Sep 29 02:16:26 2024 – Sun Sep 29 02:17:14 2024<br>1 hosts scanned.
+<p class="lead">Sun Oct  6 02:18:06 2024 – Sun Oct  6 02:18:42 2024<br>1 hosts scanned.
               1 hosts up.
               0 hosts down.
             </p>
@@ -121,7 +121,7 @@
 <pre style="white-space:pre-wrap; word-wrap:break-word;">
   FourOhFourRequest: 
     HTTP/1.1 301 Moved Permanently
-    Date: Sun, 29 Sep 2024 02:16:44 GMT
+    Date: Sun, 06 Oct 2024 02:18:20 GMT
     Content-Type: text/html
     Content-Length: 166
     Connection: close
@@ -133,9 +133,9 @@
     &lt;hr&gt;&lt;center&gt;openresty&lt;/center&gt;
     &lt;/body&gt;
     &lt;/html&gt;
-  GetRequest, HTTPOptions: 
+  GetRequest: 
     HTTP/1.1 301 Moved Permanently
-    Date: Sun, 29 Sep 2024 02:16:43 GMT
+    Date: Sun, 06 Oct 2024 02:18:19 GMT
     Content-Type: text/html
     Content-Length: 166
     Connection: close
@@ -147,22 +147,23 @@
     &lt;hr&gt;&lt;center&gt;openresty&lt;/center&gt;
     &lt;/body&gt;
     &lt;/html&gt;
-  RTSPRequest: 
-    HTTP/1.1 400 Bad Request
-    Date: Sun, 29 Sep 2024 02:16:43 GMT
+  HTTPOptions: 
+    HTTP/1.1 301 Moved Permanently
+    Date: Sun, 06 Oct 2024 02:18:20 GMT
     Content-Type: text/html
-    Content-Length: 154
+    Content-Length: 166
     Connection: close
+    Location: https://audioconf.numerique.gouv.fr/
     &lt;html&gt;
-    &lt;head&gt;&lt;title&gt;400 Bad Request&lt;/title&gt;&lt;/head&gt;
+    &lt;head&gt;&lt;title&gt;301 Moved Permanently&lt;/title&gt;&lt;/head&gt;
     &lt;body&gt;
-    &lt;center&gt;&lt;h1&gt;400 Bad Request&lt;/h1&gt;&lt;/center&gt;
+    &lt;center&gt;&lt;h1&gt;301 Moved Permanently&lt;/h1&gt;&lt;/center&gt;
     &lt;hr&gt;&lt;center&gt;openresty&lt;/center&gt;
     &lt;/body&gt;
     &lt;/html&gt;
-  X11Probe: 
+  RTSPRequest, X11Probe: 
     HTTP/1.1 400 Bad Request
-    Date: Sun, 29 Sep 2024 02:16:44 GMT
+    Date: Sun, 06 Oct 2024 02:18:20 GMT
     Content-Type: text/html
     Content-Length: 154
     Connection: close
@@ -184,13 +185,11 @@
 <td title="Extra Info"></td>
 </tr>
 <tr><td colspan="7">
-<a href="https://nvd.nist.gov/vuln/search/results?form_type=Advanced&amp;cves=on&amp;cpe_version="></a><h5>http-trane-info</h5>
-<pre style="white-space:pre-wrap; word-wrap:break-word;">Problem with XML parsing of /evox/about</pre>
-<h5>fingerprint-strings</h5>
+<a href="https://nvd.nist.gov/vuln/search/results?form_type=Advanced&amp;cves=on&amp;cpe_version="></a><h5>fingerprint-strings</h5>
 <pre style="white-space:pre-wrap; word-wrap:break-word;">
   GetRequest: 
     HTTP/1.1 200 OK
-    Date: Sun, 29 Sep 2024 02:16:49 GMT
+    Date: Sun, 06 Oct 2024 02:18:26 GMT
     Content-Type: text/html
     Content-Length: 3884
     Connection: close
@@ -200,15 +199,15 @@
     X-Frame-Options: DENY
     X-Content-Type-Options: nosniff
     X-XSS-Protection: 1; mode=block
-    &lt;!doctypehtml&gt;&lt;meta name="viewport"content="width=device-width"&gt;&lt;meta charset="utf-8"&gt;&lt;script&gt;&lt;/script&gt;&lt;script&gt;var __blnChallengeStore={"domain":".numerique.gouv.fr","unregisterServiceWorker":false,"cookie":{"name":"bln_challengejs","value":"gHntngsFdAi6FsW71UtIZjT2PCgeNAZobCJIMyhgN8oSmZo5EeEKPGFqTwsFQRqU4DCv1bHcLgy4XiQDv3AbIjyGdHrBoX7NyvjXD0EvjXI","maxAge":900,"path":"/"},"checkChallengeParams":{"rule_id":"","tracking_id":"","bot_category":"unknown","request_fate":"challengejs"}};(()=&gt;{"use strict";const e=function*({domain:e,maxAge:n,name:o,path:a,secure:t,value:i}){yield`${o}=${
+    &lt;!doctypehtml&gt;&lt;meta name="viewport"content="width=device-width"&gt;&lt;meta charset="utf-8"&gt;&lt;script&gt;&lt;/script&gt;&lt;script&gt;var __blnChallengeStore={"domain":".numerique.gouv.fr","unregisterServiceWorker":false,"cookie":{"value":"UhgGkZT3RdL5gk6KQ4COdLbyyK8uyfK0DMYuw0EORjtyG3JI0DQ1-YPOaBp-apIMcCmhS57r5xEH-GpzzxoEDM14E_mPZ9LCkGvjdcWriAM","path":"/","name":"bln_challengejs","maxAge":900},"checkChallengeParams":{"tracking_id":"","request_fate":"challengejs","bot_category":"unknown","rule_id":""}};(()=&gt;{"use strict";const e=function*({domain:e,maxAge:n,name:o,path:a,secure:t,value:i}){yield`${o}=${
   HTTPOptions: 
     HTTP/1.1 404 Not Found
-    Date: Sun, 29 Sep 2024 02:16:50 GMT
+    Date: Sun, 06 Oct 2024 02:18:26 GMT
     Content-Type: text/html
     Content-Length: 15532
     Connection: close
     ETag: "66d086dd-3cac"
-    X-Varnish: 5103713
+    X-Varnish: 507945
     Age: 0
     Strict-Transport-Security: max-age=63072000
     X-Frame-Options: DENY
@@ -231,6 +230,8 @@
     class="error-title"&gt;Error 404&lt;/h1&gt;
     &lt;div class="error-message"&gt;Krill not found&lt;/div&gt;
     &lt;div class="error-illustration"&gt;</pre>
+<h5>http-trane-info</h5>
+<pre style="white-space:pre-wrap; word-wrap:break-word;">Problem with XML parsing of /evox/about</pre>
 </td></tr>
 </tbody>
 </table></div>
