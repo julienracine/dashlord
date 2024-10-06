@@ -373,8 +373,8 @@
               "id"           : "cert_expirationStatus <hostCert#1>",
               "ip"           : "www.jeveuxaider.gouv.fr/104.22.77.85",
               "port"         : "443",
-              "severity"     : "OK",
-              "finding"      : "65 >= 60 days"
+              "severity"     : "MEDIUM",
+              "finding"      : "expires < 60 days (58)"
           }
 ,         {
               "id"           : "cert_notBefore <hostCert#1>",
@@ -387,7 +387,7 @@
               "id"           : "cert_notAfter <hostCert#1>",
               "ip"           : "www.jeveuxaider.gouv.fr/104.22.77.85",
               "port"         : "443",
-              "severity"     : "OK",
+              "severity"     : "MEDIUM",
               "finding"      : "2024-12-04 05:00"
           }
 ,         {
@@ -674,8 +674,8 @@
               "id"           : "cert_expirationStatus <hostCert#2>",
               "ip"           : "www.jeveuxaider.gouv.fr/104.22.77.85",
               "port"         : "443",
-              "severity"     : "OK",
-              "finding"      : "65 >= 60 days"
+              "severity"     : "MEDIUM",
+              "finding"      : "expires < 60 days (58)"
           }
 ,         {
               "id"           : "cert_notBefore <hostCert#2>",
@@ -688,7 +688,7 @@
               "id"           : "cert_notAfter <hostCert#2>",
               "ip"           : "www.jeveuxaider.gouv.fr/104.22.77.85",
               "port"         : "443",
-              "severity"     : "OK",
+              "severity"     : "MEDIUM",
               "finding"      : "2024-12-04 05:01"
           }
 ,         {
@@ -878,14 +878,14 @@
               "ip"           : "www.jeveuxaider.gouv.fr/104.22.77.85",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "0 seconds from localtime"
+              "finding"      : "-1 seconds from localtime"
           }
 ,         {
               "id"           : "HTTP_headerTime",
               "ip"           : "www.jeveuxaider.gouv.fr/104.22.77.85",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1727596338"
+              "finding"      : "1728201024"
           }
 ,         {
               "id"           : "HSTS_time",
@@ -1847,8 +1847,8 @@
               "id"           : "cert_expirationStatus <hostCert#1>",
               "ip"           : "www.jeveuxaider.gouv.fr/172.67.42.178",
               "port"         : "443",
-              "severity"     : "OK",
-              "finding"      : "65 >= 60 days"
+              "severity"     : "MEDIUM",
+              "finding"      : "expires < 60 days (58)"
           }
 ,         {
               "id"           : "cert_notBefore <hostCert#1>",
@@ -1861,7 +1861,7 @@
               "id"           : "cert_notAfter <hostCert#1>",
               "ip"           : "www.jeveuxaider.gouv.fr/172.67.42.178",
               "port"         : "443",
-              "severity"     : "OK",
+              "severity"     : "MEDIUM",
               "finding"      : "2024-12-04 05:00"
           }
 ,         {
@@ -2148,8 +2148,8 @@
               "id"           : "cert_expirationStatus <hostCert#2>",
               "ip"           : "www.jeveuxaider.gouv.fr/172.67.42.178",
               "port"         : "443",
-              "severity"     : "OK",
-              "finding"      : "65 >= 60 days"
+              "severity"     : "MEDIUM",
+              "finding"      : "expires < 60 days (58)"
           }
 ,         {
               "id"           : "cert_notBefore <hostCert#2>",
@@ -2162,7 +2162,7 @@
               "id"           : "cert_notAfter <hostCert#2>",
               "ip"           : "www.jeveuxaider.gouv.fr/172.67.42.178",
               "port"         : "443",
-              "severity"     : "OK",
+              "severity"     : "MEDIUM",
               "finding"      : "2024-12-04 05:01"
           }
 ,         {
@@ -2359,7 +2359,7 @@
               "ip"           : "www.jeveuxaider.gouv.fr/172.67.42.178",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1727596404"
+              "finding"      : "1728201090"
           }
 ,         {
               "id"           : "HSTS_time",
@@ -3321,8 +3321,8 @@
               "id"           : "cert_expirationStatus <hostCert#1>",
               "ip"           : "www.jeveuxaider.gouv.fr/104.22.76.85",
               "port"         : "443",
-              "severity"     : "OK",
-              "finding"      : "65 >= 60 days"
+              "severity"     : "MEDIUM",
+              "finding"      : "expires < 60 days (58)"
           }
 ,         {
               "id"           : "cert_notBefore <hostCert#1>",
@@ -3335,7 +3335,7 @@
               "id"           : "cert_notAfter <hostCert#1>",
               "ip"           : "www.jeveuxaider.gouv.fr/104.22.76.85",
               "port"         : "443",
-              "severity"     : "OK",
+              "severity"     : "MEDIUM",
               "finding"      : "2024-12-04 05:00"
           }
 ,         {
@@ -3622,8 +3622,8 @@
               "id"           : "cert_expirationStatus <hostCert#2>",
               "ip"           : "www.jeveuxaider.gouv.fr/104.22.76.85",
               "port"         : "443",
-              "severity"     : "OK",
-              "finding"      : "65 >= 60 days"
+              "severity"     : "MEDIUM",
+              "finding"      : "expires < 60 days (58)"
           }
 ,         {
               "id"           : "cert_notBefore <hostCert#2>",
@@ -3636,7 +3636,7 @@
               "id"           : "cert_notAfter <hostCert#2>",
               "ip"           : "www.jeveuxaider.gouv.fr/104.22.76.85",
               "port"         : "443",
-              "severity"     : "OK",
+              "severity"     : "MEDIUM",
               "finding"      : "2024-12-04 05:01"
           }
 ,         {
@@ -3833,7 +3833,7 @@
               "ip"           : "www.jeveuxaider.gouv.fr/104.22.76.85",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1727596471"
+              "finding"      : "1728201156"
           }
 ,         {
               "id"           : "HSTS_time",

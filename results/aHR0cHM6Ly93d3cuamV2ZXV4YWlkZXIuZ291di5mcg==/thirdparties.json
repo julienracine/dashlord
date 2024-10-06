@@ -2,19 +2,7 @@
   "trackers": [
     {
       "type": "unknown",
-      "url": "https://jeveuxaider.fra1.digitaloceanspaces.com/public/production/30331/responsive/ntYcHt7wuT6QRsqf7QiO5JnMO7xIR6___card_600_286.webp?v=1674642755"
-    },
-    {
-      "type": "unknown",
-      "url": "https://jeveuxaider.fra1.digitaloceanspaces.com/public/production/8475/responsive/a26fP7ibvc7fB1r___card_600_286.webp?v=1650543984"
-    },
-    {
-      "type": "unknown",
-      "url": "https://jeveuxaider.fra1.digitaloceanspaces.com/public/production/12169/responsive/solidarite-et-insertion-5___card_600_286.webp?v=1650532157"
-    },
-    {
-      "type": "unknown",
-      "url": "https://jeveuxaider.fra1.digitaloceanspaces.com/public/production/12183/responsive/education-pour-tous-7___card_600_286.webp?v=1650543734"
+      "url": "https://jeveuxaider.fra1.digitaloceanspaces.com/public/production/12146/responsive/art-et-culture-pour-tous-6___card_600_286.webp?v=1650537895"
     },
     {
       "type": "unknown",
@@ -30,11 +18,11 @@
     },
     {
       "type": "unknown",
-      "url": "https://jeveuxaider.fra1.digitaloceanspaces.com/public/production/12146/responsive/art-et-culture-pour-tous-6___card_600_286.webp?v=1650537895"
+      "url": "https://jeveuxaider.fra1.digitaloceanspaces.com/public/production/8498/responsive/kL3U82CKaXASTcL___card_600_286.webp?v=1650544220"
     },
     {
       "type": "unknown",
-      "url": "https://jeveuxaider.fra1.digitaloceanspaces.com/public/production/8498/responsive/kL3U82CKaXASTcL___card_600_286.webp?v=1650544220"
+      "url": "https://jeveuxaider.fra1.digitaloceanspaces.com/public/production/56406/responsive/dxuVmMYyWi7kHGXIPKc08qniPbiUny___card_600_286.webp?v=1715951493"
     },
     {
       "type": "google tag manager",
@@ -58,15 +46,15 @@
     },
     {
       "type": "unknown",
-      "url": "https://gqlg3qh7po-dsn.algolia.net/1/indexes/prod_scalingo_covid_missions/query?x-algolia-agent=Algolia%20for%20JavaScript%20(4.24.0)%3B%20Browser"
+      "url": "https://jeveuxaider.fra1.digitaloceanspaces.com/public/production/30331/responsive/ntYcHt7wuT6QRsqf7QiO5JnMO7xIR6___card_600_286.webp?v=1674642755"
+    },
+    {
+      "type": "unknown",
+      "url": "https://jeveuxaider.fra1.digitaloceanspaces.com/public/production/8475/responsive/a26fP7ibvc7fB1r___card_600_286.webp?v=1650543984"
     },
     {
       "type": "unknown",
       "url": "https://plausible.io/api/event"
-    },
-    {
-      "type": "unknown",
-      "url": "https://gqlg3qh7po-dsn.algolia.net/1/indexes/prod_scalingo_covid_missions/query?x-algolia-agent=Algolia%20for%20JavaScript%20(4.24.0)%3B%20Browser"
     },
     {
       "type": "unknown",
@@ -85,22 +73,22 @@
   "headers": {
     "cache-control": "max-age=300\npublic, no-transform",
     "cf-cache-status": "DYNAMIC",
-    "cf-ray": "8caa62c12b2b5848-IAD",
+    "cf-ray": "8ce40d92ec841566-SJC",
     "content-encoding": "br",
-    "content-length": "50081",
+    "content-length": "47982",
     "content-type": "text/html;charset=utf-8",
-    "date": "Sun, 29 Sep 2024 07:51:03 GMT",
-    "expires": "Sun, 29 Sep 2024 07:56:03 GMT",
+    "date": "Sun, 06 Oct 2024 07:49:08 GMT",
+    "expires": "Sun, 06 Oct 2024 07:54:08 GMT",
     "server": "cloudflare",
     "strict-transport-security": "max-age=31536000",
     "vary": "Accept-Encoding",
     "x-powered-by": "Nuxt",
-    "x-request-id": "9a6fc467-6d57-4067-9a06-eba76be9da5e\n9a6fc467-6d57-4067-9a06-eba76be9da5e"
+    "x-request-id": "0bd3af01-db24-48c8-ac7a-e7cc1cd04d21\n0bd3af01-db24-48c8-ac7a-e7cc1cd04d21"
   },
   "endpoints": [
     {
       "hostname": "www.jeveuxaider.gouv.fr",
-      "ip": "172.67.42.178",
+      "ip": "104.22.76.85",
       "geoip": {
         "registered_country": {
           "geoname_id": 6252001,
@@ -207,7 +195,7 @@
     },
     {
       "hostname": "www.googletagmanager.com",
-      "ip": "172.253.63.97",
+      "ip": "142.250.189.168",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -261,15 +249,8 @@
     },
     {
       "hostname": "gqlg3qh7po-dsn.algolia.net",
-      "ip": "95.211.18.123",
+      "ip": "37.187.157.100",
       "geoip": {
-        "city": {
-          "geoname_id": 2754635,
-          "names": {
-            "en": "Heesch",
-            "ru": "Хес"
-          }
-        },
         "continent": {
           "code": "EU",
           "geoname_id": 6255148,
@@ -285,77 +266,57 @@
           }
         },
         "country": {
-          "geoname_id": 2750405,
+          "geoname_id": 3017382,
           "is_in_european_union": true,
-          "iso_code": "NL",
+          "iso_code": "FR",
           "names": {
-            "de": "Niederlande",
-            "en": "The Netherlands",
-            "es": "Holanda",
-            "fr": "Pays-Bas",
-            "ja": "オランダ王国",
-            "pt-BR": "Holanda",
-            "ru": "Нидерланды",
-            "zh-CN": "荷兰"
+            "de": "Frankreich",
+            "en": "France",
+            "es": "Francia",
+            "fr": "France",
+            "ja": "フランス共和国",
+            "pt-BR": "França",
+            "ru": "Франция",
+            "zh-CN": "法国"
           }
         },
         "location": {
-          "accuracy_radius": 50,
-          "latitude": 51.7278,
-          "longitude": 5.5319,
-          "time_zone": "Europe/Amsterdam"
-        },
-        "postal": {
-          "code": "5384"
+          "accuracy_radius": 500,
+          "latitude": 48.8582,
+          "longitude": 2.3387,
+          "time_zone": "Europe/Paris"
         },
         "registered_country": {
-          "geoname_id": 2750405,
+          "geoname_id": 3017382,
           "is_in_european_union": true,
-          "iso_code": "NL",
+          "iso_code": "FR",
           "names": {
-            "de": "Niederlande",
-            "en": "The Netherlands",
-            "es": "Holanda",
-            "fr": "Pays-Bas",
-            "ja": "オランダ王国",
-            "pt-BR": "Holanda",
-            "ru": "Нидерланды",
-            "zh-CN": "荷兰"
+            "de": "Frankreich",
+            "en": "France",
+            "es": "Francia",
+            "fr": "France",
+            "ja": "フランス共和国",
+            "pt-BR": "França",
+            "ru": "Франция",
+            "zh-CN": "法国"
           }
-        },
-        "subdivisions": [
-          {
-            "geoname_id": 2749990,
-            "iso_code": "NB",
-            "names": {
-              "de": "Nordbrabant",
-              "en": "North Brabant",
-              "es": "Brabante Septentrional",
-              "fr": "Brabant-Septentrional",
-              "ja": "北ブラバント州",
-              "pt-BR": "Brabante do Norte",
-              "ru": "Северный Брабант",
-              "zh-CN": "北布拉班特省"
-            }
-          }
-        ]
+        }
       }
     },
     {
       "hostname": "plausible.io",
-      "ip": "38.104.169.186",
+      "ip": "169.150.221.147",
       "geoip": {
         "city": {
-          "geoname_id": 4460243,
+          "geoname_id": 5392171,
           "names": {
-            "de": "Charlotte",
-            "en": "Charlotte",
-            "es": "Charlotte",
-            "fr": "Charlotte",
-            "ja": "シャーロット",
-            "pt-BR": "Charlotte",
-            "ru": "Шарлотт",
-            "zh-CN": "夏洛特"
+            "de": "San José",
+            "en": "San Jose",
+            "es": "San José",
+            "fr": "San José",
+            "ja": "サンノゼ",
+            "pt-BR": "San José",
+            "ru": "Сан-Хосе"
           }
         },
         "continent": {
@@ -388,41 +349,41 @@
         },
         "location": {
           "accuracy_radius": 20,
-          "latitude": 35.2316,
-          "longitude": -80.8428,
-          "metro_code": 517,
-          "time_zone": "America/New_York"
+          "latitude": 37.1835,
+          "longitude": -121.7714,
+          "metro_code": 807,
+          "time_zone": "America/Los_Angeles"
         },
         "postal": {
-          "code": "28202"
+          "code": "95141"
         },
         "registered_country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
+          "geoname_id": 2635167,
+          "iso_code": "GB",
           "names": {
-            "de": "USA",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
+            "de": "UK",
+            "en": "United Kingdom",
+            "es": "Reino Unido",
+            "fr": "Royaume-Uni",
+            "ja": "英国",
+            "pt-BR": "Reino Unido",
+            "ru": "Британия",
+            "zh-CN": "英国"
           }
         },
         "subdivisions": [
           {
-            "geoname_id": 4482348,
-            "iso_code": "NC",
+            "geoname_id": 5332921,
+            "iso_code": "CA",
             "names": {
-              "de": "North Carolina",
-              "en": "North Carolina",
-              "es": "Carolina del Norte",
-              "fr": "Caroline du Nord",
-              "ja": "ノースカロライナ州",
-              "pt-BR": "Carolina do Norte",
-              "ru": "Северная Каролина",
-              "zh-CN": "北卡罗来纳州"
+              "de": "Kalifornien",
+              "en": "California",
+              "es": "California",
+              "fr": "Californie",
+              "ja": "カリフォルニア州",
+              "pt-BR": "Califórnia",
+              "ru": "Калифорния",
+              "zh-CN": "加州"
             }
           }
         ]
@@ -430,7 +391,7 @@
     },
     {
       "hostname": "static.axept.io",
-      "ip": "3.167.112.56",
+      "ip": "13.227.74.18",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -484,7 +445,7 @@
     },
     {
       "hostname": "client.axept.io",
-      "ip": "18.160.18.43",
+      "ip": "99.84.66.8",
       "geoip": {
         "continent": {
           "code": "NA",
