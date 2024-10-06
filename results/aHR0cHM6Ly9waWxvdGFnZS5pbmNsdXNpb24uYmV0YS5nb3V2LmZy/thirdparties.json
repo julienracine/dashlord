@@ -50,15 +50,15 @@
     },
     {
       "type": "unknown",
-      "url": "https://cdn.livestorm.co/dist/js/chunk-style.79e7def3.js"
+      "url": "https://cdn.livestorm.co/dist/js/chunk-style.d94ec0dc.js"
     },
     {
       "type": "unknown",
-      "url": "https://cdn.livestorm.co/dist/js/chunk-vendors.159b5471.js"
+      "url": "https://cdn.livestorm.co/dist/js/chunk-vendors.86499237.js"
     },
     {
       "type": "unknown",
-      "url": "https://cdn.livestorm.co/dist/js/chunk-vendors-group-registration.7e59d44f.js"
+      "url": "https://cdn.livestorm.co/dist/js/chunk-vendors-group-registration.ecda6bf9.js"
     },
     {
       "type": "unknown",
@@ -66,15 +66,15 @@
     },
     {
       "type": "unknown",
-      "url": "https://cdn.livestorm.co/dist/js/chunk-common.909dee70.js"
+      "url": "https://cdn.livestorm.co/dist/js/chunk-common.65160e3b.js"
     },
     {
       "type": "unknown",
-      "url": "https://cdn.livestorm.co/dist/js/runtime-company.1aa6c3ac.js"
+      "url": "https://cdn.livestorm.co/dist/js/runtime-company.3ef209d7.js"
     },
     {
       "type": "unknown",
-      "url": "https://cdn.livestorm.co/dist/js/company.1052867e.js"
+      "url": "https://cdn.livestorm.co/dist/js/company.70a1dbe3.js"
     },
     {
       "type": "google fonts",
@@ -91,14 +91,6 @@
     {
       "type": "unknown",
       "url": "https://cdn.livestorm.co/dist/js/chunk-locale-en.d71b4e17.js"
-    },
-    {
-      "type": "unknown",
-      "url": "https://cdn.livestorm.co/uploads/identity/avatar/f7d2e066-3d66-471e-818a-d7099e4d3dea/size_120x120_48b51e75-d945-42aa-9c9b-ca99f220ba90.jpeg?v=1594201471"
-    },
-    {
-      "type": "unknown",
-      "url": "https://cdn.livestorm.co/dist/img/chevron-down-dark.8668fd32.svg"
     },
     {
       "type": "unknown",
@@ -152,10 +144,10 @@
   "cookies": [
     {
       "name": "csrftoken",
-      "value": "orf8bNsEE2xKw4UxAhfR8R6jaUDrCte9",
+      "value": "JglivhxHvGU4p5rmAeI9PgKkfzJ3JCZT",
       "domain": "pilotage.inclusion.beta.gouv.fr",
       "path": "/",
-      "expires": 1759039133.102042,
+      "expires": 1759643885.061583,
       "size": 41,
       "httpOnly": false,
       "secure": true,
@@ -168,13 +160,13 @@
   ],
   "headers": {
     "connection": "keep-alive",
-    "content-length": "54300",
+    "content-length": "54299",
     "content-type": "text/html; charset=utf-8",
     "cross-origin-opener-policy": "same-origin",
-    "date": "Sun, 29 Sep 2024 05:58:53 GMT",
+    "date": "Sun, 06 Oct 2024 05:58:04 GMT",
     "referrer-policy": "same-origin",
-    "set-cookie": "csrftoken=orf8bNsEE2xKw4UxAhfR8R6jaUDrCte9; expires=Sun, 28 Sep 2025 05:58:53 GMT; Max-Age=31449600; Path=/; SameSite=Lax; Secure",
-    "sozu-id": "01J8Y5RH5TSV1XWBMNCH534V6N",
+    "set-cookie": "csrftoken=JglivhxHvGU4p5rmAeI9PgKkfzJ3JCZT; expires=Sun, 05 Oct 2025 05:58:04 GMT; Max-Age=31449600; Path=/; SameSite=Lax; Secure",
+    "sozu-id": "01J9G6G35BAXD2016HEB57PFVH",
     "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
     "vary": "Cookie",
     "x-content-type-options": "nosniff",
@@ -183,7 +175,7 @@
   "endpoints": [
     {
       "hostname": "pilotage.inclusion.beta.gouv.fr",
-      "ip": "91.208.207.223",
+      "ip": "91.208.207.220",
       "geoip": {
         "continent": {
           "code": "EU",
@@ -239,7 +231,7 @@
     },
     {
       "hostname": "app.livestorm.co",
-      "ip": "52.51.74.43",
+      "ip": "54.155.223.238",
       "geoip": {
         "city": {
           "geoname_id": 2964574,
@@ -342,7 +334,7 @@
     },
     {
       "hostname": "fonts.googleapis.com",
-      "ip": "142.250.191.74",
+      "ip": "142.250.188.234",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -396,7 +388,7 @@
     },
     {
       "hostname": "cdn.livestorm.co",
-      "ip": "65.8.161.31",
+      "ip": "13.33.21.49",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -427,7 +419,7 @@
           }
         },
         "location": {
-          "accuracy_radius": 200,
+          "accuracy_radius": 1000,
           "latitude": 37.751,
           "longitude": -97.822,
           "time_zone": "America/Chicago"
@@ -450,7 +442,7 @@
     },
     {
       "hostname": "fonts.gstatic.com",
-      "ip": "142.251.32.35",
+      "ip": "142.251.40.35",
       "geoip": {
         "continent": {
           "code": "NA",
