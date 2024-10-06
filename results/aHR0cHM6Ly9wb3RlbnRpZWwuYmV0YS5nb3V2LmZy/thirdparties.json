@@ -12,12 +12,12 @@
   "cookies": [],
   "headers": {
     "content-encoding": "gzip",
-    "content-security-policy": "default-src 'self' blob: metabase.potentiel.beta.gouv.fr;connect-src 'self' potentiel.beta.gouv.fr client.crisp.chat wss://client.relay.crisp.chat;font-src 'self' client.crisp.chat;frame-src metabase.potentiel.beta.gouv.fr;img-src 'self' data: image.crisp.chat;style-src 'self' 'unsafe-inline' data: client.crisp.chat;script-src 'self' 'nonce-d4b9cd352584b1abc990f4dd4263548c67cbdf1a3a9d78d6c13bf30b3b52b3c5' 'sha256-UEZfoO3SfsYbnIIAoHHUiIGOhT+nhTDv2gd4I5588HQ=' metabase.potentiel.beta.gouv.fr client.crisp.chat",
+    "content-security-policy": "default-src 'self' blob: metabase.potentiel.beta.gouv.fr;connect-src 'self' potentiel.beta.gouv.fr client.crisp.chat wss://client.relay.crisp.chat;font-src 'self' client.crisp.chat;frame-src metabase.potentiel.beta.gouv.fr;img-src 'self' data: image.crisp.chat;style-src 'self' 'unsafe-inline' data: client.crisp.chat;script-src 'self' 'nonce-cc3a656f762644bb20a6146060ec048f4ddc789643972f3f89acb6ea7234f0f2' 'sha256-UEZfoO3SfsYbnIIAoHHUiIGOhT+nhTDv2gd4I5588HQ=' metabase.potentiel.beta.gouv.fr client.crisp.chat",
     "content-type": "text/html; charset=utf-8",
     "cross-origin-opener-policy": "same-origin",
     "cross-origin-resource-policy": "same-origin",
-    "date": "Sun, 29 Sep 2024 06:23:50 GMT",
-    "etag": "W/\"4eb1-mUvrKWV+N78WBjn22nWo/X97pno\"",
+    "date": "Sun, 06 Oct 2024 06:22:46 GMT",
+    "etag": "W/\"4eb3-IN9S1XCUf1Zx6ZmH6XNlqCOY4I4\"",
     "origin-agent-cluster": "?1",
     "referrer-policy": "strict-origin",
     "strict-transport-security": "max-age=31536000",
@@ -26,13 +26,13 @@
     "x-download-options": "noopen",
     "x-frame-options": "SAMEORIGIN",
     "x-permitted-cross-domain-policies": "none",
-    "x-request-id": "4a87f77d-e618-4b8a-b7ce-2d61dc057fb1",
+    "x-request-id": "f994194e-4cc8-4a07-b31e-ed620e8f36ea",
     "x-xss-protection": "0"
   },
   "endpoints": [
     {
       "hostname": "potentiel.beta.gouv.fr",
-      "ip": "185.21.194.105",
+      "ip": "148.253.96.193",
       "geoip": {
         "continent": {
           "code": "EU",
