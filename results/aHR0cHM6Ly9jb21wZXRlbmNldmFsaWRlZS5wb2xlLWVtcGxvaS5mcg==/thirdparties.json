@@ -14,7 +14,31 @@
     },
     {
       "type": "youtube",
-      "url": "https://www.youtube.com/s/player/b0557ce3/www-player.css",
+      "url": "https://www.youtube.com/s/player/96d06116/www-player.css",
+      "details": {
+        "id": "youtube",
+        "message": "Dont embed youtube scripts, use peertube"
+      }
+    },
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/s/player/96d06116/player_ias.vflset/en_US/embed.js",
+      "details": {
+        "id": "youtube",
+        "message": "Dont embed youtube scripts, use peertube"
+      }
+    },
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/s/player/96d06116/www-embed-player.vflset/www-embed-player.js",
+      "details": {
+        "id": "youtube",
+        "message": "Dont embed youtube scripts, use peertube"
+      }
+    },
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/s/player/96d06116/player_ias.vflset/en_US/base.js",
       "details": {
         "id": "youtube",
         "message": "Dont embed youtube scripts, use peertube"
@@ -34,30 +58,6 @@
       "details": {
         "id": "google fonts",
         "message": "Host the font locally with https://github.com/neverpanic/google-font-download or https://google-webfonts-helper.herokuapp.com/"
-      }
-    },
-    {
-      "type": "youtube",
-      "url": "https://www.youtube.com/s/player/b0557ce3/player_ias.vflset/en_US/embed.js",
-      "details": {
-        "id": "youtube",
-        "message": "Dont embed youtube scripts, use peertube"
-      }
-    },
-    {
-      "type": "youtube",
-      "url": "https://www.youtube.com/s/player/b0557ce3/www-embed-player.vflset/www-embed-player.js",
-      "details": {
-        "id": "youtube",
-        "message": "Dont embed youtube scripts, use peertube"
-      }
-    },
-    {
-      "type": "youtube",
-      "url": "https://www.youtube.com/s/player/b0557ce3/player_ias.vflset/en_US/base.js",
-      "details": {
-        "id": "youtube",
-        "message": "Dont embed youtube scripts, use peertube"
       }
     },
     {
@@ -110,7 +110,7 @@
     },
     {
       "type": "youtube",
-      "url": "https://www.youtube.com/s/player/b0557ce3/player_ias.vflset/en_US/remote.js",
+      "url": "https://www.youtube.com/s/player/96d06116/player_ias.vflset/en_US/remote.js",
       "details": {
         "id": "youtube",
         "message": "Dont embed youtube scripts, use peertube"
@@ -206,7 +206,7 @@
     },
     {
       "type": "youtube",
-      "url": "https://www.youtube.com/generate_204?9QmUJg",
+      "url": "https://www.youtube.com/generate_204?wwK16w",
       "details": {
         "id": "youtube",
         "message": "Dont embed youtube scripts, use peertube"
@@ -235,7 +235,7 @@
     "content-encoding": "gzip",
     "content-security-policy": "default-src 'self' http: https: data: blob: 'unsafe-inline'",
     "content-type": "text/html; charset=utf-8",
-    "date": "Sun, 29 Sep 2024 03:16:33 GMT",
+    "date": "Sun, 06 Oct 2024 03:15:58 GMT",
     "etag": "\"etvz4a6rmi1bmx\"",
     "permissions-policy": "geolocation=(), microphone=(), camera=(), interest-cohort=()",
     "referrer-policy": "no-referrer-when-downgrade",
@@ -406,7 +406,7 @@
     },
     {
       "hostname": "www.youtube.com",
-      "ip": "172.253.63.91",
+      "ip": "172.253.115.190",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -460,7 +460,7 @@
     },
     {
       "hostname": "fonts.gstatic.com",
-      "ip": "64.233.180.94",
+      "ip": "142.251.167.94",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -514,7 +514,7 @@
     },
     {
       "hostname": "googleads.g.doubleclick.net",
-      "ip": "142.251.163.155",
+      "ip": "172.253.63.155",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -568,7 +568,7 @@
     },
     {
       "hostname": "static.doubleclick.net",
-      "ip": "142.251.16.149",
+      "ip": "172.253.115.149",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -622,7 +622,7 @@
     },
     {
       "hostname": "jnn-pa.googleapis.com",
-      "ip": "172.253.115.95",
+      "ip": "142.251.16.95",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -676,7 +676,7 @@
     },
     {
       "hostname": "www.google.com",
-      "ip": "142.251.16.104",
+      "ip": "142.251.179.99",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -730,7 +730,7 @@
     },
     {
       "hostname": "i.ytimg.com",
-      "ip": "172.253.122.119",
+      "ip": "64.233.180.119",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -784,7 +784,7 @@
     },
     {
       "hostname": "yt3.ggpht.com",
-      "ip": "172.253.62.132",
+      "ip": "142.251.111.132",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -838,7 +838,7 @@
     },
     {
       "hostname": "play.google.com",
-      "ip": "172.253.122.101",
+      "ip": "142.251.167.100",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -892,7 +892,7 @@
     },
     {
       "hostname": "www.gstatic.com",
-      "ip": "64.233.180.94",
+      "ip": "142.251.179.94",
       "geoip": {
         "continent": {
           "code": "NA",
