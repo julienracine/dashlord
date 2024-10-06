@@ -4,7 +4,7 @@
   "headers": {
     "content-encoding": "gzip",
     "content-type": "text/html; charset=utf-8",
-    "date": "Sun, 29 Sep 2024 12:25:57 GMT",
+    "date": "Sun, 06 Oct 2024 12:12:27 GMT",
     "etag": "\"smraa5xhwjxq1\"",
     "strict-transport-security": "max-age=31536000; includeSubDomains",
     "vary": "Accept-Encoding",
@@ -13,7 +13,7 @@
   "endpoints": [
     {
       "hostname": "cje.beta.gouv.fr",
-      "ip": "109.232.233.130",
+      "ip": "148.253.75.120",
       "geoip": {
         "continent": {
           "code": "EU",
