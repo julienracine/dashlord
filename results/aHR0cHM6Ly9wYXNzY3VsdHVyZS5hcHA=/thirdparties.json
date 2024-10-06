@@ -69,10 +69,6 @@
       }
     },
     {
-      "type": "unknown",
-      "url": "https://cdn.contentful.com/spaces/2bg01iqy0isv/environments/master/entries?include=3&content_type=homepageNatif&access_token=oqkcaGmPpBLYASc-Tl2yTC1Jg6sK5_LviP0yrmUG8ug"
-    },
-    {
       "type": "google",
       "url": "https://firebaseinstallations.googleapis.com/v1/projects/passculture-native/installations",
       "details": {
@@ -87,6 +83,10 @@
         "id": "google",
         "message": "Use hosted Matomo instance"
       }
+    },
+    {
+      "type": "unknown",
+      "url": "https://cdn.contentful.com/spaces/2bg01iqy0isv/environments/master/entries?include=3&content_type=homepageNatif&access_token=oqkcaGmPpBLYASc-Tl2yTC1Jg6sK5_LviP0yrmUG8ug"
     },
     {
       "type": "google",
@@ -106,7 +106,7 @@
     },
     {
       "type": "google",
-      "url": "https://firestore.googleapis.com/google.firestore.v1.Firestore/Listen/channel?database=projects%2Fpassculture-native%2Fdatabases%2F(default)&VER=8&RID=89624&CVER=22&X-HTTP-Session-Id=gsessionid&%24httpHeaders=X-Goog-Api-Client%3Agl-js%2F%20fire%2F9.6.11%0D%0AContent-Type%3Atext%2Fplain%0D%0AX-Firebase-GMPID%3A1%3A605788939445%3Aweb%3Abb7dbdae56cd6eed29cafc%0D%0A&zx=dbaqkxwnoy8l&t=1",
+      "url": "https://firestore.googleapis.com/google.firestore.v1.Firestore/Listen/channel?database=projects%2Fpassculture-native%2Fdatabases%2F(default)&VER=8&RID=45186&CVER=22&X-HTTP-Session-Id=gsessionid&%24httpHeaders=X-Goog-Api-Client%3Agl-js%2F%20fire%2F9.6.11%0D%0AContent-Type%3Atext%2Fplain%0D%0AX-Firebase-GMPID%3A1%3A605788939445%3Aweb%3Abb7dbdae56cd6eed29cafc%0D%0A&zx=m89av1ax43db&t=1",
       "details": {
         "id": "google",
         "message": "Use hosted Matomo instance"
@@ -122,6 +122,14 @@
     },
     {
       "type": "google",
+      "url": "https://firestore.googleapis.com/google.firestore.v1.Firestore/Listen/channel?database=projects%2Fpassculture-native%2Fdatabases%2F(default)&gsessionid=A_pveJuc7H3I8DbfEvaNmsB27spjSnQrGM2mXUAux9c&VER=8&RID=rpc&SID=iz2n_wc6Gvmiq2LhHqDImw&CI=0&AID=0&TYPE=xmlhttp&zx=56zyz42blyfg&t=1",
+      "details": {
+        "id": "google",
+        "message": "Use hosted Matomo instance"
+      }
+    },
+    {
+      "type": "google",
       "url": "https://firebaseremoteconfig.googleapis.com/v1/projects/passculture-native/namespaces/firebase:fetch?key=AIzaSyA-SYp01R2ikq_y116N5wew5vcwy36NFrk",
       "details": {
         "id": "google",
@@ -130,7 +138,7 @@
     },
     {
       "type": "google",
-      "url": "https://firestore.googleapis.com/google.firestore.v1.Firestore/Listen/channel?database=projects%2Fpassculture-native%2Fdatabases%2F(default)&gsessionid=EV5PRnUQdak-hXvTZwu_BBlJGu_uExASVvAT9fN1pX0&VER=8&RID=rpc&SID=FJEmKEIq9gFeRm64NEClMg&CI=0&AID=0&TYPE=xmlhttp&zx=n3sdgsdt0cjr&t=1",
+      "url": "https://firestore.googleapis.com/google.firestore.v1.Firestore/Listen/channel?database=projects%2Fpassculture-native%2Fdatabases%2F(default)&gsessionid=A_pveJuc7H3I8DbfEvaNmsB27spjSnQrGM2mXUAux9c&VER=8&RID=rpc&SID=iz2n_wc6Gvmiq2LhHqDImw&CI=1&AID=0&TYPE=xmlhttp&zx=v8bg3ou4a3b&t=1",
       "details": {
         "id": "google",
         "message": "Use hosted Matomo instance"
@@ -138,7 +146,23 @@
     },
     {
       "type": "google",
-      "url": "https://firestore.googleapis.com/google.firestore.v1.Firestore/Listen/channel?database=projects%2Fpassculture-native%2Fdatabases%2F(default)&VER=8&gsessionid=EV5PRnUQdak-hXvTZwu_BBlJGu_uExASVvAT9fN1pX0&SID=FJEmKEIq9gFeRm64NEClMg&RID=89625&AID=4&zx=qg54je8vlcjf&t=1",
+      "url": "https://firestore.googleapis.com/google.firestore.v1.Firestore/Listen/channel?database=projects%2Fpassculture-native%2Fdatabases%2F(default)&gsessionid=A_pveJuc7H3I8DbfEvaNmsB27spjSnQrGM2mXUAux9c&VER=8&RID=rpc&SID=iz2n_wc6Gvmiq2LhHqDImw&CI=1&AID=5&TYPE=xmlhttp&zx=euz2fypooiuq&t=1",
+      "details": {
+        "id": "google",
+        "message": "Use hosted Matomo instance"
+      }
+    },
+    {
+      "type": "google",
+      "url": "https://firestore.googleapis.com/google.firestore.v1.Firestore/Listen/channel?database=projects%2Fpassculture-native%2Fdatabases%2F(default)&VER=8&gsessionid=A_pveJuc7H3I8DbfEvaNmsB27spjSnQrGM2mXUAux9c&SID=iz2n_wc6Gvmiq2LhHqDImw&RID=45187&AID=5&zx=6x7tef60u97w&t=1",
+      "details": {
+        "id": "google",
+        "message": "Use hosted Matomo instance"
+      }
+    },
+    {
+      "type": "google",
+      "url": "https://firestore.googleapis.com/google.firestore.v1.Firestore/Listen/channel?database=projects%2Fpassculture-native%2Fdatabases%2F(default)&gsessionid=A_pveJuc7H3I8DbfEvaNmsB27spjSnQrGM2mXUAux9c&VER=8&RID=rpc&SID=iz2n_wc6Gvmiq2LhHqDImw&CI=1&AID=7&TYPE=xmlhttp&zx=pxx1lsfe8xgo&t=1",
       "details": {
         "id": "google",
         "message": "Use hosted Matomo instance"
@@ -147,27 +171,27 @@
   ],
   "cookies": [],
   "headers": {
-    "age": "1283",
+    "age": "2730",
     "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000\nh3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
     "cache-control": "public, max-age=3600",
     "content-encoding": "gzip",
-    "content-length": "8222",
+    "content-length": "5674",
     "content-type": "text/html",
-    "date": "Sun, 29 Sep 2024 05:39:31 GMT",
-    "etag": "W/\"bac2e0dda9a2d7a6b619a12b3547b2de\"",
-    "expires": "Sun, 29 Sep 2024 06:18:08 GMT",
-    "last-modified": "Fri, 20 Sep 2024 07:43:49 GMT",
+    "date": "Sun, 06 Oct 2024 05:41:31 GMT",
+    "etag": "W/\"9ffe887999dd5c96b8cf0fb4c21bac57\"",
+    "expires": "Sun, 06 Oct 2024 05:56:01 GMT",
+    "last-modified": "Wed, 02 Oct 2024 15:01:34 GMT",
     "server": "Google Frontend",
     "vary": "Accept-Encoding",
     "via": "1.1 google",
-    "x-cloud-trace-context": "3194b4b874b65596551a611ed879f4f6;o=1",
-    "x-goog-generation": "1726818229789837",
-    "x-goog-hash": "crc32c=3h6QUQ==, md5=usLg3ami16a2GaErNUey3g==",
+    "x-cloud-trace-context": "64ed7fababb55dcf82e1d57da0ee9ed0",
+    "x-goog-generation": "1727881294220764",
+    "x-goog-hash": "crc32c=v/4fxA==, md5=n/6IeZndXJa4zw+0whusVw==",
     "x-goog-metageneration": "1",
     "x-goog-storage-class": "STANDARD",
     "x-goog-stored-content-encoding": "identity",
-    "x-goog-stored-content-length": "21460",
-    "x-guploader-uploadid": "AD-8ljuspfxhKGWTj11eX1VvQo128mvJ7L1HL9DPRHkOA309Jsi7tDC0xqHHPt5Jk_TQbfDnSUQdZsdhnQ",
+    "x-goog-stored-content-length": "16353",
+    "x-guploader-uploadid": "AD-8ljvU5Mheww54ExIT_ELpF3SFIBMy7n8vEuBou8drFrB8RrlAoN_vHPP6R8-slpKvUzfQm5EigRGs-Q",
     "x-powered-by": "Express"
   },
   "endpoints": [
@@ -259,7 +283,7 @@
     },
     {
       "hostname": "websdk.appsflyer.com",
-      "ip": "99.84.160.107",
+      "ip": "18.160.10.92",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -313,7 +337,7 @@
     },
     {
       "hostname": "firebase.googleapis.com",
-      "ip": "172.217.1.106",
+      "ip": "142.251.179.95",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -367,7 +391,7 @@
     },
     {
       "hostname": "fonts.gstatic.com",
-      "ip": "142.250.191.163",
+      "ip": "142.251.16.94",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -421,19 +445,18 @@
     },
     {
       "hostname": "cdn.contentful.com",
-      "ip": "146.75.78.49",
+      "ip": "151.101.46.49",
       "geoip": {
         "city": {
-          "geoname_id": 4887398,
+          "geoname_id": 5128581,
           "names": {
-            "de": "Chicago",
-            "en": "Chicago",
-            "es": "Chicago",
-            "fr": "Chicago",
-            "ja": "シカゴ",
-            "pt-BR": "Chicago",
-            "ru": "Чикаго",
-            "zh-CN": "芝加哥"
+            "de": "New York City",
+            "en": "New York",
+            "es": "Nueva York",
+            "fr": "New York",
+            "ja": "ニューヨーク",
+            "pt-BR": "Nova Iorque",
+            "ru": "Нью-Йорк"
           }
         },
         "continent": {
@@ -466,13 +489,13 @@
         },
         "location": {
           "accuracy_radius": 20,
-          "latitude": 41.8874,
-          "longitude": -87.6318,
-          "metro_code": 602,
-          "time_zone": "America/Chicago"
+          "latitude": 40.7123,
+          "longitude": -74.0068,
+          "metro_code": 501,
+          "time_zone": "America/New_York"
         },
         "postal": {
-          "code": "60602"
+          "code": "10004"
         },
         "registered_country": {
           "geoname_id": 6252001,
@@ -490,17 +513,17 @@
         },
         "subdivisions": [
           {
-            "geoname_id": 4896861,
-            "iso_code": "IL",
+            "geoname_id": 5128638,
+            "iso_code": "NY",
             "names": {
-              "de": "Illinois",
-              "en": "Illinois",
-              "es": "Illinois",
-              "fr": "Illinois",
-              "ja": "イリノイ州",
-              "pt-BR": "Ilinóis",
-              "ru": "Иллинойс",
-              "zh-CN": "伊利诺伊州"
+              "de": "New York",
+              "en": "New York",
+              "es": "Nueva York",
+              "fr": "New York",
+              "ja": "ニューヨーク州",
+              "pt-BR": "Nova Iorque",
+              "ru": "Нью-Йорк",
+              "zh-CN": "纽约州"
             }
           }
         ]
@@ -594,7 +617,7 @@
     },
     {
       "hostname": "firebaseinstallations.googleapis.com",
-      "ip": "172.217.4.74",
+      "ip": "172.253.115.95",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -648,7 +671,7 @@
     },
     {
       "hostname": "www.googletagmanager.com",
-      "ip": "142.250.191.136",
+      "ip": "172.253.115.97",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -702,7 +725,7 @@
     },
     {
       "hostname": "firestore.googleapis.com",
-      "ip": "142.250.190.10",
+      "ip": "172.253.115.95",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -756,7 +779,7 @@
     },
     {
       "hostname": "firebaseremoteconfig.googleapis.com",
-      "ip": "172.217.4.202",
+      "ip": "172.253.62.95",
       "geoip": {
         "continent": {
           "code": "NA",
