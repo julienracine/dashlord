@@ -82,6 +82,14 @@
     },
     {
       "type": "unknown",
+      "url": "https://hd.pe.fr/event?s=475540&idclient=m1xg8osvtve2gt5l"
+    },
+    {
+      "type": "unknown",
+      "url": "https://hd.pe.fr/event?s=475540&idclient=m1xg8osvtve2gt5l"
+    },
+    {
+      "type": "unknown",
       "url": "https://cdn.francetravail.fr/studio/legacy/css/theme-pole-emploi.css"
     },
     {
@@ -130,6 +138,26 @@
     },
     {
       "type": "unknown",
+      "url": "https://cdn.francetravail.fr/studio/design-system/fonts/roboto-v30-latin-700.woff2"
+    },
+    {
+      "type": "unknown",
+      "url": "https://cdn.francetravail.fr/studio/design-system/fonts/roboto-v30-latin-italic.woff2"
+    },
+    {
+      "type": "unknown",
+      "url": "https://cdn.francetravail.fr/studio/design-system/fonts/roboto-v30-latin-700italic.woff2"
+    },
+    {
+      "type": "unknown",
+      "url": "https://cdn.francetravail.fr/studio/design-system/fonts/roboto-v30-latin-500italic.woff2"
+    },
+    {
+      "type": "unknown",
+      "url": "https://www.francetravail.fr/files/live/sites/PE/files/images/Logos/header-logo2021-pe-fr.svg"
+    },
+    {
+      "type": "unknown",
       "url": "https://candidat.francetravail.fr/mobiville/static/media/home-bg.4e918c4b2800bcb748fa.avif"
     },
     {
@@ -142,31 +170,11 @@
     },
     {
       "type": "unknown",
-      "url": "https://cdn.francetravail.fr/studio/design-system/fonts/roboto-v30-latin-700.woff2"
-    },
-    {
-      "type": "unknown",
-      "url": "https://cdn.francetravail.fr/studio/design-system/fonts/roboto-v30-latin-italic.woff2"
-    },
-    {
-      "type": "unknown",
-      "url": "https://www.francetravail.fr/files/live/sites/PE/files/images/Logos/header-logo2021-pe-fr.svg"
-    },
-    {
-      "type": "unknown",
       "url": "https://cdn.francetravail.fr/studio/design-system/fonts/roboto-v30-latin-700italic.woff2"
     },
     {
       "type": "unknown",
       "url": "https://cdn.francetravail.fr/studio/design-system/fonts/roboto-v30-latin-500italic.woff2"
-    },
-    {
-      "type": "unknown",
-      "url": "https://candidat.francetravail.fr/mobiville/static/media/guide-banner-mobile.b55883ebdb202a57031f.png"
-    },
-    {
-      "type": "unknown",
-      "url": "https://hd.pe.fr/event?s=475540&idclient=m1ngllnplpmrou3a"
     },
     {
       "type": "unknown",
@@ -174,15 +182,7 @@
     },
     {
       "type": "unknown",
-      "url": "https://cdn.francetravail.fr/studio/design-system/fonts/roboto-v30-latin-700italic.woff2"
-    },
-    {
-      "type": "unknown",
-      "url": "https://cdn.francetravail.fr/studio/design-system/fonts/roboto-v30-latin-500italic.woff2"
-    },
-    {
-      "type": "unknown",
-      "url": "https://hd.pe.fr/event?s=475540&idclient=m1ngllnplpmrou3a"
+      "url": "https://candidat.francetravail.fr/mobiville/static/media/guide-banner-mobile.b55883ebdb202a57031f.png"
     },
     {
       "type": "unknown",
@@ -208,7 +208,7 @@
   "cookies": [
     {
       "name": "TS016fc3b0",
-      "value": "0150c672c35243b0b2275837ebf69e1dc23ba5356ad04b1c7466adcc8fc384da5f1815a7ed036ffcb8b51757ff9ff5e8ae38c628c4",
+      "value": "0150c672c37216bd41c5644a9343e9476ae3400e889df90e8a6da44cc8d94634eecb55ea71e1475070bd1f0a074f132cd0074258bb",
       "domain": ".candidat.francetravail.fr",
       "path": "/",
       "expires": -1,
@@ -253,10 +253,10 @@
     "cache-control": "no-store, no-cache, must-revalidate, proxy-revalidate, max-age=0",
     "content-encoding": "gzip",
     "content-type": "text/html",
-    "date": "Sun, 29 Sep 2024 10:49:54 GMT",
+    "date": "Sun, 06 Oct 2024 10:37:34 GMT",
     "last-modified": "Tue, 16 Jul 2024 16:59:33 GMT",
     "referrer-policy": "no-referrer-when-downgrade",
-    "set-cookie": "Path=/; HttpOnly; Secure\nBIGipServerPOOL_Z2_PROD_MOP_HTTP=2023492362.20480.0000; path=/; Httponly; Secure\nTS016fc3b0=0150c672c35243b0b2275837ebf69e1dc23ba5356ad04b1c7466adcc8fc384da5f1815a7ed036ffcb8b51757ff9ff5e8ae38c628c4; Path=/; Domain=.candidat.francetravail.fr",
+    "set-cookie": "Path=/; HttpOnly; Secure\nBIGipServerPOOL_Z2_PROD_MOP_HTTP=2023492362.20480.0000; path=/; Httponly; Secure\nTS016fc3b0=0150c672c37216bd41c5644a9343e9476ae3400e889df90e8a6da44cc8d94634eecb55ea71e1475070bd1f0a074f132cd0074258bb; Path=/; Domain=.candidat.francetravail.fr",
     "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
     "transfer-encoding": "chunked",
     "vary": "Accept-Encoding",
@@ -459,7 +459,7 @@
     },
     {
       "hostname": "fonts.googleapis.com",
-      "ip": "142.251.16.95",
+      "ip": "172.217.1.106",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -678,7 +678,7 @@
     },
     {
       "hostname": "tag.aticdn.net",
-      "ip": "143.204.237.55",
+      "ip": "18.160.18.16",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -732,7 +732,7 @@
     },
     {
       "hostname": "privacy.trustcommander.net",
-      "ip": "51.44.38.153",
+      "ip": "15.236.58.71",
       "geoip": {
         "city": {
           "geoname_id": 2988507,
@@ -828,6 +828,60 @@
       }
     },
     {
+      "hostname": "hd.pe.fr",
+      "ip": "13.226.22.124",
+      "geoip": {
+        "continent": {
+          "code": "NA",
+          "geoname_id": 6255149,
+          "names": {
+            "de": "Nordamerika",
+            "en": "North America",
+            "es": "Norteamérica",
+            "fr": "Amérique du Nord",
+            "ja": "北アメリカ",
+            "pt-BR": "América do Norte",
+            "ru": "Северная Америка",
+            "zh-CN": "北美洲"
+          }
+        },
+        "country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "USA",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        },
+        "location": {
+          "accuracy_radius": 1000,
+          "latitude": 37.751,
+          "longitude": -97.822,
+          "time_zone": "America/Chicago"
+        },
+        "registered_country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "USA",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        }
+      }
+    },
+    {
       "hostname": "www.francetravail.fr",
       "ip": "185.215.64.79",
       "geoip": {
@@ -920,60 +974,6 @@
             }
           }
         ]
-      }
-    },
-    {
-      "hostname": "hd.pe.fr",
-      "ip": "18.160.18.49",
-      "geoip": {
-        "continent": {
-          "code": "NA",
-          "geoname_id": 6255149,
-          "names": {
-            "de": "Nordamerika",
-            "en": "North America",
-            "es": "Norteamérica",
-            "fr": "Amérique du Nord",
-            "ja": "北アメリカ",
-            "pt-BR": "América do Norte",
-            "ru": "Северная Америка",
-            "zh-CN": "北美洲"
-          }
-        },
-        "country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
-          "names": {
-            "de": "USA",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
-          }
-        },
-        "location": {
-          "accuracy_radius": 1000,
-          "latitude": 37.751,
-          "longitude": -97.822,
-          "time_zone": "America/Chicago"
-        },
-        "registered_country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
-          "names": {
-            "de": "USA",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
-          }
-        }
       }
     }
   ]
