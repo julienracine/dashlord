@@ -14,7 +14,7 @@
     },
     {
       "type": "unknown",
-      "url": "https://stats.recoconseil.fr/matomo.php?action_name=R%C3%A9habiliter%20une%20friche%20-%20UrbanVitaliz&idsite=2&rec=1&r=612901&h=13&m=5&s=36&url=https%3A%2F%2Furbanvitaliz.fr%2F&_id=a70bde994a738599&_idn=1&send_image=0&_refts=0&pv_id=pldpBc&pf_net=178&pf_srv=191&pf_tfr=82&pf_dm1=868&uadata=%7B%22fullVersionList%22%3A%5B%5D%2C%22mobile%22%3Afalse%2C%22model%22%3A%22%22%2C%22platform%22%3A%22%22%2C%22platformVersion%22%3A%22%22%7D&cookie=1&res=800x600"
+      "url": "https://stats.recoconseil.fr/matomo.php?action_name=R%C3%A9habiliter%20une%20friche%20-%20UrbanVitaliz&idsite=2&rec=1&r=134655&h=13&m=6&s=52&url=https%3A%2F%2Furbanvitaliz.fr%2F&_id=cffda5aef5a32f2f&_idn=1&send_image=0&_refts=0&pv_id=WTAMy6&pf_net=184&pf_srv=129&pf_tfr=84&pf_dm1=923&uadata=%7B%22fullVersionList%22%3A%5B%5D%2C%22mobile%22%3Afalse%2C%22model%22%3A%22%22%2C%22platform%22%3A%22%22%2C%22platformVersion%22%3A%22%22%7D&cookie=1&res=800x600"
     }
   ],
   "cookies": [
@@ -23,7 +23,7 @@
       "value": "1",
       "domain": "urbanvitaliz.fr",
       "path": "/",
-      "expires": 1728221736,
+      "expires": 1728826612,
       "size": 15,
       "httpOnly": false,
       "secure": false,
@@ -35,10 +35,10 @@
     },
     {
       "name": "_pk_id.2.30f1",
-      "value": "a70bde994a738599.1728219936.",
+      "value": "cffda5aef5a32f2f.1728824812.",
       "domain": "urbanvitaliz.fr",
       "path": "/",
-      "expires": 1762175136,
+      "expires": 1762780012,
       "size": 41,
       "httpOnly": false,
       "secure": false,
@@ -50,10 +50,10 @@
     },
     {
       "name": "csrftoken",
-      "value": "IDKKMtWKmUeOKmauCdopkF0QJNf9HRBF",
+      "value": "YtJUEo7XmUGVg9lAaUiFkYsxuA8k18sT",
       "domain": "urbanvitaliz.fr",
       "path": "/",
-      "expires": 1759669535.117096,
+      "expires": 1760274411.376329,
       "size": 41,
       "httpOnly": false,
       "secure": true,
@@ -68,9 +68,9 @@
     "content-length": "38048",
     "content-type": "text/html; charset=utf-8",
     "cross-origin-opener-policy": "same-origin",
-    "date": "Sun, 06 Oct 2024 13:05:35 GMT",
+    "date": "Sun, 13 Oct 2024 13:06:51 GMT",
     "referrer-policy": "same-origin",
-    "set-cookie": "csrftoken=IDKKMtWKmUeOKmauCdopkF0QJNf9HRBF; expires=Sun, 05 Oct 2025 13:05:35 GMT; Max-Age=31449600; Path=/; SameSite=None; Secure",
+    "set-cookie": "csrftoken=YtJUEo7XmUGVg9lAaUiFkYsxuA8k18sT; expires=Sun, 12 Oct 2025 13:06:51 GMT; Max-Age=31449600; Path=/; SameSite=None; Secure",
     "strict-transport-security": "max-age=31536000; includeSubDomains",
     "vary": "Cookie",
     "via": "2.0 alproxy",
@@ -136,59 +136,8 @@
     },
     {
       "hostname": "cdn.jsdelivr.net",
-      "ip": "146.75.37.229",
+      "ip": "104.18.186.31",
       "geoip": {
-        "city": {
-          "geoname_id": 4744870,
-          "names": {
-            "de": "Ashburn",
-            "en": "Ashburn",
-            "es": "Ashburn",
-            "fr": "Ashburn",
-            "ja": "アッシュバーン",
-            "pt-BR": "Ashburn",
-            "ru": "Ашберн",
-            "zh-CN": "阿什本"
-          }
-        },
-        "continent": {
-          "code": "NA",
-          "geoname_id": 6255149,
-          "names": {
-            "de": "Nordamerika",
-            "en": "North America",
-            "es": "Norteamérica",
-            "fr": "Amérique du Nord",
-            "ja": "北アメリカ",
-            "pt-BR": "América do Norte",
-            "ru": "Северная Америка",
-            "zh-CN": "北美洲"
-          }
-        },
-        "country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
-          "names": {
-            "de": "USA",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
-          }
-        },
-        "location": {
-          "accuracy_radius": 20,
-          "latitude": 39.0469,
-          "longitude": -77.4903,
-          "metro_code": 511,
-          "time_zone": "America/New_York"
-        },
-        "postal": {
-          "code": "20149"
-        },
         "registered_country": {
           "geoname_id": 6252001,
           "iso_code": "US",
@@ -202,23 +151,7 @@
             "ru": "США",
             "zh-CN": "美国"
           }
-        },
-        "subdivisions": [
-          {
-            "geoname_id": 6254928,
-            "iso_code": "VA",
-            "names": {
-              "de": "Virginia",
-              "en": "Virginia",
-              "es": "Virginia",
-              "fr": "Virginie",
-              "ja": "バージニア州",
-              "pt-BR": "Virgínia",
-              "ru": "Вирджиния",
-              "zh-CN": "弗吉尼亚州"
-            }
-          }
-        ]
+        }
       }
     },
     {
