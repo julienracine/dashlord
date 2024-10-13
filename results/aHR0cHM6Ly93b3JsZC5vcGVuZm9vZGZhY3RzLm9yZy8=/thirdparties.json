@@ -4,13 +4,13 @@
   "headers": {
     "content-encoding": "gzip",
     "content-type": "text/html; charset=UTF-8",
-    "date": "Sun, 06 Oct 2024 12:46:59 GMT",
-    "expires": "Sat, 05 Oct 2024 12:46:59 GMT",
+    "date": "Sun, 13 Oct 2024 12:50:00 GMT",
+    "expires": "Sat, 12 Oct 2024 12:50:00 GMT",
     "server": "nginx/1.18.0",
     "vary": "Accept-Encoding",
     "x-content-type-options": "nosniff",
     "x-download-options": "noopen",
-    "x-request-id": "kOFrvkZ3uNJEYChj",
+    "x-request-id": "EytJQk5ccFcEL9MU",
     "x-xss-protection": "1; mode=block"
   },
   "endpoints": [
@@ -19,14 +19,16 @@
       "ip": "213.36.253.214",
       "geoip": {
         "city": {
-          "geoname_id": 3027883,
+          "geoname_id": 2988507,
           "names": {
-            "de": "Cergy",
-            "en": "Cergy",
-            "fr": "Cergy",
-            "ja": "セルジー",
-            "ru": "Сержи",
-            "zh-CN": "塞尔吉"
+            "de": "Paris",
+            "en": "Paris",
+            "es": "París",
+            "fr": "Paris",
+            "ja": "パリ",
+            "pt-BR": "Paris",
+            "ru": "Париж",
+            "zh-CN": "巴黎"
           }
         },
         "continent": {
@@ -60,12 +62,12 @@
         },
         "location": {
           "accuracy_radius": 20,
-          "latitude": 49.0291,
-          "longitude": 2.0601,
+          "latitude": 48.8323,
+          "longitude": 2.4075,
           "time_zone": "Europe/Paris"
         },
         "postal": {
-          "code": "95800"
+          "code": "75008"
         },
         "registered_country": {
           "geoname_id": 3017382,
@@ -98,17 +100,13 @@
             }
           },
           {
-            "geoname_id": 2971071,
-            "iso_code": "95",
+            "geoname_id": 2968815,
+            "iso_code": "75",
             "names": {
-              "de": "Val d'Oise",
-              "en": "Val d'Oise",
-              "es": "Valle de Oise",
-              "fr": "Val-d'Oise",
-              "ja": "ヴァル＝ドワーズ県",
-              "pt-BR": "Val-d'Oise",
-              "ru": "Валь-д’Уаз",
-              "zh-CN": "瓦兹河谷省"
+              "de": "Paris",
+              "en": "Paris",
+              "es": "Paris",
+              "fr": "Paris"
             }
           }
         ]
