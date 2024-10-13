@@ -50,15 +50,15 @@
     },
     {
       "type": "unknown",
-      "url": "https://cdn.livestorm.co/dist/js/chunk-style.d94ec0dc.js"
+      "url": "https://cdn.livestorm.co/dist/js/chunk-style.2b5ffd03.js"
     },
     {
       "type": "unknown",
-      "url": "https://cdn.livestorm.co/dist/js/chunk-vendors.86499237.js"
+      "url": "https://cdn.livestorm.co/dist/js/chunk-vendors.7742e3b9.js"
     },
     {
       "type": "unknown",
-      "url": "https://cdn.livestorm.co/dist/js/chunk-vendors-group-registration.ecda6bf9.js"
+      "url": "https://cdn.livestorm.co/dist/js/chunk-vendors-group-registration.1400adc7.js"
     },
     {
       "type": "unknown",
@@ -66,15 +66,15 @@
     },
     {
       "type": "unknown",
-      "url": "https://cdn.livestorm.co/dist/js/chunk-common.65160e3b.js"
+      "url": "https://cdn.livestorm.co/dist/js/chunk-common.07aa928e.js"
     },
     {
       "type": "unknown",
-      "url": "https://cdn.livestorm.co/dist/js/runtime-company.3ef209d7.js"
+      "url": "https://cdn.livestorm.co/dist/js/runtime-company.b89c6fb4.js"
     },
     {
       "type": "unknown",
-      "url": "https://cdn.livestorm.co/dist/js/company.70a1dbe3.js"
+      "url": "https://cdn.livestorm.co/dist/js/company.9620779b.js"
     },
     {
       "type": "google fonts",
@@ -90,11 +90,15 @@
     },
     {
       "type": "unknown",
-      "url": "https://cdn.livestorm.co/dist/js/chunk-locale-en.d71b4e17.js"
+      "url": "https://cdn.livestorm.co/dist/js/chunk-locale-en.73d15f36.js"
     },
     {
       "type": "unknown",
       "url": "https://cdn.livestorm.co/uploads/identity/avatar/dee08c8c-640f-47e6-8bd3-f97bf8cb16bb/size_120x120_c082d650-c84a-44a3-be09-235de589a40c.jpg?v=1709284339"
+    },
+    {
+      "type": "unknown",
+      "url": "https://cdn.livestorm.co/dist/img/chevron-down-dark.8668fd32.svg"
     },
     {
       "type": "google fonts",
@@ -144,10 +148,10 @@
   "cookies": [
     {
       "name": "csrftoken",
-      "value": "JglivhxHvGU4p5rmAeI9PgKkfzJ3JCZT",
+      "value": "psT0WVmTj1gBe58JMWcgxFJuGcAFeJYL",
       "domain": "pilotage.inclusion.beta.gouv.fr",
       "path": "/",
-      "expires": 1759643885.061583,
+      "expires": 1760248855.819246,
       "size": 41,
       "httpOnly": false,
       "secure": true,
@@ -160,13 +164,13 @@
   ],
   "headers": {
     "connection": "keep-alive",
-    "content-length": "54299",
+    "content-length": "54300",
     "content-type": "text/html; charset=utf-8",
     "cross-origin-opener-policy": "same-origin",
-    "date": "Sun, 06 Oct 2024 05:58:04 GMT",
+    "date": "Sun, 13 Oct 2024 06:00:55 GMT",
     "referrer-policy": "same-origin",
-    "set-cookie": "csrftoken=JglivhxHvGU4p5rmAeI9PgKkfzJ3JCZT; expires=Sun, 05 Oct 2025 05:58:04 GMT; Max-Age=31449600; Path=/; SameSite=Lax; Secure",
-    "sozu-id": "01J9G6G35BAXD2016HEB57PFVH",
+    "set-cookie": "csrftoken=psT0WVmTj1gBe58JMWcgxFJuGcAFeJYL; expires=Sun, 12 Oct 2025 06:00:55 GMT; Max-Age=31449600; Path=/; SameSite=Lax; Secure",
+    "sozu-id": "01JA27EB0QYST6N3NNBGEBFTJB",
     "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
     "vary": "Cookie",
     "x-content-type-options": "nosniff",
@@ -175,7 +179,7 @@
   "endpoints": [
     {
       "hostname": "pilotage.inclusion.beta.gouv.fr",
-      "ip": "91.208.207.220",
+      "ip": "91.208.207.214",
       "geoip": {
         "continent": {
           "code": "EU",
@@ -334,7 +338,7 @@
     },
     {
       "hostname": "fonts.googleapis.com",
-      "ip": "142.250.188.234",
+      "ip": "142.251.46.170",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -388,8 +392,20 @@
     },
     {
       "hostname": "cdn.livestorm.co",
-      "ip": "13.33.21.49",
+      "ip": "65.8.161.75",
       "geoip": {
+        "city": {
+          "geoname_id": 5511077,
+          "names": {
+            "de": "Reno",
+            "en": "Reno",
+            "es": "Reno",
+            "fr": "Reno",
+            "ja": "リノ",
+            "pt-BR": "Reno",
+            "ru": "Рино"
+          }
+        },
         "continent": {
           "code": "NA",
           "geoname_id": 6255149,
@@ -419,10 +435,14 @@
           }
         },
         "location": {
-          "accuracy_radius": 1000,
-          "latitude": 37.751,
-          "longitude": -97.822,
-          "time_zone": "America/Chicago"
+          "accuracy_radius": 20,
+          "latitude": 39.3714,
+          "longitude": -119.6855,
+          "metro_code": 811,
+          "time_zone": "America/Los_Angeles"
+        },
+        "postal": {
+          "code": "89521"
         },
         "registered_country": {
           "geoname_id": 6252001,
@@ -437,12 +457,28 @@
             "ru": "США",
             "zh-CN": "美国"
           }
-        }
+        },
+        "subdivisions": [
+          {
+            "geoname_id": 5509151,
+            "iso_code": "NV",
+            "names": {
+              "de": "Nevada",
+              "en": "Nevada",
+              "es": "Nevada",
+              "fr": "Nevada",
+              "ja": "ネバダ州",
+              "pt-BR": "Nevada",
+              "ru": "Невада",
+              "zh-CN": "内华达州"
+            }
+          }
+        ]
       }
     },
     {
       "hostname": "fonts.gstatic.com",
-      "ip": "142.251.40.35",
+      "ip": "142.251.214.131",
       "geoip": {
         "continent": {
           "code": "NA",
