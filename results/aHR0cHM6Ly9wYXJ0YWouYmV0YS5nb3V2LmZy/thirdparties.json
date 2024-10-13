@@ -12,10 +12,10 @@
   "cookies": [
     {
       "name": "csrftoken",
-      "value": "OOMhLqM59YH0WBPqDud32gG0NXsHz3Tk8awQPQQF43a0ynN9vSZ2PvHvtasIIbjr",
+      "value": "7Ay6HiMTqQj0kCdE7ADb54nC9qAHrzNUufZ0tLlgk2n1DWlU57ogeYvAFPuPmbRd",
       "domain": "partaj.ecologie.gouv.fr",
       "path": "/",
-      "expires": 1759642935.049423,
+      "expires": 1760247500.00504,
       "size": 73,
       "httpOnly": false,
       "secure": true,
@@ -29,13 +29,13 @@
   "headers": {
     "content-encoding": "gzip",
     "content-type": "text/html; charset=utf-8",
-    "date": "Sun, 06 Oct 2024 05:42:15 GMT",
-    "set-cookie": "csrftoken=OOMhLqM59YH0WBPqDud32gG0NXsHz3Tk8awQPQQF43a0ynN9vSZ2PvHvtasIIbjr; expires=Sun, 05 Oct 2025 05:42:15 GMT; Max-Age=31449600; Path=/; SameSite=Lax; Secure",
+    "date": "Sun, 13 Oct 2024 05:38:19 GMT",
+    "set-cookie": "csrftoken=7Ay6HiMTqQj0kCdE7ADb54nC9qAHrzNUufZ0tLlgk2n1DWlU57ogeYvAFPuPmbRd; expires=Sun, 12 Oct 2025 05:38:19 GMT; Max-Age=31449600; Path=/; SameSite=Lax; Secure",
     "strict-transport-security": "max-age=31536000",
     "vary": "Cookie",
     "x-content-type-options": "nosniff",
     "x-frame-options": "DENY",
-    "x-request-id": "22726be6-ad92-4555-b5ff-3df3ac0774da",
+    "x-request-id": "4302c9e8-33e0-4dde-a4e8-3c5f17137591",
     "x-xss-protection": "1; mode=block"
   },
   "endpoints": [
