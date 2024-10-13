@@ -67,7 +67,7 @@
       "value": "1",
       "domain": "aidantsconnect.beta.gouv.fr",
       "path": "/",
-      "expires": 1728180907,
+      "expires": 1728785551,
       "size": 16,
       "httpOnly": false,
       "secure": false,
@@ -79,10 +79,10 @@
     },
     {
       "name": "_pk_id.98.2d29",
-      "value": "e78c2db2b32d2878.1728179107.",
+      "value": "922325371f397d7a.1728783751.",
       "domain": "aidantsconnect.beta.gouv.fr",
       "path": "/",
-      "expires": 1762134307,
+      "expires": 1762738951,
       "size": 42,
       "httpOnly": false,
       "secure": false,
@@ -95,21 +95,21 @@
   ],
   "headers": {
     "content-encoding": "gzip",
-    "content-security-policy": "frame-src https://www.youtube.com/embed/hATrqHG4zYQ https://www.youtube-nocookie.com/embed/hATrqHG4zYQ http://www.youtube.com/embed/hATrqHG4zYQ http://www.youtube-nocookie.com/embed/hATrqHG4zYQ https://www.youtube.com/embed/WTHj_kQXnzs https://www.youtube-nocookie.com/embed/WTHj_kQXnzs http://www.youtube.com/embed/WTHj_kQXnzs http://www.youtube-nocookie.com/embed/WTHj_kQXnzs https://www.youtube.com/embed/ihsm-36I-fE https://www.youtube-nocookie.com/embed/ihsm-36I-fE http://www.youtube.com/embed/ihsm-36I-fE http://www.youtube-nocookie.com/embed/ihsm-36I-fE https://www.youtube.com/embed/AJGo6bydQss https://www.youtube-nocookie.com/embed/AJGo6bydQss http://www.youtube.com/embed/AJGo6bydQss http://www.youtube-nocookie.com/embed/AJGo6bydQss; default-src 'self'; connect-src 'self' https://stats.beta.gouv.fr/matomo.php https://stats.beta.gouv.fr/piwik.php https://api.sarbacane.com/v1/forms/contacts/upsert https://api-adresse.data.gouv.fr/search/; object-src 'none'; img-src 'self' data: https://www.service-public.fr/resources/v-5cf79a7acf/web/css/img/png/; style-src 'self' https://unpkg.com/easymde/dist/easymde.min.css; style-src-attr 'unsafe-hashes' 'sha256-I/4Jcdrg5KNFrU0X4p2nNmjeGh9aI+9ac0cUllI5SwY=' 'sha256-vYd+FsML43MBXhP+pXOhW9h0Cdq43hkCe4Im/yyvhss='; script-src 'self' https://unpkg.com/stimulus@3.2.1/dist/stimulus.umd.js https://unpkg.com/easymde/dist/easymde.min.js https://forms.sbc29.com/form.js https://unpkg.com/tarteaucitronjs@1.15.0/tarteaucitron.js https://unpkg.com/tarteaucitronjs@1.15.0/lang/tarteaucitron.fr.js https://unpkg.com/tarteaucitronjs@1.15.0/tarteaucitron.services.js 'sha256-+iP5od5k5h6dnQJ5XGJGipIf2K6VdSrIwATxnixVR8s=' 'sha256-mXH/smf1qtriC8hr62Qt2dvp/StB/Ixr4xmBRvkCz0U=' https://cdn.jsdelivr.net/npm/chart.js@3.7.1/dist/chart.min.js 'sha256-oOHki3o/lOkQD0J+jC75068TFqQoV40dYK6wrkIXI1c=' https://cdnjs.cloudflare.com/ajax/libs/chartjs-plugin-datalabels/2.0.0/chartjs-plugin-datalabels.min.js 'sha256-CO4GFu3p1QNoCvjdyc+zNsVh77XOc5H2OcZYFb8YUPA=' https://code.jquery.com/jquery-3.6.1.js https://code.jquery.com/ui/1.13.1/jquery-ui.js 'sha256-NR0PzgaeuNCaj2DbnvXN6W2GoemNJ9jQE4tqs/H7O0c=' 'sha256-TzFaIqy7u6q6ovMbU59mz7pAL/g930THGxhG6dg/cHQ=' https://cdn.jsdelivr.net/npm/@tarekraafat/autocomplete.js@10.2.7/dist/autoComplete.min.js https://stats.beta.gouv.fr/matomo.js https://stats.beta.gouv.fr/piwik.js",
+    "content-security-policy": "connect-src 'self' https://stats.beta.gouv.fr/matomo.php https://stats.beta.gouv.fr/piwik.php https://api.sarbacane.com/v1/forms/contacts/upsert https://api-adresse.data.gouv.fr/search/; style-src-attr 'unsafe-hashes' 'sha256-I/4Jcdrg5KNFrU0X4p2nNmjeGh9aI+9ac0cUllI5SwY=' 'sha256-vYd+FsML43MBXhP+pXOhW9h0Cdq43hkCe4Im/yyvhss='; script-src 'self' https://unpkg.com/stimulus@3.2.1/dist/stimulus.umd.js https://unpkg.com/easymde/dist/easymde.min.js https://forms.sbc29.com/form.js https://unpkg.com/tarteaucitronjs@1.15.0/tarteaucitron.js https://unpkg.com/tarteaucitronjs@1.15.0/lang/tarteaucitron.fr.js https://unpkg.com/tarteaucitronjs@1.15.0/tarteaucitron.services.js 'sha256-+iP5od5k5h6dnQJ5XGJGipIf2K6VdSrIwATxnixVR8s=' 'sha256-mXH/smf1qtriC8hr62Qt2dvp/StB/Ixr4xmBRvkCz0U=' https://cdn.jsdelivr.net/npm/chart.js@3.7.1/dist/chart.min.js 'sha256-oOHki3o/lOkQD0J+jC75068TFqQoV40dYK6wrkIXI1c=' https://cdnjs.cloudflare.com/ajax/libs/chartjs-plugin-datalabels/2.0.0/chartjs-plugin-datalabels.min.js 'sha256-CO4GFu3p1QNoCvjdyc+zNsVh77XOc5H2OcZYFb8YUPA=' https://code.jquery.com/jquery-3.6.1.js https://code.jquery.com/ui/1.13.1/jquery-ui.js 'sha256-NR0PzgaeuNCaj2DbnvXN6W2GoemNJ9jQE4tqs/H7O0c=' 'sha256-TzFaIqy7u6q6ovMbU59mz7pAL/g930THGxhG6dg/cHQ=' https://cdn.jsdelivr.net/npm/@tarekraafat/autocomplete.js@10.2.7/dist/autoComplete.min.js https://stats.beta.gouv.fr/matomo.js https://stats.beta.gouv.fr/piwik.js; default-src 'self'; img-src 'self' data: https://www.service-public.fr/resources/v-5cf79a7acf/web/css/img/png/; style-src 'self' https://unpkg.com/easymde/dist/easymde.min.css; frame-src https://www.youtube.com/embed/hATrqHG4zYQ https://www.youtube-nocookie.com/embed/hATrqHG4zYQ http://www.youtube.com/embed/hATrqHG4zYQ http://www.youtube-nocookie.com/embed/hATrqHG4zYQ https://www.youtube.com/embed/WTHj_kQXnzs https://www.youtube-nocookie.com/embed/WTHj_kQXnzs http://www.youtube.com/embed/WTHj_kQXnzs http://www.youtube-nocookie.com/embed/WTHj_kQXnzs https://www.youtube.com/embed/ihsm-36I-fE https://www.youtube-nocookie.com/embed/ihsm-36I-fE http://www.youtube.com/embed/ihsm-36I-fE http://www.youtube-nocookie.com/embed/ihsm-36I-fE https://www.youtube.com/embed/AJGo6bydQss https://www.youtube-nocookie.com/embed/AJGo6bydQss http://www.youtube.com/embed/AJGo6bydQss http://www.youtube-nocookie.com/embed/AJGo6bydQss; object-src 'none'",
     "content-type": "text/html; charset=utf-8",
     "cross-origin-opener-policy": "same-origin",
-    "date": "Sun, 06 Oct 2024 01:45:05 GMT",
+    "date": "Sun, 13 Oct 2024 01:42:30 GMT",
     "referrer-policy": "strict-origin",
     "strict-transport-security": "max-age=60",
     "vary": "Cookie",
     "x-content-type-options": "nosniff",
     "x-frame-options": "DENY",
-    "x-request-id": "4bf45313-8e79-4442-9462-dc1b66b4d179"
+    "x-request-id": "aa7bea5c-67fc-4edd-9365-9b9da6ce2963"
   },
   "endpoints": [
     {
       "hostname": "aidantsconnect.beta.gouv.fr",
-      "ip": "80.247.12.255",
+      "ip": "80.247.13.145",
       "geoip": {
         "continent": {
           "code": "EU",
@@ -165,7 +165,7 @@
     },
     {
       "hostname": "unpkg.com",
-      "ip": "104.17.248.203",
+      "ip": "104.17.246.203",
       "geoip": {
         "registered_country": {
           "geoname_id": 6252001,
