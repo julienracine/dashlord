@@ -6,7 +6,7 @@
     },
     {
       "type": "unknown",
-      "url": "https://candidat.francetravail.fr/simulation-ressources-formation/runtime.693f24cd890ddf49.js"
+      "url": "https://candidat.francetravail.fr/simulation-ressources-formation/runtime.44b5b6d4a721ba9e.js"
     },
     {
       "type": "unknown",
@@ -14,7 +14,7 @@
     },
     {
       "type": "unknown",
-      "url": "https://candidat.francetravail.fr/simulation-ressources-formation/main.eee2d9ff85da4780.js"
+      "url": "https://candidat.francetravail.fr/simulation-ressources-formation/main.96b785e52f372ea7.js"
     },
     {
       "type": "unknown",
@@ -30,7 +30,7 @@
     },
     {
       "type": "unknown",
-      "url": "https://candidat.francetravail.fr/simulation-ressources-formation/351.7163cb26c7bdb234.js"
+      "url": "https://candidat.francetravail.fr/simulation-ressources-formation/351.e08762bf7f3b53e7.js"
     },
     {
       "type": "unknown",
@@ -38,7 +38,7 @@
     },
     {
       "type": "unknown",
-      "url": "https://candidat.francetravail.fr/simulation-ressources-formation/872.c5a3161bbd791231.js"
+      "url": "https://candidat.francetravail.fr/simulation-ressources-formation/872.fed93e358a6df9e0.js"
     },
     {
       "type": "unknown",
@@ -79,6 +79,10 @@
         "id": "at-internet",
         "message": "Ensure your TOS notify the AT internet usage"
       }
+    },
+    {
+      "type": "unknown",
+      "url": "https://candidat.francetravail.fr/simulation-ressources-formation/roboto-regular-webfont.33cda13c23120bd0.woff"
     },
     {
       "type": "unknown",
@@ -178,7 +182,7 @@
     },
     {
       "type": "unknown",
-      "url": "https://hd.pe.fr/event?s=475540&idclient=m1xg5rnzj7w9ej4m"
+      "url": "https://hd.pe.fr/event?s=475540&idclient=m27g8pnz2qrsfh2g"
     },
     {
       "type": "unknown",
@@ -186,7 +190,7 @@
     },
     {
       "type": "unknown",
-      "url": "https://hd.pe.fr/event?s=475540&idclient=m1xg5rnzj7w9ej4m"
+      "url": "https://hd.pe.fr/event?s=475540&idclient=m27g8pnz2qrsfh2g"
     },
     {
       "type": "unknown",
@@ -204,7 +208,7 @@
   "cookies": [
     {
       "name": "BIGipServerPOOL_TAS_SDDC_HTTP",
-      "value": "1771244298.20480.0000",
+      "value": "1788021514.20480.0000",
       "domain": "candidat.francetravail.fr",
       "path": "/",
       "expires": -1,
@@ -220,14 +224,14 @@
   "headers": {
     "content-encoding": "gzip",
     "content-type": "text/html; charset=utf-8",
-    "date": "Sun, 06 Oct 2024 10:35:16 GMT",
-    "last-modified": "Tue, 17 Sep 2024 12:58:06 GMT",
-    "set-cookie": "BIGipServerPOOL_TAS_SDDC_HTTP=1771244298.20480.0000; path=/; Httponly; Secure\nTS01fca309=0150c672c32fcb85fe59b862a04d8a733e733348c2195c56d15830c74b7d9a75914cf832ee408c94aa9cf7530f23fad2dfd5befb80; Path=/; Domain=.pn307-estimeformation-prod.apps.tas-prod.pole-emploi.intra",
+    "date": "Sun, 13 Oct 2024 10:35:15 GMT",
+    "last-modified": "Fri, 04 Oct 2024 08:45:30 GMT",
+    "set-cookie": "BIGipServerPOOL_TAS_SDDC_HTTP=1788021514.20480.0000; path=/; Httponly; Secure\nTS01fca309=0150c672c3c86c70242e40f5b4e0ef5d4e336e0385940290d5451136e5dbe63019ca8cfddfce0a04f8e190718da7688a3a180115ad; Path=/; Domain=.pn307-estimeformation-prod.apps.tas-prod.pole-emploi.intra",
     "transfer-encoding": "chunked",
     "vary": "Accept-Encoding",
     "x-content-type-options": "nosniff'",
     "x-robots-tag": "noindex, nofollow, nosnippet, noarchive",
-    "x-vcap-request-id": "017b53bb-186a-44a0-41fc-a16e1b903e53"
+    "x-vcap-request-id": "b7a51ef2-5d58-4ecd-7942-b45d99f8f55c"
   },
   "endpoints": [
     {
@@ -270,7 +274,7 @@
           }
         },
         "location": {
-          "accuracy_radius": 10,
+          "accuracy_radius": 200,
           "latitude": 48.9704,
           "longitude": 2.345,
           "time_zone": "Europe/Paris"
@@ -365,7 +369,7 @@
           }
         },
         "location": {
-          "accuracy_radius": 10,
+          "accuracy_radius": 200,
           "latitude": 48.9704,
           "longitude": 2.345,
           "time_zone": "Europe/Paris"
@@ -492,7 +496,7 @@
     },
     {
       "hostname": "tag.aticdn.net",
-      "ip": "18.160.18.104",
+      "ip": "108.156.91.50",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -584,7 +588,7 @@
           }
         },
         "location": {
-          "accuracy_radius": 10,
+          "accuracy_radius": 200,
           "latitude": 48.9704,
           "longitude": 2.345,
           "time_zone": "Europe/Paris"
@@ -641,7 +645,7 @@
     },
     {
       "hostname": "hd.pe.fr",
-      "ip": "18.160.18.3",
+      "ip": "18.160.213.125",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -695,7 +699,7 @@
     },
     {
       "hostname": "privacy.trustcommander.net",
-      "ip": "15.236.58.71",
+      "ip": "13.37.62.151",
       "geoip": {
         "city": {
           "geoname_id": 2988507,
@@ -830,7 +834,7 @@
           }
         },
         "location": {
-          "accuracy_radius": 10,
+          "accuracy_radius": 200,
           "latitude": 48.9704,
           "longitude": 2.345,
           "time_zone": "Europe/Paris"
