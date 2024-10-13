@@ -1,10 +1,10 @@
-# Nmap 7.92 scan initiated Sun Oct  6 06:38:09 2024 as: nmap -sV --script vulners --script-args mincvss=5.0 -oA /data/nmapvuln recosante.beta.gouv.fr
+# Nmap 7.92 scan initiated Sun Oct 13 06:32:08 2024 as: nmap -sV --script vulners --script-args mincvss=5.0 -oA /data/nmapvuln recosante.beta.gouv.fr
 Nmap scan report for recosante.beta.gouv.fr (57.128.91.43)
-Host is up (0.084s latency).
+Host is up (0.085s latency).
 Not shown: 998 closed tcp ports (reset)
 PORT    STATE SERVICE  VERSION
 80/tcp  open  http     nginx (reverse proxy)
 443/tcp open  ssl/http nginx (reverse proxy)
 
 Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
-# Nmap done at Sun Oct  6 06:38:33 2024 -- 1 IP address (1 host up) scanned in 24.37 seconds
+# Nmap done at Sun Oct 13 06:32:32 2024 -- 1 IP address (1 host up) scanned in 24.43 seconds
