@@ -9,13 +9,13 @@
   "headers": {
     "connection": "keep-alive",
     "content-encoding": "gzip",
-    "content-length": "2758",
-    "content-security-policy": "default-src 'self'; style-src 'self'; object-src 'none'; script-src 'self' https://browser.sentry-cdn.com https://js.sentry-cdn.com https://matomo.inclusion.beta.gouv.fr/ 'nonce-/Izpf70jX4ffIIa7OIJ+aQ=='; img-src 'self' data: https://matomo.inclusion.beta.gouv.fr/; font-src 'self'; frame-ancestors https://monportailpro.francetravail.fr https://cwportailconseiller.francetravail.fr https://*.cwportailconseiller.francetravail.fr https://mesapplicationspro.francetravail.fr; connect-src 'self' *.sentry.io https://matomo.inclusion.beta.gouv.fr/; base-uri 'none'",
+    "content-length": "2763",
+    "content-security-policy": "font-src 'self'; frame-ancestors https://monportailpro.francetravail.fr https://cwportailconseiller.francetravail.fr https://*.cwportailconseiller.francetravail.fr https://mesapplicationspro.francetravail.fr; style-src 'self'; object-src 'none'; script-src 'self' https://browser.sentry-cdn.com https://js.sentry-cdn.com https://matomo.inclusion.beta.gouv.fr/ 'nonce-aoHdfG11c4j8AoYXVNGXlQ=='; base-uri 'none'; default-src 'self'; img-src 'self' data: https://matomo.inclusion.beta.gouv.fr/; connect-src 'self' *.sentry.io https://matomo.inclusion.beta.gouv.fr/",
     "content-type": "text/html; charset=utf-8",
     "cross-origin-opener-policy": "same-origin",
-    "date": "Sun, 06 Oct 2024 02:47:00 GMT",
+    "date": "Sun, 13 Oct 2024 02:51:06 GMT",
     "referrer-policy": "same-origin",
-    "sozu-id": "01J9FVJ7668AJ6A1AXRKAE4CY1",
+    "sozu-id": "01JA1WJRPCYZDTAZ9VP3J7S7W3",
     "strict-transport-security": "max-age=31536000; includeSubDomains",
     "vary": "Cookie, Accept-Encoding, origin",
     "x-content-type-options": "nosniff",
@@ -24,7 +24,7 @@
   "endpoints": [
     {
       "hostname": "connect.inclusion.beta.gouv.fr",
-      "ip": "91.208.207.214",
+      "ip": "91.208.207.220",
       "geoip": {
         "continent": {
           "code": "EU",
@@ -80,7 +80,7 @@
     },
     {
       "hostname": "js.sentry-cdn.com",
-      "ip": "151.101.2.217",
+      "ip": "151.101.194.217",
       "geoip": {
         "city": {
           "geoname_id": 5391959,
