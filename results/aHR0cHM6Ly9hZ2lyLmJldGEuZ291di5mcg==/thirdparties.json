@@ -15,7 +15,7 @@
       "value": "1",
       "domain": "jagis.beta.gouv.fr",
       "path": "/",
-      "expires": 1728224116,
+      "expires": 1728829188,
       "size": 16,
       "httpOnly": false,
       "secure": false,
@@ -27,10 +27,10 @@
     },
     {
       "name": "_pk_id.40.d1c7",
-      "value": "b37b7698e391f2dc.1728222316.",
+      "value": "826a2d787341970e.1728827388.",
       "domain": "jagis.beta.gouv.fr",
       "path": "/",
-      "expires": 1762177516,
+      "expires": 1762782588,
       "size": 42,
       "httpOnly": false,
       "secure": false,
@@ -44,12 +44,12 @@
   "headers": {
     "content-encoding": "gzip",
     "content-type": "text/html; charset=utf-8",
-    "date": "Sun, 06 Oct 2024 13:45:15 GMT",
-    "etag": "W/\"66f192a7-228\"",
-    "last-modified": "Mon, 23 Sep 2024 16:09:11 GMT",
+    "date": "Sun, 13 Oct 2024 13:49:46 GMT",
+    "etag": "W/\"67065836-228\"",
+    "last-modified": "Wed, 09 Oct 2024 10:17:26 GMT",
     "strict-transport-security": "max-age=31536000",
     "vary": "Accept-Encoding",
-    "x-request-id": "b547e8e8-c3a5-432e-95eb-f003b6e6d257"
+    "x-request-id": "ece9135c-32db-4f36-9fc9-0046745e669c"
   },
   "endpoints": [
     {
