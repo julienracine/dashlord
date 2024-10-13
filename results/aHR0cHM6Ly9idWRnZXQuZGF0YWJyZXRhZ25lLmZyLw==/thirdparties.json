@@ -2,7 +2,7 @@
   "trackers": [
     {
       "type": "unknown",
-      "url": "https://auth.databretagne.fr/realms/nocode/protocol/openid-connect/auth?client_id=bretagne.budget&redirect_uri=https%3A%2F%2Fbudget.databretagne.fr%2F&state=65cd36fb-8c0d-4797-892e-4b0b1db03501&response_mode=fragment&response_type=code&scope=openid&nonce=e1d672fe-a738-44f5-84e8-1b1e5df921b8&code_challenge=RZH4iD5mWo1RMZZRluj_M7aH1Jo_JfgxpMPB1UsKLEs&code_challenge_method=S256"
+      "url": "https://auth.databretagne.fr/realms/nocode/protocol/openid-connect/auth?client_id=bretagne.budget&redirect_uri=https%3A%2F%2Fbudget.databretagne.fr%2F&state=c474ad29-4015-477e-b00d-061c8a45fbc1&response_mode=fragment&response_type=code&scope=openid&nonce=a844181e-b2bc-4461-b694-88f3202d2a42&code_challenge=w6cYonoVCYK5APQrbSfDIjj4O4XneLJpnTRdcnMPwjU&code_challenge_method=S256"
     },
     {
       "type": "unknown",
@@ -58,11 +58,11 @@
     },
     {
       "type": "unknown",
-      "url": "https://auth.databretagne.fr/resources/rvzwc/login/nocode/dsfr/fonts/Marianne-Regular.woff"
+      "url": "https://auth.databretagne.fr/resources/rvzwc/login/nocode/dsfr/fonts/Marianne-Bold.woff"
     },
     {
       "type": "unknown",
-      "url": "https://auth.databretagne.fr/resources/rvzwc/login/nocode/dsfr/fonts/Marianne-Bold.woff"
+      "url": "https://auth.databretagne.fr/resources/rvzwc/login/nocode/dsfr/fonts/Marianne-Regular.woff"
     },
     {
       "type": "unknown",
@@ -70,11 +70,11 @@
     },
     {
       "type": "unknown",
-      "url": "https://auth.databretagne.fr/resources/rvzwc/login/nocode/dsfr/fonts/Marianne-Regular.woff"
+      "url": "https://auth.databretagne.fr/resources/rvzwc/login/nocode/dsfr/fonts/Marianne-Bold.woff"
     },
     {
       "type": "unknown",
-      "url": "https://auth.databretagne.fr/resources/rvzwc/login/nocode/dsfr/fonts/Marianne-Bold.woff"
+      "url": "https://auth.databretagne.fr/resources/rvzwc/login/nocode/dsfr/fonts/Marianne-Regular.woff"
     },
     {
       "type": "unknown",
@@ -88,9 +88,9 @@
     "connection": "keep-alive",
     "content-length": "54465",
     "content-type": "text/html",
-    "date": "Sun, 06 Oct 2024 14:45:13 GMT",
+    "date": "Sun, 13 Oct 2024 14:48:24 GMT",
     "etag": "\"66fa81b2-d4c1\"",
-    "expires": "Sun, 06 Oct 2024 14:45:13 GMT",
+    "expires": "Sun, 13 Oct 2024 14:48:24 GMT",
     "last-modified": "Mon, 30 Sep 2024 10:47:14 GMT",
     "server": "nginx",
     "vary": "Origin"
