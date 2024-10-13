@@ -1,6 +1,6 @@
-# Nmap 7.92 scan initiated Sun Oct  6 13:14:41 2024 as: nmap -sV --script vulners --script-args mincvss=5.0 -oA /data/nmapvuln devoirs-faits-communaute.beta.gouv.fr
+# Nmap 7.92 scan initiated Sun Oct 13 13:12:45 2024 as: nmap -sV --script vulners --script-args mincvss=5.0 -oA /data/nmapvuln devoirs-faits-communaute.beta.gouv.fr
 Nmap scan report for devoirs-faits-communaute.beta.gouv.fr (185.31.40.21)
-Host is up (0.097s latency).
+Host is up (0.11s latency).
 rDNS record for 185.31.40.21: http11.paris1.alwaysdata.com
 Not shown: 998 closed tcp ports (reset)
 PORT    STATE SERVICE   VERSION
@@ -16,20 +16,20 @@ PORT    STATE SERVICE   VERSION
 |     HTTP/1.1 404 Not Found
 |     Connection: close
 |     via: 1.0 alproxy
-|     date: Sun, 06 Oct 2024 13:15:02 GMT
-|     <html><body><h1>Site not found</h1><p></p><p>Request ID: 21a573b1-e71da4e8</p></body></html>
+|     date: Sun, 13 Oct 2024 13:13:03 GMT
+|     <html><body><h1>Site not found</h1><p></p><p>Request ID: 596c2463-35a47219</p></body></html>
 |   GetRequest: 
 |     HTTP/1.1 404 Not Found
 |     Connection: close
 |     via: 1.0 alproxy
-|     date: Sun, 06 Oct 2024 13:15:01 GMT
-|     <html><body><h1>Site not found</h1><p></p><p>Request ID: 7c6024d9-d135b41f</p></body></html>
+|     date: Sun, 13 Oct 2024 13:13:02 GMT
+|     <html><body><h1>Site not found</h1><p></p><p>Request ID: 4c62df15-fcf3e44f</p></body></html>
 |   HTTPOptions: 
 |     HTTP/1.1 404 Not Found
 |     Connection: close
 |     via: 1.0 alproxy
-|     date: Sun, 06 Oct 2024 13:15:01 GMT
-|_    <html><body><h1>Site not found</h1><p></p><p>Request ID: cf3c3881-f90d3258</p></body></html>
+|     date: Sun, 13 Oct 2024 13:13:03 GMT
+|_    <html><body><h1>Site not found</h1><p></p><p>Request ID: 2ebeba37-4b945af4</p></body></html>
 443/tcp open  ssl/https
 | fingerprint-strings: 
 |   DNSStatusRequestTCP, DNSVersionBindReqTCP, Help, RPCCheck, RTSPRequest, SSLSessionReq, tor-versions: 
@@ -42,84 +42,84 @@ PORT    STATE SERVICE   VERSION
 |     HTTP/1.1 404 Not Found
 |     Connection: close
 |     via: 1.0 alproxy
-|     date: Sun, 06 Oct 2024 13:15:08 GMT
-|     <html><body><h1>Site not found</h1><p></p><p>Request ID: 0f3b10d0-ea6009d1</p></body></html>
+|     date: Sun, 13 Oct 2024 13:13:10 GMT
+|     <html><body><h1>Site not found</h1><p></p><p>Request ID: 8764e3f1-51a693f6</p></body></html>
 |   GetRequest: 
 |     HTTP/1.1 404 Not Found
 |     Connection: close
 |     via: 1.0 alproxy
-|     date: Sun, 06 Oct 2024 13:15:07 GMT
-|     <html><body><h1>Site not found</h1><p></p><p>Request ID: cabaa52c-db55cc8e</p></body></html>
+|     date: Sun, 13 Oct 2024 13:13:09 GMT
+|     <html><body><h1>Site not found</h1><p></p><p>Request ID: caf2204f-e50bed47</p></body></html>
 |   HTTPOptions: 
 |     HTTP/1.1 404 Not Found
 |     Connection: close
 |     via: 1.0 alproxy
-|     date: Sun, 06 Oct 2024 13:15:08 GMT
-|_    <html><body><h1>Site not found</h1><p></p><p>Request ID: 3d8b2de0-df8c5582</p></body></html>
+|     date: Sun, 13 Oct 2024 13:13:09 GMT
+|_    <html><body><h1>Site not found</h1><p></p><p>Request ID: f2bd34a2-a3ad106d</p></body></html>
 2 services unrecognized despite returning data. If you know the service/version, please submit the following fingerprints at https://nmap.org/cgi-bin/submit.cgi?new-service :
 ==============NEXT SERVICE FINGERPRINT (SUBMIT INDIVIDUALLY)==============
-SF-Port80-TCP:V=7.92%I=7%D=10/6%Time=67028D55%P=x86_64-alpine-linux-musl%r
-SF:(GetRequest,C0,"HTTP/1\.1\x20404\x20Not\x20Found\r\nConnection:\x20clos
-SF:e\r\nvia:\x201\.0\x20alproxy\r\ndate:\x20Sun,\x2006\x20Oct\x202024\x201
-SF:3:15:01\x20GMT\r\n\r\n<html><body><h1>Site\x20not\x20found</h1><p></p><
-SF:p>Request\x20ID:\x207c6024d9-d135b41f</p></body></html>")%r(HTTPOptions
-SF:,C0,"HTTP/1\.1\x20404\x20Not\x20Found\r\nConnection:\x20close\r\nvia:\x
-SF:201\.0\x20alproxy\r\ndate:\x20Sun,\x2006\x20Oct\x202024\x2013:15:01\x20
-SF:GMT\r\n\r\n<html><body><h1>Site\x20not\x20found</h1><p></p><p>Request\x
-SF:20ID:\x20cf3c3881-f90d3258</p></body></html>")%r(RTSPRequest,77,"HTTP/1
-SF:\.1\x20400\x20Bad\x20Request\r\nConnection:\x20close\r\nContent-Length:
-SF:\x2011\r\ncontent-type:\x20text/plain;\x20charset=utf-8\r\n\r\nBad\x20R
-SF:equest")%r(X11Probe,77,"HTTP/1\.1\x20400\x20Bad\x20Request\r\nConnectio
-SF:n:\x20close\r\nContent-Length:\x2011\r\ncontent-type:\x20text/plain;\x2
-SF:0charset=utf-8\r\n\r\nBad\x20Request")%r(FourOhFourRequest,C0,"HTTP/1\.
-SF:1\x20404\x20Not\x20Found\r\nConnection:\x20close\r\nvia:\x201\.0\x20alp
-SF:roxy\r\ndate:\x20Sun,\x2006\x20Oct\x202024\x2013:15:02\x20GMT\r\n\r\n<h
-SF:tml><body><h1>Site\x20not\x20found</h1><p></p><p>Request\x20ID:\x2021a5
-SF:73b1-e71da4e8</p></body></html>")%r(RPCCheck,77,"HTTP/1\.1\x20400\x20Ba
-SF:d\x20Request\r\nConnection:\x20close\r\nContent-Length:\x2011\r\nconten
-SF:t-type:\x20text/plain;\x20charset=utf-8\r\n\r\nBad\x20Request")%r(DNSVe
-SF:rsionBindReqTCP,77,"HTTP/1\.1\x20400\x20Bad\x20Request\r\nConnection:\x
-SF:20close\r\nContent-Length:\x2011\r\ncontent-type:\x20text/plain;\x20cha
-SF:rset=utf-8\r\n\r\nBad\x20Request")%r(DNSStatusRequestTCP,77,"HTTP/1\.1\
-SF:x20400\x20Bad\x20Request\r\nConnection:\x20close\r\nContent-Length:\x20
-SF:11\r\ncontent-type:\x20text/plain;\x20charset=utf-8\r\n\r\nBad\x20Reque
-SF:st")%r(Help,77,"HTTP/1\.1\x20400\x20Bad\x20Request\r\nConnection:\x20cl
-SF:ose\r\nContent-Length:\x2011\r\ncontent-type:\x20text/plain;\x20charset
-SF:=utf-8\r\n\r\nBad\x20Request")%r(SSLSessionReq,77,"HTTP/1\.1\x20400\x20
-SF:Bad\x20Request\r\nConnection:\x20close\r\nContent-Length:\x2011\r\ncont
-SF:ent-type:\x20text/plain;\x20charset=utf-8\r\n\r\nBad\x20Request");
-==============NEXT SERVICE FINGERPRINT (SUBMIT INDIVIDUALLY)==============
-SF-Port443-TCP:V=7.92%T=SSL%I=7%D=10/6%Time=67028D5B%P=x86_64-alpine-linux
-SF:-musl%r(GetRequest,C0,"HTTP/1\.1\x20404\x20Not\x20Found\r\nConnection:\
-SF:x20close\r\nvia:\x201\.0\x20alproxy\r\ndate:\x20Sun,\x2006\x20Oct\x2020
-SF:24\x2013:15:07\x20GMT\r\n\r\n<html><body><h1>Site\x20not\x20found</h1><
-SF:p></p><p>Request\x20ID:\x20cabaa52c-db55cc8e</p></body></html>")%r(HTTP
-SF:Options,C0,"HTTP/1\.1\x20404\x20Not\x20Found\r\nConnection:\x20close\r\
-SF:nvia:\x201\.0\x20alproxy\r\ndate:\x20Sun,\x2006\x20Oct\x202024\x2013:15
-SF::08\x20GMT\r\n\r\n<html><body><h1>Site\x20not\x20found</h1><p></p><p>Re
-SF:quest\x20ID:\x203d8b2de0-df8c5582</p></body></html>")%r(FourOhFourReque
-SF:st,C0,"HTTP/1\.1\x20404\x20Not\x20Found\r\nConnection:\x20close\r\nvia:
-SF:\x201\.0\x20alproxy\r\ndate:\x20Sun,\x2006\x20Oct\x202024\x2013:15:08\x
-SF:20GMT\r\n\r\n<html><body><h1>Site\x20not\x20found</h1><p></p><p>Request
-SF:\x20ID:\x200f3b10d0-ea6009d1</p></body></html>")%r(tor-versions,77,"HTT
-SF:P/1\.1\x20400\x20Bad\x20Request\r\nConnection:\x20close\r\nContent-Leng
-SF:th:\x2011\r\ncontent-type:\x20text/plain;\x20charset=utf-8\r\n\r\nBad\x
-SF:20Request")%r(RTSPRequest,77,"HTTP/1\.1\x20400\x20Bad\x20Request\r\nCon
-SF:nection:\x20close\r\nContent-Length:\x2011\r\ncontent-type:\x20text/pla
-SF:in;\x20charset=utf-8\r\n\r\nBad\x20Request")%r(RPCCheck,77,"HTTP/1\.1\x
-SF:20400\x20Bad\x20Request\r\nConnection:\x20close\r\nContent-Length:\x201
-SF:1\r\ncontent-type:\x20text/plain;\x20charset=utf-8\r\n\r\nBad\x20Reques
-SF:t")%r(DNSVersionBindReqTCP,77,"HTTP/1\.1\x20400\x20Bad\x20Request\r\nCo
-SF:nnection:\x20close\r\nContent-Length:\x2011\r\ncontent-type:\x20text/pl
-SF:ain;\x20charset=utf-8\r\n\r\nBad\x20Request")%r(DNSStatusRequestTCP,77,
-SF:"HTTP/1\.1\x20400\x20Bad\x20Request\r\nConnection:\x20close\r\nContent-
-SF:Length:\x2011\r\ncontent-type:\x20text/plain;\x20charset=utf-8\r\n\r\nB
-SF:ad\x20Request")%r(Help,77,"HTTP/1\.1\x20400\x20Bad\x20Request\r\nConnec
-SF:tion:\x20close\r\nContent-Length:\x2011\r\ncontent-type:\x20text/plain;
-SF:\x20charset=utf-8\r\n\r\nBad\x20Request")%r(SSLSessionReq,77,"HTTP/1\.1
+SF-Port80-TCP:V=7.92%I=7%D=10/13%Time=670BC75F%P=x86_64-alpine-linux-musl%
+SF:r(GetRequest,C0,"HTTP/1\.1\x20404\x20Not\x20Found\r\nConnection:\x20clo
+SF:se\r\nvia:\x201\.0\x20alproxy\r\ndate:\x20Sun,\x2013\x20Oct\x202024\x20
+SF:13:13:02\x20GMT\r\n\r\n<html><body><h1>Site\x20not\x20found</h1><p></p>
+SF:<p>Request\x20ID:\x204c62df15-fcf3e44f</p></body></html>")%r(HTTPOption
+SF:s,C0,"HTTP/1\.1\x20404\x20Not\x20Found\r\nConnection:\x20close\r\nvia:\
+SF:x201\.0\x20alproxy\r\ndate:\x20Sun,\x2013\x20Oct\x202024\x2013:13:03\x2
+SF:0GMT\r\n\r\n<html><body><h1>Site\x20not\x20found</h1><p></p><p>Request\
+SF:x20ID:\x202ebeba37-4b945af4</p></body></html>")%r(RTSPRequest,77,"HTTP/
+SF:1\.1\x20400\x20Bad\x20Request\r\nConnection:\x20close\r\nContent-Length
+SF::\x2011\r\ncontent-type:\x20text/plain;\x20charset=utf-8\r\n\r\nBad\x20
+SF:Request")%r(X11Probe,77,"HTTP/1\.1\x20400\x20Bad\x20Request\r\nConnecti
+SF:on:\x20close\r\nContent-Length:\x2011\r\ncontent-type:\x20text/plain;\x
+SF:20charset=utf-8\r\n\r\nBad\x20Request")%r(FourOhFourRequest,C0,"HTTP/1\
+SF:.1\x20404\x20Not\x20Found\r\nConnection:\x20close\r\nvia:\x201\.0\x20al
+SF:proxy\r\ndate:\x20Sun,\x2013\x20Oct\x202024\x2013:13:03\x20GMT\r\n\r\n<
+SF:html><body><h1>Site\x20not\x20found</h1><p></p><p>Request\x20ID:\x20596
+SF:c2463-35a47219</p></body></html>")%r(RPCCheck,77,"HTTP/1\.1\x20400\x20B
+SF:ad\x20Request\r\nConnection:\x20close\r\nContent-Length:\x2011\r\nconte
+SF:nt-type:\x20text/plain;\x20charset=utf-8\r\n\r\nBad\x20Request")%r(DNSV
+SF:ersionBindReqTCP,77,"HTTP/1\.1\x20400\x20Bad\x20Request\r\nConnection:\
+SF:x20close\r\nContent-Length:\x2011\r\ncontent-type:\x20text/plain;\x20ch
+SF:arset=utf-8\r\n\r\nBad\x20Request")%r(DNSStatusRequestTCP,77,"HTTP/1\.1
 SF:\x20400\x20Bad\x20Request\r\nConnection:\x20close\r\nContent-Length:\x2
 SF:011\r\ncontent-type:\x20text/plain;\x20charset=utf-8\r\n\r\nBad\x20Requ
-SF:est");
+SF:est")%r(Help,77,"HTTP/1\.1\x20400\x20Bad\x20Request\r\nConnection:\x20c
+SF:lose\r\nContent-Length:\x2011\r\ncontent-type:\x20text/plain;\x20charse
+SF:t=utf-8\r\n\r\nBad\x20Request")%r(SSLSessionReq,77,"HTTP/1\.1\x20400\x2
+SF:0Bad\x20Request\r\nConnection:\x20close\r\nContent-Length:\x2011\r\ncon
+SF:tent-type:\x20text/plain;\x20charset=utf-8\r\n\r\nBad\x20Request");
+==============NEXT SERVICE FINGERPRINT (SUBMIT INDIVIDUALLY)==============
+SF-Port443-TCP:V=7.92%T=SSL%I=7%D=10/13%Time=670BC765%P=x86_64-alpine-linu
+SF:x-musl%r(GetRequest,C0,"HTTP/1\.1\x20404\x20Not\x20Found\r\nConnection:
+SF:\x20close\r\nvia:\x201\.0\x20alproxy\r\ndate:\x20Sun,\x2013\x20Oct\x202
+SF:024\x2013:13:09\x20GMT\r\n\r\n<html><body><h1>Site\x20not\x20found</h1>
+SF:<p></p><p>Request\x20ID:\x20caf2204f-e50bed47</p></body></html>")%r(HTT
+SF:POptions,C0,"HTTP/1\.1\x20404\x20Not\x20Found\r\nConnection:\x20close\r
+SF:\nvia:\x201\.0\x20alproxy\r\ndate:\x20Sun,\x2013\x20Oct\x202024\x2013:1
+SF:3:09\x20GMT\r\n\r\n<html><body><h1>Site\x20not\x20found</h1><p></p><p>R
+SF:equest\x20ID:\x20f2bd34a2-a3ad106d</p></body></html>")%r(FourOhFourRequ
+SF:est,C0,"HTTP/1\.1\x20404\x20Not\x20Found\r\nConnection:\x20close\r\nvia
+SF::\x201\.0\x20alproxy\r\ndate:\x20Sun,\x2013\x20Oct\x202024\x2013:13:10\
+SF:x20GMT\r\n\r\n<html><body><h1>Site\x20not\x20found</h1><p></p><p>Reques
+SF:t\x20ID:\x208764e3f1-51a693f6</p></body></html>")%r(tor-versions,77,"HT
+SF:TP/1\.1\x20400\x20Bad\x20Request\r\nConnection:\x20close\r\nContent-Len
+SF:gth:\x2011\r\ncontent-type:\x20text/plain;\x20charset=utf-8\r\n\r\nBad\
+SF:x20Request")%r(RTSPRequest,77,"HTTP/1\.1\x20400\x20Bad\x20Request\r\nCo
+SF:nnection:\x20close\r\nContent-Length:\x2011\r\ncontent-type:\x20text/pl
+SF:ain;\x20charset=utf-8\r\n\r\nBad\x20Request")%r(RPCCheck,77,"HTTP/1\.1\
+SF:x20400\x20Bad\x20Request\r\nConnection:\x20close\r\nContent-Length:\x20
+SF:11\r\ncontent-type:\x20text/plain;\x20charset=utf-8\r\n\r\nBad\x20Reque
+SF:st")%r(DNSVersionBindReqTCP,77,"HTTP/1\.1\x20400\x20Bad\x20Request\r\nC
+SF:onnection:\x20close\r\nContent-Length:\x2011\r\ncontent-type:\x20text/p
+SF:lain;\x20charset=utf-8\r\n\r\nBad\x20Request")%r(DNSStatusRequestTCP,77
+SF:,"HTTP/1\.1\x20400\x20Bad\x20Request\r\nConnection:\x20close\r\nContent
+SF:-Length:\x2011\r\ncontent-type:\x20text/plain;\x20charset=utf-8\r\n\r\n
+SF:Bad\x20Request")%r(Help,77,"HTTP/1\.1\x20400\x20Bad\x20Request\r\nConne
+SF:ction:\x20close\r\nContent-Length:\x2011\r\ncontent-type:\x20text/plain
+SF:;\x20charset=utf-8\r\n\r\nBad\x20Request")%r(SSLSessionReq,77,"HTTP/1\.
+SF:1\x20400\x20Bad\x20Request\r\nConnection:\x20close\r\nContent-Length:\x
+SF:2011\r\ncontent-type:\x20text/plain;\x20charset=utf-8\r\n\r\nBad\x20Req
+SF:uest");
 
 Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
-# Nmap done at Sun Oct  6 13:15:19 2024 -- 1 IP address (1 host up) scanned in 37.51 seconds
+# Nmap done at Sun Oct 13 13:13:22 2024 -- 1 IP address (1 host up) scanned in 36.99 seconds
