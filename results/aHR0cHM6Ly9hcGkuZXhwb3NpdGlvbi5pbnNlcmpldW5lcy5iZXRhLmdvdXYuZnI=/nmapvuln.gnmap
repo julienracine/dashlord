@@ -1,4 +1,4 @@
-# Nmap 7.92 scan initiated Sun Oct  6 14:12:02 2024 as: nmap -sV --script vulners --script-args mincvss=5.0 -oA /data/nmapvuln api.exposition.inserjeunes.beta.gouv.fr
+# Nmap 7.92 scan initiated Sun Oct 13 14:15:26 2024 as: nmap -sV --script vulners --script-args mincvss=5.0 -oA /data/nmapvuln api.exposition.inserjeunes.beta.gouv.fr
 Host: 141.94.2.159 ()	Status: Up
 Host: 141.94.2.159 ()	Ports: 22/open/tcp//ssh//OpenSSH 8.2p1 Ubuntu 4ubuntu0.11 (Ubuntu Linux; protocol 2.0)/, 80/open/tcp//http//nginx (reverse proxy)/, 443/open/tcp//ssl|http//nginx (reverse proxy)/	Ignored State: closed (997)
-# Nmap done at Sun Oct  6 14:12:27 2024 -- 1 IP address (1 host up) scanned in 24.96 seconds
+# Nmap done at Sun Oct 13 14:15:51 2024 -- 1 IP address (1 host up) scanned in 25.74 seconds
