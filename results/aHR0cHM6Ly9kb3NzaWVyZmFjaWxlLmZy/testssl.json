@@ -269,7 +269,7 @@
               "ip"           : "dossierfacile.fr/109.232.236.90",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "0366D776C8C057D9F748809888E663907C00"
+              "finding"      : "0471B5A3026C19E1A0348A2D60A05DB09014"
           }
 ,         {
               "id"           : "cert_serialNumberLen",
@@ -283,21 +283,21 @@
               "ip"           : "dossierfacile.fr/109.232.236.90",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "D5CF843263E4CAEEE27D897416E06B61315E3A52"
+              "finding"      : "8166168DFB09166DF7720AC69A46F1A161D005F2"
           }
 ,         {
               "id"           : "cert_fingerprintSHA256",
               "ip"           : "dossierfacile.fr/109.232.236.90",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "B8D41617F2DD35B4E20554E89B59A49FA45D65F2601D99D14DAC729274FC8968"
+              "finding"      : "B857841E44128F80214886A338B55C93000BC836D6ADCF6D8FF8743C4622AE60"
           }
 ,         {
               "id"           : "cert",
               "ip"           : "dossierfacile.fr/109.232.236.90",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "-----BEGIN CERTIFICATE-----\nMIIE7zCCA9egAwIBAgISA2bXdsjAV9n3SICYiOZjkHwAMA0GCSqGSIb3DQEBCwUAMDMxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQwwCgYDVQQDEwNSMTEwHhcNMjQwODA3MDg0MzM5WhcNMjQxMTA1MDg0MzM4WjAbMRkwFwYDVQQDExBkb3NzaWVyZmFjaWxlLmZyMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAwiojS1RUmoGvA+7EgRZgKcfzhUZTXEr2x8DeVMM3tc9XaC3RSCwENBqxqoDcZQpKRH28PtObbgUyQjE9wBN2rFWpheiaOct9Ay0fXdCbUd3e54QNm1fJA/5+GS+xNPQshD4lG4gkqu3LKf516hByAQ2j3q9i40D1QnrRUNRe2V/3WqRoM17JygoV/jtsL7QbbXoOeGLnbzPxm0dHG4pdjjDACWGI1pohYccEjWFF9hsWTY4qitT3C0QCFeEoA1t72FZ6PLN3MTttR3lZEbrCkU2MEobBgv9eiWmGAgHTYgcLG9AMdj36pPnboekpYUkrDvMr5MuF+F5+tT7fSaPR5wIDAQABo4ICEzCCAg8wDgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBRqjb9V2C8Cr9Vg3PZuja19jbbQNzAfBgNVHSMEGDAWgBTFz0ak6vTDwHpslcQtsF6SLybjuTBXBggrBgEFBQcBAQRLMEkwIgYIKwYBBQUHMAGGFmh0dHA6Ly9yMTEuby5sZW5jci5vcmcwIwYIKwYBBQUHMAKGF2h0dHA6Ly9yMTEuaS5sZW5jci5vcmcvMBsGA1UdEQQUMBKCEGRvc3NpZXJmYWNpbGUuZnIwEwYDVR0gBAwwCjAIBgZngQwBAgEwggEDBgorBgEEAdZ5AgQCBIH0BIHxAO8AdgBIsONr2qZHNA/lagL6nTDrHFIBy1bdLIHZu7+rOdiEcwAAAZEsN6QPAAAEAwBHMEUCIQCDA0cnwuwo8MOssCF36WVAqgkKsbDGaU++XDAgbePI0gIgVOhIako0Qg7Omnjbyuj6bsXn+x49/q5tZELJ5qoHm84AdQDuzdBk1dsazsVct520zROiModGfLzs3sNRSFlGcR+1mwAAAZEsN6P5AAAEAwBGMEQCIDMTTTDVlYewAwP8fBdpoNNoUsaD8bMJl33S+B+ToAp7AiBTh5GusWWNI+YXZgtDHIVwEWP0H9zKEmeXg+9lj9EbXzANBgkqhkiG9w0BAQsFAAOCAQEAX0za9D47kVZ0KjV8EvQvc7Fhr/KWjkA3gOBajHJIi+bXPtNTdHFoe6OgX7HjZJtmtQiHaGpmNJxnQGP7bHspYH7MbOjxHwE/5XjZFK/nDn+nS8EREW9GYc8SuTsDUvsuNm8UUjnkoGtBRwYSpZVmACNkvtVyQVh/gIFPENfmk/TyzLgcN6ze5kSe59MXRq8z7s6dkhYAoNlKb4wOAtW+YpL2Pv61xZDmCnQ8hOOv0EIJL6Nuf5SHdRgbGjG/jfA3AhEQCEskZr5FUsAdK4fFQtliFvWMa6Pv4CuV/srEs8K24mP+DymZEYkzglvgKXHXm6g3I+/l2Kkm/jAmYJA1Cw==\n-----END CERTIFICATE-----"
+              "finding"      : "-----BEGIN CERTIFICATE-----\nMIIE8DCCA9igAwIBAgISBHG1owJsGeGgNIotYKBdsJAUMA0GCSqGSIb3DQEBCwUAMDMxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQwwCgYDVQQDEwNSMTEwHhcNMjQxMDA2MDg0NDM4WhcNMjUwMTA0MDg0NDM3WjAbMRkwFwYDVQQDExBkb3NzaWVyZmFjaWxlLmZyMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAuVhpLojfc9cBvticKGslmpUNPwi7N2USYcRYStHfhutYrYDbYtWuKWO5gabN15rYYGHKxdrbhg5H8gFsRaPmhZIIt4a1ZeGJPkV+88p/BbShuMa/6q8goxgvix8rj4F2lKKdI40y/71ZMz+kF+XeJFYOlFqJxTkUDJcabWrrO1pVRsQ02KbG6cVgyDoEoZh3oEFDMU/zP/ukab5xzv/t7qPHcioZoMxpWrgwzfScEBFyUHXnPPSu3FyLyfP1gGiRN0zxQg0LGLwPhUqBYk7PONOhVVH9o/u3EOsrO9YD1gRXy8jXjKXQTevaiCj3enoaomLd/x1Q3Mdvg+x7A1zlawIDAQABo4ICFDCCAhAwDgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBQc0QawisublDK2AmNcW+Fs0V5i6TAfBgNVHSMEGDAWgBTFz0ak6vTDwHpslcQtsF6SLybjuTBXBggrBgEFBQcBAQRLMEkwIgYIKwYBBQUHMAGGFmh0dHA6Ly9yMTEuby5sZW5jci5vcmcwIwYIKwYBBQUHMAKGF2h0dHA6Ly9yMTEuaS5sZW5jci5vcmcvMBsGA1UdEQQUMBKCEGRvc3NpZXJmYWNpbGUuZnIwEwYDVR0gBAwwCjAIBgZngQwBAgEwggEEBgorBgEEAdZ5AgQCBIH1BIHyAPAAdwDPEVbu1S58r/OHW9lpLpvpGnFnSrAX7KwB0lt3zsw7CAAAAZJhNhtqAAAEAwBIMEYCIQCzKn3LBBFTK7SjSOQ5RLyZx611PcHRUjCqbQWUWRwhuwIhAJaRZSu7I963z4zFeH3ICrK3gqJ3QaPIRRD25ml2znIyAHUAPxdLT9ciR1iUHWUchL4NEu2QN38fhWrrwb8ohez4ZG4AAAGSYTYizgAABAMARjBEAiA7EJGDEVgAJUtl7UZKWK9Lt55Eq9hkMt/VJBSSaiq68QIgc1aa6SHWm40ehXsyMCSuOHQ8addugJXLAVTiauG8AmkwDQYJKoZIhvcNAQELBQADggEBACul3Crvh5bNV7vrbiFKX92bMeQA7QExUjnhDgTpDPNUD0P7WPEsTzTDiO6Fm4VPO0y2wA3o96xyt8UifMVgp1mNMvkM3BUp40d/Y6QWFxDMFDfGcX7QA48ucnvDAkARGA0Q1VV/c58FmmpQ5gjHSEcf9uPnB+24jErrIMPUA4qZrfKP7gT7L2z8Rvyl1JSfe7jz4J4EmjpZCUShS2D71AwXLLLwQZICS2ZmLtIml+ub3qQyt2iI7MZr4rtYRDyx8+0WwydZUrUxMoEWzv+T//++euMaKUEcKcXh7z8Q0KbHIGFppEBCiZ8ZyqdG55b7hdhnUovKJpkcputscN8nTUI=\n-----END CERTIFICATE-----"
           }
 ,         {
               "id"           : "cert_commonName",
@@ -346,21 +346,21 @@
               "ip"           : "dossierfacile.fr/109.232.236.90",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "30 >= 30 days"
+              "finding"      : "83 >= 30 days"
           }
 ,         {
               "id"           : "cert_notBefore",
               "ip"           : "dossierfacile.fr/109.232.236.90",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "2024-08-07 08:43"
+              "finding"      : "2024-10-06 08:44"
           }
 ,         {
               "id"           : "cert_notAfter",
               "ip"           : "dossierfacile.fr/109.232.236.90",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "2024-11-05 08:43"
+              "finding"      : "2025-01-04 08:44"
           }
 ,         {
               "id"           : "cert_extlifeSpan",
@@ -507,7 +507,7 @@
               "ip"           : "dossierfacile.fr/109.232.236.90",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1728186184"
+              "finding"      : "1728791028"
           }
 ,         {
               "id"           : "HSTS_time",
@@ -694,7 +694,7 @@
               "severity"     : "INFO",
               "cve"          : "CVE-2016-0800 CVE-2016-0703",
               "cwe"          : "CWE-310",
-              "finding"      : "Make sure you don't use this certificate elsewhere with SSLv2 enabled services, see https://search.censys.io/search?resource=hosts&virtual_hosts=INCLUDE&q=B8D41617F2DD35B4E20554E89B59A49FA45D65F2601D99D14DAC729274FC8968"
+              "finding"      : "Make sure you don't use this certificate elsewhere with SSLv2 enabled services, see https://search.censys.io/search?resource=hosts&virtual_hosts=INCLUDE&q=B857841E44128F80214886A338B55C93000BC836D6ADCF6D8FF8743C4622AE60"
           }
 ,         {
               "id"           : "LOGJAM",
@@ -1335,7 +1335,7 @@
               "ip"           : "dossierfacile.fr/5.104.101.30",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "0366D776C8C057D9F748809888E663907C00"
+              "finding"      : "0471B5A3026C19E1A0348A2D60A05DB09014"
           }
 ,         {
               "id"           : "cert_serialNumberLen",
@@ -1349,21 +1349,21 @@
               "ip"           : "dossierfacile.fr/5.104.101.30",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "D5CF843263E4CAEEE27D897416E06B61315E3A52"
+              "finding"      : "8166168DFB09166DF7720AC69A46F1A161D005F2"
           }
 ,         {
               "id"           : "cert_fingerprintSHA256",
               "ip"           : "dossierfacile.fr/5.104.101.30",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "B8D41617F2DD35B4E20554E89B59A49FA45D65F2601D99D14DAC729274FC8968"
+              "finding"      : "B857841E44128F80214886A338B55C93000BC836D6ADCF6D8FF8743C4622AE60"
           }
 ,         {
               "id"           : "cert",
               "ip"           : "dossierfacile.fr/5.104.101.30",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "-----BEGIN CERTIFICATE-----\nMIIE7zCCA9egAwIBAgISA2bXdsjAV9n3SICYiOZjkHwAMA0GCSqGSIb3DQEBCwUAMDMxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQwwCgYDVQQDEwNSMTEwHhcNMjQwODA3MDg0MzM5WhcNMjQxMTA1MDg0MzM4WjAbMRkwFwYDVQQDExBkb3NzaWVyZmFjaWxlLmZyMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAwiojS1RUmoGvA+7EgRZgKcfzhUZTXEr2x8DeVMM3tc9XaC3RSCwENBqxqoDcZQpKRH28PtObbgUyQjE9wBN2rFWpheiaOct9Ay0fXdCbUd3e54QNm1fJA/5+GS+xNPQshD4lG4gkqu3LKf516hByAQ2j3q9i40D1QnrRUNRe2V/3WqRoM17JygoV/jtsL7QbbXoOeGLnbzPxm0dHG4pdjjDACWGI1pohYccEjWFF9hsWTY4qitT3C0QCFeEoA1t72FZ6PLN3MTttR3lZEbrCkU2MEobBgv9eiWmGAgHTYgcLG9AMdj36pPnboekpYUkrDvMr5MuF+F5+tT7fSaPR5wIDAQABo4ICEzCCAg8wDgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBRqjb9V2C8Cr9Vg3PZuja19jbbQNzAfBgNVHSMEGDAWgBTFz0ak6vTDwHpslcQtsF6SLybjuTBXBggrBgEFBQcBAQRLMEkwIgYIKwYBBQUHMAGGFmh0dHA6Ly9yMTEuby5sZW5jci5vcmcwIwYIKwYBBQUHMAKGF2h0dHA6Ly9yMTEuaS5sZW5jci5vcmcvMBsGA1UdEQQUMBKCEGRvc3NpZXJmYWNpbGUuZnIwEwYDVR0gBAwwCjAIBgZngQwBAgEwggEDBgorBgEEAdZ5AgQCBIH0BIHxAO8AdgBIsONr2qZHNA/lagL6nTDrHFIBy1bdLIHZu7+rOdiEcwAAAZEsN6QPAAAEAwBHMEUCIQCDA0cnwuwo8MOssCF36WVAqgkKsbDGaU++XDAgbePI0gIgVOhIako0Qg7Omnjbyuj6bsXn+x49/q5tZELJ5qoHm84AdQDuzdBk1dsazsVct520zROiModGfLzs3sNRSFlGcR+1mwAAAZEsN6P5AAAEAwBGMEQCIDMTTTDVlYewAwP8fBdpoNNoUsaD8bMJl33S+B+ToAp7AiBTh5GusWWNI+YXZgtDHIVwEWP0H9zKEmeXg+9lj9EbXzANBgkqhkiG9w0BAQsFAAOCAQEAX0za9D47kVZ0KjV8EvQvc7Fhr/KWjkA3gOBajHJIi+bXPtNTdHFoe6OgX7HjZJtmtQiHaGpmNJxnQGP7bHspYH7MbOjxHwE/5XjZFK/nDn+nS8EREW9GYc8SuTsDUvsuNm8UUjnkoGtBRwYSpZVmACNkvtVyQVh/gIFPENfmk/TyzLgcN6ze5kSe59MXRq8z7s6dkhYAoNlKb4wOAtW+YpL2Pv61xZDmCnQ8hOOv0EIJL6Nuf5SHdRgbGjG/jfA3AhEQCEskZr5FUsAdK4fFQtliFvWMa6Pv4CuV/srEs8K24mP+DymZEYkzglvgKXHXm6g3I+/l2Kkm/jAmYJA1Cw==\n-----END CERTIFICATE-----"
+              "finding"      : "-----BEGIN CERTIFICATE-----\nMIIE8DCCA9igAwIBAgISBHG1owJsGeGgNIotYKBdsJAUMA0GCSqGSIb3DQEBCwUAMDMxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQwwCgYDVQQDEwNSMTEwHhcNMjQxMDA2MDg0NDM4WhcNMjUwMTA0MDg0NDM3WjAbMRkwFwYDVQQDExBkb3NzaWVyZmFjaWxlLmZyMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAuVhpLojfc9cBvticKGslmpUNPwi7N2USYcRYStHfhutYrYDbYtWuKWO5gabN15rYYGHKxdrbhg5H8gFsRaPmhZIIt4a1ZeGJPkV+88p/BbShuMa/6q8goxgvix8rj4F2lKKdI40y/71ZMz+kF+XeJFYOlFqJxTkUDJcabWrrO1pVRsQ02KbG6cVgyDoEoZh3oEFDMU/zP/ukab5xzv/t7qPHcioZoMxpWrgwzfScEBFyUHXnPPSu3FyLyfP1gGiRN0zxQg0LGLwPhUqBYk7PONOhVVH9o/u3EOsrO9YD1gRXy8jXjKXQTevaiCj3enoaomLd/x1Q3Mdvg+x7A1zlawIDAQABo4ICFDCCAhAwDgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBQc0QawisublDK2AmNcW+Fs0V5i6TAfBgNVHSMEGDAWgBTFz0ak6vTDwHpslcQtsF6SLybjuTBXBggrBgEFBQcBAQRLMEkwIgYIKwYBBQUHMAGGFmh0dHA6Ly9yMTEuby5sZW5jci5vcmcwIwYIKwYBBQUHMAKGF2h0dHA6Ly9yMTEuaS5sZW5jci5vcmcvMBsGA1UdEQQUMBKCEGRvc3NpZXJmYWNpbGUuZnIwEwYDVR0gBAwwCjAIBgZngQwBAgEwggEEBgorBgEEAdZ5AgQCBIH1BIHyAPAAdwDPEVbu1S58r/OHW9lpLpvpGnFnSrAX7KwB0lt3zsw7CAAAAZJhNhtqAAAEAwBIMEYCIQCzKn3LBBFTK7SjSOQ5RLyZx611PcHRUjCqbQWUWRwhuwIhAJaRZSu7I963z4zFeH3ICrK3gqJ3QaPIRRD25ml2znIyAHUAPxdLT9ciR1iUHWUchL4NEu2QN38fhWrrwb8ohez4ZG4AAAGSYTYizgAABAMARjBEAiA7EJGDEVgAJUtl7UZKWK9Lt55Eq9hkMt/VJBSSaiq68QIgc1aa6SHWm40ehXsyMCSuOHQ8addugJXLAVTiauG8AmkwDQYJKoZIhvcNAQELBQADggEBACul3Crvh5bNV7vrbiFKX92bMeQA7QExUjnhDgTpDPNUD0P7WPEsTzTDiO6Fm4VPO0y2wA3o96xyt8UifMVgp1mNMvkM3BUp40d/Y6QWFxDMFDfGcX7QA48ucnvDAkARGA0Q1VV/c58FmmpQ5gjHSEcf9uPnB+24jErrIMPUA4qZrfKP7gT7L2z8Rvyl1JSfe7jz4J4EmjpZCUShS2D71AwXLLLwQZICS2ZmLtIml+ub3qQyt2iI7MZr4rtYRDyx8+0WwydZUrUxMoEWzv+T//++euMaKUEcKcXh7z8Q0KbHIGFppEBCiZ8ZyqdG55b7hdhnUovKJpkcputscN8nTUI=\n-----END CERTIFICATE-----"
           }
 ,         {
               "id"           : "cert_commonName",
@@ -1412,21 +1412,21 @@
               "ip"           : "dossierfacile.fr/5.104.101.30",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "30 >= 30 days"
+              "finding"      : "83 >= 30 days"
           }
 ,         {
               "id"           : "cert_notBefore",
               "ip"           : "dossierfacile.fr/5.104.101.30",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "2024-08-07 08:43"
+              "finding"      : "2024-10-06 08:44"
           }
 ,         {
               "id"           : "cert_notAfter",
               "ip"           : "dossierfacile.fr/5.104.101.30",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "2024-11-05 08:43"
+              "finding"      : "2025-01-04 08:44"
           }
 ,         {
               "id"           : "cert_extlifeSpan",
@@ -1573,7 +1573,7 @@
               "ip"           : "dossierfacile.fr/5.104.101.30",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1728186279"
+              "finding"      : "1728791083"
           }
 ,         {
               "id"           : "HSTS_time",
@@ -1760,7 +1760,7 @@
               "severity"     : "INFO",
               "cve"          : "CVE-2016-0800 CVE-2016-0703",
               "cwe"          : "CWE-310",
-              "finding"      : "Make sure you don't use this certificate elsewhere with SSLv2 enabled services, see https://search.censys.io/search?resource=hosts&virtual_hosts=INCLUDE&q=B8D41617F2DD35B4E20554E89B59A49FA45D65F2601D99D14DAC729274FC8968"
+              "finding"      : "Make sure you don't use this certificate elsewhere with SSLv2 enabled services, see https://search.censys.io/search?resource=hosts&virtual_hosts=INCLUDE&q=B857841E44128F80214886A338B55C93000BC836D6ADCF6D8FF8743C4622AE60"
           }
 ,         {
               "id"           : "LOGJAM",
@@ -2136,6 +2136,6 @@
               "ip"           : "dossierfacile.fr/5.104.101.30",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "193"
+              "finding"      : "110"
           }
 ]
