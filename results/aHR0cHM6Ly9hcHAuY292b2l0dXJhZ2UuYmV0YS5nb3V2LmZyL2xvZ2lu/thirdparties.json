@@ -4,15 +4,15 @@
   "headers": {
     "content-length": "6714",
     "content-type": "text/html",
-    "date": "Sun, 06 Oct 2024 03:28:45 GMT",
+    "date": "Sun, 13 Oct 2024 03:29:25 GMT",
     "etag": "\"58a3103fc1f2c1f07b3e48c1ec0a0210\"",
-    "last-modified": "Fri, 04 Oct 2024 13:14:43 GMT",
+    "last-modified": "Mon, 07 Oct 2024 14:58:19 GMT",
     "strict-transport-security": "max-age=31536000; includeSubDomains",
     "x-amz-error-code": "NoSuchKey",
     "x-amz-error-detail-key": "login",
     "x-amz-error-message": "The specified key does not exist.",
-    "x-amz-id-2": "txg393eb0e5e5ab47acbcc0-00670203ed",
-    "x-amz-request-id": "txg393eb0e5e5ab47acbcc0-00670203ed"
+    "x-amz-id-2": "txg70f576a1a08446d38b26-00670b3e95",
+    "x-amz-request-id": "txg70f576a1a08446d38b26-00670b3e95"
   },
   "endpoints": [
     {
@@ -62,7 +62,7 @@
           }
         },
         "location": {
-          "accuracy_radius": 1000,
+          "accuracy_radius": 200,
           "latitude": 48.8323,
           "longitude": 2.4075,
           "time_zone": "Europe/Paris"
