@@ -6,7 +6,7 @@
       "value": "1",
       "domain": "disinfo.quaidorsay.fr",
       "path": "/",
-      "expires": 1728208833,
+      "expires": 1728813944,
       "size": 16,
       "httpOnly": false,
       "secure": false,
@@ -18,10 +18,10 @@
     },
     {
       "name": "_pk_id.89.7763",
-      "value": "4d01f2b53884c02b.1728207033.",
+      "value": "6618d45dec33ef5a.1728812145.",
       "domain": "disinfo.quaidorsay.fr",
       "path": "/",
-      "expires": 1762162233,
+      "expires": 1762767345,
       "size": 42,
       "httpOnly": false,
       "secure": false,
@@ -35,14 +35,14 @@
   "headers": {
     "accept-ranges": "bytes",
     "access-control-allow-origin": "*",
-    "age": "0",
+    "age": "236",
     "cache-control": "max-age=600",
     "content-encoding": "gzip",
     "content-length": "24565",
     "content-type": "text/html; charset=utf-8",
-    "date": "Sun, 06 Oct 2024 09:30:32 GMT",
+    "date": "Sun, 13 Oct 2024 09:35:44 GMT",
     "etag": "W/\"64faf83f-10d49\"",
-    "expires": "Sun, 06 Oct 2024 09:37:03 GMT",
+    "expires": "Sun, 13 Oct 2024 09:00:29 GMT",
     "last-modified": "Fri, 08 Sep 2023 10:32:31 GMT",
     "permissions-policy": "interest-cohort=()",
     "server": "nginx/1.18.0",
@@ -51,11 +51,11 @@
     "via": "1.1 varnish",
     "x-cache": "HIT",
     "x-cache-hits": "0",
-    "x-fastly-request-id": "19554f626ab53e496cefe82399a8db577f4fa772",
-    "x-github-request-id": "5B7F:9144A:2C9950B:2CD7176:670257E7",
+    "x-fastly-request-id": "d83186845f1e882c939ec48d3842a94a3818dfe1",
+    "x-github-request-id": "350B:08A4:190F338:1936A8D:670B89D5",
     "x-proxy-cache": "MISS",
-    "x-served-by": "cache-lcy-eglc8600021-LCY",
-    "x-timer": "S1728207033.573323,VS0,VE82"
+    "x-served-by": "cache-lcy-eglc8600072-LCY",
+    "x-timer": "S1728812144.117583,VS0,VE1"
   },
   "endpoints": [
     {
@@ -104,7 +104,7 @@
           }
         },
         "location": {
-          "accuracy_radius": 100,
+          "accuracy_radius": 500,
           "latitude": 51.5074,
           "longitude": -0.1196,
           "time_zone": "Europe/London"
