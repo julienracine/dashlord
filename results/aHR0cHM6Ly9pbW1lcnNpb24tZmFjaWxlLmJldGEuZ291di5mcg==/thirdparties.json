@@ -2,7 +2,7 @@
   "trackers": [
     {
       "type": "unknown",
-      "url": "https://sentry.gip-inclusion.cloud-ed.fr/api/2/envelope/?sentry_key=c2909f1d7f384d17bde3e75e250f2828&sentry_version=7&sentry_client=sentry.javascript.browser%2F7.56.0"
+      "url": "https://sentry.gip-inclusion.cloud-ed.fr/api/2/envelope/?sentry_key=c2909f1d7f384d17bde3e75e250f2828&sentry_version=7&sentry_client=sentry.javascript.browser%2F7.119.1"
     }
   ],
   "cookies": [],
@@ -10,19 +10,19 @@
     "content-encoding": "gzip",
     "content-security-policy": "default-src 'self' https://user-images.githubusercontent.com https://tally.so https://px.ads.linkedin.com https://snap.licdn.com https://metabase.immersion-facile.beta.gouv.fr https://matomo.inclusion.beta.gouv.fr https://sentry.gip-inclusion.cloud-ed.fr wss://client.relay.crisp.chat/w/9d/  https://client.crisp.chat data: blob: https://immersion.cellar-c2.services.clever-cloud.com https://immersion-dev.cellar-c2.services.clever-cloud.com https://immersion-staging.cellar-c2.services.clever-cloud.com 'unsafe-inline' 'unsafe-eval'",
     "content-type": "text/html; charset=utf-8",
-    "date": "Sun, 06 Oct 2024 04:09:40 GMT",
-    "etag": "W/\"66ffc63f-8ef\"",
-    "last-modified": "Fri, 04 Oct 2024 10:41:03 GMT",
+    "date": "Sun, 13 Oct 2024 04:08:19 GMT",
+    "etag": "W/\"6707c0e6-8ef\"",
+    "last-modified": "Thu, 10 Oct 2024 11:56:22 GMT",
     "strict-transport-security": "max-age=31536000",
     "vary": "Accept-Encoding",
     "x-content-type-options": "nosniff",
-    "x-request-id": "fa34ce64-e381-4aea-a64f-c193028992cd",
+    "x-request-id": "b2b3e750-22f7-402c-b6bf-e0f984c1ce74",
     "x-xss-protection": "1; mode=block"
   },
   "endpoints": [
     {
       "hostname": "immersion-facile.beta.gouv.fr",
-      "ip": "148.253.96.193",
+      "ip": "185.21.194.105",
       "geoip": {
         "continent": {
           "code": "EU",
