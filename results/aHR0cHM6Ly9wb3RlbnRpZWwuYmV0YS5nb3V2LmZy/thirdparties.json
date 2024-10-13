@@ -12,12 +12,12 @@
   "cookies": [],
   "headers": {
     "content-encoding": "gzip",
-    "content-security-policy": "default-src 'self' blob: metabase.potentiel.beta.gouv.fr;connect-src 'self' potentiel.beta.gouv.fr client.crisp.chat wss://client.relay.crisp.chat;font-src 'self' client.crisp.chat;frame-src metabase.potentiel.beta.gouv.fr;img-src 'self' data: image.crisp.chat;style-src 'self' 'unsafe-inline' data: client.crisp.chat;script-src 'self' 'nonce-cc3a656f762644bb20a6146060ec048f4ddc789643972f3f89acb6ea7234f0f2' 'sha256-UEZfoO3SfsYbnIIAoHHUiIGOhT+nhTDv2gd4I5588HQ=' metabase.potentiel.beta.gouv.fr client.crisp.chat",
+    "content-security-policy": "default-src 'self' blob: metabase.potentiel.beta.gouv.fr;connect-src 'self' potentiel.beta.gouv.fr client.crisp.chat wss://client.relay.crisp.chat;font-src 'self' client.crisp.chat;frame-src metabase.potentiel.beta.gouv.fr;img-src 'self' data: image.crisp.chat;style-src 'self' 'unsafe-inline' data: client.crisp.chat;script-src 'self' 'nonce-290ce0b92bf00c8e28547baeba18ea8c151e3d007999ffdc2d38a3bb084222b6' 'sha256-UEZfoO3SfsYbnIIAoHHUiIGOhT+nhTDv2gd4I5588HQ=' metabase.potentiel.beta.gouv.fr client.crisp.chat",
     "content-type": "text/html; charset=utf-8",
     "cross-origin-opener-policy": "same-origin",
     "cross-origin-resource-policy": "same-origin",
-    "date": "Sun, 06 Oct 2024 06:22:46 GMT",
-    "etag": "W/\"4eb3-IN9S1XCUf1Zx6ZmH6XNlqCOY4I4\"",
+    "date": "Sun, 13 Oct 2024 06:25:56 GMT",
+    "etag": "W/\"4eb3-9Wz1WDcFQOB0v1cTWzZcK/vyEkI\"",
     "origin-agent-cluster": "?1",
     "referrer-policy": "strict-origin",
     "strict-transport-security": "max-age=31536000",
@@ -26,7 +26,7 @@
     "x-download-options": "noopen",
     "x-frame-options": "SAMEORIGIN",
     "x-permitted-cross-domain-policies": "none",
-    "x-request-id": "f994194e-4cc8-4a07-b31e-ed620e8f36ea",
+    "x-request-id": "272a7e86-f7c4-4811-953d-d0e4548ebbf9",
     "x-xss-protection": "0"
   },
   "endpoints": [
