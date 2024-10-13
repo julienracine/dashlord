@@ -2,7 +2,7 @@
   "trackers": [
     {
       "type": "unknown",
-      "url": "https://stonly.com/js/widget/v2/version?v=1728210118152"
+      "url": "https://stonly.com/js/widget/v2/version?v=1728815356126"
     },
     {
       "type": "crisp",
@@ -14,7 +14,7 @@
     },
     {
       "type": "unknown",
-      "url": "https://stonly.com/js/widget/v2/stonly-widget.js?v=cdd2a455"
+      "url": "https://stonly.com/js/widget/v2/stonly-widget.js?v=2ad7ec90"
     },
     {
       "type": "unknown",
@@ -22,7 +22,7 @@
     },
     {
       "type": "unknown",
-      "url": "https://stonly.com/js/widget/v2/widget-f7e4e0f60c48e2447f0b.stonly.js"
+      "url": "https://stonly.com/js/widget/v2/widget-e5263ba167a9ced7cb41.stonly.js"
     },
     {
       "type": "unknown",
@@ -30,10 +30,6 @@
     },
     {
       "type": "unknown",
-      "url": "https://api.stonly.com/api/v1/targeting/identify"
-    },
-    {
-      "type": "unknown",
       "url": "https://rlarzronkgoyvtdkltqy.supabase.co/rest/v1/ongoing_maintenance?select=*"
     },
     {
@@ -46,19 +42,15 @@
     },
     {
       "type": "unknown",
-      "url": "https://api.stonly.com/api/v2/widget/integration?widgetId=1b1b2533-383c-11ef-a9d4-06cb0cb2a85e&stonlyAnonymousId=25a9f9b4-b40e-41c9-94bb-97bface05607&url=https%3A%2F%2Fapp.territoiresentransitions.fr%2F"
+      "url": "https://api.stonly.com/api/v1/targeting/identify"
     },
     {
       "type": "unknown",
-      "url": "https://api.stonly.com/api/v2/widget/integration?widgetId=1b1b2533-383c-11ef-a9d4-06cb0cb2a85e&stonlyAnonymousId=25a9f9b4-b40e-41c9-94bb-97bface05607&url=https%3A%2F%2Fapp.territoiresentransitions.fr%2F"
+      "url": "https://api.stonly.com/api/v2/widget/integration?widgetId=1b1b2533-383c-11ef-a9d4-06cb0cb2a85e&stonlyAnonymousId=6bb1ed75-8294-48f3-b6de-731311e8ddcc&url=https%3A%2F%2Fapp.territoiresentransitions.fr%2F"
     },
     {
       "type": "unknown",
-      "url": "https://api.stonly.com/api/v1/stat"
-    },
-    {
-      "type": "unknown",
-      "url": "https://api.stonly.com/api/v1/stat"
+      "url": "https://api.stonly.com/api/v2/widget/integration?widgetId=1b1b2533-383c-11ef-a9d4-06cb0cb2a85e&stonlyAnonymousId=6bb1ed75-8294-48f3-b6de-731311e8ddcc&url=https%3A%2F%2Fapp.territoiresentransitions.fr%2F"
     },
     {
       "type": "unknown",
@@ -74,14 +66,14 @@
     "alt-svc": "h3=\":443\"; ma=86400",
     "cache-control": "public, max-age=0",
     "cf-cache-status": "DYNAMIC",
-    "cf-ray": "8ce4ed745d297ad9-SJC",
+    "cf-ray": "8d1ea5c3cee42edf-LAX",
     "content-encoding": "br",
     "content-type": "text/html; charset=UTF-8",
-    "date": "Sun, 06 Oct 2024 10:21:58 GMT",
-    "etag": "W/\"fb5-19248137e10\"",
-    "last-modified": "Tue, 01 Oct 2024 12:34:50 GMT",
+    "date": "Sun, 13 Oct 2024 10:29:16 GMT",
+    "etag": "W/\"fb5-192767495c8\"",
+    "last-modified": "Thu, 10 Oct 2024 12:43:25 GMT",
     "server": "cloudflare",
-    "x-envoy-upstream-service-time": "301",
+    "x-envoy-upstream-service-time": "577",
     "x-koyeb-backend": "par1",
     "x-koyeb-glb": "par1",
     "x-powered-by": "Express"
@@ -89,7 +81,7 @@
   "endpoints": [
     {
       "hostname": "app.territoiresentransitions.fr",
-      "ip": "104.22.79.190",
+      "ip": "104.22.78.190",
       "geoip": {
         "registered_country": {
           "geoname_id": 6252001,
@@ -109,7 +101,7 @@
     },
     {
       "hostname": "stonly.com",
-      "ip": "18.173.121.57",
+      "ip": "3.168.147.52",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -163,7 +155,7 @@
     },
     {
       "hostname": "client.crisp.chat",
-      "ip": "104.18.28.104",
+      "ip": "104.18.29.104",
       "geoip": {
         "registered_country": {
           "geoname_id": 6252001,
@@ -183,7 +175,7 @@
     },
     {
       "hostname": "s.stonly.com",
-      "ip": "18.164.154.78",
+      "ip": "18.164.154.26",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -219,6 +211,26 @@
           "longitude": -97.822,
           "time_zone": "America/Chicago"
         },
+        "registered_country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "USA",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        }
+      }
+    },
+    {
+      "hostname": "rlarzronkgoyvtdkltqy.supabase.co",
+      "ip": "172.64.149.246",
+      "geoip": {
         "registered_country": {
           "geoname_id": 6252001,
           "iso_code": "US",
@@ -330,26 +342,6 @@
             }
           }
         ]
-      }
-    },
-    {
-      "hostname": "rlarzronkgoyvtdkltqy.supabase.co",
-      "ip": "172.64.149.246",
-      "geoip": {
-        "registered_country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
-          "names": {
-            "de": "USA",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
-          }
-        }
       }
     }
   ]
