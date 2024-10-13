@@ -346,7 +346,7 @@
               "ip"           : "impactco2.fr/5.104.101.30",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "83 >= 30 days"
+              "finding"      : "76 >= 30 days"
           }
 ,         {
               "id"           : "cert_notBefore",
@@ -507,7 +507,7 @@
               "ip"           : "impactco2.fr/5.104.101.30",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1728188822"
+              "finding"      : "1728793298"
           }
 ,         {
               "id"           : "HSTS_time",
@@ -1293,7 +1293,7 @@
               "ip"           : "impactco2.fr/109.232.236.90",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "supported"
+              "finding"      : "not supported"
           }
 ,         {
               "id"           : "TLS_timestamp",
@@ -1433,7 +1433,7 @@
               "ip"           : "impactco2.fr/109.232.236.90",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "83 >= 30 days"
+              "finding"      : "76 >= 30 days"
           }
 ,         {
               "id"           : "cert_notBefore",
@@ -1587,14 +1587,14 @@
               "ip"           : "impactco2.fr/109.232.236.90",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "-1 seconds from localtime"
+              "finding"      : "0 seconds from localtime"
           }
 ,         {
               "id"           : "HTTP_headerTime",
               "ip"           : "impactco2.fr/109.232.236.90",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1728188926"
+              "finding"      : "1728793351"
           }
 ,         {
               "id"           : "HSTS_time",
@@ -2520,7 +2520,7 @@
               "ip"           : "impactco2.fr/148.253.75.120",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "83 >= 30 days"
+              "finding"      : "76 >= 30 days"
           }
 ,         {
               "id"           : "cert_notBefore",
@@ -2681,7 +2681,7 @@
               "ip"           : "impactco2.fr/148.253.75.120",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1728189030"
+              "finding"      : "1728793403"
           }
 ,         {
               "id"           : "HSTS_time",
@@ -3607,7 +3607,7 @@
               "ip"           : "impactco2.fr/109.232.233.130",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "83 >= 30 days"
+              "finding"      : "76 >= 30 days"
           }
 ,         {
               "id"           : "cert_notBefore",
@@ -3768,7 +3768,7 @@
               "ip"           : "impactco2.fr/109.232.233.130",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1728189135"
+              "finding"      : "1728793456"
           }
 ,         {
               "id"           : "HSTS_time",
@@ -4352,6 +4352,6 @@
               "ip"           : "impactco2.fr/109.232.233.130",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "421"
+              "finding"      : "213"
           }
 ]
