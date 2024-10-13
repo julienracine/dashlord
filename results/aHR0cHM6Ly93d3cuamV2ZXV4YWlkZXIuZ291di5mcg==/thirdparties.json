@@ -2,10 +2,6 @@
   "trackers": [
     {
       "type": "unknown",
-      "url": "https://jeveuxaider.fra1.digitaloceanspaces.com/public/production/12146/responsive/art-et-culture-pour-tous-6___card_600_286.webp?v=1650537895"
-    },
-    {
-      "type": "unknown",
       "url": "https://jeveuxaider.fra1.digitaloceanspaces.com/public/production/8502/responsive/yum5mxEyIqQvL0O___card_600_286.webp?v=1650544269"
     },
     {
@@ -18,11 +14,15 @@
     },
     {
       "type": "unknown",
+      "url": "https://jeveuxaider.fra1.digitaloceanspaces.com/public/production/12146/responsive/art-et-culture-pour-tous-6___card_600_286.webp?v=1650537895"
+    },
+    {
+      "type": "unknown",
       "url": "https://jeveuxaider.fra1.digitaloceanspaces.com/public/production/8498/responsive/kL3U82CKaXASTcL___card_600_286.webp?v=1650544220"
     },
     {
       "type": "unknown",
-      "url": "https://jeveuxaider.fra1.digitaloceanspaces.com/public/production/56406/responsive/dxuVmMYyWi7kHGXIPKc08qniPbiUny___card_600_286.webp?v=1715951493"
+      "url": "https://jeveuxaider.fra1.digitaloceanspaces.com/public/production/8475/responsive/a26fP7ibvc7fB1r___card_600_286.webp?v=1650543984"
     },
     {
       "type": "google tag manager",
@@ -42,19 +42,11 @@
     },
     {
       "type": "unknown",
-      "url": "https://gqlg3qh7po-dsn.algolia.net/1/indexes/prod_scalingo_covid_missions/query?x-algolia-agent=Algolia%20for%20JavaScript%20(4.24.0)%3B%20Browser"
-    },
-    {
-      "type": "unknown",
-      "url": "https://jeveuxaider.fra1.digitaloceanspaces.com/public/production/30331/responsive/ntYcHt7wuT6QRsqf7QiO5JnMO7xIR6___card_600_286.webp?v=1674642755"
-    },
-    {
-      "type": "unknown",
-      "url": "https://jeveuxaider.fra1.digitaloceanspaces.com/public/production/8475/responsive/a26fP7ibvc7fB1r___card_600_286.webp?v=1650543984"
-    },
-    {
-      "type": "unknown",
       "url": "https://plausible.io/api/event"
+    },
+    {
+      "type": "unknown",
+      "url": "https://gqlg3qh7po-dsn.algolia.net/1/indexes/prod_scalingo_covid_missions/query?x-algolia-agent=Algolia%20for%20JavaScript%20(4.24.0)%3B%20Browser"
     },
     {
       "type": "unknown",
@@ -66,6 +58,10 @@
     },
     {
       "type": "unknown",
+      "url": "https://jeveuxaider.fra1.digitaloceanspaces.com/public/production/30331/responsive/ntYcHt7wuT6QRsqf7QiO5JnMO7xIR6___card_600_286.webp?v=1674642755"
+    },
+    {
+      "type": "unknown",
       "url": "https://client.axept.io/pack/fr"
     }
   ],
@@ -73,22 +69,23 @@
   "headers": {
     "cache-control": "max-age=300\npublic, no-transform",
     "cf-cache-status": "DYNAMIC",
-    "cf-ray": "8ce40d92ec841566-SJC",
+    "cf-ray": "8d1dbda5b93b7f9a-IAD",
     "content-encoding": "br",
-    "content-length": "47982",
+    "content-length": "48053",
     "content-type": "text/html;charset=utf-8",
-    "date": "Sun, 06 Oct 2024 07:49:08 GMT",
-    "expires": "Sun, 06 Oct 2024 07:54:08 GMT",
+    "date": "Sun, 13 Oct 2024 07:50:48 GMT",
+    "expires": "Sun, 13 Oct 2024 07:55:48 GMT",
     "server": "cloudflare",
+    "server-timing": "cfCacheStatus;desc=\"DYNAMIC\"",
     "strict-transport-security": "max-age=31536000",
     "vary": "Accept-Encoding",
     "x-powered-by": "Nuxt",
-    "x-request-id": "0bd3af01-db24-48c8-ac7a-e7cc1cd04d21\n0bd3af01-db24-48c8-ac7a-e7cc1cd04d21"
+    "x-request-id": "bfeb6df0-606d-4223-8c6e-1e96ad080d0d\nbfeb6df0-606d-4223-8c6e-1e96ad080d0d"
   },
   "endpoints": [
     {
       "hostname": "www.jeveuxaider.gouv.fr",
-      "ip": "104.22.76.85",
+      "ip": "104.22.77.85",
       "geoip": {
         "registered_country": {
           "geoname_id": 6252001,
@@ -195,7 +192,7 @@
     },
     {
       "hostname": "www.googletagmanager.com",
-      "ip": "142.250.189.168",
+      "ip": "142.251.16.97",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -305,18 +302,18 @@
     },
     {
       "hostname": "plausible.io",
-      "ip": "169.150.221.147",
+      "ip": "138.199.40.58",
       "geoip": {
         "city": {
-          "geoname_id": 5392171,
+          "geoname_id": 5128581,
           "names": {
-            "de": "San José",
-            "en": "San Jose",
-            "es": "San José",
-            "fr": "San José",
-            "ja": "サンノゼ",
-            "pt-BR": "San José",
-            "ru": "Сан-Хосе"
+            "de": "New York City",
+            "en": "New York",
+            "es": "Nueva York",
+            "fr": "New York",
+            "ja": "ニューヨーク",
+            "pt-BR": "Nova Iorque",
+            "ru": "Нью-Йорк"
           }
         },
         "continent": {
@@ -349,13 +346,13 @@
         },
         "location": {
           "accuracy_radius": 20,
-          "latitude": 37.1835,
-          "longitude": -121.7714,
-          "metro_code": 807,
-          "time_zone": "America/Los_Angeles"
+          "latitude": 40.7123,
+          "longitude": -74.0068,
+          "metro_code": 501,
+          "time_zone": "America/New_York"
         },
         "postal": {
-          "code": "95141"
+          "code": "10118"
         },
         "registered_country": {
           "geoname_id": 2635167,
@@ -373,17 +370,17 @@
         },
         "subdivisions": [
           {
-            "geoname_id": 5332921,
-            "iso_code": "CA",
+            "geoname_id": 5128638,
+            "iso_code": "NY",
             "names": {
-              "de": "Kalifornien",
-              "en": "California",
-              "es": "California",
-              "fr": "Californie",
-              "ja": "カリフォルニア州",
-              "pt-BR": "Califórnia",
-              "ru": "Калифорния",
-              "zh-CN": "加州"
+              "de": "New York",
+              "en": "New York",
+              "es": "Nueva York",
+              "fr": "New York",
+              "ja": "ニューヨーク州",
+              "pt-BR": "Nova Iorque",
+              "ru": "Нью-Йорк",
+              "zh-CN": "纽约州"
             }
           }
         ]
@@ -391,7 +388,7 @@
     },
     {
       "hostname": "static.axept.io",
-      "ip": "13.227.74.18",
+      "ip": "3.167.112.37",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -445,7 +442,7 @@
     },
     {
       "hostname": "client.axept.io",
-      "ip": "99.84.66.8",
+      "ip": "18.160.18.115",
       "geoip": {
         "continent": {
           "code": "NA",
