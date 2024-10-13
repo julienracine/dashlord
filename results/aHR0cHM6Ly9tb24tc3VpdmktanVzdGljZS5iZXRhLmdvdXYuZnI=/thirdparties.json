@@ -3,11 +3,11 @@
   "cookies": [
     {
       "name": "_mon_suivi_justice_public_session",
-      "value": "P%2Fq7azsrp0rUZHxDaZnsgifiiXmN%2Fsw8jZRG11bbgu2wWPtSp7GpQbFitLsJv3VUTWZMnsXTl4ISFTIZW7fXuRH8bcZVQdAKmAHcQrYxt7pXVSlq%2BqxBkLhB1%2BYYGm48j88bBxC0PfdZcQcpO%2BectYsi73Wu133A8OKrRX%2Bx3hzPo%2FmjlV6GD1kpBRzAobB6hJKvlpEkMOHOOTJL92CtIQVl8bFgX1yTcButsjpL5Lcs9%2BbjVXt5qUS6nr7c%2FmqZHgc7Jk5fMrlz4k1Lp%2FiGWeb31ryx3%2B9tQIAAVjevPHazW0%2F4vx%2B2xh0%3D--WaXL7wWt8iJU4n3E--qFwaHa6Ny5SxGq8wTAs%2FKw%3D%3D",
+      "value": "0ysM1eizGd%2B9s8J2tOz761aXDD0LvVkkKZpVelLCbMXc%2Fyfg9BJVc9oK3LKRQnn8eooYRyA8LIAqQLvpSe4hcTIS2Nu8P1MUIB33aZbXkMD%2Bki3tGixjqhxen2kSd%2FUzujgz0jNfsKnQpl6WKqttvavqnb4wNSSzANrbKm%2BqglMxvgPBmTMPmnBjjVVUWwfv0ckBDCZtmLhYLRCBRiGaI02M7%2FDFDCLUCLbDaVOG8zxcg6Y8kc90S9AHjOSOfscAnPu3TDkS4bbDMPpFcvyWch6GhOvt20qlMkT7vmNJ9hXFcEho8zTxKcw%3D--CAdUFVnjrdTSUknJ--U9VMsRf7bpTEm8o%2Fa9NBMw%3D%3D",
       "domain": "mon-suivi-justice.beta.gouv.fr",
       "path": "/",
       "expires": -1,
-      "size": 423,
+      "size": 409,
       "httpOnly": true,
       "secure": true,
       "session": true,
@@ -21,23 +21,23 @@
     "cache-control": "max-age=0, private, must-revalidate",
     "content-encoding": "gzip",
     "content-type": "text/html; charset=utf-8",
-    "date": "Sun, 06 Oct 2024 09:44:20 GMT",
-    "etag": "W/\"b93b5c1ddac4942089d5f0152263dad2\"",
+    "date": "Sun, 13 Oct 2024 09:48:50 GMT",
+    "etag": "W/\"ae30cb8878532ded0f4d20619d6de9c5\"",
     "link": "</assets/application-0fedccbad6925fc768b8a849fa5c93dc38325628269f62c4e10bfd39c962507d.js>; rel=modulepreload; as=script; nopush,</assets/application-e8c3edb928381a9b3b15a680b18a327b8f3d39c3bd203ae81a16cd4d94c15ecc.css>; rel=preload; as=style; nopush",
     "referrer-policy": "strict-origin-when-cross-origin",
-    "set-cookie": "_mon_suivi_justice_public_session=P%2Fq7azsrp0rUZHxDaZnsgifiiXmN%2Fsw8jZRG11bbgu2wWPtSp7GpQbFitLsJv3VUTWZMnsXTl4ISFTIZW7fXuRH8bcZVQdAKmAHcQrYxt7pXVSlq%2BqxBkLhB1%2BYYGm48j88bBxC0PfdZcQcpO%2BectYsi73Wu133A8OKrRX%2Bx3hzPo%2FmjlV6GD1kpBRzAobB6hJKvlpEkMOHOOTJL92CtIQVl8bFgX1yTcButsjpL5Lcs9%2BbjVXt5qUS6nr7c%2FmqZHgc7Jk5fMrlz4k1Lp%2FiGWeb31ryx3%2B9tQIAAVjevPHazW0%2F4vx%2B2xh0%3D--WaXL7wWt8iJU4n3E--qFwaHa6Ny5SxGq8wTAs%2FKw%3D%3D; path=/; secure; httponly; samesite=lax",
+    "set-cookie": "_mon_suivi_justice_public_session=0ysM1eizGd%2B9s8J2tOz761aXDD0LvVkkKZpVelLCbMXc%2Fyfg9BJVc9oK3LKRQnn8eooYRyA8LIAqQLvpSe4hcTIS2Nu8P1MUIB33aZbXkMD%2Bki3tGixjqhxen2kSd%2FUzujgz0jNfsKnQpl6WKqttvavqnb4wNSSzANrbKm%2BqglMxvgPBmTMPmnBjjVVUWwfv0ckBDCZtmLhYLRCBRiGaI02M7%2FDFDCLUCLbDaVOG8zxcg6Y8kc90S9AHjOSOfscAnPu3TDkS4bbDMPpFcvyWch6GhOvt20qlMkT7vmNJ9hXFcEho8zTxKcw%3D--CAdUFVnjrdTSUknJ--U9VMsRf7bpTEm8o%2Fa9NBMw%3D%3D; path=/; secure; httponly; samesite=lax",
     "strict-transport-security": "max-age=63072000; includeSubDomains",
     "x-content-type-options": "nosniff",
     "x-download-options": "noopen",
     "x-frame-options": "SAMEORIGIN",
     "x-permitted-cross-domain-policies": "none",
-    "x-request-id": "428b0bf3-f651-4fba-ac3f-a23e9feba121\n428b0bf3-f651-4fba-ac3f-a23e9feba121",
+    "x-request-id": "c6a2c098-4378-437e-896c-794ac8de826f\nc6a2c098-4378-437e-896c-794ac8de826f",
     "x-xss-protection": "0"
   },
   "endpoints": [
     {
       "hostname": "mon-suivi-justice.beta.gouv.fr",
-      "ip": "80.247.12.255",
+      "ip": "185.21.194.105",
       "geoip": {
         "continent": {
           "code": "EU",
