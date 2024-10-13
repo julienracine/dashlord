@@ -353,7 +353,7 @@
               "ip"           : "selexpert.anje-justice.fr/91.208.207.214",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "38 >= 30 days"
+              "finding"      : "31 >= 30 days"
           }
 ,         {
               "id"           : "cert_notBefore",
@@ -507,14 +507,14 @@
               "ip"           : "selexpert.anje-justice.fr/91.208.207.214",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "0 seconds from localtime"
+              "finding"      : "-1 seconds from localtime"
           }
 ,         {
               "id"           : "HTTP_headerTime",
               "ip"           : "selexpert.anje-justice.fr/91.208.207.214",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1728217919"
+              "finding"      : "1728822964"
           }
 ,         {
               "id"           : "HSTS",
@@ -535,7 +535,7 @@
               "ip"           : "selexpert.anje-justice.fr/91.208.207.214",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "nginx/1.27.1"
+              "finding"      : "nginx/1.27.2"
           }
 ,         {
               "id"           : "banner_application",
@@ -1070,6 +1070,6 @@
               "ip"           : "selexpert.anje-justice.fr/91.208.207.214",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "64"
+              "finding"      : "98"
           }
 ]
