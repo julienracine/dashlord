@@ -78,15 +78,15 @@
     },
     {
       "type": "unknown",
+      "url": "https://hd.pe.fr/event?s=475540&idclient=m27gl590bw5v9lx1"
+    },
+    {
+      "type": "unknown",
       "url": "https://privacy.trustcommander.net/privacy-consent?site=4340"
     },
     {
       "type": "unknown",
-      "url": "https://hd.pe.fr/event?s=475540&idclient=m1xg8osvtve2gt5l"
-    },
-    {
-      "type": "unknown",
-      "url": "https://hd.pe.fr/event?s=475540&idclient=m1xg8osvtve2gt5l"
+      "url": "https://hd.pe.fr/event?s=475540&idclient=m27gl590bw5v9lx1"
     },
     {
       "type": "unknown",
@@ -134,30 +134,6 @@
     },
     {
       "type": "unknown",
-      "url": "https://candidat.francetravail.fr/mobiville/api/helps/get-previews"
-    },
-    {
-      "type": "unknown",
-      "url": "https://cdn.francetravail.fr/studio/design-system/fonts/roboto-v30-latin-700.woff2"
-    },
-    {
-      "type": "unknown",
-      "url": "https://cdn.francetravail.fr/studio/design-system/fonts/roboto-v30-latin-italic.woff2"
-    },
-    {
-      "type": "unknown",
-      "url": "https://cdn.francetravail.fr/studio/design-system/fonts/roboto-v30-latin-700italic.woff2"
-    },
-    {
-      "type": "unknown",
-      "url": "https://cdn.francetravail.fr/studio/design-system/fonts/roboto-v30-latin-500italic.woff2"
-    },
-    {
-      "type": "unknown",
-      "url": "https://www.francetravail.fr/files/live/sites/PE/files/images/Logos/header-logo2021-pe-fr.svg"
-    },
-    {
-      "type": "unknown",
       "url": "https://candidat.francetravail.fr/mobiville/static/media/home-bg.4e918c4b2800bcb748fa.avif"
     },
     {
@@ -178,11 +154,43 @@
     },
     {
       "type": "unknown",
-      "url": "https://candidat.francetravail.fr/mobiville/help-logos/120px/action-logement.png"
+      "url": "https://candidat.francetravail.fr/mobiville/api/helps/get-previews"
+    },
+    {
+      "type": "unknown",
+      "url": "https://www.francetravail.fr/files/live/sites/PE/files/images/Logos/header-logo2021-pe-fr.svg"
+    },
+    {
+      "type": "unknown",
+      "url": "https://cdn.francetravail.fr/studio/design-system/fonts/roboto-v30-latin-700.woff2"
+    },
+    {
+      "type": "unknown",
+      "url": "https://cdn.francetravail.fr/studio/design-system/fonts/roboto-v30-latin-italic.woff2"
+    },
+    {
+      "type": "unknown",
+      "url": "https://cdn.francetravail.fr/studio/design-system/fonts/roboto-v30-latin-700italic.woff2"
+    },
+    {
+      "type": "unknown",
+      "url": "https://cdn.francetravail.fr/studio/design-system/fonts/roboto-v30-latin-500italic.woff2"
     },
     {
       "type": "unknown",
       "url": "https://candidat.francetravail.fr/mobiville/static/media/guide-banner-mobile.b55883ebdb202a57031f.png"
+    },
+    {
+      "type": "unknown",
+      "url": "https://candidat.francetravail.fr/mobiville/static/media/icons.49c4346a09bcfae30639.ttf"
+    },
+    {
+      "type": "unknown",
+      "url": "https://candidat.francetravail.fr/mobiville/static/media/icons.49c4346a09bcfae30639.ttf"
+    },
+    {
+      "type": "unknown",
+      "url": "https://candidat.francetravail.fr/mobiville/help-logos/120px/action-logement.png"
     },
     {
       "type": "unknown",
@@ -194,21 +202,13 @@
     },
     {
       "type": "unknown",
-      "url": "https://candidat.francetravail.fr/mobiville/static/media/icons.49c4346a09bcfae30639.ttf"
-    },
-    {
-      "type": "unknown",
-      "url": "https://candidat.francetravail.fr/mobiville/static/media/icons.49c4346a09bcfae30639.ttf"
-    },
-    {
-      "type": "unknown",
       "url": "https://candidat.francetravail.fr/mobiville/api/cities/autocomplete"
     }
   ],
   "cookies": [
     {
       "name": "TS016fc3b0",
-      "value": "0150c672c37216bd41c5644a9343e9476ae3400e889df90e8a6da44cc8d94634eecb55ea71e1475070bd1f0a074f132cd0074258bb",
+      "value": "0150c672c3c82a49f41c60b0c7500db047e1e5a73f4b3f702aed7e3af820f8d590d327c51e552498e87caed2aa44a6e9d2b7ad7041",
       "domain": ".candidat.francetravail.fr",
       "path": "/",
       "expires": -1,
@@ -253,10 +253,10 @@
     "cache-control": "no-store, no-cache, must-revalidate, proxy-revalidate, max-age=0",
     "content-encoding": "gzip",
     "content-type": "text/html",
-    "date": "Sun, 06 Oct 2024 10:37:34 GMT",
+    "date": "Sun, 13 Oct 2024 10:44:57 GMT",
     "last-modified": "Tue, 16 Jul 2024 16:59:33 GMT",
     "referrer-policy": "no-referrer-when-downgrade",
-    "set-cookie": "Path=/; HttpOnly; Secure\nBIGipServerPOOL_Z2_PROD_MOP_HTTP=2023492362.20480.0000; path=/; Httponly; Secure\nTS016fc3b0=0150c672c37216bd41c5644a9343e9476ae3400e889df90e8a6da44cc8d94634eecb55ea71e1475070bd1f0a074f132cd0074258bb; Path=/; Domain=.candidat.francetravail.fr",
+    "set-cookie": "Path=/; HttpOnly; Secure\nBIGipServerPOOL_Z2_PROD_MOP_HTTP=2023492362.20480.0000; path=/; Httponly; Secure\nTS016fc3b0=0150c672c3c82a49f41c60b0c7500db047e1e5a73f4b3f702aed7e3af820f8d590d327c51e552498e87caed2aa44a6e9d2b7ad7041; Path=/; Domain=.candidat.francetravail.fr",
     "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
     "transfer-encoding": "chunked",
     "vary": "Accept-Encoding",
@@ -269,14 +269,6 @@
       "hostname": "mobiville.pole-emploi.fr",
       "ip": "51.68.80.218",
       "geoip": {
-        "city": {
-          "geoname_id": 3002401,
-          "names": {
-            "en": "Le Raincy",
-            "fr": "Le Raincy",
-            "ja": "ル・ランシー"
-          }
-        },
         "continent": {
           "code": "EU",
           "geoname_id": 6255148,
@@ -308,12 +300,9 @@
         },
         "location": {
           "accuracy_radius": 500,
-          "latitude": 48.9029,
-          "longitude": 2.529,
+          "latitude": 48.8582,
+          "longitude": 2.3387,
           "time_zone": "Europe/Paris"
-        },
-        "postal": {
-          "code": "93340"
         },
         "registered_country": {
           "geoname_id": 3017382,
@@ -329,37 +318,7 @@
             "ru": "Франция",
             "zh-CN": "法国"
           }
-        },
-        "subdivisions": [
-          {
-            "geoname_id": 3012874,
-            "iso_code": "IDF",
-            "names": {
-              "de": "Île-de-France",
-              "en": "Île-de-France",
-              "es": "Isla de Francia",
-              "fr": "Île-de-France",
-              "ja": "イル・ド・フランス",
-              "pt-BR": "Ilha de França",
-              "ru": "Иль-де-Франс",
-              "zh-CN": "法兰西岛"
-            }
-          },
-          {
-            "geoname_id": 2975246,
-            "iso_code": "93",
-            "names": {
-              "de": "Seine-Saint-Denis",
-              "en": "Seine-Saint-Denis",
-              "es": "Sena Saint Denis",
-              "fr": "Seine-Saint-Denis",
-              "ja": "セーヌ＝サン＝ドニ県",
-              "pt-BR": "Seine-Saint-Denis",
-              "ru": "Сен-Сен-Дени",
-              "zh-CN": "塞纳-圣但尼省"
-            }
-          }
-        ]
+        }
       }
     },
     {
@@ -402,7 +361,7 @@
           }
         },
         "location": {
-          "accuracy_radius": 10,
+          "accuracy_radius": 200,
           "latitude": 48.9704,
           "longitude": 2.345,
           "time_zone": "Europe/Paris"
@@ -459,7 +418,7 @@
     },
     {
       "hostname": "fonts.googleapis.com",
-      "ip": "172.217.1.106",
+      "ip": "142.251.16.95",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -551,7 +510,7 @@
           }
         },
         "location": {
-          "accuracy_radius": 10,
+          "accuracy_radius": 200,
           "latitude": 48.9704,
           "longitude": 2.345,
           "time_zone": "Europe/Paris"
@@ -678,7 +637,61 @@
     },
     {
       "hostname": "tag.aticdn.net",
-      "ip": "18.160.18.16",
+      "ip": "18.160.18.7",
+      "geoip": {
+        "continent": {
+          "code": "NA",
+          "geoname_id": 6255149,
+          "names": {
+            "de": "Nordamerika",
+            "en": "North America",
+            "es": "Norteamérica",
+            "fr": "Amérique du Nord",
+            "ja": "北アメリカ",
+            "pt-BR": "América do Norte",
+            "ru": "Северная Америка",
+            "zh-CN": "北美洲"
+          }
+        },
+        "country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "USA",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        },
+        "location": {
+          "accuracy_radius": 1000,
+          "latitude": 37.751,
+          "longitude": -97.822,
+          "time_zone": "America/Chicago"
+        },
+        "registered_country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "USA",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        }
+      }
+    },
+    {
+      "hostname": "hd.pe.fr",
+      "ip": "18.160.18.7",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -732,7 +745,7 @@
     },
     {
       "hostname": "privacy.trustcommander.net",
-      "ip": "15.236.58.71",
+      "ip": "13.37.62.151",
       "geoip": {
         "city": {
           "geoname_id": 2988507,
@@ -828,60 +841,6 @@
       }
     },
     {
-      "hostname": "hd.pe.fr",
-      "ip": "13.226.22.124",
-      "geoip": {
-        "continent": {
-          "code": "NA",
-          "geoname_id": 6255149,
-          "names": {
-            "de": "Nordamerika",
-            "en": "North America",
-            "es": "Norteamérica",
-            "fr": "Amérique du Nord",
-            "ja": "北アメリカ",
-            "pt-BR": "América do Norte",
-            "ru": "Северная Америка",
-            "zh-CN": "北美洲"
-          }
-        },
-        "country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
-          "names": {
-            "de": "USA",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
-          }
-        },
-        "location": {
-          "accuracy_radius": 1000,
-          "latitude": 37.751,
-          "longitude": -97.822,
-          "time_zone": "America/Chicago"
-        },
-        "registered_country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
-          "names": {
-            "de": "USA",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
-          }
-        }
-      }
-    },
-    {
       "hostname": "www.francetravail.fr",
       "ip": "185.215.64.79",
       "geoip": {
@@ -921,7 +880,7 @@
           }
         },
         "location": {
-          "accuracy_radius": 10,
+          "accuracy_radius": 200,
           "latitude": 48.9704,
           "longitude": 2.345,
           "time_zone": "Europe/Paris"
