@@ -2,7 +2,7 @@
   "trackers": [
     {
       "type": "unknown",
-      "url": "https://sentry.io/api/1429547/envelope/?sentry_key=4248116497b049dea165998d79024565&sentry_version=7&sentry_client=sentry.javascript.browser%2F8.20.0"
+      "url": "https://sentry.io/api/1429547/envelope/?sentry_key=4248116497b049dea165998d79024565&sentry_version=7&sentry_client=sentry.javascript.browser%2F8.33.1"
     }
   ],
   "cookies": [
@@ -11,7 +11,7 @@
       "value": "1",
       "domain": ".www.demarches-simplifiees.fr",
       "path": "/",
-      "expires": 1728806367,
+      "expires": 1729411546,
       "size": 16,
       "httpOnly": false,
       "secure": false,
@@ -23,10 +23,10 @@
     },
     {
       "name": "_pk_id.73.dc9f",
-      "value": "c87d7258316fcf48.1728804568.",
+      "value": "83f516fd3e2db8dd.1729409747.",
       "domain": ".www.demarches-simplifiees.fr",
       "path": "/",
-      "expires": 1762759768,
+      "expires": 1763364947,
       "size": 42,
       "httpOnly": false,
       "secure": false,
@@ -38,11 +38,11 @@
     },
     {
       "name": "_DS_session",
-      "value": "%2Fwezsd8Zgb9XoSoHIWPgfr9Urib%2B3m8YY26dUbvYd01GsvgD3n5Jky8SpkREkjwMpn7yHwAZQorRjYv3eBrDPV7LMUMbD4KddX9Q7W%2F6BaYnzvpVAr2u1rNjcNoaDzqpjmpKKFLgIGfB%2Fu6KOi8FDZauqzM%2FXF19JC679FZaCP%2BOxHsMgF%2F3MSlmKP4gqTZP1QGb%2BsTyriA9b3EBZMMTWh1RFUd9uqZNAknEnH09wtqf%2BLBF%2BIc%2Fx4ACS9LVwKRzDHw3UAznskuWJ6wbQYck%2F1H%2B0w%3D%3D--gej0K%2BtQ9ck3%2Buo8--8Wk0iBe5G%2BvcVc%2B0EhCBXA%3D%3D",
+      "value": "K4p9QYX7ZTVu1jPYPqj59p3KfU34JzHunuJZ5gpjU%2B%2FLGDPYLVYqnemHRIrBnsRMywbJ0ZJENa57qjpXxhdlOxaIEFr44K6%2FqY00mwhC1g843EEFteofZKRkbwfSiO1nxJ8SEa9TdssfG4EhfePHIHYCv8QJq0maRUWRdQ8CWBCMriwK9%2FmMHDcmn9hpH0W6G6k1muObKvBwEXi0egZDynrejzEiTfcTZlu9rbNKGfBONLSJB5bDgxmOyNblHnK%2FdI3leWX1rmVrdzHI4spUOmWfAg%3D%3D--fwx8EEaqEnsbQQhx--y%2BV2%2FhCpW2fufBf6Pe4o8Q%3D%3D",
       "domain": "www.demarches-simplifiees.fr",
       "path": "/",
       "expires": -1,
-      "size": 381,
+      "size": 361,
       "httpOnly": true,
       "secure": true,
       "session": true,
@@ -53,10 +53,10 @@
     },
     {
       "name": "_csrf_token",
-      "value": "eyJfcmFpbHMiOnsibWVzc2FnZSI6IklqRndTSGxyWkZwbFIybFNlbWs0ZEdSNlZUbHdSREpSYm5sNk1HUjVkVTlXTlRWaGR6WlZiemN4WTNNaSIsImV4cCI6IjIwMjUtMTAtMTNUMDc6Mjk6MjUuODExWiIsInB1ciI6ImNvb2tpZS5fY3NyZl90b2tlbiJ9fQ%3D%3D--d110eaca9e63cfe9f0778c1de76036bb96dde1e2",
+      "value": "eyJfcmFpbHMiOnsibWVzc2FnZSI6IklrRlZabTVXU0Y5cU4zVk5TakZGVUhsdlRuY3dXa05TV0hWVU5YZE5OMGs1WjA1cGFXd3lXRU40Y2tVaSIsImV4cCI6IjIwMjUtMTAtMjBUMDc6MzU6NDUuMjU1WiIsInB1ciI6ImNvb2tpZS5fY3NyZl90b2tlbiJ9fQ%3D%3D--3b1f348fae4b6062606ccbfb767f4fc62a3f5e8f",
       "domain": "www.demarches-simplifiees.fr",
       "path": "/",
-      "expires": 1760340565.894118,
+      "expires": 1760945745.316946,
       "size": 253,
       "httpOnly": true,
       "secure": true,
@@ -70,21 +70,21 @@
   "headers": {
     "cache-control": "max-age=0, private, must-revalidate",
     "content-encoding": "gzip",
-    "content-security-policy": "img-src 'self' data: blob: *.openstreetmap.org *.cloud.ovh.net * static.demarches-simplifiees.fr stats.data.gouv.fr; script-src 'self' 'unsafe-eval' 'unsafe-inline' blob: *.crisp.chat crisp.chat cdn.jsdelivr.net maxcdn.bootstrapcdn.com code.jquery.com unpkg.com stats.data.gouv.fr; style-src 'self' 'unsafe-inline' *.crisp.chat crisp.chat cdn.jsdelivr.net maxcdn.bootstrapcdn.com unpkg.com; connect-src 'self' wss://*.crisp.chat *.crisp.chat app.franceconnect.gouv.fr openmaptiles.geo.data.gouv.fr openmaptiles.github.io tiles.geo.api.gouv.fr data.geopf.fr www.demarches-simplifiees.fr sentry.io static.demarches-simplifiees.fr api-adresse.data.gouv.fr data.education.gouv.fr geo.api.gouv.fr stats.data.gouv.fr; frame-src 'self' stats.data.gouv.fr static.demarches-simplifiees.fr; default-src 'self' data: blob: 'report-sample' fonts.gstatic.com in-automate.sendinblue.com player.vimeo.com app.franceconnect.gouv.fr *.crisp.chat crisp.chat *.crisp.help *.sibautomation.com sibautomation.com data sentry.io static.demarches-simplifiees.fr",
+    "content-security-policy": "img-src 'self' data: blob: *.openstreetmap.org *.cloud.ovh.net * static.demarches-simplifiees.fr stats.data.gouv.fr; script-src 'self' 'unsafe-eval' 'unsafe-inline' blob: *.crisp.chat crisp.chat cdn.jsdelivr.net maxcdn.bootstrapcdn.com code.jquery.com unpkg.com stats.data.gouv.fr; style-src 'self' 'unsafe-inline' *.crisp.chat crisp.chat cdn.jsdelivr.net maxcdn.bootstrapcdn.com unpkg.com; connect-src 'self' wss://*.crisp.chat *.crisp.chat app.franceconnect.gouv.fr openmaptiles.geo.data.gouv.fr openmaptiles.github.io tiles.geo.api.gouv.fr data.geopf.fr www.demarches-simplifiees.fr sentry.io static.demarches-simplifiees.fr api-adresse.data.gouv.fr data.education.gouv.fr geo.api.gouv.fr stats.data.gouv.fr; frame-src 'self' stats.data.gouv.fr static.demarches-simplifiees.fr *.crisp.help; default-src 'self' data: blob: 'report-sample' fonts.gstatic.com in-automate.sendinblue.com player.vimeo.com app.franceconnect.gouv.fr *.crisp.chat crisp.chat *.crisp.help *.sibautomation.com sibautomation.com data sentry.io static.demarches-simplifiees.fr",
     "content-type": "text/html; charset=utf-8",
-    "date": "Sun, 13 Oct 2024 07:29:25 GMT",
-    "etag": "W/\"108a0a19201a713c0f8c3072b2867561\"",
-    "link": "</vite/assets/application-DPcWuXHB.js>; rel=modulepreload; as=script; crossorigin=anonymous; nopush,<https://www.demarches-simplifiees.fr/assets/Marianne-Regular-8e657d64ad967481d7fd3290e2ea23162340fae54ca839ad88b949f9d8602f32.woff2>; rel=preload; as=font; type=font/woff2; crossorigin=anonymous,<https://www.demarches-simplifiees.fr/assets/Spectral-Regular-958694e3dd507d80daad1c521d500d4cf4173d0e59353cbe61afd6ba1c187228.ttf>; rel=preload; as=font; type=font/ttf; crossorigin=anonymous,</vite/assets/main-DH7FCxoF.css>; rel=preload; as=style; nopush,</assets/application-fad2b2722e4f88618c3e201c347d03850116563bf554c8d90552cf50cb7e9df6.css>; rel=preload; as=style; nopush",
+    "date": "Sun, 20 Oct 2024 07:35:45 GMT",
+    "etag": "W/\"6dce328065d3efb7fa90cc7b7b4148aa\"",
+    "link": "</vite/assets/application-ALBOA6s6.js>; rel=modulepreload; as=script; crossorigin=anonymous; nopush,<https://www.demarches-simplifiees.fr/assets/Marianne-Regular-8e657d64ad967481d7fd3290e2ea23162340fae54ca839ad88b949f9d8602f32.woff2>; rel=preload; as=font; type=font/woff2; crossorigin=anonymous,<https://www.demarches-simplifiees.fr/assets/Spectral-Regular-958694e3dd507d80daad1c521d500d4cf4173d0e59353cbe61afd6ba1c187228.ttf>; rel=preload; as=font; type=font/ttf; crossorigin=anonymous,</vite/assets/main-DH7FCxoF.css>; rel=preload; as=style; nopush,</assets/application-e1fbbf88d6c2febfd3dd5765f0ac3db498d55de389b086da674a844f554a7174.css>; rel=preload; as=style; nopush",
     "referrer-policy": "strict-origin-when-cross-origin",
     "server": "nginx",
-    "set-cookie": "_csrf_token=eyJfcmFpbHMiOnsibWVzc2FnZSI6IklqRndTSGxyWkZwbFIybFNlbWs0ZEdSNlZUbHdSREpSYm5sNk1HUjVkVTlXTlRWaGR6WlZiemN4WTNNaSIsImV4cCI6IjIwMjUtMTAtMTNUMDc6Mjk6MjUuODExWiIsInB1ciI6ImNvb2tpZS5fY3NyZl90b2tlbiJ9fQ%3D%3D--d110eaca9e63cfe9f0778c1de76036bb96dde1e2; path=/; expires=Mon, 13 Oct 2025 07:29:25 GMT; secure; HttpOnly; SameSite=Lax\n_DS_session=%2Fwezsd8Zgb9XoSoHIWPgfr9Urib%2B3m8YY26dUbvYd01GsvgD3n5Jky8SpkREkjwMpn7yHwAZQorRjYv3eBrDPV7LMUMbD4KddX9Q7W%2F6BaYnzvpVAr2u1rNjcNoaDzqpjmpKKFLgIGfB%2Fu6KOi8FDZauqzM%2FXF19JC679FZaCP%2BOxHsMgF%2F3MSlmKP4gqTZP1QGb%2BsTyriA9b3EBZMMTWh1RFUd9uqZNAknEnH09wtqf%2BLBF%2BIc%2Fx4ACS9LVwKRzDHw3UAznskuWJ6wbQYck%2F1H%2B0w%3D%3D--gej0K%2BtQ9ck3%2Buo8--8Wk0iBe5G%2BvcVc%2B0EhCBXA%3D%3D; path=/; secure; HttpOnly; SameSite=Lax",
+    "set-cookie": "_csrf_token=eyJfcmFpbHMiOnsibWVzc2FnZSI6IklrRlZabTVXU0Y5cU4zVk5TakZGVUhsdlRuY3dXa05TV0hWVU5YZE5OMGs1WjA1cGFXd3lXRU40Y2tVaSIsImV4cCI6IjIwMjUtMTAtMjBUMDc6MzU6NDUuMjU1WiIsInB1ciI6ImNvb2tpZS5fY3NyZl90b2tlbiJ9fQ%3D%3D--3b1f348fae4b6062606ccbfb767f4fc62a3f5e8f; path=/; expires=Mon, 20 Oct 2025 07:35:45 GMT; secure; HttpOnly; SameSite=Lax\n_DS_session=K4p9QYX7ZTVu1jPYPqj59p3KfU34JzHunuJZ5gpjU%2B%2FLGDPYLVYqnemHRIrBnsRMywbJ0ZJENa57qjpXxhdlOxaIEFr44K6%2FqY00mwhC1g843EEFteofZKRkbwfSiO1nxJ8SEa9TdssfG4EhfePHIHYCv8QJq0maRUWRdQ8CWBCMriwK9%2FmMHDcmn9hpH0W6G6k1muObKvBwEXi0egZDynrejzEiTfcTZlu9rbNKGfBONLSJB5bDgxmOyNblHnK%2FdI3leWX1rmVrdzHI4spUOmWfAg%3D%3D--fwx8EEaqEnsbQQhx--y%2BV2%2FhCpW2fufBf6Pe4o8Q%3D%3D; path=/; secure; HttpOnly; SameSite=Lax",
     "strict-transport-security": "max-age=63072000",
     "x-content-type-options": "nosniff",
     "x-download-options": "noopen",
     "x-frame-options": "SAMEORIGIN",
     "x-permitted-cross-domain-policies": "none",
-    "x-request-id": "36448f82-5bc4-46dd-ba79-a8ddefb8136e",
-    "x-runtime": "0.016459",
+    "x-request-id": "7476cca5-3581-4086-924c-32fc3e6cf8ee",
+    "x-runtime": "0.025658",
     "x-xss-protection": "0"
   },
   "endpoints": [
