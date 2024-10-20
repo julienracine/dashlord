@@ -2,7 +2,7 @@
   "trackers": [
     {
       "type": "unknown",
-      "url": "https://stonly.com/js/widget/v2/version?v=1728815356126"
+      "url": "https://stonly.com/js/widget/v2/version?v=1729420504547"
     },
     {
       "type": "crisp",
@@ -14,7 +14,7 @@
     },
     {
       "type": "unknown",
-      "url": "https://stonly.com/js/widget/v2/stonly-widget.js?v=2ad7ec90"
+      "url": "https://stonly.com/js/widget/v2/stonly-widget.js?v=a06dea4b"
     },
     {
       "type": "unknown",
@@ -30,6 +30,10 @@
     },
     {
       "type": "unknown",
+      "url": "https://api.stonly.com/api/v1/targeting/identify"
+    },
+    {
+      "type": "unknown",
       "url": "https://rlarzronkgoyvtdkltqy.supabase.co/rest/v1/ongoing_maintenance?select=*"
     },
     {
@@ -42,15 +46,19 @@
     },
     {
       "type": "unknown",
-      "url": "https://api.stonly.com/api/v1/targeting/identify"
+      "url": "https://api.stonly.com/api/v2/widget/integration?widgetId=1b1b2533-383c-11ef-a9d4-06cb0cb2a85e&stonlyAnonymousId=643ae3ef-980c-4c93-923b-795d01b2ab2b&url=https%3A%2F%2Fapp.territoiresentransitions.fr%2F"
     },
     {
       "type": "unknown",
-      "url": "https://api.stonly.com/api/v2/widget/integration?widgetId=1b1b2533-383c-11ef-a9d4-06cb0cb2a85e&stonlyAnonymousId=6bb1ed75-8294-48f3-b6de-731311e8ddcc&url=https%3A%2F%2Fapp.territoiresentransitions.fr%2F"
+      "url": "https://api.stonly.com/api/v2/widget/integration?widgetId=1b1b2533-383c-11ef-a9d4-06cb0cb2a85e&stonlyAnonymousId=643ae3ef-980c-4c93-923b-795d01b2ab2b&url=https%3A%2F%2Fapp.territoiresentransitions.fr%2F"
     },
     {
       "type": "unknown",
-      "url": "https://api.stonly.com/api/v2/widget/integration?widgetId=1b1b2533-383c-11ef-a9d4-06cb0cb2a85e&stonlyAnonymousId=6bb1ed75-8294-48f3-b6de-731311e8ddcc&url=https%3A%2F%2Fapp.territoiresentransitions.fr%2F"
+      "url": "https://api.stonly.com/api/v1/widget/triggerView"
+    },
+    {
+      "type": "unknown",
+      "url": "https://stonly.com/widget/en-US/jJtSxU8cdD/view/3870178?widgetRuleId=91621&accent=%236a6af4&placement=MODAL&widgetFormat=CLASSIC&widgetSizeType=MEDIUM&widgetId=1b1b2533-383c-11ef-a9d4-06cb0cb2a85e&stonlyAnonymousId=643ae3ef-980c-4c93-923b-795d01b2ab2b"
     },
     {
       "type": "unknown",
@@ -59,6 +67,86 @@
     {
       "type": "unknown",
       "url": "https://api.stonly.com/api/v1/stat"
+    },
+    {
+      "type": "unknown",
+      "url": "https://api.stonly.com/api/v1/widget/triggerView"
+    },
+    {
+      "type": "unknown",
+      "url": "https://api.stonly.com/api/v1/stat"
+    },
+    {
+      "type": "unknown",
+      "url": "https://api.stonly.com/api/v1/stat"
+    },
+    {
+      "type": "unknown",
+      "url": "https://stonly.com/widget/fr/jJtSxU8cdD/view/3870178?widgetRuleId=91621&accent=%236a6af4&placement=MODAL&widgetFormat=CLASSIC&widgetSizeType=MEDIUM&widgetId=1b1b2533-383c-11ef-a9d4-06cb0cb2a85e&stonlyAnonymousId=643ae3ef-980c-4c93-923b-795d01b2ab2b"
+    },
+    {
+      "type": "unknown",
+      "url": "https://stonly.com/static/css/Players-Explanation/Embed.90a88b13.chunk.css"
+    },
+    {
+      "type": "unknown",
+      "url": "https://media.stonly.com/media/images/bf831dc4-2f81-4807-9736-24aa0b83568b.png?s=cf886470e87a49d3799f87c05dba4a8dd11026f52329e78c7e38a5112c649727d74115c0994fb94f756c388d9fdd3f87aa0b4b27b45c72423224f2174646d25c5fe0dc7111b667a70754edc3feaf86d886bf61697c54753d66e2f2740fc9f887743fdfb9b04f64d7bc72481c7f9268e7&w=768&h=1536&auto=format&dpr=2"
+    },
+    {
+      "type": "unknown",
+      "url": "https://media.stonly.com/media/images/cb6fcb20-ce13-4454-895f-f047c6286f0e.png?s=cf886470e87a49d3799f87c05dba4a8dd11026f52329e78c7e38a5112c649727d74115c0994fb94f756c388d9fdd3f87aa0b4b27b45c72423224f2174646d25cfa26b9c1fbd3c950c6412b9ce183cdb56fae2061216b1f5d88f956d4c72f5234743fdfb9b04f64d7bc72481c7f9268e7&w=768&h=1536&auto=format&dpr=2"
+    },
+    {
+      "type": "unknown",
+      "url": "https://media.stonly.com/media/images/0861f212-ccf4-47bb-ae55-7c2c688fefe8.png?s=cf886470e87a49d3799f87c05dba4a8dd11026f52329e78c7e38a5112c649727d74115c0994fb94f756c388d9fdd3f87aa0b4b27b45c72423224f2174646d25c0a81fb5a7e3baf938ba9d310749eeb943ea804cab11d03b26e5942747907b226743fdfb9b04f64d7bc72481c7f9268e7&w=768&h=1536&auto=format&dpr=2"
+    },
+    {
+      "type": "unknown",
+      "url": "https://stonly.com/static/js/vendors~Auth-SSO~ErrorPages-Page404~Players-Explanation/Embed.e164f005.chunk.js"
+    },
+    {
+      "type": "unknown",
+      "url": "https://stonly.com/static/js/vendors~Auth-SSO~Players-Explanation/Embed.efbe1280.chunk.js"
+    },
+    {
+      "type": "unknown",
+      "url": "https://stonly.com/static/js/vendors~Players-Explanation/Embed.f4228d37.chunk.js"
+    },
+    {
+      "type": "unknown",
+      "url": "https://stonly.com/static/js/ErrorPages-Page404.ea84ee33.chunk.js"
+    },
+    {
+      "type": "unknown",
+      "url": "https://stonly.com/static/js/Players-Explanation/Embed.90a88b13.chunk.js"
+    },
+    {
+      "type": "unknown",
+      "url": "https://stonly.com/static/js/bundle.95678f6b.js"
+    },
+    {
+      "type": "unknown",
+      "url": "https://sentry.stonly.com/api/4/envelope/?sentry_key=c8f0e82290984834976ac2929b555c43&sentry_version=7"
+    },
+    {
+      "type": "unknown",
+      "url": "https://s.stonly.com/stonly-stat-id.html?widgetId=1b1b2533-383c-11ef-a9d4-06cb0cb2a85e&v=1.6"
+    },
+    {
+      "type": "unknown",
+      "url": "https://stonly.com/api/v1/auth/status"
+    },
+    {
+      "type": "unknown",
+      "url": "https://stonly.com/api/v1/guide?guideId=jJtSxU8cdD&context=view&language=fr&withKnowledgeBase=0&widgetId=1b1b2533-383c-11ef-a9d4-06cb0cb2a85e&stonlyAnonymousId=643ae3ef-980c-4c93-923b-795d01b2ab2b"
+    },
+    {
+      "type": "unknown",
+      "url": "https://stonly.com/api/v1/stat"
+    },
+    {
+      "type": "unknown",
+      "url": "https://stonly.com/api/v1/stat"
     }
   ],
   "cookies": [],
@@ -66,16 +154,16 @@
     "alt-svc": "h3=\":443\"; ma=86400",
     "cache-control": "public, max-age=0",
     "cf-cache-status": "DYNAMIC",
-    "cf-ray": "8d1ea5c3cee42edf-LAX",
+    "cf-ray": "8d585be8abac59da-IAD",
     "content-encoding": "br",
     "content-type": "text/html; charset=UTF-8",
-    "date": "Sun, 13 Oct 2024 10:29:16 GMT",
-    "etag": "W/\"fb5-192767495c8\"",
-    "last-modified": "Thu, 10 Oct 2024 12:43:25 GMT",
+    "date": "Sun, 20 Oct 2024 10:35:04 GMT",
+    "etag": "W/\"fb5-19295e323c0\"",
+    "last-modified": "Wed, 16 Oct 2024 15:12:24 GMT",
     "server": "cloudflare",
-    "x-envoy-upstream-service-time": "577",
-    "x-koyeb-backend": "par1",
-    "x-koyeb-glb": "par1",
+    "x-envoy-upstream-service-time": "81",
+    "x-koyeb-backend": "par",
+    "x-koyeb-glb": "was",
     "x-powered-by": "Express"
   },
   "endpoints": [
@@ -101,7 +189,7 @@
     },
     {
       "hostname": "stonly.com",
-      "ip": "3.168.147.52",
+      "ip": "3.167.56.60",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -175,7 +263,7 @@
     },
     {
       "hostname": "s.stonly.com",
-      "ip": "18.164.154.26",
+      "ip": "3.162.112.37",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -211,26 +299,6 @@
           "longitude": -97.822,
           "time_zone": "America/Chicago"
         },
-        "registered_country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
-          "names": {
-            "de": "USA",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
-          }
-        }
-      }
-    },
-    {
-      "hostname": "rlarzronkgoyvtdkltqy.supabase.co",
-      "ip": "172.64.149.246",
-      "geoip": {
         "registered_country": {
           "geoname_id": 6252001,
           "iso_code": "US",
@@ -339,6 +407,173 @@
               "en": "Paris",
               "es": "Paris",
               "fr": "Paris"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "hostname": "rlarzronkgoyvtdkltqy.supabase.co",
+      "ip": "104.18.38.10",
+      "geoip": {
+        "registered_country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "USA",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        }
+      }
+    },
+    {
+      "hostname": "media.stonly.com",
+      "ip": "99.84.208.61",
+      "geoip": {
+        "continent": {
+          "code": "NA",
+          "geoname_id": 6255149,
+          "names": {
+            "de": "Nordamerika",
+            "en": "North America",
+            "es": "Norteamérica",
+            "fr": "Amérique du Nord",
+            "ja": "北アメリカ",
+            "pt-BR": "América do Norte",
+            "ru": "Северная Америка",
+            "zh-CN": "北美洲"
+          }
+        },
+        "country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "USA",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        },
+        "location": {
+          "accuracy_radius": 1000,
+          "latitude": 37.751,
+          "longitude": -97.822,
+          "time_zone": "America/Chicago"
+        },
+        "registered_country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "USA",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        }
+      }
+    },
+    {
+      "hostname": "sentry.stonly.com",
+      "ip": "178.62.64.29",
+      "geoip": {
+        "city": {
+          "geoname_id": 2637627,
+          "names": {
+            "de": "Slough",
+            "en": "Slough",
+            "es": "Slough",
+            "fr": "Slough",
+            "ru": "Слау"
+          }
+        },
+        "continent": {
+          "code": "EU",
+          "geoname_id": 6255148,
+          "names": {
+            "de": "Europa",
+            "en": "Europe",
+            "es": "Europa",
+            "fr": "Europe",
+            "ja": "ヨーロッパ",
+            "pt-BR": "Europa",
+            "ru": "Европа",
+            "zh-CN": "欧洲"
+          }
+        },
+        "country": {
+          "geoname_id": 2635167,
+          "iso_code": "GB",
+          "names": {
+            "de": "UK",
+            "en": "United Kingdom",
+            "es": "Reino Unido",
+            "fr": "Royaume-Uni",
+            "ja": "英国",
+            "pt-BR": "Reino Unido",
+            "ru": "Британия",
+            "zh-CN": "英国"
+          }
+        },
+        "location": {
+          "accuracy_radius": 100,
+          "latitude": 51.5368,
+          "longitude": -0.6718,
+          "time_zone": "Europe/London"
+        },
+        "postal": {
+          "code": "SL1"
+        },
+        "registered_country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "USA",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        },
+        "subdivisions": [
+          {
+            "geoname_id": 6269131,
+            "iso_code": "ENG",
+            "names": {
+              "de": "England",
+              "en": "England",
+              "es": "Inglaterra",
+              "fr": "Angleterre",
+              "ja": "イングランド",
+              "pt-BR": "Inglaterra",
+              "ru": "Англия",
+              "zh-CN": "英格兰"
+            }
+          },
+          {
+            "geoname_id": 3333194,
+            "iso_code": "SLG",
+            "names": {
+              "en": "Slough",
+              "ja": "スラウ",
+              "ru": "Слау",
+              "zh-CN": "斯劳"
             }
           }
         ]
