@@ -1,4 +1,4 @@
-# Nmap 7.92 scan initiated Sun Oct 13 10:23:23 2024 as: nmap -sV --script vulners --script-args mincvss=5.0 -oA /data/nmapvuln territoiresentransitions.fr
-Host: 104.22.78.190 ()	Status: Up
-Host: 104.22.78.190 ()	Ports: 80/open/tcp//http//Cloudflare http proxy/, 443/open/tcp//ssl|http//Cloudflare http proxy/, 8080/open/tcp//http//Cloudflare http proxy/, 8443/open/tcp//ssl|http//Cloudflare http proxy/	Ignored State: filtered (996)
-# Nmap done at Sun Oct 13 10:23:40 2024 -- 1 IP address (1 host up) scanned in 17.34 seconds
+# Nmap 7.92 scan initiated Sun Oct 20 10:36:03 2024 as: nmap -sV --script vulners --script-args mincvss=5.0 -oA /data/nmapvuln territoiresentransitions.fr
+Host: 104.22.79.190 ()	Status: Up
+Host: 104.22.79.190 ()	Ports: 80/open/tcp//http//Cloudflare http proxy/, 443/open/tcp//ssl|http//Cloudflare http proxy/, 8080/open/tcp//http//Cloudflare http proxy/, 8443/open/tcp//ssl|http//Cloudflare http proxy/	Ignored State: filtered (996)
+# Nmap done at Sun Oct 20 10:36:21 2024 -- 1 IP address (1 host up) scanned in 17.55 seconds
