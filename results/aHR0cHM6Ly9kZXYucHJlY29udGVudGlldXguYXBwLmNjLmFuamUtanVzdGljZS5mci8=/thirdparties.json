@@ -1,17 +1,26 @@
 {
-  "trackers": [],
+  "trackers": [
+    {
+      "type": "jsdelivr",
+      "url": "https://cdn.jsdelivr.net/npm/css-vars-ponyfill@2",
+      "details": {
+        "id": "jsdelivr",
+        "message": "Host files locally"
+      }
+    }
+  ],
   "cookies": [],
   "headers": {
     "cache-control": "max-age=0, must-revalidate, private",
     "connection": "Keep-Alive",
     "content-encoding": "gzip",
-    "content-length": "6181",
+    "content-length": "6580",
     "content-type": "text/html; charset=UTF-8",
-    "date": "Sun, 13 Oct 2024 14:35:17 GMT",
-    "expires": "Sun, 13 Oct 2024 14:35:17 GMT",
+    "date": "Sun, 20 Oct 2024 15:02:48 GMT",
+    "expires": "Sun, 20 Oct 2024 15:02:48 GMT",
     "keep-alive": "timeout=5, max=100",
     "server": "Apache",
-    "sozu-id": "01JA34W56CZRP3YCT5BBWSSSBN",
+    "sozu-id": "01JAN77KAAF98B5GNC7KSKH8P3",
     "vary": "Accept-Encoding"
   },
   "endpoints": [
@@ -67,6 +76,26 @@
             "pt-BR": "França",
             "ru": "Франция",
             "zh-CN": "法国"
+          }
+        }
+      }
+    },
+    {
+      "hostname": "cdn.jsdelivr.net",
+      "ip": "104.18.186.31",
+      "geoip": {
+        "registered_country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "USA",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
           }
         }
       }
