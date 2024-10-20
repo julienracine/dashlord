@@ -4,14 +4,14 @@
   "headers": {
     "content-encoding": "identity",
     "content-type": "text/html",
-    "date": "Sun, 13 Oct 2024 11:25:00 GMT",
+    "date": "Sun, 20 Oct 2024 11:32:24 GMT",
     "strict-transport-security": "max-age=31536000",
-    "x-request-id": "12a4e6c3-fb16-411a-92d1-51c884091f21"
+    "x-request-id": "49120648-236d-42a2-86f8-3cb2103a7f3d"
   },
   "endpoints": [
     {
       "hostname": "mfc-web-dev.osc-secnum-fr1.scalingo.io",
-      "ip": "148.253.96.193",
+      "ip": "80.247.13.145",
       "geoip": {
         "continent": {
           "code": "EU",
