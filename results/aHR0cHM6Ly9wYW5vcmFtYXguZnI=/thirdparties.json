@@ -22,7 +22,7 @@
     },
     {
       "type": "unknown",
-      "url": "https://matomo.panoramax.xyz//matomo.php?action_name=L%E2%80%99alternative%20libre%20pour%20photo-cartographier%20les%20territoires&idsite=2&rec=1&r=633401&h=12&m=52&s=6&url=https%3A%2F%2Fpanoramax.fr%2F&_id=1f680f98d448e1cb&_idn=1&send_image=0&_refts=0&pv_id=rtyK8Q&pf_net=173&pf_srv=190&pf_tfr=1&pf_dm1=5&uadata=%7B%22fullVersionList%22%3A%5B%5D%2C%22mobile%22%3Afalse%2C%22model%22%3A%22%22%2C%22platform%22%3A%22%22%2C%22platformVersion%22%3A%22%22%7D&cookie=1&res=800x600"
+      "url": "https://matomo.panoramax.xyz//matomo.php?action_name=L%E2%80%99alternative%20libre%20pour%20photo-cartographier%20les%20territoires&idsite=2&rec=1&r=023192&h=13&m=9&s=30&url=https%3A%2F%2Fpanoramax.fr%2F&_id=565699caa77ad944&_idn=1&send_image=0&_refts=0&pv_id=3LzD4A&pf_net=60&pf_srv=74&pf_tfr=1&pf_dm1=6&uadata=%7B%22fullVersionList%22%3A%5B%5D%2C%22mobile%22%3Afalse%2C%22model%22%3A%22%22%2C%22platform%22%3A%22%22%2C%22platformVersion%22%3A%22%22%7D&cookie=1&res=800x600"
     },
     {
       "type": "unknown",
@@ -111,6 +111,10 @@
     {
       "type": "unknown",
       "url": "https://tile-vect.openstreetmap.fr/fonts/Noto%20Sans%20Regular/0-255.pbf"
+    },
+    {
+      "type": "unknown",
+      "url": "https://api.panoramax.xyz/api/collections/a09470ab-e33f-4156-a8be-5bb60ec6b390/items/c15833fb-9bb3-44a8-813e-bef2ed552d14"
     }
   ],
   "cookies": [
@@ -119,7 +123,7 @@
       "value": "1",
       "domain": "panoramax.fr",
       "path": "/",
-      "expires": 1728825726,
+      "expires": 1729431570,
       "size": 15,
       "httpOnly": false,
       "secure": false,
@@ -131,10 +135,10 @@
     },
     {
       "name": "_pk_id.2.8046",
-      "value": "1f680f98d448e1cb.1728823926.",
+      "value": "565699caa77ad944.1729429771.",
       "domain": "panoramax.fr",
       "path": "/",
-      "expires": 1762779126,
+      "expires": 1763384971,
       "size": 41,
       "httpOnly": false,
       "secure": false,
@@ -149,9 +153,9 @@
     "cache-control": "max-age=600",
     "content-length": "1352",
     "content-type": "text/html; charset=utf-8",
-    "date": "Sun, 13 Oct 2024 12:52:04 GMT",
+    "date": "Sun, 20 Oct 2024 13:09:29 GMT",
     "etag": "\"2d4b2d2a98f5669cd15924e9e39189af3221624d56ea24f235cdc5ee1e9c1191\"",
-    "expires": "Sun, 13 Oct 2024 13:02:04 UTC",
+    "expires": "Sun, 20 Oct 2024 13:19:29 UTC",
     "last-modified": "Tue, 17 Sep 2024 13:35:10 GMT",
     "permissions-policy": "interest-cohort=()",
     "vary": "Origin"
