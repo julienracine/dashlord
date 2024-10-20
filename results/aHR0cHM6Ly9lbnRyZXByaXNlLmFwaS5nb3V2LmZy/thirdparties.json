@@ -87,7 +87,7 @@
       "value": "1",
       "domain": "entreprise.api.gouv.fr",
       "path": "/",
-      "expires": 1728793060,
+      "expires": 1729398278,
       "size": 16,
       "httpOnly": false,
       "secure": false,
@@ -99,10 +99,10 @@
     },
     {
       "name": "_pk_id.45.28f1",
-      "value": "b74e3bfe53607a12.1728791260.",
+      "value": "d0b2d96d8a7443d4.1729396479.",
       "domain": "entreprise.api.gouv.fr",
       "path": "/",
-      "expires": 1762746460,
+      "expires": 1763351679,
       "size": 42,
       "httpOnly": false,
       "secure": false,
@@ -114,7 +114,7 @@
     },
     {
       "name": "_admin_apientreprise_session",
-      "value": "bz2tuv86BVINTv6gUl%2FyA9VjNbhtHUIe7PloqwLcsbfH7BuECRVnBOPMWAtGsygCgZJ%2BlfEzBqaToBGRn37%2B00OEsqQKNN1IaWh%2F%2BAlfTHamz9%2F7oMLEmyZrfUvaHGFVv5VUPiYsu6t93FfEprCBhhmvYfVfeeVa%2B1THsUJv1iCoB3380Axb1UoIU3G0NJg6zUvQZ5kJDTszBdsn8L73%2BovBkj2HCH65RzKFCcITgDzK7d6%2Bie7ICDhKoHLv8fNybOxH7nUXjYcTy7uBNH0r2QLfKhNvB5Rg8pbFOaKd38lPZoAW--WRx2DkFfBeU4cFBP--vkJkd9ecItunraVrtQWYGQ%3D%3D",
+      "value": "fgHumGnUP1nFeO7dBviiIc%2Fuw7on8rzAzJ9z6LKSHvGcMFOwv2c87konD2255OiO5oevbmfBGTnlR39iyir0dhCD2PaoV3DYsXMVdUFRZmFdyQie%2FB2AY30KFTF9eDtKlfxT1WLGMVd57trLbcd4HSaphGC2xOeKM8FFWYtDygoJ%2BshpF%2BjYaMqsKIF0jlKA6b0MaARlpqn6KXGR78ESceVTaNuQnWXx0qnfXAKmgAks%2BDBSFXChBn6ygwz%2Fr42gVlTnK7UnzOCIah%2FVcly6LqB6VKHNOQVaaeAIQ3kFL1fjRvNk--AS9NOLs%2FsZLlox0g--VHhNCKDs1w5Zesjg%2FyTRJw%3D%3D",
       "domain": "entreprise.api.gouv.fr",
       "path": "/",
       "expires": -1,
@@ -130,22 +130,22 @@
   ],
   "headers": {
     "connection": "keep-alive",
-    "content-length": "49341",
+    "content-length": "49266",
     "content-type": "text/html; charset=utf-8",
-    "date": "Sun, 13 Oct 2024 03:47:39 GMT",
+    "date": "Sun, 20 Oct 2024 03:54:37 GMT",
     "server": "nginx",
     "strict-transport-security": "max-age=63072000",
     "cache-control": "max-age=0, private, must-revalidate",
-    "etag": "W/\"34cc87e385e150ff8e263cc4f8b8431c\"",
+    "etag": "W/\"2a49c12880c0c84dee2ef19783cde2f0\"",
     "link": "</assets/api_entreprise-7ffac7e86e0ca3664c5f2d38f24c5237e032de0c4cd48f30fda19001d90dbdcd.css>; rel=preload; as=style; nopush,</assets/api_entreprise-f1c38127d41d397825b021039e616a7c5331491084c8184c198f432417f600b8.js>; rel=preload; as=script; nopush,</assets/turbo-8b77232adadeefbcf302ffbec6078486a9b0bf62de4026e9816ef85aeb35dcd0.js>; rel=modulepreload; as=script; nopush",
     "referrer-policy": "strict-origin-when-cross-origin",
-    "set-cookie": "_admin_apientreprise_session=bz2tuv86BVINTv6gUl%2FyA9VjNbhtHUIe7PloqwLcsbfH7BuECRVnBOPMWAtGsygCgZJ%2BlfEzBqaToBGRn37%2B00OEsqQKNN1IaWh%2F%2BAlfTHamz9%2F7oMLEmyZrfUvaHGFVv5VUPiYsu6t93FfEprCBhhmvYfVfeeVa%2B1THsUJv1iCoB3380Axb1UoIU3G0NJg6zUvQZ5kJDTszBdsn8L73%2BovBkj2HCH65RzKFCcITgDzK7d6%2Bie7ICDhKoHLv8fNybOxH7nUXjYcTy7uBNH0r2QLfKhNvB5Rg8pbFOaKd38lPZoAW--WRx2DkFfBeU4cFBP--vkJkd9ecItunraVrtQWYGQ%3D%3D; path=/; secure; httponly; samesite=lax",
+    "set-cookie": "_admin_apientreprise_session=fgHumGnUP1nFeO7dBviiIc%2Fuw7on8rzAzJ9z6LKSHvGcMFOwv2c87konD2255OiO5oevbmfBGTnlR39iyir0dhCD2PaoV3DYsXMVdUFRZmFdyQie%2FB2AY30KFTF9eDtKlfxT1WLGMVd57trLbcd4HSaphGC2xOeKM8FFWYtDygoJ%2BshpF%2BjYaMqsKIF0jlKA6b0MaARlpqn6KXGR78ESceVTaNuQnWXx0qnfXAKmgAks%2BDBSFXChBn6ygwz%2Fr42gVlTnK7UnzOCIah%2FVcly6LqB6VKHNOQVaaeAIQ3kFL1fjRvNk--AS9NOLs%2FsZLlox0g--VHhNCKDs1w5Zesjg%2FyTRJw%3D%3D; path=/; secure; httponly; samesite=lax",
     "vary": "Origin",
     "x-content-type-options": "nosniff",
     "x-frame-options": "SAMEORIGIN",
     "x-permitted-cross-domain-policies": "none",
-    "x-request-id": "280371ef-49f1-4957-acac-d21a92929c33",
-    "x-runtime": "0.130767",
+    "x-request-id": "08b93710-b326-400e-8e79-b9e06b440f2c",
+    "x-runtime": "0.126706",
     "x-xss-protection": "0"
   },
   "endpoints": [
@@ -207,8 +207,59 @@
     },
     {
       "hostname": "cdn.jsdelivr.net",
-      "ip": "104.18.187.31",
+      "ip": "146.75.77.229",
       "geoip": {
+        "city": {
+          "geoname_id": 4887398,
+          "names": {
+            "de": "Chicago",
+            "en": "Chicago",
+            "es": "Chicago",
+            "fr": "Chicago",
+            "ja": "シカゴ",
+            "pt-BR": "Chicago",
+            "ru": "Чикаго",
+            "zh-CN": "芝加哥"
+          }
+        },
+        "continent": {
+          "code": "NA",
+          "geoname_id": 6255149,
+          "names": {
+            "de": "Nordamerika",
+            "en": "North America",
+            "es": "Norteamérica",
+            "fr": "Amérique du Nord",
+            "ja": "北アメリカ",
+            "pt-BR": "América do Norte",
+            "ru": "Северная Америка",
+            "zh-CN": "北美洲"
+          }
+        },
+        "country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "USA",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        },
+        "location": {
+          "accuracy_radius": 20,
+          "latitude": 41.8874,
+          "longitude": -87.6318,
+          "metro_code": 602,
+          "time_zone": "America/Chicago"
+        },
+        "postal": {
+          "code": "60602"
+        },
         "registered_country": {
           "geoname_id": 6252001,
           "iso_code": "US",
@@ -222,12 +273,28 @@
             "ru": "США",
             "zh-CN": "美国"
           }
-        }
+        },
+        "subdivisions": [
+          {
+            "geoname_id": 4896861,
+            "iso_code": "IL",
+            "names": {
+              "de": "Illinois",
+              "en": "Illinois",
+              "es": "Illinois",
+              "fr": "Illinois",
+              "ja": "イリノイ州",
+              "pt-BR": "Ilinóis",
+              "ru": "Иллинойс",
+              "zh-CN": "伊利诺伊州"
+            }
+          }
+        ]
       }
     },
     {
       "hostname": "unpkg.com",
-      "ip": "104.17.245.203",
+      "ip": "104.17.246.203",
       "geoip": {
         "registered_country": {
           "geoname_id": 6252001,
@@ -333,7 +400,7 @@
     },
     {
       "hostname": "hyperping.io",
-      "ip": "104.21.70.54",
+      "ip": "172.67.220.110",
       "geoip": {
         "registered_country": {
           "geoname_id": 6252001,
