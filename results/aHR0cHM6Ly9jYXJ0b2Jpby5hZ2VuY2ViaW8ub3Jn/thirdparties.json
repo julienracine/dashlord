@@ -5,22 +5,22 @@
     "alt-svc": "h3=\":443\"; ma=86400",
     "cache-control": "no-cache",
     "cf-cache-status": "DYNAMIC",
-    "cf-ray": "8d1bf266ae01607d-ORD",
+    "cf-ray": "8d55a76ee913115c-ORD",
     "content-encoding": "br",
     "content-type": "text/html; charset=utf-8",
-    "date": "Sun, 13 Oct 2024 02:37:17 GMT",
+    "date": "Sun, 20 Oct 2024 02:42:20 GMT",
     "expires": "Thu, 01 Jan 1970 00:00:01 GMT",
     "last-modified": "Mon, 30 Sep 2024 07:13:58 GMT",
     "nel": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}",
-    "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=d4BRJpa9MZzli4I%2FgPvXnUtfHGurx6Hm0BIMzq24WgKgStLJteVHH%2FGOvdHt8fb81kx%2B%2FnGO4V6JZJJyAgBQfvYE5losnVPjcHCaDLWJSGrHKZR5RqryGAFxsSvZMdIH9B0MU1o060sB\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
+    "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=nM94Alk6dP7xRXIDcJ0Vrcc8jN1xjWC1TpKXGklJ0rzFUNQ%2FAgBH5V1r7nFb7F1VsWIMfQY5j2ccJb4i1CPQwmNuocAKAwu5QJ1VZfrZTl5M0j8rUGbkWYlUqxvXxUxCSJNMhMZCGVlO\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
     "server": "cloudflare",
-    "speculation-rules": "\"/cdn-cgi/speculation\"",
+    "server-timing": "cfL4;desc=\"?proto=TCP&rtt=1704&sent=6&recv=8&lost=0&retrans=0&sent_bytes=2818&recv_bytes=1063&delivery_rate=1811033&cwnd=247&unsent_bytes=0&cid=ef1791d13be1849c&ts=123&x=0\"",
     "vary": "Accept-Encoding"
   },
   "endpoints": [
     {
       "hostname": "cartobio.agencebio.org",
-      "ip": "172.67.210.31",
+      "ip": "104.21.16.54",
       "geoip": {
         "registered_country": {
           "geoname_id": 6252001,
