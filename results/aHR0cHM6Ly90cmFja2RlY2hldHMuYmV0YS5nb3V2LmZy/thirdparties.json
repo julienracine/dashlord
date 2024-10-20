@@ -3,10 +3,10 @@
   "cookies": [
     {
       "name": "csrftoken",
-      "value": "iPEB3uhMDSfWMMtmQOQ3xI6JGpeIDbaa",
+      "value": "GuyawvbkCdiKgtao0PWV4dOip4QEfTB1",
       "domain": "trackdechets.beta.gouv.fr",
       "path": "/",
-      "expires": 1760252009.853611,
+      "expires": 1760856769.416128,
       "size": 41,
       "httpOnly": false,
       "secure": false,
@@ -19,23 +19,23 @@
   ],
   "headers": {
     "content-encoding": "gzip",
-    "content-security-policy": "script-src 'self' 'unsafe-inline' static/; default-src 'self' trackdechets.beta.gouv.fr/ blob:; style-src 'self' 'unsafe-inline' static/; frame-src 'self' https://statistiques.trackdechets.beta.gouv.fr; img-src 'self' data: static/; connect-src 'self'; font-src 'self' data: static/",
+    "content-security-policy": "img-src 'self' data: static/; script-src 'self' 'unsafe-inline' static/; frame-src 'self' https://statistiques.trackdechets.beta.gouv.fr; font-src 'self' data: static/; style-src 'self' 'unsafe-inline' static/; connect-src 'self'; default-src 'self' trackdechets.beta.gouv.fr/ blob:",
     "content-type": "text/html; charset=utf-8",
     "cross-origin-opener-policy": "same-origin",
-    "date": "Sun, 13 Oct 2024 06:53:29 GMT",
+    "date": "Sun, 20 Oct 2024 06:52:49 GMT",
     "permissions-policy": "accelerometer=(), ambient-light-sensor=(), autoplay=(), camera=(), display-capture=(), document-domain=(), encrypted-media=(), fullscreen=(), geolocation=(), gyroscope=(), interest-cohort=(), magnetometer=(), microphone=(), midi=(), payment=(), usb=()",
     "referrer-policy": "same-origin",
-    "set-cookie": "csrftoken=iPEB3uhMDSfWMMtmQOQ3xI6JGpeIDbaa; expires=Sun, 12 Oct 2025 06:53:29 GMT; Max-Age=31449600; Path=/; SameSite=Lax",
+    "set-cookie": "csrftoken=GuyawvbkCdiKgtao0PWV4dOip4QEfTB1; expires=Sun, 19 Oct 2025 06:52:49 GMT; Max-Age=31449600; Path=/; SameSite=Lax",
     "strict-transport-security": "max-age=15768000; includeSubDomains; preload",
     "vary": "Cookie, origin",
     "x-content-type-options": "nosniff",
     "x-frame-options": "DENY",
-    "x-request-id": "e8b21cbe-a140-448f-9dad-d5ac3023657d"
+    "x-request-id": "343e3bc6-2d43-4461-ae9f-abe65fde9534"
   },
   "endpoints": [
     {
       "hostname": "trackdechets.beta.gouv.fr",
-      "ip": "109.232.236.90",
+      "ip": "5.104.101.30",
       "geoip": {
         "continent": {
           "code": "EU",
