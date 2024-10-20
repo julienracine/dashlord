@@ -20,14 +20,15 @@
   "cookies": [
     {
       "name": "bln_challengejs",
-      "value": "Z9O_m85u6jp-2Krfbp1TOpw74ZalG4YdpGXAbQ9ZYpmMKGFawC-NcvJgtdGclj1TRM7RTbIlhViKnUJA_ddHla59W8uRcKk7HKr0y5RVbWPy3k7XN4SdXJ31z_oO4kRh-PFBao6doMx-25avqvMeb-uLt3HA9uV0Ft6rdicge1ShofJ-GD7l2AnBUXWt7C5AICb8KjFJItLBaONXr7tyLIGmVUQcnozkJAbZWZUPn8lPai7GKxs0cMl4zirveiX2",
+      "value": "O_FiLGf-CcCCpXCzt9J96U7mGVaZe9N9jiLohbYSjopLhcf8egIczqq3TH6OrvOELfZWtsladwhV3nZPpKt61j5fq2G0rfBlERkPYG7mM49N41E8DRZY-KP-gHnwCRu5N97Wg_cBg_KkT1QXTfhRJp0f14aGMchqiJsrT2tQ-PnWwKjpwfXsynvGZ59amXUL26ieugjyIpjDGmiUw8ScmQBrPx_1-PdeC_gdTpjzjKqhcoejzO0XWQqfLTwq3NODH9_uoyXDCr7dkvCWAiPFZycBCm-_6kVIhUtn8YHfIgNH8DWKr4rg1gMtWmVUINKr",
       "domain": ".snu.gouv.fr",
       "path": "/",
-      "expires": 1728806342.950047,
-      "size": 271,
+      "expires": 1729411441.915072,
+      "size": 335,
       "httpOnly": false,
-      "secure": false,
+      "secure": true,
       "session": false,
+      "sameSite": "None",
       "sameParty": false,
       "sourceScheme": "Secure",
       "sourcePort": 443
@@ -36,11 +37,11 @@
   "headers": {
     "content-encoding": "gzip",
     "content-type": "text/html",
-    "date": "Sun, 13 Oct 2024 07:44:03 GMT",
-    "etag": "W/\"67095788-c4c\"",
-    "last-modified": "Fri, 11 Oct 2024 16:51:20 GMT",
+    "date": "Sun, 20 Oct 2024 07:49:01 GMT",
+    "etag": "W/\"67123359-c4c\"",
+    "last-modified": "Fri, 18 Oct 2024 10:07:21 GMT",
     "referrer-policy": ": no-referrer",
-    "sozu-id": "01JA2DADVFCQQ012M0HYD7Y138",
+    "sozu-id": "01JAMECG5CQKR51HTG9HR2Z7QH",
     "strict-transport-security": ": max-age=31536000; includeSubDomains; preload",
     "x-content-type-options": ": nosniff",
     "x-download-options": ": noopen",
@@ -106,7 +107,7 @@
     },
     {
       "hostname": "fonts.googleapis.com",
-      "ip": "142.251.16.95",
+      "ip": "142.251.179.95",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -278,7 +279,7 @@
           }
         },
         "location": {
-          "accuracy_radius": 500,
+          "accuracy_radius": 1000,
           "latitude": 48.8582,
           "longitude": 2.3387,
           "time_zone": "Europe/Paris"
