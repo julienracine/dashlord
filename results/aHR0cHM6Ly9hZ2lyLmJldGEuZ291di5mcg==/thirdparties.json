@@ -15,7 +15,7 @@
       "value": "1",
       "domain": "jagis.beta.gouv.fr",
       "path": "/",
-      "expires": 1728829188,
+      "expires": 1729434841,
       "size": 16,
       "httpOnly": false,
       "secure": false,
@@ -27,10 +27,10 @@
     },
     {
       "name": "_pk_id.40.d1c7",
-      "value": "826a2d787341970e.1728827388.",
+      "value": "b4a65d263654acdc.1729433042.",
       "domain": "jagis.beta.gouv.fr",
       "path": "/",
-      "expires": 1762782588,
+      "expires": 1763388242,
       "size": 42,
       "httpOnly": false,
       "secure": false,
@@ -44,12 +44,12 @@
   "headers": {
     "content-encoding": "gzip",
     "content-type": "text/html; charset=utf-8",
-    "date": "Sun, 13 Oct 2024 13:49:46 GMT",
-    "etag": "W/\"67065836-228\"",
-    "last-modified": "Wed, 09 Oct 2024 10:17:26 GMT",
+    "date": "Sun, 20 Oct 2024 14:04:00 GMT",
+    "etag": "W/\"670f88e7-2b7\"",
+    "last-modified": "Wed, 16 Oct 2024 09:35:35 GMT",
     "strict-transport-security": "max-age=31536000",
     "vary": "Accept-Encoding",
-    "x-request-id": "ece9135c-32db-4f36-9fc9-0046745e669c"
+    "x-request-id": "d28cb001-cd92-4f02-89d3-1e0ae02a6bde"
   },
   "endpoints": [
     {
@@ -110,7 +110,7 @@
     },
     {
       "hostname": "static.hotjar.com",
-      "ip": "18.160.41.49",
+      "ip": "18.160.41.58",
       "geoip": {
         "continent": {
           "code": "NA",
