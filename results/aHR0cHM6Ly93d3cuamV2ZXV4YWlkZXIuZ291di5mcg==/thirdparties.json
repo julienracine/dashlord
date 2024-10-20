@@ -46,10 +46,6 @@
     },
     {
       "type": "unknown",
-      "url": "https://gqlg3qh7po-dsn.algolia.net/1/indexes/prod_scalingo_covid_missions/query?x-algolia-agent=Algolia%20for%20JavaScript%20(4.24.0)%3B%20Browser"
-    },
-    {
-      "type": "unknown",
       "url": "https://static.axept.io/sdk.js"
     },
     {
@@ -58,34 +54,39 @@
     },
     {
       "type": "unknown",
-      "url": "https://jeveuxaider.fra1.digitaloceanspaces.com/public/production/30331/responsive/ntYcHt7wuT6QRsqf7QiO5JnMO7xIR6___card_600_286.webp?v=1674642755"
+      "url": "https://gqlg3qh7po-dsn.algolia.net/1/indexes/prod_scalingo_covid_missions/query?x-algolia-agent=Algolia%20for%20JavaScript%20(4.24.0)%3B%20Browser"
     },
     {
       "type": "unknown",
       "url": "https://client.axept.io/pack/fr"
+    },
+    {
+      "type": "unknown",
+      "url": "https://jeveuxaider.fra1.digitaloceanspaces.com/public/production/30331/responsive/ntYcHt7wuT6QRsqf7QiO5JnMO7xIR6___card_600_286.webp?v=1674642755"
     }
   ],
   "cookies": [],
   "headers": {
+    "alt-svc": "h3=\":443\"; ma=86400",
     "cache-control": "max-age=300\npublic, no-transform",
     "cf-cache-status": "DYNAMIC",
-    "cf-ray": "8d1dbda5b93b7f9a-IAD",
+    "cf-ray": "8d5771157f7a3818-IAD",
     "content-encoding": "br",
-    "content-length": "48053",
+    "content-length": "48039",
     "content-type": "text/html;charset=utf-8",
-    "date": "Sun, 13 Oct 2024 07:50:48 GMT",
-    "expires": "Sun, 13 Oct 2024 07:55:48 GMT",
+    "date": "Sun, 20 Oct 2024 07:54:46 GMT",
+    "expires": "Sun, 20 Oct 2024 07:59:46 GMT",
     "server": "cloudflare",
     "server-timing": "cfCacheStatus;desc=\"DYNAMIC\"",
     "strict-transport-security": "max-age=31536000",
     "vary": "Accept-Encoding",
     "x-powered-by": "Nuxt",
-    "x-request-id": "bfeb6df0-606d-4223-8c6e-1e96ad080d0d\nbfeb6df0-606d-4223-8c6e-1e96ad080d0d"
+    "x-request-id": "34cae707-f783-4220-89f5-0d28a4a43550\n34cae707-f783-4220-89f5-0d28a4a43550"
   },
   "endpoints": [
     {
       "hostname": "www.jeveuxaider.gouv.fr",
-      "ip": "104.22.77.85",
+      "ip": "104.22.76.85",
       "geoip": {
         "registered_country": {
           "geoname_id": 6252001,
@@ -192,7 +193,7 @@
     },
     {
       "hostname": "www.googletagmanager.com",
-      "ip": "142.251.16.97",
+      "ip": "64.233.180.97",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -388,7 +389,7 @@
     },
     {
       "hostname": "static.axept.io",
-      "ip": "3.167.112.37",
+      "ip": "3.167.112.56",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -442,7 +443,7 @@
     },
     {
       "hostname": "client.axept.io",
-      "ip": "18.160.18.115",
+      "ip": "18.160.18.86",
       "geoip": {
         "continent": {
           "code": "NA",
