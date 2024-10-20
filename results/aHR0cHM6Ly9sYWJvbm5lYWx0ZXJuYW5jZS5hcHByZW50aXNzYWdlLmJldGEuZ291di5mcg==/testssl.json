@@ -352,8 +352,8 @@
               "id"           : "cert_expirationStatus",
               "ip"           : "labonnealternance.apprentissage.beta.gouv.fr/149.202.54.205",
               "port"         : "443",
-              "severity"     : "OK",
-              "finding"      : "35 >= 30 days"
+              "severity"     : "MEDIUM",
+              "finding"      : "expires < 30 days (28)"
           }
 ,         {
               "id"           : "cert_notBefore",
@@ -366,7 +366,7 @@
               "id"           : "cert_notAfter",
               "ip"           : "labonnealternance.apprentissage.beta.gouv.fr/149.202.54.205",
               "port"         : "443",
-              "severity"     : "OK",
+              "severity"     : "MEDIUM",
               "finding"      : "2024-11-18 02:31"
           }
 ,         {
@@ -507,14 +507,14 @@
               "ip"           : "labonnealternance.apprentissage.beta.gouv.fr/149.202.54.205",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "0 seconds from localtime"
+              "finding"      : "-1 seconds from localtime"
           }
 ,         {
               "id"           : "HTTP_headerTime",
               "ip"           : "labonnealternance.apprentissage.beta.gouv.fr/149.202.54.205",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1728817158"
+              "finding"      : "1729422398"
           }
 ,         {
               "id"           : "HSTS_multiple",
@@ -599,13 +599,6 @@
               "port"         : "443",
               "severity"     : "OK",
               "finding"      : "default-src 'self'; base-uri 'self' https://stats.beta.gouv.fr; script-src 'self' 'unsafe-inline' https://plausible.io http://localhost:3000 https://stats.beta.gouv.fr https://stats.data.gouv.fr blob:; script-src-attr 'none'; connect-src 'self' https://catalogue-apprentissage.intercariforef.org https://api-adresse.data.gouv.fr https://api.mapbox.com https://stats.beta.gouv.fr https://stats.data.gouv.fr https://events.mapbox.com https://plausible.io http://localhost:5000 https://exposition-recette.inserjeunes.beta.gouv.fr https://exposition.inserjeunes.beta.gouv.fr https://sentry.apprentissage.beta.gouv.fr https://recherche-entreprises.api.gouv.fr ; img-src 'self' data: blob: https://www.notion.so https://www.google.com https://www.google.fr https://stats.beta.gouv.fr; object-src 'self' data:; font-src 'self' https: data:; style-src 'self' https: 'unsafe-inline'; frame-src 'self' https://plausible.io; child-src 'self' blob:; block-all-mixed-content; upgrade-insecure-requests; frame-ancestors 'none';"
-          }
-,         {
-              "id"           : "X-XSS-Protection",
-              "ip"           : "labonnealternance.apprentissage.beta.gouv.fr/149.202.54.205",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "1"
           }
 ,         {
               "id"           : "Referrer-Policy_multiple",
@@ -1126,6 +1119,6 @@
               "ip"           : "labonnealternance.apprentissage.beta.gouv.fr/149.202.54.205",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "53"
+              "finding"      : "104"
           }
 ]
