@@ -1,4 +1,4 @@
-# Nmap 7.92 scan initiated Sun Oct 13 05:19:40 2024 as: nmap -sV --script vulners --script-args mincvss=5.0 -oA /data/nmapvuln nosgestesclimat.fr
+# Nmap 7.92 scan initiated Sun Oct 20 05:25:10 2024 as: nmap -sV --script vulners --script-args mincvss=5.0 -oA /data/nmapvuln nosgestesclimat.fr
 Host: 76.76.21.21 ()	Status: Up
 Host: 76.76.21.21 ()	Ports: 80/open/tcp//http//Vercel/, 443/open/tcp//ssl|https//Vercel/	Ignored State: filtered (998)
-# Nmap done at Sun Oct 13 05:21:27 2024 -- 1 IP address (1 host up) scanned in 107.25 seconds
+# Nmap done at Sun Oct 20 05:26:56 2024 -- 1 IP address (1 host up) scanned in 106.13 seconds
