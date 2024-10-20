@@ -28,14 +28,15 @@
   "cookies": [
     {
       "name": "bln_challengejs",
-      "value": "IEkhQYSoPEgPFLLbiPcNDvVzA_s2Q2iJtOSjCHi_ADQNT-fhBOBnO5grtdsI0BHnELAEYTvPhWAPpiXUTE8rL-wtZ2TkHylCHxG-FIxUMQo0qQbq_Hdib5wQHy3L_nGrYxu-1DUpNH2gPT9qvSYqJtZfZv-SitTBf_XBWTmonkid3cYjXwGhIn-Cb3N_JacJUmLWHMq99dTEsMnDWLMXMGLia25ZYNiW_hbuUvNAhRxprqz1DYj-Y4c3HhHBR73of78m56KxOtWW9WpoSTDUrA",
+      "value": "y-ES4uvEdf9ShmPDtYxwMkfvtl2llRZmHC30ddFeJEZHep9NCAhzCOE4xvIqKbrAgFOD0YqA_PtA3ypWEkK4WZcF8-BlLC3Q5uWIsa9xE-tD5eFi49yIBugOE4TM1L0BijNbbiLCs2neqV7dWvhjOH9SH6qhCutKigoCf1Uq-TFwihXRg_nO7Pi1YkzNLOBSnQ8ncK20ysJ97Wcmtq2IAomLdaBnN34kyBQGmXlrFBD8yPR4aKOiHJtMcHhhz3_cOyrXoE0LSUCdY-god0gG7xFE7pOdggT3x690n-m2ppD0Gc_kO1ssnBhkwEW2XU9l",
       "domain": ".snu.gouv.fr",
       "path": "/",
-      "expires": 1728805991.419916,
-      "size": 293,
+      "expires": 1729410948.859883,
+      "size": 335,
       "httpOnly": false,
-      "secure": false,
+      "secure": true,
       "session": false,
+      "sameSite": "None",
       "sameParty": false,
       "sourceScheme": "Secure",
       "sourcePort": 443
@@ -44,11 +45,11 @@
   "headers": {
     "content-encoding": "gzip",
     "content-type": "text/html",
-    "date": "Sun, 13 Oct 2024 07:38:11 GMT",
-    "etag": "W/\"67095784-a8c\"",
-    "last-modified": "Fri, 11 Oct 2024 16:51:16 GMT",
+    "date": "Sun, 20 Oct 2024 07:40:48 GMT",
+    "etag": "W/\"67123359-a8c\"",
+    "last-modified": "Fri, 18 Oct 2024 10:07:21 GMT",
     "referrer-policy": ": no-referrer",
-    "sozu-id": "01JA2CZSXHHJGK4ZGM5Q4M34RV",
+    "sozu-id": "01JAMDXMBCDNH80BEHW2G2P597",
     "strict-transport-security": ": max-age=31536000; includeSubDomains; preload",
     "x-content-type-options": ": nosniff",
     "x-download-options": ": noopen",
@@ -58,7 +59,7 @@
   "endpoints": [
     {
       "hostname": "moncompte.snu.gouv.fr",
-      "ip": "185.179.149.148",
+      "ip": "185.179.148.148",
       "geoip": {
         "continent": {
           "code": "EU",
@@ -114,7 +115,7 @@
     },
     {
       "hostname": "fonts.googleapis.com",
-      "ip": "142.251.167.95",
+      "ip": "142.251.32.42",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -168,18 +169,18 @@
     },
     {
       "hostname": "plausible.io",
-      "ip": "138.199.40.58",
+      "ip": "169.150.221.147",
       "geoip": {
         "city": {
-          "geoname_id": 5128581,
+          "geoname_id": 5392171,
           "names": {
-            "de": "New York City",
-            "en": "New York",
-            "es": "Nueva York",
-            "fr": "New York",
-            "ja": "ニューヨーク",
-            "pt-BR": "Nova Iorque",
-            "ru": "Нью-Йорк"
+            "de": "San José",
+            "en": "San Jose",
+            "es": "San José",
+            "fr": "San José",
+            "ja": "サンノゼ",
+            "pt-BR": "San José",
+            "ru": "Сан-Хосе"
           }
         },
         "continent": {
@@ -212,13 +213,13 @@
         },
         "location": {
           "accuracy_radius": 20,
-          "latitude": 40.7123,
-          "longitude": -74.0068,
-          "metro_code": 501,
-          "time_zone": "America/New_York"
+          "latitude": 37.1835,
+          "longitude": -121.7714,
+          "metro_code": 807,
+          "time_zone": "America/Los_Angeles"
         },
         "postal": {
-          "code": "10118"
+          "code": "95141"
         },
         "registered_country": {
           "geoname_id": 2635167,
@@ -236,17 +237,17 @@
         },
         "subdivisions": [
           {
-            "geoname_id": 5128638,
-            "iso_code": "NY",
+            "geoname_id": 5332921,
+            "iso_code": "CA",
             "names": {
-              "de": "New York",
-              "en": "New York",
-              "es": "Nueva York",
-              "fr": "New York",
-              "ja": "ニューヨーク州",
-              "pt-BR": "Nova Iorque",
-              "ru": "Нью-Йорк",
-              "zh-CN": "纽约州"
+              "de": "Kalifornien",
+              "en": "California",
+              "es": "California",
+              "fr": "Californie",
+              "ja": "カリフォルニア州",
+              "pt-BR": "Califórnia",
+              "ru": "Калифорния",
+              "zh-CN": "加州"
             }
           }
         ]
@@ -286,7 +287,7 @@
           }
         },
         "location": {
-          "accuracy_radius": 500,
+          "accuracy_radius": 1000,
           "latitude": 48.8582,
           "longitude": 2.3387,
           "time_zone": "Europe/Paris"
