@@ -6,19 +6,19 @@
     },
     {
       "type": "unknown",
-      "url": "https://data.geopf.fr/annexes/ressources/vectorTiles/styles/PLAN.IGN/standard.json"
+      "url": "https://data.geopf.fr/annexes/ressources/vectorTiles/styles/PLAN.IGN/gris.json"
     },
     {
       "type": "unknown",
-      "url": "https://matomo.panoramax.xyz//matomo.php?action_name=Panoramax%20IGN%20%3A%20photo-cartographier%20les%20territoires&idsite=4&rec=1&r=650499&h=12&m=55&s=44&url=https%3A%2F%2Fpanoramax.ign.fr%2F&_id=8f6ce85aafad7551&_idn=1&send_image=0&_refts=0&pv_id=uODOMf&pf_net=185&pf_srv=92&pf_tfr=1&pf_dm1=6&pf_dm2=770&pf_onl=0&uadata=%7B%22fullVersionList%22%3A%5B%5D%2C%22mobile%22%3Afalse%2C%22model%22%3A%22%22%2C%22platform%22%3A%22%22%2C%22platformVersion%22%3A%22%22%7D&cookie=1&res=800x600"
+      "url": "https://matomo.panoramax.xyz//matomo.php?action_name=Panoramax%20IGN%20%3A%20photo-cartographier%20les%20territoires&idsite=4&rec=1&r=953562&h=13&m=14&s=15&url=https%3A%2F%2Fpanoramax.ign.fr%2F&_id=86900e8978f95e01&_idn=1&send_image=0&_refts=0&pv_id=QzrOmU&pf_net=223&pf_srv=118&pf_tfr=1&pf_dm1=5&pf_dm2=922&pf_onl=0&uadata=%7B%22fullVersionList%22%3A%5B%5D%2C%22mobile%22%3Afalse%2C%22model%22%3A%22%22%2C%22platform%22%3A%22%22%2C%22platformVersion%22%3A%22%22%7D&cookie=1&res=800x600"
     },
     {
       "type": "unknown",
-      "url": "https://data.geopf.fr/annexes/ressources/vectorTiles/styles/PLAN.IGN/sprite/PlanIgn.json"
+      "url": "https://data.geopf.fr/annexes/ressources/vectorTiles/styles/PLAN.IGN/sprite/PlanIgn-Gris.json"
     },
     {
       "type": "unknown",
-      "url": "https://data.geopf.fr/annexes/ressources/vectorTiles/styles/PLAN.IGN/sprite/PlanIgn.png"
+      "url": "https://data.geopf.fr/annexes/ressources/vectorTiles/styles/PLAN.IGN/sprite/PlanIgn-Gris.png"
     }
   ],
   "cookies": [],
@@ -26,12 +26,12 @@
     "cache-control": "public, max-age=0",
     "content-encoding": "gzip",
     "content-type": "text/html; charset=UTF-8",
-    "date": "Sun, 13 Oct 2024 12:55:43 GMT",
-    "etag": "W/\"56a-1925459e330\"",
-    "last-modified": "Thu, 03 Oct 2024 21:47:10 GMT",
+    "date": "Sun, 20 Oct 2024 13:14:14 GMT",
+    "etag": "W/\"56a-1929a944408\"",
+    "last-modified": "Thu, 17 Oct 2024 13:04:21 GMT",
     "strict-transport-security": "max-age=31536000",
     "x-powered-by": "Express",
-    "x-request-id": "e7fff387-2544-49f8-9ad5-4132e0f47a43\ne7fff387-2544-49f8-9ad5-4132e0f47a43"
+    "x-request-id": "3dbd6d7c-1a3d-42e8-b9b9-fb962ca4236b\n3dbd6d7c-1a3d-42e8-b9b9-fb962ca4236b"
   },
   "endpoints": [
     {
