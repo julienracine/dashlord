@@ -121,8 +121,8 @@
               "id"           : "cipherlist_STRONG_NOFS",
               "ip"           : "mrs.beta.gouv.fr/162.19.18.40",
               "port"         : "443",
-              "severity"     : "OK",
-              "finding"      : "offered"
+              "severity"     : "INFO",
+              "finding"      : "not offered"
           }
 ,         {
               "id"           : "cipherlist_STRONG_FS",
@@ -178,7 +178,7 @@
               "ip"           : "mrs.beta.gouv.fr/162.19.18.40",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "'session ticket/#35' 'renegotiation info/#65281' 'EC point formats/#11' 'supported versions/#43' 'key share/#51' 'application layer protocol negotiation/#16'"
+              "finding"      : "'session ticket/#35' 'renegotiation info/#65281' 'EC point formats/#11' 'supported versions/#43' 'key share/#51' 'extended master secret/#23' 'application layer protocol negotiation/#16'"
           }
 ,         {
               "id"           : "TLS_session_ticket",
@@ -346,7 +346,7 @@
               "ip"           : "mrs.beta.gouv.fr/162.19.18.40",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "62 >= 30 days"
+              "finding"      : "55 >= 30 days"
           }
 ,         {
               "id"           : "cert_notBefore",
@@ -500,14 +500,14 @@
               "ip"           : "mrs.beta.gouv.fr/162.19.18.40",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "-1 seconds from localtime"
+              "finding"      : "0 seconds from localtime"
           }
 ,         {
               "id"           : "HTTP_headerTime",
               "ip"           : "mrs.beta.gouv.fr/162.19.18.40",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1728796789"
+              "finding"      : "1729401684"
           }
 ,         {
               "id"           : "HSTS",
@@ -593,7 +593,7 @@
               "severity"     : "OK",
               "cve"          : "CVE-2017-17382 CVE-2017-17427 CVE-2017-17428 CVE-2017-13098 CVE-2017-1000385 CVE-2017-13099 CVE-2016-6883 CVE-2012-5081 CVE-2017-6168",
               "cwe"          : "CWE-203",
-              "finding"      : "not vulnerable"
+              "finding"      : "not vulnerable, no RSA key transport cipher"
           }
 ,         {
               "id"           : "secure_renego",
@@ -1063,6 +1063,6 @@
               "ip"           : "mrs.beta.gouv.fr/162.19.18.40",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "128"
+              "finding"      : "53"
           }
 ]
