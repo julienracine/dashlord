@@ -3,10 +3,10 @@
   "cookies": [
     {
       "name": "csrftoken",
-      "value": "zmcmssli0KLwokgOOJXH1wWovoj3oYJh",
+      "value": "ujBfVfZWz4NSLLC2hvZUXOySLMu5MFPn",
       "domain": "carbure.beta.gouv.fr",
       "path": "/",
-      "expires": 1760236446.644179,
+      "expires": 1760840969.18634,
       "size": 41,
       "httpOnly": false,
       "secure": true,
@@ -24,7 +24,7 @@
     "content-security-policy": "default-src 'self' stats.beta.gouv.fr metabase.carbure.beta.gouv.fr www.data.gouv.fr https://*.tile.openstreetmap.org/",
     "content-type": "text/html; charset=\"utf-8\"",
     "cross-origin-opener-policy": "same-origin",
-    "date": "Sun, 13 Oct 2024 02:34:05 GMT",
+    "date": "Sun, 20 Oct 2024 02:29:28 GMT",
     "etag": "\"67077247-448\"",
     "last-modified": "Thu, 10 Oct 2024 08:20:55 GMT",
     "referrer-policy": "same-origin",
@@ -32,12 +32,12 @@
     "vary": "Accept-Encoding",
     "x-content-type-options": "nosniff",
     "x-frame-options": "DENY",
-    "x-request-id": "c93a3620-07fd-4a4a-a5c2-555851d563ee"
+    "x-request-id": "474a5f63-8981-4737-9755-3d39e7e0d5bd"
   },
   "endpoints": [
     {
       "hostname": "carbure.beta.gouv.fr",
-      "ip": "185.21.194.105",
+      "ip": "80.247.13.145",
       "geoip": {
         "continent": {
           "code": "EU",
