@@ -23,7 +23,7 @@
     "connection": "keep-alive",
     "content-encoding": "gzip",
     "content-type": "text/html; charset=utf-8",
-    "date": "Sun, 13 Oct 2024 14:04:44 GMT",
+    "date": "Sun, 20 Oct 2024 14:20:40 GMT",
     "referrer-policy": "no-referrer-when-downgrade",
     "strict-transport-security": "max-age=31536000; includeSubdomains",
     "transfer-encoding": "chunked",
@@ -238,7 +238,7 @@
     },
     {
       "hostname": "api.iconify.design",
-      "ip": "104.26.12.204",
+      "ip": "104.26.13.204",
       "geoip": {
         "registered_country": {
           "geoname_id": 6252001,
