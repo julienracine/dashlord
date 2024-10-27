@@ -5,7 +5,7 @@
     "cache-control": "no-store",
     "content-encoding": "br",
     "content-type": "text/html",
-    "date": "Sun, 20 Oct 2024 07:26:41 GMT",
+    "date": "Sun, 27 Oct 2024 09:46:26 GMT",
     "etag": "W/\"66840da3-2169\"",
     "last-modified": "Tue, 02 Jul 2024 14:24:35 GMT",
     "referrer-policy": "strict-origin-when-cross-origin",
@@ -22,6 +22,19 @@
       "hostname": "anais.beta.gouv.fr",
       "ip": "91.134.110.2",
       "geoip": {
+        "city": {
+          "geoname_id": 3038334,
+          "names": {
+            "de": "Ajaccio",
+            "en": "Ajaccio",
+            "es": "Ajaccio",
+            "fr": "Ajaccio",
+            "ja": "アジャクシオ",
+            "pt-BR": "Ajaccio",
+            "ru": "Аяччо",
+            "zh-CN": "阿雅克肖"
+          }
+        },
         "continent": {
           "code": "EU",
           "geoname_id": 6255148,
@@ -53,9 +66,12 @@
         },
         "location": {
           "accuracy_radius": 500,
-          "latitude": 48.8582,
-          "longitude": 2.3387,
+          "latitude": 41.9199,
+          "longitude": 8.7424,
           "time_zone": "Europe/Paris"
+        },
+        "postal": {
+          "code": "20090"
         },
         "registered_country": {
           "geoname_id": 3017382,
@@ -71,7 +87,32 @@
             "ru": "Франция",
             "zh-CN": "法国"
           }
-        }
+        },
+        "subdivisions": [
+          {
+            "geoname_id": 3023519,
+            "iso_code": "20R",
+            "names": {
+              "de": "Korsika",
+              "en": "Corsica",
+              "fr": "Corse"
+            }
+          },
+          {
+            "geoname_id": 3023514,
+            "iso_code": "2A",
+            "names": {
+              "de": "Südkorsika",
+              "en": "South Corsica",
+              "es": "Córcega del Sur",
+              "fr": "Corse-du-Sud",
+              "ja": "コルス＝デュ＝シュド県",
+              "pt-BR": "Córsega do Sul",
+              "ru": "Южная Корсика",
+              "zh-CN": "南科西嘉"
+            }
+          }
+        ]
       }
     }
   ]
