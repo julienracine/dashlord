@@ -2,7 +2,7 @@
   "id": "maestro",
   "type": "startup",
   "attributes": {
-    "name": "maestro",
+    "name": "Maestro",
     "pitch": "Faciliter le processus de contrôle et surveillance des denrées alimentaires en permettant la circulation et l'accès en temps réel d'une donnée de qualité entre les différents acteurs.",
     "stats_url": "",
     "repository": "https://github.com/betagouv/maestro",
@@ -19,13 +19,18 @@
         "name": "construction",
         "start": "2024-02-26",
         "end": ""
+      },
+      {
+        "name": "acceleration",
+        "start": "2024-10-21",
+        "end": ""
       }
     ],
     "sponsors": [
       "dgal"
     ],
     "thematiques": [],
-    "accessibility_status": "non conforme"
+    "accessibility_status": "totalement conforme"
   },
   "relationships": {
     "incubator": {

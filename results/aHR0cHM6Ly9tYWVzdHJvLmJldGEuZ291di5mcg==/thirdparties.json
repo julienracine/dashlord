@@ -17,10 +17,10 @@
     "content-type": "text/html; charset=UTF-8",
     "cross-origin-opener-policy": "same-origin",
     "cross-origin-resource-policy": "same-origin",
-    "date": "Sun, 20 Oct 2024 15:14:00 GMT",
-    "etag": "W/\"542-19276cb0e80\"",
+    "date": "Sun, 27 Oct 2024 18:58:21 GMT",
+    "etag": "W/\"542-192bdf424b8\"",
     "expect-ct": "max-age=0",
-    "last-modified": "Thu, 10 Oct 2024 14:17:52 GMT",
+    "last-modified": "Thu, 24 Oct 2024 09:55:47 GMT",
     "origin-agent-cluster": "?1",
     "referrer-policy": "no-referrer",
     "strict-transport-security": "max-age=15552000; includeSubDomains",
@@ -30,9 +30,9 @@
     "x-frame-options": "SAMEORIGIN",
     "x-permitted-cross-domain-policies": "none",
     "x-ratelimit-limit": "10000",
-    "x-ratelimit-remaining": "9850",
-    "x-ratelimit-reset": "1729437360",
-    "x-request-id": "b4696fdc-68a3-4ae7-96d0-5b364c0058f6",
+    "x-ratelimit-remaining": "9783",
+    "x-ratelimit-reset": "1730055582",
+    "x-request-id": "be0082e0-ef75-46ad-9261-25ebdacd93b5",
     "x-xss-protection": "0"
   },
   "endpoints": [
@@ -94,7 +94,7 @@
     },
     {
       "hostname": "unpkg.com",
-      "ip": "104.17.245.203",
+      "ip": "104.17.247.203",
       "geoip": {
         "registered_country": {
           "geoname_id": 6252001,
