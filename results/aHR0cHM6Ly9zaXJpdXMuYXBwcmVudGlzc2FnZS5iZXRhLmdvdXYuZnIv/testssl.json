@@ -577,7 +577,7 @@
               "ip"           : "sirius.apprentissage.beta.gouv.fr/141.95.167.141",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "41 >= 30 days"
+              "finding"      : "34 >= 30 days"
           }
 ,         {
               "id"           : "cert_notBefore",
@@ -738,7 +738,7 @@
               "ip"           : "sirius.apprentissage.beta.gouv.fr/141.95.167.141",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1729434395"
+              "finding"      : "1730052771"
           }
 ,         {
               "id"           : "HSTS_time",
@@ -1352,6 +1352,6 @@
               "ip"           : "sirius.apprentissage.beta.gouv.fr/141.95.167.141",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "156"
+              "finding"      : "84"
           }
 ]
