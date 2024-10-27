@@ -36,10 +36,10 @@
   "cookies": [
     {
       "name": "csrftoken",
-      "value": "4e2eihV9yKj7ySufTO66xbvIABs6SW01",
+      "value": "LovSKF2b4WYdwRNkvHjUdz7g8Fc8ElQw",
       "domain": "lemarche.inclusion.beta.gouv.fr",
       "path": "/",
-      "expires": 1760848245.739591,
+      "expires": 1761454400.621967,
       "size": 41,
       "httpOnly": true,
       "secure": true,
@@ -56,10 +56,10 @@
     "content-length": "59968",
     "content-type": "text/html; charset=utf-8",
     "cross-origin-opener-policy": "same-origin",
-    "date": "Sun, 20 Oct 2024 04:30:45 GMT",
+    "date": "Sun, 27 Oct 2024 04:53:20 GMT",
     "referrer-policy": "same-origin",
-    "set-cookie": "csrftoken=4e2eihV9yKj7ySufTO66xbvIABs6SW01; expires=Sun, 19 Oct 2025 04:30:45 GMT; HttpOnly; Max-Age=31449600; Path=/; SameSite=Lax; Secure",
-    "sozu-id": "01JAM328F6TR77TED3CP1SFBR2",
+    "set-cookie": "csrftoken=LovSKF2b4WYdwRNkvHjUdz7g8Fc8ElQw; expires=Sun, 26 Oct 2025 04:53:20 GMT; HttpOnly; Max-Age=31449600; Path=/; SameSite=Lax; Secure",
+    "sozu-id": "01JB654MPWY71418QFYYEHZSP0",
     "strict-transport-security": "max-age=30",
     "vary": "Accept-Language, Cookie, Origin",
     "x-content-type-options": "nosniff",
@@ -68,7 +68,7 @@
   "endpoints": [
     {
       "hostname": "lemarche.inclusion.beta.gouv.fr",
-      "ip": "91.208.207.220",
+      "ip": "91.208.207.221",
       "geoip": {
         "continent": {
           "code": "EU",
@@ -124,7 +124,7 @@
     },
     {
       "hostname": "cdn.jsdelivr.net",
-      "ip": "104.18.186.31",
+      "ip": "104.18.187.31",
       "geoip": {
         "registered_country": {
           "geoname_id": 6252001,
