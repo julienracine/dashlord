@@ -6,7 +6,7 @@
       "value": "1",
       "domain": "inclusion.beta.gouv.fr",
       "path": "/",
-      "expires": 1729418084,
+      "expires": 1730034914,
       "size": 17,
       "httpOnly": false,
       "secure": false,
@@ -18,10 +18,10 @@
     },
     {
       "name": "_pk_id.212.85a9",
-      "value": "227b5c21a6700cd0.1729416284.",
+      "value": "24796fcb9f8f4e0b.1730033115.",
       "domain": "inclusion.beta.gouv.fr",
       "path": "/",
-      "expires": 1763371484,
+      "expires": 1763988315,
       "size": 43,
       "httpOnly": false,
       "secure": false,
@@ -36,17 +36,17 @@
     "content-encoding": "gzip",
     "content-type": "text/html; charset=utf-8",
     "cross-origin-opener-policy": "same-origin",
-    "date": "Sun, 20 Oct 2024 09:24:42 GMT",
+    "date": "Sun, 27 Oct 2024 12:45:13 GMT",
     "referrer-policy": "same-origin",
     "strict-transport-security": "max-age=31536000",
     "x-content-type-options": "nosniff",
     "x-frame-options": "DENY",
-    "x-request-id": "6c27fca8-4f52-408a-9841-c251aa10e866"
+    "x-request-id": "f4a58f25-0a23-47a7-bbce-fd7abb6bc301"
   },
   "endpoints": [
     {
       "hostname": "inclusion.beta.gouv.fr",
-      "ip": "80.247.13.145",
+      "ip": "80.247.12.255",
       "geoip": {
         "continent": {
           "code": "EU",
