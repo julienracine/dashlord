@@ -63,7 +63,7 @@
       "value": "1",
       "domain": "ellesfontla.culture.gouv.fr",
       "path": "/",
-      "expires": 1729420554,
+      "expires": 1730038278,
       "size": 17,
       "httpOnly": false,
       "secure": false,
@@ -75,10 +75,10 @@
     },
     {
       "name": "_pk_id.187.1dd6",
-      "value": "fa4d490983e8e340.1729418755.",
+      "value": "270d8568d8ddcdfd.1730036478.",
       "domain": "ellesfontla.culture.gouv.fr",
       "path": "/",
-      "expires": 1763373955,
+      "expires": 1763991678,
       "size": 43,
       "httpOnly": false,
       "secure": false,
@@ -90,11 +90,11 @@
     },
     {
       "name": "_ellesfontlaphoto_session",
-      "value": "DwkQF1eXqhzeVf4xP1CpKwHjaG7K2dSBvU%2FbaDKSRoh0tEznNzxIkvAz8yv93M5u5fj1FHbJzMNxbdH%2FX9I36kwHiOlA0AvJNL6EDSB80hK0wQvQ0o93yA9mJUCwz8EiYHKsQb6xfzh83YL2NL3bcurYJ4kbtfiDOA%2B1zBtXJ2YWJ6b0r4SZSdqL0SOt1rKjEA4UAXgxVxxQuggJ%2FRuHsBIJUGfOzu8kvN0FRr3cqyYSD%2FQJjEpkHE62seoLkJ9ZJI2chqQaCv9bkZixS9mXcL7C1yF9n71aTJrrpfTEvRZ61WgJHBLN0kr%2Fw%2BSRVVAij9D2MlUOuHrF13wBor1WRu1r55I07InyrVSMxa%2FNJu7C%2BVj3rbCnZHFo5ZcOUx1fSYYb48B3gwwupZpGRpxemqSno8YJic3N4f72vF3Zv2w%2B%2BnvQPiYXl6SB5F4VT7QlPs%2BexZ4m8NVcgeDzMZA4Jj%2B0AloGDEpnWSovD5O7EFu5HOOUDloNOAcpl5zVsunLYQ%3D%3D--nAo8OJF3JJqc7mB5--MGYt56AkC2P68m9tCP0aew%3D%3D",
+      "value": "nn4sZiyd0bD5zV7gZ8cZdomIGpq11DTwV0ZIxqPiUDLqCUEaUQBmr8cTAUyd4oby5I661DIESyn4RrLtSj9a2wGtRQ95wjAj5rtHCM8w7BB1usj9HGPUAQYqbhGTH1VBKktiFIoNo82bzdUsH%2F6irIV7rqqFwJcogKztPOqDoiQGo5WqnE5ffzz8KZrH54oUJwjdGcUTdIYakzZaVMbAbummVM9RLst5IzjgxLePLhLBclYh9%2F1%2Fa9BZj8Bod6emdNmR5rL4XO4gQKIypLDff%2B9TNDKoYkyhHWjuRT4IdKsr%2BN0zVSQunPbwtTRe7BU7519uihCnhy9VdYUCxZMZkeq%2BVw00B6OGIAuN9DHCMyob%2FfuBgn10ZwqwySHVoBD318NSQBGB%2FvnlN%2FGE8a%2F2b1GfhkvvqjXg5V5x5TtTU4s9NUHK6wZ4kQQXCGuIReoGuoIk8wl9nHMKMP3W2YbP7SJD9uGt9YyS8k1iUr4LvD2cpbnVh14Cz3YXWoy9SHtWhg%3D%3D--6%2Bo7q4Xq%2FW1cM1mV--cEXqNmzqUPpO6wXEtqK7FA%3D%3D",
       "domain": "ellesfontla.culture.gouv.fr",
       "path": "/",
       "expires": -1,
-      "size": 619,
+      "size": 617,
       "httpOnly": true,
       "secure": true,
       "session": true,
@@ -108,13 +108,13 @@
     "accept-ranges": "bytes",
     "cache-control": "max-age=0, private, must-revalidate",
     "content-type": "text/html; charset=utf-8",
-    "date": "Sun, 20 Oct 2024 10:05:54 GMT",
-    "etag": "W/\"ab98117a87f7c430d1d28aed85bf48d0\"",
+    "date": "Sun, 27 Oct 2024 13:41:17 GMT",
+    "etag": "W/\"617495872bca24e6cb99c8beb4e6d940\"",
     "link": "</assets/application-528a93768b58fbd9319479309225b69746be032ff66f8e74d3137bebc6409df0.css>; rel=preload; as=style; nopush",
     "referrer-policy": "strict-origin-when-cross-origin",
-    "set-cookie": "_ellesfontlaphoto_session=5RfOkbUBh%2FwGWu7YI%2Bx9jH3PHNlhEt5k77FvwSJPgKJC%2BS0nGwUFI3JFCszlf5bX5E897tZRCmFMIOBrV7uF1QNAkVjjjUVACmFghbG6rNF69vbno756WWkLN%2BKI4BWPSjf7SvEqjXWPp8Kul99R0zyGuJoIQuFlofZZJrsxvVUHKBGYg%2B%2BOFpI%2FuUMaThZkrflFIjnoOx7LHyEztBm8Xv%2FZ6vemkES%2FOjzHpkDki44tew8AOUMCnFcGuNgGtXR28lsYbVLDwtkB0sRLkrNt0SGjZMke4bumv9DaBI6rGKLq24icgK1NzT%2BSU2MQndq34bgGsDQVm15i5VLIKJcp0v2izLz7JboopqTGiFXYEzHSHQ3NXMBIFuVqY9g844oVWQGnSc86hyidSFUPWVJ80i3TDKIB%2BBYpj62ai%2Bi6fxmyFWMreyXpqtR0jKBAesej5Y%2BcnD3wJmuVefzbw1Hi%2F4IlaSStsVUwF2GmCdOe2%2FlEPPOiSQWtdS9uExcgVTydwQ%3D%3D--BxmlSQLjolbhIfxv--%2BSU929bqGC1seEwIlQSnow%3D%3D; path=/; secure; HttpOnly; SameSite=Lax",
+    "set-cookie": "_ellesfontlaphoto_session=bkX30KLoRsRvO0Ny%2FJZELTjHDxLkjsJ3fz11Fe%2BwrWDY9r2envWJmqZlD0lv81eGdlTacdgifH%2F7NSPwNMLjxX4pCGSnL1jHLea5MMJdWzd5khtqq%2F9US%2BK0iCmR4f2Avgt%2FJvjLjs%2FfvAVR2Q57lJBKP4NxCJ8K9IRbqZfuv8rSqP8Uy8E3bxz0qbHUg%2FNfP56eEyFXR3ySGT7BjcjBK6lp9ZD01IsEGb6XDbVhlf2enLMkUKaEis2qUynXsP%2BITAt8rNlhZvKPInweoheJloERhCrdH%2ByKE7j%2B893WRiq8VlXnk%2FxLvR3CywUsdhHOY5YCMgwJ8tz5Jh%2FLDjaIVT55aURlupcpK0pmkGDfF9yAofHtw62LZtUO6AkgaA1s%2FPNFEDrrGJSNd7%2FzTUAoT3FuTnvhutl5lyUyV4f2FuTSCx9HNjhLH4Nrqqie3AaW4mXate%2B%2F%2Busy9I4id82YNLEIEm2rdUXTThAQhMxtkGL7rcsywbsH6fQNFBthx9atSQ%3D%3D--cp9v48IyK5AtNOLC--g2RCm2f%2Bz7z8CvRN6ZxLTw%3D%3D; path=/; secure; HttpOnly; SameSite=Lax",
     "strict-transport-security": "max-age=31557600",
-    "traceresponse": "00-18002131b05443a363332b50cbcb0066-ac678354ce24fcac-01",
+    "traceresponse": "00-1802530287cb9da7b95d4ec54f1e57f9-d3cb38a0a24ee1e7-01",
     "via": "1.1 varnish, 1.1 varnish",
     "x-cache": "MISS, MISS",
     "x-cache-hits": "0, 0",
@@ -127,9 +127,9 @@
     "x-platform-cluster": "tl34jw4qs4bu2-master-7rqtwti",
     "x-platform-processor": "gwzrtyfmq5bg3qickflrztm5jm",
     "x-platform-router": "nthylk4d6puxch5isukqy3sywa",
-    "x-request-id": "3c667c1f-fe09-4dd3-b294-947b2432ad41",
-    "x-runtime": "0.171451",
-    "x-served-by": "cache-par-lfpg1960044-PAR, cache-iad-kcgs7200153-IAD",
+    "x-request-id": "b4c88d67-77a9-4a37-820e-a60d914618da",
+    "x-runtime": "0.209897",
+    "x-served-by": "cache-par-lfpg1960047-PAR, cache-sjc10068-SJC",
     "x-xss-protection": "1; mode=block"
   },
   "endpoints": [
@@ -211,59 +211,8 @@
     },
     {
       "hostname": "res.cloudinary.com",
-      "ip": "23.39.184.46",
+      "ip": "104.17.202.1",
       "geoip": {
-        "city": {
-          "geoname_id": 4744870,
-          "names": {
-            "de": "Ashburn",
-            "en": "Ashburn",
-            "es": "Ashburn",
-            "fr": "Ashburn",
-            "ja": "アッシュバーン",
-            "pt-BR": "Ashburn",
-            "ru": "Ашберн",
-            "zh-CN": "阿什本"
-          }
-        },
-        "continent": {
-          "code": "NA",
-          "geoname_id": 6255149,
-          "names": {
-            "de": "Nordamerika",
-            "en": "North America",
-            "es": "Norteamérica",
-            "fr": "Amérique du Nord",
-            "ja": "北アメリカ",
-            "pt-BR": "América do Norte",
-            "ru": "Северная Америка",
-            "zh-CN": "北美洲"
-          }
-        },
-        "country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
-          "names": {
-            "de": "USA",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
-          }
-        },
-        "location": {
-          "accuracy_radius": 20,
-          "latitude": 39.0469,
-          "longitude": -77.4903,
-          "metro_code": 511,
-          "time_zone": "America/New_York"
-        },
-        "postal": {
-          "code": "20149"
-        },
         "registered_country": {
           "geoname_id": 6252001,
           "iso_code": "US",
@@ -277,23 +226,7 @@
             "ru": "США",
             "zh-CN": "美国"
           }
-        },
-        "subdivisions": [
-          {
-            "geoname_id": 6254928,
-            "iso_code": "VA",
-            "names": {
-              "de": "Virginia",
-              "en": "Virginia",
-              "es": "Virginia",
-              "fr": "Virginie",
-              "ja": "バージニア州",
-              "pt-BR": "Virgínia",
-              "ru": "Вирджиния",
-              "zh-CN": "弗吉尼亚州"
-            }
-          }
-        ]
+        }
       }
     }
   ]
