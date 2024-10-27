@@ -2,7 +2,7 @@
   "trackers": [
     {
       "type": "unknown",
-      "url": "https://auth.databretagne.fr/realms/nocode/protocol/openid-connect/auth?client_id=bretagne.budget&redirect_uri=https%3A%2F%2Fbudget.databretagne.fr%2F&state=fc9990df-1546-408e-89a2-1dce7b429f9e&response_mode=fragment&response_type=code&scope=openid&nonce=1d027028-c4a3-460f-81e7-585c760346d5&code_challenge=mE4uoQC0MVOs-3ob2mlriOLLAGn-x6IHVOmPJ20AlVk&code_challenge_method=S256"
+      "url": "https://auth.databretagne.fr/realms/nocode/protocol/openid-connect/auth?client_id=bretagne.budget&redirect_uri=https%3A%2F%2Fbudget.databretagne.fr%2F&state=69538bd9-e52d-4abc-9b1b-776daa1ef738&response_mode=fragment&response_type=code&scope=openid&nonce=b4e59a7d-a125-4e49-87d8-c07bfe49f1d1&code_challenge=gK70pRe6vOosXk1bXX321wedWu0Pb0bDTa6vTCdxKR4&code_challenge_method=S256"
     },
     {
       "type": "unknown",
@@ -81,68 +81,19 @@
       "url": "https://auth.databretagne.fr/resources/rvzwc/login/nocode/dsfr/fonts/Marianne-Medium.woff"
     }
   ],
-  "cookies": [
-    {
-      "name": "AUTH_SESSION_ID_LEGACY",
-      "value": "ca629e57-246f-400d-b243-8849bd5bd077.4f3e9d864dee-53666",
-      "domain": "auth.databretagne.fr",
-      "path": "/realms/nocode/",
-      "expires": -1,
-      "size": 77,
-      "httpOnly": true,
-      "secure": true,
-      "session": true,
-      "sameParty": false,
-      "sourceScheme": "Secure",
-      "sourcePort": 443
-    },
-    {
-      "name": "KC_RESTART",
-      "value": "eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0..1v6fjOJ04xcTnID7BF7Gjg.0t2_lIJxN1JrkJ7p8oJTDfF4UH9vdacjSzRZbitNmchemWdBtkI3TNZSieoMFmRcXojyCSu-_GeF2Ntz93OP2w5_O8g0O8-xJTNHlACXzDe6eAx8z377vsljNIbN2L1ZpJJjyBd6q0PbFDesJpZ950Y17z883PheY9IeUu4LKqscxHiZk6s2H_DIO8xFQ5AZ2KG2fV8oAUlNwSyGG1pJZUg6xYMuz-qPUDDW7XWu3Uqhn30Nzk84BczTZFBguCm9_IR4TEV6rdUqzDKJiY9gb7mKIN3TY7cHTvkCvHXgBxPR85hiWYoO2ejtK2qXlYKhXBgPZJxHgEXg4jtOIhs_MU_baUJSDwPfpH9Cknc11whSx36FtmG8OH1ylM4G5wsf3TnpHv8JbHbtnU9Xufh2RqztUKpa4HrMfOhsLuKk-zp4hUBU8afH-AnLmSVJ1xWy7CNDs5Ch3rvpP5KTmHTAcWr2cZRme9QvOQj3mYHdT_p94gLx3wZtPv_OE5u6nXHYyxbP-chGQnYFF_k3GAxAgFqmdpRVpnC8Ltzms8HvZYV3rdRCgC9ppGPrZr9I_iwrFvPtpjQyiYPUj1CwpUP-IhdDQ5jAgRc7agzGEuRfwVyFZbPMTOaK5NAfA3RTUbW1f1orEsuBRiEM_js0DKTBY5nRzRN2ejIJTldFUd6LWoBwSAMAAWOMbdd1jMw-PIaEfS0FMyTr-JMV3qQMrhE2POBe4_tYJM86Z3_RKTkurwXMmH-54cSqyPLtg3BlzrxFw6yJR74y3Qh6YPQ1HJidI7fGGf172MkhK4gnMw34dgoxH3V33j6RkEVOkAbAc_Kj-J7gbMX0INPa3OS660-P0Zx_uiQgroavvcvxy_gFEPgvnHMQBT4M1q0g0AOjbkF6GK6WBAPNkbDaR7Fk8JRqJyv2hqi9Jzb81hlIWAwPCaQqp7ME1NchmzZgrOTpH0tx2sHXmzFIsHKuj5ef2Os7xoK9Q_QAUmE1zjKH5__kP66rgt9q9WMrm8hp1fsA8FsQu8mlYh1g_7RrqwhqD29aQLsfkT65Q876wGvboM2JB_VGkPCemGVoKKFR96xXv22FUs15qSN2Jl55S6uYHC1JzQ.F5K10teHVRFM73uNoVEjKA",
-      "domain": "auth.databretagne.fr",
-      "path": "/realms/nocode/",
-      "expires": -1,
-      "size": 1215,
-      "httpOnly": true,
-      "secure": true,
-      "session": true,
-      "sameSite": "None",
-      "sameParty": false,
-      "sourceScheme": "Secure",
-      "sourcePort": 443
-    },
-    {
-      "name": "AUTH_SESSION_ID",
-      "value": "ca629e57-246f-400d-b243-8849bd5bd077.4f3e9d864dee-53666",
-      "domain": "auth.databretagne.fr",
-      "path": "/realms/nocode/",
-      "expires": -1,
-      "size": 70,
-      "httpOnly": true,
-      "secure": true,
-      "session": true,
-      "sameSite": "None",
-      "sameParty": false,
-      "sourceScheme": "Secure",
-      "sourcePort": 443
-    }
-  ],
+  "cookies": [],
   "headers": {
-    "cache-control": "no-store, must-revalidate, max-age=0",
+    "accept-ranges": "bytes",
+    "cache-control": "max-age=0\nno-cache",
     "connection": "keep-alive",
-    "content-language": "fr",
-    "content-length": "10492",
-    "content-security-policy": "frame-src 'self'; frame-ancestors 'self'; object-src 'none';",
-    "content-type": "text/html;charset=utf-8",
-    "date": "Sun, 20 Oct 2024 15:09:44 GMT",
-    "referrer-policy": "no-referrer",
+    "content-length": "54465",
+    "content-type": "text/html",
+    "date": "Sun, 27 Oct 2024 18:56:25 GMT",
+    "etag": "\"66fa81b2-d4c1\"",
+    "expires": "Sun, 27 Oct 2024 18:56:25 GMT",
+    "last-modified": "Mon, 30 Sep 2024 10:47:14 GMT",
     "server": "nginx",
-    "set-cookie": "AUTH_SESSION_ID=ca629e57-246f-400d-b243-8849bd5bd077.4f3e9d864dee-53666;Version=1;Path=/realms/nocode/;Secure;HttpOnly;SameSite=None\nAUTH_SESSION_ID_LEGACY=ca629e57-246f-400d-b243-8849bd5bd077.4f3e9d864dee-53666;Version=1;Path=/realms/nocode/;Secure;HttpOnly\nKC_RESTART=eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0..1v6fjOJ04xcTnID7BF7Gjg.0t2_lIJxN1JrkJ7p8oJTDfF4UH9vdacjSzRZbitNmchemWdBtkI3TNZSieoMFmRcXojyCSu-_GeF2Ntz93OP2w5_O8g0O8-xJTNHlACXzDe6eAx8z377vsljNIbN2L1ZpJJjyBd6q0PbFDesJpZ950Y17z883PheY9IeUu4LKqscxHiZk6s2H_DIO8xFQ5AZ2KG2fV8oAUlNwSyGG1pJZUg6xYMuz-qPUDDW7XWu3Uqhn30Nzk84BczTZFBguCm9_IR4TEV6rdUqzDKJiY9gb7mKIN3TY7cHTvkCvHXgBxPR85hiWYoO2ejtK2qXlYKhXBgPZJxHgEXg4jtOIhs_MU_baUJSDwPfpH9Cknc11whSx36FtmG8OH1ylM4G5wsf3TnpHv8JbHbtnU9Xufh2RqztUKpa4HrMfOhsLuKk-zp4hUBU8afH-AnLmSVJ1xWy7CNDs5Ch3rvpP5KTmHTAcWr2cZRme9QvOQj3mYHdT_p94gLx3wZtPv_OE5u6nXHYyxbP-chGQnYFF_k3GAxAgFqmdpRVpnC8Ltzms8HvZYV3rdRCgC9ppGPrZr9I_iwrFvPtpjQyiYPUj1CwpUP-IhdDQ5jAgRc7agzGEuRfwVyFZbPMTOaK5NAfA3RTUbW1f1orEsuBRiEM_js0DKTBY5nRzRN2ejIJTldFUd6LWoBwSAMAAWOMbdd1jMw-PIaEfS0FMyTr-JMV3qQMrhE2POBe4_tYJM86Z3_RKTkurwXMmH-54cSqyPLtg3BlzrxFw6yJR74y3Qh6YPQ1HJidI7fGGf172MkhK4gnMw34dgoxH3V33j6RkEVOkAbAc_Kj-J7gbMX0INPa3OS660-P0Zx_uiQgroavvcvxy_gFEPgvnHMQBT4M1q0g0AOjbkF6GK6WBAPNkbDaR7Fk8JRqJyv2hqi9Jzb81hlIWAwPCaQqp7ME1NchmzZgrOTpH0tx2sHXmzFIsHKuj5ef2Os7xoK9Q_QAUmE1zjKH5__kP66rgt9q9WMrm8hp1fsA8FsQu8mlYh1g_7RrqwhqD29aQLsfkT65Q876wGvboM2JB_VGkPCemGVoKKFR96xXv22FUs15qSN2Jl55S6uYHC1JzQ.F5K10teHVRFM73uNoVEjKA;Version=1;Path=/realms/nocode/;Secure;HttpOnly;SameSite=None",
-    "strict-transport-security": "max-age=31536000; includeSubDomains",
-    "x-content-type-options": "nosniff",
-    "x-frame-options": "SAMEORIGIN",
-    "x-robots-tag": "none",
-    "x-xss-protection": "1; mode=block"
+    "vary": "Origin"
   },
   "endpoints": [
     {
