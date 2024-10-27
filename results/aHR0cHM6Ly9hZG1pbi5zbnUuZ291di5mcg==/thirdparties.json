@@ -20,11 +20,11 @@
   "cookies": [
     {
       "name": "bln_challengejs",
-      "value": "O_FiLGf-CcCCpXCzt9J96U7mGVaZe9N9jiLohbYSjopLhcf8egIczqq3TH6OrvOELfZWtsladwhV3nZPpKt61j5fq2G0rfBlERkPYG7mM49N41E8DRZY-KP-gHnwCRu5N97Wg_cBg_KkT1QXTfhRJp0f14aGMchqiJsrT2tQ-PnWwKjpwfXsynvGZ59amXUL26ieugjyIpjDGmiUw8ScmQBrPx_1-PdeC_gdTpjzjKqhcoejzO0XWQqfLTwq3NODH9_uoyXDCr7dkvCWAiPFZycBCm-_6kVIhUtn8YHfIgNH8DWKr4rg1gMtWmVUINKr",
+      "value": "I5JEFvNTVAn80JR1YNwDdoKe64_WwLqGKhTTNEmV70fvAwrCuUEl6BSHsgMdBRElNxu_775Sbgui2ZnUvHWRDZHg7SXK7LcjMitS7XZt2tIiqdsSHD7UWkb5-67QTIKz6PmXeSS-sgRs0DM2OS0X0b0wzSlfE_r6P6r6h9ypaN2qBTczpE2w8hswU8hvMo_Y0W4WU4XvPDRxWartqpv-Xm5TwMLke8PyUD00BZIkUAwYta9ZC1egk9Fk1f2RQ2vD7oR1L9-bFudRgLM7JQkTtU66M4LHcIqETlv0aIGotP8",
       "domain": ".snu.gouv.fr",
       "path": "/",
-      "expires": 1729411441.915072,
-      "size": 335,
+      "expires": 1730025056.018365,
+      "size": 314,
       "httpOnly": false,
       "secure": true,
       "session": false,
@@ -37,11 +37,11 @@
   "headers": {
     "content-encoding": "gzip",
     "content-type": "text/html",
-    "date": "Sun, 20 Oct 2024 07:49:01 GMT",
-    "etag": "W/\"67123359-c4c\"",
-    "last-modified": "Fri, 18 Oct 2024 10:07:21 GMT",
+    "date": "Sun, 27 Oct 2024 10:15:56 GMT",
+    "etag": "W/\"671b74a6-c4c\"",
+    "last-modified": "Fri, 25 Oct 2024 10:36:22 GMT",
     "referrer-policy": ": no-referrer",
-    "sozu-id": "01JAMECG5CQKR51HTG9HR2Z7QH",
+    "sozu-id": "01JB6QJSD4B0JXNAQ8HREH6VDZ",
     "strict-transport-security": ": max-age=31536000; includeSubDomains; preload",
     "x-content-type-options": ": nosniff",
     "x-download-options": ": noopen",
@@ -107,8 +107,19 @@
     },
     {
       "hostname": "fonts.googleapis.com",
-      "ip": "142.251.179.95",
+      "ip": "142.250.31.95",
       "geoip": {
+        "city": {
+          "geoname_id": 5375480,
+          "names": {
+            "de": "Mountain View",
+            "en": "Mountain View",
+            "fr": "Mountain View",
+            "ja": "マウンテンビュー",
+            "ru": "Маунтин-Вью",
+            "zh-CN": "芒廷维尤"
+          }
+        },
         "continent": {
           "code": "NA",
           "geoname_id": 6255149,
@@ -138,10 +149,14 @@
           }
         },
         "location": {
-          "accuracy_radius": 1000,
-          "latitude": 37.751,
-          "longitude": -97.822,
-          "time_zone": "America/Chicago"
+          "accuracy_radius": 20,
+          "latitude": 37.3891,
+          "longitude": -122.0867,
+          "metro_code": 807,
+          "time_zone": "America/Los_Angeles"
+        },
+        "postal": {
+          "code": "94035"
         },
         "registered_country": {
           "geoname_id": 6252001,
@@ -156,7 +171,23 @@
             "ru": "США",
             "zh-CN": "美国"
           }
-        }
+        },
+        "subdivisions": [
+          {
+            "geoname_id": 5332921,
+            "iso_code": "CA",
+            "names": {
+              "de": "Kalifornien",
+              "en": "California",
+              "es": "California",
+              "fr": "Californie",
+              "ja": "カリフォルニア州",
+              "pt-BR": "Califórnia",
+              "ru": "Калифорния",
+              "zh-CN": "加州"
+            }
+          }
+        ]
       }
     },
     {
@@ -249,6 +280,19 @@
       "hostname": "sentry.selego.co",
       "ip": "91.134.19.201",
       "geoip": {
+        "city": {
+          "geoname_id": 3038334,
+          "names": {
+            "de": "Ajaccio",
+            "en": "Ajaccio",
+            "es": "Ajaccio",
+            "fr": "Ajaccio",
+            "ja": "アジャクシオ",
+            "pt-BR": "Ajaccio",
+            "ru": "Аяччо",
+            "zh-CN": "阿雅克肖"
+          }
+        },
         "continent": {
           "code": "EU",
           "geoname_id": 6255148,
@@ -280,9 +324,12 @@
         },
         "location": {
           "accuracy_radius": 1000,
-          "latitude": 48.8582,
-          "longitude": 2.3387,
+          "latitude": 41.9199,
+          "longitude": 8.7424,
           "time_zone": "Europe/Paris"
+        },
+        "postal": {
+          "code": "20090"
         },
         "registered_country": {
           "geoname_id": 3017382,
@@ -298,7 +345,32 @@
             "ru": "Франция",
             "zh-CN": "法国"
           }
-        }
+        },
+        "subdivisions": [
+          {
+            "geoname_id": 3023519,
+            "iso_code": "20R",
+            "names": {
+              "de": "Korsika",
+              "en": "Corsica",
+              "fr": "Corse"
+            }
+          },
+          {
+            "geoname_id": 3023514,
+            "iso_code": "2A",
+            "names": {
+              "de": "Südkorsika",
+              "en": "South Corsica",
+              "es": "Córcega del Sur",
+              "fr": "Corse-du-Sud",
+              "ja": "コルス＝デュ＝シュド県",
+              "pt-BR": "Córsega do Sul",
+              "ru": "Южная Корсика",
+              "zh-CN": "南科西嘉"
+            }
+          }
+        ]
       }
     }
   ]
