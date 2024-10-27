@@ -122,7 +122,7 @@
     },
     {
       "type": "youtube",
-      "url": "https://www.youtube.com/s/player/e627e516/www-widgetapi.vflset/www-widgetapi.js",
+      "url": "https://www.youtube.com/s/player/fb725ac8/www-widgetapi.vflset/www-widgetapi.js",
       "details": {
         "id": "youtube",
         "message": "Dont embed youtube scripts, use peertube"
@@ -138,7 +138,7 @@
     },
     {
       "type": "youtube",
-      "url": "https://www.youtube.com/s/player/e627e516/www-player.css",
+      "url": "https://www.youtube.com/s/player/fb725ac8/www-player.css",
       "details": {
         "id": "youtube",
         "message": "Dont embed youtube scripts, use peertube"
@@ -146,7 +146,7 @@
     },
     {
       "type": "youtube",
-      "url": "https://www.youtube.com/s/player/e627e516/player_ias.vflset/en_US/embed.js",
+      "url": "https://www.youtube.com/s/player/fb725ac8/player_ias.vflset/en_US/embed.js",
       "details": {
         "id": "youtube",
         "message": "Dont embed youtube scripts, use peertube"
@@ -154,7 +154,7 @@
     },
     {
       "type": "youtube",
-      "url": "https://www.youtube.com/s/player/e627e516/www-embed-player.vflset/www-embed-player.js",
+      "url": "https://www.youtube.com/s/player/fb725ac8/www-embed-player.vflset/www-embed-player.js",
       "details": {
         "id": "youtube",
         "message": "Dont embed youtube scripts, use peertube"
@@ -162,7 +162,7 @@
     },
     {
       "type": "youtube",
-      "url": "https://www.youtube.com/s/player/e627e516/player_ias.vflset/en_US/base.js",
+      "url": "https://www.youtube.com/s/player/fb725ac8/player_ias.vflset/en_US/base.js",
       "details": {
         "id": "youtube",
         "message": "Dont embed youtube scripts, use peertube"
@@ -234,7 +234,7 @@
     },
     {
       "type": "youtube",
-      "url": "https://www.youtube.com/s/player/e627e516/player_ias.vflset/en_US/remote.js",
+      "url": "https://www.youtube.com/s/player/fb725ac8/player_ias.vflset/en_US/remote.js",
       "details": {
         "id": "youtube",
         "message": "Dont embed youtube scripts, use peertube"
@@ -242,7 +242,7 @@
     },
     {
       "type": "google",
-      "url": "https://www.google.com/js/th/gyvLGT4SlG9hcySxdvZkG1lUtlNU0j9yxJ8nnA460dY.js",
+      "url": "https://www.google.com/js/th/Nah9UXLmpETh3cZd5s9jkmhwr1LJoEjkklvCdqmvRdQ.js",
       "details": {
         "id": "google",
         "message": "Use hosted Matomo instance"
@@ -330,7 +330,7 @@
     },
     {
       "type": "youtube",
-      "url": "https://www.youtube.com/generate_204?rSLUmQ",
+      "url": "https://www.youtube.com/generate_204?VHKMIw",
       "details": {
         "id": "youtube",
         "message": "Dont embed youtube scripts, use peertube"
@@ -346,7 +346,7 @@
     },
     {
       "type": "youtube",
-      "url": "https://www.youtube.com/youtubei/v1/log_event?alt=json&key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8",
+      "url": "https://www.youtube.com/youtubei/v1/log_event?alt=json",
       "details": {
         "id": "youtube",
         "message": "Dont embed youtube scripts, use peertube"
@@ -359,7 +359,7 @@
       "value": "1",
       "domain": "eva.beta.gouv.fr",
       "path": "/",
-      "expires": 1729418943,
+      "expires": 1730035898,
       "size": 17,
       "httpOnly": false,
       "secure": false,
@@ -371,10 +371,10 @@
     },
     {
       "name": "_pk_id.100.5821",
-      "value": "91fb7b8bad218434.1729417144.",
+      "value": "586105e0e0bc451a.1730034098.",
       "domain": "eva.beta.gouv.fr",
       "path": "/",
-      "expires": 1763372344,
+      "expires": 1763989298,
       "size": 43,
       "httpOnly": false,
       "secure": false,
@@ -388,7 +388,7 @@
   "headers": {
     "content-encoding": "br",
     "content-type": "text/html; charset=UTF-8",
-    "date": "Sun, 20 Oct 2024 09:39:02 GMT",
+    "date": "Sun, 27 Oct 2024 13:01:37 GMT",
     "link": "<https://eva.beta.gouv.fr/wp-json/>; rel=\"https://api.w.org/\", <https://eva.beta.gouv.fr/wp-json/wp/v2/pages/407>; rel=\"alternate\"; type=\"application/json\", <https://eva.beta.gouv.fr/>; rel=shortlink",
     "server": "Apache",
     "vary": "Accept-Encoding",
@@ -453,7 +453,7 @@
     },
     {
       "hostname": "fonts.googleapis.com",
-      "ip": "142.250.191.74",
+      "ip": "64.233.180.95",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -593,8 +593,19 @@
     },
     {
       "hostname": "fonts.gstatic.com",
-      "ip": "142.250.189.195",
+      "ip": "142.250.31.94",
       "geoip": {
+        "city": {
+          "geoname_id": 5375480,
+          "names": {
+            "de": "Mountain View",
+            "en": "Mountain View",
+            "fr": "Mountain View",
+            "ja": "マウンテンビュー",
+            "ru": "Маунтин-Вью",
+            "zh-CN": "芒廷维尤"
+          }
+        },
         "continent": {
           "code": "NA",
           "geoname_id": 6255149,
@@ -624,10 +635,14 @@
           }
         },
         "location": {
-          "accuracy_radius": 1000,
-          "latitude": 37.751,
-          "longitude": -97.822,
-          "time_zone": "America/Chicago"
+          "accuracy_radius": 20,
+          "latitude": 37.3891,
+          "longitude": -122.0867,
+          "metro_code": 807,
+          "time_zone": "America/Los_Angeles"
+        },
+        "postal": {
+          "code": "94035"
         },
         "registered_country": {
           "geoname_id": 6252001,
@@ -642,7 +657,23 @@
             "ru": "США",
             "zh-CN": "美国"
           }
-        }
+        },
+        "subdivisions": [
+          {
+            "geoname_id": 5332921,
+            "iso_code": "CA",
+            "names": {
+              "de": "Kalifornien",
+              "en": "California",
+              "es": "California",
+              "fr": "Californie",
+              "ja": "カリフォルニア州",
+              "pt-BR": "Califórnia",
+              "ru": "Калифорния",
+              "zh-CN": "加州"
+            }
+          }
+        ]
       }
     },
     {
@@ -734,7 +765,7 @@
     },
     {
       "hostname": "www.youtube.com",
-      "ip": "142.250.191.46",
+      "ip": "142.251.111.91",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -788,7 +819,7 @@
     },
     {
       "hostname": "googleads.g.doubleclick.net",
-      "ip": "172.217.164.98",
+      "ip": "142.250.31.156",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -842,7 +873,7 @@
     },
     {
       "hostname": "static.doubleclick.net",
-      "ip": "142.251.214.134",
+      "ip": "172.253.115.148",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -896,8 +927,19 @@
     },
     {
       "hostname": "jnn-pa.googleapis.com",
-      "ip": "142.251.46.202",
+      "ip": "172.253.63.95",
       "geoip": {
+        "city": {
+          "geoname_id": 5375480,
+          "names": {
+            "de": "Mountain View",
+            "en": "Mountain View",
+            "fr": "Mountain View",
+            "ja": "マウンテンビュー",
+            "ru": "Маунтин-Вью",
+            "zh-CN": "芒廷维尤"
+          }
+        },
         "continent": {
           "code": "NA",
           "geoname_id": 6255149,
@@ -927,10 +969,14 @@
           }
         },
         "location": {
-          "accuracy_radius": 1000,
-          "latitude": 37.751,
-          "longitude": -97.822,
-          "time_zone": "America/Chicago"
+          "accuracy_radius": 20,
+          "latitude": 37.3891,
+          "longitude": -122.0867,
+          "metro_code": 807,
+          "time_zone": "America/Los_Angeles"
+        },
+        "postal": {
+          "code": "94035"
         },
         "registered_country": {
           "geoname_id": 6252001,
@@ -945,12 +991,28 @@
             "ru": "США",
             "zh-CN": "美国"
           }
-        }
+        },
+        "subdivisions": [
+          {
+            "geoname_id": 5332921,
+            "iso_code": "CA",
+            "names": {
+              "de": "Kalifornien",
+              "en": "California",
+              "es": "California",
+              "fr": "Californie",
+              "ja": "カリフォルニア州",
+              "pt-BR": "Califórnia",
+              "ru": "Калифорния",
+              "zh-CN": "加州"
+            }
+          }
+        ]
       }
     },
     {
       "hostname": "www.google.com",
-      "ip": "142.250.189.196",
+      "ip": "172.253.115.105",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -1004,7 +1066,7 @@
     },
     {
       "hostname": "i.ytimg.com",
-      "ip": "142.250.188.22",
+      "ip": "172.253.115.119",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -1058,7 +1120,7 @@
     },
     {
       "hostname": "yt3.ggpht.com",
-      "ip": "142.251.46.161",
+      "ip": "172.253.122.132",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -1112,7 +1174,7 @@
     },
     {
       "hostname": "www.gstatic.com",
-      "ip": "142.250.72.195",
+      "ip": "142.251.163.94",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -1166,7 +1228,7 @@
     },
     {
       "hostname": "play.google.com",
-      "ip": "142.251.46.174",
+      "ip": "142.251.179.139",
       "geoip": {
         "continent": {
           "code": "NA",
