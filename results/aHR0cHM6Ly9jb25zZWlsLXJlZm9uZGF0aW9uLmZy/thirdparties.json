@@ -6,7 +6,7 @@
     },
     {
       "type": "unknown",
-      "url": "https://stats.conseil-refondation.fr/matomo.php?action_name=Accueil%20%E2%80%94%20Conseil%20National%20de%20la%20Refondation&idsite=1&rec=1&r=701524&h=11&m=17&s=26&url=https%3A%2F%2Fconseil-refondation.fr%2F&_id=86ed3e16e82d18a2&_idn=1&send_image=0&_refts=0&cookie=1&res=800x600&pv_id=UcULPf&pf_net=24&pf_srv=177&pf_tfr=7&uadata=%7B%22fullVersionList%22%3A%5B%5D%2C%22mobile%22%3Afalse%2C%22model%22%3A%22%22%2C%22platform%22%3A%22%22%2C%22platformVersion%22%3A%22%22%7D"
+      "url": "https://stats.conseil-refondation.fr/matomo.php?action_name=Accueil%20%E2%80%94%20Conseil%20National%20de%20la%20Refondation&idsite=1&rec=1&r=205647&h=15&m=10&s=59&url=https%3A%2F%2Fconseil-refondation.fr%2F&_id=07bc86584ca83708&_idn=1&send_image=0&_refts=0&cookie=1&res=800x600&pv_id=7pdYkg&pf_net=21&pf_srv=392&pf_tfr=3&uadata=%7B%22fullVersionList%22%3A%5B%5D%2C%22mobile%22%3Afalse%2C%22model%22%3A%22%22%2C%22platform%22%3A%22%22%2C%22platformVersion%22%3A%22%22%7D"
     }
   ],
   "cookies": [
@@ -15,7 +15,7 @@
       "value": "1",
       "domain": "conseil-refondation.fr",
       "path": "/",
-      "expires": 1729424846,
+      "expires": 1730043659,
       "size": 15,
       "httpOnly": false,
       "secure": false,
@@ -27,10 +27,10 @@
     },
     {
       "name": "_pk_id.1.474c",
-      "value": "86ed3e16e82d18a2.1729423046.",
+      "value": "07bc86584ca83708.1730041860.",
       "domain": "conseil-refondation.fr",
       "path": "/",
-      "expires": 1763378246,
+      "expires": 1763997060,
       "size": 41,
       "httpOnly": false,
       "secure": false,
@@ -44,20 +44,20 @@
   "headers": {
     "alt-svc": "h3=\":443\"; ma=86400",
     "cf-cache-status": "DYNAMIC",
-    "cf-ray": "8d5899f59c2982c9-IAD",
+    "cf-ray": "8d939db31892ce8c-SJC",
     "content-encoding": "br",
-    "content-security-policy": "style-src 'self' 'unsafe-hashes' 'sha256-d//Lck7pNf/OY9MPfGYaIOTmqjEzvwlSukK3UObI08A=' 'sha256-Eyt3MCqJJqqqUJzUlVq9BLYX+kVGQZVLpJ4toZz4mb8=' 'sha256-Xhd5+zYamb/dMdyIkYwXmzaXokrsMrINTdCsO/s+Hcc=' 'sha256-dDZkVrIJy1Xyahb04E1npPS7ONJw3g8949x7gAc/kEY=' 'sha256-/68szNaQXdlDug09n2c6rD/J5VWzEfkXCRsVxk+Bc7s=' 'sha256-AthIs6YNuVjwfheHgESE8WAfJ61fXMZXX7s/UwRV5Dg=' embed.typeform.com; connect-src connect.facebook.net *.facebook.com 'self' stats.conseil-refondation.fr client.axept.io api.axept.io googletagmanager.com googleadservices.com googleads.g.doubleclick.net/ form.typeform.com; default-src 'self' data: localhost:8000; frame-src *.youtube.com *.facebook.com *.vimeo.com datawrapper.dwcdn.net form.typeform.com; img-src 'self' data: localhost:8000 *.google.com *.gstatic.com *.facebook.com *.google.fr cellar-c2.services.clever-cloud.com; script-src 'self' 'sha256-bniFC3kd4JwCYRuTuxW9AjUYecKEuyTLJ+5NH6TJBWE=' stats.conseil-refondation.fr 'sha256-1neh+DsrMKevQd7CmK4xkhFjYHtrpaiR8ncbjLw/w5E=' connect.facebook.net static.axept.io www.googletagmanager.com www.googleadservices.com googleads.g.doubleclick.net embed.typeform.com",
+    "content-security-policy": "frame-src *.youtube.com *.facebook.com *.vimeo.com datawrapper.dwcdn.net form.typeform.com; script-src 'self' 'sha256-bniFC3kd4JwCYRuTuxW9AjUYecKEuyTLJ+5NH6TJBWE=' stats.conseil-refondation.fr 'sha256-1neh+DsrMKevQd7CmK4xkhFjYHtrpaiR8ncbjLw/w5E=' connect.facebook.net static.axept.io www.googletagmanager.com www.googleadservices.com googleads.g.doubleclick.net embed.typeform.com; style-src 'self' 'unsafe-hashes' 'sha256-d//Lck7pNf/OY9MPfGYaIOTmqjEzvwlSukK3UObI08A=' 'sha256-Eyt3MCqJJqqqUJzUlVq9BLYX+kVGQZVLpJ4toZz4mb8=' 'sha256-Xhd5+zYamb/dMdyIkYwXmzaXokrsMrINTdCsO/s+Hcc=' 'sha256-dDZkVrIJy1Xyahb04E1npPS7ONJw3g8949x7gAc/kEY=' 'sha256-/68szNaQXdlDug09n2c6rD/J5VWzEfkXCRsVxk+Bc7s=' 'sha256-AthIs6YNuVjwfheHgESE8WAfJ61fXMZXX7s/UwRV5Dg=' embed.typeform.com; img-src 'self' data: localhost:8000 *.google.com *.gstatic.com *.facebook.com *.google.fr cellar-c2.services.clever-cloud.com; connect-src connect.facebook.net *.facebook.com 'self' stats.conseil-refondation.fr client.axept.io api.axept.io googletagmanager.com googleadservices.com googleads.g.doubleclick.net/ form.typeform.com; default-src 'self' data: localhost:8000",
     "content-type": "text/html; charset=utf-8",
-    "date": "Sun, 20 Oct 2024 11:17:26 GMT",
+    "date": "Sun, 27 Oct 2024 15:10:59 GMT",
     "nel": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}",
     "referrer-policy": "same-origin",
-    "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=jYBv15l8Dmy9jz6m2%2BsPNOsrd%2BL%2Fdos2oZgE01DdSwQPyQLiPn%2B03GjtUwQEimK%2FDi1mC2u9q3QX3E1nAPgzK19nCN1Fm6GrLlLnBD8NhaC5HfyI4yTyvHiPAfkfksZ7rGBfyGQuIP4E\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
+    "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=4OfpdfgfYrDZ%2FGmPxwMgS9nTyMFWfMhkYaEmFcKeBnk2FOsDce3Ni8yuR7epX77UuO06wKDZrkPfYB7aUJwSrH4znTNzGPSk0FfjjOGcZtjmC4Oge2CsPXpafv%2F9b3cyULiL7ZTBJTzT\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
     "server": "cloudflare",
-    "server-timing": "cfL4;desc=\"?proto=TCP&rtt=1486&sent=6&recv=8&lost=0&retrans=0&sent_bytes=2825&recv_bytes=1064&delivery_rate=1843770&cwnd=252&unsent_bytes=0&cid=824595d4ba17b797&ts=186&x=0\"",
+    "server-timing": "cfL4;desc=\"?proto=TCP&rtt=1256&sent=6&recv=9&lost=0&retrans=0&sent_bytes=2878&recv_bytes=1064&delivery_rate=2207109&cwnd=253&unsent_bytes=0&cid=930b46c225e69784&ts=399&x=0\"",
     "vary": "accept-encoding",
     "x-content-type-options": "nosniff",
     "x-frame-options": "DENY",
-    "x-request-id": "f9cfd431-9ce2-4554-bb2c-cc4a9bd2d4b3"
+    "x-request-id": "cec0a6b8-95bd-4ac9-a6ab-83f0cad76c3f"
   },
   "endpoints": [
     {
@@ -82,7 +82,7 @@
     },
     {
       "hostname": "stats.conseil-refondation.fr",
-      "ip": "172.67.130.24",
+      "ip": "104.21.7.98",
       "geoip": {
         "registered_country": {
           "geoname_id": 6252001,
