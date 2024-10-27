@@ -54,7 +54,7 @@
 <h1>Scan Report<br><small>Nmap 7.92</small>
 </h1>
 <pre style="white-space:pre-wrap; word-wrap:break-word;">nmap -sV --script vulners --script-args mincvss=5.0 -oA /data/nmapvuln www.monstagedetroisieme.fr</pre>
-<p class="lead">Sun Oct 20 08:07:59 2024 – Sun Oct 20 08:10:46 2024<br>1 hosts scanned.
+<p class="lead">Sun Oct 27 10:37:55 2024 – Sun Oct 27 10:40:38 2024<br>1 hosts scanned.
               1 hosts up.
               0 hosts down.
             </p>
@@ -76,7 +76,7 @@
 </tr></thead>
 <tbody><tr>
 <td><span class="label label-success">up</span></td>
-<td>91.208.207.222</td>
+<td>91.208.207.216</td>
 <td>www.monstagedetroisieme.fr</td>
 <td>13</td>
 <td>0</td>
@@ -91,8 +91,8 @@
             });
           </script><h2 id="onlinehosts" class="target">Online Hosts</h2>
 <div class="panel panel-default">
-<div class="panel-heading clickable" data-toggle="collapse" data-target="#91-208-207-222"><h3 class="panel-title">91.208.207.222 - www.monstagedetroisieme.fr</h3></div>
-<div class="panel-body collapse in" id="91-208-207-222">
+<div class="panel-heading clickable" data-toggle="collapse" data-target="#91-208-207-216"><h3 class="panel-title">91.208.207.216 - www.monstagedetroisieme.fr</h3></div>
+<div class="panel-body collapse in" id="91-208-207-216">
 <h4>Hostnames</h4>
 <ul><li>www.monstagedetroisieme.fr (user)</li></ul>
 <h4>Ports</h4>
@@ -124,12 +124,12 @@
     Cache-Control: no-cache
     Connection: close
     Content-Length: 479
-    Sozu-Id: 01JAMFG5K74TNCKBZ40Z27X08J
+    Sozu-Id: 01JB6RVP7RJEMJXZQ69AJX1WWF
     &lt;style&gt;pre{background:#EEE;padding:10px;border:1px solid #AAA;border-radius: 5px;}&lt;/style&gt;
     &lt;h1&gt;400 Bad Request&lt;/h1&gt;
     &lt;pre&gt;
     "route": "GET",
-    "request_id": "01JAMFG5K74TNCKBZ40Z27X08J",
+    "request_id": "01JB6RVP7RJEMJXZQ69AJX1WWF",
     &lt;/pre&gt;
     &lt;p&gt;Request could not be parsed. Parser stopped at phase: Body.&lt;/p&gt;
     &lt;p&gt;Diagnostic: Could not extract the route after connection started, this should not happen.&lt;/p&gt;
@@ -141,12 +141,12 @@
     Cache-Control: no-cache
     Connection: close
     Content-Length: 483
-    Sozu-Id: 01JAMFGBQ96GV3NJ348BSGFSFK
+    Sozu-Id: 01JB6RVW8P6BMDD6W7WCN9DD84
     &lt;style&gt;pre{background:#EEE;padding:10px;border:1px solid #AAA;border-radius: 5px;}&lt;/style&gt;
     &lt;h1&gt;400 Bad Request&lt;/h1&gt;
     &lt;pre&gt;
     "route": "OPTIONS",
-    "request_id": "01JAMFGBQ96GV3NJ348BSGFSFK",
+    "request_id": "01JB6RVW8P6BMDD6W7WCN9DD84",
     &lt;/pre&gt;
     &lt;p&gt;Request could not be parsed. Parser stopped at phase: Body.&lt;/p&gt;
     &lt;p&gt;Diagnostic: Could not extract the route after connection started, this should not happen.&lt;/p&gt;
@@ -158,12 +158,12 @@
     Cache-Control: no-cache
     Connection: close
     Content-Length: 885
-    Sozu-Id: 01JAMFGBZT2YZ9GBC160E547SY
+    Sozu-Id: 01JB6RVWE39D8N8V1F0SV1M26N
     &lt;style&gt;pre{background:#EEE;padding:10px;border:1px solid #AAA;border-radius: 5px;}&lt;/style&gt;
     &lt;h1&gt;400 Bad Request&lt;/h1&gt;
     &lt;pre&gt;
     "route": "",
-    "request_id": "01JAMFGBZT2YZ9GBC160E547SY",
+    "request_id": "01JB6RVWE39D8N8V1F0SV1M26N",
     &lt;/pre&gt;
     &lt;p&gt;Request could not be parsed. Parser stopped at phase: StatusLine.&lt;/p&gt;
     &lt;p&gt;Diagnostic: The request line is invalid. Make sure it is well formated and all characters are LATIN-1 (no UTF-8 allowed).&lt;/p&gt;
@@ -224,16 +224,26 @@
 <tr><td colspan="7">
 <a href="https://nvd.nist.gov/vuln/search/results?form_type=Advanced&amp;cves=on&amp;cpe_version="></a><h5>fingerprint-strings</h5>
 <pre style="white-space:pre-wrap; word-wrap:break-word;">
+  Kerberos: 
+    %&lt;7~
+    BDNd
+    &amp;r^k
+  SIPOptions: 
+    D+bx
+    ?kKqo
+    &lt;"Tx
+    _X|3V
+    i82_
+    ogg(
+    #};9
+    .FE@P
+    *Lzi
+    aN0hs
   SMBProgNeg: 
-    Zx%`
-    *.uS
-    V+w]
-    %.yu
+    qGtr32y,
   TLSSessionReq: 
-    `lNn
-    (Gk+3
-    ?6!ReO
-    u72K</pre>
+    &amp;WN=
+    J*sk</pre>
 </td></tr>
 <tr class="success">
 <td title="Port">5002</td>
@@ -255,11 +265,28 @@
 <td title="Protocol">tcp</td>
 <td title="State / Reason">open<br>syn-ack</td>
 <td title="Service">smtp</td>
-<td title="Product">Postfix smtpd</td>
+<td title="Product"></td>
 <td title="Version"></td>
 <td title="Extra Info"></td>
 </tr>
-<tr><td colspan="7"><a href="https://nvd.nist.gov/vuln/search/results?form_type=Advanced&amp;cves=on&amp;cpe_version=cpe:/a:postfix:postfix">cpe:/a:postfix:postfix</a></td></tr>
+<tr><td colspan="7">
+<a href="https://nvd.nist.gov/vuln/search/results?form_type=Advanced&amp;cves=on&amp;cpe_version="></a><h5>fingerprint-strings</h5>
+<pre style="white-space:pre-wrap; word-wrap:break-word;">
+  GenericLines, GetRequest: 
+    220 mailhog.example ESMTP MailHog
+    Unrecognised command
+    Unrecognised command
+  Hello: 
+    220 mailhog.example ESMTP MailHog
+    250-Hello 
+    250-PIPELINING
+    AUTH PLAIN
+  Help: 
+    220 mailhog.example ESMTP MailHog
+    Unrecognised command
+  NULL: 
+    220 mailhog.example ESMTP MailHog</pre>
+</td></tr>
 <tr class="success">
 <td title="Port">5357</td>
 <td title="Protocol">tcp</td>
@@ -365,7 +392,7 @@
 </tr></thead>
 <tbody>
 <tr>
-<td>91.208.207.222 - www.monstagedetroisieme.fr</td>
+<td>91.208.207.216 - www.monstagedetroisieme.fr</td>
 <td>80</td>
 <td>tcp</td>
 <td>http</td>
@@ -375,7 +402,7 @@
 <td></td>
 </tr>
 <tr>
-<td>91.208.207.222 - www.monstagedetroisieme.fr</td>
+<td>91.208.207.216 - www.monstagedetroisieme.fr</td>
 <td>443</td>
 <td>tcp</td>
 <td>https</td>
@@ -385,7 +412,7 @@
 <td></td>
 </tr>
 <tr>
-<td>91.208.207.222 - www.monstagedetroisieme.fr</td>
+<td>91.208.207.216 - www.monstagedetroisieme.fr</td>
 <td>1080</td>
 <td>tcp</td>
 <td>socks</td>
@@ -395,7 +422,7 @@
 <td></td>
 </tr>
 <tr>
-<td>91.208.207.222 - www.monstagedetroisieme.fr</td>
+<td>91.208.207.216 - www.monstagedetroisieme.fr</td>
 <td>1081</td>
 <td>tcp</td>
 <td>pvuniwien</td>
@@ -405,7 +432,7 @@
 <td></td>
 </tr>
 <tr>
-<td>91.208.207.222 - www.monstagedetroisieme.fr</td>
+<td>91.208.207.216 - www.monstagedetroisieme.fr</td>
 <td>3000</td>
 <td>tcp</td>
 <td>ppp</td>
@@ -415,7 +442,7 @@
 <td></td>
 </tr>
 <tr>
-<td>91.208.207.222 - www.monstagedetroisieme.fr</td>
+<td>91.208.207.216 - www.monstagedetroisieme.fr</td>
 <td>5002</td>
 <td>tcp</td>
 <td>ssh</td>
@@ -425,17 +452,17 @@
 <td>protocol 2.0</td>
 </tr>
 <tr>
-<td>91.208.207.222 - www.monstagedetroisieme.fr</td>
+<td>91.208.207.216 - www.monstagedetroisieme.fr</td>
 <td>5221</td>
 <td>tcp</td>
 <td>smtp</td>
-<td>Postfix smtpd</td>
 <td></td>
-<td>cpe:/a:postfix:postfix</td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr>
-<td>91.208.207.222 - www.monstagedetroisieme.fr</td>
+<td>91.208.207.216 - www.monstagedetroisieme.fr</td>
 <td>5357</td>
 <td>tcp</td>
 <td>ssh</td>
@@ -445,7 +472,7 @@
 <td>protocol 2.0</td>
 </tr>
 <tr>
-<td>91.208.207.222 - www.monstagedetroisieme.fr</td>
+<td>91.208.207.216 - www.monstagedetroisieme.fr</td>
 <td>5666</td>
 <td>tcp</td>
 <td>tcpwrapped</td>
@@ -455,7 +482,7 @@
 <td></td>
 </tr>
 <tr>
-<td>91.208.207.222 - www.monstagedetroisieme.fr</td>
+<td>91.208.207.216 - www.monstagedetroisieme.fr</td>
 <td>5800</td>
 <td>tcp</td>
 <td>amqp</td>
@@ -465,7 +492,7 @@
 <td>0-9</td>
 </tr>
 <tr>
-<td>91.208.207.222 - www.monstagedetroisieme.fr</td>
+<td>91.208.207.216 - www.monstagedetroisieme.fr</td>
 <td>5902</td>
 <td>tcp</td>
 <td>tcpwrapped</td>
@@ -475,7 +502,7 @@
 <td></td>
 </tr>
 <tr>
-<td>91.208.207.222 - www.monstagedetroisieme.fr</td>
+<td>91.208.207.216 - www.monstagedetroisieme.fr</td>
 <td>5962</td>
 <td>tcp</td>
 <td>unknown</td>
@@ -485,7 +512,7 @@
 <td></td>
 </tr>
 <tr>
-<td>91.208.207.222 - www.monstagedetroisieme.fr</td>
+<td>91.208.207.216 - www.monstagedetroisieme.fr</td>
 <td>9999</td>
 <td>tcp</td>
 <td>tcpwrapped</td>
