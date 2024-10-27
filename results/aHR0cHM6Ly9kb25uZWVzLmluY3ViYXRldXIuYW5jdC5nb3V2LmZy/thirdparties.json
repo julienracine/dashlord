@@ -6,7 +6,7 @@
       "value": "1",
       "domain": "donnees.incubateur.anct.gouv.fr",
       "path": "/",
-      "expires": 1729424964,
+      "expires": 1730044226,
       "size": 16,
       "httpOnly": false,
       "secure": false,
@@ -18,10 +18,10 @@
     },
     {
       "name": "_pk_id.73.8572",
-      "value": "63449bb730809bbf.1729423165.",
+      "value": "ba1f83d370838624.1730042426.",
       "domain": "donnees.incubateur.anct.gouv.fr",
       "path": "/",
-      "expires": 1763378365,
+      "expires": 1763997626,
       "size": 42,
       "httpOnly": false,
       "secure": false,
@@ -37,9 +37,9 @@
     "connection": "keep-alive",
     "content-encoding": "gzip",
     "content-type": "text/html; charset=utf-8",
-    "date": "Sun, 20 Oct 2024 11:19:23 GMT",
+    "date": "Sun, 27 Oct 2024 15:20:24 GMT",
     "etag": "W/\"0832e4afd5792e0060f139f37f0a01eaa844106b2281189805c0fd2bc5ab6bed\"",
-    "expires": "Sun, 20 Oct 2024 11:29:23 UTC",
+    "expires": "Sun, 27 Oct 2024 15:30:24 UTC",
     "last-modified": "Mon, 29 Jul 2024 09:50:40 GMT",
     "server": "nginx/1.18.0 (Ubuntu)",
     "strict-transport-security": "max-age=63072000",
@@ -94,7 +94,7 @@
           }
         },
         "location": {
-          "accuracy_radius": 500,
+          "accuracy_radius": 200,
           "latitude": 48.8323,
           "longitude": 2.4075,
           "time_zone": "Europe/Paris"
