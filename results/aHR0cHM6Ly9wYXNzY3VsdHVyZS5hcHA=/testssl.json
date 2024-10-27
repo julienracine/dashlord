@@ -178,14 +178,14 @@
               "ip"           : "passculture.app/34.111.135.217",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "'renegotiation info/#65281' 'EC point formats/#11' 'session ticket/#35' 'next protocol/#13172' 'key share/#51' 'supported versions/#43' 'extended master secret/#23' 'application layer protocol negotiation/#16'"
+              "finding"      : "'server name/#0' 'renegotiation info/#65281' 'EC point formats/#11' 'session ticket/#35' 'next protocol/#13172' 'key share/#51' 'supported versions/#43' 'extended master secret/#23' 'application layer protocol negotiation/#16'"
           }
 ,         {
               "id"           : "TLS_session_ticket",
               "ip"           : "passculture.app/34.111.135.217",
               "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "valid for 7200 seconds only (<daily)"
+              "severity"     : "LOW",
+              "finding"      : "valid for 100800 seconds (>daily)"
           }
 ,         {
               "id"           : "SSL_sessionID_support",
@@ -346,7 +346,7 @@
               "ip"           : "passculture.app/34.111.135.217",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "120 >= 60 days"
+              "finding"      : "113 >= 60 days"
           }
 ,         {
               "id"           : "cert_notBefore",
@@ -500,21 +500,21 @@
               "ip"           : "passculture.app/34.111.135.217",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "+1294 seconds from localtime"
+              "finding"      : "+2512 seconds from localtime"
           }
 ,         {
               "id"           : "HTTP_headerTime",
               "ip"           : "passculture.app/34.111.135.217",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1729403262"
+              "finding"      : "1730012409"
           }
 ,         {
               "id"           : "HTTP_headerAge",
               "ip"           : "passculture.app/34.111.135.217",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1305 seconds"
+              "finding"      : "2524 seconds"
           }
 ,         {
               "id"           : "HSTS",
@@ -1070,6 +1070,6 @@
               "ip"           : "passculture.app/34.111.135.217",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "39"
+              "finding"      : "40"
           }
 ]
