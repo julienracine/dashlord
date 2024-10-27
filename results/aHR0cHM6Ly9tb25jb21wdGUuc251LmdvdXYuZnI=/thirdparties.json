@@ -28,10 +28,10 @@
   "cookies": [
     {
       "name": "bln_challengejs",
-      "value": "y-ES4uvEdf9ShmPDtYxwMkfvtl2llRZmHC30ddFeJEZHep9NCAhzCOE4xvIqKbrAgFOD0YqA_PtA3ypWEkK4WZcF8-BlLC3Q5uWIsa9xE-tD5eFi49yIBugOE4TM1L0BijNbbiLCs2neqV7dWvhjOH9SH6qhCutKigoCf1Uq-TFwihXRg_nO7Pi1YkzNLOBSnQ8ncK20ysJ97Wcmtq2IAomLdaBnN34kyBQGmXlrFBD8yPR4aKOiHJtMcHhhz3_cOyrXoE0LSUCdY-god0gG7xFE7pOdggT3x690n-m2ppD0Gc_kO1ssnBhkwEW2XU9l",
+      "value": "IEkhQYSoPEgPFLLbiPcNDvVzA_s2Q2iJtOSjCHi_ADQNT-fhBOBnO5grtdsI0BHnELAEYTvPhWAPpiXUTE8rL-wtZ2TkHylCHxG-FIxUMQo0qQbq_Hdib5wQHy3L_nGrYxu-1DUpNH2gPT9qvSYqJtZfZv-SitTBf_XBWTmonkhqDpP3sNf8VkbdTrwmII_RSstZvOrs5lQ8zVDkv6vQ11XEkpk0qI2bAbM7yko3p6DiX3YdpUxx5ht8ye8jJiUlaPwuwEzzpzhVeJEtiBC2-IQR7hoH_SWceQyZ_x-1w6BWpk77uuXrVT4Am92WkmN7",
       "domain": ".snu.gouv.fr",
       "path": "/",
-      "expires": 1729410948.859883,
+      "expires": 1730024978.344829,
       "size": 335,
       "httpOnly": false,
       "secure": true,
@@ -45,11 +45,11 @@
   "headers": {
     "content-encoding": "gzip",
     "content-type": "text/html",
-    "date": "Sun, 20 Oct 2024 07:40:48 GMT",
-    "etag": "W/\"67123359-a8c\"",
-    "last-modified": "Fri, 18 Oct 2024 10:07:21 GMT",
+    "date": "Sun, 27 Oct 2024 10:14:38 GMT",
+    "etag": "W/\"671b74a4-a8c\"",
+    "last-modified": "Fri, 25 Oct 2024 10:36:20 GMT",
     "referrer-policy": ": no-referrer",
-    "sozu-id": "01JAMDXMBCDNH80BEHW2G2P597",
+    "sozu-id": "01JB6QGCYVSYP5CF67VQYEZ5Y6",
     "strict-transport-security": ": max-age=31536000; includeSubDomains; preload",
     "x-content-type-options": ": nosniff",
     "x-download-options": ": noopen",
@@ -115,7 +115,7 @@
     },
     {
       "hostname": "fonts.googleapis.com",
-      "ip": "142.251.32.42",
+      "ip": "142.250.191.138",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -169,18 +169,19 @@
     },
     {
       "hostname": "plausible.io",
-      "ip": "169.150.221.147",
+      "ip": "169.150.236.104",
       "geoip": {
         "city": {
-          "geoname_id": 5392171,
+          "geoname_id": 4887398,
           "names": {
-            "de": "San José",
-            "en": "San Jose",
-            "es": "San José",
-            "fr": "San José",
-            "ja": "サンノゼ",
-            "pt-BR": "San José",
-            "ru": "Сан-Хосе"
+            "de": "Chicago",
+            "en": "Chicago",
+            "es": "Chicago",
+            "fr": "Chicago",
+            "ja": "シカゴ",
+            "pt-BR": "Chicago",
+            "ru": "Чикаго",
+            "zh-CN": "芝加哥"
           }
         },
         "continent": {
@@ -213,13 +214,13 @@
         },
         "location": {
           "accuracy_radius": 20,
-          "latitude": 37.1835,
-          "longitude": -121.7714,
-          "metro_code": 807,
-          "time_zone": "America/Los_Angeles"
+          "latitude": 41.8874,
+          "longitude": -87.6318,
+          "metro_code": 602,
+          "time_zone": "America/Chicago"
         },
         "postal": {
-          "code": "95141"
+          "code": "60602"
         },
         "registered_country": {
           "geoname_id": 2635167,
@@ -237,17 +238,17 @@
         },
         "subdivisions": [
           {
-            "geoname_id": 5332921,
-            "iso_code": "CA",
+            "geoname_id": 4896861,
+            "iso_code": "IL",
             "names": {
-              "de": "Kalifornien",
-              "en": "California",
-              "es": "California",
-              "fr": "Californie",
-              "ja": "カリフォルニア州",
-              "pt-BR": "Califórnia",
-              "ru": "Калифорния",
-              "zh-CN": "加州"
+              "de": "Illinois",
+              "en": "Illinois",
+              "es": "Illinois",
+              "fr": "Illinois",
+              "ja": "イリノイ州",
+              "pt-BR": "Ilinóis",
+              "ru": "Иллинойс",
+              "zh-CN": "伊利诺伊州"
             }
           }
         ]
@@ -257,6 +258,19 @@
       "hostname": "sentry.selego.co",
       "ip": "91.134.19.201",
       "geoip": {
+        "city": {
+          "geoname_id": 3038334,
+          "names": {
+            "de": "Ajaccio",
+            "en": "Ajaccio",
+            "es": "Ajaccio",
+            "fr": "Ajaccio",
+            "ja": "アジャクシオ",
+            "pt-BR": "Ajaccio",
+            "ru": "Аяччо",
+            "zh-CN": "阿雅克肖"
+          }
+        },
         "continent": {
           "code": "EU",
           "geoname_id": 6255148,
@@ -288,9 +302,12 @@
         },
         "location": {
           "accuracy_radius": 1000,
-          "latitude": 48.8582,
-          "longitude": 2.3387,
+          "latitude": 41.9199,
+          "longitude": 8.7424,
           "time_zone": "Europe/Paris"
+        },
+        "postal": {
+          "code": "20090"
         },
         "registered_country": {
           "geoname_id": 3017382,
@@ -306,7 +323,32 @@
             "ru": "Франция",
             "zh-CN": "法国"
           }
-        }
+        },
+        "subdivisions": [
+          {
+            "geoname_id": 3023519,
+            "iso_code": "20R",
+            "names": {
+              "de": "Korsika",
+              "en": "Corsica",
+              "fr": "Corse"
+            }
+          },
+          {
+            "geoname_id": 3023514,
+            "iso_code": "2A",
+            "names": {
+              "de": "Südkorsika",
+              "en": "South Corsica",
+              "es": "Córcega del Sur",
+              "fr": "Corse-du-Sud",
+              "ja": "コルス＝デュ＝シュド県",
+              "pt-BR": "Córsega do Sul",
+              "ru": "Южная Корсика",
+              "zh-CN": "南科西嘉"
+            }
+          }
+        ]
       }
     }
   ]
