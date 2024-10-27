@@ -18,7 +18,7 @@
     },
     {
       "name": "__Host-next-auth.csrf-token",
-      "value": "f5775264a36b72d097bb38432175fa9b56466699a749bb59ee0d3ece16ef8e73%7C3acceb997deafb82e00d926a4893b0d7912f5552c652ff631dae9f76a239c598",
+      "value": "04670fe5a2c5e9c85b5377a46fd36a0bc603adee57d3834e9eb1482b460d4d1f%7Ccd0e1418fa419bbb22e1d2f1b5265e97b0f09e7e9bce824ebcf7964cba1f1e59",
       "domain": "plusfraichemaville.fr",
       "path": "/",
       "expires": -1,
@@ -35,20 +35,20 @@
   "headers": {
     "cache-control": "private, no-cache, no-store, max-age=0, must-revalidate",
     "content-encoding": "gzip",
-    "content-security-policy": "default-src 'self'; script-src 'self' https://stats.beta.gouv.fr 'nonce-NTFlNTI3ZGMtZGFiZS00Y2Y2LWE0OWYtOTkzZGVmMDFlZTBj' 'strict-dynamic' ; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' blob: data: https://plusfraichemaville.s3.fr-par.scw.cloud/ ; font-src 'self' https://fonts.gstatic.com/; object-src 'none'; base-uri 'self'; form-action 'self'; frame-src https://stats.plusfraichemaville.fr https://cloud.contact.ademe.fr; frame-ancestors 'none'; upgrade-insecure-requests; connect-src 'self' https://sentry.incubateur.net/ https://stats.beta.gouv.fr/matomo.php https://api-adresse.data.gouv.fr/search/ ;",
+    "content-security-policy": "default-src 'self'; script-src 'self' https://stats.beta.gouv.fr 'nonce-MWVhZGQyNGQtMGIxNy00ZTkyLTg5MDYtNWZhODJhNDhhNjk0' 'strict-dynamic' ; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' blob: data: https://plusfraichemaville.s3.fr-par.scw.cloud/ ; font-src 'self' https://fonts.gstatic.com/; object-src 'none'; base-uri 'self'; form-action 'self'; frame-src https://stats.plusfraichemaville.fr; frame-ancestors 'none'; upgrade-insecure-requests; connect-src 'self' https://sentry.incubateur.net/ https://stats.beta.gouv.fr/matomo.php https://api-adresse.data.gouv.fr/search/ ;",
     "content-type": "text/html; charset=utf-8",
-    "date": "Sun, 20 Oct 2024 06:17:51 GMT",
+    "date": "Sun, 27 Oct 2024 07:40:24 GMT",
     "strict-transport-security": "max-age=31536000",
     "vary": "RSC, Next-Router-State-Tree, Next-Router-Prefetch, Next-Url, Accept-Encoding",
     "x-content-type-options": "nosniff",
     "x-frame-options": "DENY",
     "x-powered-by": "Next.js",
-    "x-request-id": "8e7755b6-c604-4332-a151-0ba62b14db93"
+    "x-request-id": "28b5be31-3674-411c-bcfa-8396f7c1b03d"
   },
   "endpoints": [
     {
       "hostname": "plusfraichemaville.fr",
-      "ip": "5.104.101.30",
+      "ip": "148.253.75.120",
       "geoip": {
         "continent": {
           "code": "EU",
