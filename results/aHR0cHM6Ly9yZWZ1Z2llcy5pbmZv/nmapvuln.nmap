@@ -1,6 +1,6 @@
-# Nmap 7.92 scan initiated Sun Oct 20 14:11:40 2024 as: nmap -sV --script vulners --script-args mincvss=5.0 -oA /data/nmapvuln refugies.info
+# Nmap 7.92 scan initiated Sun Oct 27 17:58:24 2024 as: nmap -sV --script vulners --script-args mincvss=5.0 -oA /data/nmapvuln refugies.info
 Nmap scan report for refugies.info (34.120.26.1)
-Host is up (0.0019s latency).
+Host is up (0.0063s latency).
 rDNS record for 34.120.26.1: 1.26.120.34.bc.googleusercontent.com
 Not shown: 998 filtered tcp ports (no-response)
 PORT    STATE SERVICE   VERSION
@@ -10,28 +10,28 @@ PORT    STATE SERVICE   VERSION
 |     HTTP/1.0 400 Bad Request
 |     Content-Length: 54
 |     Content-Type: text/html; charset=UTF-8
-|     Date: Sun, 20 Oct 2024 14:12:05 GMT
+|     Date: Sun, 27 Oct 2024 17:58:50 GMT
 |     <html><title>Error 400 (Bad Request)!!1</title></html>
 |   FourOhFourRequest: 
 |     HTTP/1.0 301 Moved Permanently
 |     Cache-Control: private
 |     Location: https://34.120.26.1:443/nice%20ports%2C/Trinity.txt.bak
 |     Content-Length: 0
-|     Date: Sun, 20 Oct 2024 14:11:55 GMT
+|     Date: Sun, 27 Oct 2024 17:58:40 GMT
 |     Content-Type: text/html; charset=UTF-8
 |   GetRequest, HTTPOptions: 
 |     HTTP/1.0 301 Moved Permanently
 |     Cache-Control: private
 |     Location: https://34.120.26.1:443/
 |     Content-Length: 0
-|     Date: Sun, 20 Oct 2024 14:11:50 GMT
+|     Date: Sun, 27 Oct 2024 17:58:35 GMT
 |     Content-Type: text/html; charset=UTF-8
 |   Help: 
 |     HTTP/1.0 400 Bad Request
 |     Content-Type: text/html; charset=UTF-8
 |     Referrer-Policy: no-referrer
 |     Content-Length: 273
-|     Date: Sun, 20 Oct 2024 14:12:05 GMT
+|     Date: Sun, 27 Oct 2024 17:58:50 GMT
 |     <html><head>
 |     <meta http-equiv="content-type" content="text/html;charset=utf-8">
 |     <title>400 Bad Request</title>
@@ -46,7 +46,7 @@ PORT    STATE SERVICE   VERSION
 |     Content-Type: text/html; charset=UTF-8
 |     Referrer-Policy: no-referrer
 |     Content-Length: 273
-|     Date: Sun, 20 Oct 2024 14:11:50 GMT
+|     Date: Sun, 27 Oct 2024 17:58:35 GMT
 |     <html><head>
 |     <meta http-equiv="content-type" content="text/html;charset=utf-8">
 |     <title>400 Bad Request</title>
@@ -67,8 +67,8 @@ PORT    STATE SERVICE   VERSION
 |     etag: "vjkkf2kkwz1dv8"
 |     content-type: text/html; charset=utf-8
 |     vary: Accept-Encoding
-|     X-Cloud-Trace-Context: f083b2170aea7341f79853bd9dcfafe6
-|     Date: Sun, 20 Oct 2024 14:11:56 GMT
+|     X-Cloud-Trace-Context: 80140dada6f902e07f6569e0ea8d499a
+|     Date: Sun, 27 Oct 2024 17:58:41 GMT
 |     Server: Google Frontend
 |     Content-Length: 65930
 |     Via: 1.1 google
@@ -78,8 +78,8 @@ PORT    STATE SERVICE   VERSION
 |     HTTP/1.0 308 Permanent Redirect
 |     location: /fr
 |     refresh: 0;url=/fr
-|     X-Cloud-Trace-Context: 110f297b1829fd8c805186d17e29d439
-|     Date: Sun, 20 Oct 2024 14:11:56 GMT
+|     X-Cloud-Trace-Context: 290df7072e06f99f0c4f8096cc54648e
+|     Date: Sun, 27 Oct 2024 17:58:41 GMT
 |     Content-Type: text/html
 |     Server: Google Frontend
 |     Content-Length: 3
@@ -89,8 +89,8 @@ PORT    STATE SERVICE   VERSION
 |     HTTP/1.0 308 Permanent Redirect
 |     location: /fr
 |     refresh: 0;url=/fr
-|     X-Cloud-Trace-Context: 69c23ed4bdc66b3aded92bb250ed615a
-|     Date: Sun, 20 Oct 2024 14:11:56 GMT
+|     X-Cloud-Trace-Context: 4275cf5c77e69b7e612921a970ca520a
+|     Date: Sun, 27 Oct 2024 17:58:41 GMT
 |     Content-Type: text/html
 |     Server: Google Frontend
 |     Content-Length: 3
@@ -100,22 +100,22 @@ PORT    STATE SERVICE   VERSION
 |     HTTP/1.0 400 Bad Request
 |     Content-Length: 54
 |     Content-Type: text/html; charset=UTF-8
-|     Date: Sun, 20 Oct 2024 14:11:57 GMT
+|     Date: Sun, 27 Oct 2024 17:58:42 GMT
 |_    <html><title>Error 400 (Bad Request)!!1</title></html>
 2 services unrecognized despite returning data. If you know the service/version, please submit the following fingerprints at https://nmap.org/cgi-bin/submit.cgi?new-service :
 ==============NEXT SERVICE FINGERPRINT (SUBMIT INDIVIDUALLY)==============
-SF-Port80-TCP:V=7.92%I=7%D=10/20%Time=67150FA6%P=x86_64-alpine-linux-musl%
+SF-Port80-TCP:V=7.92%I=7%D=10/27%Time=671E7F4B%P=x86_64-alpine-linux-musl%
 SF:r(GetRequest,BE,"HTTP/1\.0\x20301\x20Moved\x20Permanently\r\nCache-Cont
 SF:rol:\x20private\r\nLocation:\x20https://34\.120\.26\.1:443/\r\nContent-
-SF:Length:\x200\r\nDate:\x20Sun,\x2020\x20Oct\x202024\x2014:11:50\x20GMT\r
+SF:Length:\x200\r\nDate:\x20Sun,\x2027\x20Oct\x202024\x2017:58:35\x20GMT\r
 SF:\nContent-Type:\x20text/html;\x20charset=UTF-8\r\n\r\n")%r(HTTPOptions,
 SF:BE,"HTTP/1\.0\x20301\x20Moved\x20Permanently\r\nCache-Control:\x20priva
 SF:te\r\nLocation:\x20https://34\.120\.26\.1:443/\r\nContent-Length:\x200\
-SF:r\nDate:\x20Sun,\x2020\x20Oct\x202024\x2014:11:50\x20GMT\r\nContent-Typ
+SF:r\nDate:\x20Sun,\x2027\x20Oct\x202024\x2017:58:35\x20GMT\r\nContent-Typ
 SF:e:\x20text/html;\x20charset=UTF-8\r\n\r\n")%r(RTSPRequest,1AD,"HTTP/1\.
 SF:0\x20400\x20Bad\x20Request\r\nContent-Type:\x20text/html;\x20charset=UT
 SF:F-8\r\nReferrer-Policy:\x20no-referrer\r\nContent-Length:\x20273\r\nDat
-SF:e:\x20Sun,\x2020\x20Oct\x202024\x2014:11:50\x20GMT\r\n\r\n\n<html><head
+SF:e:\x20Sun,\x2027\x20Oct\x202024\x2017:58:35\x20GMT\r\n\r\n\n<html><head
 SF:>\n<meta\x20http-equiv=\"content-type\"\x20content=\"text/html;charset=
 SF:utf-8\">\n<title>400\x20Bad\x20Request</title>\n</head>\n<body\x20text=
 SF:#000000\x20bgcolor=#ffffff>\n<h1>Error:\x20Bad\x20Request</h1>\n<h2>You
@@ -123,58 +123,58 @@ SF:r\x20client\x20has\x20issued\x20a\x20malformed\x20or\x20illegal\x20requ
 SF:est\.</h2>\n<h2></h2>\n</body></html>\n")%r(FourOhFourRequest,DD,"HTTP/
 SF:1\.0\x20301\x20Moved\x20Permanently\r\nCache-Control:\x20private\r\nLoc
 SF:ation:\x20https://34\.120\.26\.1:443/nice%20ports%2C/Trinity\.txt\.bak\
-SF:r\nContent-Length:\x200\r\nDate:\x20Sun,\x2020\x20Oct\x202024\x2014:11:
-SF:55\x20GMT\r\nContent-Type:\x20text/html;\x20charset=UTF-8\r\n\r\n")%r(D
+SF:r\nContent-Length:\x200\r\nDate:\x20Sun,\x2027\x20Oct\x202024\x2017:58:
+SF:40\x20GMT\r\nContent-Type:\x20text/html;\x20charset=UTF-8\r\n\r\n")%r(D
 SF:NSVersionBindReqTCP,B3,"HTTP/1\.0\x20400\x20Bad\x20Request\r\nContent-L
 SF:ength:\x2054\r\nContent-Type:\x20text/html;\x20charset=UTF-8\r\nDate:\x
-SF:20Sun,\x2020\x20Oct\x202024\x2014:12:05\x20GMT\r\n\r\n<html><title>Erro
+SF:20Sun,\x2027\x20Oct\x202024\x2017:58:50\x20GMT\r\n\r\n<html><title>Erro
 SF:r\x20400\x20\(Bad\x20Request\)!!1</title></html>")%r(DNSStatusRequestTC
 SF:P,B3,"HTTP/1\.0\x20400\x20Bad\x20Request\r\nContent-Length:\x2054\r\nCo
-SF:ntent-Type:\x20text/html;\x20charset=UTF-8\r\nDate:\x20Sun,\x2020\x20Oc
-SF:t\x202024\x2014:12:05\x20GMT\r\n\r\n<html><title>Error\x20400\x20\(Bad\
+SF:ntent-Type:\x20text/html;\x20charset=UTF-8\r\nDate:\x20Sun,\x2027\x20Oc
+SF:t\x202024\x2017:58:50\x20GMT\r\n\r\n<html><title>Error\x20400\x20\(Bad\
 SF:x20Request\)!!1</title></html>")%r(Help,1AD,"HTTP/1\.0\x20400\x20Bad\x2
 SF:0Request\r\nContent-Type:\x20text/html;\x20charset=UTF-8\r\nReferrer-Po
-SF:licy:\x20no-referrer\r\nContent-Length:\x20273\r\nDate:\x20Sun,\x2020\x
-SF:20Oct\x202024\x2014:12:05\x20GMT\r\n\r\n\n<html><head>\n<meta\x20http-e
+SF:licy:\x20no-referrer\r\nContent-Length:\x20273\r\nDate:\x20Sun,\x2027\x
+SF:20Oct\x202024\x2017:58:50\x20GMT\r\n\r\n\n<html><head>\n<meta\x20http-e
 SF:quiv=\"content-type\"\x20content=\"text/html;charset=utf-8\">\n<title>4
 SF:00\x20Bad\x20Request</title>\n</head>\n<body\x20text=#000000\x20bgcolor
 SF:=#ffffff>\n<h1>Error:\x20Bad\x20Request</h1>\n<h2>Your\x20client\x20has
 SF:\x20issued\x20a\x20malformed\x20or\x20illegal\x20request\.</h2>\n<h2></
 SF:h2>\n</body></html>\n");
 ==============NEXT SERVICE FINGERPRINT (SUBMIT INDIVIDUALLY)==============
-SF-Port443-TCP:V=7.92%T=SSL%I=7%D=10/20%Time=67150FAC%P=x86_64-alpine-linu
+SF-Port443-TCP:V=7.92%T=SSL%I=7%D=10/27%Time=671E7F51%P=x86_64-alpine-linu
 SF:x-musl%r(GetRequest,136,"HTTP/1\.0\x20308\x20Permanent\x20Redirect\r\nl
-SF:ocation:\x20/fr\r\nrefresh:\x200;url=/fr\r\nX-Cloud-Trace-Context:\x201
-SF:10f297b1829fd8c805186d17e29d439\r\nDate:\x20Sun,\x2020\x20Oct\x202024\x
-SF:2014:11:56\x20GMT\r\nContent-Type:\x20text/html\r\nServer:\x20Google\x2
+SF:ocation:\x20/fr\r\nrefresh:\x200;url=/fr\r\nX-Cloud-Trace-Context:\x202
+SF:90df7072e06f99f0c4f8096cc54648e\r\nDate:\x20Sun,\x2027\x20Oct\x202024\x
+SF:2017:58:41\x20GMT\r\nContent-Type:\x20text/html\r\nServer:\x20Google\x2
 SF:0Frontend\r\nContent-Length:\x203\r\nVia:\x201\.1\x20google\r\nAlt-Svc:
 SF:\x20h3=\":443\";\x20ma=2592000,h3-29=\":443\";\x20ma=2592000\r\n\r\n/fr
 SF:")%r(HTTPOptions,136,"HTTP/1\.0\x20308\x20Permanent\x20Redirect\r\nloca
-SF:tion:\x20/fr\r\nrefresh:\x200;url=/fr\r\nX-Cloud-Trace-Context:\x2069c2
-SF:3ed4bdc66b3aded92bb250ed615a\r\nDate:\x20Sun,\x2020\x20Oct\x202024\x201
-SF:4:11:56\x20GMT\r\nContent-Type:\x20text/html\r\nServer:\x20Google\x20Fr
+SF:tion:\x20/fr\r\nrefresh:\x200;url=/fr\r\nX-Cloud-Trace-Context:\x204275
+SF:cf5c77e69b7e612921a970ca520a\r\nDate:\x20Sun,\x2027\x20Oct\x202024\x201
+SF:7:58:41\x20GMT\r\nContent-Type:\x20text/html\r\nServer:\x20Google\x20Fr
 SF:ontend\r\nContent-Length:\x203\r\nVia:\x201\.1\x20google\r\nAlt-Svc:\x2
 SF:0h3=\":443\";\x20ma=2592000,h3-29=\":443\";\x20ma=2592000\r\n\r\n/fr")%
-SF:r(FourOhFourRequest,5CFC,"HTTP/1\.0\x20404\x20Not\x20Found\r\ncache-con
-SF:trol:\x20private,\x20no-cache,\x20no-store,\x20max-age=0,\x20must-reval
-SF:idate\r\nx-nextjs-cache:\x20HIT\r\nx-powered-by:\x20Next\.js\r\netag:\x
-SF:20\"vjkkf2kkwz1dv8\"\r\ncontent-type:\x20text/html;\x20charset=utf-8\r\
-SF:nvary:\x20Accept-Encoding\r\nX-Cloud-Trace-Context:\x20f083b2170aea7341
-SF:f79853bd9dcfafe6\r\nDate:\x20Sun,\x2020\x20Oct\x202024\x2014:11:56\x20G
-SF:MT\r\nServer:\x20Google\x20Frontend\r\nContent-Length:\x2065930\r\nVia:
-SF:\x201\.1\x20google\r\nAlt-Svc:\x20h3=\":443\";\x20ma=2592000,h3-29=\":4
-SF:43\";\x20ma=2592000\r\n\r\n<!DOCTYPE\x20html><html\x20data-fr-scheme=\"
-SF:light\"\x20data-fr-theme=\"light\"\x20lang=\"default\"><head><meta\x20c
-SF:harSet=\"utf-8\"/><link\x20rel=\"apple-touch-icon\"\x20href=\"/_next/st
-SF:atic/media/apple-touch-icon\.1db30588\.png\"/><link\x20rel=\"icon\"\x20
-SF:href=\"/_next/static/media/favicon\.f453a8cf\.svg\"\x20type=\"image/svg
-SF:\+xml\"/><link\x20rel=\"shortcut\x20icon\"\x20href=\"/_next/static/medi
-SF:a/favicon\.8c087985\.ico\"\x20type=\"image/x-icon\"/><style\x20id=\"dsf
-SF:r-root-color-scheme\">:root\x20{\x20color-scheme:\x20light;\x20}</style
-SF:><me")%r(tor-versions,B3,"HTTP/1\.0\x20400\x20Bad\x20Request\r\nContent
-SF:-Length:\x2054\r\nContent-Type:\x20text/html;\x20charset=UTF-8\r\nDate:
-SF:\x20Sun,\x2020\x20Oct\x202024\x2014:11:57\x20GMT\r\n\r\n<html><title>Er
-SF:ror\x20400\x20\(Bad\x20Request\)!!1</title></html>");
+SF:r(FourOhFourRequest,10347,"HTTP/1\.0\x20404\x20Not\x20Found\r\ncache-co
+SF:ntrol:\x20private,\x20no-cache,\x20no-store,\x20max-age=0,\x20must-reva
+SF:lidate\r\nx-nextjs-cache:\x20HIT\r\nx-powered-by:\x20Next\.js\r\netag:\
+SF:x20\"vjkkf2kkwz1dv8\"\r\ncontent-type:\x20text/html;\x20charset=utf-8\r
+SF:\nvary:\x20Accept-Encoding\r\nX-Cloud-Trace-Context:\x2080140dada6f902e
+SF:07f6569e0ea8d499a\r\nDate:\x20Sun,\x2027\x20Oct\x202024\x2017:58:41\x20
+SF:GMT\r\nServer:\x20Google\x20Frontend\r\nContent-Length:\x2065930\r\nVia
+SF::\x201\.1\x20google\r\nAlt-Svc:\x20h3=\":443\";\x20ma=2592000,h3-29=\":
+SF:443\";\x20ma=2592000\r\n\r\n<!DOCTYPE\x20html><html\x20data-fr-scheme=\
+SF:"light\"\x20data-fr-theme=\"light\"\x20lang=\"default\"><head><meta\x20
+SF:charSet=\"utf-8\"/><link\x20rel=\"apple-touch-icon\"\x20href=\"/_next/s
+SF:tatic/media/apple-touch-icon\.1db30588\.png\"/><link\x20rel=\"icon\"\x2
+SF:0href=\"/_next/static/media/favicon\.f453a8cf\.svg\"\x20type=\"image/sv
+SF:g\+xml\"/><link\x20rel=\"shortcut\x20icon\"\x20href=\"/_next/static/med
+SF:ia/favicon\.8c087985\.ico\"\x20type=\"image/x-icon\"/><style\x20id=\"ds
+SF:fr-root-color-scheme\">:root\x20{\x20color-scheme:\x20light;\x20}</styl
+SF:e><me")%r(tor-versions,B3,"HTTP/1\.0\x20400\x20Bad\x20Request\r\nConten
+SF:t-Length:\x2054\r\nContent-Type:\x20text/html;\x20charset=UTF-8\r\nDate
+SF::\x20Sun,\x2027\x20Oct\x202024\x2017:58:42\x20GMT\r\n\r\n<html><title>E
+SF:rror\x20400\x20\(Bad\x20Request\)!!1</title></html>");
 
 Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
-# Nmap done at Sun Oct 20 14:12:50 2024 -- 1 IP address (1 host up) scanned in 70.13 seconds
+# Nmap done at Sun Oct 27 17:59:35 2024 -- 1 IP address (1 host up) scanned in 70.95 seconds
