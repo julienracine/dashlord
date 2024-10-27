@@ -7,7 +7,7 @@
     "content-type": "application/json",
     "country-package": "openfisca-france",
     "country-package-version": "168.0.14",
-    "date": "Sun, 20 Oct 2024 05:33:19 GMT",
+    "date": "Sun, 27 Oct 2024 06:31:58 GMT",
     "server": "nginx/1.18.0"
   },
   "endpoints": [
@@ -15,15 +15,6 @@
       "hostname": "openfisca.mes-aides.1jeune1solution.beta.gouv.fr",
       "ip": "5.135.137.147",
       "geoip": {
-        "city": {
-          "geoname_id": 2975525,
-          "names": {
-            "en": "Savigny-sur-Orge",
-            "ja": "サヴィニー＝シュル＝オルジュ",
-            "ru": "Савиньи-сюр-Орж",
-            "zh-CN": "奥尔日河畔萨维尼"
-          }
-        },
         "continent": {
           "code": "EU",
           "geoname_id": 6255148,
@@ -55,12 +46,9 @@
         },
         "location": {
           "accuracy_radius": 500,
-          "latitude": 48.6738,
-          "longitude": 2.3484,
+          "latitude": 48.8582,
+          "longitude": 2.3387,
           "time_zone": "Europe/Paris"
-        },
-        "postal": {
-          "code": "91600"
         },
         "registered_country": {
           "geoname_id": 3017382,
@@ -76,37 +64,7 @@
             "ru": "Франция",
             "zh-CN": "法国"
           }
-        },
-        "subdivisions": [
-          {
-            "geoname_id": 3012874,
-            "iso_code": "IDF",
-            "names": {
-              "de": "Île-de-France",
-              "en": "Île-de-France",
-              "es": "Isla de Francia",
-              "fr": "Île-de-France",
-              "ja": "イル・ド・フランス",
-              "pt-BR": "Ilha de França",
-              "ru": "Иль-де-Франс",
-              "zh-CN": "法兰西岛"
-            }
-          },
-          {
-            "geoname_id": 3019599,
-            "iso_code": "91",
-            "names": {
-              "de": "Essonne",
-              "en": "Essonne",
-              "es": "Essonne",
-              "fr": "Essonne",
-              "ja": "エソンヌ県",
-              "pt-BR": "Essonne",
-              "ru": "Эсон",
-              "zh-CN": "埃松省"
-            }
-          }
-        ]
+        }
       }
     }
   ]

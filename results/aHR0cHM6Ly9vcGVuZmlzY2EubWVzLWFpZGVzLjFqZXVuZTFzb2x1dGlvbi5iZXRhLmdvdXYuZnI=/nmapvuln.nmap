@@ -1,6 +1,6 @@
-# Nmap 7.92 scan initiated Sun Oct 20 05:34:34 2024 as: nmap -sV --script vulners --script-args mincvss=5.0 -oA /data/nmapvuln openfisca.mes-aides.1jeune1solution.beta.gouv.fr
+# Nmap 7.92 scan initiated Sun Oct 27 06:33:15 2024 as: nmap -sV --script vulners --script-args mincvss=5.0 -oA /data/nmapvuln openfisca.mes-aides.1jeune1solution.beta.gouv.fr
 Nmap scan report for openfisca.mes-aides.1jeune1solution.beta.gouv.fr (5.135.137.147)
-Host is up (0.085s latency).
+Host is up (0.089s latency).
 rDNS record for 5.135.137.147: ns321596.ip-5-135-137.eu
 Not shown: 995 closed tcp ports (reset)
 PORT     STATE SERVICE  VERSION
@@ -12,6 +12,7 @@ PORT     STATE SERVICE  VERSION
 |     	8FC9C5AB-3968-5F3C-825E-E8DB5379A623	9.8	https://vulners.com/githubexploit/8FC9C5AB-3968-5F3C-825E-E8DB5379A623	*EXPLOIT*
 |     	8AD01159-548E-546E-AA87-2DE89F3927EC	9.8	https://vulners.com/githubexploit/8AD01159-548E-546E-AA87-2DE89F3927EC	*EXPLOIT*
 |     	5E6968B4-DBD6-57FA-BF6E-D9B2219DB27A	9.8	https://vulners.com/githubexploit/5E6968B4-DBD6-57FA-BF6E-D9B2219DB27A	*EXPLOIT*
+|     	0221525F-07F5-5790-912D-F4B9E2D1B587	9.8	https://vulners.com/githubexploit/0221525F-07F5-5790-912D-F4B9E2D1B587	*EXPLOIT*
 |     	SSV:92579	7.5	https://vulners.com/seebug/SSV:92579	*EXPLOIT*
 |     	PACKETSTORM:173661	7.5	https://vulners.com/packetstorm/PACKETSTORM:173661	*EXPLOIT*
 |     	F0979183-AE88-53B4-86CF-3AF0523F3807	7.5	https://vulners.com/githubexploit/F0979183-AE88-53B4-86CF-3AF0523F3807	*EXPLOIT*
@@ -32,4 +33,4 @@ PORT     STATE SERVICE  VERSION
 Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
 
 Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
-# Nmap done at Sun Oct 20 05:34:50 2024 -- 1 IP address (1 host up) scanned in 16.63 seconds
+# Nmap done at Sun Oct 27 06:33:31 2024 -- 1 IP address (1 host up) scanned in 16.78 seconds
