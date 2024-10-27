@@ -14,7 +14,7 @@
     },
     {
       "type": "unknown",
-      "url": "https://analytics.pix.fr/piwik.php?action_name=%2Fconnexion&idsite=3&rec=1&r=807471&h=2&m=13&s=42&url=https%3A%2F%2Fapp.pix.fr%2Fconnexion&_id=1fc61b3c9a53889e&_idn=1&send_image=0&_refts=0&cookie=1&res=800x600&pv_id=zQSOLW&pf_net=0&pf_srv=166&pf_tfr=1&pf_dm1=968&pf_dm2=818&pf_onl=1"
+      "url": "https://analytics.pix.fr/piwik.php?action_name=%2Fconnexion&idsite=3&rec=1&r=206785&h=2&m=18&s=27&url=https%3A%2F%2Fapp.pix.fr%2Fconnexion&_id=2bbb273047906456&_idn=1&send_image=0&_refts=0&cookie=1&res=800x600&pv_id=Fv2noK&pf_net=0&pf_srv=110&pf_tfr=1&pf_dm1=630&pf_dm2=565&pf_onl=1"
     }
   ],
   "cookies": [
@@ -23,7 +23,7 @@
       "value": "fr-FR",
       "domain": ".pix.fr",
       "path": "/",
-      "expires": 1760926420.953777,
+      "expires": 1761531506.497998,
       "size": 11,
       "httpOnly": false,
       "secure": false,
@@ -35,11 +35,11 @@
     },
     {
       "name": "visit_baleen_ACM-655d43",
-      "value": "CJ6NlQVTcLb-4_DeUuXAGasLcMmo9m5vbiMN3Jcuqi86i849l43ycTXOwoHeYhGF037nsgeZeV3quJIZS_C6S_SpkR6nJ6oFgdYyWjpQt8zTrp1SO9zrG7KSSzvg6AcxCwaMQtjDfTCdnGfPQZY83efZUnwkk1G-0_WIHVXtUvS61VJVl5-kgYhf25ViyuXMnx8NefMUxjH55EaiwPoZ7j4rgq4-k_6NEWUG2wxzbn_QEoBVPE9-vpwOx7mu-wCquLhjBFr1XWcb53nfkRS-7F3Xd8PH4R2e2Uzht1BCuzo",
+      "value": "cyo0N6Nc9z7V2NfWEgoHc9qXZnHeOfk5dqfkFrP52bZ7mUTe65jAYslxZcx1hCG-IkCEVk9LLBqCFdveid1-7f32Y_OnYCLarX3IcZ01DTeNVL4TD4sZu6CHXVaF05Qx2fBNoqtYMDHmL8TBidZAY5--PTsHKxrVH12FZr7GZps0YCkvilrXv0LTghL26Oxq4dbIQL-Q7S7vKxDJCwzqgPn3f-eVyyQlXVA1Q4eOqkqN8JBU1LlBx5HLt57zWfiRmN5BaulHcQDU-QVywzX2yIEXsQdAR5P2ldFvMEN2CxAKeXm7qRdEpuqLry4rJAvU",
       "domain": ".pix.fr",
       "path": "/",
-      "expires": 1729391319.372411,
-      "size": 322,
+      "expires": 1729996405.407966,
+      "size": 343,
       "httpOnly": false,
       "secure": true,
       "session": false,
@@ -56,24 +56,24 @@
     "content-encoding": "gzip",
     "content-security-policy-report-only": "style-src 'self' 'unsafe-inline'; img-src 'self' https: data:; font-src 'self'; frame-src *.pix.fr data:; connect-src 'self' analytics.pix.fr; script-src 'self' analytics.pix.fr 'sha256-zzl6AXEYNbODqut4N1s48ebXWb9C1EcejDmXsYvw5uQ='; report-uri https://csp-report.pix.fr",
     "content-type": "text/html; charset=utf-8",
-    "date": "Sun, 20 Oct 2024 02:13:39 GMT",
-    "etag": "W/\"67126d02-1096\"",
-    "expires": "Sun, 20 Oct 2024 02:13:38 GMT",
-    "last-modified": "Fri, 18 Oct 2024 14:13:22 GMT",
+    "date": "Sun, 27 Oct 2024 02:18:25 GMT",
+    "etag": "W/\"671a42f7-1096\"",
+    "expires": "Sun, 27 Oct 2024 02:18:24 GMT",
+    "last-modified": "Thu, 24 Oct 2024 12:52:07 GMT",
     "referrer-policy": "origin-when-cross-origin",
     "strict-transport-security": "max-age=31536000",
     "vary": "Accept-Encoding",
     "x-content-type-options": "nosniff",
     "x-frame-options": "SAMEORIGIN",
-    "x-request-id": "5d2a91dc7b34130fee5c1262013f9cb3",
+    "x-request-id": "f2967791be61dc18e84ee9d14bd9c857",
     "x-robots-tag": "noindex",
-    "x-varnish": "573119827",
+    "x-varnish": "558573361",
     "x-xss-protection": "1"
   },
   "endpoints": [
     {
       "hostname": "app.pix.fr",
-      "ip": "185.179.149.158",
+      "ip": "185.231.167.158",
       "geoip": {
         "continent": {
           "code": "EU",
@@ -129,7 +129,7 @@
     },
     {
       "hostname": "fonts.googleapis.com",
-      "ip": "142.250.189.170",
+      "ip": "142.251.163.95",
       "geoip": {
         "continent": {
           "code": "NA",
