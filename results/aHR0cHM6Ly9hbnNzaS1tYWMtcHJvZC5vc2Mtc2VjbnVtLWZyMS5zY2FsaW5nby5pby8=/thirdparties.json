@@ -6,7 +6,7 @@
       "value": "1",
       "domain": "anssi-mac-prod.osc-secnum-fr1.scalingo.io",
       "path": "/",
-      "expires": 1729429472,
+      "expires": 1730048321,
       "size": 17,
       "httpOnly": false,
       "secure": false,
@@ -18,10 +18,10 @@
     },
     {
       "name": "_pk_id.116.e5db",
-      "value": "2586479d476ebc96.1729427672.",
+      "value": "ba9b5659c41f37c3.1730046521.",
       "domain": "anssi-mac-prod.osc-secnum-fr1.scalingo.io",
       "path": "/",
-      "expires": 1763382872,
+      "expires": 1764001721,
       "size": 43,
       "httpOnly": false,
       "secure": false,
@@ -37,20 +37,20 @@
     "content-encoding": "gzip",
     "content-security-policy": "default-src 'self'; script-src 'report-sample' 'self' https://stats.beta.gouv.fr/matomo.js https://stats.beta.gouv.fr/js/container_5FRF0Y8m.js https://stats.beta.gouv.fr/plugins/HeatmapSessionRecording/; style-src 'report-sample' 'self'; object-src 'none'; base-uri 'self'; connect-src 'self' https://stats.beta.gouv.fr; font-src 'self'; frame-src 'self' https://anssi-mac-journal-prod.osc-secnum-fr1.scalingo.io; img-src 'self' data: https; manifest-src 'self'; media-src 'self'; frame-ancestors 'none'; form-action 'self';",
     "content-type": "text/html; charset=UTF-8",
-    "date": "Sun, 20 Oct 2024 12:34:30 GMT",
-    "etag": "W/\"422-1929b31dbc8\"",
-    "last-modified": "Thu, 17 Oct 2024 15:56:29 GMT",
+    "date": "Sun, 27 Oct 2024 16:28:38 GMT",
+    "etag": "W/\"46f-192c386db00\"",
+    "last-modified": "Fri, 25 Oct 2024 11:54:08 GMT",
     "ratelimit-limit": "100",
-    "ratelimit-remaining": "71",
-    "ratelimit-reset": "12",
+    "ratelimit-remaining": "83",
+    "ratelimit-reset": "188",
     "strict-transport-security": "max-age=63072000; includeSubDomains; preload",
     "x-content-type-options": "nosniff",
-    "x-request-id": "b9f3fc72-0fe6-4d30-a9f0-26326b4ea44c"
+    "x-request-id": "c7c55527-5a33-422a-b128-b56e60150b91"
   },
   "endpoints": [
     {
       "hostname": "anssi-mac-prod.osc-secnum-fr1.scalingo.io",
-      "ip": "148.253.96.193",
+      "ip": "80.247.13.145",
       "geoip": {
         "continent": {
           "code": "EU",
