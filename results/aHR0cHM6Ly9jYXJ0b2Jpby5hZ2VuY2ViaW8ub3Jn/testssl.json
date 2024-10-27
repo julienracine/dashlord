@@ -381,7 +381,7 @@
               "ip"           : "cartobio.agencebio.org/172.67.210.31",
               "port"         : "443",
               "severity"     : "MEDIUM",
-              "finding"      : "expires < 60 days (42)"
+              "finding"      : "expires < 60 days (35)"
           }
 ,         {
               "id"           : "cert_notBefore",
@@ -591,7 +591,7 @@
               "ip"           : "cartobio.agencebio.org/172.67.210.31",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1729392192"
+              "finding"      : "1729997095"
           }
 ,         {
               "id"           : "HSTS",
@@ -612,7 +612,7 @@
               "ip"           : "cartobio.agencebio.org/172.67.210.31",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "cloudflareserver-timing: cfL4;desc='?proto=TCP&rtt=1835&sent=5&recv=6&lost=0&retrans=0&sent_bytes=3002&recv_bytes=739&delivery_rate=1791718&cwnd=252&unsent_bytes=0&cid=f641074b6b4d259d&ts=113&x=0'"
+              "finding"      : "cloudflareserver-timing: cfL4;desc='?proto=TCP&rtt=5146&sent=5&recv=6&lost=0&retrans=0&sent_bytes=3004&recv_bytes=739&delivery_rate=562536&cwnd=252&unsent_bytes=0&cid=0bd87e5c52adf462&ts=276&x=0'"
           }
 ,         {
               "id"           : "banner_application",
@@ -1400,7 +1400,7 @@
               "ip"           : "cartobio.agencebio.org/104.21.16.54",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "not supported"
+              "finding"      : "supported"
           }
 ,         {
               "id"           : "TLS_timestamp",
@@ -1547,7 +1547,7 @@
               "ip"           : "cartobio.agencebio.org/104.21.16.54",
               "port"         : "443",
               "severity"     : "MEDIUM",
-              "finding"      : "expires < 60 days (42)"
+              "finding"      : "expires < 60 days (35)"
           }
 ,         {
               "id"           : "cert_notBefore",
@@ -1757,7 +1757,7 @@
               "ip"           : "cartobio.agencebio.org/104.21.16.54",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1729392233"
+              "finding"      : "1729997137"
           }
 ,         {
               "id"           : "HSTS",
@@ -1778,7 +1778,7 @@
               "ip"           : "cartobio.agencebio.org/104.21.16.54",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "cloudflareserver-timing: cfL4;desc='?proto=TCP&rtt=2377&sent=5&recv=6&lost=0&retrans=0&sent_bytes=3003&recv_bytes=739&delivery_rate=1244986&cwnd=252&unsent_bytes=0&cid=89f11fef7b4a847b&ts=301&x=0'"
+              "finding"      : "cloudflareserver-timing: cfL4;desc='?proto=TCP&rtt=5292&sent=5&recv=6&lost=0&retrans=0&sent_bytes=3002&recv_bytes=739&delivery_rate=558139&cwnd=252&unsent_bytes=0&cid=5d6558f5d4bb6da6&ts=279&x=0'"
           }
 ,         {
               "id"           : "banner_application",
@@ -2336,6 +2336,6 @@
               "ip"           : "cartobio.agencebio.org/104.21.16.54",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "83"
+              "finding"      : "87"
           }
 ]
