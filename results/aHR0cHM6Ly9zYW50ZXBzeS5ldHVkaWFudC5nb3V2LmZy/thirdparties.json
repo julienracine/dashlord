@@ -31,7 +31,7 @@
       "value": "1",
       "domain": "santepsy.etudiant.gouv.fr",
       "path": "/",
-      "expires": 1730019556,
+      "expires": 1730623941,
       "size": 16,
       "httpOnly": false,
       "secure": true,
@@ -43,10 +43,10 @@
     },
     {
       "name": "_pk_id.76.22ad",
-      "value": "3facce1f4bd7ad49.1730017755.",
+      "value": "b132681817b81bb8.1730622141.",
       "domain": "santepsy.etudiant.gouv.fr",
       "path": "/",
-      "expires": 1763972955,
+      "expires": 1764577341,
       "size": 42,
       "httpOnly": false,
       "secure": true,
@@ -65,7 +65,7 @@
     "content-type": "text/html; charset=UTF-8",
     "cross-origin-opener-policy": "same-origin",
     "cross-origin-resource-policy": "same-origin",
-    "date": "Sun, 27 Oct 2024 08:29:14 GMT",
+    "date": "Sun, 03 Nov 2024 08:22:19 GMT",
     "etag": "W/\"6a9-191e00683a8\"",
     "expires": "0",
     "feature-policy": "geolocation 'self'",
@@ -82,7 +82,7 @@
     "x-download-options": "noopen",
     "x-frame-options": "SAMEORIGIN",
     "x-permitted-cross-domain-policies": "none",
-    "x-request-id": "9ae100af-8188-4164-be96-5b0c7ed0eca8",
+    "x-request-id": "5779884b-b943-47bb-b011-12d03416702a",
     "x-xss-protection": "0"
   },
   "endpoints": [
@@ -144,7 +144,7 @@
     },
     {
       "hostname": "cdn.jsdelivr.net",
-      "ip": "104.18.186.31",
+      "ip": "104.18.187.31",
       "geoip": {
         "registered_country": {
           "geoname_id": 6252001,
