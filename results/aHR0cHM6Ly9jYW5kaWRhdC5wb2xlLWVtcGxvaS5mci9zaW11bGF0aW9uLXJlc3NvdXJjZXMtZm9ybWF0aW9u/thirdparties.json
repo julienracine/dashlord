@@ -82,7 +82,11 @@
     },
     {
       "type": "unknown",
-      "url": "https://candidat.francetravail.fr/simulation-ressources-formation/icons.f3043cbf3edac6f2.woff?wekjvp"
+      "url": "https://hd.pe.fr/event?s=475540&idclient=m31p2lqlr6j2z5f3"
+    },
+    {
+      "type": "unknown",
+      "url": "https://candidat.francetravail.fr/simulation-ressources-formation/roboto-light-webfont.cdd5202a269193a5.woff"
     },
     {
       "type": "unknown",
@@ -118,10 +122,6 @@
     },
     {
       "type": "unknown",
-      "url": "https://cdn.tagcommander.com/4340/tc_PoleEmploi_24.js"
-    },
-    {
-      "type": "unknown",
       "url": "https://api.francetravail.fr/json/menu-burger-candidat"
     },
     {
@@ -133,16 +133,12 @@
       "url": "https://api.francetravail.fr/json/footer"
     },
     {
-      "type": "at-internet",
-      "url": "https://tag.aticdn.net/js-sdk/piano-analytics-6.8.3.js",
-      "details": {
-        "id": "at-internet",
-        "message": "Ensure your TOS notify the AT internet usage"
-      }
+      "type": "unknown",
+      "url": "https://candidat.francetravail.fr/portail-simulateurs/icons.7ae89a99da6cadce.ttf?wekjvp"
     },
     {
       "type": "unknown",
-      "url": "https://hd.pe.fr/event?s=475540&idclient=m2rp276nkabwes8g"
+      "url": "https://candidat.francetravail.fr/portail-simulateurs/roboto-regular-webfont.68e6d5c5e09a5255.woff2"
     },
     {
       "type": "unknown",
@@ -154,7 +150,7 @@
     },
     {
       "type": "unknown",
-      "url": "https://candidat.francetravail.fr/portail-simulateurs/roboto-regular-webfont.68e6d5c5e09a5255.woff2"
+      "url": "https://candidat.francetravail.fr/portail-simulateurs/roboto-bold-webfont.f52d56320d58032f.woff2"
     },
     {
       "type": "unknown",
@@ -162,7 +158,7 @@
     },
     {
       "type": "unknown",
-      "url": "https://candidat.francetravail.fr/portail-simulateurs/roboto-bold-webfont.f52d56320d58032f.woff2"
+      "url": "https://candidat.francetravail.fr/portail-simulateurs/roboto-regular-webfont.68e6d5c5e09a5255.woff2"
     },
     {
       "type": "unknown",
@@ -174,15 +170,11 @@
     },
     {
       "type": "unknown",
-      "url": "https://candidat.francetravail.fr/portail-simulateurs/roboto-regular-webfont.68e6d5c5e09a5255.woff2"
-    },
-    {
-      "type": "unknown",
-      "url": "https://candidat.francetravail.fr/portail-simulateurs/icons.7ae89a99da6cadce.ttf?wekjvp"
-    },
-    {
-      "type": "unknown",
       "url": "https://candidat.francetravail.fr/portail-simulateurs/roboto-bold-webfont.f52d56320d58032f.woff2"
+    },
+    {
+      "type": "unknown",
+      "url": "https://hd.pe.fr/event?s=475540&idclient=m31p2lqlr6j2z5f3"
     },
     {
       "type": "unknown",
@@ -190,7 +182,7 @@
     },
     {
       "type": "unknown",
-      "url": "https://hd.pe.fr/event?s=475540&idclient=m2rp276nkabwes8g"
+      "url": "https://hd.pe.fr/event?s=475540&idclient=m31p2lqlr6j2z5f3"
     },
     {
       "type": "unknown",
@@ -208,7 +200,7 @@
   "cookies": [
     {
       "name": "BIGipServerPOOL_TAS_SDDC_HTTP",
-      "value": "1737689866.20480.0000",
+      "value": "1720912650.20480.0000",
       "domain": "candidat.francetravail.fr",
       "path": "/",
       "expires": -1,
@@ -224,14 +216,14 @@
   "headers": {
     "content-encoding": "gzip",
     "content-type": "text/html; charset=utf-8",
-    "date": "Sun, 27 Oct 2024 14:37:31 GMT",
+    "date": "Sun, 03 Nov 2024 14:35:32 GMT",
     "last-modified": "Mon, 21 Oct 2024 12:14:21 GMT",
-    "set-cookie": "BIGipServerPOOL_TAS_SDDC_HTTP=1737689866.20480.0000; path=/; Httponly; Secure\nTS01fca309=0150c672c367c8db8fae1f0f0301be98bf4feb86afafd6cb7496ffe5a78977eb64313aa4b2964dd6cc8ab1dac26c477969c0b2a250; Path=/; Domain=.pn307-estimeformation-prod.apps.tas-prod.pole-emploi.intra;",
+    "set-cookie": "BIGipServerPOOL_TAS_SDDC_HTTP=1720912650.20480.0000; path=/; Httponly; Secure\nTS01fca309=0150c672c3e6ef965460c9524f90929cb301643f7547107301f4028e5e612375dc037d65f9e10ac299cd34a0f42814c8f1e8a79c78; Path=/; Domain=.pn307-estimeformation-prod.apps.tas-prod.pole-emploi.intra;",
     "transfer-encoding": "chunked",
     "vary": "Accept-Encoding",
     "x-content-type-options": "nosniff'",
     "x-robots-tag": "noindex, nofollow, nosnippet, noarchive",
-    "x-vcap-request-id": "eb22085a-8c7b-4464-4b54-5b14faa3c879"
+    "x-vcap-request-id": "9fceb039-67d8-4b02-58ff-5e37c88a4d90"
   },
   "endpoints": [
     {
@@ -496,7 +488,61 @@
     },
     {
       "hostname": "tag.aticdn.net",
-      "ip": "18.160.18.10",
+      "ip": "13.35.121.67",
+      "geoip": {
+        "continent": {
+          "code": "NA",
+          "geoname_id": 6255149,
+          "names": {
+            "de": "Nordamerika",
+            "en": "North America",
+            "es": "Norteamérica",
+            "fr": "Amérique du Nord",
+            "ja": "北アメリカ",
+            "pt-BR": "América do Norte",
+            "ru": "Северная Америка",
+            "zh-CN": "北美洲"
+          }
+        },
+        "country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "USA",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        },
+        "location": {
+          "accuracy_radius": 1000,
+          "latitude": 37.751,
+          "longitude": -97.822,
+          "time_zone": "America/Chicago"
+        },
+        "registered_country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "USA",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        }
+      }
+    },
+    {
+      "hostname": "hd.pe.fr",
+      "ip": "18.173.121.28",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -644,62 +690,8 @@
       }
     },
     {
-      "hostname": "hd.pe.fr",
-      "ip": "18.160.213.25",
-      "geoip": {
-        "continent": {
-          "code": "NA",
-          "geoname_id": 6255149,
-          "names": {
-            "de": "Nordamerika",
-            "en": "North America",
-            "es": "Norteamérica",
-            "fr": "Amérique du Nord",
-            "ja": "北アメリカ",
-            "pt-BR": "América do Norte",
-            "ru": "Северная Америка",
-            "zh-CN": "北美洲"
-          }
-        },
-        "country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
-          "names": {
-            "de": "USA",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
-          }
-        },
-        "location": {
-          "accuracy_radius": 1000,
-          "latitude": 37.751,
-          "longitude": -97.822,
-          "time_zone": "America/Chicago"
-        },
-        "registered_country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
-          "names": {
-            "de": "USA",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
-          }
-        }
-      }
-    },
-    {
       "hostname": "privacy.trustcommander.net",
-      "ip": "35.181.178.236",
+      "ip": "35.181.183.203",
       "geoip": {
         "city": {
           "geoname_id": 2988507,
