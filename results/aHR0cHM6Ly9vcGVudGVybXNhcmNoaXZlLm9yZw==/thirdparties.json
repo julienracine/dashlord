@@ -6,7 +6,7 @@
       "value": "1",
       "domain": "opentermsarchive.org",
       "path": "/",
-      "expires": 1730036702,
+      "expires": 1730641409,
       "size": 17,
       "httpOnly": false,
       "secure": false,
@@ -18,10 +18,10 @@
     },
     {
       "name": "_pk_id.179.cd52",
-      "value": "c4bd2336fd39f1dc.1730034902.",
+      "value": "2f93eb092d294b52.1730639609.",
       "domain": "opentermsarchive.org",
       "path": "/",
-      "expires": 1763990102,
+      "expires": 1764594809,
       "size": 43,
       "httpOnly": false,
       "secure": false,
@@ -40,27 +40,39 @@
     "content-encoding": "gzip",
     "content-length": "10357",
     "content-type": "text/html; charset=utf-8",
-    "date": "Sun, 27 Oct 2024 13:15:01 GMT",
+    "date": "Sun, 03 Nov 2024 13:13:28 GMT",
     "etag": "W/\"6718f82a-bf9c\"",
-    "expires": "Sun, 27 Oct 2024 13:21:16 GMT",
+    "expires": "Sun, 03 Nov 2024 13:20:01 GMT",
     "last-modified": "Wed, 23 Oct 2024 13:20:42 GMT",
     "server": "GitHub.com",
     "vary": "Accept-Encoding",
     "via": "1.1 varnish",
     "x-cache": "HIT",
     "x-cache-hits": "0",
-    "x-fastly-request-id": "1af569a80d70ea52aa0172164e566ddbdd7e5002",
-    "x-github-request-id": "E0CA:437B0:27C0DB3:2DDABE1:671E3BF4",
-    "x-origin-cache": "HIT",
+    "x-fastly-request-id": "cf71a2d9b257fec7a88a0055d229ff85c7d0fbdb",
+    "x-github-request-id": "674B:6822:B65236:BB1896:67277627",
     "x-proxy-cache": "MISS",
-    "x-served-by": "cache-chi-kigq8000079-CHI",
-    "x-timer": "S1730034901.383730,VS0,VE92"
+    "x-served-by": "cache-bur-kbur8200039-BUR",
+    "x-timer": "S1730639608.150415,VS0,VE97"
   },
   "endpoints": [
     {
       "hostname": "opentermsarchive.org",
-      "ip": "185.199.111.153",
+      "ip": "185.199.109.153",
       "geoip": {
+        "city": {
+          "geoname_id": 5391959,
+          "names": {
+            "de": "San Francisco",
+            "en": "San Francisco",
+            "es": "San Francisco",
+            "fr": "San Francisco",
+            "ja": "サンフランシスコ",
+            "pt-BR": "São Francisco",
+            "ru": "Сан-Франциско",
+            "zh-CN": "旧金山"
+          }
+        },
         "continent": {
           "code": "NA",
           "geoname_id": 6255149,
@@ -90,10 +102,14 @@
           }
         },
         "location": {
-          "accuracy_radius": 1000,
-          "latitude": 34.0544,
-          "longitude": -118.244,
+          "accuracy_radius": 20,
+          "latitude": 37.7642,
+          "longitude": -122.3993,
+          "metro_code": 807,
           "time_zone": "America/Los_Angeles"
+        },
+        "postal": {
+          "code": "94107"
         },
         "registered_country": {
           "geoname_id": 6252001,
