@@ -318,7 +318,7 @@
               "ip"           : "budget.databretagne.fr/185.150.255.31",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "supported"
+              "finding"      : "not supported"
           }
 ,         {
               "id"           : "sessionresumption_ID",
@@ -472,7 +472,7 @@
               "ip"           : "budget.databretagne.fr/185.150.255.31",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "58 >= 30 days"
+              "finding"      : "51 >= 30 days"
           }
 ,         {
               "id"           : "cert_notBefore",
@@ -619,21 +619,21 @@
               "ip"           : "budget.databretagne.fr/185.150.255.31",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "200 OK ('/')"
+              "finding"      : "301 Moved Permanently ('/')"
           }
 ,         {
               "id"           : "HTTP_clock_skew",
               "ip"           : "budget.databretagne.fr/185.150.255.31",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "-1 seconds from localtime"
+              "finding"      : "0 seconds from localtime"
           }
 ,         {
               "id"           : "HTTP_headerTime",
               "ip"           : "budget.databretagne.fr/185.150.255.31",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1730055479"
+              "finding"      : "1730660045"
           }
 ,         {
               "id"           : "HSTS",
@@ -668,21 +668,14 @@
               "ip"           : "budget.databretagne.fr/185.150.255.31",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "0 at '/'"
+              "finding"      : "0 at '/' (30x detected, better try target URL of 30x)"
           }
 ,         {
-              "id"           : "Cache-Control_multiple",
+              "id"           : "security_headers",
               "ip"           : "budget.databretagne.fr/185.150.255.31",
               "port"         : "443",
               "severity"     : "MEDIUM",
-              "finding"      : "Multiple Cache-Control headers. Using first header: max-age=0"
-          }
-,         {
-              "id"           : "Cache-Control",
-              "ip"           : "budget.databretagne.fr/185.150.255.31",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "max-age=0"
+              "finding"      : "--"
           }
 ,         {
               "id"           : "banner_reverseproxy",
@@ -1196,6 +1189,6 @@
               "ip"           : "budget.databretagne.fr/185.150.255.31",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "143"
+              "finding"      : "77"
           }
 ]

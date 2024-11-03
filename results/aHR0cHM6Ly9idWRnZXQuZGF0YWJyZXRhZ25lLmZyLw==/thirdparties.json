@@ -2,7 +2,99 @@
   "trackers": [
     {
       "type": "unknown",
-      "url": "https://auth.databretagne.fr/realms/nocode/protocol/openid-connect/auth?client_id=bretagne.budget&redirect_uri=https%3A%2F%2Fbudget.databretagne.fr%2F&state=69538bd9-e52d-4abc-9b1b-776daa1ef738&response_mode=fragment&response_type=code&scope=openid&nonce=b4e59a7d-a125-4e49-87d8-c07bfe49f1d1&code_challenge=gK70pRe6vOosXk1bXX321wedWu0Pb0bDTa6vTCdxKR4&code_challenge_method=S256"
+      "url": "https://budget-bretagne.dataregion.fr/"
+    },
+    {
+      "type": "unknown",
+      "url": "https://budget-bretagne.dataregion.fr/@gouvfr/dsfr.min.css"
+    },
+    {
+      "type": "unknown",
+      "url": "https://budget-bretagne.dataregion.fr/@gouvfr/utility/icons/icons.css"
+    },
+    {
+      "type": "unknown",
+      "url": "https://budget-bretagne.dataregion.fr/styles-ZOBE4C3R.css"
+    },
+    {
+      "type": "unknown",
+      "url": "https://budget-bretagne.dataregion.fr/chunk-OKOXUIHI.js"
+    },
+    {
+      "type": "unknown",
+      "url": "https://budget-bretagne.dataregion.fr/chunk-JN3CUGD6.js"
+    },
+    {
+      "type": "unknown",
+      "url": "https://budget-bretagne.dataregion.fr/chunk-T4WZRHBA.js"
+    },
+    {
+      "type": "unknown",
+      "url": "https://budget-bretagne.dataregion.fr/chunk-S32LQHAG.js"
+    },
+    {
+      "type": "unknown",
+      "url": "https://budget-bretagne.dataregion.fr/chunk-MT73HTCU.js"
+    },
+    {
+      "type": "unknown",
+      "url": "https://budget-bretagne.dataregion.fr/chunk-YRCRE6A6.js"
+    },
+    {
+      "type": "unknown",
+      "url": "https://budget-bretagne.dataregion.fr/polyfills-MH5IBZ74.js"
+    },
+    {
+      "type": "unknown",
+      "url": "https://budget-bretagne.dataregion.fr/main-3QW2A2IS.js"
+    },
+    {
+      "type": "unknown",
+      "url": "https://budget-bretagne.dataregion.fr/assets/settings.json"
+    },
+    {
+      "type": "unknown",
+      "url": "https://budget-bretagne.dataregion.fr/chunk-YRCRE6A6.js.map"
+    },
+    {
+      "type": "unknown",
+      "url": "https://budget-bretagne.dataregion.fr/assets/img/BudgetEtat.svg"
+    },
+    {
+      "type": "unknown",
+      "url": "https://auth.databretagne.fr/realms/nocode/protocol/openid-connect/auth?client_id=bretagne.budget&redirect_uri=https%3A%2F%2Fbudget-bretagne.dataregion.fr%2F&state=ee5a3fcf-0355-4c50-8b12-09723b458e8b&response_mode=fragment&response_type=code&scope=openid&nonce=1abedbe6-f7e2-4d36-8570-ae524f935f5e&code_challenge=vfnsmLEwaPKS8dt20vOhAzCpcAudUo85WaUDXgnI9BA&code_challenge_method=S256"
+    },
+    {
+      "type": "unknown",
+      "url": "https://budget-bretagne.dataregion.fr/@gouvfr/icons/system/fr--info-fill.svg"
+    },
+    {
+      "type": "unknown",
+      "url": "https://budget-bretagne.dataregion.fr/@gouvfr/fonts/Marianne-Bold.woff2"
+    },
+    {
+      "type": "unknown",
+      "url": "https://budget-bretagne.dataregion.fr/@gouvfr/fonts/Marianne-Regular.woff2"
+    },
+    {
+      "type": "unknown",
+      "url": "https://budget-bretagne.dataregion.fr/@gouvfr/fonts/Marianne-Bold.woff2"
+    },
+    {
+      "type": "unknown",
+      "url": "https://budget-bretagne.dataregion.fr/@gouvfr/fonts/Marianne-Regular.woff2"
+    },
+    {
+      "type": "unknown",
+      "url": "https://budget-bretagne.dataregion.fr/chunk-YRCRE6A6.js.map"
+    },
+    {
+      "type": "unknown",
+      "url": "https://budget-bretagne.dataregion.fr/chunk-YRCRE6A6.js.map"
+    },
+    {
+      "type": "unknown",
+      "url": "https://budget-bretagne.dataregion.fr/chunk-YRCRE6A6.js.map"
     },
     {
       "type": "unknown",
@@ -58,23 +150,23 @@
     },
     {
       "type": "unknown",
+      "url": "https://auth.databretagne.fr/resources/rvzwc/login/nocode/dsfr/fonts/Marianne-Regular.woff"
+    },
+    {
+      "type": "unknown",
       "url": "https://auth.databretagne.fr/resources/rvzwc/login/nocode/dsfr/fonts/Marianne-Bold.woff"
     },
     {
       "type": "unknown",
       "url": "https://auth.databretagne.fr/resources/rvzwc/login/nocode/dsfr/fonts/Marianne-Regular.woff"
+    },
+    {
+      "type": "unknown",
+      "url": "https://auth.databretagne.fr/resources/rvzwc/login/nocode/dsfr/fonts/Marianne-Bold.woff"
     },
     {
       "type": "unknown",
       "url": "https://auth.databretagne.fr/resources/rvzwc/login/nocode/dsfr/fonts/Marianne-Medium.woff"
-    },
-    {
-      "type": "unknown",
-      "url": "https://auth.databretagne.fr/resources/rvzwc/login/nocode/dsfr/fonts/Marianne-Bold.woff"
-    },
-    {
-      "type": "unknown",
-      "url": "https://auth.databretagne.fr/resources/rvzwc/login/nocode/dsfr/fonts/Marianne-Regular.woff"
     },
     {
       "type": "unknown",
@@ -86,18 +178,78 @@
     "accept-ranges": "bytes",
     "cache-control": "max-age=0\nno-cache",
     "connection": "keep-alive",
-    "content-length": "54465",
+    "content-length": "54634",
+    "content-security-policy": "default-src 'none'; connect-src 'self' https://*.databretagne.fr https://stats.beta.gouv.fr/matomo.php https://geo.api.gouv.fr; font-src 'self' https://fonts.gstatic.com; img-src 'self' data:; script-src 'self' 'unsafe-inline' https://stats.beta.gouv.fr/matomo.js; style-src 'self' 'unsafe-inline'",
     "content-type": "text/html",
-    "date": "Sun, 27 Oct 2024 18:56:25 GMT",
-    "etag": "\"66fa81b2-d4c1\"",
-    "expires": "Sun, 27 Oct 2024 18:56:25 GMT",
-    "last-modified": "Mon, 30 Sep 2024 10:47:14 GMT",
+    "date": "Sun, 03 Nov 2024 18:53:04 GMT",
+    "etag": "\"671f8e0e-d56a\"",
+    "expires": "Sun, 03 Nov 2024 18:53:04 GMT",
+    "last-modified": "Mon, 28 Oct 2024 13:13:50 GMT",
     "server": "nginx",
-    "vary": "Origin"
+    "strict-transport-security": "max-age=31536000; includeSubDomains",
+    "vary": "Origin",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "DENY"
   },
   "endpoints": [
     {
       "hostname": "budget.databretagne.fr",
+      "ip": "185.150.255.31",
+      "geoip": {
+        "continent": {
+          "code": "EU",
+          "geoname_id": 6255148,
+          "names": {
+            "de": "Europa",
+            "en": "Europe",
+            "es": "Europa",
+            "fr": "Europe",
+            "ja": "ヨーロッパ",
+            "pt-BR": "Europa",
+            "ru": "Европа",
+            "zh-CN": "欧洲"
+          }
+        },
+        "country": {
+          "geoname_id": 3017382,
+          "is_in_european_union": true,
+          "iso_code": "FR",
+          "names": {
+            "de": "Frankreich",
+            "en": "France",
+            "es": "Francia",
+            "fr": "France",
+            "ja": "フランス共和国",
+            "pt-BR": "França",
+            "ru": "Франция",
+            "zh-CN": "法国"
+          }
+        },
+        "location": {
+          "accuracy_radius": 500,
+          "latitude": 48.8582,
+          "longitude": 2.3387,
+          "time_zone": "Europe/Paris"
+        },
+        "registered_country": {
+          "geoname_id": 3017382,
+          "is_in_european_union": true,
+          "iso_code": "FR",
+          "names": {
+            "de": "Frankreich",
+            "en": "France",
+            "es": "Francia",
+            "fr": "France",
+            "ja": "フランス共和国",
+            "pt-BR": "França",
+            "ru": "Франция",
+            "zh-CN": "法国"
+          }
+        }
+      }
+    },
+    {
+      "hostname": "budget-bretagne.dataregion.fr",
       "ip": "185.150.255.31",
       "geoip": {
         "continent": {
