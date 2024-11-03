@@ -345,8 +345,8 @@
               "id"           : "cert_expirationStatus <hostCert#1>",
               "ip"           : "jafer.beta.gouv.fr/104.19.241.93",
               "port"         : "443",
-              "severity"     : "OK",
-              "finding"      : "65 >= 60 days"
+              "severity"     : "MEDIUM",
+              "finding"      : "expires < 60 days (58)"
           }
 ,         {
               "id"           : "cert_notBefore <hostCert#1>",
@@ -359,7 +359,7 @@
               "id"           : "cert_notAfter <hostCert#1>",
               "ip"           : "jafer.beta.gouv.fr/104.19.241.93",
               "port"         : "443",
-              "severity"     : "OK",
+              "severity"     : "MEDIUM",
               "finding"      : "2024-12-31 23:59"
           }
 ,         {
@@ -604,8 +604,8 @@
               "id"           : "cert_expirationStatus <hostCert#2>",
               "ip"           : "jafer.beta.gouv.fr/104.19.241.93",
               "port"         : "443",
-              "severity"     : "OK",
-              "finding"      : "65 >= 60 days"
+              "severity"     : "MEDIUM",
+              "finding"      : "expires < 60 days (58)"
           }
 ,         {
               "id"           : "cert_notBefore <hostCert#2>",
@@ -618,7 +618,7 @@
               "id"           : "cert_notAfter <hostCert#2>",
               "ip"           : "jafer.beta.gouv.fr/104.19.241.93",
               "port"         : "443",
-              "severity"     : "OK",
+              "severity"     : "MEDIUM",
               "finding"      : "2024-12-31 23:59"
           }
 ,         {
@@ -773,7 +773,7 @@
               "ip"           : "jafer.beta.gouv.fr/104.19.241.93",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1730054551"
+              "finding"      : "1730659122"
           }
 ,         {
               "id"           : "HSTS",
@@ -1545,7 +1545,7 @@
               "ip"           : "jafer.beta.gouv.fr/104.19.240.93",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "not supported"
+              "finding"      : "supported"
           }
 ,         {
               "id"           : "TLS_timestamp",
@@ -1684,8 +1684,8 @@
               "id"           : "cert_expirationStatus <hostCert#1>",
               "ip"           : "jafer.beta.gouv.fr/104.19.240.93",
               "port"         : "443",
-              "severity"     : "OK",
-              "finding"      : "65 >= 60 days"
+              "severity"     : "MEDIUM",
+              "finding"      : "expires < 60 days (58)"
           }
 ,         {
               "id"           : "cert_notBefore <hostCert#1>",
@@ -1698,7 +1698,7 @@
               "id"           : "cert_notAfter <hostCert#1>",
               "ip"           : "jafer.beta.gouv.fr/104.19.240.93",
               "port"         : "443",
-              "severity"     : "OK",
+              "severity"     : "MEDIUM",
               "finding"      : "2024-12-31 23:59"
           }
 ,         {
@@ -1943,8 +1943,8 @@
               "id"           : "cert_expirationStatus <hostCert#2>",
               "ip"           : "jafer.beta.gouv.fr/104.19.240.93",
               "port"         : "443",
-              "severity"     : "OK",
-              "finding"      : "65 >= 60 days"
+              "severity"     : "MEDIUM",
+              "finding"      : "expires < 60 days (58)"
           }
 ,         {
               "id"           : "cert_notBefore <hostCert#2>",
@@ -1957,7 +1957,7 @@
               "id"           : "cert_notAfter <hostCert#2>",
               "ip"           : "jafer.beta.gouv.fr/104.19.240.93",
               "port"         : "443",
-              "severity"     : "OK",
+              "severity"     : "MEDIUM",
               "finding"      : "2024-12-31 23:59"
           }
 ,         {
@@ -2112,7 +2112,7 @@
               "ip"           : "jafer.beta.gouv.fr/104.19.240.93",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1730054603"
+              "finding"      : "1730659174"
           }
 ,         {
               "id"           : "HSTS",
