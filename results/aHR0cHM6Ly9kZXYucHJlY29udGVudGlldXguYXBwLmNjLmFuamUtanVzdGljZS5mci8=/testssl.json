@@ -352,8 +352,8 @@
               "id"           : "cert_expirationStatus",
               "ip"           : "dev.precontentieux.app.cc.anje-justice.fr/91.208.207.214",
               "port"         : "443",
-              "severity"     : "OK",
-              "finding"      : "31 >= 30 days"
+              "severity"     : "MEDIUM",
+              "finding"      : "expires < 30 days (24)"
           }
 ,         {
               "id"           : "cert_notBefore",
@@ -366,7 +366,7 @@
               "id"           : "cert_notAfter",
               "ip"           : "dev.precontentieux.app.cc.anje-justice.fr/91.208.207.214",
               "port"         : "443",
-              "severity"     : "OK",
+              "severity"     : "MEDIUM",
               "finding"      : "2024-11-28 08:18"
           }
 ,         {
@@ -514,7 +514,7 @@
               "ip"           : "dev.precontentieux.app.cc.anje-justice.fr/91.208.207.214",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1730054771"
+              "finding"      : "1730659443"
           }
 ,         {
               "id"           : "HSTS",
@@ -1070,6 +1070,6 @@
               "ip"           : "dev.precontentieux.app.cc.anje-justice.fr/91.208.207.214",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "58"
+              "finding"      : "103"
           }
 ]
