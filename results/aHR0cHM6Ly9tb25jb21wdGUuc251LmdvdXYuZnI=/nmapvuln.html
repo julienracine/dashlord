@@ -54,7 +54,7 @@
 <h1>Scan Report<br><small>Nmap 7.92</small>
 </h1>
 <pre style="white-space:pre-wrap; word-wrap:break-word;">nmap -sV --script vulners --script-args mincvss=5.0 -oA /data/nmapvuln moncompte.snu.gouv.fr</pre>
-<p class="lead">Sun Oct 27 10:15:50 2024 – Sun Oct 27 10:16:29 2024<br>1 hosts scanned.
+<p class="lead">Sun Nov  3 10:02:28 2024 – Sun Nov  3 10:03:03 2024<br>1 hosts scanned.
               1 hosts up.
               0 hosts down.
             </p>
@@ -121,7 +121,7 @@
 <pre style="white-space:pre-wrap; word-wrap:break-word;">
   FourOhFourRequest: 
     HTTP/1.1 301 Moved Permanently
-    Date: Sun, 27 Oct 2024 10:16:06 GMT
+    Date: Sun, 03 Nov 2024 10:02:42 GMT
     Content-Type: text/html
     Content-Length: 166
     Connection: close
@@ -135,7 +135,7 @@
     &lt;/html&gt;
   GetRequest, HTTPOptions: 
     HTTP/1.1 301 Moved Permanently
-    Date: Sun, 27 Oct 2024 10:16:05 GMT
+    Date: Sun, 03 Nov 2024 10:02:41 GMT
     Content-Type: text/html
     Content-Length: 166
     Connection: close
@@ -147,9 +147,22 @@
     &lt;hr&gt;&lt;center&gt;openresty&lt;/center&gt;
     &lt;/body&gt;
     &lt;/html&gt;
-  RTSPRequest, X11Probe: 
+  RTSPRequest: 
     HTTP/1.1 400 Bad Request
-    Date: Sun, 27 Oct 2024 10:16:05 GMT
+    Date: Sun, 03 Nov 2024 10:02:41 GMT
+    Content-Type: text/html
+    Content-Length: 154
+    Connection: close
+    &lt;html&gt;
+    &lt;head&gt;&lt;title&gt;400 Bad Request&lt;/title&gt;&lt;/head&gt;
+    &lt;body&gt;
+    &lt;center&gt;&lt;h1&gt;400 Bad Request&lt;/h1&gt;&lt;/center&gt;
+    &lt;hr&gt;&lt;center&gt;openresty&lt;/center&gt;
+    &lt;/body&gt;
+    &lt;/html&gt;
+  X11Probe: 
+    HTTP/1.1 400 Bad Request
+    Date: Sun, 03 Nov 2024 10:02:42 GMT
     Content-Type: text/html
     Content-Length: 154
     Connection: close
@@ -173,32 +186,70 @@
 <tr><td colspan="7">
 <a href="https://nvd.nist.gov/vuln/search/results?form_type=Advanced&amp;cves=on&amp;cpe_version="></a><h5>fingerprint-strings</h5>
 <pre style="white-space:pre-wrap; word-wrap:break-word;">
+  FourOhFourRequest: 
+    HTTP/1.1 202 Accepted
+    Date: Sun, 03 Nov 2024 10:02:48 GMT
+    Content-Type: text/html
+    Content-Length: 3735
+    Connection: close
+    Cache-Control: no-cache
+    Strict-Transport-Security: max-age=63072000
+    X-Frame-Options: DENY
+    X-Content-Type-Options: nosniff
+    Referrer-Policy: origin-when-cross-origin
+    X-XSS-Protection: 1; mode=block
+    &lt;!DOCTYPE HTML&gt;
+    &lt;html&gt;
+    &lt;head&gt;
+    &lt;title&gt;Captcha&lt;/title&gt;
+    &lt;meta name="viewport" content="width=device-width"&gt;
+    &lt;meta charset="utf-8"&gt;
+    &lt;script&gt;function submitForm() {
+    http = new XMLHttpRequest();
+    '/.well-known/baleen/captcha/check';
+    captcha = new FormData(document.getElementById("captcha-form")).get('g-recaptcha-response')
+    params = 'g-recaptcha-response=' + encodeURIComponent(captcha) + '&amp;captcha_token=h0IW-oAjXcqOBoRJeI4aTZlA17goCYnAvgGBcERp6zqGxIXmgfC_Njm9omOshDqG4rBlQUHTyhEvDiQLJbIhhCpF2tNhT59L6YlwqQ2xpa2Kd02SFj94YVwC59-mYIZ0
   GetRequest: 
-    HTTP/1.1 200 OK
-    Date: Sun, 27 Oct 2024 10:16:11 GMT
+    HTTP/1.1 202 Accepted
+    Date: Sun, 03 Nov 2024 10:02:47 GMT
     Content-Type: text/html
-    Content-Length: 3982
+    Content-Length: 3735
     Connection: close
-    Referrer-Policy: no-referrer
     Cache-Control: no-cache
     Strict-Transport-Security: max-age=63072000
     X-Frame-Options: DENY
     X-Content-Type-Options: nosniff
+    Referrer-Policy: origin-when-cross-origin
     X-XSS-Protection: 1; mode=block
-    &lt;!doctypehtml&gt;&lt;meta name="viewport"content="width=device-width"&gt;&lt;meta charset="utf-8"&gt;&lt;script&gt;&lt;/script&gt;&lt;script&gt;var __blnChallengeStore={"cookie":{"secure":true,"path":"/","name":"bln_challengejs","value":"OSLerFRlns5GBDgkqRQcrutzjdlV2Mi12lFQlxsDR19fYnxTI-_zBhaqs0XEBNJgNuNmTdUPWQs42XG9gsK61QtKDZh6ca2kb7mnJRHX9co2YsKkWI3r5ClfMYjezTa2kdgPKG2oIqrlvWn7n30Vhg","maxAge":900,"sameSite":"None"},"checkChallengeParams":{"rule_id":"","bot_category":"unknown","tracking_id":"","request_fate":"challengejs"},"domain":".snu.gouv.fr","unregisterServiceWorker":false};(()=&gt;{"use strict";const e=functi
+    &lt;!DOCTYPE HTML&gt;
+    &lt;html&gt;
+    &lt;head&gt;
+    &lt;title&gt;Captcha&lt;/title&gt;
+    &lt;meta name="viewport" content="width=device-width"&gt;
+    &lt;meta charset="utf-8"&gt;
+    &lt;script&gt;function submitForm() {
+    http = new XMLHttpRequest();
+    '/.well-known/baleen/captcha/check';
+    captcha = new FormData(document.getElementById("captcha-form")).get('g-recaptcha-response')
+    params = 'g-recaptcha-response=' + encodeURIComponent(captcha) + '&amp;captcha_token=h0IW-oAjXcqOBoRJeI4aTZlA17goCYnAvgGBcERp6zqGxIXmgfC_Njm9omOshDqG4rBlQUHTyhEvDiQLJbIhhCpF2tNhT59L6YlwqQ2xpa2Kd02SFj94YVwC59-mYIZ0
   HTTPOptions: 
-    HTTP/1.1 200 OK
-    Date: Sun, 27 Oct 2024 10:16:12 GMT
+    HTTP/1.1 400 Bad Request
+    Date: Sun, 03 Nov 2024 10:02:48 GMT
     Content-Type: text/html
-    Content-Length: 3982
+    Content-Length: 154
     Connection: close
-    Referrer-Policy: no-referrer
-    Cache-Control: no-cache
     Strict-Transport-Security: max-age=63072000
     X-Frame-Options: DENY
     X-Content-Type-Options: nosniff
+    Referrer-Policy: origin-when-cross-origin
     X-XSS-Protection: 1; mode=block
-    &lt;!doctypehtml&gt;&lt;meta name="viewport"content="width=device-width"&gt;&lt;meta charset="utf-8"&gt;&lt;script&gt;&lt;/script&gt;&lt;script&gt;var __blnChallengeStore={"checkChallengeParams":{"bot_category":"unknown","rule_id":"","tracking_id":"","request_fate":"challengejs"},"cookie":{"name":"bln_challengejs","maxAge":900,"sameSite":"None","secure":true,"path":"/","value":"OSLerFRlns5GBDgkqRQcri6cBTK4cljHp9nKU4eNg0eFGiPY5D3xLxXjG0OgGzKBgv14CyswBa7cPV_82WjbVuv8pvqviwxU4Ct3y8it3LQgOFYME0VOOQzmKN2exw3mnG3MNOU6jbFRhrw0spYH7g"},"unregisterServiceWorker":false,"domain":".snu.gouv.fr"};(()=&gt;{"use strict";const e=functi</pre>
+    &lt;html&gt;
+    &lt;head&gt;&lt;title&gt;400 Bad Request&lt;/title&gt;&lt;/head&gt;
+    &lt;body&gt;
+    &lt;center&gt;&lt;h1&gt;400 Bad Request&lt;/h1&gt;&lt;/center&gt;
+    &lt;hr&gt;&lt;center&gt;openresty&lt;/center&gt;
+    &lt;/body&gt;
+    &lt;/html&gt;</pre>
 </td></tr>
 </tbody>
 </table></div>
