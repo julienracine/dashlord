@@ -38,7 +38,7 @@
     },
     {
       "type": "unknown",
-      "url": "https://cdn.livestorm.co/dist/css/chunk-style.172c7fd1.css"
+      "url": "https://cdn.livestorm.co/dist/css/chunk-style.af1d29b6.css"
     },
     {
       "type": "unknown",
@@ -46,11 +46,11 @@
     },
     {
       "type": "unknown",
-      "url": "https://cdn.livestorm.co/dist/css/company.e47a2557.css"
+      "url": "https://cdn.livestorm.co/dist/css/company.48f31562.css"
     },
     {
       "type": "unknown",
-      "url": "https://cdn.livestorm.co/dist/js/chunk-style.bc44c32e.js"
+      "url": "https://cdn.livestorm.co/dist/js/chunk-style.4ffc58b5.js"
     },
     {
       "type": "unknown",
@@ -66,23 +66,15 @@
     },
     {
       "type": "unknown",
-      "url": "https://cdn.livestorm.co/dist/js/chunk-common.ffb52d18.js"
+      "url": "https://cdn.livestorm.co/dist/js/chunk-common.2021fad5.js"
     },
     {
       "type": "unknown",
-      "url": "https://cdn.livestorm.co/dist/js/runtime-company.5c883ab0.js"
+      "url": "https://cdn.livestorm.co/dist/js/runtime-company.7bca11b3.js"
     },
     {
       "type": "unknown",
-      "url": "https://cdn.livestorm.co/dist/js/company.f99fcb9f.js"
-    },
-    {
-      "type": "unknown",
-      "url": "https://cdn.livestorm.co/uploads/identity/avatar/ecc8832d-b458-4ff0-bf3d-84c7194e7644/size_120x120_806aa411-ae6f-4731-93c3-b293c773b4b0.jpeg?v=1647357235"
-    },
-    {
-      "type": "unknown",
-      "url": "https://cdn.livestorm.co/uploads/identity/avatar/dee08c8c-640f-47e6-8bd3-f97bf8cb16bb/size_120x120_c082d650-c84a-44a3-be09-235de589a40c.jpg?v=1709284339"
+      "url": "https://cdn.livestorm.co/dist/js/company.f031dca8.js"
     },
     {
       "type": "google fonts",
@@ -93,12 +85,12 @@
       }
     },
     {
-      "type": "google fonts",
-      "url": "https://fonts.gstatic.com/s/inter/v18/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1ZL7.woff2",
-      "details": {
-        "id": "google fonts",
-        "message": "Host the font locally with https://github.com/neverpanic/google-font-download or https://google-webfonts-helper.herokuapp.com/"
-      }
+      "type": "unknown",
+      "url": "https://cdn.livestorm.co/dist/js/sentry.88d50f80.js"
+    },
+    {
+      "type": "unknown",
+      "url": "https://cdn.livestorm.co/dist/js/chunk-locale-en.60424d18.js"
     },
     {
       "type": "unknown",
@@ -106,11 +98,15 @@
     },
     {
       "type": "unknown",
-      "url": "https://cdn.livestorm.co/dist/js/sentry.88d50f80.js"
+      "url": "https://cdn.livestorm.co/uploads/identity/avatar/dee08c8c-640f-47e6-8bd3-f97bf8cb16bb/size_120x120_c082d650-c84a-44a3-be09-235de589a40c.jpg?v=1709284339"
     },
     {
-      "type": "unknown",
-      "url": "https://cdn.livestorm.co/dist/js/chunk-locale-en.7a98ce4a.js"
+      "type": "google fonts",
+      "url": "https://fonts.gstatic.com/s/inter/v18/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1ZL7.woff2",
+      "details": {
+        "id": "google fonts",
+        "message": "Host the font locally with https://github.com/neverpanic/google-font-download or https://google-webfonts-helper.herokuapp.com/"
+      }
     },
     {
       "type": "google fonts",
@@ -152,10 +148,10 @@
   "cookies": [
     {
       "name": "csrftoken",
-      "value": "Wwx37iTc3rxIRpNiRFpUlsw8WvEGQCmQ",
+      "value": "Ab9l5NSRTk6brRZUVyETmSRQl0S891ze",
       "domain": "pilotage.inclusion.beta.gouv.fr",
       "path": "/",
-      "expires": 1761462787.696035,
+      "expires": 1762067536.201636,
       "size": 41,
       "httpOnly": false,
       "secure": true,
@@ -168,13 +164,13 @@
   ],
   "headers": {
     "connection": "keep-alive",
-    "content-length": "54300",
+    "content-length": "54299",
     "content-type": "text/html; charset=utf-8",
     "cross-origin-opener-policy": "same-origin",
-    "date": "Sun, 27 Oct 2024 07:13:07 GMT",
+    "date": "Sun, 03 Nov 2024 07:12:16 GMT",
     "referrer-policy": "same-origin",
-    "set-cookie": "csrftoken=Wwx37iTc3rxIRpNiRFpUlsw8WvEGQCmQ; expires=Sun, 26 Oct 2025 07:13:07 GMT; Max-Age=31449600; Path=/; SameSite=Lax; Secure",
-    "sozu-id": "01JB6D4KD07Z5WEQES632KYKTZ",
+    "set-cookie": "csrftoken=Ab9l5NSRTk6brRZUVyETmSRQl0S891ze; expires=Sun, 02 Nov 2025 07:12:16 GMT; Max-Age=31449600; Path=/; SameSite=Lax; Secure",
+    "sozu-id": "01JBRDW23D7EJGRRY2XA4AGVYK",
     "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
     "vary": "Cookie",
     "x-content-type-options": "nosniff",
@@ -183,7 +179,7 @@
   "endpoints": [
     {
       "hostname": "pilotage.inclusion.beta.gouv.fr",
-      "ip": "91.208.207.220",
+      "ip": "91.208.207.218",
       "geoip": {
         "continent": {
           "code": "EU",
@@ -342,7 +338,7 @@
     },
     {
       "hostname": "fonts.googleapis.com",
-      "ip": "142.250.72.138",
+      "ip": "142.251.111.95",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -396,7 +392,7 @@
     },
     {
       "hostname": "cdn.livestorm.co",
-      "ip": "3.168.132.111",
+      "ip": "3.167.69.29",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -450,7 +446,7 @@
     },
     {
       "hostname": "fonts.gstatic.com",
-      "ip": "142.250.188.227",
+      "ip": "172.253.62.94",
       "geoip": {
         "continent": {
           "code": "NA",
