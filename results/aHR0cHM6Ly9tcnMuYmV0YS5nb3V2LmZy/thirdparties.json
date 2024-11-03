@@ -9,19 +9,19 @@
       }
     },
     {
-      "type": "google fonts",
-      "url": "https://fonts.googleapis.com/css?family=Raleway:400,700|Roboto+Slab:400,700&display=swap",
-      "details": {
-        "id": "google fonts",
-        "message": "Host the font locally with https://github.com/neverpanic/google-font-download or https://google-webfonts-helper.herokuapp.com/"
-      }
-    },
-    {
       "type": "sentry",
       "url": "https://cdn.ravenjs.com/3.26.4/raven.min.js",
       "details": {
         "id": "sentry",
         "message": "Ensure your TOS notify the Sentry usage"
+      }
+    },
+    {
+      "type": "google fonts",
+      "url": "https://fonts.googleapis.com/css?family=Raleway:400,700|Roboto+Slab:400,700&display=swap",
+      "details": {
+        "id": "google fonts",
+        "message": "Host the font locally with https://github.com/neverpanic/google-font-download or https://google-webfonts-helper.herokuapp.com/"
       }
     },
     {
@@ -74,31 +74,7 @@
     },
     {
       "type": "youtube",
-      "url": "https://www.youtube.com/s/player/fb725ac8/www-player.css",
-      "details": {
-        "id": "youtube",
-        "message": "Dont embed youtube scripts, use peertube"
-      }
-    },
-    {
-      "type": "youtube",
-      "url": "https://www.youtube.com/s/player/fb725ac8/player_ias.vflset/en_US/embed.js",
-      "details": {
-        "id": "youtube",
-        "message": "Dont embed youtube scripts, use peertube"
-      }
-    },
-    {
-      "type": "youtube",
-      "url": "https://www.youtube.com/s/player/fb725ac8/www-embed-player.vflset/www-embed-player.js",
-      "details": {
-        "id": "youtube",
-        "message": "Dont embed youtube scripts, use peertube"
-      }
-    },
-    {
-      "type": "youtube",
-      "url": "https://www.youtube.com/s/player/fb725ac8/player_ias.vflset/en_US/base.js",
+      "url": "https://www.youtube.com/s/player/4e23410d/www-player.css",
       "details": {
         "id": "youtube",
         "message": "Dont embed youtube scripts, use peertube"
@@ -118,6 +94,30 @@
       "details": {
         "id": "google fonts",
         "message": "Host the font locally with https://github.com/neverpanic/google-font-download or https://google-webfonts-helper.herokuapp.com/"
+      }
+    },
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/s/player/4e23410d/player_ias.vflset/en_US/embed.js",
+      "details": {
+        "id": "youtube",
+        "message": "Dont embed youtube scripts, use peertube"
+      }
+    },
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/s/player/4e23410d/www-embed-player.vflset/www-embed-player.js",
+      "details": {
+        "id": "youtube",
+        "message": "Dont embed youtube scripts, use peertube"
+      }
+    },
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/s/player/4e23410d/player_ias.vflset/en_US/base.js",
+      "details": {
+        "id": "youtube",
+        "message": "Dont embed youtube scripts, use peertube"
       }
     },
     {
@@ -170,7 +170,7 @@
     },
     {
       "type": "youtube",
-      "url": "https://www.youtube.com/s/player/fb725ac8/player_ias.vflset/en_US/remote.js",
+      "url": "https://www.youtube.com/s/player/4e23410d/player_ias.vflset/en_US/remote.js",
       "details": {
         "id": "youtube",
         "message": "Dont embed youtube scripts, use peertube"
@@ -178,7 +178,7 @@
     },
     {
       "type": "google",
-      "url": "https://www.google.com/js/th/5YanC7r3SDSH0y4v5GfF4cr8sZMhP51iF7ltcz2BbbE.js",
+      "url": "https://www.google.com/js/th/PuB7oGltKecOij53fBhYlFeX0y0D4cx2uIMnP4ao6fo.js",
       "details": {
         "id": "google",
         "message": "Use hosted Matomo instance"
@@ -234,30 +234,6 @@
     },
     {
       "type": "google",
-      "url": "https://www.gstatic.com/cv/js/sender/v1/cast_sender.js",
-      "details": {
-        "id": "google",
-        "message": "Use hosted Matomo instance"
-      }
-    },
-    {
-      "type": "google",
-      "url": "https://play.google.com/log?format=json&hasfast=true&authuser=0",
-      "details": {
-        "id": "google",
-        "message": "Use hosted Matomo instance"
-      }
-    },
-    {
-      "type": "google",
-      "url": "https://play.google.com/log?format=json&hasfast=true&authuser=0",
-      "details": {
-        "id": "google",
-        "message": "Use hosted Matomo instance"
-      }
-    },
-    {
-      "type": "google",
       "url": "https://jnn-pa.googleapis.com/$rpc/google.internal.waa.v1.Waa/GenerateIT",
       "details": {
         "id": "google",
@@ -265,8 +241,32 @@
       }
     },
     {
+      "type": "google",
+      "url": "https://play.google.com/log?format=json&hasfast=true&authuser=0",
+      "details": {
+        "id": "google",
+        "message": "Use hosted Matomo instance"
+      }
+    },
+    {
+      "type": "google",
+      "url": "https://play.google.com/log?format=json&hasfast=true&authuser=0",
+      "details": {
+        "id": "google",
+        "message": "Use hosted Matomo instance"
+      }
+    },
+    {
+      "type": "google",
+      "url": "https://www.gstatic.com/cv/js/sender/v1/cast_sender.js",
+      "details": {
+        "id": "google",
+        "message": "Use hosted Matomo instance"
+      }
+    },
+    {
       "type": "youtube",
-      "url": "https://www.youtube.com/generate_204?03ggmw",
+      "url": "https://www.youtube.com/generate_204?No-G8Q",
       "details": {
         "id": "youtube",
         "message": "Dont embed youtube scripts, use peertube"
@@ -295,7 +295,7 @@
       "value": "1",
       "domain": "www.mrs.beta.gouv.fr",
       "path": "/",
-      "expires": 1730011578,
+      "expires": 1730615830,
       "size": 16,
       "httpOnly": false,
       "secure": false,
@@ -307,10 +307,10 @@
     },
     {
       "name": "_pk_id.40.3c86",
-      "value": "faeb0b886d004c88.1730009778.",
+      "value": "a458eb8b4cc9e0a9.1730614031.",
       "domain": "www.mrs.beta.gouv.fr",
       "path": "/",
-      "expires": 1763964978,
+      "expires": 1764569231,
       "size": 42,
       "httpOnly": false,
       "secure": false,
@@ -326,7 +326,7 @@
     "content-length": "12153",
     "content-security-policy": "default-src 'self' 'unsafe-inline' https://fonts.gstatic.com https://stats.data.gouv.fr https://cdnjs.cloudflare.com; frame-ancestors 'self'; upgrade-insecure-requests; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://code.jquery.com https://cdnjs.cloudflare.com https://stackpath.bootstrapcdn.com https://fonts.googleapis.com https://fonts.gstatic.com https://stats.data.gouv.fr https://cdn.ravenjs.com; frame-src 'self' https://www.youtube.com; base-uri 'self'; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com https://stackpath.bootstrapcdn.com https://cdnjs.cloudflare.com; img-src 'self' https://stats.data.gouv.fr; form-action 'self'",
     "content-type": "text/html; charset=utf-8",
-    "date": "Sun, 27 Oct 2024 06:16:17 GMT",
+    "date": "Sun, 03 Nov 2024 06:07:09 GMT",
     "referrer-policy": "same-origin",
     "strict-transport-security": "max-age=15768000; includeSubDomains; preload",
     "vary": "Accept-Language",
@@ -437,7 +437,7 @@
     },
     {
       "hostname": "fonts.googleapis.com",
-      "ip": "142.251.163.95",
+      "ip": "142.250.191.106",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -491,7 +491,7 @@
     },
     {
       "hostname": "cdn.ravenjs.com",
-      "ip": "151.101.130.217",
+      "ip": "151.101.194.217",
       "geoip": {
         "city": {
           "geoname_id": 5391959,
@@ -665,7 +665,7 @@
     },
     {
       "hostname": "www.youtube.com",
-      "ip": "142.251.163.91",
+      "ip": "172.217.5.14",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -719,7 +719,7 @@
     },
     {
       "hostname": "fonts.gstatic.com",
-      "ip": "142.251.163.94",
+      "ip": "172.217.2.35",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -773,7 +773,7 @@
     },
     {
       "hostname": "googleads.g.doubleclick.net",
-      "ip": "142.251.16.156",
+      "ip": "142.250.191.162",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -827,7 +827,7 @@
     },
     {
       "hostname": "static.doubleclick.net",
-      "ip": "172.253.115.148",
+      "ip": "142.250.190.134",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -881,7 +881,7 @@
     },
     {
       "hostname": "jnn-pa.googleapis.com",
-      "ip": "172.253.62.95",
+      "ip": "172.217.5.10",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -935,7 +935,7 @@
     },
     {
       "hostname": "www.google.com",
-      "ip": "142.251.179.103",
+      "ip": "172.217.5.4",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -989,7 +989,7 @@
     },
     {
       "hostname": "i.ytimg.com",
-      "ip": "142.251.111.119",
+      "ip": "142.250.191.214",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -1043,7 +1043,7 @@
     },
     {
       "hostname": "yt3.ggpht.com",
-      "ip": "142.251.167.132",
+      "ip": "172.217.2.33",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -1097,7 +1097,7 @@
     },
     {
       "hostname": "play.google.com",
-      "ip": "172.253.63.138",
+      "ip": "142.250.191.110",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -1151,7 +1151,7 @@
     },
     {
       "hostname": "www.gstatic.com",
-      "ip": "64.233.180.94",
+      "ip": "172.217.1.99",
       "geoip": {
         "continent": {
           "code": "NA",
