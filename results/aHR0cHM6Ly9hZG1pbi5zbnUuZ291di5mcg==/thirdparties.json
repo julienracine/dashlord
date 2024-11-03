@@ -20,11 +20,11 @@
   "cookies": [
     {
       "name": "bln_challengejs",
-      "value": "I5JEFvNTVAn80JR1YNwDdoKe64_WwLqGKhTTNEmV70fvAwrCuUEl6BSHsgMdBRElNxu_775Sbgui2ZnUvHWRDZHg7SXK7LcjMitS7XZt2tIiqdsSHD7UWkb5-67QTIKz6PmXeSS-sgRs0DM2OS0X0b0wzSlfE_r6P6r6h9ypaN2qBTczpE2w8hswU8hvMo_Y0W4WU4XvPDRxWartqpv-Xm5TwMLke8PyUD00BZIkUAwYta9ZC1egk9Fk1f2RQ2vD7oR1L9-bFudRgLM7JQkTtU66M4LHcIqETlv0aIGotP8",
+      "value": "hGOWOuGFTAcVnUS-S8YRQVSV6Kpl53_cK2UDKHJ6cspwELgjVDJwgUxKMHT8ExqFty9V6jE8Tlf0I52d4taIqfWQnbwdWThxTYL1dWndie78gu4ljRigpjRMdDagGgNyLTvKlMSP7rvq_DxJU-TIsJFzb3WsQvE2IAhUbIAjrHiCLV3KytPdEH3Z1MaHZB_EfvawWphOh6gNSacGshmAG9EHDKQPqZiV0_LCPj5EvarBq_X2mLY_p_iavKWE-0tlVJ3QTk-NRcQGCGubN7f-btE-jHVWiVhPC_KrQ7V8sE7bKG2YnQ6aDuoszUP7VIf7",
       "domain": ".snu.gouv.fr",
       "path": "/",
-      "expires": 1730025056.018365,
-      "size": 314,
+      "expires": 1730629616.440218,
+      "size": 335,
       "httpOnly": false,
       "secure": true,
       "session": false,
@@ -37,11 +37,11 @@
   "headers": {
     "content-encoding": "gzip",
     "content-type": "text/html",
-    "date": "Sun, 27 Oct 2024 10:15:56 GMT",
-    "etag": "W/\"671b74a6-c4c\"",
-    "last-modified": "Fri, 25 Oct 2024 10:36:22 GMT",
+    "date": "Sun, 03 Nov 2024 10:11:56 GMT",
+    "etag": "W/\"6720e28b-c4c\"",
+    "last-modified": "Tue, 29 Oct 2024 13:26:35 GMT",
     "referrer-policy": ": no-referrer",
-    "sozu-id": "01JB6QJSD4B0JXNAQ8HREH6VDZ",
+    "sozu-id": "01JBRR4FZHV97CY573XY9QW8VS",
     "strict-transport-security": ": max-age=31536000; includeSubDomains; preload",
     "x-content-type-options": ": nosniff",
     "x-download-options": ": noopen",
@@ -51,7 +51,7 @@
   "endpoints": [
     {
       "hostname": "admin.snu.gouv.fr",
-      "ip": "185.231.167.165",
+      "ip": "185.179.149.149",
       "geoip": {
         "continent": {
           "code": "EU",
@@ -107,19 +107,8 @@
     },
     {
       "hostname": "fonts.googleapis.com",
-      "ip": "142.250.31.95",
+      "ip": "172.253.115.95",
       "geoip": {
-        "city": {
-          "geoname_id": 5375480,
-          "names": {
-            "de": "Mountain View",
-            "en": "Mountain View",
-            "fr": "Mountain View",
-            "ja": "マウンテンビュー",
-            "ru": "Маунтин-Вью",
-            "zh-CN": "芒廷维尤"
-          }
-        },
         "continent": {
           "code": "NA",
           "geoname_id": 6255149,
@@ -149,14 +138,10 @@
           }
         },
         "location": {
-          "accuracy_radius": 20,
-          "latitude": 37.3891,
-          "longitude": -122.0867,
-          "metro_code": 807,
-          "time_zone": "America/Los_Angeles"
-        },
-        "postal": {
-          "code": "94035"
+          "accuracy_radius": 1000,
+          "latitude": 37.751,
+          "longitude": -97.822,
+          "time_zone": "America/Chicago"
         },
         "registered_country": {
           "geoname_id": 6252001,
@@ -171,39 +156,24 @@
             "ru": "США",
             "zh-CN": "美国"
           }
-        },
-        "subdivisions": [
-          {
-            "geoname_id": 5332921,
-            "iso_code": "CA",
-            "names": {
-              "de": "Kalifornien",
-              "en": "California",
-              "es": "California",
-              "fr": "Californie",
-              "ja": "カリフォルニア州",
-              "pt-BR": "Califórnia",
-              "ru": "Калифорния",
-              "zh-CN": "加州"
-            }
-          }
-        ]
+        }
       }
     },
     {
       "hostname": "plausible.io",
-      "ip": "138.199.40.58",
+      "ip": "38.104.169.186",
       "geoip": {
         "city": {
-          "geoname_id": 5128581,
+          "geoname_id": 4460243,
           "names": {
-            "de": "New York City",
-            "en": "New York",
-            "es": "Nueva York",
-            "fr": "New York",
-            "ja": "ニューヨーク",
-            "pt-BR": "Nova Iorque",
-            "ru": "Нью-Йорк"
+            "de": "Charlotte",
+            "en": "Charlotte",
+            "es": "Charlotte",
+            "fr": "Charlotte",
+            "ja": "シャーロット",
+            "pt-BR": "Charlotte",
+            "ru": "Шарлотт",
+            "zh-CN": "夏洛特"
           }
         },
         "continent": {
@@ -236,41 +206,41 @@
         },
         "location": {
           "accuracy_radius": 20,
-          "latitude": 40.7123,
-          "longitude": -74.0068,
-          "metro_code": 501,
+          "latitude": 35.2316,
+          "longitude": -80.8428,
+          "metro_code": 517,
           "time_zone": "America/New_York"
         },
         "postal": {
-          "code": "10118"
+          "code": "28202"
         },
         "registered_country": {
-          "geoname_id": 2635167,
-          "iso_code": "GB",
+          "geoname_id": 6252001,
+          "iso_code": "US",
           "names": {
-            "de": "UK",
-            "en": "United Kingdom",
-            "es": "Reino Unido",
-            "fr": "Royaume-Uni",
-            "ja": "英国",
-            "pt-BR": "Reino Unido",
-            "ru": "Британия",
-            "zh-CN": "英国"
+            "de": "USA",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
           }
         },
         "subdivisions": [
           {
-            "geoname_id": 5128638,
-            "iso_code": "NY",
+            "geoname_id": 4482348,
+            "iso_code": "NC",
             "names": {
-              "de": "New York",
-              "en": "New York",
-              "es": "Nueva York",
-              "fr": "New York",
-              "ja": "ニューヨーク州",
-              "pt-BR": "Nova Iorque",
-              "ru": "Нью-Йорк",
-              "zh-CN": "纽约州"
+              "de": "North Carolina",
+              "en": "North Carolina",
+              "es": "Carolina del Norte",
+              "fr": "Caroline du Nord",
+              "ja": "ノースカロライナ州",
+              "pt-BR": "Carolina do Norte",
+              "ru": "Северная Каролина",
+              "zh-CN": "北卡罗来纳州"
             }
           }
         ]
@@ -323,7 +293,7 @@
           }
         },
         "location": {
-          "accuracy_radius": 1000,
+          "accuracy_radius": 500,
           "latitude": 41.9199,
           "longitude": 8.7424,
           "time_zone": "Europe/Paris"
