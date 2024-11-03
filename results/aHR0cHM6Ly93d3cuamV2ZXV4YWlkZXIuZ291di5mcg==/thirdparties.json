@@ -6,19 +6,11 @@
     },
     {
       "type": "unknown",
-      "url": "https://jeveuxaider.fra1.digitaloceanspaces.com/public/production/65523/responsive/SO5WGjkqsVxpLQ0rgI6cy57DsSTqzl___card_600_286.webp?v=1726046678"
-    },
-    {
-      "type": "unknown",
       "url": "https://jeveuxaider.fra1.digitaloceanspaces.com/public/production/12167/responsive/solidarite-et-insertion-3___card_600_286.webp?v=1650543615"
     },
     {
       "type": "unknown",
-      "url": "https://jeveuxaider.fra1.digitaloceanspaces.com/public/production/67882/responsive/wAA1ZLYFM9rlZ7ThyryMNdEGbJ9dJ3___card_600_286.webp?v=1727083523"
-    },
-    {
-      "type": "unknown",
-      "url": "https://jeveuxaider.fra1.digitaloceanspaces.com/public/production/8502/responsive/yum5mxEyIqQvL0O___card_600_286.webp?v=1650544269"
+      "url": "https://jeveuxaider.fra1.digitaloceanspaces.com/public/production/65523/responsive/SO5WGjkqsVxpLQ0rgI6cy57DsSTqzl___card_600_286.webp?v=1726046678"
     },
     {
       "type": "unknown",
@@ -26,7 +18,7 @@
     },
     {
       "type": "unknown",
-      "url": "https://jeveuxaider.fra1.digitaloceanspaces.com/public/production/8498/responsive/kL3U82CKaXASTcL___card_600_286.webp?v=1650544220"
+      "url": "https://jeveuxaider.fra1.digitaloceanspaces.com/public/production/8502/responsive/yum5mxEyIqQvL0O___card_600_286.webp?v=1650544269"
     },
     {
       "type": "unknown",
@@ -35,6 +27,10 @@
     {
       "type": "unknown",
       "url": "https://jeveuxaider.fra1.digitaloceanspaces.com/public/production/8501/responsive/x6b4YESmwJ786qO___card_600_286.webp?v=1650544273"
+    },
+    {
+      "type": "unknown",
+      "url": "https://jeveuxaider.fra1.digitaloceanspaces.com/public/production/8470/responsive/34GhCAUYCCJ7Php___card_600_286.webp?v=1650544086"
     },
     {
       "type": "google tag manager",
@@ -62,7 +58,7 @@
     },
     {
       "type": "unknown",
-      "url": "https://plausible.io/api/event"
+      "url": "https://gqlg3qh7po-dsn.algolia.net/1/indexes/prod_scalingo_covid_missions/query?x-algolia-agent=Algolia%20for%20JavaScript%20(4.24.0)%3B%20Browser"
     },
     {
       "type": "unknown",
@@ -70,11 +66,15 @@
     },
     {
       "type": "unknown",
-      "url": "https://static.axept.io/sdk.js"
+      "url": "https://jeveuxaider.fra1.digitaloceanspaces.com/public/production/30331/responsive/ntYcHt7wuT6QRsqf7QiO5JnMO7xIR6___card_600_286.webp?v=1674642755"
     },
     {
       "type": "unknown",
-      "url": "https://jeveuxaider.fra1.digitaloceanspaces.com/public/production/30331/responsive/ntYcHt7wuT6QRsqf7QiO5JnMO7xIR6___card_600_286.webp?v=1674642755"
+      "url": "https://plausible.io/api/event"
+    },
+    {
+      "type": "unknown",
+      "url": "https://static.axept.io/sdk.js"
     },
     {
       "type": "unknown",
@@ -90,18 +90,18 @@
     "alt-svc": "h3=\":443\"; ma=86400",
     "cache-control": "max-age=300\npublic, no-transform",
     "cf-cache-status": "DYNAMIC",
-    "cf-ray": "8d91fe907f1457d8-IAD",
+    "cf-ray": "8dcb98d3efb817e2-SJC",
     "content-encoding": "br",
-    "content-length": "49587",
+    "content-length": "49230",
     "content-type": "text/html;charset=utf-8",
-    "date": "Sun, 27 Oct 2024 10:27:35 GMT",
-    "expires": "Sun, 27 Oct 2024 10:32:35 GMT",
+    "date": "Sun, 03 Nov 2024 10:14:22 GMT",
+    "expires": "Sun, 03 Nov 2024 10:19:22 GMT",
     "server": "cloudflare",
     "server-timing": "cfCacheStatus;desc=\"DYNAMIC\"",
     "strict-transport-security": "max-age=31536000",
     "vary": "Accept-Encoding",
     "x-powered-by": "Nuxt",
-    "x-request-id": "b5c864ff-ce94-4b3c-b058-0380bd21c148\nb5c864ff-ce94-4b3c-b058-0380bd21c148"
+    "x-request-id": "b671b76a-f104-420f-9bca-e66e9ecdd2a1\nb671b76a-f104-420f-9bca-e66e9ecdd2a1"
   },
   "endpoints": [
     {
@@ -213,7 +213,7 @@
     },
     {
       "hostname": "www.googletagmanager.com",
-      "ip": "142.251.179.97",
+      "ip": "142.251.46.168",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -267,7 +267,7 @@
     },
     {
       "hostname": "gqlg3qh7po-dsn.algolia.net",
-      "ip": "5.196.83.169",
+      "ip": "37.187.157.100",
       "geoip": {
         "continent": {
           "code": "EU",
@@ -323,18 +323,18 @@
     },
     {
       "hostname": "plausible.io",
-      "ip": "138.199.40.58",
+      "ip": "169.150.221.147",
       "geoip": {
         "city": {
-          "geoname_id": 5128581,
+          "geoname_id": 5392171,
           "names": {
-            "de": "New York City",
-            "en": "New York",
-            "es": "Nueva York",
-            "fr": "New York",
-            "ja": "ニューヨーク",
-            "pt-BR": "Nova Iorque",
-            "ru": "Нью-Йорк"
+            "de": "San José",
+            "en": "San Jose",
+            "es": "San José",
+            "fr": "San José",
+            "ja": "サンノゼ",
+            "pt-BR": "San José",
+            "ru": "Сан-Хосе"
           }
         },
         "continent": {
@@ -367,13 +367,13 @@
         },
         "location": {
           "accuracy_radius": 20,
-          "latitude": 40.7123,
-          "longitude": -74.0068,
-          "metro_code": 501,
-          "time_zone": "America/New_York"
+          "latitude": 37.1835,
+          "longitude": -121.7714,
+          "metro_code": 807,
+          "time_zone": "America/Los_Angeles"
         },
         "postal": {
-          "code": "10118"
+          "code": "95141"
         },
         "registered_country": {
           "geoname_id": 2635167,
@@ -391,17 +391,17 @@
         },
         "subdivisions": [
           {
-            "geoname_id": 5128638,
-            "iso_code": "NY",
+            "geoname_id": 5332921,
+            "iso_code": "CA",
             "names": {
-              "de": "New York",
-              "en": "New York",
-              "es": "Nueva York",
-              "fr": "New York",
-              "ja": "ニューヨーク州",
-              "pt-BR": "Nova Iorque",
-              "ru": "Нью-Йорк",
-              "zh-CN": "纽约州"
+              "de": "Kalifornien",
+              "en": "California",
+              "es": "California",
+              "fr": "Californie",
+              "ja": "カリフォルニア州",
+              "pt-BR": "Califórnia",
+              "ru": "Калифорния",
+              "zh-CN": "加州"
             }
           }
         ]
@@ -409,7 +409,7 @@
     },
     {
       "hostname": "static.axept.io",
-      "ip": "3.167.112.41",
+      "ip": "13.227.74.20",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -463,7 +463,7 @@
     },
     {
       "hostname": "client.axept.io",
-      "ip": "18.160.18.86",
+      "ip": "13.35.121.10",
       "geoip": {
         "continent": {
           "code": "NA",
