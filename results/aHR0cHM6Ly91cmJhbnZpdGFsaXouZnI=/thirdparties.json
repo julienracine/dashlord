@@ -14,7 +14,7 @@
     },
     {
       "type": "unknown",
-      "url": "https://stats.recoconseil.fr/matomo.php?action_name=R%C3%A9habiliter%20une%20friche%20-%20UrbanVitaliz&idsite=2&rec=1&r=333105&h=17&m=13&s=34&url=https%3A%2F%2Furbanvitaliz.fr%2F&_id=7e77cb86c3e7c3fc&_idn=1&send_image=0&_refts=0&pv_id=GaDpUS&pf_net=318&pf_srv=219&pf_tfr=152&pf_dm1=1549&uadata=%7B%22fullVersionList%22%3A%5B%5D%2C%22mobile%22%3Afalse%2C%22model%22%3A%22%22%2C%22platform%22%3A%22%22%2C%22platformVersion%22%3A%22%22%7D&cookie=1&res=800x600"
+      "url": "https://stats.recoconseil.fr/matomo.php?action_name=R%C3%A9habiliter%20une%20friche%20-%20UrbanVitaliz&idsite=2&rec=1&r=817735&h=17&m=2&s=21&url=https%3A%2F%2Furbanvitaliz.fr%2F&_id=34deaeafbe5ad9d1&_idn=1&send_image=0&_refts=0&pv_id=3WLc4j&pf_net=281&pf_srv=199&pf_tfr=132&pf_dm1=1452&uadata=%7B%22fullVersionList%22%3A%5B%5D%2C%22mobile%22%3Afalse%2C%22model%22%3A%22%22%2C%22platform%22%3A%22%22%2C%22platformVersion%22%3A%22%22%7D&cookie=1&res=800x600"
     }
   ],
   "cookies": [
@@ -23,7 +23,7 @@
       "value": "1",
       "domain": "urbanvitaliz.fr",
       "path": "/",
-      "expires": 1730051014,
+      "expires": 1730655141,
       "size": 15,
       "httpOnly": false,
       "secure": false,
@@ -35,10 +35,10 @@
     },
     {
       "name": "_pk_id.2.30f1",
-      "value": "7e77cb86c3e7c3fc.1730049215.",
+      "value": "34deaeafbe5ad9d1.1730653341.",
       "domain": "urbanvitaliz.fr",
       "path": "/",
-      "expires": 1764004415,
+      "expires": 1764608541,
       "size": 41,
       "httpOnly": false,
       "secure": false,
@@ -50,10 +50,10 @@
     },
     {
       "name": "csrftoken",
-      "value": "YAJmW0SjyKSo1BOpBshz1fxruW5dE7II",
+      "value": "L592HCArX02T2rH2yOegpXZx6AlYfrKS",
       "domain": "urbanvitaliz.fr",
       "path": "/",
-      "expires": 1761498812.351555,
+      "expires": 1762102939.38862,
       "size": 41,
       "httpOnly": false,
       "secure": true,
@@ -68,9 +68,9 @@
     "content-length": "39757",
     "content-type": "text/html; charset=utf-8",
     "cross-origin-opener-policy": "same-origin",
-    "date": "Sun, 27 Oct 2024 17:13:32 GMT",
+    "date": "Sun, 03 Nov 2024 17:02:19 GMT",
     "referrer-policy": "same-origin",
-    "set-cookie": "csrftoken=YAJmW0SjyKSo1BOpBshz1fxruW5dE7II; expires=Sun, 26 Oct 2025 17:13:32 GMT; Max-Age=31449600; Path=/; SameSite=None; Secure",
+    "set-cookie": "csrftoken=L592HCArX02T2rH2yOegpXZx6AlYfrKS; expires=Sun, 02 Nov 2025 17:02:19 GMT; Max-Age=31449600; Path=/; SameSite=None; Secure",
     "strict-transport-security": "max-age=31536000; includeSubDomains",
     "vary": "Cookie",
     "via": "2.0 alproxy",
