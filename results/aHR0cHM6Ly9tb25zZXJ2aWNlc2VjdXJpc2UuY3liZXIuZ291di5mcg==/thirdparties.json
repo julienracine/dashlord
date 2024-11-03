@@ -15,7 +15,7 @@
       "value": "1",
       "domain": "monservicesecurise.cyber.gouv.fr",
       "path": "/",
-      "expires": 1730042489,
+      "expires": 1730646641,
       "size": 16,
       "httpOnly": false,
       "secure": false,
@@ -27,10 +27,10 @@
     },
     {
       "name": "_pk_id.28.a0cf",
-      "value": "6b7e055deb3aa62b.1730040690.",
+      "value": "bf50fb780dbaefb1.1730644841.",
       "domain": "monservicesecurise.cyber.gouv.fr",
       "path": "/",
-      "expires": 1763995890,
+      "expires": 1764600041,
       "size": 42,
       "httpOnly": false,
       "secure": false,
@@ -42,10 +42,10 @@
     },
     {
       "name": "bln_challengejs",
-      "value": "Jvn928rcYGR1fFTwFQ82b3OZaKlFX6w6gI0gmspfvoo7_AChq6PoZn83gOszw7jE9S9Qjt_9eBeHVuQsnC6ro8cHMm88yF6UDbGute7pWk-znXT6-ptYSCi7Lgkm0fQ6cLIFa48q5GsYxz0wVYBUyPBF4n2PLF1Qig8ZTEZUkMkqvkggFsGNviZ97VCguJ6wCsCqBarIB7j9IH2yNWEeDNJBEl_VCuZmUCA5fRocXMUoLKxrvusnT9nEH76e0w9xO6rXip_96glsIGub5kQF4z8Ox8djMe6av_vD3gOWkhrNkMYa5l1Wby8xGNS6zl7k",
+      "value": "XEzFtk6KExWGfEclI8oTcD0OmX_IDW1kMDJrBf55VGm4VxsSnLIeBrZtz-Ez8XtlB7oetk0iwtX57_e_ZCJynQewOJivvsomD_V4t2o-gh5Yzwro1ZDKWv4COIHLnjzh6bK_H9QV80h83NQLpxgmL6pIdFLTVzFmtJ9IccGCvlyklrWHAwSweJ-VGUlSQNHHnKUivazXq8K4cMVgq3GxV-4tS9zp186oa12PtZAKrAbkMbzVLLM8T74JAIs9Jf7xya9JkZczQC61lRT7KbJf2HWr4CN3zr22p4WOYeVx49Msp80Ez8wa0U7SGAXesKO9",
       "domain": ".cyber.gouv.fr",
       "path": "/",
-      "expires": 1730041588.378146,
+      "expires": 1730645740.329018,
       "size": 335,
       "httpOnly": false,
       "secure": true,
@@ -62,19 +62,19 @@
     "content-encoding": "gzip",
     "content-security-policy": "default-src 'self'; connect-src 'self' https://stats.beta.gouv.fr/matomo.php; img-src 'self' https://storage.crisp.chat; media-src 'self' https://monservicesecurise-ressources.cellar-c2.services.clever-cloud.com; script-src 'self'",
     "content-type": "text/html; charset=utf-8",
-    "date": "Sun, 27 Oct 2024 14:51:28 GMT",
-    "etag": "W/\"6305-N5FWbsTsOM6Yt/u4s4cAkI9PylY\"",
+    "date": "Sun, 03 Nov 2024 14:40:40 GMT",
+    "etag": "W/\"6305-Pcn1BqTWJYG+OKbDfRrPBnpr26M\"",
     "referrer-policy": "no-referrer",
-    "set-cookie": "token=eyJfY3NyZlNlY3JldCI6IjVsWUcxVmRpM0NteUVRPT0iLCJtYWludGVuYW50IjoyODgzNDAxMX0=; path=/; expires=Sun, 27 Oct 2024 15:51:28 GMT; samesite=strict; secure; httponly\ntoken.sig=scqABoJV5nksO4jky_JNpYOBQRw; path=/; expires=Sun, 27 Oct 2024 15:51:28 GMT; samesite=strict; secure; httponly",
-    "sozu-id": "01JB77B9F8RT8069F2ACHH2149",
+    "set-cookie": "token=eyJfY3NyZlNlY3JldCI6ImVJS3V4QW45K0xYYnR3PT0iLCJtYWludGVuYW50IjoyODg0NDA4MH0=; path=/; expires=Sun, 03 Nov 2024 15:40:40 GMT; samesite=strict; secure; httponly\ntoken.sig=tKJqGm3sCv1SBI83mKEJlj0y_LE; path=/; expires=Sun, 03 Nov 2024 15:40:40 GMT; samesite=strict; secure; httponly",
+    "sozu-id": "01JBS7GK16N0QN0NXD3JMK9Q1W",
     "strict-transport-security": "max-age=63072000",
     "vary": "Accept-Encoding",
     "x-content-type-options": "nosniff",
     "x-frame-options": "deny",
     "x-ratelimit-limit": "600",
     "x-ratelimit-remaining": "599",
-    "x-ratelimit-reset": "1730040732",
-    "x-varnish": "10336563",
+    "x-ratelimit-reset": "1730644900",
+    "x-varnish": "5087681",
     "x-xss-protection": "1; mode=block"
   },
   "endpoints": [
@@ -136,8 +136,19 @@
     },
     {
       "hostname": "fonts.googleapis.com",
-      "ip": "172.217.12.106",
+      "ip": "172.253.63.95",
       "geoip": {
+        "city": {
+          "geoname_id": 5375480,
+          "names": {
+            "de": "Mountain View",
+            "en": "Mountain View",
+            "fr": "Mountain View",
+            "ja": "マウンテンビュー",
+            "ru": "Маунтин-Вью",
+            "zh-CN": "芒廷维尤"
+          }
+        },
         "continent": {
           "code": "NA",
           "geoname_id": 6255149,
@@ -167,10 +178,14 @@
           }
         },
         "location": {
-          "accuracy_radius": 1000,
-          "latitude": 37.751,
-          "longitude": -97.822,
-          "time_zone": "America/Chicago"
+          "accuracy_radius": 20,
+          "latitude": 37.3891,
+          "longitude": -122.0867,
+          "metro_code": 807,
+          "time_zone": "America/Los_Angeles"
+        },
+        "postal": {
+          "code": "94035"
         },
         "registered_country": {
           "geoname_id": 6252001,
@@ -185,7 +200,23 @@
             "ru": "США",
             "zh-CN": "美国"
           }
-        }
+        },
+        "subdivisions": [
+          {
+            "geoname_id": 5332921,
+            "iso_code": "CA",
+            "names": {
+              "de": "Kalifornien",
+              "en": "California",
+              "es": "California",
+              "fr": "Californie",
+              "ja": "カリフォルニア州",
+              "pt-BR": "Califórnia",
+              "ru": "Калифорния",
+              "zh-CN": "加州"
+            }
+          }
+        ]
       }
     }
   ]

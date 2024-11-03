@@ -346,7 +346,7 @@
               "ip"           : "monservicesecurise.cyber.gouv.fr/185.231.164.99",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "144 >= 60 days"
+              "finding"      : "137 >= 60 days"
           }
 ,         {
               "id"           : "cert_notBefore",
@@ -500,14 +500,14 @@
               "ip"           : "monservicesecurise.cyber.gouv.fr/185.231.164.99",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "-1 seconds from localtime"
+              "finding"      : "0 seconds from localtime"
           }
 ,         {
               "id"           : "HTTP_headerTime",
               "ip"           : "monservicesecurise.cyber.gouv.fr/185.231.164.99",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1730040804"
+              "finding"      : "1730644915"
           }
 ,         {
               "id"           : "HSTS_time",
@@ -1098,6 +1098,6 @@
               "ip"           : "monservicesecurise.cyber.gouv.fr/185.231.164.99",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "103"
+              "finding"      : "57"
           }
 ]
