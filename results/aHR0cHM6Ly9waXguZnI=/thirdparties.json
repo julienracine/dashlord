@@ -22,7 +22,7 @@
     },
     {
       "type": "unknown",
-      "url": "https://analytics.pix.fr/piwik.php?action_name=%2F&idsite=1&rec=1&r=872878&h=7&m=26&s=50&url=https%3A%2F%2Fpix.fr%2F&_id=8dca5f5bbe7cb7ad&_idn=1&send_image=0&_refts=0&cookie=1&res=800x600&pv_id=I5hUfi&pf_net=0&pf_srv=97&pf_tfr=66&pf_dm1=237&pf_dm2=363&pf_onl=0"
+      "url": "https://analytics.pix.fr/piwik.php?action_name=%2F&idsite=1&rec=1&r=894529&h=7&m=23&s=26&url=https%3A%2F%2Fpix.fr%2F&_id=4bd783d7022b6d3e&_idn=1&send_image=0&_refts=0&cookie=1&res=800x600&pv_id=mTKKOW&pf_net=0&pf_srv=129&pf_tfr=73&pf_dm1=250&pf_dm2=519&pf_onl=0"
     }
   ],
   "cookies": [
@@ -42,11 +42,11 @@
     },
     {
       "name": "challenge",
-      "value": "OrJnFulThd51IoOBsI_inZ1Dzp7CQJM7xRBVWgp7p_PXrX2Cy_XyJd_7hBd6xv6xrYcO2ieIqyj9oQxYib2eG1Dibudfshw8DjF-f_6m2e-tcf3ejZ-PR5AL0ie4Ci5nvKw_fmIjBFZr1SMGEUg6hdACWL-UAXLzvObBcCCOur42mN67PjMyah9TVUuCUc0I7GwX_OtcaHZOS-V5mNw2Wh-vdmTA1iUSFkOPJZ9HDfxuDUnzQbtWkgPDR7EhGwVghR1Ol3OnE-ZVFsExPm4zwRuh16zhLvIww_F3K6papag",
+      "value": "0KzLJF4f2oks6BJtWjZf4JM4Kv6pVsZ5FgxrdmH9bDFccqSOewqGbs94hYzkoDmr4WOAwF-mYV_67VhhMLiirv74iBSd6qOz7DyQwykHxzif6yb2bW3DVr_bLrbEHBQ-eQ6szsSuirY6D3y94GRD-FPZxUSZHDLFXp4Plfpm9CLDhc7XD4tV8-yn_WcLT4vAQrwDjzHTTuNou9s_mhSHVDYr_Jb7ZKzpXCTn7El9PRHRjYJry2rUx_NAkN_Quzzop0X-MRM1vZbXR7CuWBmRwxP6v8neDjZ4tQ3ZZEqlGCxCTJC7xBf4I3gX6sFW8bRi",
       "domain": ".pix.fr",
       "path": "/",
-      "expires": 1730017609.535321,
-      "size": 308,
+      "expires": 1730622205.263071,
+      "size": 329,
       "httpOnly": false,
       "secure": true,
       "session": false,
@@ -61,22 +61,22 @@
     "age": "0",
     "content-encoding": "gzip",
     "content-type": "text/html; charset=utf-8",
-    "date": "Sun, 27 Oct 2024 07:26:49 GMT",
-    "etag": "W/\"671b52db-214f0\"",
-    "last-modified": "Fri, 25 Oct 2024 08:12:11 GMT",
+    "date": "Sun, 03 Nov 2024 07:23:25 GMT",
+    "etag": "W/\"67240c4d-214f0\"",
+    "last-modified": "Thu, 31 Oct 2024 23:01:33 GMT",
     "referrer-policy": "origin-when-cross-origin",
     "strict-transport-security": "max-age=31536000",
     "vary": "Accept-Encoding",
     "x-content-type-options": "nosniff",
     "x-frame-options": "DENY",
-    "x-request-id": "b62e8aa193c3da41a2d09d21e1508864",
-    "x-varnish": "165781324",
+    "x-request-id": "8e09181beafc6690407656a57bcdfb2e",
+    "x-varnish": "205274723",
     "x-xss-protection": "1; mode=block"
   },
   "endpoints": [
     {
       "hostname": "pix.fr",
-      "ip": "185.179.149.141",
+      "ip": "185.231.167.141",
       "geoip": {
         "continent": {
           "code": "EU",
@@ -132,7 +132,7 @@
     },
     {
       "hostname": "fonts.googleapis.com",
-      "ip": "172.253.122.95",
+      "ip": "172.217.0.170",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -283,7 +283,7 @@
     },
     {
       "hostname": "static.cdn.prismic.io",
-      "ip": "99.84.191.5",
+      "ip": "13.32.164.96",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -337,7 +337,7 @@
     },
     {
       "hostname": "pix-site.prismic.io",
-      "ip": "54.90.83.135",
+      "ip": "44.205.93.30",
       "geoip": {
         "city": {
           "geoname_id": 4744870,
