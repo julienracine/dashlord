@@ -34,22 +34,6 @@
     },
     {
       "type": "google fonts",
-      "url": "https://fonts.gstatic.com/s/worksans/v19/QGYsz_wNahGAdqQ43Rh_fKDp.woff2",
-      "details": {
-        "id": "google fonts",
-        "message": "Host the font locally with https://github.com/neverpanic/google-font-download or https://google-webfonts-helper.herokuapp.com/"
-      }
-    },
-    {
-      "type": "Mailjet",
-      "url": "https://jxtj.mjt.lu/wgt/jxtj/n9i/form?c=eb87c80a",
-      "details": {
-        "id": "Mailjet",
-        "message": "Use hosted Matomo instance"
-      }
-    },
-    {
-      "type": "google fonts",
       "url": "https://fonts.gstatic.com/s/quicksand/v31/6xKtdSZaM9iE8KbpRA_hK1QN.woff2",
       "details": {
         "id": "google fonts",
@@ -66,10 +50,18 @@
     },
     {
       "type": "google fonts",
-      "url": "https://fonts.gstatic.com/s/robotoslab/v34/BngMUXZYTXPIvIBgJJSb6ufN5qU.woff2",
+      "url": "https://fonts.gstatic.com/s/worksans/v19/QGYsz_wNahGAdqQ43Rh_fKDp.woff2",
       "details": {
         "id": "google fonts",
         "message": "Host the font locally with https://github.com/neverpanic/google-font-download or https://google-webfonts-helper.herokuapp.com/"
+      }
+    },
+    {
+      "type": "Mailjet",
+      "url": "https://jxtj.mjt.lu/wgt/jxtj/n9i/form?c=eb87c80a",
+      "details": {
+        "id": "Mailjet",
+        "message": "Use hosted Matomo instance"
       }
     },
     {
@@ -91,14 +83,6 @@
     {
       "type": "google fonts",
       "url": "https://fonts.gstatic.com/s/roboto/v32/KFOlCnqEu92Fr1MmEU9fBBc4.woff2",
-      "details": {
-        "id": "google fonts",
-        "message": "Host the font locally with https://github.com/neverpanic/google-font-download or https://google-webfonts-helper.herokuapp.com/"
-      }
-    },
-    {
-      "type": "google fonts",
-      "url": "https://fonts.gstatic.com/s/robotoslab/v34/BngMUXZYTXPIvIBgJJSb6ufN5qU.woff2",
       "details": {
         "id": "google fonts",
         "message": "Host the font locally with https://github.com/neverpanic/google-font-download or https://google-webfonts-helper.herokuapp.com/"
@@ -122,7 +106,7 @@
     },
     {
       "type": "youtube",
-      "url": "https://www.youtube.com/s/player/fb725ac8/www-widgetapi.vflset/www-widgetapi.js",
+      "url": "https://www.youtube.com/s/player/4e23410d/www-widgetapi.vflset/www-widgetapi.js",
       "details": {
         "id": "youtube",
         "message": "Dont embed youtube scripts, use peertube"
@@ -138,7 +122,7 @@
     },
     {
       "type": "youtube",
-      "url": "https://www.youtube.com/s/player/fb725ac8/www-player.css",
+      "url": "https://www.youtube.com/s/player/4e23410d/www-player.css",
       "details": {
         "id": "youtube",
         "message": "Dont embed youtube scripts, use peertube"
@@ -146,7 +130,7 @@
     },
     {
       "type": "youtube",
-      "url": "https://www.youtube.com/s/player/fb725ac8/player_ias.vflset/en_US/embed.js",
+      "url": "https://www.youtube.com/s/player/4e23410d/player_ias.vflset/en_US/embed.js",
       "details": {
         "id": "youtube",
         "message": "Dont embed youtube scripts, use peertube"
@@ -154,7 +138,7 @@
     },
     {
       "type": "youtube",
-      "url": "https://www.youtube.com/s/player/fb725ac8/www-embed-player.vflset/www-embed-player.js",
+      "url": "https://www.youtube.com/s/player/4e23410d/www-embed-player.vflset/www-embed-player.js",
       "details": {
         "id": "youtube",
         "message": "Dont embed youtube scripts, use peertube"
@@ -162,7 +146,7 @@
     },
     {
       "type": "youtube",
-      "url": "https://www.youtube.com/s/player/fb725ac8/player_ias.vflset/en_US/base.js",
+      "url": "https://www.youtube.com/s/player/4e23410d/player_ias.vflset/en_US/base.js",
       "details": {
         "id": "youtube",
         "message": "Dont embed youtube scripts, use peertube"
@@ -234,7 +218,7 @@
     },
     {
       "type": "youtube",
-      "url": "https://www.youtube.com/s/player/fb725ac8/player_ias.vflset/en_US/remote.js",
+      "url": "https://www.youtube.com/s/player/4e23410d/player_ias.vflset/en_US/remote.js",
       "details": {
         "id": "youtube",
         "message": "Dont embed youtube scripts, use peertube"
@@ -242,7 +226,7 @@
     },
     {
       "type": "google",
-      "url": "https://www.google.com/js/th/Nah9UXLmpETh3cZd5s9jkmhwr1LJoEjkklvCdqmvRdQ.js",
+      "url": "https://www.google.com/js/th/oaN9p9ErDXjgj4rAJcHCz-KULBJKpaVItbvb-FJMKhE.js",
       "details": {
         "id": "google",
         "message": "Use hosted Matomo instance"
@@ -330,7 +314,7 @@
     },
     {
       "type": "youtube",
-      "url": "https://www.youtube.com/generate_204?VHKMIw",
+      "url": "https://www.youtube.com/generate_204?rlxqtg",
       "details": {
         "id": "youtube",
         "message": "Dont embed youtube scripts, use peertube"
@@ -359,7 +343,7 @@
       "value": "1",
       "domain": "eva.beta.gouv.fr",
       "path": "/",
-      "expires": 1730035898,
+      "expires": 1730640602,
       "size": 17,
       "httpOnly": false,
       "secure": false,
@@ -371,10 +355,10 @@
     },
     {
       "name": "_pk_id.100.5821",
-      "value": "586105e0e0bc451a.1730034098.",
+      "value": "9c5ad04b85d72ecb.1730638802.",
       "domain": "eva.beta.gouv.fr",
       "path": "/",
-      "expires": 1763989298,
+      "expires": 1764594002,
       "size": 43,
       "httpOnly": false,
       "secure": false,
@@ -388,7 +372,7 @@
   "headers": {
     "content-encoding": "br",
     "content-type": "text/html; charset=UTF-8",
-    "date": "Sun, 27 Oct 2024 13:01:37 GMT",
+    "date": "Sun, 03 Nov 2024 13:00:01 GMT",
     "link": "<https://eva.beta.gouv.fr/wp-json/>; rel=\"https://api.w.org/\", <https://eva.beta.gouv.fr/wp-json/wp/v2/pages/407>; rel=\"alternate\"; type=\"application/json\", <https://eva.beta.gouv.fr/>; rel=shortlink",
     "server": "Apache",
     "vary": "Accept-Encoding",
@@ -453,7 +437,7 @@
     },
     {
       "hostname": "fonts.googleapis.com",
-      "ip": "64.233.180.95",
+      "ip": "142.251.179.95",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -593,19 +577,8 @@
     },
     {
       "hostname": "fonts.gstatic.com",
-      "ip": "142.250.31.94",
+      "ip": "142.251.16.94",
       "geoip": {
-        "city": {
-          "geoname_id": 5375480,
-          "names": {
-            "de": "Mountain View",
-            "en": "Mountain View",
-            "fr": "Mountain View",
-            "ja": "マウンテンビュー",
-            "ru": "Маунтин-Вью",
-            "zh-CN": "芒廷维尤"
-          }
-        },
         "continent": {
           "code": "NA",
           "geoname_id": 6255149,
@@ -635,14 +608,10 @@
           }
         },
         "location": {
-          "accuracy_radius": 20,
-          "latitude": 37.3891,
-          "longitude": -122.0867,
-          "metro_code": 807,
-          "time_zone": "America/Los_Angeles"
-        },
-        "postal": {
-          "code": "94035"
+          "accuracy_radius": 1000,
+          "latitude": 37.751,
+          "longitude": -97.822,
+          "time_zone": "America/Chicago"
         },
         "registered_country": {
           "geoname_id": 6252001,
@@ -657,23 +626,7 @@
             "ru": "США",
             "zh-CN": "美国"
           }
-        },
-        "subdivisions": [
-          {
-            "geoname_id": 5332921,
-            "iso_code": "CA",
-            "names": {
-              "de": "Kalifornien",
-              "en": "California",
-              "es": "California",
-              "fr": "Californie",
-              "ja": "カリフォルニア州",
-              "pt-BR": "Califórnia",
-              "ru": "Калифорния",
-              "zh-CN": "加州"
-            }
-          }
-        ]
+        }
       }
     },
     {
@@ -765,7 +718,7 @@
     },
     {
       "hostname": "www.youtube.com",
-      "ip": "142.251.111.91",
+      "ip": "142.251.179.136",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -819,7 +772,7 @@
     },
     {
       "hostname": "googleads.g.doubleclick.net",
-      "ip": "142.250.31.156",
+      "ip": "172.253.115.155",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -873,7 +826,7 @@
     },
     {
       "hostname": "static.doubleclick.net",
-      "ip": "172.253.115.148",
+      "ip": "142.251.179.149",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -927,19 +880,8 @@
     },
     {
       "hostname": "jnn-pa.googleapis.com",
-      "ip": "172.253.63.95",
+      "ip": "64.233.180.95",
       "geoip": {
-        "city": {
-          "geoname_id": 5375480,
-          "names": {
-            "de": "Mountain View",
-            "en": "Mountain View",
-            "fr": "Mountain View",
-            "ja": "マウンテンビュー",
-            "ru": "Маунтин-Вью",
-            "zh-CN": "芒廷维尤"
-          }
-        },
         "continent": {
           "code": "NA",
           "geoname_id": 6255149,
@@ -969,14 +911,10 @@
           }
         },
         "location": {
-          "accuracy_radius": 20,
-          "latitude": 37.3891,
-          "longitude": -122.0867,
-          "metro_code": 807,
-          "time_zone": "America/Los_Angeles"
-        },
-        "postal": {
-          "code": "94035"
+          "accuracy_radius": 1000,
+          "latitude": 37.751,
+          "longitude": -97.822,
+          "time_zone": "America/Chicago"
         },
         "registered_country": {
           "geoname_id": 6252001,
@@ -991,28 +929,12 @@
             "ru": "США",
             "zh-CN": "美国"
           }
-        },
-        "subdivisions": [
-          {
-            "geoname_id": 5332921,
-            "iso_code": "CA",
-            "names": {
-              "de": "Kalifornien",
-              "en": "California",
-              "es": "California",
-              "fr": "Californie",
-              "ja": "カリフォルニア州",
-              "pt-BR": "Califórnia",
-              "ru": "Калифорния",
-              "zh-CN": "加州"
-            }
-          }
-        ]
+        }
       }
     },
     {
       "hostname": "www.google.com",
-      "ip": "172.253.115.105",
+      "ip": "172.253.122.147",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -1120,7 +1042,7 @@
     },
     {
       "hostname": "yt3.ggpht.com",
-      "ip": "172.253.122.132",
+      "ip": "142.251.179.132",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -1174,7 +1096,7 @@
     },
     {
       "hostname": "www.gstatic.com",
-      "ip": "142.251.163.94",
+      "ip": "142.251.16.94",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -1228,7 +1150,7 @@
     },
     {
       "hostname": "play.google.com",
-      "ip": "142.251.179.139",
+      "ip": "142.251.179.101",
       "geoip": {
         "continent": {
           "code": "NA",
